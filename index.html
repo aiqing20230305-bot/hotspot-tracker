@@ -461,6 +461,46 @@
         .content-link:hover {
             text-decoration: underline;
         }
+        
+        /* 浏览链接 */
+        .browse-links {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+        }
+        
+        .browse-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        
+        .browse-link:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .browse-link.douyin {
+            background: #1C1C1C;
+            color: white;
+        }
+        
+        .browse-link.xiaohongshu {
+            background: #FF2442;
+            color: white;
+        }
+        
+        .browse-link.bilibili {
+            background: #00A1D6;
+            color: white;
+        }
     </style>
 </head>
 <body>
@@ -938,6 +978,11 @@
                             <span>🔥 借势：机器狼群热点</span>
                             <span>📊 预估：16,666+</span>
                         </div>
+                        <div class="browse-links">
+                            <a href="https://www.douyin.com/search/%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%84" target="_blank" class="browse-link douyin">📱 抖音浏览</a>
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
+                            <a href="https://search.bilibili.com/all?keyword=%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%84" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
+                        </div>
                         <button class="script-btn" onclick="showScript('荣耀手机测评脚本')">📄 生成视频脚本</button>
                     </div>
                     <div class="idea-item">
@@ -949,6 +994,11 @@
                             <span>🔥 借势：春季数码好物</span>
                             <span>📊 预估：8,333+</span>
                         </div>
+                        <div class="browse-links">
+                            <a href="https://www.douyin.com/search/%E7%BD%97%E6%8A%80%E9%94%AE%E9%BC%A0" target="_blank" class="browse-link douyin">📱 抖音浏览</a>
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=%E7%BD%97%E6%8A%80%E9%94%AE%E9%BC%A0" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
+                            <a href="https://search.bilibili.com/all?keyword=%E7%BD%97%E6%8A%80%E9%94%AE%E9%BC%A0" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
+                        </div>
                         <button class="script-btn" onclick="showScript('罗技键鼠脚本')">📄 生成图文脚本</button>
                     </div>
                     <div class="idea-item">
@@ -959,6 +1009,11 @@
                             <span>🎯 科技热点</span>
                             <span>🔥 借势：机器狼群热点</span>
                             <span>📊 预估：5,000+</span>
+                        </div>
+                        <div class="browse-links">
+                            <a href="https://www.douyin.com/search/%E6%9C%BA%E5%99%A8%E7%8B%BC%E7%BE%A4" target="_blank" class="browse-link douyin">📱 抖音浏览</a>
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=%E6%9C%BA%E5%99%A8%E7%8B%BC" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
+                            <a href="https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E7%8B%BC%E7%BE%A4" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
                         </div>
                         <button class="script-btn" onclick="showScript('荣耀科技热点脚本')">📄 生成视频脚本</button>
                     </div>
@@ -983,6 +1038,11 @@
                             <span>🔥 借势：粉彩妆容TOP1热点</span>
                             <span>📊 预估：8,333+</span>
                         </div>
+                        <div class="browse-links">
+                            <a href="https://www.douyin.com/search/AHC%E6%B0%B4%E4%B9%B3" target="_blank" class="browse-link douyin">📱 抖音浏览</a>
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=AHC%E6%B0%B4%E4%B9%B3" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
+                            <a href="https://search.bilibili.com/all?keyword=AHC%E6%B0%B4%E4%B9%B3" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
+                        </div>
                         <button class="script-btn" onclick="showScript('AHC测评脚本')">📄 生成图文脚本</button>
                     </div>
                     <div class="idea-item">
@@ -994,6 +1054,11 @@
                             <span>🔥 借势：春日穿搭3.2亿浏览</span>
                             <span>📊 预估：16,666+</span>
                         </div>
+                        <div class="browse-links">
+                            <a href="https://www.douyin.com/search/%E5%A4%9A%E8%8A%AC%E6%B2%90%E6%B5%B4%E9%9C%B2" target="_blank" class="browse-link douyin">📱 抖音浏览</a>
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=%E5%A4%9A%E8%8A%AC%E6%B2%90%E6%B5%B4%E9%9C%B2" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
+                            <a href="https://search.bilibili.com/all?keyword=%E5%A4%9A%E8%8A%AC%E6%B2%90%E6%B5%B4%E9%9C%B2" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
+                        </div>
                         <button class="script-btn" onclick="showScript('多芬教程脚本')">📄 生成视频脚本</button>
                     </div>
                     <div class="idea-item">
@@ -1004,6 +1069,11 @@
                             <span>🎯 场景植入</span>
                             <span>🔥 借势：春季护肤2.1亿浏览</span>
                             <span>📊 预估：8,333+</span>
+                        </div>
+                        <div class="browse-links">
+                            <a href="https://www.douyin.com/search/%E5%8A%9B%E5%A3%AB%E6%B4%97%E5%8F%91%E6%B0%B4" target="_blank" class="browse-link douyin">📱 抖音浏览</a>
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=%E5%8A%9B%E5%A3%AB%E6%B4%97%E5%8F%91%E6%B0%B4" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
+                            <a href="https://search.bilibili.com/all?keyword=%E5%8A%9B%E5%A3%AB%E6%B4%97%E5%8F%91%E6%B0%B4" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
                         </div>
                         <button class="script-btn" onclick="showScript('力士场景脚本')">📄 生成图文脚本</button>
                     </div>
