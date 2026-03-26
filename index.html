@@ -350,25 +350,49 @@
             margin-left: 44px;
         }
         
-        .hot-topic-detail.active {
+        .hot-topic-detail.active,
+        .hot-topic-item.expanded .hot-topic-detail {
             display: block;
         }
         
         .detail-row {
             display: flex;
-            margin-bottom: 8px;
-            font-size: 13px;
+            margin-bottom: 10px;
+            font-size: 14px;
+            align-items: flex-start;
+            line-height: 1.5;
         }
         
         .detail-label {
             color: var(--gray-600);
-            width: 80px;
+            width: 100px;
             flex-shrink: 0;
+            font-weight: 600;
         }
         
         .detail-value {
             color: var(--gray-800);
             flex: 1;
+        }
+        
+        .content-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 6px 12px;
+            background: var(--primary);
+            color: white !important;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+        
+        .content-link:hover {
+            background: var(--primary-dark);
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
         }
         
         .related-clients {
