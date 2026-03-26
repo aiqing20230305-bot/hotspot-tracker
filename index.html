@@ -502,6 +502,35 @@
             color: white;
         }
         
+        /* 脚本标签页 */
+        .script-tabs {
+            display: flex;
+            background: var(--gray-100);
+            border-bottom: 1px solid var(--gray-200);
+        }
+        
+        .script-tab {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            background: transparent;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-600);
+            transition: all 0.2s;
+        }
+        
+        .script-tab:hover {
+            background: var(--gray-200);
+        }
+        
+        .script-tab.active {
+            background: white;
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+        }
+        
         /* 热点逻辑分析 */
         .logic-section {
             background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%);
@@ -1052,7 +1081,7 @@
                             <a href="https://www.xiaohongshu.com/search_result?keyword=%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
                             <a href="https://search.bilibili.com/all?keyword=%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%84" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
                         </div>
-                        <button class="script-btn" onclick="showScript('荣耀手机测评脚本')">📄 生成视频脚本</button>
+                        <button class="script-btn" onclick="showScript('荣耀手机测评脚本')">📄 生成内容脚本</button>
                     </div>
                     <div class="idea-item">
                         <div class="idea-title">《春季数码好物 - 罗技键鼠》</div>
@@ -1068,7 +1097,7 @@
                             <a href="https://www.xiaohongshu.com/search_result?keyword=%E7%BD%97%E6%8A%80%E9%94%AE%E9%BC%A0" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
                             <a href="https://search.bilibili.com/all?keyword=%E7%BD%97%E6%8A%80%E9%94%AE%E9%BC%A0" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
                         </div>
-                        <button class="script-btn" onclick="showScript('罗技键鼠脚本')">📄 生成图文脚本</button>
+                        <button class="script-btn" onclick="showScript('罗技键鼠脚本')">📄 生成内容脚本</button>
                     </div>
                     <div class="idea-item">
                         <div class="idea-title">《中国机器狼群巷战画面首次公开 - 荣耀手机》</div>
@@ -1084,7 +1113,7 @@
                             <a href="https://www.xiaohongshu.com/search_result?keyword=%E6%9C%BA%E5%99%A8%E7%8B%BC" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
                             <a href="https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E7%8B%BC%E7%BE%A4" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
                         </div>
-                        <button class="script-btn" onclick="showScript('荣耀科技热点脚本')">📄 生成视频脚本</button>
+                        <button class="script-btn" onclick="showScript('荣耀科技热点脚本')">📄 生成内容脚本</button>
                     </div>
                 </div>
             </div>
@@ -1112,7 +1141,7 @@
                             <a href="https://www.xiaohongshu.com/search_result?keyword=AHC%E6%B0%B4%E4%B9%B3" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
                             <a href="https://search.bilibili.com/all?keyword=AHC%E6%B0%B4%E4%B9%B3" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
                         </div>
-                        <button class="script-btn" onclick="showScript('AHC测评脚本')">📄 生成图文脚本</button>
+                        <button class="script-btn" onclick="showScript('AHC测评脚本')">📄 生成内容脚本</button>
                     </div>
                     <div class="idea-item">
                         <div class="idea-title">《春日穿搭OOTD教程，多芬沐浴露教你》</div>
@@ -1128,7 +1157,7 @@
                             <a href="https://www.xiaohongshu.com/search_result?keyword=%E5%A4%9A%E8%8A%AC%E6%B2%90%E6%B5%B4%E9%9C%B2" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
                             <a href="https://search.bilibili.com/all?keyword=%E5%A4%9A%E8%8A%AC%E6%B2%90%E6%B5%B4%E9%9C%B2" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
                         </div>
-                        <button class="script-btn" onclick="showScript('多芬教程脚本')">📄 生成视频脚本</button>
+                        <button class="script-btn" onclick="showScript('多芬教程脚本')">📄 生成内容脚本</button>
                     </div>
                     <div class="idea-item">
                         <div class="idea-title">《春季护肤攻略 - 力士洗发水》</div>
@@ -1144,7 +1173,7 @@
                             <a href="https://www.xiaohongshu.com/search_result?keyword=%E5%8A%9B%E5%A3%AB%E6%B4%97%E5%8F%91%E6%B0%B4" target="_blank" class="browse-link xiaohongshu">📕 小红书浏览</a>
                             <a href="https://search.bilibili.com/all?keyword=%E5%8A%9B%E5%A3%AB%E6%B4%97%E5%8F%91%E6%B0%B4" target="_blank" class="browse-link bilibili">📺 B站浏览</a>
                         </div>
-                        <button class="script-btn" onclick="showScript('力士场景脚本')">📄 生成图文脚本</button>
+                        <button class="script-btn" onclick="showScript('力士场景脚本')">📄 生成内容脚本</button>
                     </div>
                 </div>
             </div>
@@ -1167,7 +1196,7 @@
                             <span>🔥 借势：心血管健康热点</span>
                             <span>📊 预估：8,333+</span>
                         </div>
-                        <button class="script-btn" onclick="showScript('汤臣倍健科普脚本')">📄 生成图文脚本</button>
+                        <button class="script-btn" onclick="showScript('汤臣倍健科普脚本')">📄 生成内容脚本</button>
                     </div>
                     <div class="idea-item">
                         <div class="idea-title">《43岁不健身和61岁健身的区别 - 汤臣倍健蛋白粉》</div>
@@ -1178,7 +1207,7 @@
                             <span>🔥 借势：健身对比热点</span>
                             <span>📊 预估：16,666+</span>
                         </div>
-                        <button class="script-btn" onclick="showScript('汤臣倍健健身脚本')">📄 生成视频脚本</button>
+                        <button class="script-btn" onclick="showScript('汤臣倍健健身脚本')">📄 生成内容脚本</button>
                     </div>
                     <div class="idea-item">
                         <div class="idea-title">《春季养生食谱 - 汤臣倍健维C》</div>
@@ -1189,7 +1218,7 @@
                             <span>🔥 借势：春季养生9800万浏览</span>
                             <span>📊 预估：8,333+</span>
                         </div>
-                        <button class="script-btn" onclick="showScript('汤臣倍健养生脚本')">📄 生成图文脚本</button>
+                        <button class="script-btn" onclick="showScript('汤臣倍健养生脚本')">📄 生成内容脚本</button>
                     </div>
                 </div>
             </div>
@@ -1217,7 +1246,7 @@
                             <span>🔥 借势：春季焕新</span>
                             <span>📊 预估：13,333+</span>
                         </div>
-                        <button class="script-btn" onclick="showScript('HC清洁脚本')">📄 生成视频脚本</button>
+                        <button class="script-btn" onclick="showScript('HC清洁脚本')">📄 生成内容脚本</button>
                     </div>
                     <div class="idea-item">
                         <div class="idea-title">《春季家电焕新 - HC除菌喷雾》</div>
@@ -1228,7 +1257,7 @@
                             <span>🔥 借势：春季焕新</span>
                             <span>📊 预估：6,666+</span>
                         </div>
-                        <button class="script-btn" onclick="showScript('HC除菌脚本')">📄 生成图文脚本</button>
+                        <button class="script-btn" onclick="showScript('HC除菌脚本')">📄 生成内容脚本</button>
                     </div>
                     <div class="idea-item">
                         <div class="idea-title">《春季家电焕新 - HC清洁剂》</div>
@@ -1239,7 +1268,7 @@
                             <span>🔥 借势：春季焕新</span>
                             <span>📊 预估：13,333+</span>
                         </div>
-                        <button class="script-btn" onclick="showScript('HC好物脚本')">📄 生成视频脚本</button>
+                        <button class="script-btn" onclick="showScript('HC好物脚本')">📄 生成内容脚本</button>
                     </div>
                 </div>
             </div>
@@ -1267,7 +1296,7 @@
                             <span>🔥 借势：新能源车选购</span>
                             <span>📊 预估：3,333+</span>
                         </div>
-                        <button class="script-btn" onclick="showScript('大通房车脚本')">📄 生成图文脚本</button>
+                        <button class="script-btn" onclick="showScript('大通房车脚本')">📄 生成内容脚本</button>
                     </div>
                 </div>
             </div>
@@ -1278,8 +1307,12 @@
     <div class="script-modal" id="scriptModal">
         <div class="script-content">
             <div class="script-header">
-                <h3>📄 视频脚本</h3>
+                <h3>📄 内容脚本</h3>
                 <button class="close-btn" onclick="closeScript()">&times;</button>
+            </div>
+            <div class="script-tabs">
+                <button class="script-tab active" onclick="switchTab('video')" id="videoTab">🎬 视频脚本</button>
+                <button class="script-tab" onclick="switchTab('graphic')" id="graphicTab">📝 图文脚本</button>
             </div>
             <div class="script-body" id="scriptBody">
                 <!-- 脚本内容将在这里显示 -->
@@ -1322,39 +1355,67 @@
             }
         };
         
+        let currentScript = null;
+        let currentTab = 'video';
+        
         function showScript(scriptName) {
             const modal = document.getElementById('scriptModal');
-            const body = document.getElementById('scriptBody');
-            const script = scripts[scriptName] || {title: '脚本生成中...', content: '请稍后再试'};
+            currentScript = scripts[scriptName] || {title: '脚本生成中...', content: '请稍后再试'};
+            currentTab = 'video';
             
+            // 重置标签页
+            document.querySelectorAll('.script-tab').forEach(tab => tab.classList.remove('active'));
+            document.getElementById('videoTab').classList.add('active');
+            
+            renderScript();
+            modal.classList.add('active');
+        }
+        
+        function switchTab(tab) {
+            currentTab = tab;
+            document.querySelectorAll('.script-tab').forEach(t => t.classList.remove('active'));
+            document.getElementById(tab + 'Tab').classList.add('active');
+            renderScript();
+        }
+        
+        function renderScript() {
+            const body = document.getElementById('scriptBody');
             let html = '';
-            if (script.platform === '抖音') {
-                html += `<h4>🎬 ${script.platform}视频脚本 (${script.duration})</h4>`;
-                html += `<p><strong>BGM：</strong>${script.bgm}</p>`;
-                html += `<p><strong>Hook：</strong>${script.hook}</p>`;
+            
+            if (currentTab === 'video') {
+                // 视频脚本
+                html += `<h4>🎬 抖音视频脚本 (30秒)</h4>`;
+                html += `<p><strong>BGM：</strong>热门卡点音乐（节奏感强）</p>`;
+                html += `<p><strong>Hook：</strong>看完这篇不踩坑！</p>`;
                 html += '<h5>分镜脚本：</h5>';
                 html += '<table style="width:100%; border-collapse:collapse;">';
                 html += '<tr style="background:#f5f5f5;"><th style="padding:8px; border:1px solid #ddd;">时间</th><th style="padding:8px; border:1px solid #ddd;">文案</th><th style="padding:8px; border:1px solid #ddd;">画面</th></tr>';
-                script.scenes.forEach(scene => {
-                    html += `<tr><td style="padding:8px; border:1px solid #ddd;">${scene.time}</td><td style="padding:8px; border:1px solid #ddd;">${scene.content}</td><td style="padding:8px; border:1px solid #ddd;">${scene.visual}</td></tr>`;
-                });
+                html += '<tr><td style="padding:8px; border:1px solid #ddd;">0-3秒</td><td style="padding:8px; border:1px solid #ddd;">痛点引入：你是不是也在纠结？</td><td style="padding:8px; border:1px solid #ddd;">困惑表情+产品特写</td></tr>';
+                html += '<tr><td style="padding:8px; border:1px solid #ddd;">3-8秒</td><td style="padding:8px; border:1px solid #ddd;">产品展示：今天测评XXX</td><td style="padding:8px; border:1px solid #ddd;">产品360度展示</td></tr>';
+                html += '<tr><td style="padding:8px; border:1px solid #ddd;">8-20秒</td><td style="padding:8px; border:1px solid #ddd;">核心卖点：快速展示3个优点</td><td style="padding:8px; border:1px solid #ddd;">使用场景+效果对比</td></tr>';
+                html += '<tr><td style="padding:8px; border:1px solid #ddd;">20-25秒</td><td style="padding:8px; border:1px solid #ddd;">真实体验：亲测XX天，效果XXX</td><td style="padding:8px; border:1px solid #ddd;">前后对比图</td></tr>';
+                html += '<tr><td style="padding:8px; border:1px solid #ddd;">25-30秒</td><td style="padding:8px; border:1px solid #ddd;">CTA：你用过吗？评论区分享</td><td style="padding:8px; border:1px solid #ddd;">手持产品+引导关注</td></tr>';
                 html += '</table>';
-                html += `<p><strong>字幕：</strong>${script.textOverlay.join(' → ')}</p>`;
+                html += `<p><strong>字幕：</strong>痛点问题 → 产品名称 → 核心卖点1 → 核心卖点2 → 核心卖点3 → 实测效果</p>`;
             } else {
-                html += `<h4>📝 ${script.platform}图文脚本</h4>`;
-                html += `<p><strong>封面：</strong>${script.cover}</p>`;
+                // 图文脚本
+                html += `<h4>📝 小红书图文脚本</h4>`;
+                html += `<p><strong>封面：</strong>真实测评 | 不吹不黑</p>`;
                 html += '<h5>内容结构：</h5>';
                 html += '<ol>';
-                script.structure.forEach(item => {
-                    html += `<li><strong>${item.section}：</strong>${item.content}</li>`;
-                });
+                html += '<li><strong>标题：</strong>吸睛标题，包含关键词</li>';
+                html += '<li><strong>开篇：</strong>最近XXX很火，必须给大家测评一下</li>';
+                html += '<li><strong>产品展示：</strong>产品外观+细节图（3-5张）</li>';
+                html += '<li><strong>使用感受：</strong>优点：XXX<br>缺点：XXX<br>适合人群：XXX</li>';
+                html += '<li><strong>效果对比：</strong>使用前后对比图</li>';
+                html += '<li><strong>总结：</strong>值得买吗？我的建议是XXX</li>';
+                html += '<li><strong>CTA：</strong>你用过吗？评论区聊聊~</li>';
                 html += '</ol>';
-                html += `<p><strong>标签：</strong>${script.tags.join(' ')}</p>`;
-                html += `<p><strong>图片数：</strong>${script.imageCount}</p>`;
+                html += `<p><strong>标签：</strong>#测评 #真实体验 #好物推荐</p>`;
+                html += `<p><strong>图片数：</strong>6-9张</p>`;
             }
             
             body.innerHTML = html;
-            modal.classList.add('active');
         }
         
         function closeScript() {
