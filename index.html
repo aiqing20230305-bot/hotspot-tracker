@@ -403,6 +403,64 @@
         .hot-topic-item.expanded .expand-icon {
             transform: rotate(180deg);
         }
+        
+        /* 平台标识样式 */
+        .platform-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-right: 6px;
+        }
+        
+        .platform-badge.douyin {
+            background: #1C1C1C;
+            color: white;
+        }
+        
+        .platform-badge.xiaohongshu {
+            background: #FF2442;
+            color: white;
+        }
+        
+        .platform-badge.weibo {
+            background: #E6162D;
+            color: white;
+        }
+        
+        /* 分类标签 */
+        .category-tag {
+            display: inline-block;
+            padding: 2px 8px;
+            background: var(--gray-100);
+            color: var(--gray-600);
+            border-radius: 4px;
+            font-size: 11px;
+            margin-right: 6px;
+        }
+        
+        /* 热度标识 */
+        .heat-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            background: #FEE2E2;
+            color: #DC2626;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        
+        /* 内容链接 */
+        .content-link {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+        .content-link:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -433,13 +491,17 @@
         </div>
         
         <div class="hot-topics">
-            <h2>🔥 今日热点TOP5 <span style="font-size:14px;color:var(--gray-600);font-weight:normal;">(点击展开详情)</span></h2>
+            <h2>🔥 今日热点TOP10 <span style="font-size:14px;color:var(--gray-600);font-weight:normal;">(点击展开详情，点击🔗浏览内容)</span></h2>
             
             <div class="hot-topic-item" onclick="toggleTopic(this)">
                 <div class="rank top3">1</div>
                 <div class="topic-info">
                     <div class="topic-title">我的春日粉彩妆容公式 <span class="expand-icon">▼</span></div>
-                    <div class="topic-meta">抖音 | 美妆 | 🔥 1210万热度</div>
+                    <div class="topic-meta">
+                        <span class="platform-badge douyin">抖音</span>
+                        <span class="category-tag">美妆</span>
+                        <span class="heat-badge">🔥 1210万热度</span>
+                    </div>
                 </div>
                 <div class="heat-value">1210万</div>
                 <div class="hot-topic-detail">
@@ -459,6 +521,12 @@
                         <span class="detail-label">最佳发布时间：</span>
                         <span class="detail-value">12:00-14:00, 18:00-22:00</span>
                     </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.douyin.com/search/%E6%88%91%E7%9A%84%E6%98%A5%E6%97%A5%E7%B2%89%E5%BD%A9%E5%A6%86%E5%AE%B9%E5%85%AC%E5%BC%8F" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 抖音搜索浏览</a>
+                        </span>
+                    </div>
                     <div class="related-clients">
                         <div class="related-clients-title">💡 可借势客户：</div>
                         <span class="client-tag">快消-AHC</span>
@@ -472,7 +540,11 @@
                 <div class="rank top3">2</div>
                 <div class="topic-info">
                     <div class="topic-title">中国机器狼群巷战画面首次公开 <span class="expand-icon">▼</span></div>
-                    <div class="topic-meta">抖音 | 科技 | 🔥 1166万热度</div>
+                    <div class="topic-meta">
+                        <span class="platform-badge douyin">抖音</span>
+                        <span class="category-tag">科技</span>
+                        <span class="heat-badge">🔥 1166万热度</span>
+                    </div>
                 </div>
                 <div class="heat-value">1166万</div>
                 <div class="hot-topic-detail">
@@ -492,6 +564,12 @@
                         <span class="detail-label">最佳发布时间：</span>
                         <span class="detail-value">全天可发，晚间效果更佳</span>
                     </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E7%8B%BC%E7%BE%A4%E5%B7%B7%E6%88%98%E7%94%BB%E9%9D%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 抖音搜索浏览</a>
+                        </span>
+                    </div>
                     <div class="related-clients">
                         <div class="related-clients-title">💡 可借势客户：</div>
                         <span class="client-tag">3C数码-荣耀</span>
@@ -504,7 +582,11 @@
                 <div class="rank top3">3</div>
                 <div class="topic-info">
                     <div class="topic-title">我国又一次发射一箭双星 <span class="expand-icon">▼</span></div>
-                    <div class="topic-meta">抖音 | 科技 | 🔥 1091万热度</div>
+                    <div class="topic-meta">
+                        <span class="platform-badge douyin">抖音</span>
+                        <span class="category-tag">科技</span>
+                        <span class="heat-badge">🔥 1091万热度</span>
+                    </div>
                 </div>
                 <div class="heat-value">1091万</div>
                 <div class="hot-topic-detail">
@@ -524,6 +606,12 @@
                         <span class="detail-label">最佳发布时间：</span>
                         <span class="detail-value">早间7:00-9:00，晚间20:00-22:00</span>
                     </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%8F%88%E4%B8%80%E6%AC%A1%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%8F%8C%E6%98%9F" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 抖音搜索浏览</a>
+                        </span>
+                    </div>
                     <div class="related-clients">
                         <div class="related-clients-title">💡 可借势客户：</div>
                         <span class="client-tag">3C数码-荣耀</span>
@@ -535,8 +623,53 @@
             <div class="hot-topic-item" onclick="toggleTopic(this)">
                 <div class="rank normal">4</div>
                 <div class="topic-info">
+                    <div class="topic-title">王毅：只要谈起来和平就有希望 <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">
+                        <span class="platform-badge douyin">抖音</span>
+                        <span class="category-tag">时政</span>
+                        <span class="heat-badge">🔥 1084万热度</span>
+                    </div>
+                </div>
+                <div class="heat-value">1084万</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">📈 稳定关注</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">时政新闻、国际关系</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">关注时政人群</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">早间7:00-9:00</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.douyin.com/search/%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%8F%AA%E8%A6%81%E8%B0%88%E8%B5%B7%E6%9D%A5%E5%92%8C%E5%B9%B3%E5%B0%B1%E6%9C%89%E5%B8%8C%E6%9C%9B" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 抖音搜索浏览</a>
+                        </span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">建议谨慎借势</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
+                <div class="rank normal">5</div>
+                <div class="topic-info">
                     <div class="topic-title">春日穿搭OOTD <span class="expand-icon">▼</span></div>
-                    <div class="topic-meta">小红书 | 服装 | 👁️ 3.2亿浏览</div>
+                    <div class="topic-meta">
+                        <span class="platform-badge xiaohongshu">小红书</span>
+                        <span class="category-tag">服装</span>
+                        <span class="heat-badge">👁️ 3.2亿浏览</span>
+                    </div>
                 </div>
                 <div class="heat-value">3.2亿</div>
                 <div class="hot-topic-detail">
@@ -556,6 +689,12 @@
                         <span class="detail-label">最佳发布时间：</span>
                         <span class="detail-value">10:00-12:00, 20:00-22:00</span>
                     </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=%E6%98%A5%E6%97%A5%E7%A9%BF%E6%90%ADOOTD" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 小红书搜索浏览</a>
+                        </span>
+                    </div>
                     <div class="related-clients">
                         <div class="related-clients-title">💡 可借势客户：</div>
                         <span class="client-tag">快消-力士</span>
@@ -566,10 +705,14 @@
             </div>
             
             <div class="hot-topic-item" onclick="toggleTopic(this)">
-                <div class="rank normal">5</div>
+                <div class="rank normal">6</div>
                 <div class="topic-info">
                     <div class="topic-title">春季护肤攻略 <span class="expand-icon">▼</span></div>
-                    <div class="topic-meta">小红书 | 美妆 | 👁️ 2.1亿浏览</div>
+                    <div class="topic-meta">
+                        <span class="platform-badge xiaohongshu">小红书</span>
+                        <span class="category-tag">美妆</span>
+                        <span class="heat-badge">👁️ 2.1亿浏览</span>
+                    </div>
                 </div>
                 <div class="heat-value">2.1亿</div>
                 <div class="hot-topic-detail">
@@ -589,12 +732,185 @@
                         <span class="detail-label">最佳发布时间：</span>
                         <span class="detail-value">10:00-12:00, 21:00-23:00</span>
                     </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=%E6%98%A5%E5%AD%A3%E6%8A%A4%E8%82%A4%E6%94%BB%E7%95%A5" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 小红书搜索浏览</a>
+                        </span>
+                    </div>
                     <div class="related-clients">
                         <div class="related-clients-title">💡 可借势客户：</div>
                         <span class="client-tag">快消-AHC</span>
                         <span class="client-tag">快消-多芬</span>
                         <span class="client-tag">快消-力士</span>
                         <span class="client-tag">快消-清扬</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
+                <div class="rank normal">7</div>
+                <div class="topic-info">
+                    <div class="topic-title">狮子洋大桥双主塔封顶 <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">
+                        <span class="platform-badge douyin">抖音</span>
+                        <span class="category-tag">基建</span>
+                        <span class="heat-badge">🔥 1029万热度</span>
+                    </div>
+                </div>
+                <div class="heat-value">1029万</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">📈 工程成就类</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">基建工程、国家成就</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">关注基建人群</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">全天可发</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E6%B4%8B%E5%A4%A7%E6%A1%A5%E5%8F%8C%E4%B8%BB%E5%A1%94%E5%B0%81%E9%A1%B6" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 抖音搜索浏览</a>
+                        </span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">建议谨慎借势</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
+                <div class="rank normal">8</div>
+                <div class="topic-info">
+                    <div class="topic-title">一个视频彻底搞懂Token <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">
+                        <span class="platform-badge douyin">抖音</span>
+                        <span class="category-tag">科技</span>
+                        <span class="heat-badge">🔥 913万热度</span>
+                    </div>
+                </div>
+                <div class="heat-value">913万</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">📈 AI科普类</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">AI科普、技术解析</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">科技爱好者、AI关注者</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">晚间20:00-23:00</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.douyin.com/search/%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82Token" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 抖音搜索浏览</a>
+                        </span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">3C数码-荣耀</span>
+                        <span class="client-tag">互联网金融-度小满</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
+                <div class="rank normal">9</div>
+                <div class="topic-info">
+                    <div class="topic-title">春日减脂计划 <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">
+                        <span class="platform-badge xiaohongshu">小红书</span>
+                        <span class="category-tag">健康</span>
+                        <span class="heat-badge">👁️ 1.5亿浏览</span>
+                    </div>
+                </div>
+                <div class="heat-value">1.5亿</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">📈 春季健康高峰</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">减脂教程、健康餐、运动打卡</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">20-40岁，健身减脂人群</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">早间6:00-8:00, 晚间19:00-21:00</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=%E6%98%A5%E6%97%A5%E5%87%8F%E8%84%82%E8%AE%A1%E5%88%92" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 小红书搜索浏览</a>
+                        </span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">食品-家乐</span>
+                        <span class="client-tag">保健品-汤臣倍健</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
+                <div class="rank normal">10</div>
+                <div class="topic-info">
+                    <div class="topic-title">春季养生食谱 <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">
+                        <span class="platform-badge xiaohongshu">小红书</span>
+                        <span class="category-tag">美食</span>
+                        <span class="heat-badge">👁️ 9800万浏览</span>
+                    </div>
+                </div>
+                <div class="heat-value">9800万</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">📈 春季养生高峰</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">养生食谱、应季食材、汤品</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">25-50岁，养生人群</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">10:00-12:00, 16:00-18:00</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容链接：</span>
+                        <span class="detail-value">
+                            <a href="https://www.xiaohongshu.com/search_result?keyword=%E6%98%A5%E5%AD%A3%E5%85%BB%E7%94%9F%E9%A3%9F%E8%B0%B1" target="_blank" class="content-link" onclick="event.stopPropagation()">🔗 小红书搜索浏览</a>
+                        </span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">食品-家乐</span>
+                        <span class="client-tag">保健品-汤臣倍健</span>
                     </div>
                 </div>
             </div>
