@@ -330,6 +330,79 @@
             font-weight: 700;
             color: var(--error);
         }
+        
+        /* 热点详情展开样式 */
+        .hot-topic-item {
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .hot-topic-item:hover {
+            background: var(--gray-50);
+        }
+        
+        .hot-topic-detail {
+            display: none;
+            padding: 16px;
+            background: var(--gray-50);
+            border-radius: 8px;
+            margin-top: 12px;
+            margin-left: 44px;
+        }
+        
+        .hot-topic-detail.active {
+            display: block;
+        }
+        
+        .detail-row {
+            display: flex;
+            margin-bottom: 8px;
+            font-size: 13px;
+        }
+        
+        .detail-label {
+            color: var(--gray-600);
+            width: 80px;
+            flex-shrink: 0;
+        }
+        
+        .detail-value {
+            color: var(--gray-800);
+            flex: 1;
+        }
+        
+        .related-clients {
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid var(--gray-200);
+        }
+        
+        .related-clients-title {
+            font-size: 12px;
+            color: var(--gray-600);
+            margin-bottom: 8px;
+        }
+        
+        .client-tag {
+            display: inline-block;
+            padding: 4px 10px;
+            background: var(--primary-50);
+            color: var(--primary);
+            border-radius: 12px;
+            font-size: 12px;
+            margin-right: 8px;
+            margin-bottom: 4px;
+        }
+        
+        .expand-icon {
+            margin-left: 8px;
+            transition: transform 0.2s;
+            color: var(--gray-400);
+        }
+        
+        .hot-topic-item.expanded .expand-icon {
+            transform: rotate(180deg);
+        }
     </style>
 </head>
 <body>
@@ -360,46 +433,170 @@
         </div>
         
         <div class="hot-topics">
-            <h2>🔥 今日热点TOP5</h2>
-            <div class="hot-topic-item">
+            <h2>🔥 今日热点TOP5 <span style="font-size:14px;color:var(--gray-600);font-weight:normal;">(点击展开详情)</span></h2>
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
                 <div class="rank top3">1</div>
                 <div class="topic-info">
-                    <div class="topic-title">我的春日粉彩妆容公式</div>
-                    <div class="topic-meta">抖音 | 美妆</div>
+                    <div class="topic-title">我的春日粉彩妆容公式 <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">抖音 | 美妆 | 🔥 1210万热度</div>
                 </div>
                 <div class="heat-value">1210万</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">🔥🔥🔥 持续上升中</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">妆容教程、美妆测评</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">18-35岁女性，美妆爱好者</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">12:00-14:00, 18:00-22:00</span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">快消-AHC</span>
+                        <span class="client-tag">快消-多芬</span>
+                        <span class="client-tag">快消-力士</span>
+                    </div>
+                </div>
             </div>
-            <div class="hot-topic-item">
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
                 <div class="rank top3">2</div>
                 <div class="topic-info">
-                    <div class="topic-title">中国机器狼群巷战画面首次公开</div>
-                    <div class="topic-meta">抖音 | 科技</div>
+                    <div class="topic-title">中国机器狼群巷战画面首次公开 <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">抖音 | 科技 | 🔥 1166万热度</div>
                 </div>
                 <div class="heat-value">1166万</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">🔥🔥🔥 爆发式增长</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">科技新闻、军事装备、AI技术</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">25-45岁男性，科技/军事爱好者</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">全天可发，晚间效果更佳</span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">3C数码-荣耀</span>
+                        <span class="client-tag">3C数码-罗技</span>
+                    </div>
+                </div>
             </div>
-            <div class="hot-topic-item">
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
                 <div class="rank top3">3</div>
                 <div class="topic-info">
-                    <div class="topic-title">我国又一次发射一箭双星</div>
-                    <div class="topic-meta">抖音 | 科技</div>
+                    <div class="topic-title">我国又一次发射一箭双星 <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">抖音 | 科技 | 🔥 1091万热度</div>
                 </div>
                 <div class="heat-value">1091万</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">🔥🔥🔥 持续高热</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">航天科技、国家成就、科普</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">全年龄段，爱国情怀人群</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">早间7:00-9:00，晚间20:00-22:00</span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">3C数码-荣耀</span>
+                        <span class="client-tag">电池-南孚</span>
+                    </div>
+                </div>
             </div>
-            <div class="hot-topic-item">
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
                 <div class="rank normal">4</div>
                 <div class="topic-info">
-                    <div class="topic-title">春日穿搭OOTD</div>
-                    <div class="topic-meta">小红书 | 服装</div>
+                    <div class="topic-title">春日穿搭OOTD <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">小红书 | 服装 | 👁️ 3.2亿浏览</div>
                 </div>
-                <div class="heat-value">3.2亿浏览</div>
+                <div class="heat-value">3.2亿</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">📈 稳定高流量</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">穿搭分享、OOTD、时尚种草</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">18-35岁女性，时尚爱好者</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">10:00-12:00, 20:00-22:00</span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">快消-力士</span>
+                        <span class="client-tag">快消-多芬</span>
+                        <span class="client-tag">快消-AHC</span>
+                    </div>
+                </div>
             </div>
-            <div class="hot-topic-item">
+            
+            <div class="hot-topic-item" onclick="toggleTopic(this)">
                 <div class="rank normal">5</div>
                 <div class="topic-info">
-                    <div class="topic-title">春季护肤攻略</div>
-                    <div class="topic-meta">小红书 | 美妆</div>
+                    <div class="topic-title">春季护肤攻略 <span class="expand-icon">▼</span></div>
+                    <div class="topic-meta">小红书 | 美妆 | 👁️ 2.1亿浏览</div>
                 </div>
-                <div class="heat-value">2.1亿浏览</div>
+                <div class="heat-value">2.1亿</div>
+                <div class="hot-topic-detail">
+                    <div class="detail-row">
+                        <span class="detail-label">热度趋势：</span>
+                        <span class="detail-value">📈 季节性稳定流量</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">内容类型：</span>
+                        <span class="detail-value">护肤教程、产品测评、换季保养</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">受众人群：</span>
+                        <span class="detail-value">20-40岁女性，护肤爱好者</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">最佳发布时间：</span>
+                        <span class="detail-value">10:00-12:00, 21:00-23:00</span>
+                    </div>
+                    <div class="related-clients">
+                        <div class="related-clients-title">💡 可借势客户：</div>
+                        <span class="client-tag">快消-AHC</span>
+                        <span class="client-tag">快消-多芬</span>
+                        <span class="client-tag">快消-力士</span>
+                        <span class="client-tag">快消-清扬</span>
+                    </div>
+                </div>
             </div>
         </div>
         
@@ -715,6 +912,24 @@
                 closeScript();
             }
         });
+        
+        // 热点展开/收起功能
+        function toggleTopic(element) {
+            const detail = element.querySelector('.hot-topic-detail');
+            const isActive = detail.classList.contains('active');
+            
+            // 关闭所有其他展开的热点
+            document.querySelectorAll('.hot-topic-detail.active').forEach(d => {
+                d.classList.remove('active');
+                d.closest('.hot-topic-item').classList.remove('expanded');
+            });
+            
+            // 切换当前热点
+            if (!isActive) {
+                detail.classList.add('active');
+                element.classList.add('expanded');
+            }
+        }
     </script>
 </body>
 </html>
