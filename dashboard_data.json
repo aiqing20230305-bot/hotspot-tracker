@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T23:27:44.649591",
+  "generated_at": "2026-03-26T23:41:44.667518",
   "daily_output": {
     "date": "20260326",
     "total_ideas": 36,
@@ -128,43 +128,43 @@
       "date": "03-20",
       "ideas_generated": 35,
       "ideas_completed": 8,
-      "avg_engagement": 13195
+      "avg_engagement": 12425
     },
     {
       "date": "03-21",
-      "ideas_generated": 41,
-      "ideas_completed": 13,
-      "avg_engagement": 14209
+      "ideas_generated": 39,
+      "ideas_completed": 11,
+      "avg_engagement": 13057
     },
     {
       "date": "03-22",
-      "ideas_generated": 34,
-      "ideas_completed": 10,
-      "avg_engagement": 13280
+      "ideas_generated": 37,
+      "ideas_completed": 13,
+      "avg_engagement": 13823
     },
     {
       "date": "03-23",
-      "ideas_generated": 42,
-      "ideas_completed": 12,
-      "avg_engagement": 13626
+      "ideas_generated": 44,
+      "ideas_completed": 14,
+      "avg_engagement": 13588
     },
     {
       "date": "03-24",
-      "ideas_generated": 46,
+      "ideas_generated": 41,
       "ideas_completed": 15,
-      "avg_engagement": 15218
+      "avg_engagement": 15893
     },
     {
       "date": "03-25",
       "ideas_generated": 46,
       "ideas_completed": 14,
-      "avg_engagement": 16156
+      "avg_engagement": 15666
     },
     {
       "date": "03-26",
-      "ideas_generated": 51,
-      "ideas_completed": 18,
-      "avg_engagement": 16129
+      "ideas_generated": 48,
+      "ideas_completed": 15,
+      "avg_engagement": 16766
     }
   ],
   "methodology_effect": [
