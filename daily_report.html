@@ -5,538 +5,792 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>📰 内容运营日报 - 2026年3月26日</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+        :root {
+            --primary: #6366F1;
+            --primary-light: #818CF8;
+            --primary-dark: #4F46E5;
+            --primary-50: #EEF2FF;
+            --success: #10B981;
+            --warning: #F59E0B;
+            --error: #EF4444;
+            --gray-50: #F9FAFB;
+            --gray-100: #F3F4F6;
+            --gray-200: #E5E7EB;
+            --gray-300: #D1D5DB;
+            --gray-400: #9CA3AF;
+            --gray-500: #6B7280;
+            --gray-600: #4B5563;
+            --gray-700: #374151;
+            --gray-800: #1F2937;
+            --gray-900: #111827;
+            --radius: 12px;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            --shadow-lg: 0 20px 25px -5px rgba(0,0,0,0.1);
         }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, var(--primary-50) 0%, #F5F3FF 100%);
             min-height: 100vh;
-            padding: 20px;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            overflow: hidden;
-        }
-        
-        .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 40px;
-            text-align: center;
-        }
-        
-        .header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-        
-        .header p {
-            font-size: 1.1em;
-            opacity: 0.9;
-        }
-        
-        .meta-info {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            padding: 20px 40px;
-            background: #f8f9fa;
-            border-bottom: 1px solid #e0e0e0;
-        }
-        
-        .meta-item {
-            text-align: center;
-        }
-        
-        .meta-label {
-            font-size: 0.9em;
-            color: #666;
-            margin-bottom: 5px;
-        }
-        
-        .meta-value {
-            font-size: 1.2em;
-            font-weight: bold;
-            color: #333;
-        }
-        
-        .content {
-            padding: 40px;
-        }
-        
-        .section {
-            margin-bottom: 40px;
-        }
-        
-        .section-title {
-            font-size: 1.8em;
-            color: #333;
-            margin-bottom: 20px;
-            padding-bottom: 10px;
-            border-bottom: 3px solid #667eea;
-        }
-        
-        .industry-card {
-            background: #f8f9fa;
-            border-left: 4px solid #667eea;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 8px;
-            transition: all 0.3s ease;
-        }
-        
-        .industry-card:hover {
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
-            transform: translateX(5px);
-        }
-        
-        .industry-title {
-            font-size: 1.3em;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 10px;
-        }
-        
-        .priority-badge {
-            display: inline-block;
-            background: #667eea;
-            color: white;
-            padding: 5px 12px;
-            border-radius: 20px;
-            font-size: 0.9em;
-            margin-left: 10px;
-        }
-        
-        .stars {
-            color: #ffc107;
-            margin-left: 5px;
-        }
-        
-        .topic-item {
-            margin: 10px 0;
-            padding: 10px;
-            background: white;
-            border-radius: 5px;
-        }
-        
-        .topic-name {
-            font-weight: bold;
-            color: #333;
-        }
-        
-        .topic-heat {
-            color: #ff6b6b;
-            font-weight: bold;
-        }
-        
-        .content-box {
-            background: #fff3cd;
-            border-left: 4px solid #ffc107;
-            padding: 15px;
-            margin: 15px 0;
-            border-radius: 5px;
-            font-family: 'Courier New', monospace;
-            font-size: 0.95em;
+            padding: 24px;
+            color: var(--gray-800);
             line-height: 1.6;
         }
         
-        .suggestion-list {
-            list-style: none;
-            margin: 15px 0;
-        }
-        
-        .suggestion-list li {
-            padding: 10px;
-            margin: 8px 0;
-            background: #e8f5e9;
-            border-left: 3px solid #4caf50;
-            border-radius: 3px;
-        }
-        
-        .suggestion-list li:before {
-            content: "✓ ";
-            color: #4caf50;
-            font-weight: bold;
-            margin-right: 8px;
-        }
-        
-        .action-button {
-            display: inline-block;
-            background: #667eea;
-            color: white;
-            padding: 12px 24px;
-            border-radius: 6px;
-            text-decoration: none;
-            margin: 10px 5px 10px 0;
-            transition: all 0.3s ease;
-            border: none;
-            cursor: pointer;
-            font-size: 1em;
-        }
-        
-        .action-button:hover {
-            background: #764ba2;
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
-        }
-        
-        .table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 15px 0;
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
             background: white;
-            border-radius: 8px;
+            border-radius: 24px;
+            box-shadow: var(--shadow-lg);
             overflow: hidden;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
         
-        .table th {
-            background: #667eea;
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
             color: white;
-            padding: 12px;
-            text-align: left;
-            font-weight: bold;
-        }
-        
-        .table td {
-            padding: 12px;
-            border-bottom: 1px solid #e0e0e0;
-        }
-        
-        .table tr:hover {
-            background: #f8f9fa;
-        }
-        
-        .footer {
-            background: #f8f9fa;
-            padding: 30px 40px;
+            padding: 48px 32px;
             text-align: center;
-            border-top: 1px solid #e0e0e0;
-            color: #666;
+            position: relative;
+            overflow: hidden;
         }
         
-        .share-buttons {
-            margin: 20px 0;
-            text-align: center;
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%; left: -50%;
+            width: 200%; height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 60%);
+            animation: pulse 8s ease-in-out infinite;
         }
         
-        .share-btn {
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 0 5px;
-            background: #667eea;
-            color: white;
-            border-radius: 5px;
-            text-decoration: none;
-            font-size: 0.95em;
-            transition: all 0.3s ease;
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 0.5; }
+            50% { transform: scale(1.1); opacity: 0.8; }
         }
         
-        .share-btn:hover {
-            background: #764ba2;
+        .header h1 {
+            font-size: 36px;
+            font-weight: 800;
+            margin-bottom: 8px;
+            position: relative;
+            z-index: 1;
         }
         
-        .copy-link {
-            background: #f0f0f0;
-            padding: 15px;
-            border-radius: 5px;
-            margin: 15px 0;
+        .header p {
+            font-size: 18px;
+            opacity: 0.9;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .header-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255,255,255,0.2);
+            padding: 8px 16px;
+            border-radius: 9999px;
+            margin-top: 16px;
+            font-size: 14px;
+            backdrop-filter: blur(10px);
+        }
+        
+        /* Meta */
+        .meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            padding: 24px;
+            background: var(--gray-50);
+            border-bottom: 1px solid var(--gray-100);
+        }
+        
+        .meta-card {
+            background: white;
+            padding: 20px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            transition: all 0.3s;
+        }
+        
+        .meta-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+        }
+        
+        .meta-icon {
+            width: 48px; height: 48px;
+            border-radius: var(--radius);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            flex-shrink: 0;
+        }
+        
+        .meta-icon.primary { background: var(--primary-50); }
+        
+        .meta-label {
+            font-size: 14px;
+            color: var(--gray-500);
+        }
+        
+        .meta-value {
+            font-size: 18px;
+            font-weight: 600;
+            color: var(--gray-900);
+        }
+        
+        /* Content */
+        .content { padding: 32px; }
+        
+        /* Section */
+        .section { margin-bottom: 48px; }
+        
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+        
+        .section-icon {
+            width: 40px; height: 40px;
+            border-radius: var(--radius);
+            background: var(--primary-50);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--gray-900);
+        }
+        
+        .section-subtitle {
+            font-size: 14px;
+            color: var(--gray-500);
+        }
+        
+        /* Platform Cards */
+        .platform-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 24px;
+        }
+        
+        .platform-card {
+            background: white;
+            border: 1px solid var(--gray-200);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s;
+        }
+        
+        .platform-card:hover {
+            border-color: var(--primary);
+            box-shadow: var(--shadow-lg);
+            transform: translateY(-4px);
+        }
+        
+        .platform-header {
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom: 1px solid var(--gray-100);
+        }
+        
+        .platform-name {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-weight: 600;
+            font-size: 18px;
+        }
+        
+        .platform-badge {
+            background: var(--primary-50);
+            color: var(--primary);
+            padding: 4px 12px;
+            border-radius: 9999px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        
+        .platform-list { padding: 16px; }
+        
+        .hot-item {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 12px;
+            border-radius: 8px;
+            transition: background 0.15s;
+        }
+        
+        .hot-item:hover { background: var(--gray-50); }
+        
+        .hot-rank {
+            width: 28px; height: 28px;
+            border-radius: 50%;
+            background: var(--gray-100);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 14px;
+            color: var(--gray-600);
+            flex-shrink: 0;
+        }
+        
+        .hot-rank.top { background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%); color: white; }
+        
+        .hot-info { flex: 1; min-width: 0; }
+        
+        .hot-title {
+            font-weight: 500;
+            font-size: 14px;
+            color: var(--gray-800);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        
+        .hot-heat { font-size: 12px; color: var(--gray-400); margin-top: 4px; }
+        
+        /* Industry Cards */
+        .industry-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 24px;
+        }
+        
+        .industry-card {
+            background: white;
+            border: 1px solid var(--gray-200);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s;
+        }
+        
+        .industry-card:hover {
+            border-color: var(--primary);
+            box-shadow: var(--shadow-lg);
+        }
+        
+        .industry-card.p1 { border-left: 4px solid var(--error); }
+        .industry-card.p2 { border-left: 4px solid var(--warning); }
+        .industry-card.p3 { border-left: 4px solid var(--success); }
+        
+        .industry-header {
+            padding: 20px;
+            background: var(--gray-50);
+            border-bottom: 1px solid var(--gray-100);
+        }
+        
+        .industry-title-row {
             display: flex;
             align-items: center;
             justify-content: space-between;
         }
         
-        .copy-link input {
-            flex: 1;
-            border: none;
-            background: white;
-            padding: 10px;
-            border-radius: 3px;
-            margin-right: 10px;
+        .industry-title {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 18px;
+            font-weight: 700;
         }
         
-        .copy-link button {
-            background: #667eea;
+        .industry-num {
+            width: 28px; height: 28px;
+            border-radius: 50%;
+            background: var(--primary);
             color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 3px;
-            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: 700;
         }
         
-        .priority-1 { border-left-color: #ff6b6b; }
-        .priority-2 { border-left-color: #ffc107; }
-        .priority-3 { border-left-color: #4caf50; }
+        .badge {
+            padding: 4px 12px;
+            border-radius: 9999px;
+            font-size: 12px;
+            font-weight: 600;
+        }
         
+        .badge.high { background: #FEE2E2; color: var(--error); }
+        .badge.medium { background: #FEF3C7; color: var(--warning); }
+        
+        .card-body { padding: 20px; }
+        
+        .hot-topic-box {
+            background: white;
+            border: 1px solid var(--gray-200);
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 16px;
+        }
+        
+        .hot-topic-label {
+            font-size: 12px;
+            color: var(--gray-500);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+        
+        .hot-topic-title {
+            font-weight: 500;
+            color: var(--gray-800);
+        }
+        
+        .content-box {
+            background: var(--primary-50);
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 16px;
+        }
+        
+        .content-box-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .content-box pre {
+            font-family: monospace;
+            font-size: 12px;
+            line-height: 1.8;
+            color: var(--gray-700);
+            white-space: pre-wrap;
+        }
+        
+        .suggestion-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .suggestion-list li {
+            padding: 8px 0;
+            color: var(--gray-700);
+            font-size: 14px;
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+        }
+        
+        .suggestion-list li::before {
+            content: '✓';
+            color: var(--success);
+            font-weight: 700;
+        }
+        
+        /* Footer */
+        .footer {
+            background: var(--gray-50);
+            padding: 32px;
+            text-align: center;
+            border-top: 1px solid var(--gray-200);
+        }
+        
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+        
+        .footer-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid var(--gray-200);
+            border-radius: 9999px;
+            font-size: 14px;
+            color: var(--gray-600);
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        
+        .footer-link:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+        
+        /* Responsive */
         @media (max-width: 768px) {
-            .header h1 { font-size: 1.8em; }
-            .content { padding: 20px; }
-            .meta-info { padding: 15px 20px; }
+            body { padding: 16px; }
+            .header h1 { font-size: 24px; }
+            .content { padding: 16px; }
+            .platform-grid, .industry-grid { grid-template-columns: 1fr; }
+        }
+        
+        /* Animation */
+        .fade-in { animation: fadeIn 0.5s ease-out; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <!-- 头部 -->
-        <div class="header">
+    <div class="container fade-in">
+        <!-- Header -->
+        <header class="header">
             <h1>📰 内容运营日报</h1>
-            <p>热点追踪 + 行业洞察 + 竞品分析</p>
-        </div>
+            <p>热点追踪 · 行业洞察 · 竞品分析</p>
+            <div class="header-badge">
+                <span>🕐</span>
+                <span>每日 09:30 自动更新</span>
+            </div>
+        </header>
         
-        <!-- 元信息 -->
-        <div class="meta-info">
-            <div class="meta-item">
-                <div class="meta-label">📅 日期</div>
-                <div class="meta-value">2026-03-26</div>
+        <!-- Meta -->
+        <section class="meta">
+            <div class="meta-card">
+                <div class="meta-icon primary">📅</div>
+                <div>
+                    <div class="meta-label">日报日期</div>
+                    <div class="meta-value">2026-03-26</div>
+                </div>
             </div>
-            <div class="meta-item">
-                <div class="meta-label">📡 覆盖平台</div>
-                <div class="meta-value">抖音 + 微博 + 小红书</div>
+            <div class="meta-card">
+                <div class="meta-icon primary">📡</div>
+                <div>
+                    <div class="meta-label">覆盖平台</div>
+                    <div class="meta-value">抖音 · 微博 · 小红书</div>
+                </div>
             </div>
-            <div class="meta-item">
-                <div class="meta-label">🎯 覆盖行业</div>
-                <div class="meta-value">9大垂直领域</div>
+            <div class="meta-card">
+                <div class="meta-icon primary">🎯</div>
+                <div>
+                    <div class="meta-label">覆盖行业</div>
+                    <div class="meta-value">9 大垂直领域</div>
+                </div>
             </div>
-            <div class="meta-item">
-                <div class="meta-label">⏰ 生成时间</div>
-                <div class="meta-value">13:30</div>
+            <div class="meta-card">
+                <div class="meta-icon primary">⏰</div>
+                <div>
+                    <div class="meta-label">生成时间</div>
+                    <div class="meta-value">13:30</div>
+                </div>
             </div>
-        </div>
+        </section>
         
-        <!-- 主要内容 -->
-        <div class="content">
-            <!-- 分享按钮 -->
-            <div class="share-buttons">
-                <button class="action-button" onclick="copyLink()">📋 复制分享链接</button>
-                <button class="action-button" onclick="downloadPDF()">📥 下载PDF</button>
-                <button class="action-button" onclick="shareWeChat()">💬 分享到微信</button>
-            </div>
-            
-            <div class="copy-link" id="copyLink" style="display:none;">
-                <input type="text" id="shareLink" readonly value="">
-                <button onclick="copyToClipboard()">复制</button>
-            </div>
-            
-            <!-- 热点强度 -->
-            <div class="section">
-                <h2 class="section-title">🔥 热点强度指数</h2>
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th>平台</th>
-                            <th>热点数</th>
-                            <th>平均热度</th>
-                            <th>强度</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>📱 抖音</td>
-                            <td>50条</td>
-                            <td>800万+</td>
-                            <td><span class="stars">⭐⭐⭐⭐⭐</span> 极高</td>
-                        </tr>
-                        <tr>
-                            <td>💬 微博</td>
-                            <td>50条</td>
-                            <td>30万+</td>
-                            <td><span class="stars">⭐⭐⭐⭐</span> 高</td>
-                        </tr>
-                        <tr>
-                            <td>❤️ 小红书</td>
-                            <td>10条</td>
-                            <td>生活方式</td>
-                            <td><span class="stars">⭐⭐⭐</span> 中</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            
-            <!-- 有直接热点的行业 -->
-            <div class="section">
-                <h2 class="section-title">✅ 有直接热点的行业（4个）</h2>
+        <!-- Content -->
+        <main class="content">
+            <!-- Platform Hot -->
+            <section class="section">
+                <div class="section-header">
+                    <div class="section-icon">🔥</div>
+                    <div>
+                        <h2 class="section-title">热点强度指数</h2>
+                        <p class="section-subtitle">各平台今日热点分布情况</p>
+                    </div>
+                </div>
                 
-                <!-- 大健康 -->
-                <div class="industry-card priority-1">
-                    <div class="industry-title">
-                        1️⃣ 大健康
-                        <span class="priority-badge">⭐⭐⭐⭐ 最高转化</span>
+                <div class="platform-grid">
+                    <!-- 抖音 -->
+                    <div class="platform-card">
+                        <div class="platform-header">
+                            <div class="platform-name">
+                                <span>📱</span>
+                                <span>抖音</span>
+                            </div>
+                            <span class="platform-badge">极高</span>
+                        </div>
+                        <div class="platform-list">
+                            <div class="hot-item">
+                                <span class="hot-rank top">1</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">传承里的中原文脉</div>
+                                    <div class="hot-heat">1211万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">2</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">花是春游出片关键词</div>
+                                    <div class="hot-heat">1121万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">3</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">人人都是粉彩生活家</div>
+                                    <div class="hot-heat">1077万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">4</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">CBA吉林队82:75辽宁队</div>
+                                    <div class="hot-heat">1019万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">5</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">最新一代机器狼集结</div>
+                                    <div class="hot-heat">908万热度</div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     
-                    <div style="margin-top: 15px;">
-                        <strong>🔥 热点话题：</strong>
-                        <div class="topic-item">
-                            <span class="topic-name">医院突增跑友检查心脏</span>
-                            <span class="topic-heat">28万热度</span>
+                    <!-- 微博 -->
+                    <div class="platform-card">
+                        <div class="platform-header">
+                            <div class="platform-name">
+                                <span>💬</span>
+                                <span>微博</span>
+                            </div>
+                            <span class="platform-badge">高</span>
                         </div>
-                        <div class="topic-item">
-                            <span class="topic-name">男子切到手晕血边晕边爬去医院</span>
-                            <span class="topic-heat">26万热度</span>
+                        <div class="platform-list">
+                            <div class="hot-item">
+                                <span class="hot-rank top">1</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">曝月鳞绮纪又撤档了</div>
+                                    <div class="hot-heat">108万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">2</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">小哥爬7楼送外卖看到牌匾瞬间愣住</div>
+                                    <div class="hot-heat">80万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">3</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">伊朗开出停战5个条件</div>
+                                    <div class="hot-heat">57万热度 · 沸</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">4</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">汪苏泷明日世界演唱会官宣</div>
+                                    <div class="hot-heat">40万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">5</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">医院突增跑友检查心脏</div>
+                                    <div class="hot-heat">28万热度 · 新</div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     
-                    <div class="content-box" style="margin-top: 15px;">
-选题: "运动爱好者必知：心血管检查指南"
+                    <!-- 小红书 -->
+                    <div class="platform-card">
+                        <div class="platform-header">
+                            <div class="platform-name">
+                                <span>❤️</span>
+                                <span>小红书</span>
+                            </div>
+                            <span class="platform-badge">中</span>
+                        </div>
+                        <div class="platform-list">
+                            <div class="hot-item">
+                                <span class="hot-rank top">1</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">春日穿搭</div>
+                                    <div class="hot-heat">服装行业</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">2</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">口红试色</div>
+                                    <div class="hot-heat">美妆行业</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">3</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">护肤心得</div>
+                                    <div class="hot-heat">美妆行业</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">4</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">宝宝用品</div>
+                                    <div class="hot-heat">母婴行业</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">5</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">手机测评</div>
+                                    <div class="hot-heat">数码行业</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Industry Hot -->
+            <section class="section">
+                <div class="section-header">
+                    <div class="section-icon">🎯</div>
+                    <div>
+                        <h2 class="section-title">行业热点速查</h2>
+                        <p class="section-subtitle">有直接热点的 4 个行业</p>
+                    </div>
+                </div>
+                
+                <div class="industry-grid">
+                    <!-- 大健康 -->
+                    <div class="industry-card p1">
+                        <div class="industry-header">
+                            <div class="industry-title-row">
+                                <div class="industry-title">
+                                    <span class="industry-num">1</span>
+                                    <span>大健康</span>
+                                </div>
+                                <span class="badge high">⭐⭐⭐⭐ 最高转化</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="hot-topic-box">
+                                <div class="hot-topic-label">🔥 热点话题</div>
+                                <div class="hot-topic-title">医院突增跑友检查心脏</div>
+                                <div class="hot-heat">28万热度 · 微博</div>
+                            </div>
+                            
+                            <div class="content-box">
+                                <div class="content-box-title">📝 内容方案</div>
+                                <pre>选题: "运动爱好者必知：心血管检查指南"
 形式: 科普短视频 (60-90秒) + 真实故事
 素人: 健身博主/普通上班族
 平台: 抖音 + 小红书
-转化: 体检套餐、保险产品
-预期转化率: ⭐⭐⭐⭐⭐ 最高
-                    </div>
-                    
-                    <strong>💡 发布建议：</strong>
-                    <ul class="suggestion-list">
-                        <li>📱 抖音: 科普 + 真实案例 (30-60秒)</li>
-                        <li>❤️ 小红书: 详细指南 + 养生建议 (1000字+)</li>
-                        <li>💬 微博: 话题讨论 + 专家观点</li>
-                    </ul>
-                </div>
-                
-                <!-- 数码 -->
-                <div class="industry-card priority-2">
-                    <div class="industry-title">
-                        2️⃣ 数码
-                        <span class="priority-badge">⭐⭐⭐ 高热度</span>
-                    </div>
-                    
-                    <div style="margin-top: 15px;">
-                        <strong>🔥 热点话题：</strong>
-                        <div class="topic-item">
-                            <span class="topic-name">华为千元新机怎么选</span>
-                            <span class="topic-heat">767万热度</span>
+转化: 体检套餐、保险产品</pre>
+                            </div>
+                            
+                            <div class="content-box-title">💡 发布建议</div>
+                            <ul class="suggestion-list">
+                                <li>抖音: 科普 + 真实案例 (30-60秒)</li>
+                                <li>小红书: 详细指南 + 养生建议</li>
+                                <li>微博: 话题讨论 + 专家观点</li>
+                            </ul>
                         </div>
                     </div>
                     
-                    <div class="content-box" style="margin-top: 15px;">
-选题: "千元手机对比：华为 vs 小米 vs 荣耀"
+                    <!-- 数码 -->
+                    <div class="industry-card p2">
+                        <div class="industry-header">
+                            <div class="industry-title-row">
+                                <div class="industry-title">
+                                    <span class="industry-num">2</span>
+                                    <span>数码</span>
+                                </div>
+                                <span class="badge medium">⭐⭐⭐ 高热度</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="hot-topic-box">
+                                <div class="hot-topic-label">🔥 热点话题</div>
+                                <div class="hot-topic-title">华为千元新机怎么选</div>
+                                <div class="hot-heat">767万热度 · 抖音</div>
+                            </div>
+                            
+                            <div class="content-box">
+                                <div class="content-box-title">📝 内容方案</div>
+                                <pre>选题: "千元手机对比：华为 vs 小米 vs 荣耀"
 形式: 开箱测评视频 (3-5分钟)
 素人: 粉丝1-10万的数码测评博主
 平台: 抖音 + 小红书
-转化: 产品链接、优惠券、返利
-预期转化率: ⭐⭐⭐⭐ 高
-                    </div>
-                </div>
-                
-                <!-- 服装 -->
-                <div class="industry-card priority-3">
-                    <div class="industry-title">
-                        3️⃣ 服装
-                        <span class="priority-badge">⭐⭐⭐ 高互动</span>
-                    </div>
-                    
-                    <div style="margin-top: 15px;">
-                        <strong>🔥 热点话题：</strong>
-                        <div class="topic-item">
-                            <span class="topic-name">情侣互买衣服挑战</span>
-                            <span class="topic-heat">764万热度</span>
+转化: 产品链接、优惠券、返利</pre>
+                            </div>
+                            
+                            <div class="content-box-title">💡 发布建议</div>
+                            <ul class="suggestion-list">
+                                <li>抖音: 快速对比 + 真实体验</li>
+                                <li>小红书: 详细测评 + 购买指南</li>
+                                <li>直播: 带货直播间</li>
+                            </ul>
                         </div>
                     </div>
                     
-                    <div class="content-box" style="margin-top: 15px;">
-选题: "情侣/闺蜜互买衣服挑战 - 春日版"
+                    <!-- 服装 -->
+                    <div class="industry-card p3">
+                        <div class="industry-header">
+                            <div class="industry-title-row">
+                                <div class="industry-title">
+                                    <span class="industry-num">3</span>
+                                    <span>服装</span>
+                                </div>
+                                <span class="badge medium">⭐⭐⭐ 高互动</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="hot-topic-box">
+                                <div class="hot-topic-label">🔥 热点话题</div>
+                                <div class="hot-topic-title">情侣互买衣服挑战</div>
+                                <div class="hot-heat">764万热度 · 抖音</div>
+                            </div>
+                            
+                            <div class="content-box">
+                                <div class="content-box-title">📝 内容方案</div>
+                                <pre>选题: "情侣/闺蜜互买衣服挑战 - 春日版"
 形式: 挑战视频 (30-60秒)
 素人: 素人情侣/闺蜜组合
 平台: 抖音
-转化: 服装品牌合作、直播带货
-预期转化率: ⭐⭐⭐ 中高
-                    </div>
-                </div>
-                
-                <!-- 母婴 -->
-                <div class="industry-card">
-                    <div class="industry-title">
-                        4️⃣ 母婴
-                        <span class="priority-badge">⭐⭐⭐ 高萌值</span>
-                    </div>
-                    
-                    <div style="margin-top: 15px;">
-                        <strong>🔥 热点话题：</strong>
-                        <div class="topic-item">
-                            <span class="topic-name">跳海绵宝宝舞就用歪比巴卜特效</span>
-                            <span class="topic-heat">768万热度</span>
+转化: 服装品牌合作、直播带货</pre>
+                            </div>
+                            
+                            <div class="content-box-title">💡 发布建议</div>
+                            <ul class="suggestion-list">
+                                <li>抖音: 挑战视频 + 真实反应</li>
+                                <li>小红书: 穿搭教程 + 搭配技巧</li>
+                                <li>发起挑战: 邀请素人参与</li>
+                            </ul>
                         </div>
                     </div>
-                    
-                    <div class="content-box" style="margin-top: 15px;">
-选题: "宝宝跳海绵宝宝舞 - 萌娃特效秀"
-形式: 亲子舞蹈视频
-素人: 有萌娃的普通家长
-平台: 抖音 + 小红书
-转化: 儿童玩具、教育APP
-预期转化率: ⭐⭐⭐⭐ 高
-                    </div>
                 </div>
-            </div>
-            
-            <!-- 无直接热点的行业 -->
-            <div class="section">
-                <h2 class="section-title">❌ 无直接热点的行业（5个）- 竞品学习</h2>
-                
-                <div class="industry-card">
-                    <div class="industry-title">5️⃣ 美妆 | 6️⃣ 食品 | 7️⃣ 快消 | 8️⃣ 家电 | 9️⃣ 汽车</div>
-                    <p style="margin-top: 15px; color: #666;">
-                        这些行业虽然没有直接热点，但可以通过学习竞品品牌的内容策略来创作。
-                        详见完整报告中的竞品分析部分。
-                    </p>
-                </div>
-            </div>
-            
-            <!-- 行动清单 -->
-            <div class="section">
-                <h2 class="section-title">🚀 明日行动清单</h2>
-                <ul class="suggestion-list">
-                    <li>联系大健康行业的素人KOL</li>
-                    <li>准备"心血管检查指南"脚本</li>
-                    <li>研究完美日记的素人种草案例</li>
-                    <li>建立竞品监控表格</li>
-                    <li>制定本周内容日历</li>
-                </ul>
-            </div>
-        </div>
+            </section>
+        </main>
         
-        <!-- 页脚 -->
-        <div class="footer">
-            <p>📰 内容运营日报 | 2026-03-26 13:30</p>
-            <p style="margin-top: 10px; font-size: 0.9em;">
-                💡 提示：此日报每天自动更新，可分享给团队成员查阅
+        <!-- Footer -->
+        <footer class="footer">
+            <p style="color: var(--gray-500); margin-bottom: 16px;">
+                📰 内容运营日报 | 2026-03-26 13:30
             </p>
-            <p style="margin-top: 15px; font-size: 0.85em; color: #999;">
-                数据来源：抖音热搜 + 微博热搜 + 小红书热点 | 
-                <a href="#" style="color: #667eea; text-decoration: none;">查看完整报告</a>
-            </p>
-        </div>
+            <div class="footer-links">
+                <a href="https://aiqing20230305-bot.github.io/hotspot-tracker/daily_report.html" class="footer-link">
+                    🔗 查看完整报告
+                </a>
+                <a href="https://github.com/aiqing20230305-bot/hotspot-tracker" class="footer-link">
+                    📂 GitHub 仓库
+                </a>
+            </div>
+        </footer>
     </div>
-    
-    <script>
-        function copyLink() {
-            const link = window.location.href;
-            document.getElementById('shareLink').value = link;
-            document.getElementById('copyLink').style.display = 'flex';
-        }
-        
-        function copyToClipboard() {
-            const input = document.getElementById('shareLink');
-            input.select();
-            document.execCommand('copy');
-            alert('链接已复制！');
-        }
-        
-        function downloadPDF() {
-            alert('PDF下载功能开发中...');
-        }
-        
-        function shareWeChat() {
-            alert('微信分享功能开发中...');
-        }
-    </script>
 </body>
 </html>
