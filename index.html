@@ -531,6 +531,37 @@
             border-bottom: 2px solid var(--primary);
         }
         
+        /* 脚本方法论 */
+        .script-methodology {
+            background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%);
+            border-left: 4px solid var(--primary);
+            padding: 12px 16px;
+            border-radius: 8px;
+            margin-bottom: 16px;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--primary-dark);
+        }
+        
+        /* 脚本技巧 */
+        .script-tips {
+            background: #FEF3C7;
+            border-left: 4px solid #F59E0B;
+            padding: 12px 16px;
+            border-radius: 8px;
+            margin-top: 16px;
+            font-size: 13px;
+        }
+        
+        .script-tips ul {
+            margin: 8px 0 0 16px;
+            padding: 0;
+        }
+        
+        .script-tips li {
+            margin-bottom: 4px;
+        }
+        
         /* 热点逻辑分析 */
         .logic-section {
             background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%);
@@ -1321,37 +1352,118 @@
     </div>
     
     <script>
-        // 脚本数据
+        // 专业脚本数据 - 结合内容运营方法论
         const scripts = {
             '荣耀手机测评脚本': {
-                platform: '抖音',
-                duration: '30秒',
-                scenes: [
-                    {time: '0-3秒', content: '痛点引入：你是不是也在为科技产品纠结？', visual: '困惑表情+手机特写'},
-                    {time: '3-8秒', content: '产品展示：今天测评荣耀手机', visual: '手机360度展示'},
-                    {time: '8-20秒', content: '核心卖点：AI功能强大，拍照清晰，续航持久', visual: '使用场景+效果对比'},
-                    {time: '20-25秒', content: '真实体验：亲测一周，效果惊艳', visual: '前后对比图'},
-                    {time: '25-30秒', content: 'CTA：你用过吗？评论区分享', visual: '手持手机+引导关注'}
-                ],
-                bgm: '热门卡点音乐（节奏感强）',
-                textOverlay: ['痛点问题', '荣耀手机', 'AI功能', '拍照清晰', '续航持久', '实测效果'],
-                hook: '中国科技有多强？看完这篇不踩坑！'
+                video: {
+                    methodology: 'AIDA模型（注意力→兴趣→欲望→行动）',
+                    hook: '中国机器狼群火了？荣耀手机AI功能同样惊艳！',
+                    scenes: [
+                        {time: '0-3秒', step: 'Attention注意力', content: '热点引入：中国机器狼群巷战火了！科技实力有多强？', visual: '机器狼群画面+困惑表情', tips: '借势热点，建立关联'},
+                        {time: '3-8秒', step: 'Interest兴趣', content: '转折：说到科技，今天测评荣耀手机AI功能', visual: '荣耀手机特写', tips: '自然过渡，不硬广'},
+                        {time: '8-20秒', step: 'Desire欲望', content: '核心卖点：①AI拍照 ②智能识别 ③续航持久，亲测有效！', visual: '使用场景+效果对比', tips: '3个卖点，易于记忆'},
+                        {time: '20-25秒', step: 'Proof证明', content: '效果展示：用了一周，拍照效果惊艳！', visual: '前后对比图', tips: '视觉化效果'},
+                        {time: '25-30秒', step: 'Action行动', content: 'CTA：你觉得中国科技强吗？评论区聊聊！', visual: '手持手机+引导互动', tips: '引导评论，提升互动'}
+                    ],
+                    bgm: '热门卡点音乐（节奏感强）',
+                    textOverlay: ['机器狼群🔥', '荣耀手机', 'AI拍照', '智能识别', '续航持久', '实测效果'],
+                    keyTips: ['前3秒必须抓住注意力', '借势热点但要有过渡', '3个卖点最易于记忆', '视觉化效果增强说服力']
+                },
+                graphic: {
+                    methodology: '痛点-解决方案模型',
+                    cover: '机器狼群火了？荣耀手机AI功能同样强！',
+                    structure: [
+                        {section: '封面', content: '机器狼群火了🔥 | 荣耀手机AI测评 | 中国科技有多强', tips: '借势热点+产品+价值承诺', image: '机器狼群+荣耀手机拼贴'},
+                        {section: '开篇', content: '最近中国机器狼群巷战视频火了，很多人感叹中国科技强大。其实不只是军事科技，我们日常用的手机AI功能同样惊艳！今天测评荣耀手机的AI功能。', tips: '借势热点，建立关联', image: '热点截图+手机'},
+                        {section: '痛点共鸣', content: '你是不是也有这些困扰？
+• 拍照不好看，不会修图
+• 手机续航短，一天几充
+• 功能太复杂，老人不会用', tips: '描述痛点，引发共鸣', image: '痛点场景图'},
+                        {section: '产品展示', content: '荣耀手机AI功能实测：
+📸 AI拍照：自动识别场景，一键出大片
+🔋 智能省电：AI学习使用习惯，续航提升30%
+👴 简易模式：AI适配老人使用习惯', tips: '功能对应痛点', image: '功能展示3-5张'},
+                        {section: '使用体验', content: '实测一周体验：
+✅ 优点：AI拍照真的省心，老人也能拍出好照片
+✅ 优点：续航确实提升，一天一充够用
+⚠️ 缺点：AI功能需要学习成本
+👥 适合人群：拍照爱好者、长辈、商务人士', tips: '客观评价', image: '使用场景图'},
+                        {section: '效果对比', content: 'AI拍照 vs 普通拍照
+左：普通模式 | 右：AI模式
+明显看出AI模式色彩更好、细节更清晰', tips: '同场景对比', image: 'Before/After对比'},
+                        {section: '总结', content: '值得买吗？
+💰 性价比：⭐⭐⭐⭐
+📱 推荐度：⭐⭐⭐⭐⭐
+适合想要省心拍照、长续航的用户', tips: '明确结论', image: '总结图'},
+                        {section: 'CTA', content: '你觉得中国科技强吗？荣耀手机怎么样？评论区聊聊~
+
+#中国科技 #荣耀手机 #AI拍照 #机器狼群 #手机测评', tips: '引导互动+标签', image: '产品图+提问'}
+                    ],
+                    tags: ['#中国科技', '#荣耀手机', '#AI拍照', '#机器狼群', '#手机测评', '#科技强国'],
+                    imageCount: '6-9张',
+                    keyTips: ['借势热点提高曝光', '痛点-方案对应', '客观评价建立信任', '对比图增强说服力']
+                }
             },
             'AHC测评脚本': {
-                platform: '小红书',
-                format: '图文笔记',
-                cover: 'AHC水乳真实测评 | 不吹不黑',
-                structure: [
-                    {section: '标题', content: '《我的春日粉彩妆容公式｜AHC水乳测评》'},
-                    {section: '开篇', content: '最近粉彩妆容很火，作为干皮，必须给大家测评一下AHC水乳'},
-                    {section: '产品展示', content: '产品外观+细节图（3-5张）'},
-                    {section: '使用感受', content: '优点：补水保湿效果好，吸收快\n缺点：香味有点重\n适合人群：干皮、混干皮'},
-                    {section: '效果对比', content: '使用前后对比图'},
-                    {section: '总结', content: '值得买吗？我的建议是值得入手'},
-                    {section: 'CTA', content: '你用过吗？评论区聊聊~'}
-                ],
-                tags: ['#粉彩妆容', '#AHC水乳', '#测评', '#真实体验', '#干皮救星'],
-                imageCount: '6-9张'
+                video: {
+                    methodology: 'SCQA模型（情境→冲突→问题→答案）',
+                    hook: '春日粉彩妆容公式火了？但底妆不服帖怎么办？',
+                    scenes: [
+                        {time: '0-3秒', step: 'Situation情境', content: '热点引入：春日粉彩妆容公式火了，很多人跟风学', visual: '粉彩妆容视频+羡慕表情', tips: '借势热点'},
+                        {time: '3-8秒', step: 'Conflict冲突', content: '转折：但很多人画出来卡粉、脱妆，为什么？', visual: '卡粉脱妆特写', tips: '制造冲突'},
+                        {time: '8-20秒', step: 'Question问题', content: '问题：底妆不服帖？可能是护肤没做好！AHC水乳打底', visual: 'AHC水乳展示+使用', tips: '提出问题+解决方案'},
+                        {time: '20-25秒', step: 'Answer答案', content: '效果：用了AHC水乳打底，妆容服帖一整天！', visual: '前后对比', tips: '给出答案'},
+                        {time: '25-30秒', step: 'CTA', content: '你也有卡粉困扰吗？评论区告诉我！', visual: '手持产品+引导', tips: '引导互动'}
+                    ],
+                    bgm: '轻快节奏音乐',
+                    textOverlay: ['粉彩妆容🔥', '卡粉困扰', 'AHC水乳', '护肤打底', '妆容服帖', '亲测有效'],
+                    keyTips: ['SCQA结构清晰', '冲突制造紧迫感', '产品自然出现', '效果对比增强说服力']
+                },
+                graphic: {
+                    methodology: '痛点-解决方案模型',
+                    cover: '春日粉彩妆容公式🔥 | 但卡粉怎么办？| AHC水乳打底秘诀',
+                    structure: [
+                        {section: '封面', content: '春日粉彩妆容公式火了🔥 | 但很多人卡粉脱妆 | AHC水乳打底秘诀', tips: '热点+痛点+方案', image: '粉彩妆容+卡粉对比+AHC'},
+                        {section: '开篇', content: '最近"春日粉彩妆容公式"在小红书超火，笔记12万+，浏览3.2亿！但很多人跟风画出来卡粉、脱妆、不服帖...其实问题出在护肤打底！', tips: '数据增强说服力', image: '热点数据截图'},
+                        {section: '痛点共鸣', content: '这些困扰你有吗？
+😭 妆容卡粉，像面具一样假
+😭 不到中午就脱妆，暗沉发黄
+😭 鼻翼嘴角总是浮粉
+其实90%的底妆问题都是护肤没做好！', tips: '放大痛点', image: '卡粉特写'},
+                        {section: '问题分析', content: '为什么底妆不服帖？
+1️⃣ 皮肤缺水，吸收不了粉底
+2️⃣ 角质层厚，粉底浮在表面
+3️⃣ 水油不平衡，T区油两颊干
+解决方案：AHC水乳打底，补水保湿+调理角质', tips: '专业分析', image: '皮肤问题图解'},
+                        {section: '产品展示', content: 'AHC水乳测评：
+💧 质地：清爽不黏腻，吸收快
+🌸 香味：淡淡花香，不刺鼻
+🧪 成分：玻尿酸+植物提取物
+💰 价格：百元内，学生党友好', tips: '全方位展示', image: '产品细节3-5张'},
+                        {section: '使用方法', content: '正确打底步骤：
+1️⃣ 洁面后用AHC水，轻拍吸收
+2️⃣ 等2分钟，让水充分渗透
+3️⃣ 涂AHC乳液，按摩至吸收
+4️⃣ 再等3分钟，开始上底妆
+⏰ 总共5分钟，底妆服帖一整天！', tips: '步骤化教学', image: '使用步骤图'},
+                        {section: '效果对比', content: '使用AHC水乳打底 vs 直接上底妆
+左：直接上底妆-卡粉、浮粉
+右：AHC打底后-服帖、自然
+明显看出右边妆容更精致！', tips: '对比增强说服力', image: 'Before/After对比'},
+                        {section: '总结', content: '春日粉彩妆容公式确实好看，但前提是底妆服帖！
+AHC水乳打底，5分钟解决卡粉问题，百元内性价比超高！
+
+💰 性价比：⭐⭐⭐⭐⭐
+👍 推荐度：⭐⭐⭐⭐⭐
+👥 适合：所有肤质，尤其干皮/混干', tips: '明确结论', image: '总结图'},
+                        {section: 'CTA', content: '你也有卡粉困扰吗？用过AHC水乳吗？评论区聊聊~
+
+#春日粉彩妆容公式 #AHC水乳 #底妆服帖 #不卡粉秘诀 #护肤打底', tips: '引导互动', image: '产品图+提问'}
+                    ],
+                    tags: ['#春日粉彩妆容公式', '#AHC水乳', '#底妆服帖', '#不卡粉秘诀', '#护肤打底', '#春日妆容'],
+                    imageCount: '6-9张',
+                    keyTips: ['热点+痛点双重钩子', '专业分析建立权威', '步骤化降低门槛', '对比图增强说服力']
+                }
             }
         };
         
@@ -1380,39 +1492,59 @@
         
         function renderScript() {
             const body = document.getElementById('scriptBody');
+            const script = scripts[currentScript] || scripts['荣耀手机测评脚本'];
             let html = '';
             
             if (currentTab === 'video') {
                 // 视频脚本
+                const video = script.video;
+                html += `<div class="script-methodology">📚 方法论：${video.methodology}</div>`;
                 html += `<h4>🎬 抖音视频脚本 (30秒)</h4>`;
-                html += `<p><strong>BGM：</strong>热门卡点音乐（节奏感强）</p>`;
-                html += `<p><strong>Hook：</strong>看完这篇不踩坑！</p>`;
+                html += `<p><strong>Hook钩子：</strong>${video.hook}</p>`;
+                html += `<p><strong>BGM：</strong>${video.bgm}</p>`;
                 html += '<h5>分镜脚本：</h5>';
-                html += '<table style="width:100%; border-collapse:collapse;">';
-                html += '<tr style="background:#f5f5f5;"><th style="padding:8px; border:1px solid #ddd;">时间</th><th style="padding:8px; border:1px solid #ddd;">文案</th><th style="padding:8px; border:1px solid #ddd;">画面</th></tr>';
-                html += '<tr><td style="padding:8px; border:1px solid #ddd;">0-3秒</td><td style="padding:8px; border:1px solid #ddd;">痛点引入：你是不是也在纠结？</td><td style="padding:8px; border:1px solid #ddd;">困惑表情+产品特写</td></tr>';
-                html += '<tr><td style="padding:8px; border:1px solid #ddd;">3-8秒</td><td style="padding:8px; border:1px solid #ddd;">产品展示：今天测评XXX</td><td style="padding:8px; border:1px solid #ddd;">产品360度展示</td></tr>';
-                html += '<tr><td style="padding:8px; border:1px solid #ddd;">8-20秒</td><td style="padding:8px; border:1px solid #ddd;">核心卖点：快速展示3个优点</td><td style="padding:8px; border:1px solid #ddd;">使用场景+效果对比</td></tr>';
-                html += '<tr><td style="padding:8px; border:1px solid #ddd;">20-25秒</td><td style="padding:8px; border:1px solid #ddd;">真实体验：亲测XX天，效果XXX</td><td style="padding:8px; border:1px solid #ddd;">前后对比图</td></tr>';
-                html += '<tr><td style="padding:8px; border:1px solid #ddd;">25-30秒</td><td style="padding:8px; border:1px solid #ddd;">CTA：你用过吗？评论区分享</td><td style="padding:8px; border:1px solid #ddd;">手持产品+引导关注</td></tr>';
+                html += '<table style="width:100%; border-collapse:collapse; font-size:13px;">';
+                html += '<tr style="background:var(--primary); color:white;"><th style="padding:8px; border:1px solid #ddd;">时间</th><th style="padding:8px; border:1px solid #ddd;">方法论</th><th style="padding:8px; border:1px solid #ddd;">文案</th><th style="padding:8px; border:1px solid #ddd;">画面</th><th style="padding:8px; border:1px solid #ddd;">技巧</th></tr>';
+                video.scenes.forEach(scene => {
+                    html += `<tr>
+                        <td style="padding:8px; border:1px solid #ddd; font-weight:bold;">${scene.time}</td>
+                        <td style="padding:8px; border:1px solid #ddd; color:var(--primary);">${scene.step}</td>
+                        <td style="padding:8px; border:1px solid #ddd;">${scene.content}</td>
+                        <td style="padding:8px; border:1px solid #ddd;">${scene.visual}</td>
+                        <td style="padding:8px; border:1px solid #ddd; font-size:12px; color:var(--gray-600);">${scene.tips}</td>
+                    </tr>`;
+                });
                 html += '</table>';
-                html += `<p><strong>字幕：</strong>痛点问题 → 产品名称 → 核心卖点1 → 核心卖点2 → 核心卖点3 → 实测效果</p>`;
+                html += `<p><strong>字幕文案：</strong>${video.textOverlay.join(' → ')}</p>`;
+                html += '<div class="script-tips"><strong>💡 关键技巧：</strong><ul>';
+                video.keyTips.forEach(tip => {
+                    html += `<li>${tip}</li>`;
+                });
+                html += '</ul></div>';
             } else {
                 // 图文脚本
+                const graphic = script.graphic;
+                html += `<div class="script-methodology">📚 方法论：${graphic.methodology}</div>`;
                 html += `<h4>📝 小红书图文脚本</h4>`;
-                html += `<p><strong>封面：</strong>真实测评 | 不吹不黑</p>`;
-                html += '<h5>内容结构：</h5>';
-                html += '<ol>';
-                html += '<li><strong>标题：</strong>吸睛标题，包含关键词</li>';
-                html += '<li><strong>开篇：</strong>最近XXX很火，必须给大家测评一下</li>';
-                html += '<li><strong>产品展示：</strong>产品外观+细节图（3-5张）</li>';
-                html += '<li><strong>使用感受：</strong>优点：XXX<br>缺点：XXX<br>适合人群：XXX</li>';
-                html += '<li><strong>效果对比：</strong>使用前后对比图</li>';
-                html += '<li><strong>总结：</strong>值得买吗？我的建议是XXX</li>';
-                html += '<li><strong>CTA：</strong>你用过吗？评论区聊聊~</li>';
-                html += '</ol>';
-                html += `<p><strong>标签：</strong>#测评 #真实体验 #好物推荐</p>`;
-                html += `<p><strong>图片数：</strong>6-9张</p>`;
+                html += `<p><strong>封面：</strong>${graphic.cover}</p>`;
+                html += '<h5>内容结构（共9页）：</h5>';
+                html += '<div style="display:grid; gap:12px;">';
+                graphic.structure.forEach((item, index) => {
+                    html += `<div style="background:#f9fafb; padding:12px; border-radius:8px; border-left:3px solid var(--primary);">
+                        <div style="font-weight:bold; color:var(--primary); margin-bottom:4px;">${index + 1}. ${item.section}</div>
+                        <div style="margin-bottom:4px; white-space:pre-line;">${item.content}</div>
+                        <div style="font-size:12px; color:var(--gray-600);">💡 ${item.tips}</div>
+                        <div style="font-size:12px; color:var(--gray-500); margin-top:4px;">🖼️ ${item.image}</div>
+                    </div>`;
+                });
+                html += '</div>';
+                html += `<p style="margin-top:16px;"><strong>推荐标签：</strong>${graphic.tags.join(' ')}</p>`;
+                html += `<p><strong>图片数量：</strong>${graphic.imageCount}</p>`;
+                html += '<div class="script-tips"><strong>💡 关键技巧：</strong><ul>';
+                graphic.keyTips.forEach(tip => {
+                    html += `<li>${tip}</li>`;
+                });
+                html += '</ul></div>';
             }
             
             body.innerHTML = html;
