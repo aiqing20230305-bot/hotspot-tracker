@@ -1,0 +1,82 @@
+[
+  {
+    "id": "demo_20260326200716_3C数码",
+    "date": "20260326",
+    "timestamp": "2026-03-26T20:07:16.195777",
+    "industry": "3C数码",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "华为千元新机",
+    "metrics": {
+      "likes": 15000,
+      "comments": 800,
+      "shares": 300,
+      "views": 200000
+    },
+    "engagement_score": 9.45
+  },
+  {
+    "id": "demo_20260326200716_快消",
+    "date": "20260326",
+    "timestamp": "2026-03-26T20:07:16.196393",
+    "industry": "快消",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "春季护肤攻略",
+    "metrics": {
+      "likes": 8000,
+      "comments": 1200,
+      "shares": 500,
+      "views": 150000
+    },
+    "engagement_score": 9.4
+  },
+  {
+    "id": "demo_20260326200716_保健品",
+    "date": "20260326",
+    "timestamp": "2026-03-26T20:07:16.196759",
+    "industry": "保健品",
+    "platform": "抖音",
+    "angle": "科普知识",
+    "hot_topic": "春季养生食谱",
+    "metrics": {
+      "likes": 12000,
+      "comments": 600,
+      "shares": 400,
+      "views": 180000
+    },
+    "engagement_score": 8.777777777777777
+  },
+  {
+    "id": "demo_20260326200716_家庭清洁",
+    "date": "20260326",
+    "timestamp": "2026-03-26T20:07:16.197044",
+    "industry": "家庭清洁",
+    "platform": "抖音",
+    "angle": "效果展示",
+    "hot_topic": "春日穿搭OOTD",
+    "metrics": {
+      "likes": 10000,
+      "comments": 500,
+      "shares": 200,
+      "views": 120000
+    },
+    "engagement_score": 10.416666666666668
+  },
+  {
+    "id": "demo_20260326200716_3C数码",
+    "date": "20260326",
+    "timestamp": "2026-03-26T20:07:16.197354",
+    "industry": "3C数码",
+    "platform": "小红书",
+    "angle": "选购指南",
+    "hot_topic": "春季数码好物",
+    "metrics": {
+      "likes": 6000,
+      "comments": 400,
+      "shares": 150,
+      "views": 100000
+    },
+    "engagement_score": 7.95
+  }
+]

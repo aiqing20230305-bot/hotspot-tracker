@@ -1,0 +1,36 @@
+{
+  "schedule": {
+    "hotspot_fetch": "0 9 * * *",
+    "report_generate": "30 9 * * *",
+    "feishu_push": "0 10 * * *"
+  },
+  "feishu": {
+    "enabled": false,
+    "webhook_url": "",
+    "app_id": "",
+    "app_secret": ""
+  },
+  "dingtalk": {
+    "enabled": false,
+    "webhook_url": "",
+    "access_token": ""
+  },
+  "email": {
+    "enabled": false,
+    "smtp_server": "",
+    "smtp_port": 587,
+    "username": "",
+    "password": "",
+    "recipients": []
+  },
+  "content_rules": {
+    "min_hot_value": 10000,
+    "max_recommendations": 20,
+    "priority_threshold": 4
+  },
+  "learning": {
+    "enabled": true,
+    "feedback_days": 7,
+    "optimization_threshold": 0.1
+  }
+}

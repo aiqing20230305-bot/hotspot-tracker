@@ -1,0 +1,147 @@
+{
+  "version": "1.0",
+  "created_at": "2026-03-26T20:07:16.195747",
+  "updated_at": "2026-03-26T20:07:16.197486",
+  "industry_performance": {
+    "3C数码": {
+      "count": 2,
+      "total_score": 17.4,
+      "avg_score": 8.7,
+      "scores": [
+        9.45,
+        7.95
+      ]
+    },
+    "快消": {
+      "count": 1,
+      "total_score": 9.4,
+      "avg_score": 9.4,
+      "scores": [
+        9.4
+      ]
+    },
+    "保健品": {
+      "count": 1,
+      "total_score": 8.777777777777777,
+      "avg_score": 8.777777777777777,
+      "scores": [
+        8.777777777777777
+      ]
+    },
+    "家庭清洁": {
+      "count": 1,
+      "total_score": 10.416666666666668,
+      "avg_score": 10.416666666666668,
+      "scores": [
+        10.416666666666668
+      ]
+    }
+  },
+  "platform_performance": {
+    "抖音": {
+      "count": 3,
+      "total_score": 28.644444444444442,
+      "avg_score": 9.548148148148147,
+      "scores": [
+        9.45,
+        8.777777777777777,
+        10.416666666666668
+      ]
+    },
+    "小红书": {
+      "count": 2,
+      "total_score": 17.35,
+      "avg_score": 8.675,
+      "scores": [
+        9.4,
+        7.95
+      ]
+    }
+  },
+  "angle_performance": {
+    "产品测评": {
+      "count": 1,
+      "total_score": 9.45,
+      "avg_score": 9.45,
+      "scores": [
+        9.45
+      ]
+    },
+    "使用教程": {
+      "count": 1,
+      "total_score": 9.4,
+      "avg_score": 9.4,
+      "scores": [
+        9.4
+      ]
+    },
+    "科普知识": {
+      "count": 1,
+      "total_score": 8.777777777777777,
+      "avg_score": 8.777777777777777,
+      "scores": [
+        8.777777777777777
+      ]
+    },
+    "效果展示": {
+      "count": 1,
+      "total_score": 10.416666666666668,
+      "avg_score": 10.416666666666668,
+      "scores": [
+        10.416666666666668
+      ]
+    },
+    "选购指南": {
+      "count": 1,
+      "total_score": 7.95,
+      "avg_score": 7.95,
+      "scores": [
+        7.95
+      ]
+    }
+  },
+  "hot_topic_performance": {
+    "华为千元新机": {
+      "count": 1,
+      "total_score": 9.45,
+      "avg_score": 9.45,
+      "scores": [
+        9.45
+      ]
+    },
+    "春季护肤攻略": {
+      "count": 1,
+      "total_score": 9.4,
+      "avg_score": 9.4,
+      "scores": [
+        9.4
+      ]
+    },
+    "春季养生食谱": {
+      "count": 1,
+      "total_score": 8.777777777777777,
+      "avg_score": 8.777777777777777,
+      "scores": [
+        8.777777777777777
+      ]
+    },
+    "春日穿搭OOTD": {
+      "count": 1,
+      "total_score": 10.416666666666668,
+      "avg_score": 10.416666666666668,
+      "scores": [
+        10.416666666666668
+      ]
+    },
+    "春季数码好物": {
+      "count": 1,
+      "total_score": 7.95,
+      "avg_score": 7.95,
+      "scores": [
+        7.95
+      ]
+    }
+  },
+  "time_performance": {},
+  "optimization_rules": []
+}
