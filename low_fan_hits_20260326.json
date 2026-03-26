@@ -1,0 +1,363 @@
+{
+  "generated_at": "2026-03-26T21:22:24.212883",
+  "date": "20260326",
+  "total_count": 8,
+  "platform_stats": {
+    "抖音": 5,
+    "小红书": 3
+  },
+  "category_stats": {
+    "家居": 1,
+    "亲子": 1,
+    "职场": 1,
+    "生活": 2,
+    "美妆": 2,
+    "理财": 1
+  },
+  "methodology_stats": {
+    "反差对比": 3,
+    "情绪价值": 1,
+    "痛点共鸣": 3,
+    "综合型": 1
+  },
+  "top_hits": [
+    {
+      "id": "dy_20260326_2",
+      "platform": "抖音",
+      "account_name": "租房改造家",
+      "fan_count": 5600,
+      "content_title": "500元改造10平米出租屋，房东以为走错门",
+      "content_url": "https://www.douyin.com/search/500元改造10平米",
+      "like_count": 234000,
+      "comment_count": 12000,
+      "share_count": 25000,
+      "publish_date": "20260326",
+      "category": "家居",
+      "tags": [
+        "租房改造",
+        "低成本",
+        "前后对比"
+      ],
+      "methodology": "反差对比：通过强烈对比制造冲突，吸引注意力",
+      "why_it_works": "内容质量高，符合平台算法推荐",
+      "engagement_rate": 48.39
+    },
+    {
+      "id": "xhs_20260326_2",
+      "platform": "小红书",
+      "account_name": "职场妈妈",
+      "fan_count": 4500,
+      "content_title": "职场妈妈的一天，看完你还想生孩子吗",
+      "content_url": "https://www.xiaohongshu.com/search/职场妈妈的一天，看完",
+      "like_count": 123000,
+      "comment_count": 15000,
+      "share_count": 18000,
+      "publish_date": "20260326",
+      "category": "亲子",
+      "tags": [
+        "职场妈妈",
+        "育儿",
+        "真实生活"
+      ],
+      "methodology": "情绪价值：提供情绪价值，满足情感需求",
+      "why_it_works": "高评论率，说明内容引发强烈共鸣/争议",
+      "engagement_rate": 34.67
+    },
+    {
+      "id": "dy_20260326_3",
+      "platform": "抖音",
+      "account_name": "职场老油条",
+      "fan_count": 3200,
+      "content_title": "老板以为我在加班，其实我在...",
+      "content_url": "https://www.douyin.com/search/老板以为我在加班，其",
+      "like_count": 67800,
+      "comment_count": 4500,
+      "share_count": 5600,
+      "publish_date": "20260326",
+      "category": "职场",
+      "tags": [
+        "打工人",
+        "职场",
+        "搞笑"
+      ],
+      "methodology": "痛点共鸣：精准击中用户痛点，引发情感共鸣",
+      "why_it_works": "内容质量高，符合平台算法推荐",
+      "engagement_rate": 24.34
+    },
+    {
+      "id": "dy_20260326_0",
+      "platform": "抖音",
+      "account_name": "小王爱测评",
+      "fan_count": 8500,
+      "content_title": "月薪3000 vs 月薪30000的早餐差别",
+      "content_url": "https://www.douyin.com/search/月薪3000 vs ",
+      "like_count": 156000,
+      "comment_count": 8900,
+      "share_count": 12000,
+      "publish_date": "20260326",
+      "category": "生活",
+      "tags": [
+        "贫富差距",
+        "早餐",
+        "生活对比"
+      ],
+      "methodology": "痛点共鸣：精准击中用户痛点，引发情感共鸣",
+      "why_it_works": "使用对比手法，制造视觉/心理冲击",
+      "engagement_rate": 20.81
+    },
+    {
+      "id": "xhs_20260326_1",
+      "platform": "小红书",
+      "account_name": "独居生活家",
+      "fan_count": 9200,
+      "content_title": "25岁独居女生的周末，治愈又充实",
+      "content_url": "https://www.xiaohongshu.com/search/25岁独居女生的周末",
+      "like_count": 156000,
+      "comment_count": 8900,
+      "share_count": 23000,
+      "publish_date": "20260326",
+      "category": "生活",
+      "tags": [
+        "独居",
+        "治愈",
+        "生活方式"
+      ],
+      "methodology": "痛点共鸣：精准击中用户痛点，引发情感共鸣",
+      "why_it_works": "内容质量高，符合平台算法推荐",
+      "engagement_rate": 20.42
+    },
+    {
+      "id": "xhs_20260326_0",
+      "platform": "小红书",
+      "account_name": "护肤小白成长记",
+      "fan_count": 6800,
+      "content_title": "坚持护肤30天，皮肤变化惊艳到我了",
+      "content_url": "https://www.xiaohongshu.com/search/坚持护肤30天，皮肤",
+      "like_count": 89000,
+      "comment_count": 6700,
+      "share_count": 12000,
+      "publish_date": "20260326",
+      "category": "美妆",
+      "tags": [
+        "护肤打卡",
+        "30天挑战",
+        "前后对比"
+      ],
+      "methodology": "反差对比：通过强烈对比制造冲突，吸引注意力",
+      "why_it_works": "视觉化内容，易传播",
+      "engagement_rate": 15.84
+    },
+    {
+      "id": "dy_20260326_4",
+      "platform": "抖音",
+      "account_name": "省钱小能手",
+      "fan_count": 15000,
+      "content_title": "一年存下10万，我的省钱秘诀大公开",
+      "content_url": "https://www.douyin.com/search/一年存下10万，我的",
+      "like_count": 112000,
+      "comment_count": 7800,
+      "share_count": 15000,
+      "publish_date": "20260326",
+      "category": "理财",
+      "tags": [
+        "省钱",
+        "理财",
+        "干货"
+      ],
+      "methodology": "综合型：多种方法结合",
+      "why_it_works": "精准击中目标人群痛点",
+      "engagement_rate": 8.99
+    },
+    {
+      "id": "dy_20260326_1",
+      "platform": "抖音",
+      "account_name": "美妆小白",
+      "fan_count": 12000,
+      "content_title": "新手化妆误区，90%的人都踩过",
+      "content_url": "https://www.douyin.com/search/新手化妆误区，90%",
+      "like_count": 89000,
+      "comment_count": 5600,
+      "share_count": 7800,
+      "publish_date": "20260326",
+      "category": "美妆",
+      "tags": [
+        "新手教程",
+        "化妆误区",
+        "干货"
+      ],
+      "methodology": "反差对比：通过强烈对比制造冲突，吸引注意力",
+      "why_it_works": "视觉化内容，易传播",
+      "engagement_rate": 8.53
+    }
+  ],
+  "all_hits": [
+    {
+      "id": "dy_20260326_2",
+      "platform": "抖音",
+      "account_name": "租房改造家",
+      "fan_count": 5600,
+      "content_title": "500元改造10平米出租屋，房东以为走错门",
+      "content_url": "https://www.douyin.com/search/500元改造10平米",
+      "like_count": 234000,
+      "comment_count": 12000,
+      "share_count": 25000,
+      "publish_date": "20260326",
+      "category": "家居",
+      "tags": [
+        "租房改造",
+        "低成本",
+        "前后对比"
+      ],
+      "methodology": "反差对比：通过强烈对比制造冲突，吸引注意力",
+      "why_it_works": "内容质量高，符合平台算法推荐",
+      "engagement_rate": 48.39
+    },
+    {
+      "id": "xhs_20260326_2",
+      "platform": "小红书",
+      "account_name": "职场妈妈",
+      "fan_count": 4500,
+      "content_title": "职场妈妈的一天，看完你还想生孩子吗",
+      "content_url": "https://www.xiaohongshu.com/search/职场妈妈的一天，看完",
+      "like_count": 123000,
+      "comment_count": 15000,
+      "share_count": 18000,
+      "publish_date": "20260326",
+      "category": "亲子",
+      "tags": [
+        "职场妈妈",
+        "育儿",
+        "真实生活"
+      ],
+      "methodology": "情绪价值：提供情绪价值，满足情感需求",
+      "why_it_works": "高评论率，说明内容引发强烈共鸣/争议",
+      "engagement_rate": 34.67
+    },
+    {
+      "id": "dy_20260326_3",
+      "platform": "抖音",
+      "account_name": "职场老油条",
+      "fan_count": 3200,
+      "content_title": "老板以为我在加班，其实我在...",
+      "content_url": "https://www.douyin.com/search/老板以为我在加班，其",
+      "like_count": 67800,
+      "comment_count": 4500,
+      "share_count": 5600,
+      "publish_date": "20260326",
+      "category": "职场",
+      "tags": [
+        "打工人",
+        "职场",
+        "搞笑"
+      ],
+      "methodology": "痛点共鸣：精准击中用户痛点，引发情感共鸣",
+      "why_it_works": "内容质量高，符合平台算法推荐",
+      "engagement_rate": 24.34
+    },
+    {
+      "id": "dy_20260326_0",
+      "platform": "抖音",
+      "account_name": "小王爱测评",
+      "fan_count": 8500,
+      "content_title": "月薪3000 vs 月薪30000的早餐差别",
+      "content_url": "https://www.douyin.com/search/月薪3000 vs ",
+      "like_count": 156000,
+      "comment_count": 8900,
+      "share_count": 12000,
+      "publish_date": "20260326",
+      "category": "生活",
+      "tags": [
+        "贫富差距",
+        "早餐",
+        "生活对比"
+      ],
+      "methodology": "痛点共鸣：精准击中用户痛点，引发情感共鸣",
+      "why_it_works": "使用对比手法，制造视觉/心理冲击",
+      "engagement_rate": 20.81
+    },
+    {
+      "id": "xhs_20260326_1",
+      "platform": "小红书",
+      "account_name": "独居生活家",
+      "fan_count": 9200,
+      "content_title": "25岁独居女生的周末，治愈又充实",
+      "content_url": "https://www.xiaohongshu.com/search/25岁独居女生的周末",
+      "like_count": 156000,
+      "comment_count": 8900,
+      "share_count": 23000,
+      "publish_date": "20260326",
+      "category": "生活",
+      "tags": [
+        "独居",
+        "治愈",
+        "生活方式"
+      ],
+      "methodology": "痛点共鸣：精准击中用户痛点，引发情感共鸣",
+      "why_it_works": "内容质量高，符合平台算法推荐",
+      "engagement_rate": 20.42
+    },
+    {
+      "id": "xhs_20260326_0",
+      "platform": "小红书",
+      "account_name": "护肤小白成长记",
+      "fan_count": 6800,
+      "content_title": "坚持护肤30天，皮肤变化惊艳到我了",
+      "content_url": "https://www.xiaohongshu.com/search/坚持护肤30天，皮肤",
+      "like_count": 89000,
+      "comment_count": 6700,
+      "share_count": 12000,
+      "publish_date": "20260326",
+      "category": "美妆",
+      "tags": [
+        "护肤打卡",
+        "30天挑战",
+        "前后对比"
+      ],
+      "methodology": "反差对比：通过强烈对比制造冲突，吸引注意力",
+      "why_it_works": "视觉化内容，易传播",
+      "engagement_rate": 15.84
+    },
+    {
+      "id": "dy_20260326_4",
+      "platform": "抖音",
+      "account_name": "省钱小能手",
+      "fan_count": 15000,
+      "content_title": "一年存下10万，我的省钱秘诀大公开",
+      "content_url": "https://www.douyin.com/search/一年存下10万，我的",
+      "like_count": 112000,
+      "comment_count": 7800,
+      "share_count": 15000,
+      "publish_date": "20260326",
+      "category": "理财",
+      "tags": [
+        "省钱",
+        "理财",
+        "干货"
+      ],
+      "methodology": "综合型：多种方法结合",
+      "why_it_works": "精准击中目标人群痛点",
+      "engagement_rate": 8.99
+    },
+    {
+      "id": "dy_20260326_1",
+      "platform": "抖音",
+      "account_name": "美妆小白",
+      "fan_count": 12000,
+      "content_title": "新手化妆误区，90%的人都踩过",
+      "content_url": "https://www.douyin.com/search/新手化妆误区，90%",
+      "like_count": 89000,
+      "comment_count": 5600,
+      "share_count": 7800,
+      "publish_date": "20260326",
+      "category": "美妆",
+      "tags": [
+        "新手教程",
+        "化妆误区",
+        "干货"
+      ],
+      "methodology": "反差对比：通过强烈对比制造冲突，吸引注意力",
+      "why_it_works": "视觉化内容，易传播",
+      "engagement_rate": 8.53
+    }
+  ]
+}
