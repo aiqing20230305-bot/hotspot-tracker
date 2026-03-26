@@ -73,6 +73,13 @@
             color: var(--primary);
         }
         
+        .nav-logo {
+            font-size: 24px;
+            font-weight: 800;
+            color: var(--primary);
+            text-decoration: none;
+        }
+        
         /* 主容器 */
         .main-container {
             max-width: 1400px;
@@ -391,13 +398,14 @@
     <!-- 导航栏 -->
     <nav class="navbar">
         <div class="nav-container">
-            <div class="logo">🎯 特赞内容运营平台</div>
+            <a href="platform.html" class="nav-logo">🎯 特赞内容运营平台</a>
             <div class="nav-tabs">
                 <a href="platform.html" class="nav-tab">首页</a>
                 <a href="index.html" class="nav-tab">热点追踪</a>
                 <a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
                 <a href="client_center.html" class="nav-tab">客户选题</a>
                 <a href="sku_library.html" class="nav-tab active">SKU场景</a>
+                <a href="dashboard.html" class="nav-tab">数据看板</a>
             </div>
         </div>
     </nav>
@@ -691,6 +699,124 @@
             event.stopPropagation();
             alert(`正在为以下SKU和场景生成脚本：\n\n产品：${sku}\n场景：${scenario}\n\n将结合AIDA/SCQA方法论生成视频/图文脚本...`);
         }
+    </script>
+</body>
+</html>
+                            <div class="content-angles-title">📝 内容角度</div>
+                                <div class="content-angle-item">春季大扫除神器，30分钟搞定全屋</div>
+                                <div class="content-angle-item">租房党必备，退租清洁不扣押金</div>
+                                <div class="content-angle-item">一喷一擦，厨房油污轻松搞定</div>
+                            </div>
+                            <div class="hot-topics">
+                                <div class="hot-topics-title">🔥 可匹配热点</div>
+                                <div class="hot-topic-tags">
+                                    <span class="hot-topic-tag">春季大扫除</span>
+                                    <span class="hot-topic-tag">租房清洁</span>
+                                    <span class="hot-topic-tag">厨房油污</span>
+                                </div>
+                            </div>
+                            <div class="scenario-actions">
+                                <button class="action-btn primary">📄 生成内容</button>
+                                <button class="action-btn">🎬 生成脚本</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="scenario-item">
+                        <div class="scenario-header" onclick="toggleScenario(this)">
+                            <div class="scenario-name">💼 日常快速清洁</div>
+                            <div class="scenario-expand">▼</div>
+                        </div>
+                        <div class="scenario-body">
+                            <div class="scenario-pain">用户痛点：工作忙没时间打扫，家里乱糟糟</div>
+                            <div class="scenario-resonance"><strong>情感共鸣：</strong>想要保持整洁，但没时间大扫</div>
+                            <div class="content-angles">
+                                <div class="content-angles-title">📝 内容角度</div>
+                                <div class="content-angle-item">每天5分钟，家里永远干净整洁</div>
+                                <div class="content-angle-item">懒人清洁法，一喷一擦就干净</div>
+                                <div class="content-angle-item">上班族必备，周末不用大扫除</div>
+                            </div>
+                            <div class="hot-topics">
+                                <div class="hot-topics-title">🔥 可匹配热点</div>
+                                <div class="hot-topic-tags">
+                                    <span class="hot-topic-tag">日常清洁</span>
+                                    <span class="hot-topic-tag">懒人清洁</span>
+                                    <span class="hot-topic-tag">上班族</span>
+                                </div>
+                            </div>
+                            <div class="scenario-actions">
+                                <button class="action-btn primary">📄 生成内容</button>
+                                <button class="action-btn">🎬 生成脚本</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="scenario-item">
+                        <div class="scenario-header" onclick="toggleScenario(this)">
+                            <div class="scenario-name">👶 母婴家庭</div>
+                            <div class="scenario-expand">▼</div>
+                        </div>
+                        <div class="scenario-body">
+                            <div class="scenario-pain">用户痛点：有宝宝后更注重清洁，但怕化学残留</div>
+                            <div class="scenario-resonance"><strong>情感共鸣：</strong>想要安全清洁，保护宝宝健康</div>
+                            <div class="content-angles">
+                                <div class="content-angles-title">📝 内容角度</div>
+                                <div class="content-angle-item">母婴家庭专用，安全无残留</div>
+                                <div class="content-angle-item">宝宝爬行的地方也能用</div>
+                                <div class="content-angle-item">新手妈妈必备，清洁又安心</div>
+                            </div>
+                            <div class="hot-topics">
+                                <div class="hot-topics-title">🔥 可匹配热点</div>
+                                <div class="hot-topic-tags">
+                                    <span class="hot-topic-tag">母婴清洁</span>
+                                    <span class="hot-topic-tag">安全清洁</span>
+                                    <span class="hot-topic-tag">新手妈妈</span>
+                                </div>
+                            </div>
+                            <div class="scenario-actions">
+                                <button class="action-btn primary">📄 生成内容</button>
+                                <button class="action-btn">🎬 生成脚本</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function toggleScenario(header) {
+            const item = header.parentElement;
+            item.classList.toggle('expanded');
+        }
+        
+        function toggleSku(header) {
+            // SKU header点击不展开，保持列表式
+        }
+        
+        function filterByClient(client) {
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            const cards = document.querySelectorAll('.sku-card');
+            cards.forEach(card => {
+                if (client === 'all' || card.dataset.client.includes(client)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+        
+        // 默认展开第一个SKU
+        document.addEventListener('DOMContentLoaded', function() {
+            const firstSku = document.querySelector('.sku-card');
+            if (firstSku) {
+                const scenarios = firstSku.querySelectorAll('.scenario-item');
+                scenarios.forEach((s, i) => {
+                    if (i < 2) s.classList.add('expanded');
+                    else s.classList.remove('expanded');
+                });
+            }
+        });
     </script>
 </body>
 </html>
