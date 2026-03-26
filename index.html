@@ -1364,6 +1364,14 @@
         </div>
     </div>
     
+    <!-- 热点详情弹窗 -->
+    <div class="detail-modal" id="detailModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); z-index:9999; align-items:center; justify-content:center;">
+        <div style="background:white; border-radius:16px; max-width:600px; width:90%; max-height:80vh; overflow:auto; padding:24px; position:relative;">
+            <button onclick="closeDetailModal()" style="position:absolute; top:16px; right:16px; background:none; border:none; font-size:28px; cursor:pointer; color:#999;">&times;</button>
+            <div id="detailContent"></div>
+        </div>
+    </div>
+    
     <!-- 脚本弹窗 -->
     <div class="script-modal" id="scriptModal">
         <div class="script-content">
@@ -1591,23 +1599,112 @@ AHC水乳打底，5分钟解决卡粉问题，百元内性价比超高！
             }
         });
         
-        // 热点展开/收起功能
-        function toggleTopic(element) {
-            const detail = element.querySelector('.hot-topic-detail');
-            const isActive = detail.classList.contains('active');
+        // 热点详情弹窗
+        function showDetail(title, platform, heat, trend, contentType, audience, bestTime, logic, link, clients) {
+            const modal = document.getElementById('detailModal');
+            const content = document.getElementById('detailContent');
             
-            // 关闭所有其他展开的热点
-            document.querySelectorAll('.hot-topic-detail.active').forEach(d => {
-                d.classList.remove('active');
-                d.closest('.hot-topic-item').classList.remove('expanded');
+            content.innerHTML = `
+                <div style="margin-bottom:16px;">
+                    <span style="background:${platform === '抖音' ? '#1C1C1D' : platform === '微博' ? '#FF6600' : '#FF2442'}; color:white; padding:4px 12px; border-radius:6px; font-size:12px; font-weight:600;">${platform}</span>
+                    <span style="color:#EF4444; font-weight:700; margin-left:12px;">🔥 ${heat}</span>
+                </div>
+                <h2 style="font-size:20px; margin-bottom:16px; color:#1F2937;">${title}</h2>
+                
+                <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:16px;">
+                    <div style="background:#F3F4F6; padding:12px; border-radius:8px;">
+                        <div style="font-size:12px; color:#6B7280;">热度趋势</div>
+                        <div style="font-weight:600; color:#EF4444;">${trend}</div>
+                    </div>
+                    <div style="background:#F3F4F6; padding:12px; border-radius:8px;">
+                        <div style="font-size:12px; color:#6B7280;">最佳发布时间</div>
+                        <div style="font-weight:600;">${bestTime}</div>
+                    </div>
+                </div>
+                
+                <div style="margin-bottom:16px;">
+                    <div style="font-size:14px; font-weight:600; color:#6B7280; margin-bottom:6px;">内容类型</div>
+                    <div style="font-size:14px;">${contentType}</div>
+                </div>
+                
+                <div style="margin-bottom:16px;">
+                    <div style="font-size:14px; font-weight:600; color:#6B7280; margin-bottom:6px;">受众人群</div>
+                    <div style="font-size:14px;">${audience}</div>
+                </div>
+                
+                <div style="background:linear-gradient(135deg, #EEF2FF 0%, #E0E7FF 100%); padding:16px; border-radius:12px; border-left:4px solid #6366F1; margin-bottom:16px;">
+                    <div style="font-size:14px; font-weight:700; color:#6366F1; margin-bottom:12px;">🧠 热点背后逻辑</div>
+                    <div style="font-size:13px; line-height:1.8; color:#4B5563;">${logic}</div>
+                </div>
+                
+                <a href="${link}" target="_blank" style="display:inline-flex; align-items:center; gap:6px; padding:10px 20px; background:#6366F1; color:white; border-radius:8px; text-decoration:none; font-weight:600; margin-bottom:16px;">
+                    🔗 浏览内容
+                </a>
+                
+                <div style="border-top:1px solid #E5E7EB; padding-top:16px;">
+                    <div style="font-size:14px; font-weight:600; color:#6B7280; margin-bottom:8px;">💡 可借势客户</div>
+                    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+                        ${clients.map(c => `<span style="background:#EEF2FF; color:#6366F1; padding:4px 12px; border-radius:12px; font-size:12px;">${c}</span>`).join('')}
+                    </div>
+                </div>
+            `;
+            
+            modal.style.display = 'flex';
+        }
+        
+        function closeDetailModal() {
+            document.getElementById('detailModal').style.display = 'none';
+        }
+        
+        // 点击弹窗外部关闭
+        document.getElementById('detailModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeDetailModal();
+            }
+        });
+        
+        // 热点点击功能
+        function toggleTopic(element) {
+            const title = element.querySelector('.topic-title').textContent.replace(' ▼', '').trim();
+            const meta = element.querySelector('.topic-meta');
+            const platform = meta.querySelector('.platform-badge') ? meta.querySelector('.platform-badge').textContent : '未知';
+            const heat = element.querySelector('.heat-value') ? element.querySelector('.heat-value').textContent : '';
+            const detail = element.querySelector('.hot-topic-detail');
+            
+            // 提取详情信息
+            const rows = detail.querySelectorAll('.detail-row');
+            let trend = '', contentType = '', audience = '', bestTime = '', link = '';
+            rows.forEach(row => {
+                const label = row.querySelector('.detail-label') ? row.querySelector('.detail-label').textContent : '';
+                const value = row.querySelector('.detail-value') ? row.querySelector('.detail-value').textContent : '';
+                if (label.includes('热度趋势')) trend = value;
+                if (label.includes('内容类型')) contentType = value;
+                if (label.includes('受众人群')) audience = value;
+                if (label.includes('最佳发布时间')) bestTime = value;
+                if (label.includes('内容链接')) {
+                    const a = row.querySelector('a');
+                    if (a) link = a.href;
+                }
             });
             
-            // 切换当前热点
-            if (!isActive) {
-                detail.classList.add('active');
-                element.classList.add('expanded');
-            }
+            const logic = detail.querySelector('.logic-content') ? detail.querySelector('.logic-content').innerHTML : '';
+            const clients = [];
+            detail.querySelectorAll('.client-tag').forEach(tag => clients.push(tag.textContent));
+            
+            showDetail(title, platform, heat, trend, contentType, audience, bestTime, logic, link, clients);
         }
+        
+        // 关闭按钮
+        function closeScript() {
+            document.getElementById('scriptModal').classList.remove('active');
+        }
+        
+        // 点击弹窗外部关闭
+        document.getElementById('scriptModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeScript();
+            }
+        });
     </script>
 </body>
 </html>
