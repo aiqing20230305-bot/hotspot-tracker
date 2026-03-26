@@ -1,0 +1,207 @@
+{
+  "generated_at": "2026-03-26T13:30:32.100212",
+  "source": "unknown",
+  "note": "基于竞品分析推断",
+  "hot_list": [
+    {
+      "rank": 1,
+      "title": "春日穿搭",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "服装"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "口红试色",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "美妆"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "护肤心得",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "美妆"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "宝宝用品",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "母婴"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "手机测评",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "数码"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "零食推荐",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "食品"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "养生日常",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "大健康"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "新能源车",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "汽车"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "家电推荐",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "家电"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "日用品分享",
+      "platform": "小红书",
+      "source": "推断",
+      "industries": [
+        "快消"
+      ]
+    }
+  ],
+  "industry_analysis": {
+    "美妆": [
+      {
+        "rank": 2,
+        "title": "口红试色",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "美妆"
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "护肤心得",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "美妆"
+        ]
+      }
+    ],
+    "母婴": [
+      {
+        "rank": 4,
+        "title": "宝宝用品",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "母婴"
+        ]
+      }
+    ],
+    "数码": [
+      {
+        "rank": 5,
+        "title": "手机测评",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "数码"
+        ]
+      }
+    ],
+    "服装": [
+      {
+        "rank": 1,
+        "title": "春日穿搭",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "服装"
+        ]
+      }
+    ],
+    "食品": [
+      {
+        "rank": 6,
+        "title": "零食推荐",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "食品"
+        ]
+      }
+    ],
+    "汽车": [
+      {
+        "rank": 8,
+        "title": "新能源车",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "汽车"
+        ]
+      }
+    ],
+    "大健康": [
+      {
+        "rank": 7,
+        "title": "养生日常",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "大健康"
+        ]
+      }
+    ],
+    "快消": [
+      {
+        "rank": 10,
+        "title": "日用品分享",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "快消"
+        ]
+      }
+    ],
+    "家电": [
+      {
+        "rank": 9,
+        "title": "家电推荐",
+        "platform": "小红书",
+        "source": "推断",
+        "industries": [
+          "家电"
+        ]
+      }
+    ]
+  }
+}

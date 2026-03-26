@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📰 内容运营日报 - 2026年3月26日</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .meta-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            padding: 20px 40px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .meta-item {
+            text-align: center;
+        }
+        
+        .meta-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        
+        .meta-value {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .section {
+            margin-bottom: 40px;
+        }
+        
+        .section-title {
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #667eea;
+        }
+        
+        .industry-card {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+        
+        .industry-card:hover {
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+            transform: translateX(5px);
+        }
+        
+        .industry-title {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .priority-badge {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            margin-left: 10px;
+        }
+        
+        .stars {
+            color: #ffc107;
+            margin-left: 5px;
+        }
+        
+        .topic-item {
+            margin: 10px 0;
+            padding: 10px;
+            background: white;
+            border-radius: 5px;
+        }
+        
+        .topic-name {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .topic-heat {
+            color: #ff6b6b;
+            font-weight: bold;
+        }
+        
+        .content-box {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+        
+        .suggestion-list {
+            list-style: none;
+            margin: 15px 0;
+        }
+        
+        .suggestion-list li {
+            padding: 10px;
+            margin: 8px 0;
+            background: #e8f5e9;
+            border-left: 3px solid #4caf50;
+            border-radius: 3px;
+        }
+        
+        .suggestion-list li:before {
+            content: "✓ ";
+            color: #4caf50;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+        
+        .action-button {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 6px;
+            text-decoration: none;
+            margin: 10px 5px 10px 0;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 1em;
+        }
+        
+        .action-button:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+        }
+        
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .table th {
+            background: #667eea;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: bold;
+        }
+        
+        .table td {
+            padding: 12px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .table tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .footer {
+            background: #f8f9fa;
+            padding: 30px 40px;
+            text-align: center;
+            border-top: 1px solid #e0e0e0;
+            color: #666;
+        }
+        
+        .share-buttons {
+            margin: 20px 0;
+            text-align: center;
+        }
+        
+        .share-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 0 5px;
+            background: #667eea;
+            color: white;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 0.95em;
+            transition: all 0.3s ease;
+        }
+        
+        .share-btn:hover {
+            background: #764ba2;
+        }
+        
+        .copy-link {
+            background: #f0f0f0;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .copy-link input {
+            flex: 1;
+            border: none;
+            background: white;
+            padding: 10px;
+            border-radius: 3px;
+            margin-right: 10px;
+        }
+        
+        .copy-link button {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        
+        .priority-1 { border-left-color: #ff6b6b; }
+        .priority-2 { border-left-color: #ffc107; }
+        .priority-3 { border-left-color: #4caf50; }
+        
+        @media (max-width: 768px) {
+            .header h1 { font-size: 1.8em; }
+            .content { padding: 20px; }
+            .meta-info { padding: 15px 20px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 头部 -->
+        <div class="header">
+            <h1>📰 内容运营日报</h1>
+            <p>热点追踪 + 行业洞察 + 竞品分析</p>
+        </div>
+        
+        <!-- 元信息 -->
+        <div class="meta-info">
+            <div class="meta-item">
+                <div class="meta-label">📅 日期</div>
+                <div class="meta-value">2026-03-26</div>
+            </div>
+            <div class="meta-item">
+                <div class="meta-label">📡 覆盖平台</div>
+                <div class="meta-value">抖音 + 微博 + 小红书</div>
+            </div>
+            <div class="meta-item">
+                <div class="meta-label">🎯 覆盖行业</div>
+                <div class="meta-value">9大垂直领域</div>
+            </div>
+            <div class="meta-item">
+                <div class="meta-label">⏰ 生成时间</div>
+                <div class="meta-value">13:30</div>
+            </div>
+        </div>
+        
+        <!-- 主要内容 -->
+        <div class="content">
+            <!-- 分享按钮 -->
+            <div class="share-buttons">
+                <button class="action-button" onclick="copyLink()">📋 复制分享链接</button>
+                <button class="action-button" onclick="downloadPDF()">📥 下载PDF</button>
+                <button class="action-button" onclick="shareWeChat()">💬 分享到微信</button>
+            </div>
+            
+            <div class="copy-link" id="copyLink" style="display:none;">
+                <input type="text" id="shareLink" readonly value="">
+                <button onclick="copyToClipboard()">复制</button>
+            </div>
+            
+            <!-- 热点强度 -->
+            <div class="section">
+                <h2 class="section-title">🔥 热点强度指数</h2>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>平台</th>
+                            <th>热点数</th>
+                            <th>平均热度</th>
+                            <th>强度</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>📱 抖音</td>
+                            <td>50条</td>
+                            <td>800万+</td>
+                            <td><span class="stars">⭐⭐⭐⭐⭐</span> 极高</td>
+                        </tr>
+                        <tr>
+                            <td>💬 微博</td>
+                            <td>50条</td>
+                            <td>30万+</td>
+                            <td><span class="stars">⭐⭐⭐⭐</span> 高</td>
+                        </tr>
+                        <tr>
+                            <td>❤️ 小红书</td>
+                            <td>10条</td>
+                            <td>生活方式</td>
+                            <td><span class="stars">⭐⭐⭐</span> 中</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <!-- 有直接热点的行业 -->
+            <div class="section">
+                <h2 class="section-title">✅ 有直接热点的行业（4个）</h2>
+                
+                <!-- 大健康 -->
+                <div class="industry-card priority-1">
+                    <div class="industry-title">
+                        1️⃣ 大健康
+                        <span class="priority-badge">⭐⭐⭐⭐ 最高转化</span>
+                    </div>
+                    
+                    <div style="margin-top: 15px;">
+                        <strong>🔥 热点话题：</strong>
+                        <div class="topic-item">
+                            <span class="topic-name">医院突增跑友检查心脏</span>
+                            <span class="topic-heat">28万热度</span>
+                        </div>
+                        <div class="topic-item">
+                            <span class="topic-name">男子切到手晕血边晕边爬去医院</span>
+                            <span class="topic-heat">26万热度</span>
+                        </div>
+                    </div>
+                    
+                    <div class="content-box" style="margin-top: 15px;">
+选题: "运动爱好者必知：心血管检查指南"
+形式: 科普短视频 (60-90秒) + 真实故事
+素人: 健身博主/普通上班族
+平台: 抖音 + 小红书
+转化: 体检套餐、保险产品
+预期转化率: ⭐⭐⭐⭐⭐ 最高
+                    </div>
+                    
+                    <strong>💡 发布建议：</strong>
+                    <ul class="suggestion-list">
+                        <li>📱 抖音: 科普 + 真实案例 (30-60秒)</li>
+                        <li>❤️ 小红书: 详细指南 + 养生建议 (1000字+)</li>
+                        <li>💬 微博: 话题讨论 + 专家观点</li>
+                    </ul>
+                </div>
+                
+                <!-- 数码 -->
+                <div class="industry-card priority-2">
+                    <div class="industry-title">
+                        2️⃣ 数码
+                        <span class="priority-badge">⭐⭐⭐ 高热度</span>
+                    </div>
+                    
+                    <div style="margin-top: 15px;">
+                        <strong>🔥 热点话题：</strong>
+                        <div class="topic-item">
+                            <span class="topic-name">华为千元新机怎么选</span>
+                            <span class="topic-heat">767万热度</span>
+                        </div>
+                    </div>
+                    
+                    <div class="content-box" style="margin-top: 15px;">
+选题: "千元手机对比：华为 vs 小米 vs 荣耀"
+形式: 开箱测评视频 (3-5分钟)
+素人: 粉丝1-10万的数码测评博主
+平台: 抖音 + 小红书
+转化: 产品链接、优惠券、返利
+预期转化率: ⭐⭐⭐⭐ 高
+                    </div>
+                </div>
+                
+                <!-- 服装 -->
+                <div class="industry-card priority-3">
+                    <div class="industry-title">
+                        3️⃣ 服装
+                        <span class="priority-badge">⭐⭐⭐ 高互动</span>
+                    </div>
+                    
+                    <div style="margin-top: 15px;">
+                        <strong>🔥 热点话题：</strong>
+                        <div class="topic-item">
+                            <span class="topic-name">情侣互买衣服挑战</span>
+                            <span class="topic-heat">764万热度</span>
+                        </div>
+                    </div>
+                    
+                    <div class="content-box" style="margin-top: 15px;">
+选题: "情侣/闺蜜互买衣服挑战 - 春日版"
+形式: 挑战视频 (30-60秒)
+素人: 素人情侣/闺蜜组合
+平台: 抖音
+转化: 服装品牌合作、直播带货
+预期转化率: ⭐⭐⭐ 中高
+                    </div>
+                </div>
+                
+                <!-- 母婴 -->
+                <div class="industry-card">
+                    <div class="industry-title">
+                        4️⃣ 母婴
+                        <span class="priority-badge">⭐⭐⭐ 高萌值</span>
+                    </div>
+                    
+                    <div style="margin-top: 15px;">
+                        <strong>🔥 热点话题：</strong>
+                        <div class="topic-item">
+                            <span class="topic-name">跳海绵宝宝舞就用歪比巴卜特效</span>
+                            <span class="topic-heat">768万热度</span>
+                        </div>
+                    </div>
+                    
+                    <div class="content-box" style="margin-top: 15px;">
+选题: "宝宝跳海绵宝宝舞 - 萌娃特效秀"
+形式: 亲子舞蹈视频
+素人: 有萌娃的普通家长
+平台: 抖音 + 小红书
+转化: 儿童玩具、教育APP
+预期转化率: ⭐⭐⭐⭐ 高
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 无直接热点的行业 -->
+            <div class="section">
+                <h2 class="section-title">❌ 无直接热点的行业（5个）- 竞品学习</h2>
+                
+                <div class="industry-card">
+                    <div class="industry-title">5️⃣ 美妆 | 6️⃣ 食品 | 7️⃣ 快消 | 8️⃣ 家电 | 9️⃣ 汽车</div>
+                    <p style="margin-top: 15px; color: #666;">
+                        这些行业虽然没有直接热点，但可以通过学习竞品品牌的内容策略来创作。
+                        详见完整报告中的竞品分析部分。
+                    </p>
+                </div>
+            </div>
+            
+            <!-- 行动清单 -->
+            <div class="section">
+                <h2 class="section-title">🚀 明日行动清单</h2>
+                <ul class="suggestion-list">
+                    <li>联系大健康行业的素人KOL</li>
+                    <li>准备"心血管检查指南"脚本</li>
+                    <li>研究完美日记的素人种草案例</li>
+                    <li>建立竞品监控表格</li>
+                    <li>制定本周内容日历</li>
+                </ul>
+            </div>
+        </div>
+        
+        <!-- 页脚 -->
+        <div class="footer">
+            <p>📰 内容运营日报 | 2026-03-26 13:30</p>
+            <p style="margin-top: 10px; font-size: 0.9em;">
+                💡 提示：此日报每天自动更新，可分享给团队成员查阅
+            </p>
+            <p style="margin-top: 15px; font-size: 0.85em; color: #999;">
+                数据来源：抖音热搜 + 微博热搜 + 小红书热点 | 
+                <a href="#" style="color: #667eea; text-decoration: none;">查看完整报告</a>
+            </p>
+        </div>
+    </div>
+    
+    <script>
+        function copyLink() {
+            const link = window.location.href;
+            document.getElementById('shareLink').value = link;
+            document.getElementById('copyLink').style.display = 'flex';
+        }
+        
+        function copyToClipboard() {
+            const input = document.getElementById('shareLink');
+            input.select();
+            document.execCommand('copy');
+            alert('链接已复制！');
+        }
+        
+        function downloadPDF() {
+            alert('PDF下载功能开发中...');
+        }
+        
+        function shareWeChat() {
+            alert('微信分享功能开发中...');
+        }
+    </script>
+</body>
+</html>
