@@ -342,17 +342,23 @@
         }
         
         .hot-topic-detail {
-            display: none;
-            padding: 16px;
-            background: var(--gray-50);
-            border-radius: 8px;
-            margin-top: 12px;
+            display: none !important;
+            padding: 20px;
+            background: #F0F9FF;
+            border: 2px solid var(--primary);
+            border-radius: 12px;
+            margin-top: 16px;
             margin-left: 44px;
+            animation: slideDown 0.3s ease;
         }
         
-        .hot-topic-detail.active,
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
         .hot-topic-item.expanded .hot-topic-detail {
-            display: block;
+            display: block !important;
         }
         
         .detail-row {
