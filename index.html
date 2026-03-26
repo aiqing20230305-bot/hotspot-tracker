@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📱 每日热点内容推荐 - 2026年3月26日</title>
+    <style>
+        :root {
+            --primary: #6366F1;
+            --primary-light: #818CF8;
+            --primary-dark: #4F46E5;
+            --success: #10B981;
+            --warning: #F59E0B;
+            --error: #EF4444;
+            --gray-50: #F9FAFB;
+            --gray-100: #F3F4F6;
+            --gray-200: #E5E7EB;
+            --gray-300: #D1D5DB;
+            --gray-600: #4B5563;
+            --gray-800: #1F2937;
+            --radius: 12px;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            --shadow-lg: 0 20px 25px -5px rgba(0,0,0,0.1);
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, var(--primary-50) 0%, #F5F3FF 100%);
+            min-height: 100vh;
+            padding: 24px;
+            color: var(--gray-800);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 24px;
+            text-align: center;
+            margin-bottom: 32px;
+            box-shadow: var(--shadow-lg);
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        
+        .header p {
+            opacity: 0.9;
+            font-size: 16px;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 24px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            text-align: center;
+        }
+        
+        .stat-card .number {
+            font-size: 36px;
+            font-weight: 800;
+            color: var(--primary);
+        }
+        
+        .stat-card .label {
+            color: var(--gray-600);
+            font-size: 14px;
+            margin-top: 4px;
+        }
+        
+        .section {
+            margin-bottom: 32px;
+        }
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .priority-high { color: var(--error); }
+        .priority-medium { color: var(--warning); }
+        .priority-low { color: var(--success); }
+        
+        .client-card {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+        
+        .client-header {
+            padding: 20px 24px;
+            background: var(--gray-50);
+            border-bottom: 1px solid var(--gray-200);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .client-name {
+            font-size: 18px;
+            font-weight: 700;
+        }
+        
+        .client-brand {
+            font-size: 14px;
+            color: var(--gray-600);
+        }
+        
+        .priority-badge {
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        
+        .priority-badge.high {
+            background: #FEE2E2;
+            color: #DC2626;
+        }
+        
+        .priority-badge.medium {
+            background: #FEF3C7;
+            color: #D97706;
+        }
+        
+        .priority-badge.low {
+            background: #D1FAE5;
+            color: #059669;
+        }
+        
+        .ideas-list {
+            padding: 20px 24px;
+        }
+        
+        .idea-item {
+            border: 1px solid var(--gray-200);
+            border-radius: var(--radius);
+            padding: 16px;
+            margin-bottom: 12px;
+            transition: all 0.2s;
+        }
+        
+        .idea-item:hover {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+        }
+        
+        .idea-title {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: var(--gray-800);
+        }
+        
+        .idea-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            font-size: 13px;
+            color: var(--gray-600);
+            margin-bottom: 12px;
+        }
+        
+        .idea-meta span {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        
+        .platform-tag {
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        
+        .platform-tag.抖音 { background: #1C1C1C; color: white; }
+        .platform-tag.小红书 { background: #FF2442; color: white; }
+        .platform-tag.B站 { background: #00A1D6; color: white; }
+        
+        .script-btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .script-btn:hover {
+            background: var(--primary-dark);
+        }
+        
+        .script-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .script-modal.active {
+            display: flex;
+        }
+        
+        .script-content {
+            background: white;
+            width: 90%;
+            max-width: 700px;
+            max-height: 80vh;
+            border-radius: var(--radius);
+            overflow: hidden;
+            box-shadow: var(--shadow-lg);
+        }
+        
+        .script-header {
+            background: var(--primary);
+            color: white;
+            padding: 20px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .script-body {
+            padding: 24px;
+            overflow-y: auto;
+            max-height: 60vh;
+        }
+        
+        .close-btn {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 24px;
+            cursor: pointer;
+        }
+        
+        .hot-topics {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 24px;
+            margin-bottom: 32px;
+        }
+        
+        .hot-topics h2 {
+            font-size: 20px;
+            margin-bottom: 16px;
+        }
+        
+        .hot-topic-item {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            border-bottom: 1px solid var(--gray-100);
+        }
+        
+        .hot-topic-item:last-child {
+            border-bottom: none;
+        }
+        
+        .rank {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 14px;
+            margin-right: 12px;
+        }
+        
+        .rank.top3 {
+            background: linear-gradient(135deg, #FFD700, #FFA500);
+            color: white;
+        }
+        
+        .rank.normal {
+            background: var(--gray-100);
+            color: var(--gray-600);
+        }
+        
+        .topic-info {
+            flex: 1;
+        }
+        
+        .topic-title {
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+        
+        .topic-meta {
+            font-size: 12px;
+            color: var(--gray-600);
+        }
+        
+        .heat-value {
+            font-weight: 700;
+            color: var(--error);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📱 每日热点内容推荐</h1>
+            <p>🤖 热点追踪进化系统 v2.1 自动生成 | 🎯 每个客户3个选题 + 视频脚本</p>
+            <p style="margin-top: 8px; font-size: 14px;">2026年3月26日</p>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div class="number">12</div>
+                <div class="label">客户数量</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">36</div>
+                <div class="label">选题总数</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">3</div>
+                <div class="label">平台覆盖</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">50+</div>
+                <div class="label">热点来源</div>
+            </div>
+        </div>
+        
+        <div class="hot-topics">
+            <h2>🔥 今日热点TOP5</h2>
+            <div class="hot-topic-item">
+                <div class="rank top3">1</div>
+                <div class="topic-info">
+                    <div class="topic-title">我的春日粉彩妆容公式</div>
+                    <div class="topic-meta">抖音 | 美妆</div>
+                </div>
+                <div class="heat-value">1210万</div>
+            </div>
+            <div class="hot-topic-item">
+                <div class="rank top3">2</div>
+                <div class="topic-info">
+                    <div class="topic-title">中国机器狼群巷战画面首次公开</div>
+                    <div class="topic-meta">抖音 | 科技</div>
+                </div>
+                <div class="heat-value">1166万</div>
+            </div>
+            <div class="hot-topic-item">
+                <div class="rank top3">3</div>
+                <div class="topic-info">
+                    <div class="topic-title">我国又一次发射一箭双星</div>
+                    <div class="topic-meta">抖音 | 科技</div>
+                </div>
+                <div class="heat-value">1091万</div>
+            </div>
+            <div class="hot-topic-item">
+                <div class="rank normal">4</div>
+                <div class="topic-info">
+                    <div class="topic-title">春日穿搭OOTD</div>
+                    <div class="topic-meta">小红书 | 服装</div>
+                </div>
+                <div class="heat-value">3.2亿浏览</div>
+            </div>
+            <div class="hot-topic-item">
+                <div class="rank normal">5</div>
+                <div class="topic-info">
+                    <div class="topic-title">春季护肤攻略</div>
+                    <div class="topic-meta">小红书 | 美妆</div>
+                </div>
+                <div class="heat-value">2.1亿浏览</div>
+            </div>
+        </div>
+        
+        <!-- 高优先级客户 -->
+        <div class="section">
+            <h2 class="section-title priority-high">🔴 高优先级客户（必须执行）</h2>
+            
+            <div class="client-card">
+                <div class="client-header">
+                    <div>
+                        <div class="client-name">3C数码</div>
+                        <div class="client-brand">荣耀海外/罗技/荣耀中国 | 53 SKU</div>
+                    </div>
+                    <span class="priority-badge high">高优先级</span>
+                </div>
+                <div class="ideas-list">
+                    <div class="idea-item">
+                        <div class="idea-title">《中国机器狼群巷战画面首次公开？荣耀手机真实测评》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 抖音">抖音</span>
+                            <span>📹 短视频</span>
+                            <span>🎯 产品测评</span>
+                            <span>🔥 借势：机器狼群热点</span>
+                            <span>📊 预估：16,666+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('荣耀手机测评脚本')">📄 生成视频脚本</button>
+                    </div>
+                    <div class="idea-item">
+                        <div class="idea-title">《春季数码好物 - 罗技键鼠》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 小红书">小红书</span>
+                            <span>📝 图文笔记</span>
+                            <span>🎯 选购指南</span>
+                            <span>🔥 借势：春季数码好物</span>
+                            <span>📊 预估：8,333+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('罗技键鼠脚本')">📄 生成图文脚本</button>
+                    </div>
+                    <div class="idea-item">
+                        <div class="idea-title">《中国机器狼群巷战画面首次公开 - 荣耀手机》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag B站">B站</span>
+                            <span>🎬 中长视频</span>
+                            <span>🎯 科技热点</span>
+                            <span>🔥 借势：机器狼群热点</span>
+                            <span>📊 预估：5,000+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('荣耀科技热点脚本')">📄 生成视频脚本</button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="client-card">
+                <div class="client-header">
+                    <div>
+                        <div class="client-name">快消</div>
+                        <div class="client-brand">舒适/清扬/AHC/多芬/力士 | 7品牌</div>
+                    </div>
+                    <span class="priority-badge high">高优先级</span>
+                </div>
+                <div class="ideas-list">
+                    <div class="idea-item">
+                        <div class="idea-title">《我的春日粉彩妆容公式｜AHC水乳测评》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 小红书">小红书</span>
+                            <span>📝 图文笔记</span>
+                            <span>🎯 产品测评</span>
+                            <span>🔥 借势：粉彩妆容TOP1热点</span>
+                            <span>📊 预估：8,333+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('AHC测评脚本')">📄 生成图文脚本</button>
+                    </div>
+                    <div class="idea-item">
+                        <div class="idea-title">《春日穿搭OOTD教程，多芬沐浴露教你》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 抖音">抖音</span>
+                            <span>📹 短视频</span>
+                            <span>🎯 使用教程</span>
+                            <span>🔥 借势：春日穿搭3.2亿浏览</span>
+                            <span>📊 预估：16,666+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('多芬教程脚本')">📄 生成视频脚本</button>
+                    </div>
+                    <div class="idea-item">
+                        <div class="idea-title">《春季护肤攻略 - 力士洗发水》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 小红书">小红书</span>
+                            <span>📝 图文笔记</span>
+                            <span>🎯 场景植入</span>
+                            <span>🔥 借势：春季护肤2.1亿浏览</span>
+                            <span>📊 预估：8,333+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('力士场景脚本')">📄 生成图文脚本</button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="client-card">
+                <div class="client-header">
+                    <div>
+                        <div class="client-name">保健品</div>
+                        <div class="client-brand">汤臣倍健</div>
+                    </div>
+                    <span class="priority-badge high">高优先级</span>
+                </div>
+                <div class="ideas-list">
+                    <div class="idea-item">
+                        <div class="idea-title">《早期心血管病可能反映在脸上 - 汤臣倍健维C》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 小红书">小红书</span>
+                            <span>📝 图文笔记</span>
+                            <span>🎯 科普知识</span>
+                            <span>🔥 借势：心血管健康热点</span>
+                            <span>📊 预估：8,333+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('汤臣倍健科普脚本')">📄 生成图文脚本</button>
+                    </div>
+                    <div class="idea-item">
+                        <div class="idea-title">《43岁不健身和61岁健身的区别 - 汤臣倍健蛋白粉》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 抖音">抖音</span>
+                            <span>📹 短视频</span>
+                            <span>🎯 养生攻略</span>
+                            <span>🔥 借势：健身对比热点</span>
+                            <span>📊 预估：16,666+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('汤臣倍健健身脚本')">📄 生成视频脚本</button>
+                    </div>
+                    <div class="idea-item">
+                        <div class="idea-title">《春季养生食谱 - 汤臣倍健维C》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 小红书">小红书</span>
+                            <span>📝 图文笔记</span>
+                            <span>🎯 产品推荐</span>
+                            <span>🔥 借势：春季养生9800万浏览</span>
+                            <span>📊 预估：8,333+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('汤臣倍健养生脚本')">📄 生成图文脚本</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 中优先级客户 -->
+        <div class="section">
+            <h2 class="section-title priority-medium">🟡 中优先级客户（建议执行）</h2>
+            
+            <div class="client-card">
+                <div class="client-header">
+                    <div>
+                        <div class="client-name">家庭清洁</div>
+                        <div class="client-brand">HC | 15 SKU</div>
+                    </div>
+                    <span class="priority-badge medium">中优先级</span>
+                </div>
+                <div class="ideas-list">
+                    <div class="idea-item">
+                        <div class="idea-title">《春季家电焕新 - HC清洁剂》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 抖音">抖音</span>
+                            <span>📹 短视频</span>
+                            <span>🎯 清洁教程</span>
+                            <span>🔥 借势：春季焕新</span>
+                            <span>📊 预估：13,333+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('HC清洁脚本')">📄 生成视频脚本</button>
+                    </div>
+                    <div class="idea-item">
+                        <div class="idea-title">《春季家电焕新 - HC除菌喷雾》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 小红书">小红书</span>
+                            <span>📝 图文笔记</span>
+                            <span>🎯 效果展示</span>
+                            <span>🔥 借势：春季焕新</span>
+                            <span>📊 预估：6,666+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('HC除菌脚本')">📄 生成图文脚本</button>
+                    </div>
+                    <div class="idea-item">
+                        <div class="idea-title">《春季家电焕新 - HC清洁剂》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 抖音">抖音</span>
+                            <span>📹 短视频</span>
+                            <span>🎯 好物推荐</span>
+                            <span>🔥 借势：春季焕新</span>
+                            <span>📊 预估：13,333+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('HC好物脚本')">📄 生成视频脚本</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 低优先级客户 -->
+        <div class="section">
+            <h2 class="section-title priority-low">🟢 低优先级客户（可选执行）</h2>
+            
+            <div class="client-card">
+                <div class="client-header">
+                    <div>
+                        <div class="client-name">汽车</div>
+                        <div class="client-brand">大通房车</div>
+                    </div>
+                    <span class="priority-badge low">低优先级</span>
+                </div>
+                <div class="ideas-list">
+                    <div class="idea-item">
+                        <div class="idea-title">《新能源车选购 - 大通房车》</div>
+                        <div class="idea-meta">
+                            <span class="platform-tag 小红书">小红书</span>
+                            <span>📝 图文笔记</span>
+                            <span>🎯 生活方式</span>
+                            <span>🔥 借势：新能源车选购</span>
+                            <span>📊 预估：3,333+</span>
+                        </div>
+                        <button class="script-btn" onclick="showScript('大通房车脚本')">📄 生成图文脚本</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 脚本弹窗 -->
+    <div class="script-modal" id="scriptModal">
+        <div class="script-content">
+            <div class="script-header">
+                <h3>📄 视频脚本</h3>
+                <button class="close-btn" onclick="closeScript()">&times;</button>
+            </div>
+            <div class="script-body" id="scriptBody">
+                <!-- 脚本内容将在这里显示 -->
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // 脚本数据
+        const scripts = {
+            '荣耀手机测评脚本': {
+                platform: '抖音',
+                duration: '30秒',
+                scenes: [
+                    {time: '0-3秒', content: '痛点引入：你是不是也在为科技产品纠结？', visual: '困惑表情+手机特写'},
+                    {time: '3-8秒', content: '产品展示：今天测评荣耀手机', visual: '手机360度展示'},
+                    {time: '8-20秒', content: '核心卖点：AI功能强大，拍照清晰，续航持久', visual: '使用场景+效果对比'},
+                    {time: '20-25秒', content: '真实体验：亲测一周，效果惊艳', visual: '前后对比图'},
+                    {time: '25-30秒', content: 'CTA：你用过吗？评论区分享', visual: '手持手机+引导关注'}
+                ],
+                bgm: '热门卡点音乐（节奏感强）',
+                textOverlay: ['痛点问题', '荣耀手机', 'AI功能', '拍照清晰', '续航持久', '实测效果'],
+                hook: '中国科技有多强？看完这篇不踩坑！'
+            },
+            'AHC测评脚本': {
+                platform: '小红书',
+                format: '图文笔记',
+                cover: 'AHC水乳真实测评 | 不吹不黑',
+                structure: [
+                    {section: '标题', content: '《我的春日粉彩妆容公式｜AHC水乳测评》'},
+                    {section: '开篇', content: '最近粉彩妆容很火，作为干皮，必须给大家测评一下AHC水乳'},
+                    {section: '产品展示', content: '产品外观+细节图（3-5张）'},
+                    {section: '使用感受', content: '优点：补水保湿效果好，吸收快\n缺点：香味有点重\n适合人群：干皮、混干皮'},
+                    {section: '效果对比', content: '使用前后对比图'},
+                    {section: '总结', content: '值得买吗？我的建议是值得入手'},
+                    {section: 'CTA', content: '你用过吗？评论区聊聊~'}
+                ],
+                tags: ['#粉彩妆容', '#AHC水乳', '#测评', '#真实体验', '#干皮救星'],
+                imageCount: '6-9张'
+            }
+        };
+        
+        function showScript(scriptName) {
+            const modal = document.getElementById('scriptModal');
+            const body = document.getElementById('scriptBody');
+            const script = scripts[scriptName] || {title: '脚本生成中...', content: '请稍后再试'};
+            
+            let html = '';
+            if (script.platform === '抖音') {
+                html += `<h4>🎬 ${script.platform}视频脚本 (${script.duration})</h4>`;
+                html += `<p><strong>BGM：</strong>${script.bgm}</p>`;
+                html += `<p><strong>Hook：</strong>${script.hook}</p>`;
+                html += '<h5>分镜脚本：</h5>';
+                html += '<table style="width:100%; border-collapse:collapse;">';
+                html += '<tr style="background:#f5f5f5;"><th style="padding:8px; border:1px solid #ddd;">时间</th><th style="padding:8px; border:1px solid #ddd;">文案</th><th style="padding:8px; border:1px solid #ddd;">画面</th></tr>';
+                script.scenes.forEach(scene => {
+                    html += `<tr><td style="padding:8px; border:1px solid #ddd;">${scene.time}</td><td style="padding:8px; border:1px solid #ddd;">${scene.content}</td><td style="padding:8px; border:1px solid #ddd;">${scene.visual}</td></tr>`;
+                });
+                html += '</table>';
+                html += `<p><strong>字幕：</strong>${script.textOverlay.join(' → ')}</p>`;
+            } else {
+                html += `<h4>📝 ${script.platform}图文脚本</h4>`;
+                html += `<p><strong>封面：</strong>${script.cover}</p>`;
+                html += '<h5>内容结构：</h5>';
+                html += '<ol>';
+                script.structure.forEach(item => {
+                    html += `<li><strong>${item.section}：</strong>${item.content}</li>`;
+                });
+                html += '</ol>';
+                html += `<p><strong>标签：</strong>${script.tags.join(' ')}</p>`;
+                html += `<p><strong>图片数：</strong>${script.imageCount}</p>`;
+            }
+            
+            body.innerHTML = html;
+            modal.classList.add('active');
+        }
+        
+        function closeScript() {
+            document.getElementById('scriptModal').classList.remove('active');
+        }
+        
+        // 点击弹窗外部关闭
+        document.getElementById('scriptModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeScript();
+            }
+        });
+    </script>
+</body>
+</html>
