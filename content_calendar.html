@@ -717,4 +717,288 @@ function getStatusText(status) {
   return map[status] || status;
 }
 
-function render
+// ===== Render Calendar =====
+function renderCalendar() {
+  const grid = document.getElementById('calendarGrid');
+  const label = document.getElementById('currentMonthLabel');
+  label.textContent = `${currentYear}年${monthNames[currentMonth]}`;
+
+  const firstDay = new Date(currentYear, currentMonth, 1).getDay(); // 0=Sun
+  const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
+  const daysInPrevMonth = new Date(currentYear, currentMonth, 0).getDate();
+  const today = new Date();
+  const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+
+  let html = '';
+
+  // Previous month trailing days
+  for (let i = firstDay - 1; i >= 0; i--) {
+    const d = daysInPrevMonth - i;
+    const prevM = currentMonth === 0 ? 11 : currentMonth - 1;
+    const prevY = currentMonth === 0 ? currentYear - 1 : currentYear;
+    const dateStr = `${prevY}-${String(prevM+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    html += `<div class="cal-day other-month" onclick="selectDate('${dateStr}')">
+      <div class="day-num">${d}</div>
+      ${getDayPlansSummary(dateStr)}
+    </div>`;
+  }
+
+  // Current month days
+  for (let d = 1; d <= daysInMonth; d++) {
+    const dateStr = `${currentYear}-${String(currentMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    let cls = 'cal-day';
+    if (dateStr === todayStr) cls += ' today';
+    if (selectedDay === dateStr) cls += ' selected';
+    html += `<div class="${cls}" onclick="selectDate('${dateStr}')">
+      <div class="day-num">${d}</div>
+      ${getDayPlansSummary(dateStr)}
+    </div>`;
+  }
+
+  // Next month leading days
+  const totalCells = firstDay + daysInMonth;
+  const remaining = totalCells % 7 === 0 ? 0 : 7 - (totalCells % 7);
+  for (let d = 1; d <= remaining; d++) {
+    const nextM = currentMonth === 11 ? 0 : currentMonth + 1;
+    const nextY = currentMonth === 11 ? currentYear + 1 : currentYear;
+    const dateStr = `${nextY}-${String(nextM+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    html += `<div class="cal-day other-month" onclick="selectDate('${dateStr}')">
+      <div class="day-num">${d}</div>
+      ${getDayPlansSummary(dateStr)}
+    </div>`;
+  }
+
+  grid.innerHTML = html;
+  renderPlanList();
+  updateStats();
+}
+
+// ===== Month Navigation =====
+function changeMonth(delta) {
+  currentMonth += delta;
+  if (currentMonth > 11) { currentMonth = 0; currentYear++; }
+  if (currentMonth < 0)  { currentMonth = 11; currentYear--; }
+  selectedDay = null;
+  document.getElementById('dayDetail').style.display = 'none';
+  renderCalendar();
+}
+
+// ===== Select Date =====
+function selectDate(dateStr) {
+  selectedDay = dateStr;
+  renderCalendar();
+  showDayDetail(dateStr);
+}
+
+function showDayDetail(dateStr) {
+  const detail = document.getElementById('dayDetail');
+  const titleEl = document.getElementById('dayDetailTitle');
+  const itemsEl = document.getElementById('dayDetailItems');
+  const plans = getPlansForDate(dateStr);
+
+  if (!plans.length) {
+    detail.style.display = 'none';
+    return;
+  }
+
+  const parts = dateStr.split('-');
+  titleEl.textContent = `${parseInt(parts[1])}月${parseInt(parts[2])}日 — ${plans.length} 条内容`;
+
+  let html = '';
+  plans.forEach(p => {
+    html += `<div class="day-item">
+      <div class="day-item-icon" style="background:${getTypeBg(p.type)}">${getTypeIcon(p.type)}</div>
+      <div class="day-item-info">
+        <div class="day-item-title">${p.title}</div>
+        <div class="day-item-meta">${getPlatformName(p.platform)}</div>
+      </div>
+      <span class="status-tag ${getStatusClass(p.status)}">${getStatusText(p.status)}</span>
+      <div style="display:flex;gap:4px">
+        <button onclick="cycleStatus(${p.id})" title="切换状态" style="border:none;background:none;cursor:pointer;font-size:16px;padding:2px 4px;border-radius:4px;transition:background 0.2s" onmouseover="this.style.background='#f0f0f0'" onmouseout="this.style.background='none'">🔄</button>
+        <button onclick="deletePlan(${p.id})" title="删除" style="border:none;background:none;cursor:pointer;font-size:16px;padding:2px 4px;border-radius:4px;color:var(--danger);transition:background 0.2s" onmouseover="this.style.background='#fee2e2'" onmouseout="this.style.background='none'">🗑️</button>
+      </div>
+    </div>`;
+  });
+  itemsEl.innerHTML = html;
+  detail.style.display = 'block';
+}
+
+// ===== Render Plan List =====
+function renderPlanList() {
+  const list = document.getElementById('planList');
+  const searchTerm = document.getElementById('searchInput').value.toLowerCase().trim();
+
+  let plans = [...contentPlans];
+
+  // Filter by type
+  if (currentFilter !== 'all') {
+    plans = plans.filter(p => p.type === currentFilter);
+  }
+
+  // Filter by search
+  if (searchTerm) {
+    plans = plans.filter(p =>
+      p.title.toLowerCase().includes(searchTerm) ||
+      getPlatformName(p.platform).includes(searchTerm) ||
+      getStatusText(p.status).includes(searchTerm)
+    );
+  }
+
+  // Sort by date descending
+  plans.sort((a, b) => a.date.localeCompare(b.date));
+
+  if (!plans.length) {
+    list.innerHTML = '<div style="text-align:center;padding:40px 0;color:var(--text-secondary)"><i class="bi bi-inbox" style="font-size:32px;display:block;margin-bottom:8px"></i>暂无内容计划</div>';
+    return;
+  }
+
+  let html = '';
+  plans.forEach(p => {
+    html += `<div class="plan-item">
+      <div class="plan-icon" style="background:${getTypeBg(p.type)}">${getTypeIcon(p.type)}</div>
+      <div class="plan-info">
+        <div class="plan-title">${p.title}</div>
+        <div class="plan-meta">
+          <span class="plan-platform ${getPlatformClass(p.platform)}">${getPlatformName(p.platform)}</span>
+          <span>${p.date}</span>
+        </div>
+      </div>
+      <div style="display:flex;align-items:center;gap:6px">
+        <span class="status-tag ${getStatusClass(p.status)}">${getStatusText(p.status)}</span>
+        <button onclick="cycleStatus(${p.id})" title="切换状态" style="border:none;background:none;cursor:pointer;font-size:14px;padding:2px;border-radius:4px;transition:background 0.2s" onmouseover="this.style.background='#f0f0f0'" onmouseout="this.style.background='none'">🔄</button>
+        <button onclick="deletePlan(${p.id})" title="删除" style="border:none;background:none;cursor:pointer;font-size:14px;padding:2px;border-radius:4px;color:var(--danger);transition:background 0.2s" onmouseover="this.style.background='#fee2e2'" onmouseout="this.style.background='none'">🗑️</button>
+      </div>
+    </div>`;
+  });
+  list.innerHTML = html;
+}
+
+// ===== Update Stats =====
+function updateStats() {
+  const monthPlans = contentPlans.filter(p => {
+    const d = new Date(p.date);
+    return d.getMonth() === currentMonth && d.getFullYear() === currentYear;
+  });
+  const total = monthPlans.length;
+  const published = monthPlans.filter(p => p.status === 'published').length;
+  const pending = monthPlans.filter(p => p.status === 'pending').length;
+  const draft = monthPlans.filter(p => p.status === 'draft').length;
+
+  document.getElementById('stat-total').textContent = total;
+  document.getElementById('stat-pending').textContent = pending;
+  document.getElementById('stat-published').textContent = published;
+  document.getElementById('stat-draft').textContent = draft;
+}
+
+// ===== Filter =====
+function filterPlans(type, el) {
+  currentFilter = type;
+  document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+  if (el) el.classList.add('active');
+  renderPlanList();
+}
+
+function filterBySearch() {
+  renderPlanList();
+}
+
+// ===== Modal =====
+function openModal(dateStr) {
+  const modal = document.getElementById('modal');
+  modal.classList.add('show');
+  // Reset form
+  document.getElementById('planTitle').value = '';
+  document.getElementById('planDate').value = dateStr || selectedDay || '';
+  document.getElementById('planPlatform').value = 'douyin';
+  document.getElementById('planStatus').value = 'draft';
+  document.getElementById('planNote').value = '';
+  // Reset template selection
+  selectedTemplate = 'video';
+  document.querySelectorAll('.template-card').forEach(c => c.classList.remove('selected'));
+  document.querySelector('.template-card[data-type="video"]').classList.add('selected');
+}
+
+function closeModal() {
+  document.getElementById('modal').classList.remove('show');
+}
+
+function selectTemplate(el) {
+  document.querySelectorAll('.template-card').forEach(c => c.classList.remove('selected'));
+  el.classList.add('selected');
+  selectedTemplate = el.dataset.type;
+}
+
+function savePlan() {
+  const title = document.getElementById('planTitle').value.trim();
+  const date = document.getElementById('planDate').value;
+  const platform = document.getElementById('planPlatform').value;
+  const status = document.getElementById('planStatus').value;
+  const note = document.getElementById('planNote').value.trim();
+
+  if (!title) {
+    document.getElementById('planTitle').style.borderColor = 'var(--danger)';
+    document.getElementById('planTitle').focus();
+    return;
+  }
+  if (!date) {
+    document.getElementById('planDate').style.borderColor = 'var(--danger)';
+    document.getElementById('planDate').focus();
+    return;
+  }
+
+  const newId = contentPlans.length > 0 ? Math.max(...contentPlans.map(p => p.id)) + 1 : 1;
+  contentPlans.push({
+    id: newId,
+    title: title,
+    date: date,
+    type: selectedTemplate,
+    platform: platform,
+    status: status,
+    note: note
+  });
+
+  // If the date is in the currently viewed month, navigate there
+  const planDate = new Date(date);
+  if (planDate.getMonth() !== currentMonth || planDate.getFullYear() !== currentYear) {
+    currentMonth = planDate.getMonth();
+    currentYear = planDate.getFullYear();
+  }
+
+  closeModal();
+  renderCalendar();
+  showDayDetail(date);
+}
+
+// ===== Status Toggle =====
+function cycleStatus(id) {
+  const plan = contentPlans.find(p => p.id === id);
+  if (!plan) return;
+  const cycle = { draft: 'pending', pending: 'published', published: 'draft' };
+  plan.status = cycle[plan.status] || 'draft';
+  renderCalendar();
+  if (selectedDay) showDayDetail(selectedDay);
+}
+
+// ===== Delete Plan =====
+function deletePlan(id) {
+  if (!confirm('确定要删除这条内容计划吗？')) return;
+  contentPlans = contentPlans.filter(p => p.id !== id);
+  renderCalendar();
+  if (selectedDay) showDayDetail(selectedDay);
+}
+
+// ===== Keyboard shortcuts =====
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closeModal();
+});
+
+// Close modal on overlay click
+document.getElementById('modal').addEventListener('click', (e) => {
+  if (e.target === e.currentTarget) closeModal();
+});
+
+// ===== Init =====
+renderCalendar();
+</script>
+</body>
+</html>
