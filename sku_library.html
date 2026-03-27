@@ -60,6 +60,83 @@
             background: var(--primary);
             color: white;
         }
+        
+        /* 汉堡菜单 */
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            padding: 8px;
+            min-width: 48px;
+            min-height: 48px;
+            justify-content: center;
+            align-items: center;
+        }
+        .hamburger span {
+            width: 24px;
+            height: 2px;
+            background: var(--gray-600);
+            border-radius: 2px;
+            transition: all 0.3s;
+        }
+        .hamburger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+        }
+        .hamburger.active span:nth-child(2) { opacity: 0; }
+        .hamburger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -5px);
+        }
+        
+        /* 移动端适配 */
+        @media (max-width: 1024px) {
+            .nav-tab { padding: 6px 10px; font-size: 13px; }
+        }
+        @media (max-width: 768px) {
+            .navbar { padding: 10px 16px; }
+            .nav-tabs {
+                display: none;
+                position: fixed;
+                top: 60px;
+                left: 0;
+                right: 0;
+                background: white;
+                flex-direction: column;
+                padding: 16px;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+                gap: 4px;
+                z-index: 999;
+            }
+            .nav-tabs.show { display: flex; }
+            .hamburger { display: flex; }
+            .nav-tab {
+                padding: 12px 16px;
+                font-size: 15px;
+                width: 100%;
+                text-align: left;
+                min-height: 48px;
+            }
+            .main-container { padding: 80px 16px 24px; }
+            .page-header { padding: 24px 20px; border-radius: 16px; }
+            .page-header h1 { font-size: 24px; }
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 12px;
+            }
+            .stat-card { padding: 16px; }
+            .stat-card .number { font-size: 26px; }
+            .sku-grid { grid-template-columns: 1fr; }
+        }
+        @media (max-width: 480px) {
+            .logo { font-size: 16px; }
+            .page-header h1 { font-size: 20px; }
+            .stats-grid { gap: 10px; }
+            .stat-card { padding: 14px 12px; }
+            .stat-card .number { font-size: 22px; }
+        }
+        @media (hover: none) and (pointer: coarse) {
+            .nav-tab, .sku-header { min-height: 44px; }
+        }
         .main-container {
             max-width: 1400px;
             margin: 0 auto;
@@ -185,14 +262,20 @@
     <nav class="navbar">
         <div class="nav-container">
             <div class="logo">🎯 特赞内容运营平台</div>
-            <div class="nav-tabs">
+            <div class="nav-tabs" id="navTabs">
                 <a href="platform.html" class="nav-tab">首页</a>
                 <a href="index.html" class="nav-tab">热点追踪</a>
                 <a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
                 <a href="client_center.html" class="nav-tab">客户选题</a>
                 <a href="sku_library.html" class="nav-tab active">SKU场景</a>
+                <a href="competitor_analysis.html" class="nav-tab">竞品分析</a>
                 <a href="dashboard.html" class="nav-tab">数据看板</a>
                 <a href="script_generator.html" class="nav-tab">脚本生成</a>
+            </div>
+            <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
         </div>
     </nav>
@@ -228,6 +311,21 @@
     </div>
     
     <script>
+        // 移动端菜单切换
+        function toggleMenu() {
+            const navTabs = document.getElementById('navTabs');
+            const hamburger = document.getElementById('hamburger');
+            navTabs.classList.toggle('show');
+            hamburger.classList.toggle('active');
+        }
+        
+        document.querySelectorAll('.nav-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.getElementById('navTabs').classList.remove('show');
+                document.getElementById('hamburger').classList.remove('active');
+            });
+        });
+        
         function toggleSKU(header) {
             const card = header.closest('.sku-card');
             card.classList.toggle('expanded');

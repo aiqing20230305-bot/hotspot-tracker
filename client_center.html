@@ -65,6 +65,102 @@
             background: var(--primary);
             color: white;
         }
+        
+        /* 汉堡菜单 */
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            padding: 8px;
+            min-width: 48px;
+            min-height: 48px;
+            justify-content: center;
+            align-items: center;
+        }
+        .hamburger span {
+            width: 24px;
+            height: 2px;
+            background: var(--gray-600);
+            border-radius: 2px;
+            transition: all 0.3s;
+        }
+        .hamburger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+        }
+        .hamburger.active span:nth-child(2) { opacity: 0; }
+        .hamburger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -5px);
+        }
+        
+        /* 移动端适配 */
+        @media (max-width: 1024px) {
+            .nav-tab {
+                padding: 6px 10px;
+                font-size: 13px;
+            }
+        }
+        @media (max-width: 768px) {
+            .navbar {
+                padding: 10px 16px;
+            }
+            .nav-tabs {
+                display: none;
+                position: fixed;
+                top: 60px;
+                left: 0;
+                right: 0;
+                background: white;
+                flex-direction: column;
+                padding: 16px;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+                gap: 4px;
+                z-index: 999;
+            }
+            .nav-tabs.show { display: flex; }
+            .hamburger { display: flex; }
+            .nav-tab {
+                padding: 12px 16px;
+                font-size: 15px;
+                width: 100%;
+                text-align: left;
+                min-height: 48px;
+            }
+            .main-container {
+                padding: 80px 16px 24px;
+            }
+            .page-header {
+                padding: 24px 20px;
+                border-radius: 16px;
+            }
+            .page-header h1 { font-size: 24px; }
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 12px;
+            }
+            .stat-card { padding: 16px; }
+            .stat-card .number { font-size: 26px; }
+            .filter-section { overflow-x: auto; flex-wrap: nowrap; -webkit-overflow-scrolling: touch; padding-bottom: 4px; }
+            .filter-btn { flex-shrink: 0; min-height: 44px; padding: 10px 16px; }
+            .search-filter-section { padding: 16px; }
+            .filter-row { grid-template-columns: 1fr; }
+            .client-header { padding: 16px; }
+            .idea-item { padding: 16px; }
+        }
+        @media (max-width: 480px) {
+            .logo { font-size: 16px; }
+            .page-header h1 { font-size: 20px; }
+            .stats-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
+            .stat-card { padding: 14px 12px; }
+            .stat-card .number { font-size: 22px; }
+            .client-name { font-size: 16px; }
+            .idea-title { font-size: 14px; }
+        }
+        @media (hover: none) and (pointer: coarse) {
+            .filter-btn, .nav-tab, .platform-tag, .idea-count-btn, .client-header, .export-btn {
+                min-height: 44px;
+            }
+        }
         /* 主容器 */
         .main-container {
             max-width: 1400px;
@@ -523,6 +619,209 @@
             border-color: var(--primary);
             color: white;
         }
+
+        /* ========== 效果预估样式 ========== */
+        .prediction-section {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px dashed var(--gray-200);
+        }
+        
+        /* 预估互动量 */
+        .prediction-engagement {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            background: linear-gradient(135deg, #FEF3C7 0%, #FDE68A 100%);
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+        .prediction-engagement .icon { font-size: 16px; }
+        .prediction-engagement .value { color: #D97706; }
+        .prediction-engagement .label { color: var(--gray-600); font-weight: 400; }
+        
+        /* 成功率预测 */
+        .prediction-success {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 12px;
+            background: var(--gray-50);
+            border-radius: 8px;
+            min-width: 160px;
+        }
+        .prediction-success .icon { font-size: 16px; }
+        .prediction-success .percent {
+            font-weight: 700;
+            font-size: 14px;
+            min-width: 45px;
+        }
+        .prediction-success .percent.high { color: #10B981; }
+        .prediction-success .percent.medium { color: #F59E0B; }
+        .prediction-success .percent.low { color: #EF4444; }
+        .prediction-success .progress-bar {
+            flex: 1;
+            height: 8px;
+            background: var(--gray-200);
+            border-radius: 4px;
+            overflow: hidden;
+            min-width: 60px;
+        }
+        .prediction-success .progress-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 0.3s ease;
+        }
+        .prediction-success .progress-fill.high { background: linear-gradient(90deg, #10B981, #34D399); }
+        .prediction-success .progress-fill.medium { background: linear-gradient(90deg, #F59E0B, #FBBF24); }
+        .prediction-success .progress-fill.low { background: linear-gradient(90deg, #EF4444, #F87171); }
+        
+        /* 风险提示 */
+        .prediction-risk {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+        .prediction-risk .icon { font-size: 16px; }
+        .prediction-risk.high { 
+            background: #FEE2E2; 
+            color: #DC2626;
+        }
+        .prediction-risk.medium { 
+            background: #FEF3C7; 
+            color: #D97706;
+        }
+        .prediction-risk.low { 
+            background: #D1FAE5; 
+            color: #059669;
+        }
+        
+        /* 效果评分 */
+        .prediction-score {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            background: linear-gradient(135deg, #EEF2FF 0%, #C7D2FE 100%);
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+        .prediction-score .icon { font-size: 16px; }
+        .prediction-score .score-value {
+            color: var(--primary);
+            font-size: 16px;
+        }
+        .prediction-score .stars {
+            color: #FBBF24;
+            letter-spacing: -2px;
+        }
+        
+        /* 排序按钮组 */
+        .sort-section {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .sort-label {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-600);
+            margin-right: 8px;
+        }
+        .sort-btn {
+            padding: 8px 16px;
+            border: 2px solid var(--gray-200);
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 500;
+            font-size: 13px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .sort-btn:hover { border-color: var(--primary); }
+        .sort-btn.active {
+            background: var(--primary);
+            border-color: var(--primary);
+            color: white;
+        }
+        .sort-btn .arrow { font-size: 11px; }
+        
+        /* 效果预估标签筛选 */
+        .prediction-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid var(--gray-100);
+        }
+        .prediction-tag {
+            padding: 8px 16px;
+            border: 2px solid var(--gray-200);
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 500;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .prediction-tag:hover { border-color: var(--primary); }
+        .prediction-tag.active { 
+            background: var(--primary); 
+            border-color: var(--primary);
+            color: white;
+        }
+        .prediction-tag .count {
+            background: rgba(0,0,0,0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 11px;
+        }
+        .prediction-tag.active .count {
+            background: rgba(255,255,255,0.2);
+        }
+        .prediction-tag.high-success .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #10B981;
+        }
+        .prediction-tag.medium-success .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #F59E0B;
+        }
+        .prediction-tag.low-success .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #EF4444;
+        }
+        .prediction-tag.high-risk .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #EF4444;
+        }
     </style>
 </head>
 <body>
@@ -530,14 +829,20 @@
     <nav class="navbar">
         <div class="nav-container">
             <div class="logo">🎯 特赞内容运营平台</div>
-            <div class="nav-tabs">
+            <div class="nav-tabs" id="navTabs">
                 <a href="platform.html" class="nav-tab">首页</a>
                 <a href="index.html" class="nav-tab">热点追踪</a>
                 <a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
                 <a href="client_center.html" class="nav-tab active">客户选题</a>
                 <a href="sku_library.html" class="nav-tab">SKU场景</a>
+                <a href="competitor_analysis.html" class="nav-tab">竞品分析</a>
                 <a href="dashboard.html" class="nav-tab">数据看板</a>
                 <a href="script_generator.html" class="nav-tab">脚本生成</a>
+            </div>
+            <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
         </div>
     </nav>
@@ -546,7 +851,7 @@
         <!-- 页面标题 -->
         <div class="page-header">
             <h1>👥 客户选题中心</h1>
-            <p>🤖 基于热点追踪自动生成的客户选题 | 🎯 每个客户10+条精选选题</p>
+            <p>🤖 基于热点追踪自动生成的客户选题 | 🎯 每个客户10+条精选选题 | 📊 智能效果预估</p>
             <div class="update-time" id="updateTime">📅 数据更新时间：加载中...</div>
         </div>
         
@@ -607,6 +912,7 @@
                         <option value="priority">按优先级</option>
                         <option value="heat">按热度</option>
                         <option value="engagement">按预估互动</option>
+                        <option value="successRate">按成功率</option>
                         <option value="name">按名称</option>
                     </select>
                 </div>
@@ -616,6 +922,22 @@
             <div class="platform-tags" id="platformTags">
                 <span class="platform-tag active" data-platform="" onclick="togglePlatform(this, '')">
                     全部平台 <span class="count" id="totalCount">0</span>
+                </span>
+            </div>
+
+            <!-- 效果预估筛选标签 -->
+            <div class="prediction-tags" id="predictionTags">
+                <span class="prediction-tag active" data-filter="" onclick="togglePredictionFilter(this, '')">
+                    🎯 全部选题 <span class="count" id="totalPredCount">0</span>
+                </span>
+                <span class="prediction-tag high-success" data-filter="high-success" onclick="togglePredictionFilter(this, 'high-success')">
+                    <span class="dot"></span> 高成功率(>70%) <span class="count" id="highSuccessCount">0</span>
+                </span>
+                <span class="prediction-tag medium-success" data-filter="medium-success" onclick="togglePredictionFilter(this, 'medium-success')">
+                    <span class="dot"></span> 中成功率(40-70%) <span class="count" id="mediumSuccessCount">0</span>
+                </span>
+                <span class="prediction-tag high-risk" data-filter="low-success" onclick="togglePredictionFilter(this, 'low-success')">
+                    <span class="dot"></span> 低成功率(<40%) <span class="count" id="lowSuccessCount">0</span>
                 </span>
             </div>
         </div>
@@ -660,6 +982,21 @@
     </div>
     
     <script>
+        // 移动端菜单切换
+        function toggleMenu() {
+            const navTabs = document.getElementById('navTabs');
+            const hamburger = document.getElementById('hamburger');
+            navTabs.classList.toggle('show');
+            hamburger.classList.toggle('active');
+        }
+        
+        document.querySelectorAll('.nav-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.getElementById('navTabs').classList.remove('show');
+                document.getElementById('hamburger').classList.remove('active');
+            });
+        });
+        
         // 客户颜色配置
         const CLIENT_COLORS = {
             '3C数码': ['#667EEA', '#764BA2'],
@@ -683,10 +1020,34 @@
             '小红书': 'xiaohongshu',
             'B站': 'bilibili'
         };
+
+        // 平台互动系数 (基础互动量)
+        const PLATFORM_BASE = {
+            '抖音': 50000,
+            '微博': 30000,
+            '小红书': 40000,
+            'B站': 25000
+        };
+
+        // 内容角度加成系数
+        const ANGLE_BONUS = {
+            '测评': 1.5,
+            '教程': 1.4,
+            '对比': 1.3,
+            '种草': 1.2,
+            '故事': 1.25,
+            '热点': 1.6,
+            '揭秘': 1.35,
+            '科普': 1.15,
+            '日常': 1.0,
+            '搞笑': 1.4,
+            '情感': 1.3
+        };
         
         // 全局数据
         let allIdeas = [];
         let clientData = {};
+        let currentPredictionFilter = '';
         
         // 展开/收起客户选题
         function toggleClient(header) {
@@ -707,6 +1068,137 @@
                     const cardPriority = card.dataset.priority;
                     card.style.display = cardPriority === priority ? 'block' : 'none';
                 }
+            });
+        }
+
+        /**
+         * 计算预估互动量         * 基于热点热度、平台、角度计算
+         */
+        function calculateEngagement(idea) {
+            // 提取热度数值
+            let heatValue = 100; // 默认热度
+            if (idea.heat) {
+                const match = idea.heat.match(/(\d+)/);
+                if (match) heatValue = parseInt(match[1]);
+            }
+            
+            // 热度归一化 (0-1)
+            const heatFactor = Math.min(heatValue / 500, 1.5);
+            
+            // 平台基础互动
+            const platformBase = PLATFORM_BASE[idea.platform] || 30000;
+            
+            // 角度加成
+            let angleBonus = 1.0;
+            if (idea.angle) {
+                for (const [key, bonus] of Object.entries(ANGLE_BONUS)) {
+                    if (idea.angle.includes(key)) {
+                        angleBonus = bonus;
+                        break;
+                    }
+                }
+            }
+            
+            // 借势热点加成
+            let hotBonus = 1.0;
+            if (idea.hot_topic) {
+                hotBonus = 1.3;
+            }
+            
+            // 综合计算
+            const engagement = Math.round(platformBase * heatFactor * angleBonus * hotBonus);
+            
+            return engagement;
+        }
+
+        /**
+         * 计算成功率
+         */
+        function calculateSuccessRate(idea) {
+            let score = 50; // 基础分数
+            
+            // 热度加成 (热度>200给高分)
+            if (idea.heat) {
+                const match = idea.heat.match(/(\d+)/);
+                if (match) {
+                    const heat = parseInt(match[1]);
+                    if (heat > 400) score += 25;
+                    else if (heat > 300) score += 15;
+                    else if (heat > 200) score += 10;
+                    else if (heat > 100) score += 5;
+                }
+            }
+            
+            // 角度加成
+            if (idea.angle) {
+                if (idea.angle.includes('热点')) score += 15;
+                if (idea.angle.includes('测评')) score += 10;
+                if (idea.angle.includes('对比')) score += 8;
+                if (idea.angle.includes('教程')) score += 5;
+                if (idea.angle.includes('种草')) score += 5;
+                if (idea.angle.includes('搞笑')) score += 8;
+                if (idea.angle.includes('情感')) score += 5;
+            }
+            
+            // 有借势热点加成
+            if (idea.hot_topic) {
+                score += 10;
+            }
+            
+            // 平台加成 (不同平台成功率不同)
+            if (idea.platform === '抖音') score += 8;
+            else if (idea.platform === '小红书') score += 5;
+            
+            // 限制范围
+            return Math.min(Math.max(score, 10), 95);
+        }
+
+        /**
+         * 计算风险等级
+         */
+        function calculateRisk(idea, successRate) {
+            if (successRate >= 70) return 'low';
+            if (successRate >= 40) return 'medium';
+            return 'high';
+        }
+
+        /**
+         * 格式化互动量显示
+         */
+        function formatEngagement(engagement) {
+            if (engagement >= 10000) {
+                return (engagement / 10000).toFixed(1) + 'w';
+            }
+            return engagement.toString();
+        }
+
+        /**
+         * 获取成功率等级
+         */
+        function getSuccessLevel(successRate) {
+            if (successRate >= 70) return 'high';
+            if (successRate >= 40) return 'medium';
+            return 'low';
+        }
+
+        /**
+         * 为选题添加效果预估数据
+         */
+        function addPredictionData(ideas) {
+            return ideas.map(idea => {
+                const engagement = calculateEngagement(idea);
+                const successRate = calculateSuccessRate(idea);
+                const risk = calculateRisk(idea, successRate);
+                const successLevel = getSuccessLevel(successRate);
+                
+                return {
+                    ...idea,
+                    _engagement: engagement,
+                    _successRate: successRate,
+                    _risk: risk,
+                    _successLevel: successLevel,
+                    _engagementFormatted: formatEngagement(engagement)
+                };
             });
         }
         
@@ -763,6 +1255,34 @@
             // 更新总数
             document.getElementById('totalCount').textContent = ideas.length;
             document.getElementById('totalIdeas').textContent = ideas.length;
+
+            // 更新效果预估统计
+            updatePredictionStats(ideas);
+        }
+
+        /**
+         * 更新效果预估统计
+         */
+        function updatePredictionStats(ideas) {
+            const highSuccess = ideas.filter(i => i._successLevel === 'high').length;
+            const mediumSuccess = ideas.filter(i => i._successLevel === 'medium').length;
+            const lowSuccess = ideas.filter(i => i._successLevel === 'low').length;
+
+            document.getElementById('totalPredCount').textContent = ideas.length;
+            document.getElementById('highSuccessCount').textContent = highSuccess;
+            document.getElementById('mediumSuccessCount').textContent = mediumSuccess;
+            document.getElementById('lowSuccessCount').textContent = lowSuccess;
+        }
+
+        /**
+         * 切换效果预估筛选
+         */
+        function togglePredictionFilter(tag, filter) {
+            // 移除所有标签的active
+            document.querySelectorAll('.prediction-tag').forEach(t => t.classList.remove('active'));
+            tag.classList.add('active');
+            currentPredictionFilter = filter;
+            applyFilters();
         }
         
         // 获取平台图标
@@ -816,7 +1336,12 @@
             document.querySelectorAll('.platform-tag').forEach(t => t.classList.remove('active'));
             document.querySelector('.platform-tag[data-platform=""]').classList.add('active');
             
+            // 重置效果预估筛选
+            document.querySelectorAll('.prediction-tag').forEach(t => t.classList.remove('active'));
+            document.querySelector('.prediction-tag[data-filter=""]').classList.add('active');
+            
             currentFilters = { keyword: '', platform: '', industry: '', angle: '' };
+            currentPredictionFilter = '';
             applyFilters();
         }
         
@@ -855,6 +1380,11 @@
                 filteredIdeas = filteredIdeas.filter(idea => idea.angle === currentFilters.angle);
             }
             
+            // 效果预估筛选
+            if (currentPredictionFilter) {
+                filteredIdeas = filteredIdeas.filter(idea => idea._successLevel === currentPredictionFilter);
+            }
+            
             // 排序
             filteredIdeas = sortIdeas(filteredIdeas, sortBy);
             
@@ -876,11 +1406,9 @@
                         return heatB - heatA;
                     });
                 case 'engagement':
-                    return sorted.sort((a, b) => {
-                        const engA = parseInt(a.engagement_estimate?.replace(/[^0-9]/g, '')) || 0;
-                        const engB = parseInt(b.engagement_estimate?.replace(/[^0-9]/g, '')) || 0;
-                        return engB - engA;
-                    });
+                    return sorted.sort((a, b) => (b._engagement || 0) - (a._engagement || 0));
+                case 'successRate':
+                    return sorted.sort((a, b) => (b._successRate || 0) - (a._successRate || 0));
                 case 'name':
                     return sorted.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
                 default:
@@ -895,7 +1423,7 @@
             const totalIdeas = document.getElementById('totalIdeas');
             
             const hasFilters = currentFilters.keyword || currentFilters.platform || 
-                              currentFilters.industry || currentFilters.angle;
+                              currentFilters.industry || currentFilters.angle || currentPredictionFilter;
             
             if (hasFilters) {
                 stats.classList.add('visible');
@@ -904,6 +1432,53 @@
             } else {
                 stats.classList.remove('visible');
             }
+        }
+        
+        /**
+         * 渲染效果预估卡片
+         */
+        function renderPredictionCard(idea) {
+            const successLevel = idea._successLevel;
+            const risk = idea._risk;
+            const riskLabels = { high: '高风险', medium: '中风险', low: '低风险' };
+            const riskIcons = { high: '⚠️', medium: '⚡', low: '✅' };
+
+            // 计算星星数量 (成功率换算成5星)
+            const stars = Math.ceil((idea._successRate / 100) * 5);
+            const starsStr = '★'.repeat(stars) + '☆'.repeat(5 - stars);
+
+            return `
+                <div class="prediction-section">
+                    <!-- 预估互动量 -->
+                    <div class="prediction-engagement">
+                        <span class="icon">💬</span>
+                        <span class="value">${idea._engagementFormatted}</span>
+                        <span class="label">预估互动</span>
+                    </div>
+                    
+                    <!-- 成功率预测 -->
+                    <div class="prediction-success">
+                        <span class="icon">🎯</span>
+                        <span class="percent ${successLevel}">${idea._successRate}%</span>
+                        <div class="progress-bar">
+                            <div class="progress-fill ${successLevel}" style="width: ${idea._successRate}%"></div>
+                        </div>
+                    </div>
+                    
+                    <!-- 风险提示 -->
+                    <div class="prediction-risk ${risk}">
+                        <span class="icon">${riskIcons[risk]}</span>
+                        <span>${riskLabels[risk]}</span>
+                    </div>
+
+                    <!-- 效果评分 -->
+                    <div class="prediction-score">
+                        <span class="icon">⭐</span>
+                        <span class="score-value">${idea._successRate}分</span>
+                        <span class="stars">${starsStr}</span>
+                    </div>
+                </div>
+            `;
         }
         
         // 渲染筛选后的客户
@@ -950,6 +1525,12 @@
                 const priorityClass = client.priority >= 4 ? 'high' : client.priority >= 3 ? 'medium' : 'low';
                 const expanded = index === 0 ? 'expanded' : '';
                 
+                // 计算客户平均成功率
+                const avgSuccess = Math.round(
+                    client.ideas.reduce((sum, i) => sum + (i._successRate || 0), 0) / client.ideas.length
+                );
+                const highSuccessCount = client.ideas.filter(i => i._successLevel === 'high').length;
+                
                 html += `
                 <div class="client-card ${expanded}" data-priority="${priorityClass}">
                     <div class="client-header" onclick="toggleClient(this)">
@@ -959,7 +1540,11 @@
                             </div>
                             <div>
                                 <div class="client-name">${client.industry} - ${client.brand}</div>
-                                <div class="client-meta">${client.brand} | ${client.ideas.length}条选题</div>
+                                <div class="client-meta">
+                                    ${client.brand} | ${client.ideas.length}条选题 
+                                    <span style="color: #10B981; font-weight: 600;">| 平均成功率 ${avgSuccess}%</span>
+                                    <span style="color: #6366F1;">| 高成功率 ${highSuccessCount}条</span>
+                                </div>
                             </div>
                         </div>
                         <div style="display: flex; align-items: center; gap: 12px;">
@@ -985,8 +1570,8 @@
                                     <span>🎯 ${idea.angle}</span>
                                     ${idea.hot_topic ? `<span>🔥 借势：${idea.hot_topic}</span>` : ''}
                                     ${idea.heat ? `<span class="idea-hot">${idea.heat}</span>` : ''}
-                                    ${idea.engagement_estimate ? `<span class="idea-engagement">预估：${idea.engagement_estimate}</span>` : ''}
                                 </div>
+                                ${renderPredictionCard(idea)}
                             </div>
                             `;
                         }).join('')}
@@ -1000,14 +1585,15 @@
         
         // 渲染客户选题
         function renderClients(ideas) {
-            allIdeas = ideas;
+            // 添加效果预估数据
+            allIdeas = addPredictionData(ideas);
             
             // 初始化筛选器
-            initFilters(ideas);
+            initFilters(allIdeas);
             
             // 按客户分组
             clientData = {};
-            ideas.forEach(idea => {
+            allIdeas.forEach(idea => {
                 const client = idea.client;
                 const key = client.brand || client.industry;
                 if (!clientData[key]) {
@@ -1024,19 +1610,19 @@
             
             // 更新统计
             const clientCount = Object.keys(clientData).length;
-            const platformCount = new Set(ideas.map(i => i.platform)).size;
+            const platformCount = new Set(allIdeas.map(i => i.platform)).size;
             document.getElementById('clientCount').textContent = clientCount;
-            document.getElementById('ideaCount').textContent = ideas.length;
+            document.getElementById('ideaCount').textContent = allIdeas.length;
             document.getElementById('platformCount').textContent = platformCount;
-            document.getElementById('avgIdeas').textContent = Math.round(ideas.length / clientCount);
+            document.getElementById('avgIdeas').textContent = Math.round(allIdeas.length / clientCount);
             
             // 更新时间
-            const updateTime = ideas[0]?.created_at || new Date().toISOString();
+            const updateTime = allIdeas[0]?.created_at || new Date().toISOString();
             document.getElementById('updateTime').textContent = 
                 '📅 数据更新时间：' + new Date(updateTime).toLocaleString('zh-CN');
             
             // 渲染客户卡片
-            renderFilteredClients(ideas);
+            renderFilteredClients(allIdeas);
         }
         
         // 页面加载时获取数据
@@ -1151,7 +1737,10 @@
                         '内容角度',
                         '借势热点',
                         '热度指数',
+                        '预估互动量',
                         '预估互动',
+                        '成功率',
+                        '风险等级',
                         '创建时间'
                     ];
                     
@@ -1168,7 +1757,10 @@
                             escapeCSVField(idea.angle),
                             escapeCSVField(idea.hot_topic),
                             escapeCSVField(idea.heat),
-                            escapeCSVField(idea.engagement_estimate),
+                            escapeCSVField(idea._engagement),
+                            escapeCSVField(idea._engagementFormatted),
+                            escapeCSVField(idea._successRate ? idea._successRate + '%' : ''),
+                            escapeCSVField(idea._risk ? {high: '高风险', medium: '中风险', low: '低风险'}[idea._risk] : ''),
                             escapeCSVField(idea.created_at)
                         ];
                         csv += row.join(',') + '\n';
@@ -1224,7 +1816,10 @@
                         '内容角度',
                         '借势热点',
                         '热度指数',
+                        '预估互动量',
                         '预估互动',
+                        '成功率',
+                        '风险等级',
                         '创建时间'
                     ];
                     
@@ -1239,7 +1834,10 @@
                             idea.angle || '',
                             idea.hot_topic || '',
                             idea.heat || '',
-                            idea.engagement_estimate || '',
+                            idea._engagement || '',
+                            idea._engagementFormatted || '',
+                            idea._successRate ? idea._successRate + '%' : '',
+                            idea._risk ? {high: '高风险', medium: '中风险', low: '低风险'}[idea._risk] : '',
                             idea.created_at || ''
                         ];
                         summarySheet += row.join('\t') + '\n';
@@ -1270,7 +1868,10 @@
                                 idea.angle || '',
                                 idea.hot_topic || '',
                                 idea.heat || '',
-                                idea.engagement_estimate || '',
+                                idea._engagement || '',
+                                idea._engagementFormatted || '',
+                                idea._successRate ? idea._successRate + '%' : '',
+                                idea._risk ? {high: '高风险', medium: '中风险', low: '低风险'}[idea._risk] : '',
                                 idea.created_at || ''
                             ];
                             clientSheets += row.join('\t') + '\n';
@@ -1284,6 +1885,17 @@
                     statsSheet += `选题总数\t${allIdeas.length}\n`;
                     statsSheet += `平台覆盖\t${new Set(allIdeas.map(i => i.platform)).size}\n`;
                     statsSheet += `平均每客户选题\t${Math.round(allIdeas.length / Object.keys(clientGroups).length)}\n`;
+
+                    // 效果预估统计
+                    const highSuccess = allIdeas.filter(i => i._successLevel === 'high').length;
+                    const mediumSuccess = allIdeas.filter(i => i._successLevel === 'medium').length;
+                    const lowSuccess = allIdeas.filter(i => i._successLevel === 'low').length;
+                    statsSheet += `高成功率选题\t${highSuccess}\n`;
+                    statsSheet += `中成功率选题\t${mediumSuccess}\n`;
+                    statsSheet += `低成功率选题\t${lowSuccess}\n`;
+
+                    const avgEngagement = Math.round(allIdeas.reduce((sum, i) => sum + (i._engagement || 0), 0) / allIdeas.length);
+                    statsSheet += `平均预估互动\t${formatEngagement(avgEngagement)}\n`;
                     statsSheet += `导出时间\t${new Date().toLocaleString('zh-CN')}\n`;
                     
                     // 合并所有内容

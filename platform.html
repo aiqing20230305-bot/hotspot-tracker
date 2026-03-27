@@ -120,6 +120,95 @@
             color: var(--gray-400);
             margin-left: 12px;
         }
+        
+        /* 汉堡菜单 */
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            padding: 8px;
+            min-width: 48px;
+            min-height: 48px;
+            justify-content: center;
+            align-items: center;
+        }
+        .hamburger span {
+            width: 24px;
+            height: 2px;
+            background: var(--gray-600);
+            border-radius: 2px;
+            transition: all 0.3s;
+        }
+        .hamburger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+        }
+        .hamburger.active span:nth-child(2) { opacity: 0; }
+        .hamburger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -5px);
+        }
+        
+        /* 移动端适配 */
+        @media (max-width: 1024px) {
+            .nav-tab { padding: 6px 12px; font-size: 13px; }
+            .nav-meta { display: none; }
+        }
+        @media (max-width: 768px) {
+            .navbar { padding: 0 16px; }
+            .nav-tabs {
+                display: none;
+                position: fixed;
+                top: 64px;
+                left: 0;
+                right: 0;
+                background: white;
+                flex-direction: column;
+                padding: 16px;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+                gap: 4px;
+                height: auto;
+                z-index: 99;
+                border-top: 1px solid var(--gray-100);
+            }
+            .nav-tabs.show { display: flex; }
+            .nav-tab {
+                padding: 12px 16px;
+                font-size: 15px;
+                width: 100%;
+                justify-content: flex-start;
+                min-height: 48px;
+                position: static;
+            }
+            .nav-tab.active::after { display: none; }
+            .nav-tab.active { background: var(--primary-50); }
+            .hamburger { display: flex; }
+            .main-container { padding: 16px; }
+            .hero {
+                padding: 36px 24px;
+                border-radius: 20px;
+            }
+            .hero h1 { font-size: 28px; }
+            .hero p { font-size: 15px; }
+            .hero-btns { flex-direction: column; }
+            .btn-primary, .btn-secondary { width: 100%; justify-content: center; }
+            .stats-bar { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+            .stat-card { padding: 16px; }
+            .stat-value { font-size: 26px; }
+            .modules-grid { grid-template-columns: 1fr; }
+            .content-grid { grid-template-columns: 1fr; }
+        }
+        @media (max-width: 480px) {
+            .logo { font-size: 18px; }
+            .logo-icon { width: 28px; height: 28px; font-size: 14px; }
+            .hero h1 { font-size: 24px; }
+            .stats-bar { grid-template-columns: 1fr 1fr; gap: 10px; }
+            .stat-card { padding: 14px 12px; }
+            .stat-value { font-size: 22px; }
+            .stat-icon { width: 44px; height: 44px; font-size: 20px; }
+        }
+        @media (hover: none) and (pointer: coarse) {
+            .nav-tab, .btn-primary, .btn-secondary, .module-card { min-height: 44px; }
+        }
 
         /* ===== MAIN CONTAINER ===== */
         .main-container {
@@ -754,15 +843,21 @@
                 <div class="logo-icon">🎯</div>
                 特赞内容运营平台
             </a>
-            <div class="nav-tabs">
+            <div class="nav-tabs" id="navTabs">
                 <a href="platform.html" class="nav-tab active">首页</a>
                 <a href="index.html" class="nav-tab">热点追踪</a>
                 <a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
                 <a href="client_center.html" class="nav-tab">客户选题</a>
                 <a href="sku_library.html" class="nav-tab">SKU场景</a>
+                <a href="competitor_analysis.html" class="nav-tab">竞品分析</a>
                 <a href="dashboard.html" class="nav-tab">数据看板</a>
                 <a href="script_generator.html" class="nav-tab">脚本生成</a>
                 <span class="nav-meta" id="updateTime"></span>
+            </div>
+            <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
         </div>
     </nav>
@@ -944,6 +1039,21 @@
 
     <!-- ===== SCRIPTS ===== -->
     <script>
+        // 移动端菜单切换
+        function toggleMenu() {
+            const navTabs = document.getElementById('navTabs');
+            const hamburger = document.getElementById('hamburger');
+            navTabs.classList.toggle('show');
+            hamburger.classList.toggle('active');
+        }
+        
+        document.querySelectorAll('.nav-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.getElementById('navTabs').classList.remove('show');
+                document.getElementById('hamburger').classList.remove('active');
+            });
+        });
+        
         // 平台颜色映射
         const platformColors = {
             '抖音': 'douyin',

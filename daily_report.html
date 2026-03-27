@@ -442,6 +442,21 @@
             .header h1 { font-size: 24px; }
             .content { padding: 16px; }
             .platform-grid, .industry-grid { grid-template-columns: 1fr; }
+            .meta { grid-template-columns: 1fr 1fr; gap: 12px; padding: 16px; }
+            .meta-card { padding: 14px; }
+            .meta-value { font-size: 16px; }
+            .header { padding: 32px 24px; }
+            .header p { font-size: 16px; }
+            .section-title { font-size: 20px; }
+        }
+        @media (max-width: 480px) {
+            .header h1 { font-size: 20px; }
+            .meta { grid-template-columns: 1fr; }
+            .platform-name { font-size: 16px; }
+            .industry-title { font-size: 16px; }
+        }
+        @media (hover: none) and (pointer: coarse) {
+            .footer-link { min-height: 44px; }
         }
         
         /* Animation */

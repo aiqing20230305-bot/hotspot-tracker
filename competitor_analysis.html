@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎯 竞品分析 - 特赞内容运营平台</title>
+    <style>
+        :root {
+            --primary: #6366F1;
+            --primary-light: #818CF8;
+            --primary-dark: #4F46E5;
+            --primary-50: #EEF2FF;
+            --success: #10B981;
+            --success-50: #D1FAE5;
+            --warning: #F59E0B;
+            --warning-50: #FEF3C7;
+            --error: #EF4444;
+            --error-50: #FEE2E2;
+            --gray-50: #F9FAFB;
+            --gray-100: #F3F4F6;
+            --gray-200: #E5E7EB;
+            --gray-300: #D1D5DB;
+            --gray-400: #9CA3AF;
+            --gray-600: #4B5563;
+            --gray-700: #374151;
+            --gray-800: #1F2937;
+            --gray-900: #111827;
+            --radius: 16px;
+            --radius-sm: 10px;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            --shadow-lg: 0 20px 40px -10px rgba(0,0,0,0.15);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif;
+            background: #F1F5F9;
+            min-height: 100vh;
+            color: var(--gray-800);
+        }
+
+        .navbar {
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(20px);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            padding: 0 24px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            height: 64px;
+        }
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 100%;
+        }
+        .logo {
+            font-size: 20px;
+            font-weight: 800;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .nav-tabs {
+            display: flex;
+            gap: 4px;
+            align-items: center;
+        }
+        .nav-tab {
+            padding: 8px 14px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: var(--gray-600);
+            font-weight: 500;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+        .nav-tab:hover {
+            background: var(--gray-100);
+            color: var(--primary);
+        }
+        .nav-tab.active {
+            background: #EEF2FF;
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        .main-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 32px 24px;
+        }
+
+        .page-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 48px;
+            border-radius: 24px;
+            margin-bottom: 32px;
+            position: relative;
+            overflow: hidden;
+        }
+        .page-header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -20%;
+            width: 500px;
+            height: 500px;
+            background: rgba(255,255,255,0.06);
+            border-radius: 50%;
+        }
+        .page-header h1 {
+            font-size: 32px;
+            font-weight: 800;
+            margin-bottom: 8px;
+        }
+        .page-header p {
+            opacity: 0.9;
+            font-size: 15px;
+        }
+        .update-time {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(255,255,255,0.15);
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            margin-top: 16px;
+        }
+
+        .search-section {
+            background: white;
+            border-radius: var(--radius);
+            padding: 24px 32px;
+            margin-bottom: 16px;
+            box-shadow: var(--shadow);
+            display: flex;
+            gap: 12px;
+            align-items: center;
+        }
+        .search-input-wrap {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            background: var(--gray-50);
+            border: 2px solid var(--gray-200);
+            border-radius: 12px;
+            padding: 12px 20px;
+            transition: all 0.2s;
+        }
+        .search-input-wrap:focus-within {
+            border-color: var(--primary);
+            background: white;
+            box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.1);
+        }
+        .search-icon {
+            font-size: 20px;
+            color: var(--gray-400);
+        }
+        .search-input {
+            flex: 1;
+            border: none;
+            background: none;
+            font-size: 15px;
+            color: var(--gray-800);
+            outline: none;
+        }
+        .search-input::placeholder {
+            color: var(--gray-400);
+        }
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+            padding: 12px 28px;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 15px;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .btn-primary:hover {
+            background: var(--primary-dark);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(99, 102, 241, 0.3);
+        }
+        .quick-brands {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+        .quick-brand {
+            padding: 6px 16px;
+            background: var(--gray-50);
+            border: 1px solid var(--gray-200);
+            border-radius: 20px;
+            font-size: 13px;
+            color: var(--gray-600);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .quick-brand:hover, .quick-brand.active {
+            background: var(--primary-50);
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+
+        .competitor-select {
+            background: white;
+            border-radius: var(--radius);
+            padding: 20px 28px;
+            margin-bottom: 24px;
+            box-shadow: var(--shadow);
+        }
+        .competitor-label {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-700);
+            margin-bottom: 12px;
+        }
+        .competitor-list {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .competitor-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px 20px;
+            background: var(--gray-50);
+            border: 2px solid var(--gray-200);
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .competitor-item:hover {
+            border-color: var(--primary-light);
+        }
+        .competitor-item.selected {
+            background: var(--primary-50);
+            border-color: var(--primary);
+        }
+        .competitor-avatar {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: 700;
+            color: white;
+        }
+        .competitor-name {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-700);
+        }
+        .competitor-check {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: var(--gray-200);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            color: white;
+        }
+        .competitor-item.selected .competitor-check {
+            background: var(--primary);
+        }
+
+        .stats-bar {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 16px;
+            margin-bottom: 28px;
+        }
+        .stat-card {
+            background: white;
+            border-radius: var(--radius-sm);
+            padding: 20px;
+            box-shadow: var(--shadow);
+            text-align: center;
+            transition: all 0.2s;
+        }
+        .stat-card:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+        .stat-icon {
+            font-size: 24px;
+            margin-bottom: 8px;
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: 800;
+            color: var(--gray-900);
+            margin-bottom: 4px;
+        }
+        .stat-label {
+            font-size: 12px;
+            color: var(--gray-500);
+        }
+
+        .content-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+            margin-bottom: 24px;
+        }
+        @media (max-width: 1024px) {
+            .content-grid { grid-template-columns: 1fr; }
+            .stats-bar { grid-template-columns: repeat(3, 1fr); }
+        }
+        @media (max-width: 640px) {
+            .stats-bar { grid-template-columns: repeat(2, 1fr); }
+        }
+
+        .card {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+        }
+        .card-header {
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--gray-100);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .card-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--gray-900);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .card-body { padding: 24px; }
+
+        .trend-chart {
+            position: relative;
+            height: 220px;
+            padding: 20px 20px 40px 50px;
+        }
+        .chart-y-axis {
+            position: absolute;
+            left: 0;
+            top: 20px;
+            bottom: 40px;
+            width: 50px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            font-size: 11px;
+            color: var(--gray-400);
+            text-align: right;
+            padding-right: 8px;
+        }
+        .chart-area {
+            position: relative;
+            height: 100%;
+            display: flex;
+            align-items: flex-end;
+            gap: 12px;
+            border-bottom: 1px solid var(--gray-200);
+            padding-bottom: 8px;
+        }
+        .chart-grid-line {
+            position: absolute;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: var(--gray-100);
+        }
+        .chart-group {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+        }
+        .chart-bar-wrap {
+            display: flex;
+            align-items: flex-end;
+            gap: 4px;
+            height: 160px;
+            width: 100%;
+            justify-content: center;
+        }
+        .chart-bar {
+            width: 24px;
+            border-radius: 4px 4px 0 0;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .chart-bar:hover {
+            opacity: 0.8;
+            transform: scaleY(1.05);
+            transform-origin: bottom;
+        }
+        .chart-bar .bar-tooltip {
+            position: absolute;
+            bottom: calc(100% + 6px);
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--gray-900);
+            color: white;
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 11px;
+            white-space: nowrap;
+            opacity: 0;
+            transition: opacity 0.2s;
+            z-index: 10;
+        }
+        .chart-bar:hover .bar-tooltip {
+            opacity: 1;
+        }
+        .chart-bar.brand-a { background: linear-gradient(180deg, #6366F1, #4F46E5); }
+        .chart-bar.brand-b { background: linear-gradient(180deg, #EC4899, #DB2777); }
+        .chart-bar.brand-c { background: linear-gradient(180deg, #10B981, #059669); }
+        .chart-bar.brand-d { background: linear-gradient(180deg, #F59E0B, #D97706); }
+        .chart-bar.brand-e { background: linear-gradient(180deg, #3B82F6, #2563EB); }
+        .chart-label {
+            font-size: 11px;
+            color: var(--gray-500);
+            text-align: center;
+        }
+        .chart-legend {
+            display: flex;
+            gap: 16px;
+            justify-content: center;
+            margin-top: 16px;
+            flex-wrap: wrap;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 12px;
+            color: var(--gray-600);
+        }
+        .legend-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 3px;
+        }
+
+        .pie-chart-section {
+            display: flex;
+            gap: 32px;
+            align-items: center;
+        }
+        .pie-chart-wrap {
+            position: relative;
+            width: 180px;
+            height: 180px;
+        }
+        .pie-chart {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: conic-gradient(
+                #6366F1 0deg 108deg,
+                #EC4899 108deg 198deg,
+                #10B981 198deg 270deg,
+                #F59E0B 270deg 324deg,
+                #3B82F6 324deg 360deg
+            );
+            position: relative;
+        }
+        .pie-chart::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 80px;
+            height: 80px;
+            background: white;
+            border-radius: 50%;
+        }
+        .pie-legend {
+            flex: 1;
+        }
+        .pie-legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px 0;
+            border-bottom: 1px solid var(--gray-100);
+        }
+        .pie-legend-item:last-child {
+            border-bottom: none;
+        }
+        .pie-legend-color {
+            width: 12px;
+            height: 12px;
+            border-radius: 3px;
+        }
+        .pie-legend-label {
+            flex: 1;
+            font-size: 13px;
+            color: var(--gray-700);
+        }
+        .pie-legend-value {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--gray-900);
+        }
+
+        .bar-chart {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        .bar-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .bar-label {
+            width: 70px;
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--gray-700);
+        }
+        .bar-track {
+            flex: 1;
+            height: 28px;
+            background: var(--gray-100);
+            border-radius: 6px;
+            overflow: hidden;
+            position: relative;
+        }
+        .bar-fill {
+            height: 100%;
+            border-radius: 6px;
+            transition: width 1s cubic-bezier(0.4,0,0.2,1);
+            display: flex;
+            align-items: center;
+            padding-left: 12px;
+        }
+        .bar-value {
+            font-size: 12px;
+            font-weight: 700;
+            color: white;
+        }
+        .bar-fill.brand-a { background: linear-gradient(90deg, #6366F1, #818CF8); }
+        .bar-fill.brand-b { background: linear-gradient(90deg, #EC4899, #F472B6); }
+        .bar-fill.brand-c { background: linear-gradient(90deg, #10B981, #34D399); }
+        .bar-fill.brand-d { background: linear-gradient(90deg, #F59E0B, #FBBF24); }
+        .bar-fill.brand-e { background: linear-gradient(90deg, #3B82F6, #60A5FA); }
+
+        .keyword-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            padding: 16px;
+        }
+        .keyword-tag {
+            padding: 8px 18px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
+            cursor: default;
+        }
+        .keyword-tag.size-1 {
+            font-size: 18px;
+            background: linear-gradient(135deg, #6366F1, #8B5CF6);
+            color: white;
+            padding: 10px 24px;
+        }
+        .keyword-tag.size-2 {
+            font-size: 15px;
+            background: linear-gradient(135deg, #EC4899, #F472B6);
+            color: white;
+        }
+        .keyword-tag.size-3 {
+            font-size: 13px;
+            background: linear-gradient(135deg, #10B981, #34D399);
+            color: white;
+        }
+        .keyword-tag.size-4 {
+            font-size: 12px;
+            background: linear-gradient(135deg, #F59E0B, #FBBF24);
+            color: white;
+        }
+        .keyword-tag.size-5 {
+            font-size: 11px;
+            background: linear-gradient(135deg, #3B82F6, #60A5FA);
+            color: white;
+        }
+        .keyword-tag:hover {
+            transform: scale(1.08);
+        }
+
+        .strategy-list {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+        .strategy-item {
+            display: flex;
+            gap: 14px;
+            padding: 16px;
+            background: var(--gray-50);
+            border-radius: 12px;
+            border: 1px solid var(--gray-100);
+            transition: all 0.2s;
+        }
+        .strategy-item:hover {
+            background: white;
+            border-color: var(--primary-light);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        .strategy-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            flex-shrink: 0;
+        }
+        .strategy-icon.pink { background: linear-gradient(135deg, #FDF2F8, #FCE7F3); }
+        .strategy-icon.blue { background: linear-gradient(135deg, #EFF6FF, #DBEAFE); }
+        .strategy-icon.green { background: linear-gradient(135deg, #ECFDF5, #D1FAE5); }
+        .strategy-icon.yellow { background: linear-gradient(135deg, #FFFBEB, #FEF3C7); }
+        .strategy-icon.purple { background: linear-gradient(135deg, #F5F3FF, #EDE9FE); }
+        .strategy-content { flex: 1; }
+        .strategy-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-800);
+            margin-bottom: 4px;
+        }
+        .strategy-desc {
+            font-size: 13px;
+            color: var(--gray-500);
+            line-height: 1.5;
+        }
+        .strategy-meta {
+            display: flex;
+            gap: 12px;
+            margin-top: 8px;
+        }
+        .strategy-tag {
+            font-size: 11px;
+            padding: 2px 8px;
+            border-radius: 6px;
+            background: white;
+            color: var(--gray-600);
+        }
+
+        .footer {
+            text-align: center;
+            padding: 24px;
+            color: var(--gray-400);
+            font-size: 13px;
+            margin-top: 20px;
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-in {
+            animation: fadeInUp 0.5s ease both;
+        }
+        .delay-1 { animation-delay: 0.1s; }
+        .delay-2 { animation-delay: 0.2s; }
+        .delay-3 { animation-delay: 0.3s; }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">🎯 特赞内容运营平台</div>
+            <div class="nav-tabs">
+                <a href="platform.html" class="nav-tab">首页</a>
+                <a href="index.html" class="nav-tab">热点追踪</a>
+                <a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
+                <a href="client_center.html" class="nav-tab">客户选题</a>
+                <a href="sku_library.html" class="nav-tab">SKU场景</a>
+                <a href="competitor_analysis.html" class="nav-tab active">竞品分析</a>
+                <a href="dashboard.html" class="nav-tab">数据看板</a>
+                <a href="script_generator.html" class="nav-tab">脚本生成</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-container">
+        <div class="page-header animate-in">
+            <h1>🎯 竞品分析</h1>
+            <p>深度分析竞品品牌的内容策略、热度趋势与互动数据，洞察行业趋势</p>
+            <div class="update-time" id="updateTime">📅 更新时间：加载中...</div>
+        </div>
+
+        <div class="search-section animate-in delay-1">
+            <div class="search-input-wrap">
+                <span class="search-icon">🔍</span>
+                <input type="text" class="search-input" id="searchInput" placeholder="输入品牌名称进行竞品分析...">
+            </div>
+            <button class="btn-primary" onclick="analyzeBrand()">
+                <span>📊</span> 开始分析
+            </button>
+        </div>
+        <div class="quick-brands animate-in delay-1" style="padding-left: 8px;">
+            <span class="quick-brand active" onclick="selectQuickBrand(this, '花西子')">花西子</span>
+            <span class="quick-brand" onclick="selectQuickBrand(this, '完美日记')">完美日记</span>
+            <span class="quick-brand" onclick="selectQuickBrand(this, '薇诺娜')">薇诺娜</span>
+            <span class="quick-brand" onclick="selectQuickBrand(this, '珀莱雅')">珀莱雅</span>
+            <span class="quick-brand" onclick="selectQuickBrand(this, '橘朵')">橘朵</span>
+        </div>
+
+        <div class="competitor-select animate-in delay-2">
+            <div class="competitor-label">选择对比竞品（已自动推荐相似品牌）</div>
+            <div class="competitor-list" id="competitorList"></div>
+        </div>
+
+        <div class="stats-bar animate-in delay-2">
+            <div class="stat-card">
+                <div class="stat-icon">🔥</div>
+                <div class="stat-value" id="statHot">--</div>
+                <div class="stat-label">总热度指数</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">📝</div>
+                <div class="stat-value" id="statContent">--</div>
+                <div class="stat-label">内容数量</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">💬</div>
+                <div class="stat-value" id="statInteract">--</div>
+                <div class="stat-label">总互动量</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">📈</div>
+                <div class="stat-value" id="statTrend">--</div>
+                <div class="stat-label">平均增长率</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">🏆</div>
+                <div class="stat-value" id="statTop">--</div>
+                <div class="stat-label">爆款内容</div>
+            </div>
+        </div>
+
+        <div class="content-grid">
+            <div>
+                <div class="card animate-in delay-2">
+                    <div class="card-header">
+                        <div class="card-title">📈 品牌热度趋势对比</div>
+                        <span style="font-size: 12px; color: var(--gray-400);">近7天</span>
+                    </div>
+                    <div class="card-body">
+                        <div class="trend-chart" id="trendChart">
+                            <div class="chart-y-axis">
+                                <span>100w</span>
+                                <span>75w</span>
+                                <span>50w</span>
+                                <span>25w</span>
+                                <span>0</span>
+                            </div>
+                            <div class="chart-area" id="chartArea">
+                                <div class="chart-grid-line" style="bottom: 25%;"></div>
+                                <div class="chart-grid-line" style="bottom: 50%;"></div>
+                                <div class="chart-grid-line" style="bottom: 75%;"></div>
+                            </div>
+                        </div>
+                        <div class="chart-legend" id="chartLegend"></div>
+                    </div>
+                </div>
+
+                <div class="card animate-in delay-3" style="margin-top: 24px;">
+                    <div class="card-header">
+                        <div class="card-title">📊 热门内容类型分布</div>
+                        <span style="font-size: 12px; color: var(--gray-400);">按发布量统计</span>
+                    </div>
+                    <div class="card-body">
+                        <div class="pie-chart-section">
+                            <div class="pie-chart-wrap">
+                                <div class="pie-chart"></div>
+                            </div>
+                            <div class="pie-legend">
+                                <div class="pie-legend-item">
+                                    <div class="pie-legend-color" style="background: #6366F1;"></div>
+                                    <span class="pie-legend-label">产品测评</span>
+                                    <span class="pie-legend-value">30%</span>
+                                </div>
+                                <div class="pie-legend-item">
+                                    <div class="pie-legend-color" style="background: #EC4899;"></div>
+                                    <span class="pie-legend-label">种草推荐</span>
+                                    <span class="pie-legend-value">25%</span>
+                                </div>
+                                <div class="pie-legend-item">
+                                    <div class="pie-legend-color" style="background: #10B981;"></div>
+                                    <span class="pie-legend-label">教程攻略</span>
+                                    <span class="pie-legend-value">20%</span>
+                                </div>
+                                <div class="pie-legend-item">
+                                    <div class="pie-legend-color" style="background: #F59E0B;"></div>
+                                    <span class="pie-legend-label">使用心得</span>
+                                    <span class="pie-legend-value">15%</span>
+                                </div>
+                                <div class="pie-legend-item">
+                                    <div class="pie-legend-color" style="background: #3B82F6;"></div>
+                                    <span class="pie-legend-label">品牌故事</span>
+                                    <span class="pie-legend-value">10%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <div class="card animate-in delay-2">
+                    <div class="card-header">
+                        <div class="card-title">💬 互动数据对比</div>
+                        <span style="font-size: 12px; color: var(--gray-400);">平均互动量</span>
+                    </div>
+                    <div class="card-body">
+                        <div class="bar-chart" id="engagementChart"></div>
+                    </div>
+                </div>
+
+                <div class="card animate-in delay-3" style="margin-top: 24px;">
+                    <div class="card-header">
+                        <div class="card-title">🧠 内容策略分析</div>
+                        <span style="font-size: 12px; color: var(--primary); cursor: pointer;">查看详情 →</span>
+                    </div>
+                    <div class="card-body">
+                        <div class="strategy-list" id="strategyList"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card animate-in delay-3">
+            <div class="card-header">
+                <div class="card-title">☁️ 关键词云</div>
+                <span style="font-size: 12px; color: var(--gray-400);">高频关键词</span>
+            </div>
+            <div class="card-body">
+                <div class="keyword-cloud" id="keywordCloud"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        © 2026 特赞内容运营平台 · 数据仅供分析参考
+    </div>
+
+    <script>
+        const competitorData = {
+            '花西子': {
+                color: 'linear-gradient(135deg, #6366F1, #8B5CF6)',
+                heatTrend: [65, 72, 80, 85, 78, 90, 95],
+                engagement: 85000,
+                contentCount: 245,
+                competitors: ['完美日记', '橘朵', 'Colorkey', '珂拉琪']
+            },
+            '完美日记': {
+                color: 'linear-gradient(135deg, #EC4899, #F472B6)',
+                heatTrend: [70, 75, 82, 88, 92, 85, 88],
+                engagement: 72000,
+                contentCount: 312,
+                competitors: ['花西子', '橘朵', 'Colorkey', '毛戈平']
+            },
+            '薇诺娜': {
+                color: 'linear-gradient(135deg, #10B981, #34D399)',
+                heatTrend: [55, 62, 68, 75, 82, 78, 85],
+                engagement: 68000,
+                contentCount: 198,
+                competitors: ['玉泽', '理肤泉', '雅漾', '修丽可']
+            },
+            '珀莱雅': {
+                color: 'linear-gradient(135deg, #F59E0B, #FBBF24)',
+                heatTrend: [60, 65, 70, 78, 85, 88, 92],
+                engagement: 78000,
+                contentCount: 267,
+                competitors: ['欧莱雅', '玉兰油', '自然堂', '百雀羚']
+            },
+            '橘朵': {
+                color: 'linear-gradient(135deg, #3B82F6, #60A5FA)',
+                heatTrend: [45, 52, 58, 65, 70, 68, 75],
+                engagement: 52000,
+                contentCount: 189,
+                competitors: ['花西子', '完美日记', 'Colorkey', '酵色']
+            }
+        };
+
+        const strategies = [
+            { icon: '🎬', color: 'pink', title: '视频内容主导', desc: '短视频占比68%，平均时长45秒，注重产品特写与使用效果展示', tags: ['短视频', '种草'] },
+            { icon: '💡', color: 'blue', title: 'KOC矩阵投放', desc: '合作KOC数量增长120%，腰部达人占比65%，互动性价比最优', tags: ['KOC', '投放'] },
+            { icon: '🎯', color: 'green', title: '场景化营销', desc: '聚焦「通勤」「约会」等使用场景，场景相关内容互动率高35%', tags: ['场景', '痛点'] },
+            { icon: '🔥', color: 'yellow', title: '热点借势', desc: '热点相关内容占比22%，借势热点平均互动提升1.8倍', tags: ['热点', '流量'] },
+            { icon: '📱', color: 'purple', title: '多平台分发', desc: '小红书内容复用率85%，抖音跨平台内容播放量高42%', tags: ['多平台', '复用'] }
+        ];
+
+        const keywords = [
+            { text: '国货美妆', size: 1 }, { text: '平价替代', size: 1 }, { text: '性价比', size: 2 },
+            { text: '成分党', size: 2 }, { text: '敏感肌', size: 2 }, { text: '护肤心得', size: 3 },
+            { text: '新手入门', size: 3 }, { text: '回购好物', size: 3 }, { text: '学生党', size: 3 },
+            { text: '必买清单', size: 4 }, { text: '好物分享', size: 4 }, { text: '彩妆教程', size: 4 },
+            { text: '自用推荐', size: 4 }, { text: '品牌测评', size: 5 }, { text: '开箱体验', size: 5 },
+            { text: '变美日记', size: 5 }, { text: '好物清单', size: 5 }
+        ];
+
+        const brandColors = ['brand-a', 'brand-b', 'brand-c', 'brand-d', 'brand-e'];
+        const brandColorVals = ['#6366F1', '#EC4899', '#10B981', '#F59E0B', '#3
+        let currentBrand = '花西子';
+        let selectedCompetitors = ['完美日记', '橘朵', 'Colorkey'];
+
+        function selectQuickBrand(el, brand) {
+            document.querySelectorAll('.quick-brand').forEach(b => b.classList.remove('active'));
+            el.classList.add('active');
+            document.getElementById('searchInput').value = brand;
+            currentBrand = brand;
+            updateAnalysis();
+        }
+
+        function analyzeBrand() {
+            const input = document.getElementById('searchInput').value.trim();
+            if (input) {
+                currentBrand = input;
+                document.querySelectorAll('.quick-brand').forEach(b => {
+                    b.classList.toggle('active', b.textContent === input);
+                });
+            }
+            updateAnalysis();
+        }
+
+        function updateAnalysis() {
+            const data = competitorData[currentBrand] || competitorData['花西子'];
+            selectedCompetitors = data.competitors || ['完美日记', '橘朵', 'Colorkey'];
+
+            // 更新统计
+            const allEngagement = Object.values(competitorData).reduce((sum, d) => sum + d.engagement, 0);
+            const avgEngagement = Math.round(allEngagement / Object.keys(competitorData).length);
+            document.getElementById('statHot').textContent = Math.round(data.heatTrend[data.heatTrend.length - 1] * 1.2) + 'w';
+            document.getElementById('statContent').textContent = data.contentCount;
+            document.getElementById('statInteract').textContent = (data.engagement / 1000).toFixed(1) + 'k';
+            document.getElementById('statTrend').textContent = '+' + Math.round((data.heatTrend[data.heatTrend.length - 1] - data.heatTrend[0]) / data.heatTrend[0] * 100) + '%';
+            document.getElementById('statTop').textContent = Math.round(data.contentCount * 0.15);
+
+            renderCompetitorList();
+            renderTrendChart();
+            renderEngagementChart();
+            renderStrategies();
+            renderKeywords();
+        }
+
+        function renderCompetitorList() {
+            const container = document.getElementById('competitorList');
+            const allBrands = ['花西子', '完美日记', '薇诺娜', '珀莱雅', '橘朵', 'Colorkey', '珂拉琪', '毛戈平'];
+            const colors = ['#6366F1', '#EC4899', '#10B981', '#F59E0B', '#3B82F6', '#8B5CF6', '#F472B6', '#A855F7'];
+            container.innerHTML = allBrands.map((brand, i) => {
+                const isSelected = selectedCompetitors.includes(brand);
+                return `
+                    <div class="competitor-item ${isSelected ? 'selected' : ''}" onclick="toggleCompetitor(this, '${brand}')">
+                        <div class="competitor-avatar" style="background: ${colors[i]}">${brand.slice(0, 2)}</div>
+                        <span class="competitor-name">${brand}</span>
+                        <div class="competitor-check">${isSelected ? '✓' : ''}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function toggleCompetitor(el, brand) {
+            el.classList.toggle('selected');
+            const check = el.querySelector('.competitor-check');
+            if (el.classList.contains('selected')) {
+                selectedCompetitors.push(brand);
+                check.textContent = '✓';
+            } else {
+                selectedCompetitors = selectedCompetitors.filter(b => b !== brand);
+                check.textContent = '';
+            }
+            renderTrendChart();
+            renderEngagementChart();
+        }
+
+        function renderTrendChart() {
+            const container = document.getElementById('chartArea');
+            const legendContainer = document.getElementById('chartLegend');
+            const days = ['周一', '周二', '周三', '周四', '周五', '周六', '周日'];
+            
+            const allBrands = [currentBrand, ...selectedCompetitors].slice(0, 5);
+            const colors = ['brand-a', 'brand-b', 'brand-c', 'brand-d', 'brand-e'];
+            const colorVals = ['#6366F1', '#EC4899', '#10B981', '#F59E0B', '#3B82F6'];
+
+            let chartHtml = '';
+            let legendHtml = '';
+
+            // 为每个品牌渲染柱状
+            allBrands.forEach((brand, idx) => {
+                const data = competitorData[brand] || competitorData['花西子'];
+                const maxVal = 100;
+                legendHtml += `
+                    <div class="legend-item">
+                        <div class="legend-dot" style="background: ${colorVals[idx]}"></div>
+                        <span>${brand}</span>
+                    </div>
+                `;
+            });
+
+            // 渲染每日柱状图组
+            days.forEach((day, dayIdx) => {
+                chartHtml += `<div class="chart-group">`;
+                chartHtml += `<div class="chart-bar-wrap">`;
+                allBrands.forEach((brand, brandIdx) => {
+                    const data = competitorData[brand] || competitorData['花西子'];
+                    const val = data.heatTrend[dayIdx];
+                    const height = (val / 100) * 140;
+                    chartHtml += `
+                        <div class="chart-bar ${colors[brandIdx]}" style="height: ${height}px;" data-value="${val}w">
+                            <div class="bar-tooltip">${brand}: ${val}w</div>
+                        </div>
+                    `;
+                });
+                chartHtml += `</div>`;
+                chartHtml += `<div class="chart-label">${day}</div>`;
+                chartHtml += `</div>`;
+            });
+
+            container.innerHTML = `
+                <div class="chart-grid-line" style="bottom: 25%;"></div>
+                <div class="chart-grid-line" style="bottom: 50%;"></div>
+                <div class="chart-grid-line" style="bottom: 75%;"></div>
+                ${chartHtml}
+            `;
+            legendContainer.innerHTML = legendHtml;
+        }
+
+        function renderEngagementChart() {
+            const container = document.getElementById('engagementChart');
+            const allBrands = [currentBrand, ...selectedCompetitors].slice(0, 5);
+            const colors = ['brand-a', 'brand-b', 'brand-c', 'brand-d', 'brand-e'];
+            
+            const maxEng = Math.max(...allBrands.map(b => (competitorData[b] || competitorData['花西子']).engagement));
+
+            container.innerHTML = allBrands.map((brand, idx) => {
+                const data = competitorData[brand] || competitorData['花西子'];
+                const pct = Math.round((data.engagement / maxEng) * 100);
+                return `
+                    <div class="bar-item">
+                        <div class="bar-label">${brand}</div>
+                        <div class="bar-track">
+                            <div class="bar-fill ${colors[idx]}" style="width: ${pct}%">
+                                <span class="bar-value">${(data.engagement / 1000).toFixed(1)}k</span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function renderStrategies() {
+            const container = document.getElementById('strategyList');
+            container.innerHTML = strategies.map(s => `
+                <div class="strategy-item">
+                    <div class="strategy-icon ${s.color}">${s.icon}</div>
+                    <div class="strategy-content">
+                        <div class="strategy-title">${s.title}</div>
+                        <div class="strategy-desc">${s.desc}</div>
+                        <div class="strategy-meta">
+                            ${s.tags.map(t => `<span class="strategy-tag">${t}</span>`).join('')}
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function renderKeywords() {
+            const container = document.getElementById('keywordCloud');
+            container.innerHTML = keywords.map(k => `
+                <span class="keyword-tag size-${k.size}">${k.text}</span>
+            `).join('');
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const now = new Date();
+            document.getElementById('updateTime').textContent = 
+                '📅 更新时间：' + now.toLocaleString('zh-CN');
+            
+            updateAnalysis();
+        });
+    </script>
+</body>
+</html>

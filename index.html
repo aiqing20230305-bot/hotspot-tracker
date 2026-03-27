@@ -373,17 +373,71 @@
             background: var(--primary);
             color: white;
         }
-        /* 移动端适配 */
+        /* ========== 响应式布局 ========== */
+        @media (max-width: 1024px) {
+            .nav-tab {
+                padding: 6px 10px;
+                font-size: 13px;
+            }
+        }
         @media (max-width: 768px) {
             .navbar {
                 padding: 10px 16px;
             }
             .nav-tabs {
+                display: none;
+                position: fixed;
+                top: 60px;
+                left: 0;
+                right: 0;
+                background: white;
+                flex-direction: column;
+                padding: 16px;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.15);
                 gap: 4px;
+                z-index: 999;
+            }
+            .nav-tabs.show {
+                display: flex;
             }
             .nav-tab {
-                padding: 6px 10px;
-                font-size: 13px;
+                padding: 12px 16px;
+                font-size: 15px;
+                border-radius: 8px;
+                text-align: left;
+                min-height: 48px;
+                display: flex;
+                align-items: center;
+            }
+            .nav-tab:active {
+                background: var(--primary-50);
+            }
+            .hamburger {
+                display: flex;
+                flex-direction: column;
+                gap: 5px;
+                cursor: pointer;
+                padding: 8px;
+                min-width: 48px;
+                min-height: 48px;
+                justify-content: center;
+                align-items: center;
+            }
+            .hamburger span {
+                width: 24px;
+                height: 2px;
+                background: var(--gray-600);
+                border-radius: 2px;
+                transition: all 0.3s;
+            }
+            .hamburger.active span:nth-child(1) {
+                transform: rotate(45deg) translate(5px, 5px);
+            }
+            .hamburger.active span:nth-child(2) {
+                opacity: 0;
+            }
+            .hamburger.active span:nth-child(3) {
+                transform: rotate(-45deg) translate(5px, -5px);
             }
             .main-container {
                 padding: 70px 16px 24px;
@@ -409,32 +463,36 @@
                 font-size: 26px;
             }
             .filter-btn {
-                padding: 6px 12px;
-                font-size: 13px;
+                padding: 8px 14px;
+                font-size: 14px;
+                min-height: 44px;
+                min-width: 60px;
             }
             .hot-header {
-                padding: 12px 16px;
+                padding: 14px 16px;
                 gap: 12px;
             }
             .rank {
-                width: 32px;
-                height: 32px;
-                font-size: 13px;
+                width: 36px;
+                height: 36px;
+                font-size: 14px;
+                flex-shrink: 0;
             }
             .hot-title {
                 font-size: 15px;
+                line-height: 1.4;
             }
             .hot-meta {
                 gap: 6px;
+            }
+            .expand-icon {
+                padding: 8px;
+                font-size: 16px;
             }
         }
         @media (max-width: 480px) {
             .logo {
                 font-size: 16px;
-            }
-            .nav-tab {
-                padding: 5px 8px;
-                font-size: 12px;
             }
             .page-header {
                 padding: 20px;
@@ -444,9 +502,16 @@
             }
             .stats-grid {
                 grid-template-columns: 1fr 1fr;
+                gap: 10px;
+            }
+            .stat-card {
+                padding: 14px 12px;
             }
             .stat-card .number {
                 font-size: 22px;
+            }
+            .stat-card .label {
+                font-size: 12px;
             }
             .hot-title {
                 font-size: 14px;
@@ -454,6 +519,38 @@
             .platform-badge {
                 padding: 2px 6px;
                 font-size: 11px;
+            }
+            .heat-badge {
+                font-size: 12px;
+            }
+            .filter-bar {
+                gap: 6px;
+                overflow-x: auto;
+                flex-wrap: nowrap;
+                -webkit-overflow-scrolling: touch;
+                padding-bottom: 4px;
+            }
+            .filter-btn {
+                flex-shrink: 0;
+                padding: 8px 12px;
+                font-size: 13px;
+            }
+        }
+        /* 触摸友好 */
+        @media (hover: none) and (pointer: coarse) {
+            .filter-btn,
+            .nav-tab,
+            .platform-tag,
+            .idea-count-btn,
+            .client-header {
+                min-height: 44px;
+            }
+            .hot-item {
+                -webkit-tap-highlight-color: rgba(99, 102, 241, 0.1);
+            }
+            .client-card,
+            .sku-card {
+                -webkit-tap-highlight-color: rgba(99, 102, 241, 0.1);
             }
         }
     </style>
@@ -463,14 +560,20 @@
     <nav class="navbar">
         <div class="nav-container">
             <div class="logo">🎯 特赞内容运营平台</div>
-            <div class="nav-tabs">
+            <div class="nav-tabs" id="navTabs">
                 <a href="platform.html" class="nav-tab">首页</a>
                 <a href="index.html" class="nav-tab active">热点追踪</a>
                 <a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
                 <a href="client_center.html" class="nav-tab">客户选题</a>
                 <a href="sku_library.html" class="nav-tab">SKU场景</a>
+                <a href="competitor_analysis.html" class="nav-tab">竞品分析</a>
                 <a href="dashboard.html" class="nav-tab">数据看板</a>
                 <a href="script_generator.html" class="nav-tab">脚本生成</a>
+            </div>
+            <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
         </div>
     </nav>
@@ -538,9 +641,30 @@
             'xiaohongshu': '小红书'
         };
         
-        // 展开/收起热点
+        // 移动端菜单切换
+        function toggleMenu() {
+            const navTabs = document.getElementById('navTabs');
+            const hamburger = document.getElementById('hamburger');
+            navTabs.classList.toggle('show');
+            hamburger.classList.toggle('active');
+        }
+        
+        // 点击导航链接后关闭菜单
+        document.querySelectorAll('.nav-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.getElementById('navTabs').classList.remove('show');
+                document.getElementById('hamburger').classList.remove('active');
+            });
+        });
+        
+        // 展开/收起热点（防抖）
+        let toggleTimer = null;
         function toggleHotspot(element) {
-            element.classList.toggle('expanded');
+            if (toggleTimer) return;
+            toggleTimer = setTimeout(() => {
+                element.classList.toggle('expanded');
+                toggleTimer = null;
+            }, 50);
         }
         
         // 平台筛选
@@ -569,7 +693,7 @@
                 const trend = topic.trend || '🔥 稳定';
                 
                 html += `
-                <div class="hot-item" onclick="toggleHotspot(this)">
+                <div class="hot-item" onclick="toggleHotspot(this)" role="button" tabindex="0" aria-expanded="false">
                     <div class="hot-header">
                         <div class="rank ${rankClass}">${index + 1}</div>
                         <div class="hot-info">
@@ -623,12 +747,26 @@
             container.innerHTML = html;
         }
         
+        // 懒加载观察器
+        const lazyObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const el = entry.target;
+                    if (el.dataset.src) {
+                        el.src = el.dataset.src;
+                        el.removeAttribute('data-src');
+                    }
+                    lazyObserver.unobserve(el);
+                }
+            });
+        }, { rootMargin: '100px' });
+        
         // 加载数据
         document.addEventListener('DOMContentLoaded', function() {
             // 加载热点数据
             Promise.all([
-                fetch('hot_topics.json').then(r => r.json()).catch(() => []),
-                fetch('client_ideas.json').then(r => r.json()).catch(() => [])
+                fetch('hot_topics.json?t=' + Date.now()).then(r => r.json()).catch(() => []),
+                fetch('client_ideas.json?t=' + Date.now()).then(r => r.json()).catch(() => [])
             ]).then(([topics, ideas]) => {
                 allTopics = topics;
                 
@@ -654,6 +792,13 @@
                     '<div class="loading">❌ 数据加载失败，请刷新页面重试</div>';
             });
         });
+        
+        // 减少重排重绘：使用requestAnimationFrame
+        function smoothRender(callback) {
+            requestAnimationFrame(() => {
+                requestAnimationFrame(callback);
+            });
+        }
     </script>
 </body>
 </html>
