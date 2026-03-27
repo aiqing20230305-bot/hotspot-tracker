@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>👥 客户选题中心 - 特赞内容运营平台</title>
     <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
             --primary: #6366F1;
             --primary-light: #818CF8;
@@ -15,33 +16,30 @@
             --gray-50: #F9FAFB;
             --gray-100: #F3F4F6;
             --gray-200: #E5E7EB;
-            --gray-300: #D1D5DB;
             --gray-600: #4B5563;
             --gray-800: #1F2937;
             --radius: 12px;
             --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
             --shadow-lg: 0 20px 25px -5px rgba(0,0,0,0.1);
         }
-        
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: linear-gradient(135deg, var(--primary-50) 0%, #F5F3FF 100%);
+            background: linear-gradient(135deg, #EEF2FF 0%, #F5F3FF 100%);
             min-height: 100vh;
             color: var(--gray-800);
         }
-        
         /* 导航栏 */
         .navbar {
-            background: white;
-            box-shadow: var(--shadow);
-            padding: 16px 24px;
-            position: sticky;
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: fixed;
             top: 0;
-            z-index: 100;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            padding: 12px 24px;
         }
-        
         .nav-container {
             max-width: 1400px;
             margin: 0 auto;
@@ -49,22 +47,12 @@
             justify-content: space-between;
             align-items: center;
         }
-        
         .logo {
-            font-size: 24px;
+            font-size: 20px;
             font-weight: 800;
             color: var(--primary);
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            text-decoration: none;
         }
-        
-        .nav-tabs {
-            display: flex;
-            gap: 8px;
-        }
-        
+        .nav-tabs { display: flex; gap: 8px; }
         .nav-tab {
             padding: 8px 16px;
             border-radius: 8px;
@@ -73,19 +61,16 @@
             font-weight: 500;
             transition: all 0.2s;
         }
-        
         .nav-tab:hover, .nav-tab.active {
-            background: var(--primary-50);
-            color: var(--primary);
+            background: var(--primary);
+            color: white;
         }
-        
         /* 主容器 */
         .main-container {
             max-width: 1400px;
             margin: 0 auto;
-            padding: 24px;
+            padding: 100px 24px 40px;
         }
-        
         /* 页面标题 */
         .page-header {
             background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
@@ -94,120 +79,77 @@
             border-radius: 24px;
             margin-bottom: 32px;
         }
-        
-        .page-header h1 {
-            font-size: 32px;
-            margin-bottom: 8px;
+        .page-header h1 { font-size: 32px; margin-bottom: 8px; }
+        .page-header p { opacity: 0.9; }
+        .update-time { 
+            background: rgba(255,255,255,0.2); 
+            padding: 6px 16px; 
+            border-radius: 20px; 
+            font-size: 14px;
+            display: inline-block;
+            margin-top: 12px;
         }
-        
-        .page-header p {
-            opacity: 0.9;
-        }
-        
         /* 统计卡片 */
         .stats-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 16px;
             margin-bottom: 32px;
         }
-        
         .stat-card {
             background: white;
-            padding: 20px;
+            padding: 24px;
             border-radius: var(--radius);
             box-shadow: var(--shadow);
             text-align: center;
         }
-        
-        .stat-number {
-            font-size: 32px;
+        .stat-card .number {
+            font-size: 36px;
             font-weight: 800;
             color: var(--primary);
         }
-        
-        .stat-label {
-            font-size: 14px;
-            color: var(--gray-600);
-            margin-top: 4px;
-        }
-        
-        /* 筛选栏 */
-        .filter-bar {
+        .stat-card .label { color: var(--gray-600); font-size: 14px; margin-top: 4px; }
+        /* 筛选按钮 */
+        .filter-section {
             display: flex;
             gap: 12px;
             margin-bottom: 24px;
             flex-wrap: wrap;
         }
-        
-        .filter-group {
-            display: flex;
-            gap: 8px;
-            align-items: center;
-        }
-        
-        .filter-label {
-            font-size: 14px;
-            font-weight: 600;
-            color: var(--gray-600);
-        }
-        
         .filter-btn {
-            padding: 8px 16px;
+            padding: 10px 20px;
             border: 2px solid var(--gray-200);
             background: white;
             border-radius: 8px;
             cursor: pointer;
-            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-600);
             transition: all 0.2s;
         }
-        
-        .filter-btn:hover {
+        .filter-btn:hover, .filter-btn.active {
             border-color: var(--primary);
-            color: var(--primary);
-        }
-        
-        .filter-btn.active {
             background: var(--primary);
             color: white;
-            border-color: var(--primary);
         }
-        
         /* 客户卡片 */
-        .client-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-            gap: 24px;
-        }
-        
         .client-card {
             background: white;
             border-radius: var(--radius);
             box-shadow: var(--shadow);
+            margin-bottom: 20px;
             overflow: visible;
         }
-        
         .client-header {
             padding: 20px 24px;
             background: var(--gray-50);
-            border-bottom: 1px solid var(--gray-200);
+            cursor: pointer;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            cursor: pointer;
             transition: background 0.2s;
         }
-        
-        .client-header:hover {
-            background: var(--gray-100);
-        }
-        
-        .client-info {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-        
+        .client-header:hover { background: var(--gray-100); }
+        .client-info { display: flex; align-items: center; gap: 16px; }
         .client-avatar {
             width: 48px;
             height: 48px;
@@ -215,542 +157,175 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            color: white;
             font-weight: 800;
-            font-size: 18px;
+            color: white;
+            font-size: 16px;
         }
-        
-        .client-name {
-            font-size: 18px;
-            font-weight: 700;
-        }
-        
-        .client-meta {
-            font-size: 13px;
-            color: var(--gray-600);
-        }
-        
+        .client-name { font-size: 18px; font-weight: 700; }
+        .client-meta { color: var(--gray-600); font-size: 14px; margin-top: 4px; }
         .client-badge {
-            padding: 6px 12px;
+            padding: 4px 12px;
             border-radius: 20px;
             font-size: 12px;
             font-weight: 600;
         }
-        
-        .client-badge.high {
-            background: #FEE2E2;
-            color: #DC2626;
-        }
-        
-        .client-badge.medium {
-            background: #FEF3C7;
-            color: #D97706;
-        }
-        
-        .client-badge.low {
-            background: #D1FAE5;
-            color: #059669;
-        }
-        
-        .expand-icon {
-            font-size: 18px;
-            transition: transform 0.2s;
-        }
-        
-        .client-card.expanded .expand-icon {
-            transform: rotate(180deg);
-        }
-        
+        .client-badge.high { background: #FEE2E2; color: #DC2626; }
+        .client-badge.medium { background: #FEF3C7; color: #D97706; }
+        .expand-icon { transition: transform 0.3s; font-size: 18px; }
         /* 选题列表 */
-        .ideas-list {
-            display: none;
-            padding: 0;
-        }
-        
-        .client-card.expanded .ideas-list {
-            display: block;
-        }
-        
+        .ideas-list { display: none; padding: 0; }
+        .client-card.expanded .ideas-list { display: block; }
+        .client-card.expanded .expand-icon { transform: rotate(180deg); }
         .idea-item {
             padding: 20px 24px;
             border-bottom: 1px solid var(--gray-100);
             transition: background 0.2s;
         }
-        
-        .idea-item:hover {
-            background: var(--gray-50);
-        }
-        
-        .idea-item:last-child {
-            border-bottom: none;
-        }
-        
-        .idea-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            margin-bottom: 12px;
-        }
-        
-        .idea-title {
-            font-size: 15px;
-            font-weight: 600;
-            line-height: 1.5;
-            flex: 1;
-        }
-        
+        .idea-item:hover { background: var(--gray-50); }
+        .idea-item:last-child { border-bottom: none; }
+        .idea-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+        .idea-title { font-size: 16px; font-weight: 600; color: var(--gray-800); }
         .idea-platform {
-            padding: 4px 10px;
+            padding: 4px 12px;
             border-radius: 6px;
             font-size: 12px;
             font-weight: 600;
-            flex-shrink: 0;
-            margin-left: 12px;
-        }
-        
-        .idea-platform.douyin {
-            background: #1C1C1D;
             color: white;
         }
-        
-        .idea-platform.xiaohongshu {
-            background: #FF2442;
-            color: white;
-        }
-        
-        .idea-platform.bilibili {
-            background: #00A1D6;
-            color: white;
-        }
-        
+        .idea-platform.douyin { background: #1C1C1D; }
+        .idea-platform.weibo { background: #FF6600; }
+        .idea-platform.xiaohongshu { background: #FF2442; }
+        .idea-platform.bilibili { background: #00A1D6; }
         .idea-meta {
             display: flex;
-            gap: 16px;
+            flex-wrap: wrap;
+            gap: 8px;
             font-size: 13px;
             color: var(--gray-600);
             margin-bottom: 12px;
-            flex-wrap: wrap;
         }
-        
-        .idea-hot {
-            color: var(--error);
-            font-weight: 500;
-        }
-        
-        .idea-engagement {
-            color: var(--success);
-            font-weight: 500;
-        }
-        
-        .idea-actions {
-            display: flex;
-            gap: 8px;
-        }
-        
-        .idea-btn {
-            padding: 6px 12px;
-            border: 1px solid var(--primary);
-            background: white;
-            color: var(--primary);
-            border-radius: 6px;
-            font-size: 12px;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-        
-        .idea-btn:hover {
-            background: var(--primary);
-            color: white;
-        }
-        
-        .idea-btn.primary {
-            background: var(--primary);
-            color: white;
-        }
-        
-        .idea-btn.primary:hover {
-            background: var(--primary-dark);
-        }
-        
-        /* SKU信息 */
-        .sku-section {
-            padding: 16px 24px;
-            background: var(--gray-50);
-            border-top: 1px solid var(--gray-200);
-        }
-        
-        .sku-title {
-            font-size: 13px;
-            font-weight: 600;
+        .idea-meta span { background: var(--gray-100); padding: 4px 10px; border-radius: 4px; }
+        .idea-hot { color: #EF4444 !important; font-weight: 600 !important; }
+        .idea-engagement { color: #10B981 !important; font-weight: 600 !important; }
+        /* 加载状态 */
+        .loading {
+            text-align: center;
+            padding: 60px;
             color: var(--gray-600);
-            margin-bottom: 8px;
         }
-        
-        .sku-list {
-            display: flex;
-            gap: 8px;
-            flex-wrap: wrap;
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid var(--gray-200);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 16px;
         }
-        
-        .sku-tag {
-            padding: 4px 10px;
-            background: var(--primary-50);
-            color: var(--primary);
-            border-radius: 6px;
-            font-size: 12px;
-        }
+        @keyframes spin { to { transform: rotate(360deg); } }
     </style>
 </head>
 <body>
     <!-- 导航栏 -->
     <nav class="navbar">
         <div class="nav-container">
-            <a href="platform.html" class="logo">🎯 特赞内容运营平台</a>
+            <div class="logo">🎯 特赞内容运营平台</div>
             <div class="nav-tabs">
                 <a href="platform.html" class="nav-tab">首页</a>
                 <a href="index.html" class="nav-tab">热点追踪</a>
                 <a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
                 <a href="client_center.html" class="nav-tab active">客户选题</a>
                 <a href="sku_library.html" class="nav-tab">SKU场景</a>
+                <a href="dashboard.html" class="nav-tab">数据看板</a>
             </div>
         </div>
     </nav>
     
-    <!-- 主容器 -->
     <div class="main-container">
         <!-- 页面标题 -->
         <div class="page-header">
             <h1>👥 客户选题中心</h1>
-            <p>智能匹配热点 + SKU场景 + 内容方法论 | 今日已为 12 个客户生成 36 个选题</p>
+            <p>🤖 基于热点追踪自动生成的客户选题 | 🎯 每个客户10+条精选选题</p>
+            <div class="update-time" id="updateTime">📅 数据更新时间：加载中...</div>
         </div>
         
         <!-- 统计卡片 -->
         <div class="stats-grid">
             <div class="stat-card">
-                <div class="stat-number">12</div>
-                <div class="stat-label">客户数量</div>
+                <div class="number" id="clientCount">-</div>
+                <div class="label">客户数量</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">36</div>
-                <div class="stat-label">选题总数</div>
+                <div class="number" id="ideaCount">-</div>
+                <div class="label">选题总数</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">36</div>
-                <div class="stat-label">SKU产品</div>
+                <div class="number" id="platformCount">-</div>
+                <div class="label">平台覆盖</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">3</div>
-                <div class="stat-label">平台覆盖</div>
+                <div class="number" id="avgIdeas">-</div>
+                <div class="label">每客户平均选题</div>
             </div>
         </div>
         
-        <!-- 筛选栏 -->
-        <div class="filter-bar">
-            <div class="filter-group">
-                <span class="filter-label">优先级：</span>
-                <button class="filter-btn active" onclick="filterClients('all')">全部</button>
-                <button class="filter-btn" onclick="filterClients('high')">高优先级</button>
-                <button class="filter-btn" onclick="filterClients('medium')">中优先级</button>
-                <button class="filter-btn" onclick="filterClients('low')">低优先级</button>
-            </div>
-            <div class="filter-group">
-                <span class="filter-label">平台：</span>
-                <button class="filter-btn active">全部</button>
-                <button class="filter-btn">抖音</button>
-                <button class="filter-btn">小红书</button>
-                <button class="filter-btn">B站</button>
-            </div>
+        <!-- 筛选按钮 -->
+        <div class="filter-section">
+            <button class="filter-btn active" onclick="filterClients('all')">全部客户</button>
+            <button class="filter-btn" onclick="filterClients('high')">高优先级</button>
+            <button class="filter-btn" onclick="filterClients('medium')">中优先级</button>
+            <button class="filter-btn" onclick="filterClients('low')">低优先级</button>
         </div>
         
-        <!-- 客户卡片 -->
-        <div class="client-grid" id="clientGrid">
-            <!-- 客户1: 3C数码 -->
-            <div class="client-card" data-priority="high">
-                <div class="client-header" onclick="toggleClient(this)">
-                    <div class="client-info">
-                        <div class="client-avatar" style="background: linear-gradient(135deg, #667EEA, #764BA2);">3C</div>
-                        <div>
-                            <div class="client-name">3C数码</div>
-                            <div class="client-meta">荣耀海外/罗技/荣耀中国 | 53 SKU</div>
-                        </div>
-                    </div>
-                    <div style="display: flex; align-items: center; gap: 12px;">
-                        <span class="client-badge high">高优先</span>
-                        <span class="expand-icon">▼</span>
-                    </div>
-                </div>
-                <div class="ideas-list">
-                    <div class="idea-item">
-                        <div class="idea-header">
-                            <div class="idea-title">《中国机器狼群巷战画面首次公开？荣耀手机真实测评》</div>
-                            <span class="idea-platform douyin">抖音</span>
-                        </div>
-                        <div class="idea-meta">
-                            <span>🎯 产品测评</span>
-                            <span>🔥 借势：中国机器狼群</span>
-                            <span class="idea-hot">1210万热度</span>
-                            <span class="idea-engagement">预估：16,666+</span>
-                        </div>
-                        <div class="idea-actions">
-                            <button class="idea-btn primary" onclick="generateScript(this)">📄 生成脚本</button>
-                            <button class="idea-btn" onclick="viewHotspots(this)">🔗 查看热点</button>
-                            <button class="idea-btn" onclick="viewSKU(this)">📦 查看SKU</button>
-                        </div>
-                    </div>
-                    <div class="idea-item">
-                        <div class="idea-header">
-                            <div class="idea-title">《春日数码好物 - 罗技键鼠选购指南》</div>
-                            <span class="idea-platform xiaohongshu">小红书</span>
-                        </div>
-                        <div class="idea-meta">
-                            <span>🎯 选购指南</span>
-                            <span>🔥 借势：春日数码好物</span>
-                            <span class="idea-hot">6500万浏览</span>
-                            <span class="idea-engagement">预估：8,333+</span>
-                        </div>
-                        <div class="idea-actions">
-                            <button class="idea-btn primary" onclick="generateScript(this)">📄 生成脚本</button>
-                            <button class="idea-btn" onclick="viewHotspots(this)">🔗 查看热点</button>
-                            <button class="idea-btn" onclick="viewSKU(this)">📦 查看SKU</button>
-                        </div>
-                    </div>
-                    <div class="idea-item">
-                        <div class="idea-header">
-                            <div class="idea-title">《一箭双星上天 - 中国科技有多强？荣耀手机》</div>
-                            <span class="idea-platform bilibili">B站</span>
-                        </div>
-                        <div class="idea-meta">
-                            <span>🎯 科技热点</span>
-                            <span>🔥 借势：一箭双星</span>
-                            <span class="idea-hot">1091万热度</span>
-                            <span class="idea-engagement">预估：5,000+</span>
-                        </div>
-                        <div class="idea-actions">
-                            <button class="idea-btn primary" onclick="generateScript(this)">📄 生成脚本</button>
-                            <button class="idea-btn" onclick="viewHotspots(this)">🔗 查看热点</button>
-                            <button class="idea-btn" onclick="viewSKU(this)">📦 查看SKU</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="sku-section">
-                    <div class="sku-title">📦 核心SKU产品</div>
-                    <div class="sku-list">
-                        <span class="sku-tag">荣耀Magic6</span>
-                        <span class="sku-tag">罗技K380键盘</span>
-                        <span class="sku-tag">罗技MX Master鼠标</span>
-                        <span class="sku-tag">荣耀平板</span>
-                        <span class="sku-tag">荣耀耳机</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- 客户2: 快消 -->
-            <div class="client-card" data-priority="high">
-                <div class="client-header" onclick="toggleClient(this)">
-                    <div class="client-info">
-                        <div class="client-avatar" style="background: linear-gradient(135deg, #F093FB, #F5576C);">快</div>
-                        <div>
-                            <div class="client-name">快消</div>
-                            <div class="client-meta">AHC/多芬/力士/清扬/舒适 | 7品牌</div>
-                        </div>
-                    </div>
-                    <div style="display: flex; align-items: center; gap: 12px;">
-                        <span class="client-badge high">高优先</span>
-                        <span class="expand-icon">▼</span>
-                    </div>
-                </div>
-                <div class="ideas-list">
-                    <div class="idea-item">
-                        <div class="idea-header">
-                            <div class="idea-title">《我的春日粉彩妆容公式｜AHC水乳测评》</div>
-                            <span class="idea-platform xiaohongshu">小红书</span>
-                        </div>
-                        <div class="idea-meta">
-                            <span>🎯 产品测评</span>
-                            <span>🔥 借势：春日粉彩妆容</span>
-                            <span class="idea-hot">1210万热度</span>
-                            <span class="idea-engagement">预估：10,083+</span>
-                        </div>
-                        <div class="idea-actions">
-                            <button class="idea-btn primary" onclick="generateScript(this)">📄 生成脚本</button>
-                            <button class="idea-btn" onclick="viewHotspots(this)">🔗 查看热点</button>
-                            <button class="idea-btn" onclick="viewSKU(this)">📦 查看SKU</button>
-                        </div>
-                    </div>
-                    <div class="idea-item">
-                        <div class="idea-header">
-                            <div class="idea-title">《春日穿搭OOTD教程 - 多芬沐浴露》</div>
-                            <span class="idea-platform douyin">抖音</span>
-                        </div>
-                        <div class="idea-meta">
-                            <span>🎯 使用教程</span>
-                            <span>🔥 借势：春日穿搭</span>
-                            <span class="idea-hot">3.2亿浏览</span>
-                            <span class="idea-engagement">预估：50,000+</span>
-                        </div>
-                        <div class="idea-actions">
-                            <button class="idea-btn primary" onclick="generateScript(this)">📄 生成脚本</button>
-                            <button class="idea-btn" onclick="viewHotspots(this)">🔗 查看热点</button>
-                            <button class="idea-btn" onclick="viewSKU(this)">📦 查看SKU</button>
-                        </div>
-                    </div>
-                    <div class="idea-item">
-                        <div class="idea-header">
-                            <div class="idea-title">《春季护肤攻略 - 力士洗发水香氛秘籍》</div>
-                            <span class="idea-platform xiaohongshu">小红书</span>
-                        </div>
-                        <div class="idea-meta">
-                            <span>🎯 场景植入</span>
-                            <span>🔥 借势：春季护肤</span>
-                            <span class="idea-hot">2.1亿浏览</span>
-                            <span class="idea-engagement">预估：8,333+</span>
-                        </div>
-                        <div class="idea-actions">
-                            <button class="idea-btn primary" onclick="generateScript(this)">📄 生成脚本</button>
-                            <button class="idea-btn" onclick="viewHotspots(this)">🔗 查看热点</button>
-                            <button class="idea-btn" onclick="viewSKU(this)">📦 查看SKU</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="sku-section">
-                    <div class="sku-title">📦 核心SKU产品</div>
-                    <div class="sku-list">
-                        <span class="sku-tag">AHC B5水乳套装</span>
-                        <span class="sku-tag">多芬樱花沐浴露</span>
-                        <span class="sku-tag">力士植萃洗发水</span>
-                        <span class="sku-tag">清扬去屑洗发水</span>
-                        <span class="sku-tag">舒适剃须刀</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- 客户3: 保健品 -->
-            <div class="client-card" data-priority="high">
-                <div class="client-header" onclick="toggleClient(this)">
-                    <div class="client-info">
-                        <div class="client-avatar" style="background: linear-gradient(135deg, #4FACFE, #00F2FE);">保</div>
-                        <div>
-                            <div class="client-name">保健品</div>
-                            <div class="client-meta">汤臣倍健 | 5 SKU</div>
-                        </div>
-                    </div>
-                    <div style="display: flex; align-items: center; gap: 12px;">
-                        <span class="client-badge high">高优先</span>
-                        <span class="expand-icon">▼</span>
-                    </div>
-                </div>
-                <div class="ideas-list">
-                    <div class="idea-item">
-                        <div class="idea-header">
-                            <div class="idea-title">《早期心血管病可能反映在脸上 - 汤臣倍健维C》</div>
-                            <span class="idea-platform xiaohongshu">小红书</span>
-                        </div>
-                        <div class="idea-meta">
-                            <span>🎯 科普知识</span>
-                            <span>🔥 借势：心血管健康</span>
-                            <span class="idea-hot">104万热度</span>
-                            <span class="idea-engagement">预估：6,666+</span>
-                        </div>
-                        <div class="idea-actions">
-                            <button class="idea-btn primary" onclick="generateScript(this)">📄 生成脚本</button>
-                            <button class="idea-btn" onclick="viewHotspots(this)">🔗 查看热点</button>
-                            <button class="idea-btn" onclick="viewSKU(this)">📦 查看SKU</button>
-                        </div>
-                    </div>
-                    <div class="idea-item">
-                        <div class="idea-header">
-                            <div class="idea-title">《43岁vs61岁健身区别 - 汤臣倍健蛋白粉》</div>
-                            <span class="idea-platform douyin">抖音</span>
-                        </div>
-                        <div class="idea-meta">
-                            <span>🎯 养生攻略</span>
-                            <span>🔥 借势：健身对比</span>
-                            <span class="idea-hot">25万热度</span>
-                            <span class="idea-engagement">预估：8,333+</span>
-                        </div>
-                        <div class="idea-actions">
-                            <button class="idea-btn primary" onclick="generateScript(this)">📄 生成脚本</button>
-                            <button class="idea-btn" onclick="viewHotspots(this)">🔗 查看热点</button>
-                            <button class="idea-btn" onclick="viewSKU(this)">📦 查看SKU</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="sku-section">
-                    <div class="sku-title">📦 核心SKU产品</div>
-                    <div class="sku-list">
-                        <span class="sku-tag">汤臣倍健维C</span>
-                        <span class="sku-tag">汤臣倍健蛋白粉</span>
-                        <span class="sku-tag">汤臣倍健辅酶Q10</span>
-                        <span class="sku-tag">汤臣倍健护肝片</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- 更多客户卡片... -->
-            <!-- 家庭清洁 -->
-            <div class="client-card" data-priority="medium">
-                <div class="client-header" onclick="toggleClient(this)">
-                    <div class="client-info">
-                        <div class="client-avatar" style="background: linear-gradient(135deg, #96CEB4, #FFEAA7);">清</div>
-                        <div>
-                            <div class="client-name">家庭清洁</div>
-                            <div class="client-meta">HC | 15 SKU</div>
-                        </div>
-                    </div>
-                    <div style="display: flex; align-items: center; gap: 12px;">
-                        <span class="client-badge medium">中优先</span>
-                        <span class="expand-icon">▼</span>
-                    </div>
-                </div>
-                <div class="ideas-list">
-                    <div class="idea-item">
-                        <div class="idea-header">
-                            <div class="idea-title">《春季家电焕新 - HC清洁剂神器》</div>
-                            <span class="idea-platform douyin">抖音</span>
-                        </div>
-                        <div class="idea-meta">
-                            <span>🎯 清洁教程</span>
-                            <span>🔥 借势：春季焕新</span>
-                            <span class="idea-hot">4900万浏览</span>
-                            <span class="idea-engagement">预估：13,333+</span>
-                        </div>
-                        <div class="idea-actions">
-                            <button class="idea-btn primary" onclick="generateScript(this)">📄 生成脚本</button>
-                            <button class="idea-btn" onclick="viewHotspots(this)">🔗 查看热点</button>
-                            <button class="idea-btn" onclick="viewSKU(this)">📦 查看SKU</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="sku-section">
-                    <div class="sku-title">📦 核心SKU产品</div>
-                    <div class="sku-list">
-                        <span class="sku-tag">HC多功能清洁剂</span>
-                        <span class="sku-tag">HC除菌喷雾</span>
-                        <span class="sku-tag">HC厨房油污净</span>
-                    </div>
-                </div>
+        <!-- 客户选题列表 -->
+        <div id="clientList">
+            <div class="loading">
+                <div class="loading-spinner"></div>
+                <div>正在加载选题数据...</div>
             </div>
         </div>
     </div>
     
     <script>
+        // 客户颜色配置
+        const CLIENT_COLORS = {
+            '3C数码': ['#667EEA', '#764BA2'],
+            '快消': ['#F093FB', '#F5576C'],
+            '保健品': ['#4FACFE', '#00F2FE'],
+            '家庭清洁': ['#43E97B', '#38F9D7'],
+            '宠物食品': ['#FA709A', '#FEE140'],
+            '食品饮料': ['#FF9A9E', '#FECFEF'],
+            '电池': ['#A8EDEA', '#FED6E3'],
+            '家居用品': ['#D299C2', '#FEF9D7'],
+            '医药': ['#89F7FE', '#66A6FF'],
+            '汽车': ['#CD9AFF', '#FAD0C4'],
+            '互联网金融': ['#E0C3FC', '#8EC5FC'],
+            '宠物服务': ['#FFB6C1', '#FFC0CB']
+        };
+        
+        // 平台颜色
+        const PLATFORM_COLORS = {
+            '抖音': 'douyin',
+            '微博': 'weibo',
+            '小红书': 'xiaohongshu',
+            'B站': 'bilibili'
+        };
+        
+        // 全局数据
+        let allIdeas = [];
+        let clientData = {};
+        
         // 展开/收起客户选题
         function toggleClient(header) {
             const card = header.closest('.client-card');
-            console.log('toggleClient clicked, card:', card);
             card.classList.toggle('expanded');
-            console.log('expanded toggled, now has:', card.classList.contains('expanded'));
         }
         
         // 筛选客户
         function filterClients(priority) {
-            // 更新按钮状态
-            document.querySelectorAll('.filter-group:first-child .filter-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
             event.target.classList.add('active');
             
-            // 筛选卡片
             const cards = document.querySelectorAll('.client-card');
             cards.forEach(card => {
                 if (priority === 'all') {
@@ -762,31 +337,106 @@
             });
         }
         
-        // 生成脚本
-        function generateScript(btn) {
-            const ideaTitle = btn.closest('.idea-item').querySelector('.idea-title').textContent;
-            alert(`正在为以下选题生成脚本：\n\n${ideaTitle}\n\n将结合内容运营方法论（AIDA/SCQA）生成专业脚本...`);
+        // 渲染客户选题
+        function renderClients(ideas) {
+            allIdeas = ideas;
+            
+            // 按客户分组
+            clientData = {};
+            ideas.forEach(idea => {
+                const client = idea.client;
+                const key = client.brand || client.industry;
+                if (!clientData[key]) {
+                    clientData[key] = {
+                        industry: client.industry,
+                        brand: client.brand,
+                        priority: client.priority || 3,
+                        products: client.products || [],
+                        ideas: []
+                    };
+                }
+                clientData[key].ideas.push(idea);
+            });
+            
+            // 更新统计
+            const clientCount = Object.keys(clientData).length;
+            const platformCount = new Set(ideas.map(i => i.platform)).size;
+            document.getElementById('clientCount').textContent = clientCount;
+            document.getElementById('ideaCount').textContent = ideas.length;
+            document.getElementById('platformCount').textContent = platformCount;
+            document.getElementById('avgIdeas').textContent = Math.round(ideas.length / clientCount);
+            
+            // 更新时间
+            const updateTime = ideas[0]?.created_at || new Date().toISOString();
+            document.getElementById('updateTime').textContent = 
+                '📅 数据更新时间：' + new Date(updateTime).toLocaleString('zh-CN');
+            
+            // 渲染客户卡片
+            const container = document.getElementById('clientList');
+            let html = '';
+            
+            // 按优先级排序
+            const sortedClients = Object.entries(clientData)
+                .sort((a, b) => b[1].priority - a[1].priority);
+            
+            sortedClients.forEach(([key, client], index) => {
+                const colors = CLIENT_COLORS[client.industry] || ['#6366F1', '#8B5CF6'];
+                const priorityLabel = client.priority >= 4 ? '高' : client.priority >= 3 ? '中' : '低';
+                const priorityClass = client.priority >= 4 ? 'high' : client.priority >= 3 ? 'medium' : 'low';
+                const expanded = index === 0 ? 'expanded' : '';
+                
+                html += `
+                <div class="client-card ${expanded}" data-priority="${priorityClass}">
+                    <div class="client-header" onclick="toggleClient(this)">
+                        <div class="client-info">
+                            <div class="client-avatar" style="background: linear-gradient(135deg, ${colors[0]}, ${colors[1]})">
+                                ${client.industry.substring(0, 2)}
+                            </div>
+                            <div>
+                                <div class="client-name">${client.industry} - ${client.brand}</div>
+                                <div class="client-meta">${client.brand} | ${client.ideas.length}条选题</div>
+                            </div>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 12px;">
+                            <span class="client-badge ${priorityClass}">${priorityLabel}优先</span>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                    </div>
+                    <div class="ideas-list">
+                        ${client.ideas.map(idea => `
+                        <div class="idea-item">
+                            <div class="idea-header">
+                                <div class="idea-title">${idea.title}</div>
+                                <span class="idea-platform ${PLATFORM_COLORS[idea.platform] || ''}">${idea.platform}</span>
+                            </div>
+                            <div class="idea-meta">
+                                <span>🎯 ${idea.angle}</span>
+                                ${idea.hot_topic ? `<span>🔥 借势：${idea.hot_topic}</span>` : ''}
+                                ${idea.heat ? `<span class="idea-hot">${idea.heat}</span>` : ''}
+                                ${idea.engagement_estimate ? `<span class="idea-engagement">预估：${idea.engagement_estimate}</span>` : ''}
+                            </div>
+                        </div>
+                        `).join('')}
+                    </div>
+                </div>
+                `;
+            });
+            
+            container.innerHTML = html;
         }
         
-        // 查看热点
-        function viewHotspots(btn) {
-            alert('跳转到热点详情页，查看该选题匹配的热点...');
-        }
-        
-        // 查看SKU
-        function viewSKU(btn) {
-            alert('跳转到SKU场景库，查看该客户的SKU详情和场景匹配...');
-        }
-        
-        // 页面加载时默认展开第一个客户
+        // 页面加载时获取数据
         document.addEventListener('DOMContentLoaded', function() {
-            console.log('DOM loaded');
-            const firstCard = document.querySelector('.client-card');
-            console.log('First card:', firstCard);
-            if (firstCard) {
-                firstCard.classList.add('expanded');
-                console.log('Added expanded class');
-            }
+            fetch('client_ideas.json')
+                .then(response => response.json())
+                .then(data => {
+                    renderClients(data);
+                })
+                .catch(error => {
+                    console.error('加载数据失败:', error);
+                    document.getElementById('clientList').innerHTML = 
+                        '<div class="loading">❌ 数据加载失败，请刷新页面重试</div>';
+                });
         });
     </script>
 </body>

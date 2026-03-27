@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>📦 SKU场景库 - 特赞内容运营平台</title>
     <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
             --primary: #6366F1;
             --primary-light: #818CF8;
@@ -19,27 +20,25 @@
             --gray-800: #1F2937;
             --radius: 12px;
             --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            --shadow-lg: 0 20px 25px -5px rgba(0,0,0,0.1);
         }
-        
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: linear-gradient(135deg, var(--primary-50) 0%, #F5F3FF 100%);
+            background: linear-gradient(135deg, #EEF2FF 0%, #F5F3FF 100%);
             min-height: 100vh;
             color: var(--gray-800);
         }
-        
-        /* 导航栏 */
         .navbar {
-            background: white;
-            box-shadow: var(--shadow);
-            padding: 16px 24px;
-            position: sticky;
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: fixed;
             top: 0;
-            z-index: 100;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            padding: 12px 24px;
         }
-        
         .nav-container {
             max-width: 1400px;
             margin: 0 auto;
@@ -47,18 +46,8 @@
             justify-content: space-between;
             align-items: center;
         }
-        
-        .logo {
-            font-size: 24px;
-            font-weight: 800;
-            color: var(--primary);
-        }
-        
-        .nav-tabs {
-            display: flex;
-            gap: 8px;
-        }
-        
+        .logo { font-size: 20px; font-weight: 800; color: var(--primary); }
+        .nav-tabs { display: flex; gap: 8px; }
         .nav-tab {
             padding: 8px 16px;
             border-radius: 8px;
@@ -67,27 +56,15 @@
             font-weight: 500;
             transition: all 0.2s;
         }
-        
         .nav-tab:hover, .nav-tab.active {
-            background: var(--primary-50);
-            color: var(--primary);
+            background: var(--primary);
+            color: white;
         }
-        
-        .nav-logo {
-            font-size: 24px;
-            font-weight: 800;
-            color: var(--primary);
-            text-decoration: none;
-        }
-        
-        /* 主容器 */
         .main-container {
             max-width: 1400px;
             margin: 0 auto;
-            padding: 24px;
+            padding: 100px 24px 40px;
         }
-        
-        /* 页面标题 */
         .page-header {
             background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
             color: white;
@@ -95,310 +72,119 @@
             border-radius: 24px;
             margin-bottom: 32px;
         }
-        
-        .page-header h1 {
-            font-size: 32px;
-            margin-bottom: 8px;
+        .page-header h1 { font-size: 32px; margin-bottom: 8px; }
+        .page-header p { opacity: 0.9; }
+        .update-time { 
+            background: rgba(255,255,255,0.2); 
+            padding: 6px 16px; 
+            border-radius: 20px; 
+            font-size: 14px;
+            display: inline-block;
+            margin-top: 12px;
         }
-        
-        /* 统计卡片 */
         .stats-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 16px;
             margin-bottom: 32px;
         }
-        
         .stat-card {
             background: white;
-            padding: 20px;
+            padding: 24px;
             border-radius: var(--radius);
             box-shadow: var(--shadow);
             text-align: center;
         }
-        
-        .stat-number {
-            font-size: 32px;
-            font-weight: 800;
-            color: var(--primary);
-        }
-        
-        .stat-label {
-            font-size: 14px;
-            color: var(--gray-600);
-            margin-top: 4px;
-        }
-        
+        .stat-card .number { font-size: 36px; font-weight: 800; color: var(--primary); }
+        .stat-card .label { color: var(--gray-600); font-size: 14px; margin-top: 4px; }
         /* SKU网格 */
         .sku-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-            gap: 24px;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
         }
-        
-        /* SKU卡片 */
         .sku-card {
             background: white;
             border-radius: var(--radius);
             box-shadow: var(--shadow);
             overflow: hidden;
         }
-        
         .sku-header {
-            padding: 20px 24px;
-            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            padding: 16px 20px;
+            background: linear-gradient(135deg, #667EEA, #764BA2);
             color: white;
-            cursor: pointer;
-            transition: opacity 0.2s;
-        }
-        
-        .sku-header:hover {
-            opacity: 0.9;
-        }
-        
-        .sku-name {
-            font-size: 20px;
-            font-weight: 700;
-            margin-bottom: 4px;
-        }
-        
-        .sku-client {
-            font-size: 14px;
-            opacity: 0.9;
-        }
-        
-        .sku-specs {
-            font-size: 13px;
-            opacity: 0.8;
-            margin-top: 8px;
-        }
-        
-        /* 卖点 */
-        .selling-points {
-            padding: 16px 24px;
-            background: var(--gray-50);
-            border-bottom: 1px solid var(--gray-200);
-        }
-        
-        .selling-points-title {
-            font-size: 13px;
-            font-weight: 600;
-            color: var(--gray-600);
-            margin-bottom: 8px;
-        }
-        
-        .selling-points-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-        }
-        
-        .selling-point-tag {
-            padding: 4px 10px;
-            background: var(--primary-50);
-            color: var(--primary);
-            border-radius: 6px;
-            font-size: 12px;
-        }
-        
-        /* 场景列表 */
-        .scenarios-list {
-            padding: 0;
-        }
-        
-        .scenario-item {
-            padding: 20px 24px;
-            border-bottom: 1px solid var(--gray-100);
-            transition: background 0.2s;
-            cursor: pointer;
-        }
-        
-        .scenario-item:hover {
-            background: var(--gray-50);
-        }
-        
-        .scenario-item:last-child {
-            border-bottom: none;
-        }
-        
-        .scenario-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 12px;
+            cursor: pointer;
         }
-        
-        .scenario-name {
-            font-size: 16px;
-            font-weight: 600;
+        .sku-header:hover { opacity: 0.9; }
+        .sku-title { font-weight: 700; font-size: 16px; }
+        .sku-type { font-size: 12px; opacity: 0.8; }
+        .sku-content {
+            padding: 0;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
         }
-        
-        .scenario-expand {
-            font-size: 18px;
-            color: var(--gray-400);
-            transition: transform 0.2s;
+        .sku-card.expanded .sku-content {
+            padding: 16px 20px;
+            max-height: 500px;
         }
-        
-        .scenario-item.expanded .scenario-expand {
-            transform: rotate(180deg);
+        .sku-detail {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
         }
-        
-        .scenario-pain {
+        .sku-row {
+            display: flex;
+            gap: 12px;
+        }
+        .sku-label {
+            font-size: 12px;
+            color: var(--gray-600);
+            min-width: 70px;
+        }
+        .sku-value {
             font-size: 14px;
-            color: var(--gray-600);
-            margin-bottom: 12px;
-            padding: 12px;
-            background: #FEF2F2;
-            border-left: 3px solid var(--error);
-            border-radius: 4px;
+            color: var(--gray-800);
         }
-        
-        .scenario-pain-title {
-            font-weight: 600;
-            color: var(--error);
-            margin-bottom: 4px;
-        }
-        
-        .scenario-resonance {
-            font-size: 13px;
-            color: var(--gray-600);
-            margin-bottom: 12px;
-        }
-        
-        .scenario-detail {
-            display: none;
-        }
-        
-        .scenario-item.expanded .scenario-detail {
-            display: block;
-        }
-        
-        .content-angles {
-            margin-bottom: 12px;
-        }
-        
-        .content-angles-title {
-            font-size: 13px;
-            font-weight: 600;
-            color: var(--primary);
-            margin-bottom: 8px;
-        }
-        
-        .content-angle-item {
-            font-size: 13px;
-            color: var(--gray-700);
-            margin-bottom: 6px;
-            padding-left: 12px;
-            position: relative;
-        }
-        
-        .content-angle-item::before {
-            content: "→";
-            position: absolute;
-            left: 0;
-            color: var(--primary);
-        }
-        
-        .hot-topics {
-            padding: 12px;
-            background: var(--primary-50);
-            border-radius: 8px;
-        }
-        
-        .hot-topics-title {
-            font-size: 13px;
-            font-weight: 600;
-            color: var(--primary);
-            margin-bottom: 8px;
-        }
-        
-        .hot-topic-tags {
+        .sku-tags {
             display: flex;
             flex-wrap: wrap;
             gap: 6px;
+            margin-top: 8px;
         }
-        
-        .hot-topic-tag {
-            padding: 4px 8px;
-            background: white;
-            color: var(--primary);
+        .sku-tag {
+            background: var(--gray-100);
+            padding: 4px 10px;
             border-radius: 4px;
             font-size: 12px;
-        }
-        
-        .scenario-actions {
-            display: flex;
-            gap: 8px;
-            margin-top: 12px;
-        }
-        
-        .action-btn {
-            padding: 6px 12px;
-            border: 1px solid var(--primary);
-            background: white;
-            color: var(--primary);
-            border-radius: 6px;
-            font-size: 12px;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-        
-        .action-btn:hover {
-            background: var(--primary);
-            color: white;
-        }
-        
-        .action-btn.primary {
-            background: var(--primary);
-            color: white;
-        }
-        
-        .action-btn.primary:hover {
-            background: var(--primary-dark);
-        }
-        
-        /* 筛选栏 */
-        .filter-bar {
-            display: flex;
-            gap: 12px;
-            margin-bottom: 24px;
-            flex-wrap: wrap;
-        }
-        
-        .filter-group {
-            display: flex;
-            gap: 8px;
-            align-items: center;
-        }
-        
-        .filter-label {
-            font-size: 14px;
-            font-weight: 600;
             color: var(--gray-600);
         }
-        
-        .filter-btn {
-            padding: 8px 16px;
-            border: 2px solid var(--gray-200);
-            background: white;
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 14px;
-            transition: all 0.2s;
+        .expand-icon { transition: transform 0.3s; }
+        .sku-card.expanded .expand-icon { transform: rotate(180deg); }
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: var(--gray-600);
         }
-        
-        .filter-btn:hover, .filter-btn.active {
-            background: var(--primary);
-            color: white;
-            border-color: var(--primary);
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid var(--gray-200);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 16px;
         }
+        @keyframes spin { to { transform: rotate(360deg); } }
     </style>
 </head>
 <body>
-    <!-- 导航栏 -->
     <nav class="navbar">
         <div class="nav-container">
-            <a href="platform.html" class="nav-logo">🎯 特赞内容运营平台</a>
+            <div class="logo">🎯 特赞内容运营平台</div>
             <div class="nav-tabs">
                 <a href="platform.html" class="nav-tab">首页</a>
                 <a href="index.html" class="nav-tab">热点追踪</a>
@@ -410,412 +196,128 @@
         </div>
     </nav>
     
-    <!-- 主容器 -->
     <div class="main-container">
-        <!-- 页面标题 -->
         <div class="page-header">
             <h1>📦 SKU场景库</h1>
-            <p>每个SKU的使用场景、用户痛点、情感共鸣点、内容角度建议 | 共 5 个SKU，15 个场景</p>
+            <p>🤖 基于客户产品自动生成的SKU内容场景 | 🎯 每个SKU 3种内容角度</p>
+            <div class="update-time" id="updateTime">📅 数据更新时间：加载中...</div>
         </div>
         
-        <!-- 统计卡片 -->
         <div class="stats-grid">
             <div class="stat-card">
-                <div class="stat-number">5</div>
-                <div class="stat-label">SKU数量</div>
+                <div class="number" id="skuCount">-</div>
+                <div class="label">SKU数量</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">15</div>
-                <div class="stat-label">场景数量</div>
+                <div class="number" id="clientCount">-</div>
+                <div class="label">客户数量</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">45</div>
-                <div class="stat-label">内容角度</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">3</div>
-                <div class="stat-label">客户</div>
+                <div class="number" id="scenarioCount">-</div>
+                <div class="label">场景类型</div>
             </div>
         </div>
         
-        <!-- 筛选栏 -->
-        <div class="filter-bar">
-            <div class="filter-group">
-                <span class="filter-label">客户：</span>
-                <button class="filter-btn active" onclick="filterByClient('all')">全部</button>
-                <button class="filter-btn" onclick="filterByClient('3C数码')">3C数码</button>
-                <button class="filter-btn" onclick="filterByClient('快消')">快消</button>
-                <button class="filter-btn" onclick="filterByClient('保健品')">保健品</button>
-                <button class="filter-btn" onclick="filterByClient('家庭清洁')">家庭清洁</button>
-            </div>
-        </div>
-        
-        <!-- SKU网格 -->
         <div class="sku-grid" id="skuGrid">
-            <!-- SKU 1: 荣耀Magic6 -->
-            <div class="sku-card" data-client="3C数码">
-                <div class="sku-header">
-                    <div class="sku-name">📱 荣耀Magic6</div>
-                    <div class="sku-client">3C数码-荣耀</div>
-                    <div class="sku-specs">骁龙8 Gen3 | 16GB+512GB | 5450mAh</div>
-                </div>
-                <div class="selling-points">
-                    <div class="selling-points-title">🔥 核心卖点</div>
-                    <div class="selling-points-list">
-                        <span class="selling-point-tag">AI大模型</span>
-                        <span class="selling-point-tag">鹰眼相机</span>
-                        <span class="selling-point-tag">青海湖电池</span>
-                        <span class="selling-point-tag">鸿蒙生态</span>
-                    </div>
-                </div>
-                <div class="scenarios-list">
-                    <div class="scenario-item" onclick="toggleScenario(this)">
-                        <div class="scenario-header">
-                            <div class="scenario-name">💼 职场效率提升</div>
-                            <div class="scenario-expand">▼</div>
-                        </div>
-                        <div class="scenario-pain">
-                            <div class="scenario-pain-title">用户痛点</div>
-                            工作消息太多回复不过来；会议记录整理耗时
-                        </div>
-                        <div class="scenario-resonance">
-                            <strong>情感共鸣：</strong>想要工作生活平衡，不想被工作绑架
-                        </div>
-                        <div class="scenario-detail">
-                            <div class="content-angles">
-                                <div class="content-angles-title">📝 内容角度</div>
-                                <div class="content-angle-item">AI助手自动回复消息，效率翻倍</div>
-                                <div class="content-angle-item">语音转文字+智能摘要，会议纪要5分钟搞定</div>
-                                <div class="content-angle-item">多屏协同，手机电脑无缝切换</div>
-                            </div>
-                            <div class="hot-topics">
-                                <div class="hot-topics-title">🔥 可匹配热点</div>
-                                <div class="hot-topic-tags">
-                                    <span class="hot-topic-tag">打工人效率</span>
-                                    <span class="hot-topic-tag">职场技能</span>
-                                    <span class="hot-topic-tag">AI办公</span>
-                                    <span class="hot-topic-tag">摸鱼技巧</span>
-                                </div>
-                            </div>
-                            <div class="scenario-actions">
-                                <button class="action-btn primary" onclick="generateContent('荣耀Magic6', '职场效率提升', event)">📄 生成内容</button>
-                                <button class="action-btn" onclick="generateScript('荣耀Magic6', '职场效率提升', event)">🎬 生成脚本</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="scenario-item" onclick="toggleScenario(this)">
-                        <div class="scenario-header">
-                            <div class="scenario-name">📸 亲子记录时光</div>
-                            <div class="scenario-expand">▼</div>
-                        </div>
-                        <div class="scenario-pain">
-                            <div class="scenario-pain-title">用户痛点</div>
-                            孩子动作太快拍出来都是糊的；照片太多整理麻烦
-                        </div>
-                        <div class="scenario-resonance">
-                            <strong>情感共鸣：</strong>想记录孩子每一个成长瞬间，留住美好回忆
-                        </div>
-                        <div class="scenario-detail">
-                            <div class="content-angles">
-                                <div class="content-angles-title">📝 内容角度</div>
-                                <div class="content-angle-item">鹰眼抓拍，孩子跑动也能清晰记录</div>
-                                <div class="content-angle-item">AI自动分类，按时间/人物/场景整理照片</div>
-                                <div class="content-angle-item">一键生成成长视频，回忆满满</div>
-                            </div>
-                            <div class="hot-topics">
-                                <div class="hot-topics-title">🔥 可匹配热点</div>
-                                <div class="hot-topic-tags">
-                                    <span class="hot-topic-tag">亲子时光</span>
-                                    <span class="hot-topic-tag">宝宝成长</span>
-                                    <span class="hot-topic-tag">拍照技巧</span>
-                                </div>
-                            </div>
-                            <div class="scenario-actions">
-                                <button class="action-btn primary" onclick="generateContent('荣耀Magic6', '亲子记录时光', event)">📄 生成内容</button>
-                                <button class="action-btn" onclick="generateScript('荣耀Magic6', '亲子记录时光', event)">🎬 生成脚本</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="scenario-item" onclick="toggleScenario(this)">
-                        <div class="scenario-header">
-                            <div class="scenario-name">✈️ 商务出行必备</div>
-                            <div class="scenario-expand">▼</div>
-                        </div>
-                        <div class="scenario-pain">
-                            <div class="scenario-pain-title">用户痛点</div>
-                            出差手机没电焦虑；境外网络不稳定
-                        </div>
-                        <div class="scenario-resonance">
-                            <strong>情感共鸣：</strong>商务人士需要可靠的工具，不能掉链子
-                        </div>
-                        <div class="scenario-detail">
-                            <div class="content-angles">
-                                <div class="content-angles-title">📝 内容角度</div>
-                                <div class="content-angle-item">青海湖电池，一天重度使用无忧</div>
-                                <div class="content-angle-item">天际通，境外一键上网</div>
-                                <div class="content-angle-item">隐私空间，工作生活分开</div>
-                            </div>
-                            <div class="hot-topics">
-                                <div class="hot-topics-title">🔥 可匹配热点</div>
-                                <div class="hot-topic-tags">
-                                    <span class="hot-topic-tag">商务出行</span>
-                                    <span class="hot-topic-tag">出差必备</span>
-                                    <span class="hot-topic-tag">效率工具</span>
-                                </div>
-                            </div>
-                            <div class="scenario-actions">
-                                <button class="action-btn primary" onclick="generateContent('荣耀Magic6', '商务出行必备', event)">📄 生成内容</button>
-                                <button class="action-btn" onclick="generateScript('荣耀Magic6', '商务出行必备', event)">🎬 生成脚本</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- SKU 2: AHC水乳 -->
-            <div class="sku-card" data-client="快消">
-                <div class="sku-header" style="background: linear-gradient(135deg, #F093FB, #F5576C);">
-                    <div class="sku-name">💄 AHC B5水乳套装</div>
-                    <div class="sku-client">快消-AHC</div>
-                    <div class="sku-specs">玻尿酸+维生素B5 | 120ml+120ml</div>
-                </div>
-                <div class="selling-points">
-                    <div class="selling-points-title">🔥 核心卖点</div>
-                    <div class="selling-points-list">
-                        <span class="selling-point-tag">98%高纯度玻尿酸</span>
-                        <span class="selling-point-tag">维生素B5修护</span>
-                        <span class="selling-point-tag">清爽不粘腻</span>
-                        <span class="selling-point-tag">平价大牌</span>
-                    </div>
-                </div>
-                <div class="scenarios-list">
-                    <div class="scenario-item" onclick="toggleScenario(this)">
-                        <div class="scenario-header">
-                            <div class="scenario-name">🌸 春日妆容打底</div>
-                            <div class="scenario-expand">▼</div>
-                        </div>
-                        <div class="scenario-pain">
-                            <div class="scenario-pain-title">用户痛点</div>
-                            换季皮肤干燥，上妆卡粉脱妆
-                        </div>
-                        <div class="scenario-resonance">
-                            <strong>情感共鸣：</strong>想要精致妆容，但皮肤状态不好
-                        </div>
-                        <div class="scenario-detail">
-                            <div class="content-angles">
-                                <div class="content-angles-title">📝 内容角度</div>
-                                <div class="content-angle-item">春日粉彩妆容公式，AHC水乳打底是关键</div>
-                                <div class="content-angle-item">妆前5分钟急救，底妆服帖一整天</div>
-                                <div class="content-angle-item">学生党平价好物，百元内搞定</div>
-                            </div>
-                            <div class="hot-topics">
-                                <div class="hot-topics-title">🔥 可匹配热点</div>
-                                <div class="hot-topic-tags">
-                                    <span class="hot-topic-tag">春日粉彩妆容公式</span>
-                                    <span class="hot-topic-tag">春季护肤攻略</span>
-                                    <span class="hot-topic-tag">底妆服帖</span>
-                                    <span class="hot-topic-tag">换季护肤</span>
-                                </div>
-                            </div>
-                            <div class="scenario-actions">
-                                <button class="action-btn primary" onclick="generateContent('AHC B5水乳', '春日妆容打底', event)">📄 生成内容</button>
-                                <button class="action-btn" onclick="generateScript('AHC B5水乳', '春日妆容打底', event)">🎬 生成脚本</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="scenario-item" onclick="toggleScenario(this)">
-                        <div class="scenario-header">
-                            <div class="scenario-name">🌙 熬夜肌急救</div>
-                            <div class="scenario-expand">▼</div>
-                        </div>
-                        <div class="scenario-pain">
-                            <div class="scenario-pain-title">用户痛点</div>
-                            熬夜后皮肤暗沉、干燥、没光泽
-                        </div>
-                        <div class="scenario-resonance">
-                            <strong>情感共鸣：</strong>知道熬夜不好，但不得不熬，需要急救
-                        </div>
-                        <div class="scenario-detail">
-                            <div class="content-angles">
-                                <div class="content-angles-title">📝 内容角度</div>
-                                <div class="content-angle-item">熬夜肌急救指南，AHC水乳湿敷法</div>
-                                <div class="content-angle-item">3天拯救熬夜脸，恢复水光肌</div>
-                                <div class="content-angle-item">打工人必备，熬夜也能有好气色</div>
-                            </div>
-                            <div class="hot-topics">
-                                <div class="hot-topics-title">🔥 可匹配热点</div>
-                                <div class="hot-topic-tags">
-                                    <span class="hot-topic-tag">熬夜急救</span>
-                                    <span class="hot-topic-tag">打工人护肤</span>
-                                    <span class="hot-topic-tag">水光肌</span>
-                                </div>
-                            </div>
-                            <div class="scenario-actions">
-                                <button class="action-btn primary" onclick="generateContent('AHC B5水乳', '熬夜肌急救', event)">📄 生成内容</button>
-                                <button class="action-btn" onclick="generateScript('AHC B5水乳', '熬夜肌急救', event)">🎬 生成脚本</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- 更多SKU... -->
-        </div>
-    </div>
-    
-    <script>
-        // 展开/收起场景
-        function toggleScenario(item) {
-            item.classList.toggle('expanded');
-        }
-        
-        // 按客户筛选
-        function filterByClient(client) {
-            // 更新按钮状态
-            document.querySelectorAll('.filter-group:first-child .filter-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
-            event.target.classList.add('active');
-            
-            // 筛选卡片
-            const cards = document.querySelectorAll('.sku-card');
-            cards.forEach(card => {
-                if (client === 'all' || card.dataset.client === client) {
-                    card.style.display = 'block';
-                } else {
-                    card.style.display = 'none';
-                }
-            });
-        }
-        
-        // 生成内容
-        function generateContent(sku, scenario, event) {
-            event.stopPropagation();
-            alert(`正在为以下SKU和场景生成内容：\n\n产品：${sku}\n场景：${scenario}\n\n将结合热点和内容方法论生成专业内容...`);
-        }
-        
-        // 生成脚本
-        function generateScript(sku, scenario, event) {
-            event.stopPropagation();
-            alert(`正在为以下SKU和场景生成脚本：\n\n产品：${sku}\n场景：${scenario}\n\n将结合AIDA/SCQA方法论生成视频/图文脚本...`);
-        }
-    </script>
-</body>
-</html>
-                            <div class="content-angles-title">📝 内容角度</div>
-                                <div class="content-angle-item">春季大扫除神器，30分钟搞定全屋</div>
-                                <div class="content-angle-item">租房党必备，退租清洁不扣押金</div>
-                                <div class="content-angle-item">一喷一擦，厨房油污轻松搞定</div>
-                            </div>
-                            <div class="hot-topics">
-                                <div class="hot-topics-title">🔥 可匹配热点</div>
-                                <div class="hot-topic-tags">
-                                    <span class="hot-topic-tag">春季大扫除</span>
-                                    <span class="hot-topic-tag">租房清洁</span>
-                                    <span class="hot-topic-tag">厨房油污</span>
-                                </div>
-                            </div>
-                            <div class="scenario-actions">
-                                <button class="action-btn primary">📄 生成内容</button>
-                                <button class="action-btn">🎬 生成脚本</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="scenario-item">
-                        <div class="scenario-header" onclick="toggleScenario(this)">
-                            <div class="scenario-name">💼 日常快速清洁</div>
-                            <div class="scenario-expand">▼</div>
-                        </div>
-                        <div class="scenario-body">
-                            <div class="scenario-pain">用户痛点：工作忙没时间打扫，家里乱糟糟</div>
-                            <div class="scenario-resonance"><strong>情感共鸣：</strong>想要保持整洁，但没时间大扫</div>
-                            <div class="content-angles">
-                                <div class="content-angles-title">📝 内容角度</div>
-                                <div class="content-angle-item">每天5分钟，家里永远干净整洁</div>
-                                <div class="content-angle-item">懒人清洁法，一喷一擦就干净</div>
-                                <div class="content-angle-item">上班族必备，周末不用大扫除</div>
-                            </div>
-                            <div class="hot-topics">
-                                <div class="hot-topics-title">🔥 可匹配热点</div>
-                                <div class="hot-topic-tags">
-                                    <span class="hot-topic-tag">日常清洁</span>
-                                    <span class="hot-topic-tag">懒人清洁</span>
-                                    <span class="hot-topic-tag">上班族</span>
-                                </div>
-                            </div>
-                            <div class="scenario-actions">
-                                <button class="action-btn primary">📄 生成内容</button>
-                                <button class="action-btn">🎬 生成脚本</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="scenario-item">
-                        <div class="scenario-header" onclick="toggleScenario(this)">
-                            <div class="scenario-name">👶 母婴家庭</div>
-                            <div class="scenario-expand">▼</div>
-                        </div>
-                        <div class="scenario-body">
-                            <div class="scenario-pain">用户痛点：有宝宝后更注重清洁，但怕化学残留</div>
-                            <div class="scenario-resonance"><strong>情感共鸣：</strong>想要安全清洁，保护宝宝健康</div>
-                            <div class="content-angles">
-                                <div class="content-angles-title">📝 内容角度</div>
-                                <div class="content-angle-item">母婴家庭专用，安全无残留</div>
-                                <div class="content-angle-item">宝宝爬行的地方也能用</div>
-                                <div class="content-angle-item">新手妈妈必备，清洁又安心</div>
-                            </div>
-                            <div class="hot-topics">
-                                <div class="hot-topics-title">🔥 可匹配热点</div>
-                                <div class="hot-topic-tags">
-                                    <span class="hot-topic-tag">母婴清洁</span>
-                                    <span class="hot-topic-tag">安全清洁</span>
-                                    <span class="hot-topic-tag">新手妈妈</span>
-                                </div>
-                            </div>
-                            <div class="scenario-actions">
-                                <button class="action-btn primary">📄 生成内容</button>
-                                <button class="action-btn">🎬 生成脚本</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <div class="loading">
+                <div class="loading-spinner"></div>
+                <div>正在加载SKU数据...</div>
             </div>
         </div>
     </div>
     
     <script>
-        function toggleScenario(header) {
-            const item = header.parentElement;
-            item.classList.toggle('expanded');
+        function toggleSKU(header) {
+            const card = header.closest('.sku-card');
+            card.classList.toggle('expanded');
         }
         
-        function toggleSku(header) {
-            // SKU header点击不展开，保持列表式
-        }
-        
-        function filterByClient(client) {
-            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            event.target.classList.add('active');
-            
-            const cards = document.querySelectorAll('.sku-card');
-            cards.forEach(card => {
-                if (client === 'all' || card.dataset.client.includes(client)) {
-                    card.style.display = 'block';
-                } else {
-                    card.style.display = 'none';
+        function renderSKU(scenarios) {
+            // 按客户分组
+            const clientData = {};
+            scenarios.forEach(s => {
+                const client = s.client || '未知';
+                if (!clientData[client]) {
+                    clientData[client] = [];
                 }
+                clientData[client].push(s);
             });
-        }
-        
-        // 默认展开第一个SKU
-        document.addEventListener('DOMContentLoaded', function() {
-            const firstSku = document.querySelector('.sku-card');
-            if (firstSku) {
-                const scenarios = firstSku.querySelectorAll('.scenario-item');
-                scenarios.forEach((s, i) => {
-                    if (i < 2) s.classList.add('expanded');
-                    else s.classList.remove('expanded');
+            
+            // 统计
+            const clientCount = Object.keys(clientData).length;
+            const scenarioTypes = new Set(scenarios.map(s => s.scenario_type)).size;
+            document.getElementById('skuCount').textContent = scenarios.length;
+            document.getElementById('clientCount').textContent = clientCount;
+            document.getElementById('scenarioCount').textContent = scenarioTypes;
+            
+            const updateTime = scenarios[0]?.created_at || new Date().toISOString();
+            document.getElementById('updateTime').textContent = 
+                '📅 数据更新时间：' + new Date(updateTime).toLocaleString('zh-CN');
+            
+            // 渲染
+            const grid = document.getElementById('skuGrid');
+            let html = '';
+            
+            Object.entries(clientData).forEach(([client, items]) => {
+                items.forEach((item, idx) => {
+                    const colors = ['#667EEA, #764BA2', '#4FACFE, #00F2FE', '#43E97B, #38F9D7'][idx % 3];
+                    html += `
+                    <div class="sku-card ${idx === 0 ? 'expanded' : ''}">
+                        <div class="sku-header" onclick="toggleSKU(this)">
+                            <div>
+                                <div class="sku-title">${item.product || item.sku_name}</div>
+                                <div class="sku-type">${client} | ${item.scenario_type}</div>
+                            </div>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                        <div class="sku-content">
+                            <div class="sku-detail">
+                                <div class="sku-row">
+                                    <span class="sku-label">产品</span>
+                                    <span class="sku-value">${item.product || '-'}</span>
+                                </div>
+                                <div class="sku-row">
+                                    <span class="sku-label">场景类型</span>
+                                    <span class="sku-value">${item.scenario_type || '-'}</span>
+                                </div>
+                                <div class="sku-row">
+                                    <span class="sku-label">内容角度</span>
+                                    <span class="sku-value">${item.content_angle || '-'}</span>
+                                </div>
+                                ${item.description ? `
+                                <div class="sku-row">
+                                    <span class="sku-label">描述</span>
+                                    <span class="sku-value">${item.description}</span>
+                                </div>
+                                ` : ''}
+                                ${item.keywords ? `
+                                <div class="sku-tags">
+                                    ${(Array.isArray(item.keywords) ? item.keywords : item.keywords.split(',')).map(k => 
+                                        `<span class="sku-tag">${k.trim()}</span>`
+                                    ).join('')}
+                                </div>
+                                ` : ''}
+                            </div>
+                        </div>
+                    </div>
+                    `;
                 });
-            }
+            });
+            
+            grid.innerHTML = html;
+        }
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            fetch('sku_scenarios.json')
+                .then(response => response.json())
+                .then(data => {
+                    renderSKU(data);
+                })
+                .catch(error => {
+                    console.error('加载数据失败:', error);
+                    document.getElementById('skuGrid').innerHTML = 
+                        '<div class="loading">❌ 数据加载失败，请刷新页面重试</div>';
+                });
         });
     </script>
 </body>

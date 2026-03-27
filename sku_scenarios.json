@@ -6,9 +6,9 @@
     "description": "用户使用荣耀产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "热点",
-      "对比",
-      "情感"
+      "情感",
+      "场景",
+      "痛点"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "description": "荣耀产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "痛点",
       "热点",
-      "对比"
+      "痛点",
+      "场景"
     ]
   },
   {
@@ -30,68 +30,68 @@
     "description": "荣耀产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
+      "情感",
       "对比",
+      "场景"
+    ]
+  },
+  {
+    "client": "荣耀",
+    "product": "荣耀平板",
+    "scenario_type": "痛点场景",
+    "description": "用户使用荣耀产品解决的问题",
+    "content_angle": "问题解决型",
+    "keywords": [
+      "痛点",
       "场景",
+      "情感"
+    ]
+  },
+  {
+    "client": "荣耀",
+    "product": "荣耀平板",
+    "scenario_type": "情感场景",
+    "description": "荣耀产品带来的情感价值",
+    "content_angle": "情感共鸣型",
+    "keywords": [
+      "对比",
+      "热点",
+      "痛点"
+    ]
+  },
+  {
+    "client": "荣耀",
+    "product": "荣耀平板",
+    "scenario_type": "使用场景",
+    "description": "荣耀产品的具体使用场景",
+    "content_angle": "场景代入型",
+    "keywords": [
+      "热点",
+      "痛点",
+      "情感"
+    ]
+  },
+  {
+    "client": "荣耀",
+    "product": "荣耀耳机",
+    "scenario_type": "痛点场景",
+    "description": "用户使用荣耀产品解决的问题",
+    "content_angle": "问题解决型",
+    "keywords": [
+      "对比",
+      "情感",
       "热点"
     ]
   },
   {
     "client": "荣耀",
-    "product": "荣耀平板",
-    "scenario_type": "痛点场景",
-    "description": "用户使用荣耀产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "热点",
-      "痛点",
-      "场景"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀平板",
-    "scenario_type": "情感场景",
-    "description": "荣耀产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "情感",
-      "痛点",
-      "场景"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀平板",
-    "scenario_type": "使用场景",
-    "description": "荣耀产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "场景",
-      "情感"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀耳机",
-    "scenario_type": "痛点场景",
-    "description": "用户使用荣耀产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "场景",
-      "对比",
-      "痛点"
-    ]
-  },
-  {
-    "client": "荣耀",
     "product": "荣耀耳机",
     "scenario_type": "情感场景",
     "description": "荣耀产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
+      "场景",
       "热点",
-      "情感",
       "痛点"
     ]
   },
@@ -102,9 +102,9 @@
     "description": "荣耀产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "情感",
       "场景",
-      "对比"
+      "情感",
+      "痛点"
     ]
   },
   {
@@ -114,9 +114,9 @@
     "description": "用户使用罗技产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
+      "对比",
       "情感",
-      "痛点",
-      "对比"
+      "热点"
     ]
   },
   {
@@ -126,9 +126,9 @@
     "description": "罗技产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "情感",
-      "热点",
-      "痛点"
+      "对比",
+      "痛点",
+      "热点"
     ]
   },
   {
@@ -150,7 +150,7 @@
     "description": "用户使用罗技产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "对比",
+      "情感",
       "场景",
       "热点"
     ]
@@ -162,9 +162,9 @@
     "description": "罗技产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
+      "热点",
       "情感",
-      "对比",
-      "场景"
+      "痛点"
     ]
   },
   {
@@ -174,8 +174,8 @@
     "description": "罗技产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
+      "痛点",
       "热点",
-      "场景",
       "对比"
     ]
   },
@@ -187,7 +187,7 @@
     "content_angle": "问题解决型",
     "keywords": [
       "场景",
-      "对比",
+      "痛点",
       "热点"
     ]
   },
@@ -198,9 +198,9 @@
     "description": "AHC产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "痛点",
+      "情感",
       "对比",
-      "热点"
+      "痛点"
     ]
   },
   {
@@ -210,9 +210,9 @@
     "description": "AHC产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "热点",
-      "对比",
-      "痛点"
+      "场景",
+      "情感",
+      "对比"
     ]
   },
   {
@@ -223,8 +223,8 @@
     "content_angle": "问题解决型",
     "keywords": [
       "痛点",
-      "场景",
-      "热点"
+      "对比",
+      "场景"
     ]
   },
   {
@@ -234,9 +234,9 @@
     "description": "AHC产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "场景",
       "情感",
-      "热点"
+      "场景",
+      "痛点"
     ]
   },
   {
@@ -246,81 +246,81 @@
     "description": "AHC产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "痛点",
-      "热点",
-      "对比"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬沐浴露",
-    "scenario_type": "痛点场景",
-    "description": "用户使用多芬产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
+      "对比",
       "情感",
-      "热点",
       "痛点"
     ]
   },
   {
     "client": "多芬",
     "product": "多芬沐浴露",
-    "scenario_type": "情感场景",
-    "description": "多芬产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "场景",
-      "情感",
-      "对比"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬沐浴露",
-    "scenario_type": "使用场景",
-    "description": "多芬产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "场景",
-      "对比",
-      "热点"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬洗发水",
     "scenario_type": "痛点场景",
     "description": "用户使用多芬产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "热点",
-      "痛点",
-      "情感"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬洗发水",
-    "scenario_type": "情感场景",
-    "description": "多芬产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
       "情感",
-      "痛点",
+      "热点",
       "场景"
     ]
   },
   {
     "client": "多芬",
+    "product": "多芬沐浴露",
+    "scenario_type": "情感场景",
+    "description": "多芬产品带来的情感价值",
+    "content_angle": "情感共鸣型",
+    "keywords": [
+      "情感",
+      "场景",
+      "热点"
+    ]
+  },
+  {
+    "client": "多芬",
+    "product": "多芬沐浴露",
+    "scenario_type": "使用场景",
+    "description": "多芬产品的具体使用场景",
+    "content_angle": "场景代入型",
+    "keywords": [
+      "热点",
+      "场景",
+      "痛点"
+    ]
+  },
+  {
+    "client": "多芬",
+    "product": "多芬洗发水",
+    "scenario_type": "痛点场景",
+    "description": "用户使用多芬产品解决的问题",
+    "content_angle": "问题解决型",
+    "keywords": [
+      "场景",
+      "情感",
+      "热点"
+    ]
+  },
+  {
+    "client": "多芬",
+    "product": "多芬洗发水",
+    "scenario_type": "情感场景",
+    "description": "多芬产品带来的情感价值",
+    "content_angle": "情感共鸣型",
+    "keywords": [
+      "热点",
+      "痛点",
+      "情感"
+    ]
+  },
+  {
+    "client": "多芬",
     "product": "多芬洗发水",
     "scenario_type": "使用场景",
     "description": "多芬产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
       "情感",
-      "痛点",
-      "对比"
+      "对比",
+      "热点"
     ]
   },
   {
@@ -331,8 +331,8 @@
     "content_angle": "问题解决型",
     "keywords": [
       "对比",
-      "情感",
-      "痛点"
+      "痛点",
+      "场景"
     ]
   },
   {
@@ -342,8 +342,8 @@
     "description": "力士产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "场景",
-      "痛点",
+      "情感",
+      "对比",
       "热点"
     ]
   },
@@ -354,9 +354,9 @@
     "description": "力士产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "痛点",
-      "热点",
-      "对比"
+      "场景",
+      "对比",
+      "情感"
     ]
   },
   {
@@ -366,9 +366,9 @@
     "description": "用户使用力士产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "痛点",
-      "热点",
-      "对比"
+      "场景",
+      "情感",
+      "热点"
     ]
   },
   {
@@ -378,9 +378,9 @@
     "description": "力士产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "热点",
-      "对比",
-      "情感"
+      "痛点",
+      "情感",
+      "场景"
     ]
   },
   {
@@ -390,9 +390,9 @@
     "description": "力士产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "对比",
       "热点",
-      "痛点"
+      "对比",
+      "情感"
     ]
   },
   {
@@ -402,9 +402,9 @@
     "description": "用户使用清扬产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "场景",
       "热点",
-      "情感"
+      "对比",
+      "场景"
     ]
   },
   {
@@ -414,9 +414,9 @@
     "description": "清扬产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "场景",
       "痛点",
-      "热点"
+      "对比",
+      "情感"
     ]
   },
   {
@@ -426,9 +426,9 @@
     "description": "清扬产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "场景",
-      "痛点",
-      "情感"
+      "情感",
+      "热点",
+      "场景"
     ]
   },
   {
@@ -438,9 +438,9 @@
     "description": "用户使用舒适产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "情感",
-      "热点",
-      "场景"
+      "对比",
+      "场景",
+      "情感"
     ]
   },
   {
@@ -450,9 +450,9 @@
     "description": "舒适产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "场景",
       "热点",
-      "情感"
+      "情感",
+      "痛点"
     ]
   },
   {
@@ -462,43 +462,43 @@
     "description": "舒适产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "情感",
-      "痛点",
-      "对比"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "蛋白粉",
-    "scenario_type": "痛点场景",
-    "description": "用户使用汤臣倍健产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
       "场景",
       "热点",
-      "对比"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "蛋白粉",
-    "scenario_type": "情感场景",
-    "description": "汤臣倍健产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "对比",
-      "痛点",
       "情感"
     ]
   },
   {
     "client": "汤臣倍健",
     "product": "蛋白粉",
+    "scenario_type": "痛点场景",
+    "description": "用户使用汤臣倍健产品解决的问题",
+    "content_angle": "问题解决型",
+    "keywords": [
+      "情感",
+      "热点",
+      "对比"
+    ]
+  },
+  {
+    "client": "汤臣倍健",
+    "product": "蛋白粉",
+    "scenario_type": "情感场景",
+    "description": "汤臣倍健产品带来的情感价值",
+    "content_angle": "情感共鸣型",
+    "keywords": [
+      "场景",
+      "对比",
+      "痛点"
+    ]
+  },
+  {
+    "client": "汤臣倍健",
+    "product": "蛋白粉",
     "scenario_type": "使用场景",
     "description": "汤臣倍健产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "场景",
+      "情感",
       "热点",
       "对比"
     ]
@@ -510,9 +510,9 @@
     "description": "用户使用汤臣倍健产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "热点",
-      "情感",
-      "对比"
+      "痛点",
+      "对比",
+      "热点"
     ]
   },
   {
@@ -522,9 +522,9 @@
     "description": "汤臣倍健产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "对比",
+      "情感",
       "热点",
-      "痛点"
+      "场景"
     ]
   },
   {
@@ -535,7 +535,7 @@
     "content_angle": "场景代入型",
     "keywords": [
       "对比",
-      "痛点",
+      "场景",
       "情感"
     ]
   },
@@ -546,9 +546,9 @@
     "description": "用户使用汤臣倍健产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "场景",
-      "痛点",
-      "对比"
+      "热点",
+      "情感",
+      "场景"
     ]
   },
   {
@@ -558,8 +558,8 @@
     "description": "汤臣倍健产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "热点",
       "场景",
+      "热点",
       "痛点"
     ]
   },
@@ -570,9 +570,9 @@
     "description": "汤臣倍健产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
+      "场景",
       "情感",
-      "痛点",
-      "对比"
+      "热点"
     ]
   },
   {
@@ -582,9 +582,9 @@
     "description": "用户使用HC产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "情感",
       "热点",
-      "痛点"
+      "对比",
+      "情感"
     ]
   },
   {
@@ -594,9 +594,9 @@
     "description": "HC产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "痛点",
       "热点",
-      "场景"
+      "情感",
+      "对比"
     ]
   },
   {
@@ -606,129 +606,129 @@
     "description": "HC产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "对比",
-      "痛点",
-      "场景"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "猫粮",
-    "scenario_type": "痛点场景",
-    "description": "用户使用希宝产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "场景",
-      "对比",
-      "热点"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "猫粮",
-    "scenario_type": "情感场景",
-    "description": "希宝产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "对比",
-      "痛点"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "猫粮",
-    "scenario_type": "使用场景",
-    "description": "希宝产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "场景",
       "情感",
-      "热点"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "狗粮",
-    "scenario_type": "痛点场景",
-    "description": "用户使用希宝产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
       "热点",
-      "场景",
       "痛点"
     ]
   },
   {
     "client": "希宝",
-    "product": "狗粮",
-    "scenario_type": "情感场景",
-    "description": "希宝产品带来的情感价值",
-    "content_angle": "情感共鸣型",
+    "product": "猫粮",
+    "scenario_type": "痛点场景",
+    "description": "用户使用希宝产品解决的问题",
+    "content_angle": "问题解决型",
     "keywords": [
       "场景",
-      "痛点",
+      "对比",
       "情感"
     ]
   },
   {
     "client": "希宝",
+    "product": "猫粮",
+    "scenario_type": "情感场景",
+    "description": "希宝产品带来的情感价值",
+    "content_angle": "情感共鸣型",
+    "keywords": [
+      "对比",
+      "热点",
+      "痛点"
+    ]
+  },
+  {
+    "client": "希宝",
+    "product": "猫粮",
+    "scenario_type": "使用场景",
+    "description": "希宝产品的具体使用场景",
+    "content_angle": "场景代入型",
+    "keywords": [
+      "热点",
+      "情感",
+      "场景"
+    ]
+  },
+  {
+    "client": "希宝",
+    "product": "狗粮",
+    "scenario_type": "痛点场景",
+    "description": "用户使用希宝产品解决的问题",
+    "content_angle": "问题解决型",
+    "keywords": [
+      "对比",
+      "情感",
+      "场景"
+    ]
+  },
+  {
+    "client": "希宝",
+    "product": "狗粮",
+    "scenario_type": "情感场景",
+    "description": "希宝产品带来的情感价值",
+    "content_angle": "情感共鸣型",
+    "keywords": [
+      "痛点",
+      "对比",
+      "热点"
+    ]
+  },
+  {
+    "client": "希宝",
     "product": "狗粮",
     "scenario_type": "使用场景",
     "description": "希宝产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "痛点",
+      "热点",
       "对比",
+      "情感"
+    ]
+  },
+  {
+    "client": "OATLY",
+    "product": "燕麦奶",
+    "scenario_type": "痛点场景",
+    "description": "用户使用OATLY产品解决的问题",
+    "content_angle": "问题解决型",
+    "keywords": [
+      "情感",
+      "痛点",
+      "对比"
+    ]
+  },
+  {
+    "client": "OATLY",
+    "product": "燕麦奶",
+    "scenario_type": "情感场景",
+    "description": "OATLY产品带来的情感价值",
+    "content_angle": "情感共鸣型",
+    "keywords": [
+      "场景",
+      "热点",
+      "对比"
+    ]
+  },
+  {
+    "client": "OATLY",
+    "product": "燕麦奶",
+    "scenario_type": "使用场景",
+    "description": "OATLY产品的具体使用场景",
+    "content_angle": "场景代入型",
+    "keywords": [
+      "痛点",
+      "情感",
       "场景"
     ]
   },
   {
     "client": "OATLY",
-    "product": "燕麦奶",
+    "product": "咖啡",
     "scenario_type": "痛点场景",
     "description": "用户使用OATLY产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "情感",
-      "场景",
-      "对比"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦奶",
-    "scenario_type": "情感场景",
-    "description": "OATLY产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "情感",
       "痛点",
-      "热点"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦奶",
-    "scenario_type": "使用场景",
-    "description": "OATLY产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "热点",
-      "对比"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "咖啡",
-    "scenario_type": "痛点场景",
-    "description": "用户使用OATLY产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "热点",
-      "情感",
-      "痛点"
+      "场景",
+      "情感"
     ]
   },
   {
@@ -738,9 +738,9 @@
     "description": "OATLY产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "情感",
       "对比",
-      "痛点"
+      "热点",
+      "场景"
     ]
   },
   {
@@ -750,9 +750,9 @@
     "description": "OATLY产品的具体使用场景",
     "content_angle": "场景代入型",
     "keywords": [
-      "对比",
+      "情感",
       "热点",
-      "痛点"
+      "场景"
     ]
   },
   {
@@ -762,7 +762,7 @@
     "description": "用户使用百威产品解决的问题",
     "content_angle": "问题解决型",
     "keywords": [
-      "场景",
+      "痛点",
       "情感",
       "对比"
     ]
@@ -774,9 +774,9 @@
     "description": "百威产品带来的情感价值",
     "content_angle": "情感共鸣型",
     "keywords": [
-      "对比",
-      "热点",
-      "痛点"
+      "痛点",
+      "场景",
+      "热点"
     ]
   },
   {
@@ -788,7 +788,7 @@
     "keywords": [
       "对比",
       "场景",
-      "痛点"
+      "情感"
     ]
   }
 ]
