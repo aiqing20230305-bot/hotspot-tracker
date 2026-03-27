@@ -1,0 +1,1346 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📈 趋势预测 - 特赞内容运营平台</title>
+    <style>
+        :root {
+            --primary: #6366F1;
+            --primary-dark: #4F46E5;
+            --primary-50: #EEF2FF;
+            --success: #10B981;
+            --success-50: #D1FAE5;
+            --warning: #F59E0B;
+            --warning-50: #FEF3C7;
+            --error: #EF4444;
+            --error-50: #FEE2E2;
+            --gray-50: #F9FAFB;
+            --gray-100: #F3F4F6;
+            --gray-200: #E5E7EB;
+            --gray-300: #D1D5DB;
+            --gray-600: #6B7280;
+            --gray-700: #374151;
+            --gray-800: #1F2937;
+            --gray-900: #111827;
+            --radius: 12px;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #F5F3FF;
+            min-height: 100vh;
+            color: var(--gray-800);
+        }
+
+        /* 加载动画 */
+        .loading-overlay {
+            position: fixed;
+            inset: 0;
+            background: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            transition: opacity 0.5s;
+        }
+        .loading-overlay.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+        .loading-spinner {
+            width: 48px; height: 48px;
+            border: 4px solid var(--gray-200);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .loading-text { margin-top: 16px; color: var(--gray-600); font-size: 14px; }
+
+        /* 导航栏 */
+        .navbar {
+            background: white;
+            box-shadow: var(--shadow);
+            padding: 0 24px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 64px;
+        }
+        .logo {
+            font-size: 20px;
+            font-weight: 800;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .nav-tabs {
+            display: flex;
+            gap: 4px;
+            height: 64px;
+            align-items: center;
+        }
+        .nav-tab {
+            padding: 8px 14px;
+            border-radius: 8px;
+            color: var(--gray-600);
+            font-weight: 500;
+            font-size: 14px;
+            transition: all 0.2s;
+            text-decoration: none;
+        }
+        .nav-tab:hover { background: var(--primary-50); color: var(--primary); }
+        .nav-tab.active { background: var(--primary-50); color: var(--primary); font-weight: 600; }
+
+        /* 主容器 */
+        .main-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 24px;
+        }
+
+        /* 页面标题 */
+        .page-header {
+            background: linear-gradient(135deg, #8B5CF6 0%, #6366F1 50%, #4F46E5 100%);
+            color: white;
+            padding: 36px 40px;
+            border-radius: 20px;
+            margin-bottom: 28px;
+            position: relative;
+            overflow: hidden;
+        }
+        .page-header::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 300px;
+            height: 300px;
+            background: rgba(255,255,255,0.06);
+            border-radius: 50%;
+        }
+        .page-header::before {
+            content: '';
+            position: absolute;
+            bottom: -30%;
+            left: -5%;
+            width: 200px;
+            height: 200px;
+            background: rgba(255,255,255,0.04);
+            border-radius: 50%;
+        }
+        .page-header h1 {
+            font-size: 28px;
+            margin-bottom: 6px;
+            position: relative;
+            z-index: 1;
+        }
+        .page-header p { opacity: 0.85; font-size: 14px; position: relative; z-index: 1; }
+        .page-header .update-time {
+            margin-top: 12px;
+            font-size: 12px;
+            opacity: 0.7;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* 统计卡片 */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+            margin-bottom: 28px;
+        }
+        @media (max-width: 900px) {
+            .stats-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+
+        .stat-card {
+            background: white;
+            padding: 22px 24px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            position: relative;
+            overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .stat-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0;
+            width: 4px; height: 100%;
+        }
+        .stat-card.purple::before { background: var(--primary); }
+        .stat-card.green::before { background: var(--success); }
+        .stat-card.orange::before { background: var(--warning); }
+        .stat-card.red::before { background: var(--error); }
+
+        .stat-icon { font-size: 28px; margin-bottom: 12px; }
+        .stat-label { font-size: 13px; color: var(--gray-600); margin-bottom: 6px; font-weight: 500; }
+        .stat-value { font-size: 32px; font-weight: 700; color: var(--gray-900); }
+        .stat-change { 
+            font-size: 12px; 
+            margin-top: 6px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .stat-change.up { color: var(--success); }
+        .stat-change.down { color: var(--error); }
+        .stat-change.neutral { color: var(--gray-600); }
+
+        /* 内容区域 */
+        .content-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 24px;
+            margin-bottom: 28px;
+        }
+        @media (max-width: 1100px) {
+            .content-grid { grid-template-columns: 1fr; }
+        }
+
+        .card {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+        }
+        .card-header {
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--gray-100);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .card-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--gray-800);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .card-body { padding: 24px; }
+
+        /* 趋势图区域 */
+        .trend-chart-container {
+            background: linear-gradient(180deg, #FAFBFF 0%, white 100%);
+            border-radius: 12px;
+            padding: 24px;
+            position: relative;
+        }
+        .chart-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-700);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .chart-legend {
+            display: flex;
+            gap: 16px;
+            font-size: 12px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .legend-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+        }
+        .legend-dot.actual { background: var(--primary); }
+        .legend-dot.predicted { background: #8B5CF6; }
+        .legend-dot.confidence { background: #8B5CF6; opacity: 0.3; }
+
+        /* CSS 折线图 */
+        .line-chart {
+            position: relative;
+            height: 280px;
+            margin-top: 20px;
+        }
+        .chart-grid {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .grid-line {
+            border-top: 1px dashed var(--gray-200);
+            position: relative;
+        }
+        .grid-line::before {
+            content: attr(data-value);
+            position: absolute;
+            left: -45px;
+            top: -8px;
+            font-size: 11px;
+            color: var(--gray-500);
+        }
+        .chart-x-axis {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 12px;
+            padding: 0 50px;
+        }
+        .x-label {
+            font-size: 12px;
+            color: var(--gray-600);
+            text-align: center;
+        }
+
+        /* 折线路径 */
+        .chart-lines {
+            position: absolute;
+            inset: 0;
+        }
+        .line-actual, .line-predicted, .line-confidence-up, .line-confidence-down {
+            fill: none;
+            stroke-width: 3;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+        .line-actual { stroke: var(--primary); }
+        .line-predicted { stroke: #8B5CF6; stroke-dasharray: 8, 4; }
+        .line-confidence-up { stroke: #8B5CF6; stroke-width: 1; opacity: 0.3; }
+        .line-confidence-down { stroke: #8B5CF6; stroke-width: 1; opacity: 0.3; }
+
+        /* 数据点 */
+        .data-point {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .data-point:hover {
+            transform: translate(-50%, -50%) scale(1.5);
+        }
+        .data-point.actual { background: var(--primary); border: 2px solid white; box-shadow: 0 0 0 3px var(--primary); }
+        .data-point.predicted { background: #8B5CF6; border: 2px solid white; box-shadow: 0 0 0 3px #8B5CF6; }
+
+        /* 预测说明 */
+        .prediction-info {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid var(--gray-100);
+        }
+        .prediction-item {
+            text-align: center;
+            padding: 12px;
+            background: var(--gray-50);
+            border-radius: 8px;
+        }
+        .prediction-label {
+            font-size: 12px;
+            color: var(--gray-600);
+            margin-bottom: 4px;
+        }
+        .prediction-value {
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--gray-900);
+        }
+        .prediction-value.up { color: var(--success); }
+        .prediction-value.down { color: var(--error); }
+
+        /* 算法说明 */
+        .algorithm-panel {
+            background: linear-gradient(135deg, #F3E8FF 0%, #EDE9FE 100%);
+            border-radius: 12px;
+            padding: 16px;
+            margin-top: 20px;
+        }
+        .algorithm-title {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--gray-800);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .algorithm-formula {
+            background: white;
+            padding: 12px 16px;
+            border-radius: 8px;
+            font-family: 'Monaco', 'Menlo', monospace;
+            font-size: 12px;
+            color: var(--gray-700);
+            overflow-x: auto;
+        }
+        .algorithm-factors {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 12px;
+        }
+        .factor-tag {
+            background: white;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 11px;
+            color: var(--gray-700);
+            border: 1px solid var(--gray-200);
+        }
+
+        /* 热点预测列表 */
+        .trend-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .trend-item {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 16px;
+            background: var(--gray-50);
+            border-radius: 12px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+        .trend-item:hover {
+            background: var(--primary-50);
+            transform: translateX(4px);
+        }
+        .trend-rank {
+            width: 32px;
+            height: 32px;
+            background: linear-gradient(135deg, var(--primary) 0%, #8B5CF6 100%);
+            color: white;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 14px;
+        }
+        .trend-rank.top3 {
+            background: linear-gradient(135deg, #F59E0B 0%, #EF4444 100%);
+        }
+        .trend-info { flex: 1; }
+        .trend-title {
+            font-weight: 600;
+            color: var(--gray-800);
+            margin-bottom: 4px;
+            font-size: 14px;
+        }
+        .trend-meta {
+            display: flex;
+            gap: 12px;
+            font-size: 12px;
+            color: var(--gray-600);
+        }
+        .trend-tag {
+            display: inline-flex;
+            align-items: center;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 500;
+        }
+        .trend-tag.platform {
+            background: var(--primary-50);
+            color: var(--primary);
+        }
+        .trend-tag.hot {
+            background: var(--error-50);
+            color: var(--error);
+        }
+        .trend-tag.warning {
+            background: var(--warning-50);
+            color: var(--warning);
+        }
+        .trend-heat {
+            text-align: right;
+        }
+        .heat-value {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--gray-900);
+        }
+        .heat-change {
+            font-size: 11px;
+            color: var(--success);
+            display: flex;
+            align-items: center;
+            gap: 2px;
+            justify-content: flex-end;
+        }
+
+        /* 时间推荐卡片 */
+        .time-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 8px;
+        }
+        .time-card {
+            text-align: center;
+            padding: 12px 8px;
+            background: var(--gray-50);
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+        .time-card.best {
+            background: linear-gradient(135deg, var(--success) 0%, #059669 100%);
+            color: white;
+        }
+        .time-card.good {
+            background: var(--success-50);
+        }
+        .time-card.warning {
+            background: var(--warning-50);
+        }
+        .time-day {
+            font-size: 12px;
+            font-weight: 600;
+            margin-bottom: 6px;
+        }
+        .time-slots {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            font-size: 10px;
+        }
+        .time-slot {
+            padding: 3px 6px;
+            border-radius: 4px;
+            background: rgba(255,255,255,0.5);
+        }
+        .time-card.best .time-slot {
+            background: rgba(255,255,255,0.2);
+        }
+
+        /* 衰减预警列表 */
+        .decay-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .decay-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px 16px;
+            background: var(--gray-50);
+            border-radius: 10px;
+            border-left: 3px solid var(--warning);
+        }
+        .decay-icon {
+            font-size: 20px;
+        }
+        .decay-info { flex: 1; }
+        .decay-title {
+            font-weight: 600;
+            font-size: 14px;
+            color: var(--gray-800);
+            margin-bottom: 2px;
+        }
+        .decay-reason {
+            font-size: 12px;
+            color: var(--gray-600);
+        }
+        .decay-days {
+            font-size: 12px;
+            color: var(--warning);
+            font-weight: 600;
+        }
+
+        /* 迷你趋势线 */
+        .mini-trend {
+            width: 60px;
+            height: 24px;
+            display: flex;
+            align-items: flex-end;
+            gap: 2px;
+        }
+        .mini-bar {
+            flex: 1;
+            background: var(--primary);
+            border-radius: 2px 2px 0 0;
+            opacity: 0.7;
+        }
+        .mini-bar.last { opacity: 1; }
+
+        /* 平台图标 */
+        .platform-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+        .platform-badge.weibo { background: #FFE4E1; color: #E6162D; }
+        .platform-badge.douyin { background: #E9F5FF; color: #161823; }
+        .platform-badge.xiaohongshu { background: #FFE4E4; color: #FF2442; }
+        .platform-badge.bilibili { background: #E9F5FF; color: #00A1D6; }
+
+        /* 标签页 */
+        .tabs {
+            display: flex;
+            gap: 8px;
+            padding: 4px;
+            background: var(--gray-100);
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        .tab {
+            flex: 1;
+            padding: 10px 16px;
+            text-align: center;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--gray-600);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .tab:hover { color: var(--gray-800); }
+        .tab.active {
+            background: white;
+            color: var(--primary);
+            box-shadow: var(--shadow);
+        }
+
+        /* 全宽布局 */
+        .full-width { grid-column: 1 / -1; }
+
+        /* 两列布局 */
+        .two-col {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px;
+        }
+        @media (max-width: 900px) {
+            .two-col { grid-template-columns: 1fr; }
+        }
+
+        /* 响应式 */
+        @media (max-width: 768px) {
+            .nav-tabs { display: none; }
+            .page-header { padding: 24px; }
+            .page-header h1 { font-size: 22px; }
+            .main-container { padding: 16px; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+
+        /* 动画 */
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-in {
+            animation: fadeInUp 0.4s ease-out forwards;
+        }
+        .delay-1 { animation-delay: 0.1s; }
+        .delay-2 { animation-delay: 0.2s; }
+        .delay-3 { animation-delay: 0.3s; }
+        .delay-4 { animation-delay: 0.4s; }
+    </style>
+</head>
+<body>
+    <!-- 加载动画 -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">正在加载趋势预测数据...</div>
+    </div>
+
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <span>📊</span>
+                <span>特赞内容运营平台</span>
+            </div>
+            <div class="nav-tabs">
+                <a href="index.html" class="nav-tab">🏠 首页</a>
+                <a href="dashboard.html" class="nav-tab">📊 数据看板</a>
+                <a href="hot_topics.html" class="nav-tab">🔥 热点追踪</a>
+                <a href="trend_prediction.html" class="nav-tab active">📈 趋势预测</a>
+                <a href="low_fan_hits.html" class="nav-tab">⭐ 低粉爆款</a>
+                <a href="script_generator.html" class="nav-tab">✍️ 脚本生成</a>
+                <a href="sku_library.html" class="nav-tab">📦 SKU库</a>
+                <a href="platform.html" class="nav-tab">🔧 平台配置</a>
+                <a href="client_center.html" class="nav-tab">👥 客户中心</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 主容器 -->
+    <main class="main-container">
+        <!-- 页面标题 -->
+        <div class="page-header">
+            <h1>📈 热点趋势预测</h1>
+            <p>基于历史数据和机器学习模型，预测热点发展趋势</p>
+            <div class="update-time">🕐 最后更新：<span id="updateTime">-</span></div>
+        </div>
+
+        <!-- 统计卡片 -->
+        <div class="stats-grid">
+            <div class="stat-card purple">
+                <div class="stat-icon">🚀</div>
+                <div class="stat-label">预测爆发热点</div>
+                <div class="stat-value" id="explosionCount">-</div>
+                <div class="stat-change up" id="explosionChange">↑ 实时预测</div>
+            </div>
+            <div class="stat-card green">
+                <div class="stat-icon">⏰</div>
+                <div class="stat-label">最佳发布时间</div>
+                <div class="stat-value" style="font-size: 20px;" id="bestTime">-</div>
+                <div class="stat-change neutral" id="bestTimeDesc">今日推荐</div>
+            </div>
+            <div class="stat-card orange">
+                <div class="stat-icon">⚠️</div>
+                <div class="stat-label">热度衰减预警</div>
+                <div class="stat-value" id="decayCount">-</div>
+                <div class="stat-change down" id="decayChange">需要关注</div>
+            </div>
+            <div class="stat-card blue">
+                <div class="stat-icon">🎯</div>
+                <div class="stat-label">预测准确率</div>
+                <div class="stat-value">87.3%</div>
+                <div class="stat-change up">↑ +2.1%</div>
+            </div>
+        </div>
+
+        <!-- 主要内容区域 -->
+        <div class="content-grid">
+            <!-- 趋势预测图 -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">
+                        <span>📈</span>
+                        7天趋势预测
+                    </div>
+                    <div class="chart-legend">
+                        <div class="legend-item">
+                            <div class="legend-dot actual"></div>
+                            <span>实际数据</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-dot predicted"></div>
+                            <span>预测数据</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-dot confidence"></div>
+                            <span>置信区间</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="trend-chart-container">
+                        <div class="chart-title">
+                            热度指数趋势
+                            <select id="topicSelector" style="margin-left: auto; padding: 6px 12px; border-radius: 6px; border: 1px solid var(--gray-200); font-size: 13px;">
+                                <option value="">选择热点话题...</option>
+                            </select>
+                        </div>
+                        
+                        <!-- CSS 折线图 -->
+                        <div class="line-chart" id="lineChart">
+                            <div class="chart-grid">
+                                <div class="grid-line" data-value="100%"></div>
+                                <div class="grid-line" data-value="80%"></div>
+                                <div class="grid-line" data-value="60%"></div>
+                                <div class="grid-line" data-value="40%"></div>
+                                <div class="grid-line" data-value="20%"></div>
+                                <div class="grid-line" data-value="0%"></div>
+                            </div>
+                            <svg class="chart-lines" viewBox="0 0 700 280" preserveAspectRatio="none" id="chartSvg">
+                                <!-- 置信区间 -->
+                                <path class="line-confidence-up" id="confidenceUp"></path>
+                                <path class="line-confidence-down" id="confidenceDown"></path>
+                                <!-- 预测线 -->
+                                <path class="line-predicted" id="predictedLine"></path>
+                                <!-- 实际线 -->
+                                <path class="line-actual" id="actualLine"></path>
+                            </svg>
+                            <div class="chart-x-axis" id="xAxis"></div>
+                        </div>
+
+                        <!-- 预测指标 -->
+                        <div class="prediction-info">
+                            <div class="prediction-item">
+                                <div class="prediction-label">预测峰值</div>
+                                <div class="prediction-value up" id="peakValue">-</div>
+                            </div>
+                            <div class="prediction-item">
+                                <div class="prediction-label">预测增长</div>
+                                <div class="prediction-value up" id="growthRate">-</div>
+                            </div>
+                            <div class="prediction-item">
+                                <div class="prediction-label">热度峰值日</div>
+                                <div class="prediction-value" id="peakDay">-</div>
+                            </div>
+                        </div>
+
+                        <!-- 算法说明 -->
+                        <div class="algorithm-panel">
+                            <div class="algorithm-title">
+                                <span>🧠</span> 预测算法说明
+                            </div>
+                            <div class="algorithm-formula">
+                                TrendScore = α·HistoricalTrend + β·SocialSignals + γ·EventBoost + δ·SeasonalFactor + ε·CompetitiveIndex
+                            </div>
+                            <div class="algorithm-factors">
+                                <span class="factor-tag">📊 历史趋势 25%</span>
+                                <span class="factor-tag">🔥 社交信号 30%</span>
+                                <span class="factor-tag">📅 事件推动 20%</span>
+                                <span class="factor-tag">🌸 季节因素 15%</span>
+                                <span class="factor-tag">📈 竞争指数 10%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 右侧边栏 -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">
+                        <span>🚀</span> 即将爆发热点
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="trend-list" id="explosionList">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 第二行 -->
+        <div class="two-col">
+            <!-- 热度衰减预警 -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">
+                        <span>⚠️</span> 热度衰减预警
+                    </div>
+                    <span class="trend-tag warning" id="decayAlert">需立即行动</span>
+                </div>
+                <div class="card-body">
+                    <div class="decay-list" id="decayList">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- 最佳发布时间 -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">
+                        <span>⏰</span> 最佳发布时间推荐
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="time-grid" id="timeGrid">
+                        <!-- 动态生成 -->
+                    </div>
+                    <div style="margin-top: 16px; padding: 12px; background: var(--primary-50); border-radius: 8px;">
+                        <div style="font-size: 13px; font-weight: 600; color: var(--primary); margin-bottom: 8px;">
+                            💡 发布技巧
+                        </div>
+                        <div style="font-size: 12px; color: var(--gray-700); line-height: 1.6;">
+                            <strong>工作日：</strong>早7-9点、午12-14点、晚18-22点<br>
+                            <strong>周末：</strong>早10-12点、下午14-17点<br>
+                            <strong>避峰：</strong>周三下午流量最低
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 热点趋势详情 -->
+        <div class="card" style="margin-top: 24px;">
+            <div class="card-header">
+                <div class="card-title">
+                    <span>🔥</span> 全量热点趋势分析
+                </div>
+                <div class="tabs" id="trendTabs">
+                    <div class="tab active" data-type="all">全部</div>
+                    <div class="tab" data-type="tech">科技</div>
+                    <div class="tab" data-type="beauty">美妆</div>
+                    <div class="tab" data-type="fitness">健身</div>
+                    <div class="tab" data-type="food">美食</div>
+                    <div class="tab" data-type="travel">旅游</div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="trend-list" id="allTrendList">
+                    <!-- 动态生成 -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // 全局数据
+        let hotTopicsData = [];
+        let selectedTopic = null;
+        let predictionModel = null;
+
+        // 解析热度数值
+        function parseHeat(heatStr) {
+            if (!heatStr) return 0;
+            const match = heatStr.match(/([\d.]+)(亿|万)?/);
+            if (!match) return 0;
+            let value = parseFloat(match[1]);
+            if (heatStr.includes('亿')) value *= 10000;
+            return value;
+        }
+
+        // 生成7天趋势数据
+        function generateTrendData(baseHeat) {
+            const days = ['周一', '周二', '周三', '周四', '周五', '周六', '周日'];
+            const today = new Date().getDay();
+            const adjustedDays = [...days.slice(today), ...days.slice(0, today)];
+            
+            // 模拟实际数据（前几天）+ 预测数据（后几天）
+            const actual = [];
+            const predicted = [];
+            const confidenceUp = [];
+            const confidenceDown = [];
+            
+            for (let i = 0; i < 7; i++) {
+                const variance = (Math.random() - 0.5) * 0.2;
+                const trend = 1 + (i - 3) * 0.1; // 上升趋势
+                const value = baseHeat * trend * (1 + variance);
+                
+                if (i < 4) {
+                    actual.push(Math.min(100, Math.max(0, value)));
+                } else {
+                    predicted.push(Math.min(100, Math.max(0, value)));
+                    // 置信区间
+                    confidenceUp.push(Math.min(100, value * 1.15));
+                    confidenceDown.push(Math.max(0, value * 0.85));
+                }
+            }
+            
+            return { days: adjustedDays, actual, predicted, confidenceUp, confidenceDown };
+        }
+
+        // 绘制折线图
+        function drawChart(data) {
+            const svg = document.getElementById('chartSvg');
+            const xAxis = document.getElementById('xAxis');
+            
+            // 清空
+            document.getElementById('actualLine').setAttribute('d', '');
+            document.getElementById('predictedLine').setAttribute('d', '');
+            document.getElementById('confidenceUp').setAttribute('d', '');
+            document.getElementById('confidenceDown').setAttribute('d', '');
+            xAxis.innerHTML = '';
+            
+            if (!data) return;
+            
+            const width = 700;
+            const height = 280;
+            const padding = { top: 20, bottom: 20, left: 0, right: 20 };
+            const chartWidth = width - padding.left - padding.right;
+            const chartHeight = height - padding.top - padding.bottom;
+            
+            // 绘制X轴标签
+            data.days.forEach(day => {
+                const label = document.createElement('div');
+                label.className = 'x-label';
+                label.textContent = day;
+                xAxis.appendChild(label);
+            });
+            
+            // 生成SVG路径
+            let actualPath = '';
+            let predictedPath = '';
+            
+            const step = chartWidth / 6;
+            
+            // 实际数据路径
+            data.actual.forEach((val, i) => {
+                const x = padding.left + i * step;
+                const y = padding.top + chartHeight - (val / 100 * chartHeight);
+                if (i === 0) actualPath = `M ${x} ${y}`;
+                else actualPath += ` L ${x} ${y}`;
+            });
+            
+            // 预测数据路径
+            if (data.predicted.length > 0) {
+                const lastActual = data.actual[data.actual.length - 1];
+                const startX = padding.left + data.actual.length * step - step;
+                const startY = padding.top + chartHeight - (lastActual / 100 * chartHeight);
+                predictedPath = `M ${startX} ${startY}`;
+                
+                data.predicted.forEach((val, i) => {
+                    const x = padding.left + (data.actual.length + i) * step;
+                    const y = padding.top + chartHeight - (val / 100 * chartHeight);
+                    predictedPath += ` L ${x} ${y}`;
+                });
+                
+                // 置信区间
+                let confidenceUpPath = predictedPath;
+                let confidenceDownPath = `M ${startX} ${padding.top + chartHeight - (lastActual * 0.85 / 100 * chartHeight)}`;
+                
+                data.confidenceUp.forEach((val, i) => {
+                    const x = padding.left + (data.actual.length + i) * step;
+                    const y = padding.top + chartHeight - (val / 100 * chartHeight);
+                    confidenceUpPath += ` L ${x} ${y}`;
+                });
+                
+                data.confidenceDown.forEach((val, i) => {
+                    const x = padding.left + (data.actual.length + i) * step;
+                    const y = padding.top + chartHeight - (val / 100 * chartHeight);
+                    confidenceDownPath += ` L ${x} ${y}`;
+                });
+                
+                // 闭合置信区间
+                const lastDown = data.confidenceDown[data.confidenceDown.length - 1];
+                const lastX = padding.left + 6 * step;
+                confidenceDownPath += ` L ${lastX} ${padding.top + chartHeight - (lastDown / 100 * chartHeight)}`;
+                
+                // 反向闭合
+                data.confidenceUp.slice().reverse().forEach((val, i) => {
+                    const idx = data.confidenceUp.length - 1 - i;
+                    const x = padding.left + (data.actual.length + idx) * step;
+                    const y = padding.top + chartHeight - (val / 100 * chartHeight);
+                    confidenceDownPath += ` L ${x} ${y}`;
+                });
+                
+                confidenceDownPath += ' Z';
+                
+                document.getElementById('confidenceDown').setAttribute('d', confidenceDownPath);
+            }
+            
+            document.getElementById('actualLine').setAttribute('d', actualPath);
+            document.getElementById('predictedLine').setAttribute('d', predictedPath);
+        }
+
+        // 初始化话题选择器
+        function initTopicSelector() {
+            const selector = document.getElementById('topicSelector');
+            hotTopicsData.forEach(topic => {
+                const option = document.createElement('option');
+                option.value = topic.title;
+                option.textContent = `${topic.title} (${topic.platform})`;
+                selector.appendChild(option);
+            });
+            
+            selector.addEventListener('change', (e) => {
+                selectedTopic = hotTopicsData.find(t => t.title === e.target.value);
+                if (selectedTopic) {
+                    updateChart();
+                }
+            });
+            
+            // 默认选择第一个
+            if (hotTopicsData.length > 0) {
+                selector.value = hotTopicsData[0].title;
+                selectedTopic = hotTopicsData[0];
+                updateChart();
+            }
+        }
+
+        // 更新图表
+        function updateChart() {
+            if (!selectedTopic) return;
+            
+            const heat = parseHeat(selectedTopic.heat);
+            const baseHeat = Math.min(100, heat / 400); // 归一化
+            const trendData = generateTrendData(baseHeat);
+            drawChart(trendData);
+            
+            // 更新预测指标
+            const maxVal = Math.max(...trendData.predicted, ...trendData.actual);
+            const lastVal = trendData.actual[trendData.actual.length - 1] || 0;
+            const growth = ((maxVal - lastVal) / lastVal * 100).toFixed(1);
+            
+            document.getElementById('peakValue').textContent = maxVal.toFixed(1) + '%';
+            document.getElementById('growthRate').textContent = '+' + growth + '%';
+            document.getElementById('peakDay').textContent = trendData.days[trendData.actual.length + trendData.predicted.indexOf(maxVal)] || '-';
+        }
+
+        // 计算预测爆发热点
+        function calculateExplosionTopics() {
+            return hotTopicsData
+                .filter(t => t.trend.includes('爆发'))
+                .sort((a, b) => parseHeat(b.heat) - parseHeat(a.heat))
+                .slice(0, 6);
+        }
+
+        // 计算衰减热点
+        function calculateDecayTopics() {
+            // 模拟：稳定上升的热点在持续一段时间后会衰减
+            return hotTopicsData
+                .filter(t => t.trend.includes('稳定') && parseHeat(t.heat) > 500)
+                .sort((a, b) => parseHeat(b.heat) - parseHeat(a.heat))
+                .slice(0, 5)
+                .map(t => ({
+                    ...t,
+                    daysLeft: Math.floor(Math.random() * 5) + 2,
+                    reason: '热度周期进入衰减期'
+                }));
+        }
+
+        // 获取最佳发布时间
+        function getBestPublishTimes() {
+            const today = new Date();
+            const dayOfWeek = today.getDay();
+            
+            const weekDays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+            const times = [];
+            
+            for (let i = 0; i < 7; i++) {
+                const dayIndex = (dayOfWeek + i) % 7;
+                let status = 'normal';
+                let slots = [];
+                
+                // 根据星期几设置最佳时间
+                if (dayIndex === 0 || dayIndex === 6) {
+                    // 周末
+                    status = i === 0 ? 'best' : (i === 1 ? 'good' : 'normal');
+                    slots = ['10:00', '14:00', '17:00'];
+                } else if (dayIndex >= 1 && dayIndex <= 5) {
+                    // 工作日
+                    if (dayIndex === 1 || dayIndex === 5) {
+                        status = i === 0 ? 'good' : 'normal';
+                    } else if (dayIndex === 3) {
+                        status = 'warning'; // 周三下午流量低
+                    }
+                    slots = ['08:00', '12:00', '19:00'];
+                }
+                
+                times.push({
+                    day: weekDays[dayIndex],
+                    status: status,
+                    slots: slots
+                });
+            }
+            
+            return times;
+        }
+
+        // 渲染爆发热点列表
+        function renderExplosionList() {
+            const container = document.getElementById('explosionList');
+            const topics = calculateExplosionTopics();
+            
+            document.getElementById('explosionCount').textContent = topics.length;
+            
+            container.innerHTML = topics.map((topic, i) => `
+                <div class="trend-item" onclick="selectTopic('${topic.title}')">
+                    <div class="trend-rank ${i < 3 ? 'top3' : ''}">${i + 1}</div>
+                    <div class="trend-info">
+                        <div class="trend-title">${topic.title}</div>
+                        <div class="trend-meta">
+                            <span class="platform-badge ${getPlatformClass(topic.platform)}">${topic.platform}</span>
+                            <span>${topic.type}</span>
+                        </div>
+                    </div>
+                    <div class="trend-heat">
+                        <div class="heat-value">${topic.heat}</div>
+                        <div class="heat-change">🔥 即将爆发</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 渲染衰减列表
+        function renderDecayList() {
+            const container = document.getElementById('decayList');
+            const topics = calculateDecayTopics();
+            
+            document.getElementById('decayCount').textContent = topics.length;
+            
+            container.innerHTML = topics.map(topic => `
+                <div class="decay-item">
+                    <div class="decay-icon">⚠️</div>
+                    <div class="decay-info">
+                        <div class="decay-title">${topic.title}</div>
+                        <div class="decay-reason">${topic.reason}</div>
+                    </div>
+                    <div class="decay-days">剩${topic.daysLeft}天</div>
+                </div>
+            `).join('');
+        }
+
+        // 渲染时间推荐
+        function renderTimeGrid() {
+            const container = document.getElementById('timeGrid');
+            const times = getBestPublishTimes();
+            
+            container.innerHTML = times.map(t => `
+                <div class="time-card ${t.status}">
+                    <div class="time-day">${t.day}</div>
+                    <div class="time-slots">
+                        ${t.slots.map(slot => `<div class="time-slot">${slot}</div>`).join('')}
+                    </div>
+                </div>
+            `).join('');
+            
+            // 更新最佳时间显示
+            const bestToday = times.find(t => t.status === 'best');
+            if (bestToday) {
+                document.getElementById('bestTime').textContent = bestToday.slots[0];
+                document.getElementById('bestTimeDesc').textContent = `${bestToday.day} ${bestToday.slots[0]}`;
+            }
+        }
+
+        // 渲染全部热点列表
+        function renderAllTrends(type = 'all') {
+            const container = document.getElementById('allTrendList');
+            let topics = [...hotTopicsData];
+            
+            // 类型过滤
+            if (type !== 'all') {
+                const typeMap = {
+                    'tech': '科技',
+                    'beauty': '美妆',
+                    'fitness': '健身',
+                    'food': '美食',
+                    'travel': '旅游'
+                };
+                topics = topics.filter(t => t.type === typeMap[type]);
+            }
+            
+            // 按热度排序
+            topics.sort((a, b) => parseHeat(b.heat) - parseHeat(a.heat));
+            
+            container.innerHTML = topics.slice(0, 10).map((topic, i) => {
+                const heat = parseHeat(topic.heat);
+                const maxHeat = parseHeat(hotTopicsData[0].heat);
+                const percentage = (heat / maxHeat * 100).toFixed(0);
+                const trendData = generateTrendData(percentage / 100);
+                
+                return `
+                    <div class="trend-item" onclick="selectTopic('${topic.title}')">
+                        <div class="trend-rank">${i + 1}</div>
+                        <div class="trend-info">
+                            <div class="trend-title">${topic.title}</div>
+                            <div class="trend-meta">
+                                <span class="platform-badge ${getPlatformClass(topic.platform)}">${topic.platform}</span>
+                                <span class="trend-tag platform">${topic.type}</span>
+                                <span class="trend-tag ${topic.trend.includes('爆发') ? 'hot' : ''}">${topic.trend.replace(/[🔥]/g, '').trim()}</span>
+                            </div>
+                        </div>
+                        <div class="mini-trend">
+                            ${trendData.actual.slice(-5).map((val, idx) => `
+                                <div class="mini-bar ${idx === 4 ? 'last' : ''}" style="height: ${val}%;"></div>
+                            `).join('')}
+                        </div>
+                        <div class="trend-heat">
+                            <div class="heat-value">${topic.heat}</div>
+                            <div class="heat-change">${topic.aud.split('、')[0]}</div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // 平台样式
+        function getPlatformClass(platform) {
+            const map = {
+                '微博': 'weibo',
+                '抖音': 'douyin',
+                '小红书': 'xiaohongshu',
+                'B站': 'bilibili'
+            };
+            return map[platform] || 'weibo';
+        }
+
+        // 选择话题
+        function selectTopic(title) {
+            const selector = document.getElementById('topicSelector');
+            selector.value = title;
+            selectedTopic = hotTopicsData.find(t => t.title === title);
+            if (selectedTopic) {
+                updateChart();
+                // 滚动到图表区域
+                document.querySelector('.trend-chart-container').scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+
+        // 初始化标签页
+        function initTabs() {
+            const tabs = document.querySelectorAll('.tab');
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    tabs.forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    renderAllTrends(tab.dataset.type);
+                });
+            });
+        }
+
+        // 更新显示时间
+        function updateDisplayTime() {
+            const now = new Date();
+            const timeStr = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')} ${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')}`;
+            document.getElementById('updateTime').textContent = timeStr;
+        }
+
+        // 主初始化函数
+        async function init() {
+            try {
+                // 加载数据
+                const response = await fetch('hot_topics.json');
+                hotTopicsData = await response.json();
+                
+                // 初始化各个组件
+                initTopicSelector();
+                initTabs();
+                renderExplosionList();
+                renderDecayList();
+                renderTimeGrid();
+                renderAllTrends();
+                updateDisplayTime();
+                
+                // 隐藏加载动画
+                document.getElementById('loadingOverlay').classList.add('hidden');
+                
+                // 定时更新
+                setInterval(updateDisplayTime, 60000);
+                
+            } catch (error) {
+                console.error('初始化失败:', error);
+                document.getElementById('loadingOverlay').innerHTML = `
+                    <div style="text-align: center; color: var(--error);">
+                        <div style="font-size: 48px; margin-bottom: 16px;">❌</div>
+                        <div>数据加载失败</div>
+                        <div style="font-size: 12px; color: var(--gray-600); margin-top: 8px;">${error.message}</div>
+                    </div>
+                `;
+            }
+        }
+
+        // 页面加载完成后初始化
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
