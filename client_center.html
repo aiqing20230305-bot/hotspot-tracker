@@ -223,6 +223,306 @@
             margin: 0 auto 16px;
         }
         @keyframes spin { to { transform: rotate(360deg); } }
+        
+        /* 导出按钮样式 */
+        .export-section {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .export-btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 14px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .export-btn.csv {
+            background: linear-gradient(135deg, #10B981, #059669);
+            color: white;
+        }
+        .export-btn.excel {
+            background: linear-gradient(135deg, #22C55E, #16A34A);
+            color: white;
+        }
+        .export-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        .export-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        .export-btn .spinner {
+            width: 16px;
+            height: 16px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-top-color: white;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        
+        /* 导出进度提示 */
+        .export-toast {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            background: white;
+            padding: 16px 24px;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            z-index: 2000;
+            transform: translateY(100px);
+            opacity: 0;
+            transition: all 0.3s ease;
+        }
+        .export-toast.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+        .export-toast.success {
+            border-left: 4px solid #10B981;
+        }
+        .export-toast.error {
+            border-left: 4px solid #EF4444;
+        }
+        .export-toast .icon {
+            font-size: 20px;
+        }
+        .export-toast .message {
+            font-weight: 500;
+        }
+        .export-toast .progress-bar {
+            width: 100px;
+            height: 4px;
+            background: var(--gray-200);
+            border-radius: 2px;
+            overflow: hidden;
+        }
+        .export-toast .progress-fill {
+            height: 100%;
+            background: var(--primary);
+            width: 0%;
+            transition: width 0.3s;
+        }
+        
+        /* ========== 搜索和筛选功能 ========== */
+        .search-filter-section {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 24px;
+            margin-bottom: 24px;
+        }
+        
+        /* 搜索框 */
+        .search-box {
+            position: relative;
+            margin-bottom: 20px;
+        }
+        .search-input {
+            width: 100%;
+            padding: 14px 50px 14px 50px;
+            border: 2px solid var(--gray-200);
+            border-radius: 10px;
+            font-size: 15px;
+            transition: all 0.2s;
+            background: var(--gray-50);
+        }
+        .search-input:focus {
+            outline: none;
+            border-color: var(--primary);
+            background: white;
+            box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.1);
+        }
+        .search-icon {
+            position: absolute;
+            left: 18px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 18px;
+            opacity: 0.5;
+        }
+        .search-clear {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: var(--gray-200);
+            border: none;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 14px;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            color: var(--gray-600);
+        }
+        .search-clear:hover { background: var(--gray-300); }
+        .search-clear.visible { display: flex; }
+        
+        /* 筛选器行 */
+        .filter-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 16px;
+        }
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .filter-label {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--gray-600);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .filter-select {
+            padding: 10px 14px;
+            border: 2px solid var(--gray-200);
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            background: white;
+            transition: all 0.2s;
+        }
+        .filter-select:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        
+        /* 平台标签筛选 */
+        .platform-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid var(--gray-100);
+        }
+        .platform-tag {
+            padding: 8px 14px;
+            border: 2px solid var(--gray-200);
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 500;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .platform-tag:hover { border-color: var(--primary); }
+        .platform-tag.active { 
+            background: var(--primary); 
+            border-color: var(--primary);
+            color: white;
+        }
+        .platform-tag .count {
+            background: rgba(0,0,0,0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 11px;
+        }
+        .platform-tag.active .count {
+            background: rgba(255,255,255,0.2);
+        }
+        
+        /* 搜索结果统计 */
+        .search-stats {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+            padding: 12px 16px;
+            background: linear-gradient(135deg, var(--primary-light) 0%, var(--primary) 100%);
+            border-radius: 10px;
+            color: white;
+            font-weight: 500;
+            display: none;
+        }
+        .search-stats.visible { display: flex; }
+        .search-stats .result-count { font-size: 16px; }
+        .search-stats .total-count { opacity: 0.85; font-size: 14px; }
+        .clear-search {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        .clear-search:hover { background: rgba(255,255,255,0.3); }
+        
+        /* 空结果提示 */
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--gray-600);
+        }
+        .empty-state .emoji { font-size: 64px; margin-bottom: 16px; }
+        .empty-state h3 { font-size: 20px; margin-bottom: 8px; color: var(--gray-800); }
+        .empty-state p { font-size: 14px; }
+        
+        /* 高亮匹配 */
+        .highlight {
+            background: linear-gradient(120deg, #FEF3C7 0%, #FDE68A 100%);
+            padding: 0 2px;
+            border-radius: 2px;
+        }
+        
+        /* 选题数量筛选 */
+        .idea-count-filter {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid var(--gray-100);
+        }
+        .idea-count-label {
+            font-size: 12px;
+            color: var(--gray-600);
+            white-space: nowrap;
+        }
+        .idea-count-btns {
+            display: flex;
+            gap: 6px;
+        }
+        .idea-count-btn {
+            padding: 6px 12px;
+            border: 1px solid var(--gray-200);
+            background: white;
+            border-radius: 6px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .idea-count-btn:hover { border-color: var(--primary); }
+        .idea-count-btn.active {
+            background: var(--primary);
+            border-color: var(--primary);
+            color: white;
+        }
     </style>
 </head>
 <body>
@@ -277,11 +577,32 @@
             <button class="filter-btn" onclick="filterClients('low')">低优先级</button>
         </div>
         
+        <!-- 导出功能 -->
+        <div class="export-section">
+            <button class="export-btn csv" onclick="exportToCSV()" id="csvBtn">
+                <span>📊</span> 导出选题 CSV
+            </button>
+            <button class="export-btn excel" onclick="exportToExcel()" id="excelBtn">
+                <span>📗</span> 导出选题 Excel
+            </button>
+        </div>
+        
         <!-- 客户选题列表 -->
         <div id="clientList">
             <div class="loading">
                 <div class="loading-spinner"></div>
                 <div>正在加载选题数据...</div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 导出进度提示 -->
+    <div class="export-toast" id="exportToast">
+        <span class="icon">⏳</span>
+        <div>
+            <div class="message" id="toastMessage">正在导出...</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
             </div>
         </div>
     </div>
@@ -438,6 +759,270 @@
                         '<div class="loading">❌ 数据加载失败，请刷新页面重试</div>';
                 });
         });
+        
+        // ========== 导出功能 ==========
+        
+        /**
+         * 显示导出进度提示
+         */
+        function showToast(message, type = 'success') {
+            const toast = document.getElementById('exportToast');
+            const toastMessage = document.getElementById('toastMessage');
+            const progressFill = document.getElementById('progressFill');
+            const icon = toast.querySelector('.icon');
+            
+            toastMessage.textContent = message;
+            toast.className = 'export-toast ' + type;
+            
+            if (type === 'progress') {
+                icon.textContent = '⏳';
+                progressFill.style.width = '100%';
+                progressFill.style.animation = 'pulse 1s ease-in-out infinite';
+            } else if (type === 'success') {
+                icon.textContent = '✅';
+                progressFill.style.width = '100%';
+                progressFill.style.background = '#10B981';
+            } else {
+                icon.textContent = '❌';
+                progressFill.style.width = '100%';
+                progressFill.style.background = '#EF4444';
+            }
+            
+            toast.classList.add('show');
+            
+            return toast;
+        }
+        
+        /**
+         * 隐藏导出提示
+         */
+        function hideToast() {
+            const toast = document.getElementById('exportToast');
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 2000);
+        }
+        
+        /**
+         * 下载文件
+         */
+        function downloadFile(content, filename, mimeType) {
+            const blob = new Blob([content], { type: mimeType + ';charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+        
+        /**
+         * 转义CSV字段
+         */
+        function escapeCSVField(field) {
+            if (field === null || field === undefined) return '';
+            const str = String(field);
+            if (str.includes(',') || str.includes('"') || str.includes('\n')) {
+                return '"' + str.replace(/"/g, '""') + '"';
+            }
+            return str;
+        }
+        
+        /**
+         * 导出选题数据为CSV
+         */
+        function exportToCSV() {
+            if (allIdeas.length === 0) {
+                showToast('暂无选题数据可导出', 'error');
+                return;
+            }
+            
+            const csvBtn = document.getElementById('csvBtn');
+            csvBtn.disabled = true;
+            csvBtn.innerHTML = '<span class="spinner"></span> 导出中...';
+            
+            showToast('正在生成 CSV 文件...', 'progress');
+            
+            // 使用setTimeout让UI先更新
+            setTimeout(() => {
+                try {
+                    // CSV表头
+                    const headers = [
+                        '客户行业',
+                        '客户品牌',
+                        '优先级',
+                        '选题标题',
+                        '平台',
+                        '内容角度',
+                        '借势热点',
+                        '热度指数',
+                        '预估互动',
+                        '创建时间'
+                    ];
+                    
+                    // 生成CSV内容
+                    let csv = headers.join(',') + '\n';
+                    
+                    allIdeas.forEach(idea => {
+                        const row = [
+                            escapeCSVField(idea.client?.industry),
+                            escapeCSVField(idea.client?.brand),
+                            escapeCSVField(idea.client?.priority),
+                            escapeCSVField(idea.title),
+                            escapeCSVField(idea.platform),
+                            escapeCSVField(idea.angle),
+                            escapeCSVField(idea.hot_topic),
+                            escapeCSVField(idea.heat),
+                            escapeCSVField(idea.engagement_estimate),
+                            escapeCSVField(idea.created_at)
+                        ];
+                        csv += row.join(',') + '\n';
+                    });
+                    
+                    // 生成文件名
+                    const timestamp = new Date().toISOString().slice(0, 10);
+                    const filename = `客户选题_${timestamp}.csv`;
+                    
+                    downloadFile(csv, filename, 'text/csv');
+                    
+                    showToast(`✅ 成功导出 ${allIdeas.length} 条选题到 CSV`, 'success');
+                } catch (error) {
+                    console.error('CSV导出失败:', error);
+                    showToast('CSV导出失败: ' + error.message, 'error');
+                } finally {
+                    csvBtn.disabled = false;
+                    csvBtn.innerHTML = '<span>📊</span> 导出选题 CSV';
+                    hideToast();
+                }
+            }, 100);
+        }
+        
+        /**
+         * 导出选题数据为Excel (使用SheetJS规范兼容格式)
+         * 生成BOM + UTF-8编码的CSV，Excel可正常打开
+         */
+        function exportToExcel() {
+            if (allIdeas.length === 0) {
+                showToast('暂无选题数据可导出', 'error');
+                return;
+            }
+            
+            const excelBtn = document.getElementById('excelBtn');
+            excelBtn.disabled = true;
+            excelBtn.innerHTML = '<span class="spinner"></span> 导出中...';
+            
+            showToast('正在生成 Excel 文件...', 'progress');
+            
+            setTimeout(() => {
+                try {
+                    // Excel兼容的CSV格式 (带BOM)
+                    const BOM = '\uFEFF';
+                    
+                    // SheetJS规范的工作表数据
+                    // 1. 选题汇总表
+                    const summaryHeaders = [
+                        '客户行业',
+                        '客户品牌',
+                        '优先级',
+                        '选题标题',
+                        '平台',
+                        '内容角度',
+                        '借势热点',
+                        '热度指数',
+                        '预估互动',
+                        '创建时间'
+                    ];
+                    
+                    let summarySheet = summaryHeaders.join('\t') + '\n';
+                    allIdeas.forEach(idea => {
+                        const row = [
+                            idea.client?.industry || '',
+                            idea.client?.brand || '',
+                            idea.client?.priority || '',
+                            idea.title || '',
+                            idea.platform || '',
+                            idea.angle || '',
+                            idea.hot_topic || '',
+                            idea.heat || '',
+                            idea.engagement_estimate || '',
+                            idea.created_at || ''
+                        ];
+                        summarySheet += row.join('\t') + '\n';
+                    });
+                    
+                    // 2. 按客户分组的工作表数据
+                    let clientSheets = '';
+                    const clientGroups = {};
+                    
+                    allIdeas.forEach(idea => {
+                        const key = idea.client?.brand || idea.client?.industry || 'Unknown';
+                        if (!clientGroups[key]) {
+                            clientGroups[key] = [];
+                        }
+                        clientGroups[key].push(idea);
+                    });
+                    
+                    Object.entries(clientGroups).forEach(([clientName, ideas]) => {
+                        clientSheets += `\n=== ${clientName} ===\n`;
+                        clientSheets += summaryHeaders.join('\t') + '\n';
+                        ideas.forEach(idea => {
+                            const row = [
+                                idea.client?.industry || '',
+                                idea.client?.brand || '',
+                                idea.client?.priority || '',
+                                idea.title || '',
+                                idea.platform || '',
+                                idea.angle || '',
+                                idea.hot_topic || '',
+                                idea.heat || '',
+                                idea.engagement_estimate || '',
+                                idea.created_at || ''
+                            ];
+                            clientSheets += row.join('\t') + '\n';
+                        });
+                    });
+                    
+                    // 3. 统计数据
+                    let statsSheet = '\n=== 统计概览 ===\n';
+                    statsSheet += '指标\t数值\n';
+                    statsSheet += `客户总数\t${Object.keys(clientGroups).length}\n`;
+                    statsSheet += `选题总数\t${allIdeas.length}\n`;
+                    statsSheet += `平台覆盖\t${new Set(allIdeas.map(i => i.platform)).size}\n`;
+                    statsSheet += `平均每客户选题\t${Math.round(allIdeas.length / Object.keys(clientGroups).length)}\n`;
+                    statsSheet += `导出时间\t${new Date().toLocaleString('zh-CN')}\n`;
+                    
+                    // 合并所有内容
+                    const fullContent = BOM + '【选题汇总】\n' + summarySheet + clientSheets + statsSheet;
+                    
+                    // 生成文件名 (.xls后缀让Excel自动识别)
+                    const timestamp = new Date().toISOString().slice(0, 10);
+                    const filename = `客户选题_${timestamp}.xls`;
+                    
+                    downloadFile(fullContent, filename, 'application/vnd.ms-excel');
+                    
+                    showToast(`✅ 成功导出 ${allIdeas.length} 条选题到 Excel`, 'success');
+                } catch (error) {
+                    console.error('Excel导出失败:', error);
+                    showToast('Excel导出失败: ' + error.message, 'error');
+                } finally {
+                    excelBtn.disabled = false;
+                    excelBtn.innerHTML = '<span>📗</span> 导出选题 Excel';
+                    hideToast();
+                }
+            }, 100);
+        }
+        
+        // 添加脉冲动画
+        const styleSheet = document.createElement('style');
+        styleSheet.textContent = `
+            @keyframes pulse {
+                0%, 100% { opacity: 1; }
+                50% { opacity: 0.5; }
+            }
+        `;
+        document.head.appendChild(styleSheet);
     </script>
 </body>
 </html>
