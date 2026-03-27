@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>热点实时监控警报系统</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --card-hover: #1c2128;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --accent2: #1f6feb;
+      --green: #3fb950;
+      --red: #f85149;
+      --orange: #d29922;
+      --purple: #bc8cff;
+      --cyan: #39d0d8;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ─── Navigation ─── */
+    .nav {
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-inner {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      height: 56px;
+      gap: 0;
+    }
+    .nav-brand {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--accent);
+      margin-right: 32px;
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .nav-brand .dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+      animation: pulse-dot 2s infinite;
+    }
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.3); }
+    }
+    .nav-links {
+      display: flex;
+      list-style: none;
+      gap: 2px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .nav-links::-webkit-scrollbar { display: none; }
+    .nav-links a {
+      display: block;
+      padding: 8px 14px;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 13px;
+      border-radius: 6px;
+      white-space: nowrap;
+      transition: all 0.15s;
+    }
+    .nav-links a:hover {
+      color: var(--text);
+      background: rgba(255,255,255,0.06);
+    }
+    .nav-links a.active {
+      color: var(--accent);
+      background: rgba(88,166,255,0.1);
+    }
+    .live-badge {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: var(--green);
+      background: rgba(63,185,80,0.12);
+      border: 1px solid rgba(63,185,80,0.25);
+      padding: 5px 12px;
+      border-radius: 20px;
+    }
+    .live-badge .live-dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--green);
+      animation: pulse-dot 1.5s infinite;
+    }
+
+    /* ─── Main Layout ─── */
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .page-header {
+      margin-bottom: 24px;
+    }
+    .page-title {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+    .page-subtitle {
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    /* ─── Grid Layout ─── */
+    .dashboard-grid {
+      display: grid;
+      grid-template-columns: 1fr 340px;
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    /* ─── Cards ─── */
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+    .card-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .card-title .icon {
+      font-size: 16px;
+    }
+    .card-body {
+      padding: 16px 20px;
+    }
+
+    /* ─── Stats Row ─── */
+    .stats-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .stat-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px 18px;
+    }
+    .stat-label {
+      font-size: 11px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+    .stat-value {
+      font-size: 26px;
+      font-weight: 700;
+    }
+    .stat-change {
+      font-size: 11px;
+      margin-top: 4px;
+    }
+    .stat-change.up { color: var(--green); }
+    .stat-change.down { color: var(--red); }
+    .stat-change.neutral { color: var(--text-muted); }
+
+    /* ─── Hotspot List ─── */
+    .hotspot-item {
+      display: flex;
+      align-items: center;
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(48,54,61,0.5);
+      gap: 12px;
+    }
+    .hotspot-item:last-child { border-bottom: none; }
+    .rank-badge {
+      width: 28px; height: 28px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+    .rank-1 { background: rgba(255,215,0,0.15); color: #ffd700; }
+    .rank-2 { background: rgba(192,192,192,0.15); color: #c0c0c0; }
+    .rank-3 { background: rgba(205,127,50,0.15); color: #cd7f32; }
+    .rank-normal { background: rgba(255,255,255,0.05); color: var(--text-muted); }
+
+    .hotspot-info { flex: 1; min-width: 0; }
+    .hotspot-name {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .hotspot-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 3px;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+    .platform-tag {
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 10px;
+      background: rgba(88,166,255,0.1);
+      color: var(--accent);
+    }
+    .tag-competitor {
+      background: rgba(248,81,73,0.1);
+      color: var(--red);
+    }
+
+    .hotspot-score {
+      text-align: right;
+      flex-shrink: 0;
+    }
+    .score-value {
+      font-size: 16px;
+      font-weight: 700;
+    }
+    .score-value.high { color: var(--red); }
+    .score-value.medium { color: var(--orange); }
+    .score-value.low { color: var(--green); }
+
+    .trend-arrow {
+      font-size: 16px;
+      width: 24px;
+      text-align: center;
+      flex-shrink: 0;
+    }
+    .trend-up { color: var(--green); }
+    .trend-down { color: var(--red); }
+    .trend-stable { color: var(--text-muted); }
+
+    .alert-indicator {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .alert-on { background: var(--red); box-shadow: 0 0 8px var(--red); animation: alert-pulse 1.5s infinite; }
+    .alert-off { background: var(--border); }
+    @keyframes alert-pulse {
+      0%, 100% { opacity: 1; box-shadow: 0 0 4px var(--red); }
+      50% { opacity: 0.6; box-shadow: 0 0 12px var(--red); }
+    }
+
+    /* ─── Threshold Slider ─── */
+    .threshold-section {
+      margin-bottom: 16px;
+    }
+    .threshold-label {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+    }
+    .threshold-value {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    input[type="range"] {
+      width: 100%;
+      height: 4px;
+      border-radius: 2px;
+      background: var(--border);
+      outline: none;
+      -webkit-appearance: none;
+    }
+    input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 16px; height: 16px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+      border: 2px solid var(--bg);
+    }
+
+    /* ─── Toggle Switches ─── */
+    .toggle-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 0;
+      border-bottom: 1px solid rgba(48,54,61,0.4);
+    }
+    .toggle-item:last-child { border-bottom: none; }
+    .toggle-text { font-size: 13px; }
+    .toggle-desc { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+    .toggle-switch {
+      position: relative;
+      width: 40px; height: 22px;
+      flex-shrink: 0;
+    }
+    .toggle-switch input { opacity: 0; width: 0; height: 0; }
+    .toggle-slider {
+      position: absolute;
+      inset: 0;
+      background: var(--border);
+      border-radius: 11px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+    .toggle-slider::before {
+      content: '';
+      position: absolute;
+      width: 16px; height: 16px;
+      left: 3px; top: 3px;
+      background: white;
+      border-radius: 50%;
+      transition: 0.2s;
+    }
+    .toggle-switch input:checked + .toggle-slider { background: var(--accent2); }
+    .toggle-switch input:checked + .toggle-slider::before { transform: translateX(18px); }
+
+    /* ─── Alert History Table ─── */
+    .table-wrap { overflow-x: auto; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px;
+    }
+    thead th {
+      text-align: left;
+      padding: 10px 12px;
+      color: var(--text-muted);
+      font-weight: 600;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      border-bottom: 1px solid var(--border);
+    }
+    tbody td {
+      padding: 10px 12px;
+      border-bottom: 1px solid rgba(48,54,61,0.4);
+      color: var(--text);
+    }
+    tbody tr:last-child td { border-bottom: none; }
+    tbody tr:hover td { background: rgba(255,255,255,0.02); }
+
+    .alert-type-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 10px;
+      font-weight: 600;
+    }
+    .badge-threshold { background: rgba(248,81,73,0.15); color: var(--red); }
+    .badge-new { background: rgba(88,166,255,0.15); color: var(--accent); }
+    .badge-competitor { background: rgba(210,153,34,0.15); color: var(--orange); }
+
+    .time-ago {
+      color: var(--text-muted);
+      font-size: 11px;
+    }
+
+    /* ─── Full-width section ─── */
+    .full-section {
+      margin-bottom: 20px;
+    }
+
+    /* ─── Alert Count Badge ─── */
+    .badge-count {
+      background: var(--red);
+      color: white;
+      border-radius: 10px;
+      padding: 1px 6px;
+      font-size: 10px;
+      font-weight: 700;
+    }
+
+    /* ─── Scrollbar ─── */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+    /* ─── Responsive ─── */
+    @media (max-width: 900px) {
+      .dashboard-grid { grid-template-columns: 1fr; }
+      .stats-row { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    /* ─── Entrance animations ─── */
+    .fade-in {
+      animation: fadeIn 0.4s ease forwards;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .stagger-1 { animation-delay: 0.05s; opacity: 0; }
+    .stagger-2 { animation-delay: 0.10s; opacity: 0; }
+    .stagger-3 { animation-delay: 0.15s; opacity: 0; }
+    .stagger-4 { animation-delay: 0.20s; opacity: 0; }
+
+    /* ─── Mini progress bar ─── */
+    .mini-bar {
+      height: 3px;
+      background: var(--border);
+      border-radius: 2px;
+      margin-top: 4px;
+      overflow: hidden;
+    }
+    .mini-bar-fill {
+      height: 100%;
+      border-radius: 2px;
+      transition: width 0.5s ease;
+    }
+    .fill-red { background: var(--red); }
+    .fill-orange { background: var(--orange); }
+    .fill-green { background: var(--green); }
+
+    /* ─── Update flash ─── */
+    @keyframes flash-update {
+      0% { background: rgba(88,166,255,0.08); }
+      100% { background: transparent; }
+    }
+    .flash-update {
+      animation: flash-update 1.5s ease;
+    }
+
+    /* ─── Competitor Item ─── */
+    .comp-item {
+      display: flex;
+      align-items: center;
+      padding: 10px 0;
+      border-bottom: 1px solid rgba(48,54,61,0.4);
+      gap: 12px;
+    }
+    .comp-item:last-child { border-bottom: none; }
+    .comp-name { flex: 1; font-size: 13px; font-weight: 500; }
+    .comp-score { font-size: 14px; font-weight: 700; color: var(--accent); }
+    .comp-count {
+      font-size: 10px;
+      padding: 2px 6px;
+      border-radius: 8px;
+      background: rgba(188,140,255,0.15);
+      color: var(--purple);
+    }
+  </style>
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="nav">
+  <div class="nav-inner">
+    <div class="nav-brand">
+      <div class="dot"></div>
+      HotSpot Tracker
+    </div>
+    <ul class="nav-links">
+      <li><a href="#">🔥 实时监控</a></li>
+      <li><a href="#">📊 数据面板</a></li>
+      <li><a href="#">📈 趋势分析</a></li>
+      <li><a href="#">🏆 排行榜</a></li>
+      <li><a href="#">🔍 关键词追踪</a></li>
+      <li><a href="#">📰 媒体监测</a></li>
+      <li><a href="#">⚔️ 竞品追踪</a></li>
+      <li><a href="hot_alerts.html" class="active">📧 警报中心</a></li>
+      <li><a href="#">⚙️ 设置</a></li>
+    </ul>
+    <div class="live-badge">
+      <div class="live-dot"></div>
+      LIVE · <span id="clock">--:--:--</span>
+    </div>
+  </div>
+</nav>
+
+<!-- Main -->
+<div class="container">
+
+  <!-- Page Header -->
+  <div class="page-header fade-in">
+    <div class="page-title">🔥 热点实时监控警报系统</div>
+    <div class="page-subtitle">全平台热点追踪 · 智能阈值警报 · 竞品动态监控</div>
+  </div>
+
+  <!-- Stats Row -->
+  <div class="stats-row">
+    <div class="stat-card fade-in stagger-1">
+      <div class="stat-label">监控中热点</div>
+      <div class="stat-value" style="color:var(--accent)" id="stat-total">15</div>
+      <div class="stat-change up">↑ 3 较昨日</div>
+    </div>
+    <div class="stat-card fade-in stagger-2">
+      <div class="stat-label">触发警报</div>
+      <div class="stat-value" style="color:var(--red)" id="stat-alerts">4</div>
+      <div class="stat-change up">↑ 2 新警报</div>
+    </div>
+    <div class="stat-card fade-in stagger-3">
+      <div class="stat-label">新上榜</div>
+      <div class="stat-value" style="color:var(--orange)" id="stat-new">2</div>
+      <div class="stat-change up">↑ 1 今日新晋</div>
+    </div>
+    <div class="stat-card fade-in stagger-4">
+      <div class="stat-label">竞品热度</div>
+      <div class="stat-value" style="color:var(--purple)" id="stat-comp">6</div>
+      <div class="stat-change neutral">≈ 持平</div>
+    </div>
+  </div>
+
+  <!-- Main Grid -->
+  <div class="dashboard-grid">
+
+    <!-- Left: Hotspot Monitor Panel -->
+    <div>
+      <div class="card fade-in stagger-1" id="hotspot-panel">
+        <div class="card-header">
+          <div class="card-title">
+            <span class="icon">🔥</span> 热点监控面板
+            <span class="badge-count" id="alert-count">4</span>
+          </div>
+          <select style="background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:6px;padding:4px 10px;font-size:12px;">
+            <option>全部平台</option>
+            <option>微博</option>
+            <option>抖音</option>
+            <option>微信</option>
+            <option>小红书</option>
+            <option>知乎</option>
+          </select>
+        </div>
+        <div class="card-body" id="hotspot-list">
+          <!-- Dynamically rendered -->
+        </div>
+      </div>
+
+      <!-- Alert History -->
+      <div class="card full-section fade-in stagger-2">
+        <div class="card-header">
+          <div class="card-title">
+            <span class="icon">📋</span> 警报历史记录
+          </div>
+          <span style="font-size:11px;color:var(--text-muted)">最近 20 条</span>
+        </div>
+        <div class="card-body">
+          <div class="table-wrap">
+            <table id="history-table">
+              <thead>
+                <tr>
+                  <th>时间</th>
+                  <th>热点话题</th>
+                  <th>警报类型</th>
+                  <th>热度值</th>
+                  <th>触发原因</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right: Settings Panel -->
+    <div>
+      <!-- Threshold Settings -->
+      <div class="card fade-in stagger-1" style="margin-bottom:16px;">
+        <div class="card-header">
+          <div class="card-title">
+            <span class="icon">⚡</span> 热度阈值设置
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="threshold-section">
+            <div class="threshold-label">
+              <span>触发阈值</span>
+              <span class="threshold-value" id="threshold-display">85,000</span>
+            </div>
+            <input type="range" id="threshold-slider" min="10000" max="200000" value="85000" step="1000">
+            <div style="display:flex;justify-content:space-between;font-size:10px;color:var(--text-muted);margin-top:4px;">
+              <span>10,000</span><span>200,000</span>
+            </div>
+          </div>
+          <div class="mini-bar">
+            <div class="mini-bar-fill fill-orange" id="threshold-bar" style="width:42.5%"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Alert Rules -->
+      <div class="card fade-in stagger-2" style="margin-bottom:16px;">
+        <div class="card-header">
+          <div class="card-title">
+            <span class="icon">📌</span> 警报规则设置
+          </div>
+        </div>
+        <div class="card-body" style="padding:8px 20px;">
+          <div class="toggle-item">
+            <div>
+              <div class="toggle-text">热度超阈值标记</div>
+              <div class="toggle-desc">热度超过设定值时自动触发警报</div>
+            </div>
+            <label class="toggle-switch">
+              <input type="checkbox" checked id="rule-threshold">
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+          <div class="toggle-item">
+            <div>
+              <div class="toggle-text">新上榜热点提醒</div>
+              <div class="toggle-desc">新进入 TOP50 的话题即时通知</div>
+            </div>
+            <label class="toggle-switch">
+              <input type="checkbox" checked id="rule-new">
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+          <div class="toggle-item">
+            <div>
+              <div class="toggle-text">竞争对手追踪</div>
+              <div class="toggle-desc">监控竞品相关话题热度变化</div>
+            </div>
+            <label class="toggle-switch">
+              <input type="checkbox" checked id="rule-comp">
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+          <div class="toggle-item">
+            <div>
+              <div class="toggle-text">热度骤升预警</div>
+              <div class="toggle-desc">1小时内热度增幅超 30% 预警</div>
+            </div>
+            <label class="toggle-switch">
+              <input type="checkbox" id="rule-surge">
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+          <div class="toggle-item">
+            <div>
+              <div class="toggle-text">降出榜提醒</div>
+              <div class="toggle-desc">话题从榜单消失时通知</div>
+            </div>
+            <label class="toggle-switch">
+              <input type="checkbox" id="rule-exit">
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <!-- Competitor Panel -->
+      <div class="card fade-in stagger-3">
+        <div class="card-header">
+          <div class="card-title">
+            <span class="icon">⚔️</span> 竞品追踪
+          </div>
+        </div>
+        <div class="card-body" id="competitor-list">
+          <!-- Dynamically rendered -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  // ─── Simulated Hotspot Data ───
+  const hotspots = [
+    { id: 1,  rank: 1,  name: "两会闭幕·政府工作报告", platform: "微博", score: 198500, trend: "up",    change: 12500, isNew: false, isCompetitor: false, alert: true  },
+    { id: 2,  rank: 2,  name: "甲流高发·防护指南",   platform: "抖音", score: 176300, trend: "up",    change: 8700,  isNew: false, isCompetitor: false, alert: true  },
+    { id: 3,  rank: 3,  name: "#某咖啡新品翻车#",    platform: "小红书", score: 154200, trend: "up",    change: 6200,  isNew: false, isCompetitor: false, alert: true  },
+    { id: 4,  rank: 4,  name: "国产3A游戏上线",      platform: "微博", score: 138700, trend: "down",  change: -3400, isNew: false, isCompetitor: false, alert: false },
+    { id: 5,  rank: 5,  name: "315晚会曝光名单",     platform: "微信", score: 126400, trend: "up",    change: 4800,  isNew: false, isCompetitor: false, alert: true  },
+    { id: 6,  rank: 8,  name: "某手机新品发布会",   platform: "微博", score: 98400,  trend: "up",    change: 2100,  isNew: false, isCompetitor: true,  alert: false },
+    { id: 7,  rank: 12, name: "人工智能伦理讨论",    platform: "知乎", score: 87600,  trend: "up",    change: 3900,  isNew: false, isCompetitor: false, alert: false },
+    { id: 8,  rank: 15, name: "某新能源汽车降价",   platform: "微博", score: 74300,  trend: "down",  change: -1200, isNew: false, isCompetitor: true,  alert: false },
+    { id: 9,  rank: 18, name: "高校毕业生就业报告",  platform: "微信", score: 62100,  trend: "stable",change: 200,   isNew: false, isCompetitor: false, alert: false },
+    { id: 10, rank: 22, name: "某品牌新品预售",    platform: "抖音", score: 54800,  trend: "up",    change: 1800,  isNew: true,  isCompetitor: true,  alert: false },
+    { id: 11, rank: 28, name: "咖啡文化在中国",      platform: "小红书", score: 43200,  trend: "stable",change: -100,  isNew: false, isCompetitor: false, alert: false },
+    { id: 12, rank: 35, name: "职场性别平等话题",   platform: "微博", score: 38700,  trend: "up",    change: 900,   isNew: true,  isCompetitor: false, alert: false },
+    { id: 13, rank: 40, name: "某竞品融资新闻",      platform: "微博", score: 32400,  trend: "up",    change: 2200,  isNew: false, isCompetitor: true,  alert: false },
+    { id: 14, rank: 45, name: "春季赏花路线推荐",   platform: "小红书", score: 27600,  trend: "stable",change: 50,    isNew: false, isCompetitor: false, alert: false },
+    { id: 15, rank: 48, name: "虚拟现实技术突破",   platform: "知乎", score: 21500,  trend: "up",    change: 1100,  isNew: false, isCompetitor: false, alert: false },
+  ];
+
+  // ─── Alert History Data ───
+  const alertHistory = [
+    { time: "07:15",   name: "两会闭幕·政府工作报告", type: "threshold", score: 198500, reason: "热度突破 150,000 阈值" },
+    { time: "07:08",   name: "某品牌新品预售",       type: "new",       score: 54800,  reason: "新上榜 TOP30" },
+    { time: "06:52",   name: "某手机新品发布会",       type: "competitor",score: 98400,  reason: "竞品热度超过自品" },
+    { time: "06:45",   name: "甲流高发·防护指南",      type: "threshold", score: 176300, reason: "热度超过 150,000 阈值" },
+    { time: "06:31",   name: "职场性别平等话题",       type: "new",       score: 38700,  reason: "新上榜 TOP50" },
+    { time: "06:18",   name: "#某咖啡新品翻车#",       type: "threshold", score: 154200, reason: "热度超过 150,000 阈值" },
+    { time: "06:02",   name: "某竞品融资新闻",          type: "competitor",score: 32400,  reason: "竞品新动态" },
+    { time: "05:47",   name: "315晚会曝光名单",        type: "threshold", score: 126400, reason: "热度超过 100,000 阈值" },
+    { time: "05:30",   name: "国产3A游戏上线",         type: "surge",     score: 138700, reason: "1小时涨幅 32%" },
+    { time: "05:15",   name: "人工智能伦理讨论",       type: "competitor",score: 87600,  reason: "竞品话题升温" },
+  ];
+
+  // ─── Competitor Data ───
+  const competitors = [
+    { name: "某米科技",   score: 89400,  trend: "up",    count: 3 },
+    { name: "某为终端",   score: 76200,  trend: "up",    count: 2 },
+    { name: "某OV手机",   score: 54800,  trend: "down",  count: 1 },
+    { name: "某想集团",   score: 32100,  trend: "stable",count: 0 },
+    { name: "某想智造",   score: 21500,  trend: "up",    count: 0 },
+  ];
+
+  let threshold = 85000;
+
+  // ─── Render Clock ───
+  function updateClock() {
+    const now = new Date();
+    document.getElementById('clock').textContent = now.toTimeString().slice(0,8);
+  }
+  setInterval(updateClock, 1000);
+  updateClock();
+
+  // ─── Render Hotspot List ───
+  function renderHotspots() {
+    const container = document.getElementById('hotspot-list');
+    container.innerHTML = hotspots.map(h => {
+      const rankClass = h.rank <= 3 ? `rank-${h.rank}` : 'rank-normal';
+      const scoreClass = h.score >= threshold ? 'high' : h.score >= threshold * 0.7 ? 'medium' : 'low';
+      const trendArrow = h.trend === 'up' ? '↑' : h.trend === 'down' ? '↓' : '—';
+      const trendClass = h.trend === 'up' ? 'trend-up' : h.trend === 'down' ? 'trend-down' : 'trend-stable';
+      const alertClass = h.alert ? 'alert-on' : 'alert-off';
+      const newTag = h.isNew ? '<span class="platform-tag" style="background:rgba(57,208,216,0.15);color:#39d0d8;">NEW</span>' : '';
+      const compTag = h.isCompetitor ? '<span class="platform-tag tag-competitor">竞品</span>' : '';
+      const barPercent = Math.min(100, (h.score / 200000) * 100);
+      const barClass = barPercent >= 70 ? 'fill-red' : barPercent >= 40 ? 'fill-orange' : 'fill-green';
+
+      return `
+        <div class="hotspot-item">
+          <div class="rank-badge ${rankClass}">${h.rank}</div>
+          <div class="alert-indicator ${alertClass}" title="${h.alert ? '触发警报' : '正常'}"></div>
+          <div class="hotspot-info">
+            <div class="hotspot-name">${h.name}</div>
+            <div class="hotspot-meta">
+              <span class="platform-tag">${h.platform}</span>
+              ${compTag}
+              ${newTag}
+              <span>变化: ${h.change > 0 ? '+' : ''}${h.change.toLocaleString()}</span>
+            </div>
+            <div class="mini-bar"><div class="mini-bar-fill ${barClass}" style="width:${barPercent}%"></div></div>
+          </div>
+          <div class="trend-arrow ${trendClass}">${trendArrow}</div>
+          <div class="hotspot-score">
+            <div class="score-value ${scoreClass}">${h.score.toLocaleString()}</div>
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  // ─── Render Alert History ───
+  function renderHistory() {
+    const tbody = document.querySelector('#history-table tbody');
+    tbody.innerHTML = alertHistory.map(h => {
+      const badgeClass = h.type === 'threshold' ? 'badge-threshold' : h.type === 'new' ? 'badge-new' : 'badge-competitor';
+      const badgeText = h.type === 'threshold' ? '超阈值' : h.type === 'new' ? '新上榜' : '竞品';
+      return `
+        <tr>
+          <td><span class="time-ago">${h.time}</span></td>
+          <td>${h.name}</td>
+          <td><span class="alert-type-badge ${badgeClass}">${badgeText}</span></td>
+          <td style="color:var(--accent)">${h.score.toLocaleString()}</td>
+          <td style="color:var(--text-muted);font-size:11px">${h.reason}</td>
+        </tr>
+      `;
+    }).join('');
+  }
+
+  // ─── Render Competitor Panel ───
+  function renderCompetitors() {
+    const container = document.getElementById('competitor-list');
+    container.innerHTML = competitors.map(c => {
+      const trendArrow = c.trend === 'up' ? '↑' : c.trend === 'down' ? '↓' : '—';
+      const trendClass = c.trend === 'up' ? 'trend-up' : c.trend === 'down' ? 'trend-down' : 'trend-stable';
+      return `
+        <div class="comp-item">
+          <span class="comp-name">${c.name}</span>
+          <span class="trend-arrow ${trendClass}">${trendArrow}</span>
+          <span class="comp-score">${c.score.toLocaleString()}</span>
+          ${c.count > 0 ? `<span class="comp-count">${c.count} 热点</span>` : ''}
+        </div>
+      `;
+    }).join('');
+  }
+
+  // ─── Threshold Slider Handler ───
+  document.getElementById('threshold-slider').addEventListener('input', function(e) {
+    threshold = parseInt(e.target.value);
+    document.getElementById('threshold-display').textContent = threshold.toLocaleString();
+    const percent = ((threshold - 10000) / (200000 - 10000)) * 100;
+    document.getElementById('threshold-bar').style.width = percent + '%';
+    
+    // Re-render hotspots with new threshold
+    renderHotspots();
+    
+    // Update alert count
+    const alertCount = hotspots.filter(h => h.score >= threshold).length;
+    document.getElementById('alert-count').textContent = alertCount;
+    document.getElementById('stat-alerts').textContent = alertCount;
+  });
+
+  // ─── Simulate Real-time Updates ───
+  function simulateUpdate() {
+    hotspots.forEach(h => {
+      const change = Math.floor(Math.random() * 500) - 200;
+      h.score = Math.max(10000, h.score + change);
+      h.change = change;
+      if (change > 200) h.trend = 'up';
+      else if (change < -200) h.trend = 'down';
+      else h.trend = 'stable';
+    });
+    renderHotspots();
+  }
+
+  // ─── Initialize ───
+  renderHotspots();
+  renderHistory();
+  renderCompetitors();
+
+  // Update every 5 seconds for demo
+  setInterval(simulateUpdate, 5000);
+</script>
+
+</body>
+</html>

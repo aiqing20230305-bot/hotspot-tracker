@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>内容效果报告 | Hotspot Tracker</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #22263a;
+      --border: #2d3154;
+      --accent: #6c63ff;
+      --accent2: #00d4aa;
+      --accent3: #ff6b6b;
+      --accent4: #ffd93d;
+      --accent5: #4ecdc4;
+      --text: #e8eaf0;
+      --text2: #8892b0;
+      --text3: #555c7a;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* Navigation */
+    .nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 60px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav-logo {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--accent);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .nav-logo::before {
+      content: '';
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      background: var(--accent);
+      border-radius: 50%;
+      box-shadow: 0 0 8px var(--accent);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 0.25rem;
+      list-style: none;
+    }
+
+    .nav-links a {
+      color: var(--text2);
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      font-size: 0.875rem;
+      font-weight: 500;
+      transition: all 0.2s;
+    }
+
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text);
+      background: var(--surface2);
+    }
+
+    .nav-links a.active {
+      color: var(--accent);
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .nav-avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--accent), var(--accent5));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+
+    /* Main */
+    .main {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    .page-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 2rem;
+    }
+
+    .page-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+
+    .page-title span {
+      color: var(--text2);
+      font-weight: 400;
+      font-size: 1rem;
+    }
+
+    /* Period Selector */
+    .period-bar {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+      background: var(--surface);
+      padding: 0.35rem;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+    }
+
+    .period-btn {
+      padding: 0.4rem 1rem;
+      border: none;
+      background: transparent;
+      color: var(--text2);
+      font-size: 0.8rem;
+      font-weight: 500;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+
+    .period-btn.active {
+      background: var(--accent);
+      color: #fff;
+      box-shadow: 0 2px 8px rgba(108, 99, 255, 0.4);
+    }
+
+    .period-btn:hover:not(.active) {
+      color: var(--text);
+      background: var(--surface2);
+    }
+
+    .custom-range {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding-left: 0.5rem;
+      border-left: 1px solid var(--border);
+    }
+
+    .custom-range input {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 0.35rem 0.6rem;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-family: inherit;
+    }
+
+    .custom-range label {
+      font-size: 0.75rem;
+      color: var(--text2);
+    }
+
+    /* KPI Cards */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .kpi-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 1.5rem;
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+
+    .kpi-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--accent);
+    }
+
+    .kpi-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      border-radius: 16px 16px 0 0;
+    }
+
+    .kpi-card:nth-child(1)::before { background: var(--accent); }
+    .kpi-card:nth-child(2)::before { background: var(--accent2); }
+    .kpi-card:nth-child(3)::before { background: var(--accent3); }
+    .kpi-card:nth-child(4)::before { background: var(--accent4); }
+
+    .kpi-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1rem;
+      font-size: 1.2rem;
+    }
+
+    .kpi-card:nth-child(1) .kpi-icon { background: rgba(108, 99, 255, 0.15); }
+    .kpi-card:nth-child(2) .kpi-icon { background: rgba(0, 212, 170, 0.15); }
+    .kpi-card:nth-child(3) .kpi-icon { background: rgba(255, 107, 107, 0.15); }
+    .kpi-card:nth-child(4) .kpi-icon { background: rgba(255, 217, 61, 0.15); }
+
+    .kpi-label {
+      font-size: 0.8rem;
+      color: var(--text2);
+      margin-bottom: 0.5rem;
+    }
+
+    .kpi-value {
+      font-size: 1.8rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+    }
+
+    .kpi-change {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.2rem 0.5rem;
+      border-radius: 6px;
+    }
+
+    .kpi-change.up {
+      color: var(--accent2);
+      background: rgba(0, 212, 170, 0.1);
+    }
+
+    .kpi-change.down {
+      color: var(--accent3);
+      background: rgba(255, 107, 107, 0.1);
+    }
+
+    .kpi-sub {
+      font-size: 0.7rem;
+      color: var(--text3);
+      margin-top: 0.25rem;
+    }
+
+    /* Section */
+    .section {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1.5rem;
+    }
+
+    .section-title {
+      font-size: 1rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .section-title::before {
+      content: '';
+      width: 4px;
+      height: 16px;
+      border-radius: 2px;
+      background: var(--accent);
+    }
+
+    .section-badge {
+      font-size: 0.7rem;
+      background: rgba(108, 99, 255, 0.15);
+      color: var(--accent);
+      padding: 0.2rem 0.6rem;
+      border-radius: 20px;
+      font-weight: 600;
+    }
+
+    /* Charts Grid */
+    .charts-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Bar Chart */
+    .bar-chart {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .bar-row {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .bar-label {
+      font-size: 0.75rem;
+      color: var(--text2);
+      width: 120px;
+      flex-shrink: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .bar-track {
+      flex: 1;
+      height: 24px;
+      background: var(--surface2);
+      border-radius: 6px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .bar-fill {
+      height: 100%;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      padding-left: 8px;
+      font-size: 0.65rem;
+      font-weight: 700;
+      color: #fff;
+      transition: width 1s ease;
+      min-width: 40px;
+    }
+
+    .bar-fill.accent { background: linear-gradient(90deg, var(--accent), #8b83ff); }
+    .bar-fill.accent2 { background: linear-gradient(90deg, var(--accent2), #33e0be); }
+    .bar-fill.accent3 { background: linear-gradient(90deg, var(--accent3), #ff8f8f); }
+
+    /* Radar Chart (CSS) */
+    .radar-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 3rem;
+      padding: 1rem 0;
+    }
+
+    .radar-chart {
+      position: relative;
+      width: 280px;
+      height: 280px;
+    }
+
+    .radar-grid {
+      position: absolute;
+      inset: 0;
+    }
+
+    .radar-polygon {
+      transition: all 0.5s;
+    }
+
+    .radar-legend {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .radar-legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 0.8rem;
+    }
+
+    .radar-legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .radar-legend-value {
+      color: var(--text2);
+      font-size: 0.75rem;
+    }
+
+    /* Table */
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.8rem;
+    }
+
+    .data-table th {
+      text-align: left;
+      padding: 0.75rem 1rem;
+      color: var(--text2);
+      font-weight: 600;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.75rem;
+    }
+
+    .data-table td {
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid rgba(45, 49, 84, 0.5);
+      vertical-align: middle;
+    }
+
+    .data-table tr:last-child td { border-bottom: none; }
+
+    .data-table tr:hover td {
+      background: rgba(108, 99, 255, 0.05);
+    }
+
+    .rank-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 0.7rem;
+    }
+
+    .rank-1 { background: rgba(255, 217, 61, 0.2); color: var(--accent4); }
+    .rank-2 { background: rgba(192, 192, 192, 0.15); color: #b0b0b0; }
+    .rank-3 { background: rgba(205, 127, 50, 0.15); color: #cd7f32; }
+    .rank-default { background: var(--surface2); color: var(--text2); }
+
+    .content-title-cell {
+      max-width: 260px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .content-title-cell a {
+      color: var(--text);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .content-title-cell a:hover { color: var(--accent); }
+
+    .platform-tag {
+      display: inline-block;
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.65rem;
+      font-weight: 600;
+    }
+
+    .tag-douyin { background: rgba(255, 255, 255, 0.15); color: #fff; }
+    .tag-xiaohongshu { background: rgba(255, 80, 120, 0.15); color: #ff5078; }
+    .tag-weibo { background: rgba(255, 140, 0, 0.15); color: #ff8c00; }
+    .tag-bilibili { background: rgba(0, 161, 214, 0.15); color: #00a1d6; }
+    .tag-wechat { background: rgba(0, 200, 100, 0.15); color: var(--accent2); }
+
+    .bar-mini {
+      height: 6px;
+      background: var(--surface2);
+      border-radius: 3px;
+      overflow: hidden;
+      width: 100px;
+    }
+
+    .bar-mini-fill {
+      height: 100%;
+      border-radius: 3px;
+    }
+
+    /* Sparkline */
+    .sparkline {
+      display: flex;
+      align-items: flex-end;
+      gap: 2px;
+      height: 30px;
+    }
+
+    .spark-bar {
+      width: 4px;
+      border-radius: 2px;
+      background: var(--accent);
+      opacity: 0.6;
+      transition: opacity 0.2s;
+    }
+
+    .spark-bar:hover { opacity: 1; }
+
+    /* Client Grid */
+    .client-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+    }
+
+    .client-card {
+      background: var(--surface2);
+      border-radius: 12px;
+      padding: 1rem;
+      border: 1px solid var(--border);
+      transition: border-color 0.2s;
+    }
+
+    .client-card:hover { border-color: var(--accent); }
+
+    .client-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 0.75rem;
+    }
+
+    .client-avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.7rem;
+      font-weight: 700;
+    }
+
+    .client-name {
+      font-size: 0.85rem;
+      font-weight: 600;
+    }
+
+    .client-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.5rem;
+    }
+
+    .client-stat {
+      background: var(--surface);
+      border-radius: 8px;
+      padding: 0.5rem;
+    }
+
+    .client-stat-label {
+      font-size: 0.65rem;
+      color: var(--text3);
+    }
+
+    .client-stat-value {
+      font-size: 0.9rem;
+      font-weight: 700;
+    }
+
+    /* Export Button */
+    .export-btn {
+      background: linear-gradient(135deg, var(--accent), #8b83ff);
+      color: #fff;
+      border: none;
+      padding: 0.6rem 1.5rem;
+      border-radius: 10px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: inherit;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.2s;
+      box-shadow: 0 4px 15px rgba(108, 99, 255, 0.3);
+    }
+
+    .export-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 6px 20px rgba(108, 99, 255, 0.4);
+    }
+
+    /* Tab Buttons */
+    .tab-bar {
+      display: flex;
+      gap: 0.25rem;
+      background: var(--surface2);
+      padding: 0.25rem;
+      border-radius: 10px;
+      width: fit-content;
+    }
+
+    .tab-btn {
+      padding: 0.35rem 0.85rem;
+      border: none;
+      background: transparent;
+      color: var(--text2);
+      font-size: 0.75rem;
+      font-weight: 500;
+      border-radius: 7px;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+
+    .tab-btn.active {
+      background: var(--surface);
+      color: var(--text);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--text3);
+      font-size: 0.75rem;
+    }
+
+    /* Animations */
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .animate-in {
+      animation: fadeInUp 0.5s ease forwards;
+    }
+
+    .delay-1 { animation-delay: 0.1s; opacity: 0; }
+    .delay-2 { animation-delay: 0.2s; opacity: 0; }
+    .delay-3 { animation-delay: 0.3s; opacity: 0; }
+    .delay-4 { animation-delay: 0.4s; opacity: 0; }
+
+    /* Print styles */
+    @media print {
+      .nav, .period-bar, .export-btn, .tab-bar { display: none; }
+      body { background: #fff; color: #1a1d27; }
+      .section, .kpi-card { background: #fff; border-color: #e0e0e0; }
+    }
+
+    /* Scrollbar */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: var(--surface); }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--text3); }
+  </style>
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="nav">
+  <div class="nav-logo">Hotspot Tracker</div>
+  <ul class="nav-links">
+    <li><a href="#">📊 仪表盘</a></li>
+    <li><a href="#">🔍 内容追踪</a></li>
+    <li><a href="#" class="active">📈 内容报告</a></li>
+    <li><a href="#">📰 热点监测</a></li>
+    <li><a href="#">⚙️ 设置</a></li>
+  </ul>
+  <div class="nav-right">
+    <button class="export-btn" onclick="window.print()">
+      <span>⬇️</span> 导出报告
+    </button>
+    <div class="nav-avatar">分析师</div>
+  </div>
+</nav>
+
+<div class="main">
+  <!-- Page Header -->
+  <div class="page-header animate-in">
+    <div>
+      <h1 class="page-title">内容效果报告 <span>· 30天周期</span></h1>
+      <p style="font-size:0.8rem;color:var(--text2);margin-top:0.25rem;">数据更新于 2026-03-28 10:00</p>
+    </div>
+    <div class="period-bar">
+      <button class="period-btn" onclick="setPeriod('week')">本周</button>
+      <button class="period-btn active" onclick="setPeriod('month')">本月</button>
+      <button class="period-btn" onclick="setPeriod('quarter')">本季度</button>
+      <button class="period-btn" onclick="setPeriod('custom')">自定义</button>
+      <div class="custom-range">
+        <label>从</label>
+        <input type="date" id="dateFrom" value="2026-02-26">
+        <label>至</label>
+        <input type="date" id="dateTo" value="2026-03-28">
+      </div>
+    </div>
+  </div>
+
+  <!-- KPI Cards -->
+  <div class="kpi-grid">
+    <div class="kpi-card animate-in delay-1">
+      <div class="kpi-icon">👁️</div>
+      <div class="kpi-label">总曝光量</div>
+      <div class="kpi-value">12,847,293</div>
+      <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+        <span class="kpi-change up">▲ 23.5% 环比</span>
+        <span class="kpi-change up">▲ 87.2% 同比</span>
+      </div>
+      <div class="kpi-sub">上月: 10,403,841</div>
+    </div>
+    <div class="kpi-card animate-in delay-2">
+      <div class="kpi-icon">💬</div>
+      <div class="kpi-label">总互动量</div>
+      <div class="kpi-value">3,284,561</div>
+      <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+        <span class="kpi-change up">▲ 15.8% 环比</span>
+        <span class="kpi-change up">▲ 62.4% 同比</span>
+      </div>
+      <div class="kpi-sub">上月: 2,835,975</div>
+    </div>
+    <div class="kpi-card animate-in delay-3">
+      <div class="kpi-icon">🎯</div>
+      <div class="kpi-label">整体转化率</div>
+      <div class="kpi-value">4.28%</div>
+      <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+        <span class="kpi-change up">▲ 0.42pp 环比</span>
+        <span class="kpi-change down">▼ 0.15pp 同比</span>
+      </div>
+      <div class="kpi-sub">上月: 3.86%</div>
+    </div>
+    <div class="kpi-card animate-in delay-4">
+      <div class="kpi-icon">👥</div>
+      <div class="kpi-label">粉丝净增长</div>
+      <div class="kpi-value">+52,847</div>
+      <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+        <span class="kpi-change up">▲ 31.2% 环比</span>
+        <span class="kpi-change up">▲ 145.8% 同比</span>
+      </div>
+      <div class="kpi-sub">上月: +40,284</div>
+    </div>
+  </div>
+
+  <!-- Charts Row -->
+  <div class="charts-row">
+    <!-- Bar Chart: Content Performance -->
+    <div class="section animate-in delay-2">
+      <div class="section-header">
+        <div class="section-title">内容效果排名</div>
+        <div class="tab-bar">
+          <button class="tab-btn active" onclick="switchChart(this, 'interactions')">互动量</button>
+          <button class="tab-btn" onclick="switchChart(this, 'completion')">完播率</button>
+          <button class="tab-btn" onclick="switchChart(this, 'conversion')">转化率</button>
+        </div>
+      </div>
+      <div class="bar-chart" id="chart-interactions">
+        <div class="bar-row"><span class="bar-label">新年营销大片</span><div class="bar-track"><div class="bar-fill accent" style="width:100%">284.5K</div></div></div>
+        <div class="bar-row"><span class="bar-label">春日限定礼盒</span><div class="bar-track"><div class="bar-fill accent" style="width:85%">241.8K</div></div></div>
+        <div class="bar-row"><span class="bar-label">CEO直播首秀</span><div class="bar-track"><div class="bar-fill accent" style="width:72%">204.7K</div></div></div>
+        <div class="bar-row"><span class="bar-label">品牌故事短片</span><div class="bar-track"><div class="bar-fill accent" style="width:61%">173.5K</div></div></div>
+        <div class="bar-row"><span class="bar-label">产品测评系列</span><div class="bar-track"><div class="bar-fill accent2" style="width:55%">156.2K</div></div></div>
+        <div class="bar-row"><span class="bar-label">用户UGC征集</span><div class="bar-track"><div class="bar-fill accent2" style="width:48%">136.5K</div></div></div>
+        <div class="bar-row"><span class="bar-label">限时秒杀活动</span><div class="bar-track"><div class="bar-fill accent2" style="width:41%">116.7K</div></div></div>
+        <div class="bar-row"><span class="bar-label">新品预告片</span><div class="bar-track"><div class="bar-fill accent2" style="width:35%">99.4K</div></div></div>
+        <div class="bar-row"><span class="bar-label">幕后花絮特辑</span><div class="bar-track"><div class="bar-fill accent3" style="width:29%">82.5K</div></div></div>
+        <div class="bar-row"><span class="bar-label">品牌联名发布</span><div class="bar-track"><div class="bar-fill accent3" style="width:24%">68.2K</div></div></div>
+      </div>
+      <div class="bar-chart" id="chart-completion" style="display:none">
+        <div class="bar-row"><span class="bar-label">品牌故事短片</span><div class="bar-track"><div class="bar-fill accent" style="width:100%">92.4%</div></div></div>
+        <div class="bar-row"><span class="bar-label">新年营销大片</span><div class="bar-track"><div class="bar-fill accent" style="width:97%">89.7%</div></div></div>
+        <div class="bar-row"><span class="bar-label">春日限定礼盒</span><div class="bar-track"><div class="bar-fill accent" style="width:89%">82.1%</div></div></div>
+        <div class="bar-row"><span class="bar-label">CEO直播首秀</span><div class="bar-track"><div class="bar-fill accent2" style="width:85%">78.3%</div></div></div>
+        <div class="bar-row"><span class="bar-label">产品测评系列</span><div class="bar-track"><div class="bar-fill accent2" style="width:76%">70.2%</div></div></div>
+        <div class="bar-row"><span class="bar-label">新品预告片</span><div class="bar-track"><div class="bar-fill accent2" style="width:68%">62.8%</div></div></div>
+        <div class="bar-row"><span class="bar-label">用户UGC征集</span><div class="bar-track"><div class="bar-fill accent2" style="width:59%">54.5%</div></div></div>
+        <div class="bar-row"><span class="bar-label">限时秒杀活动</span><div class="bar-track"><div class="bar-fill accent3" style="width:51%">47.1%</div></div></div>
+        <div class="bar-row"><span class="bar-label">幕后花絮特辑</span><div class="bar-track"><div class="bar-fill accent3" style="width:44%">40.6%</div></div></div>
+        <div class="bar-row"><span class="bar-label">品牌联名发布</span><div class="bar-track"><div class="bar-fill accent3" style="width:38%">35.2%</div></div></div>
+      </div>
+      <div class="bar-chart" id="chart-conversion" style="display:none">
+        <div class="bar-row"><span class="bar-label">限时秒杀活动</span><div class="bar-track"><div class="bar-fill accent" style="width:100%">8.7%</div></div></div>
+        <div class="bar-row"><span class="bar-label">新品预告片</span><div class="bar-track"><div class="bar-fill accent" style="width:87%">7.6%</div></div></div>
+        <div class="bar-row"><span class="bar-label">春日限定礼盒</span><div class="bar-track"><div class="bar-fill accent" style="width:76%">6.6%</div></div></div>
+        <div class="bar-row"><span class="bar-label">CEO直播首秀</span><div class="bar-track"><div class="bar-fill accent2" style="width:68%">5.9%</div></div></div>
+        <div class="bar-row"><span class="bar-label">产品测评系列</span><div class="bar-track"><div class="bar-fill accent2" style="width:59%">5.1%</div></div></div>
+        <div class="bar-row"><span class="bar-label">新年营销大片</span><div class="bar-track"><div class="bar-fill accent2" style="width:52%">4.5%</div></div></div>
+        <div class="bar-row"><span class="bar-label">用户UGC征集</span><div class="bar-track"><div class="bar-fill accent2" style="width:44%">3.8%</div></div></div>
+        <div class="bar-row"><span class="bar-label">品牌故事短片</span><div class="bar-track"><div class="bar-fill accent3" style="width:36%">3.1%</div></div></div>
+        <div class="bar-row"><span class="bar-label">幕后花絮特辑</span><div class="bar-track"><div class="bar-fill accent3" style="width:28%">2.4%</div></div></div>
+        <div class="bar-row"><span class="bar-label">品牌联名发布</span><div class="bar-track"><div class="bar-fill accent3" style="width:21%">1.8%</div></div></div>
+      </div>
+    </div>
+
+    <!-- Platform Radar Chart -->
+    <div class="section animate-in delay-3">
+      <div class="section-header">
+        <div class="section-title">平台表现雷达图</div>
+        <span class="section-badge">综合评分</span>
+      </div>
+      <div class="radar-container">
+        <div class="radar-chart">
+          <svg viewBox="0 0 280 280" width="280" height="280">
+            <!-- Background grid -->
+            <polygon points="140,20 260,140 200,260 80,260 20,140" fill="none" stroke="rgba(45, 49, 84, 0.5)" stroke-width="1"/>
+            <polygon points="140,50 230,140 185,230 95,230 50,140" fill="none" stroke="rgba(45, 49, 84, 0.5)" stroke-width="1"/>
+            <polygon points="140,80 200,140 170,200 110,200 80,140" fill="none" stroke="rgba(45, 49, 84, 0.5)" stroke-width="1"/>
+            <polygon points="140,110 170,140 155,170 125,170 110,140" fill="none" stroke="rgba(45, 49, 84, 0.5)" stroke-width="1"/>
+            <!-- Axis lines -->
+            <line x1="140" y1="140" x2="140" y2="20" stroke="rgba(45, 49, 84, 0.3)" stroke-width="1"/>
+            <line x1="140" y1="140" x2="260" y2="140" stroke="rgba(45, 49, 84, 0.3)" stroke-width="1"/>
+            <line x1="140" y1="140" x2="200" y2="260" stroke="rgba(45, 49, 84, 0.3)" stroke-width="1"/>
+            <line x1="140" y1="140" x2="80" y2="260" stroke="rgba(45, 49, 84, 0.3)" stroke-width="1"/>
+            <line x1="140" y1="140" x2="20" y2="140" stroke="rgba(45, 49, 84, 0.3)" stroke-width="1"/>
+            
+            <!-- Data polygon 1: Douyin -->
+            <polygon class="radar-polygon" points="140,35 245,140 185,245 85,230 45,140" 
+              fill="rgba(108, 99, 255, 0.2)" stroke="var(--accent)" stroke-width="2"/>
+            <!-- Data polygon 2: Xiaohongshu -->
+            <polygon class="radar-polygon" points="140,60 210,140 170,230 100,215 70,140" 
+              fill="rgba(255, 80
