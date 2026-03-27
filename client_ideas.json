@@ -1,1199 +1,3228 @@
 [
   {
-    "id": "3C数码_20260326234126",
+    "id": "3C数码_202603276660",
     "client": {
       "industry": "3C数码",
-      "brand": "荣耀海外/罗技/荣耀中国",
-      "sku_count": 53,
-      "priority": 5,
+      "brand": "荣耀",
       "products": [
         "荣耀手机",
-        "罗技键鼠",
         "荣耀平板",
         "荣耀耳机"
       ],
-      "platforms": [
-        "抖音",
-        "小红书",
-        "B站"
-      ],
-      "content_angles": [
-        "产品测评",
-        "选购指南",
-        "科技热点",
-        "使用技巧"
-      ],
-      "priority_label": "高"
+      "priority": 5
     },
-    "title": "《中国机器狼群巷战画面首次公开？荣耀手机真实测评》",
-    "platform": "抖音",
-    "angle": "产品测评",
-    "hot_topic": "中国机器狼群巷战画面首次公开",
-    "script_type": "视频脚本",
-    "engagement_estimate": "19,433+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052855"
-  },
-  {
-    "id": "3C数码_20260326234126",
-    "client": {
-      "industry": "3C数码",
-      "brand": "荣耀海外/罗技/荣耀中国",
-      "sku_count": 53,
-      "priority": 5,
-      "products": [
-        "荣耀手机",
-        "罗技键鼠",
-        "荣耀平板",
-        "荣耀耳机"
-      ],
-      "platforms": [
-        "抖音",
-        "小红书",
-        "B站"
-      ],
-      "content_angles": [
-        "产品测评",
-        "选购指南",
-        "科技热点",
-        "使用技巧"
-      ],
-      "priority_label": "高"
-    },
-    "title": "《我国又一次发射一箭双星 - 荣耀手机》",
-    "platform": "小红书",
-    "angle": "选购指南",
-    "hot_topic": "我国又一次发射一箭双星",
-    "script_type": "图文脚本",
-    "engagement_estimate": "9,091+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052868"
-  },
-  {
-    "id": "3C数码_20260326234126",
-    "client": {
-      "industry": "3C数码",
-      "brand": "荣耀海外/罗技/荣耀中国",
-      "sku_count": 53,
-      "priority": 5,
-      "products": [
-        "荣耀手机",
-        "罗技键鼠",
-        "荣耀平板",
-        "荣耀耳机"
-      ],
-      "platforms": [
-        "抖音",
-        "小红书",
-        "B站"
-      ],
-      "content_angles": [
-        "产品测评",
-        "选购指南",
-        "科技热点",
-        "使用技巧"
-      ],
-      "priority_label": "高"
-    },
-    "title": "《中国机器狼群巷战画面首次公开 - 荣耀手机》",
-    "platform": "B站",
-    "angle": "科技热点",
-    "hot_topic": "中国机器狼群巷战画面首次公开",
-    "script_type": "图文脚本",
-    "engagement_estimate": "5,830+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052877"
-  },
-  {
-    "id": "快消_20260326234126",
-    "client": {
-      "industry": "快消",
-      "brand": "舒适/清扬/AHC/多芬/力士/VSL/nexxus",
-      "sku_count": 7,
-      "priority": 5,
-      "products": [
-        "AHC水乳",
-        "多芬沐浴露",
-        "力士洗发水",
-        "清扬去屑",
-        "舒适剃须刀"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "产品测评",
-        "使用教程",
-        "场景植入",
-        "效果对比"
-      ],
-      "priority_label": "高"
-    },
-    "title": "《我的春日粉彩妆容公式｜AHC水测评》",
-    "platform": "小红书",
-    "angle": "产品测评",
-    "hot_topic": "我的春日粉彩妆容公式",
-    "script_type": "图文脚本",
-    "engagement_estimate": "10,083+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052889"
-  },
-  {
-    "id": "快消_20260326234126",
-    "client": {
-      "industry": "快消",
-      "brand": "舒适/清扬/AHC/多芬/力士/VSL/nexxus",
-      "sku_count": 7,
-      "priority": 5,
-      "products": [
-        "AHC水乳",
-        "多芬沐浴露",
-        "力士洗发水",
-        "清扬去屑",
-        "舒适剃须刀"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "产品测评",
-        "使用教程",
-        "场景植入",
-        "效果对比"
-      ],
-      "priority_label": "高"
-    },
-    "title": "《春日穿搭OOTD，AHC水教程》",
-    "platform": "抖音",
-    "angle": "使用教程",
+    "title": "《春日穿搭OOTD！荣耀产品使用心得》",
+    "platform": "微博",
+    "angle": "种草推荐",
     "hot_topic": "春日穿搭OOTD",
-    "script_type": "视频脚本",
-    "engagement_estimate": "50,000+",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "荣耀手机",
+    "engagement_estimate": "11182+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052898"
+    "created_at": "2026-03-27T10:08:18.489795"
   },
   {
-    "id": "快消_20260326234126",
+    "id": "3C数码_202603277583",
     "client": {
-      "industry": "快消",
-      "brand": "舒适/清扬/AHC/多芬/力士/VSL/nexxus",
-      "sku_count": 7,
-      "priority": 5,
+      "industry": "3C数码",
+      "brand": "荣耀",
       "products": [
-        "AHC水乳",
-        "多芬沐浴露",
-        "力士洗发水",
-        "清扬去屑",
-        "舒适剃须刀"
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
       ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "产品测评",
-        "使用教程",
-        "场景植入",
-        "效果对比"
-      ],
-      "priority_label": "高"
+      "priority": 5
     },
-    "title": "《春季护肤攻略｜AHC水实测》",
+    "title": "《从健身打卡挑战看荣耀平板的正确打开方式》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "荣耀平板",
+    "engagement_estimate": "30689+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489803"
+  },
+  {
+    "id": "3C数码_202603279436",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《AI黑科技测评火了，荣耀也有话说》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "荣耀平板",
+    "engagement_estimate": "37765+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489809"
+  },
+  {
+    "id": "3C数码_202603278579",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《宠物日常vlog？荣耀耳机真实测评》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "荣耀耳机",
+    "engagement_estimate": "13390+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489813"
+  },
+  {
+    "id": "3C数码_202603272228",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《健康饮食计划火了，荣耀也有话说》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "荣耀耳机",
+    "engagement_estimate": "42023+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489817"
+  },
+  {
+    "id": "3C数码_202603276182",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《借势健康饮食计划，荣耀平板这样用超赞》",
     "platform": "小红书",
-    "angle": "场景植入",
+    "angle": "痛点解决",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "荣耀平板",
+    "engagement_estimate": "25364+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489821"
+  },
+  {
+    "id": "3C数码_202603271454",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《借势露营装备推荐，荣耀平板这样用超赞》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀平板",
+    "engagement_estimate": "29484+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489825"
+  },
+  {
+    "id": "3C数码_202603279563",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《春日穿搭OOTD！荣耀产品使用心得》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "荣耀手机",
+    "engagement_estimate": "7504+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489829"
+  },
+  {
+    "id": "3C数码_202603278859",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《露营装备推荐！荣耀产品使用心得》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀手机",
+    "engagement_estimate": "37246+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489833"
+  },
+  {
+    "id": "3C数码_202603274157",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《春季护肤攻略！荣耀产品使用心得》",
+    "platform": "抖音",
+    "angle": "对比评测",
     "hot_topic": "春季护肤攻略",
-    "script_type": "图文脚本",
-    "engagement_estimate": "25,000+",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀耳机",
+    "engagement_estimate": "27903+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052905"
+    "created_at": "2026-03-27T10:08:18.489837"
   },
   {
-    "id": "家庭清洁_20260326234126",
+    "id": "3C数码_202603273690",
     "client": {
-      "industry": "家庭清洁",
-      "brand": "HC",
-      "sku_count": 15,
-      "priority": 4,
+      "industry": "3C数码",
+      "brand": "荣耀",
       "products": [
-        "HC清洁剂",
-        "HC除菌喷雾",
-        "HC厨房油污净",
-        "HC多功能清洁"
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "清洁教程",
-        "效果展示",
-        "好物推荐",
-        "对比测试"
-      ],
-      "priority_label": "高"
+      "priority": 5
     },
-    "title": "《我的春日粉彩妆容公式 - HC清洁》",
-    "platform": "抖音",
-    "angle": "清洁教程",
-    "hot_topic": "我的春日粉彩妆容公式",
-    "script_type": "视频脚本",
-    "engagement_estimate": "16,133+",
+    "title": "《从露营装备推荐看荣耀平板的正确打开方式》",
+    "platform": "微博",
+    "angle": "开箱体验",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀平板",
+    "engagement_estimate": "19067+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052921"
+    "created_at": "2026-03-27T10:08:18.489841"
   },
   {
-    "id": "家庭清洁_20260326234126",
+    "id": "3C数码_202603276349",
     "client": {
-      "industry": "家庭清洁",
-      "brand": "HC",
-      "sku_count": 15,
-      "priority": 4,
+      "industry": "3C数码",
+      "brand": "荣耀",
       "products": [
-        "HC清洁剂",
-        "HC除菌喷雾",
-        "HC厨房油污净",
-        "HC多功能清洁"
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "清洁教程",
-        "效果展示",
-        "好物推荐",
-        "对比测试"
-      ],
-      "priority_label": "高"
+      "priority": 5
     },
-    "title": "《中国机器狼群巷战画面首次公开 - HC清洁》",
-    "platform": "小红书",
-    "angle": "效果展示",
-    "hot_topic": "中国机器狼群巷战画面首次公开",
-    "script_type": "图文脚本",
-    "engagement_estimate": "7,773+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052927"
-  },
-  {
-    "id": "家庭清洁_20260326234126",
-    "client": {
-      "industry": "家庭清洁",
-      "brand": "HC",
-      "sku_count": 15,
-      "priority": 4,
-      "products": [
-        "HC清洁剂",
-        "HC除菌喷雾",
-        "HC厨房油污净",
-        "HC多功能清洁"
-      ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "清洁教程",
-        "效果展示",
-        "好物推荐",
-        "对比测试"
-      ],
-      "priority_label": "高"
-    },
-    "title": "《我国又一次发射一箭双星 - HC清洁》",
-    "platform": "抖音",
-    "angle": "好物推荐",
-    "hot_topic": "我国又一次发射一箭双星",
-    "script_type": "视频脚本",
-    "engagement_estimate": "14,546+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052934"
-  },
-  {
-    "id": "保健品_20260326234126",
-    "client": {
-      "industry": "保健品",
-      "brand": "汤臣倍健",
-      "sku_count": 5,
-      "priority": 5,
-      "products": [
-        "汤臣倍健维C",
-        "汤臣倍健蛋白粉",
-        "汤臣倍健辅酶Q10",
-        "汤臣倍健护肝片"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "科普知识",
-        "养生攻略",
-        "产品推荐",
-        "成分解析"
-      ],
-      "priority_label": "高"
-    },
-    "title": "《春日减脂计划｜汤臣倍健科普》",
-    "platform": "小红书",
-    "angle": "科普知识",
-    "hot_topic": "春日减脂计划",
-    "script_type": "图文脚本",
-    "engagement_estimate": "25,000+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052944"
-  },
-  {
-    "id": "保健品_20260326234126",
-    "client": {
-      "industry": "保健品",
-      "brand": "汤臣倍健",
-      "sku_count": 5,
-      "priority": 5,
-      "products": [
-        "汤臣倍健维C",
-        "汤臣倍健蛋白粉",
-        "汤臣倍健辅酶Q10",
-        "汤臣倍健护肝片"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "科普知识",
-        "养生攻略",
-        "产品推荐",
-        "成分解析"
-      ],
-      "priority_label": "高"
-    },
-    "title": "《春季养生食谱 - 汤臣倍健》",
-    "platform": "抖音",
-    "angle": "养生攻略",
-    "hot_topic": "春季养生食谱",
-    "script_type": "视频脚本",
-    "engagement_estimate": "50,000+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052950"
-  },
-  {
-    "id": "保健品_20260326234126",
-    "client": {
-      "industry": "保健品",
-      "brand": "汤臣倍健",
-      "sku_count": 5,
-      "priority": 5,
-      "products": [
-        "汤臣倍健维C",
-        "汤臣倍健蛋白粉",
-        "汤臣倍健辅酶Q10",
-        "汤臣倍健护肝片"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "科普知识",
-        "养生攻略",
-        "产品推荐",
-        "成分解析"
-      ],
-      "priority_label": "高"
-    },
-    "title": "《43岁不健身和61岁健身的区别 - 汤臣倍健》",
-    "platform": "小红书",
-    "angle": "产品推荐",
-    "hot_topic": "43岁不健身和61岁健身的区别",
-    "script_type": "图文脚本",
-    "engagement_estimate": "208+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052956"
-  },
-  {
-    "id": "宠物食品_20260326234126",
-    "client": {
-      "industry": "宠物食品",
-      "brand": "通用磨坊/希宝",
-      "sku_count": 2,
-      "priority": 3,
-      "products": [
-        "希宝罐头",
-        "通用磨坊猫粮",
-        "希宝湿粮"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "萌宠日常",
-        "喂养攻略",
-        "产品测评",
-        "营养科普"
-      ],
-      "priority_label": "中"
-    },
-    "title": "《我的春日粉彩妆容公式 - 希宝罐头》",
-    "platform": "小红书",
-    "angle": "萌宠日常",
-    "hot_topic": "我的春日粉彩妆容公式",
-    "script_type": "图文脚本",
-    "engagement_estimate": "6,050+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052966"
-  },
-  {
-    "id": "宠物食品_20260326234126",
-    "client": {
-      "industry": "宠物食品",
-      "brand": "通用磨坊/希宝",
-      "sku_count": 2,
-      "priority": 3,
-      "products": [
-        "希宝罐头",
-        "通用磨坊猫粮",
-        "希宝湿粮"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "萌宠日常",
-        "喂养攻略",
-        "产品测评",
-        "营养科普"
-      ],
-      "priority_label": "中"
-    },
-    "title": "《中国机器狼群巷战画面首次公开 - 希宝罐头》",
-    "platform": "抖音",
-    "angle": "喂养攻略",
-    "hot_topic": "中国机器狼群巷战画面首次公开",
-    "script_type": "视频脚本",
-    "engagement_estimate": "11,660+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052972"
-  },
-  {
-    "id": "宠物食品_20260326234126",
-    "client": {
-      "industry": "宠物食品",
-      "brand": "通用磨坊/希宝",
-      "sku_count": 2,
-      "priority": 3,
-      "products": [
-        "希宝罐头",
-        "通用磨坊猫粮",
-        "希宝湿粮"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "萌宠日常",
-        "喂养攻略",
-        "产品测评",
-        "营养科普"
-      ],
-      "priority_label": "中"
-    },
-    "title": "《我国又一次发射一箭双星｜希宝罐头测评》",
+    "title": "《春日穿搭OOTD！荣耀产品使用心得》",
     "platform": "小红书",
     "angle": "产品测评",
-    "hot_topic": "我国又一次发射一箭双星",
-    "script_type": "图文脚本",
-    "engagement_estimate": "5,455+",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "荣耀手机",
+    "engagement_estimate": "10193+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052977"
+    "created_at": "2026-03-27T10:08:18.489844"
   },
   {
-    "id": "食品饮料_20260326234126",
+    "id": "3C数码_202603279006",
     "client": {
-      "industry": "食品饮料",
-      "brand": "家乐",
-      "sku_count": 1,
-      "priority": 3,
+      "industry": "3C数码",
+      "brand": "罗技",
       "products": [
-        "家乐调味料",
-        "家乐汤底",
-        "家乐快手菜包"
+        "罗技键鼠",
+        "罗技摄像头"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "美食教程",
-        "快手菜",
-        "场景植入",
-        "食谱分享"
-      ],
-      "priority_label": "中"
+      "priority": 4
     },
-    "title": "《春日减脂计划 - 家乐调味》",
+    "title": "《健康饮食计划！罗技产品使用心得》",
     "platform": "抖音",
-    "angle": "美食教程",
-    "hot_topic": "春日减脂计划",
-    "script_type": "视频脚本",
-    "engagement_estimate": "30,000+",
+    "angle": "热点借势",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "罗技摄像头",
+    "engagement_estimate": "30077+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052987"
+    "created_at": "2026-03-27T10:08:18.489853"
   },
   {
-    "id": "食品饮料_20260326234126",
+    "id": "3C数码_202603276203",
     "client": {
-      "industry": "食品饮料",
-      "brand": "家乐",
-      "sku_count": 1,
-      "priority": 3,
+      "industry": "3C数码",
+      "brand": "罗技",
       "products": [
-        "家乐调味料",
-        "家乐汤底",
-        "家乐快手菜包"
+        "罗技键鼠",
+        "罗技摄像头"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "美食教程",
-        "快手菜",
-        "场景植入",
-        "食谱分享"
-      ],
-      "priority_label": "中"
+      "priority": 4
     },
-    "title": "《春季养生食谱 - 家乐调味》",
+    "title": "《春季护肤攻略？罗技键鼠真实测评》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技键鼠",
+    "engagement_estimate": "34402+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489857"
+  },
+  {
+    "id": "3C数码_202603273590",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《春日穿搭OOTD！罗技产品使用心得》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "罗技键鼠",
+    "engagement_estimate": "19330+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489861"
+  },
+  {
+    "id": "3C数码_202603276199",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《借势露营装备推荐，罗技摄像头这样用超赞》",
     "platform": "小红书",
-    "angle": "快手菜",
-    "hot_topic": "春季养生食谱",
-    "script_type": "图文脚本",
-    "engagement_estimate": "15,000+",
+    "angle": "热点借势",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技摄像头",
+    "engagement_estimate": "41647+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052993"
+    "created_at": "2026-03-27T10:08:18.489864"
   },
   {
-    "id": "食品饮料_20260326234126",
+    "id": "3C数码_202603273252",
     "client": {
-      "industry": "食品饮料",
-      "brand": "家乐",
-      "sku_count": 1,
-      "priority": 3,
+      "industry": "3C数码",
+      "brand": "罗技",
       "products": [
-        "家乐调味料",
-        "家乐汤底",
-        "家乐快手菜包"
+        "罗技键鼠",
+        "罗技摄像头"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "美食教程",
-        "快手菜",
-        "场景植入",
-        "食谱分享"
-      ],
-      "priority_label": "中"
+      "priority": 4
     },
-    "title": "《春日减脂计划，家乐调味场景》",
-    "platform": "抖音",
-    "angle": "场景植入",
-    "hot_topic": "春日减脂计划",
-    "script_type": "视频脚本",
-    "engagement_estimate": "30,000+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.052999"
-  },
-  {
-    "id": "电池_20260326234126",
-    "client": {
-      "industry": "电池",
-      "brand": "传应/南孚/益圆",
-      "sku_count": 3,
-      "priority": 3,
-      "products": [
-        "传应电池",
-        "南孚聚能环",
-        "益圆电池"
-      ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "产品测评",
-        "使用场景",
-        "对比测试",
-        "续航测试"
-      ],
-      "priority_label": "中"
-    },
-    "title": "《我的春日粉彩妆容公式？传应电池真实测评》",
-    "platform": "抖音",
+    "title": "《从职场效率神器看罗技键鼠的正确打开方式》",
+    "platform": "B站",
     "angle": "产品测评",
-    "hot_topic": "我的春日粉彩妆容公式",
-    "script_type": "视频脚本",
-    "engagement_estimate": "12,100+",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "罗技键鼠",
+    "engagement_estimate": "5555+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053008"
+    "created_at": "2026-03-27T10:08:18.489868"
   },
   {
-    "id": "电池_20260326234126",
+    "id": "3C数码_202603274390",
     "client": {
-      "industry": "电池",
-      "brand": "传应/南孚/益圆",
-      "sku_count": 3,
-      "priority": 3,
+      "industry": "3C数码",
+      "brand": "罗技",
       "products": [
-        "传应电池",
-        "南孚聚能环",
-        "益圆电池"
+        "罗技键鼠",
+        "罗技摄像头"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "产品测评",
-        "使用场景",
-        "对比测试",
-        "续航测试"
-      ],
-      "priority_label": "中"
+      "priority": 4
     },
-    "title": "《中国机器狼群巷战画面首次公开 - 传应电池》",
-    "platform": "小红书",
-    "angle": "使用场景",
-    "hot_topic": "中国机器狼群巷战画面首次公开",
-    "script_type": "图文脚本",
-    "engagement_estimate": "5,830+",
+    "title": "《AI黑科技测评火了，罗技也有话说》",
+    "platform": "微博",
+    "angle": "使用教程",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "罗技摄像头",
+    "engagement_estimate": "30738+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053013"
+    "created_at": "2026-03-27T10:08:18.489872"
   },
   {
-    "id": "电池_20260326234126",
+    "id": "3C数码_202603274793",
     "client": {
-      "industry": "电池",
-      "brand": "传应/南孚/益圆",
-      "sku_count": 3,
-      "priority": 3,
+      "industry": "3C数码",
+      "brand": "罗技",
       "products": [
-        "传应电池",
-        "南孚聚能环",
-        "益圆电池"
+        "罗技键鼠",
+        "罗技摄像头"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "产品测评",
-        "使用场景",
-        "对比测试",
-        "续航测试"
-      ],
-      "priority_label": "中"
+      "priority": 4
     },
-    "title": "《我国又一次发射一箭双星 - 传应电池》",
+    "title": "《借势315消费者权益，罗技摄像头这样用超赞》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "罗技摄像头",
+    "engagement_estimate": "44891+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489876"
+  },
+  {
+    "id": "3C数码_202603279629",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《从宠物日常vlog看罗技摄像头的正确打开方式》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "罗技摄像头",
+    "engagement_estimate": "12352+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489880"
+  },
+  {
+    "id": "3C数码_202603274856",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《露营装备推荐？罗技摄像头真实测评》",
     "platform": "抖音",
-    "angle": "对比测试",
-    "hot_topic": "我国又一次发射一箭双星",
-    "script_type": "视频脚本",
-    "engagement_estimate": "10,910+",
+    "angle": "痛点解决",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技摄像头",
+    "engagement_estimate": "12153+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053019"
+    "created_at": "2026-03-27T10:08:18.489888"
   },
   {
-    "id": "家居用品_20260326234126",
+    "id": "3C数码_202603279458",
     "client": {
-      "industry": "家居用品",
-      "brand": "碧然德",
-      "sku_count": 1,
-      "priority": 3,
+      "industry": "3C数码",
+      "brand": "罗技",
       "products": [
-        "碧然德净水壶",
-        "碧然德滤芯"
+        "罗技键鼠",
+        "罗技摄像头"
       ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "产品测评",
-        "使用教程",
-        "场景解决",
-        "对比测试"
-      ],
-      "priority_label": "中"
+      "priority": 4
     },
-    "title": "《我的春日粉彩妆容公式｜碧然德净测评》",
-    "platform": "小红书",
-    "angle": "产品测评",
-    "hot_topic": "我的春日粉彩妆容公式",
-    "script_type": "图文脚本",
-    "engagement_estimate": "6,050+",
+    "title": "《职场效率神器？罗技键鼠真实测评》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "罗技键鼠",
+    "engagement_estimate": "32612+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053028"
+    "created_at": "2026-03-27T10:08:18.489891"
   },
   {
-    "id": "家居用品_20260326234126",
+    "id": "3C数码_202603275158",
     "client": {
-      "industry": "家居用品",
-      "brand": "碧然德",
-      "sku_count": 1,
-      "priority": 3,
+      "industry": "3C数码",
+      "brand": "罗技",
       "products": [
-        "碧然德净水壶",
-        "碧然德滤芯"
+        "罗技键鼠",
+        "罗技摄像头"
       ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "产品测评",
-        "使用教程",
-        "场景解决",
-        "对比测试"
-      ],
-      "priority_label": "中"
+      "priority": 4
     },
-    "title": "《中国机器狼群巷战画面首次公开，碧然德净教程》",
+    "title": "《科技新品开箱！罗技产品使用心得》",
     "platform": "抖音",
     "angle": "使用教程",
-    "hot_topic": "中国机器狼群巷战画面首次公开",
-    "script_type": "视频脚本",
-    "engagement_estimate": "11,660+",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "罗技摄像头",
+    "engagement_estimate": "13062+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053034"
+    "created_at": "2026-03-27T10:08:18.489895"
   },
   {
-    "id": "家居用品_20260326234126",
+    "id": "3C数码_202603278696",
     "client": {
-      "industry": "家居用品",
-      "brand": "碧然德",
-      "sku_count": 1,
-      "priority": 3,
+      "industry": "3C数码",
+      "brand": "罗技",
       "products": [
-        "碧然德净水壶",
-        "碧然德滤芯"
+        "罗技键鼠",
+        "罗技摄像头"
       ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "产品测评",
-        "使用教程",
-        "场景解决",
-        "对比测试"
-      ],
-      "priority_label": "中"
+      "priority": 4
     },
-    "title": "《我国又一次发射一箭双星 - 碧然德净》",
-    "platform": "小红书",
-    "angle": "场景解决",
-    "hot_topic": "我国又一次发射一箭双星",
-    "script_type": "图文脚本",
-    "engagement_estimate": "5,455+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053040"
-  },
-  {
-    "id": "医药_20260326234126",
-    "client": {
-      "industry": "医药",
-      "brand": "华润三九",
-      "sku_count": 1,
-      "priority": 3,
-      "products": [
-        "999感冒灵",
-        "999皮炎平",
-        "999胃泰"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "健康科普",
-        "用药指南",
-        "家庭常备",
-        "季节提醒"
-      ],
-      "priority_label": "中"
-    },
-    "title": "《春日减脂计划 - 999感》",
-    "platform": "小红书",
-    "angle": "健康科普",
-    "hot_topic": "春日减脂计划",
-    "script_type": "图文脚本",
-    "engagement_estimate": "15,000+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053048"
-  },
-  {
-    "id": "医药_20260326234126",
-    "client": {
-      "industry": "医药",
-      "brand": "华润三九",
-      "sku_count": 1,
-      "priority": 3,
-      "products": [
-        "999感冒灵",
-        "999皮炎平",
-        "999胃泰"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "健康科普",
-        "用药指南",
-        "家庭常备",
-        "季节提醒"
-      ],
-      "priority_label": "中"
-    },
-    "title": "《43岁不健身和61岁健身的区别 - 999感》",
-    "platform": "抖音",
-    "angle": "用药指南",
-    "hot_topic": "43岁不健身和61岁健身的区别",
-    "script_type": "视频脚本",
-    "engagement_estimate": "250+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053054"
-  },
-  {
-    "id": "医药_20260326234126",
-    "client": {
-      "industry": "医药",
-      "brand": "华润三九",
-      "sku_count": 1,
-      "priority": 3,
-      "products": [
-        "999感冒灵",
-        "999皮炎平",
-        "999胃泰"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音"
-      ],
-      "content_angles": [
-        "健康科普",
-        "用药指南",
-        "家庭常备",
-        "季节提醒"
-      ],
-      "priority_label": "中"
-    },
-    "title": "《春日减脂计划 - 999感》",
-    "platform": "小红书",
-    "angle": "家庭常备",
-    "hot_topic": "春日减脂计划",
-    "script_type": "图文脚本",
-    "engagement_estimate": "15,000+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053060"
-  },
-  {
-    "id": "汽车_20260326234126",
-    "client": {
-      "industry": "汽车",
-      "brand": "大通房车",
-      "sku_count": 1,
-      "priority": 2,
-      "products": [
-        "大通房车",
-        "房车旅行"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音",
-        "B站"
-      ],
-      "content_angles": [
-        "生活方式",
-        "旅行攻略",
-        "产品体验",
-        "场景展示"
-      ],
-      "priority_label": "低"
-    },
-    "title": "《我的春日粉彩妆容公式 - 大通房车》",
-    "platform": "小红书",
-    "angle": "生活方式",
-    "hot_topic": "我的春日粉彩妆容公式",
-    "script_type": "图文脚本",
-    "engagement_estimate": "4,033+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053069"
-  },
-  {
-    "id": "汽车_20260326234126",
-    "client": {
-      "industry": "汽车",
-      "brand": "大通房车",
-      "sku_count": 1,
-      "priority": 2,
-      "products": [
-        "大通房车",
-        "房车旅行"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音",
-        "B站"
-      ],
-      "content_angles": [
-        "生活方式",
-        "旅行攻略",
-        "产品体验",
-        "场景展示"
-      ],
-      "priority_label": "低"
-    },
-    "title": "《中国机器狼群巷战画面首次公开 - 大通房车》",
-    "platform": "抖音",
-    "angle": "旅行攻略",
-    "hot_topic": "中国机器狼群巷战画面首次公开",
-    "script_type": "视频脚本",
-    "engagement_estimate": "7,773+",
-    "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053075"
-  },
-  {
-    "id": "汽车_20260326234126",
-    "client": {
-      "industry": "汽车",
-      "brand": "大通房车",
-      "sku_count": 1,
-      "priority": 2,
-      "products": [
-        "大通房车",
-        "房车旅行"
-      ],
-      "platforms": [
-        "小红书",
-        "抖音",
-        "B站"
-      ],
-      "content_angles": [
-        "生活方式",
-        "旅行攻略",
-        "产品体验",
-        "场景展示"
-      ],
-      "priority_label": "低"
-    },
-    "title": "《【体验】我国又一次发射一箭双星，大通房车》",
+    "title": "《借势春季护肤攻略，罗技键鼠这样用超赞》",
     "platform": "B站",
-    "angle": "产品体验",
-    "hot_topic": "我国又一次发射一箭双星",
-    "script_type": "图文脚本",
-    "engagement_estimate": "2,182+",
+    "angle": "开箱体验",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技键鼠",
+    "engagement_estimate": "38810+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053080"
+    "created_at": "2026-03-27T10:08:18.489899"
   },
   {
-    "id": "互联网金融_20260326234126",
+    "id": "3C数码_202603277109",
     "client": {
-      "industry": "互联网金融",
-      "brand": "度小满",
-      "sku_count": 1,
-      "priority": 2,
+      "industry": "3C数码",
+      "brand": "罗技",
       "products": [
-        "度小满理财",
-        "度小满分期"
+        "罗技键鼠",
+        "罗技摄像头"
       ],
-      "platforms": [
-        "B站",
-        "小红书"
-      ],
-      "content_angles": [
-        "理财科普",
-        "产品推荐",
-        "避坑指南",
-        "场景植入"
-      ],
-      "priority_label": "低"
+      "priority": 4
     },
-    "title": "《我的春日粉彩妆容公式 - 度小满理》",
+    "title": "《健身打卡挑战火了，罗技也有话说》",
     "platform": "B站",
-    "angle": "理财科普",
-    "hot_topic": "我的春日粉彩妆容公式",
-    "script_type": "图文脚本",
-    "engagement_estimate": "2,420+",
+    "angle": "开箱体验",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "罗技键鼠",
+    "engagement_estimate": "35078+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053089"
+    "created_at": "2026-03-27T10:08:18.489902"
   },
   {
-    "id": "互联网金融_20260326234126",
+    "id": "快消_202603271066",
     "client": {
-      "industry": "互联网金融",
-      "brand": "度小满",
-      "sku_count": 1,
-      "priority": 2,
+      "industry": "快消",
+      "brand": "AHC",
       "products": [
-        "度小满理财",
-        "度小满分期"
+        "AHC水乳",
+        "AHC防晒"
       ],
-      "platforms": [
-        "B站",
-        "小红书"
-      ],
-      "content_angles": [
-        "理财科普",
-        "产品推荐",
-        "避坑指南",
-        "场景植入"
-      ],
-      "priority_label": "低"
+      "priority": 5
     },
-    "title": "《中国机器狼群巷战画面首次公开 - 度小满理》",
-    "platform": "小红书",
-    "angle": "产品推荐",
-    "hot_topic": "中国机器狼群巷战画面首次公开",
-    "script_type": "图文脚本",
-    "engagement_estimate": "3,886+",
+    "title": "《借势315消费者权益，AHC防晒这样用超赞》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "AHC防晒",
+    "engagement_estimate": "13570+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053100"
+    "created_at": "2026-03-27T10:08:18.489911"
   },
   {
-    "id": "互联网金融_20260326234126",
+    "id": "快消_202603279523",
     "client": {
-      "industry": "互联网金融",
-      "brand": "度小满",
-      "sku_count": 1,
-      "priority": 2,
+      "industry": "快消",
+      "brand": "AHC",
       "products": [
-        "度小满理财",
-        "度小满分期"
+        "AHC水乳",
+        "AHC防晒"
       ],
-      "platforms": [
-        "B站",
-        "小红书"
-      ],
-      "content_angles": [
-        "理财科普",
-        "产品推荐",
-        "避坑指南",
-        "场景植入"
-      ],
-      "priority_label": "低"
+      "priority": 5
     },
-    "title": "《我国又一次发射一箭双星 - 度小满理》",
+    "title": "《借势健身打卡挑战，AHC防晒这样用超赞》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "AHC防晒",
+    "engagement_estimate": "30355+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489915"
+  },
+  {
+    "id": "快消_202603273175",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒"
+      ],
+      "priority": 5
+    },
+    "title": "《借势宠物日常vlog，AHC防晒这样用超赞》",
+    "platform": "微博",
+    "angle": "场景展示",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "AHC防晒",
+    "engagement_estimate": "15576+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489919"
+  },
+  {
+    "id": "快消_202603273986",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒"
+      ],
+      "priority": 5
+    },
+    "title": "《借势职场效率神器，AHC水乳这样用超赞》",
+    "platform": "抖音",
+    "angle": "对比评测",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "AHC水乳",
+    "engagement_estimate": "35599+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489923"
+  },
+  {
+    "id": "快消_202603271228",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒"
+      ],
+      "priority": 5
+    },
+    "title": "《春日穿搭OOTD！AHC产品使用心得》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "AHC水乳",
+    "engagement_estimate": "14564+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489926"
+  },
+  {
+    "id": "快消_202603275896",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒"
+      ],
+      "priority": 5
+    },
+    "title": "《315消费者权益？AHC防晒真实测评》",
+    "platform": "微博",
+    "angle": "使用教程",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "AHC防晒",
+    "engagement_estimate": "39724+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489930"
+  },
+  {
+    "id": "快消_202603278576",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒"
+      ],
+      "priority": 5
+    },
+    "title": "《健身打卡挑战？AHC水乳真实测评》",
     "platform": "B站",
-    "angle": "避坑指南",
-    "hot_topic": "我国又一次发射一箭双星",
-    "script_type": "图文脚本",
-    "engagement_estimate": "2,182+",
+    "angle": "使用教程",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "AHC水乳",
+    "engagement_estimate": "36450+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053106"
+    "created_at": "2026-03-27T10:08:18.489939"
   },
   {
-    "id": "宠物服务_20260326234126",
+    "id": "快消_202603272617",
     "client": {
-      "industry": "宠物服务",
-      "brand": "宠胖胖",
-      "sku_count": 1,
-      "priority": 2,
+      "industry": "快消",
+      "brand": "AHC",
       "products": [
-        "宠胖胖APP",
-        "宠物服务"
+        "AHC水乳",
+        "AHC防晒"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "APP教程",
-        "服务推荐",
-        "萌宠社交",
-        "功能测评"
-      ],
-      "priority_label": "低"
+      "priority": 5
     },
-    "title": "《我的春日粉彩妆容公式 - 宠胖胖A》",
+    "title": "《借势315消费者权益，AHC水乳这样用超赞》",
     "platform": "抖音",
-    "angle": "APP教程",
-    "hot_topic": "我的春日粉彩妆容公式",
-    "script_type": "视频脚本",
-    "engagement_estimate": "8,066+",
+    "angle": "使用教程",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "AHC水乳",
+    "engagement_estimate": "6988+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053115"
+    "created_at": "2026-03-27T10:08:18.489943"
   },
   {
-    "id": "宠物服务_20260326234126",
+    "id": "快消_202603273811",
     "client": {
-      "industry": "宠物服务",
-      "brand": "宠胖胖",
-      "sku_count": 1,
-      "priority": 2,
+      "industry": "快消",
+      "brand": "AHC",
       "products": [
-        "宠胖胖APP",
-        "宠物服务"
+        "AHC水乳",
+        "AHC防晒"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "APP教程",
-        "服务推荐",
-        "萌宠社交",
-        "功能测评"
-      ],
-      "priority_label": "低"
+      "priority": 5
     },
-    "title": "《中国机器狼群巷战画面首次公开 - 宠胖胖A》",
+    "title": "《春季护肤攻略火了，AHC也有话说》",
     "platform": "小红书",
-    "angle": "服务推荐",
-    "hot_topic": "中国机器狼群巷战画面首次公开",
-    "script_type": "图文脚本",
-    "engagement_estimate": "3,886+",
+    "angle": "开箱体验",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC防晒",
+    "engagement_estimate": "35434+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053121"
+    "created_at": "2026-03-27T10:08:18.489947"
   },
   {
-    "id": "宠物服务_20260326234126",
+    "id": "快消_202603274671",
     "client": {
-      "industry": "宠物服务",
-      "brand": "宠胖胖",
-      "sku_count": 1,
-      "priority": 2,
+      "industry": "快消",
+      "brand": "AHC",
       "products": [
-        "宠胖胖APP",
-        "宠物服务"
+        "AHC水乳",
+        "AHC防晒"
       ],
-      "platforms": [
-        "抖音",
-        "小红书"
-      ],
-      "content_angles": [
-        "APP教程",
-        "服务推荐",
-        "萌宠社交",
-        "功能测评"
-      ],
-      "priority_label": "低"
+      "priority": 5
     },
-    "title": "《我国又一次发射一箭双星 - 宠胖胖A》",
-    "platform": "抖音",
-    "angle": "萌宠社交",
-    "hot_topic": "我国又一次发射一箭双星",
-    "script_type": "视频脚本",
-    "engagement_estimate": "7,273+",
+    "title": "《从春日穿搭OOTD看AHC水乳的正确打开方式》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "AHC水乳",
+    "engagement_estimate": "5105+",
     "status": "pending",
-    "created_at": "2026-03-26T23:41:26.053127"
+    "created_at": "2026-03-27T10:08:18.489950"
+  },
+  {
+    "id": "快消_202603277039",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒"
+      ],
+      "priority": 5
+    },
+    "title": "《健身打卡挑战？AHC水乳真实测评》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "AHC水乳",
+    "engagement_estimate": "46844+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489954"
+  },
+  {
+    "id": "快消_202603271854",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《春日穿搭OOTD？多芬沐浴露真实测评》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "30532+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489962"
+  },
+  {
+    "id": "快消_202603271777",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《春季护肤攻略？多芬洗发水真实测评》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬洗发水",
+    "engagement_estimate": "43320+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489966"
+  },
+  {
+    "id": "快消_202603277230",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《从宠物日常vlog看多芬沐浴露的正确打开方式》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "37034+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489970"
+  },
+  {
+    "id": "快消_202603276390",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《借势科技新品开箱，多芬沐浴露这样用超赞》",
+    "platform": "抖音",
+    "angle": "对比评测",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "23031+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489973"
+  },
+  {
+    "id": "快消_202603274235",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《从315消费者权益看多芬洗发水的正确打开方式》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "多芬洗发水",
+    "engagement_estimate": "38873+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489977"
+  },
+  {
+    "id": "快消_202603279246",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《借势春季护肤攻略，多芬洗发水这样用超赞》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬洗发水",
+    "engagement_estimate": "40749+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489981"
+  },
+  {
+    "id": "快消_202603275074",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《借势春季护肤攻略，多芬洗发水这样用超赞》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬洗发水",
+    "engagement_estimate": "49983+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489984"
+  },
+  {
+    "id": "快消_202603274507",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《借势AI黑科技测评，多芬洗发水这样用超赞》",
+    "platform": "B站",
+    "angle": "对比评测",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬洗发水",
+    "engagement_estimate": "16195+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489988"
+  },
+  {
+    "id": "快消_202603276831",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《健康饮食计划！多芬产品使用心得》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "47245+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489993"
+  },
+  {
+    "id": "快消_202603275064",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《借势AI黑科技测评，多芬沐浴露这样用超赞》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "47050+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.489997"
+  },
+  {
+    "id": "快消_202603274439",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《315消费者权益火了，多芬也有话说》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "20644+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490001"
+  },
+  {
+    "id": "快消_202603275846",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《露营装备推荐火了，多芬也有话说》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "24311+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490005"
+  },
+  {
+    "id": "快消_202603272929",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《从健身打卡挑战看多芬沐浴露的正确打开方式》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "15931+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490009"
+  },
+  {
+    "id": "快消_202603279964",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《春日穿搭OOTD？多芬沐浴露真实测评》",
+    "platform": "B站",
+    "angle": "种草推荐",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "26480+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490014"
+  },
+  {
+    "id": "快消_202603272103",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《科技新品开箱？力士洗发水真实测评》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "力士洗发水",
+    "engagement_estimate": "30617+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490021"
+  },
+  {
+    "id": "快消_202603279130",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《从健康饮食计划看力士沐浴露的正确打开方式》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "力士沐浴露",
+    "engagement_estimate": "47073+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490024"
+  },
+  {
+    "id": "快消_202603277979",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《借势春日穿搭OOTD，力士洗发水这样用超赞》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "力士洗发水",
+    "engagement_estimate": "32301+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490028"
+  },
+  {
+    "id": "快消_202603275070",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《春日穿搭OOTD？力士沐浴露真实测评》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "力士沐浴露",
+    "engagement_estimate": "25185+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490032"
+  },
+  {
+    "id": "快消_202603273644",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《露营装备推荐！力士产品使用心得》",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士沐浴露",
+    "engagement_estimate": "17590+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490036"
+  },
+  {
+    "id": "快消_202603275305",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《职场效率神器？力士洗发水真实测评》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "力士洗发水",
+    "engagement_estimate": "44513+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490039"
+  },
+  {
+    "id": "快消_202603276860",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《借势科技新品开箱，力士洗发水这样用超赞》",
+    "platform": "微博",
+    "angle": "开箱体验",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "力士洗发水",
+    "engagement_estimate": "37955+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490043"
+  },
+  {
+    "id": "快消_202603274387",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《315消费者权益火了，力士也有话说》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "力士沐浴露",
+    "engagement_estimate": "27005+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490047"
+  },
+  {
+    "id": "快消_202603274600",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《健身打卡挑战火了，力士也有话说》",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "力士沐浴露",
+    "engagement_estimate": "46333+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490051"
+  },
+  {
+    "id": "快消_202603275288",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《借势健身打卡挑战，力士沐浴露这样用超赞》",
+    "platform": "B站",
+    "angle": "开箱体验",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "力士沐浴露",
+    "engagement_estimate": "29254+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490054"
+  },
+  {
+    "id": "快消_202603272301",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《露营装备推荐？力士沐浴露真实测评》",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士沐浴露",
+    "engagement_estimate": "29737+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490059"
+  },
+  {
+    "id": "快消_202603275341",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《借势春季护肤攻略，清扬洗发水这样用超赞》",
+    "platform": "微博",
+    "angle": "开箱体验",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "19349+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490066"
+  },
+  {
+    "id": "快消_202603274804",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《宠物日常vlog？清扬洗发水真实测评》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "15010+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490070"
+  },
+  {
+    "id": "快消_202603275556",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《315消费者权益火了，清扬也有话说》",
+    "platform": "抖音",
+    "angle": "开箱体验",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "清扬洗发水",
+    "engagement_estimate": "14894+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490073"
+  },
+  {
+    "id": "快消_202603275794",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《借势315消费者权益，清扬洗发水这样用超赞》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "清扬洗发水",
+    "engagement_estimate": "44462+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490078"
+  },
+  {
+    "id": "快消_202603274896",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《借势AI黑科技测评，清扬洗发水这样用超赞》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "27039+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490082"
+  },
+  {
+    "id": "快消_202603275211",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《借势露营装备推荐，清扬洗发水这样用超赞》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "14864+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490086"
+  },
+  {
+    "id": "快消_202603278960",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《春季护肤攻略！清扬产品使用心得》",
+    "platform": "微博",
+    "angle": "开箱体验",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "14575+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490090"
+  },
+  {
+    "id": "快消_202603277387",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《职场效率神器？清扬洗发水真实测评》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "15888+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490094"
+  },
+  {
+    "id": "快消_202603271026",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《从315消费者权益看清扬洗发水的正确打开方式》",
+    "platform": "微博",
+    "angle": "开箱体验",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "清扬洗发水",
+    "engagement_estimate": "34595+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490097"
+  },
+  {
+    "id": "快消_202603271348",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《315消费者权益？清扬洗发水真实测评》",
+    "platform": "微博",
+    "angle": "场景展示",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "清扬洗发水",
+    "engagement_estimate": "38388+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490101"
+  },
+  {
+    "id": "快消_202603272945",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《职场效率神器？清扬洗发水真实测评》",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "38392+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490105"
+  },
+  {
+    "id": "快消_202603275355",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《春季护肤攻略火了，清扬也有话说》",
+    "platform": "抖音",
+    "angle": "对比评测",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "7781+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490109"
+  },
+  {
+    "id": "快消_202603277502",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《315消费者权益？清扬洗发水真实测评》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "清扬洗发水",
+    "engagement_estimate": "5564+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490112"
+  },
+  {
+    "id": "快消_202603278345",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《从宠物日常vlog看清扬洗发水的正确打开方式》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "48051+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490117"
+  },
+  {
+    "id": "快消_202603277806",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《春日穿搭OOTD？清扬洗发水真实测评》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "43341+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490121"
+  },
+  {
+    "id": "快消_202603277222",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《科技新品开箱火了，舒适也有话说》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "34394+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490127"
+  },
+  {
+    "id": "快消_202603272858",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《借势春日穿搭OOTD，舒适洗衣液这样用超赞》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "14225+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490131"
+  },
+  {
+    "id": "快消_202603279163",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《借势科技新品开箱，舒适洗衣液这样用超赞》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "21440+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490135"
+  },
+  {
+    "id": "快消_202603271498",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《宠物日常vlog？舒适洗衣液真实测评》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "27052+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490139"
+  },
+  {
+    "id": "快消_202603272140",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《健康饮食计划？舒适洗衣液真实测评》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "15624+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490142"
+  },
+  {
+    "id": "快消_202603276557",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《宠物日常vlog？舒适洗衣液真实测评》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "23523+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490146"
+  },
+  {
+    "id": "快消_202603272344",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《AI黑科技测评？舒适洗衣液真实测评》",
+    "platform": "B站",
+    "angle": "开箱体验",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "43869+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490150"
+  },
+  {
+    "id": "快消_202603274886",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《从健康饮食计划看舒适洗衣液的正确打开方式》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "43527+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490153"
+  },
+  {
+    "id": "快消_202603277324",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《宠物日常vlog？舒适洗衣液真实测评》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "44210+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490157"
+  },
+  {
+    "id": "快消_202603278387",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《借势春日穿搭OOTD，舒适洗衣液这样用超赞》",
+    "platform": "微博",
+    "angle": "场景展示",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "43745+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490161"
+  },
+  {
+    "id": "快消_202603274314",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《露营装备推荐！舒适产品使用心得》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "29009+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490165"
+  },
+  {
+    "id": "快消_202603277941",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《借势春日穿搭OOTD，舒适洗衣液这样用超赞》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "13559+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490168"
+  },
+  {
+    "id": "快消_202603275989",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《AI黑科技测评！舒适产品使用心得》",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "40425+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490172"
+  },
+  {
+    "id": "保健品_202603277913",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《借势健康饮食计划，鱼油这样用超赞》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "鱼油",
+    "engagement_estimate": "43389+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490179"
+  },
+  {
+    "id": "保健品_202603276642",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《315消费者权益！汤臣倍健产品使用心得》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "蛋白粉",
+    "engagement_estimate": "23346+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490183"
+  },
+  {
+    "id": "保健品_202603279961",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《借势春日穿搭OOTD，蛋白粉这样用超赞》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "蛋白粉",
+    "engagement_estimate": "13452+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490187"
+  },
+  {
+    "id": "保健品_202603278670",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《宠物日常vlog？维生素真实测评》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "维生素",
+    "engagement_estimate": "18191+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490190"
+  },
+  {
+    "id": "保健品_202603272999",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《从露营装备推荐看蛋白粉的正确打开方式》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "蛋白粉",
+    "engagement_estimate": "35197+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490194"
+  },
+  {
+    "id": "保健品_202603271076",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《从职场效率神器看鱼油的正确打开方式》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "鱼油",
+    "engagement_estimate": "36409+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490198"
+  },
+  {
+    "id": "保健品_202603277283",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《科技新品开箱火了，汤臣倍健也有话说》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "鱼油",
+    "engagement_estimate": "41403+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490201"
+  },
+  {
+    "id": "保健品_202603279302",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《宠物日常vlog？鱼油真实测评》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "鱼油",
+    "engagement_estimate": "12149+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490205"
+  },
+  {
+    "id": "保健品_202603276542",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《健身打卡挑战火了，汤臣倍健也有话说》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "维生素",
+    "engagement_estimate": "8494+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490209"
+  },
+  {
+    "id": "保健品_202603279794",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《露营装备推荐？鱼油真实测评》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "鱼油",
+    "engagement_estimate": "44754+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490214"
+  },
+  {
+    "id": "保健品_202603277463",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《职场效率神器！汤臣倍健产品使用心得》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "蛋白粉",
+    "engagement_estimate": "37267+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490219"
+  },
+  {
+    "id": "家庭清洁_202603272339",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《健身打卡挑战！HC产品使用心得》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "HC清洁剂",
+    "engagement_estimate": "22563+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490227"
+  },
+  {
+    "id": "家庭清洁_202603278311",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《315消费者权益！HC产品使用心得》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "HC清洁剂",
+    "engagement_estimate": "28958+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490231"
+  },
+  {
+    "id": "家庭清洁_202603275093",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《职场效率神器！HC产品使用心得》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "HC清洁剂",
+    "engagement_estimate": "7601+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490235"
+  },
+  {
+    "id": "家庭清洁_202603277547",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《露营装备推荐火了，HC也有话说》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC清洁剂",
+    "engagement_estimate": "46253+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490238"
+  },
+  {
+    "id": "家庭清洁_202603277365",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《借势AI黑科技测评，HC清洁剂这样用超赞》",
+    "platform": "B站",
+    "angle": "热点借势",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "HC清洁剂",
+    "engagement_estimate": "15510+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490242"
+  },
+  {
+    "id": "家庭清洁_202603271737",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《借势315消费者权益，HC清洁剂这样用超赞》",
+    "platform": "微博",
+    "angle": "场景展示",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "HC清洁剂",
+    "engagement_estimate": "35066+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490246"
+  },
+  {
+    "id": "家庭清洁_202603276000",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《科技新品开箱？HC清洁剂真实测评》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "HC清洁剂",
+    "engagement_estimate": "7321+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490250"
+  },
+  {
+    "id": "家庭清洁_202603275955",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《健身打卡挑战？HC清洁剂真实测评》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "HC清洁剂",
+    "engagement_estimate": "37619+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490253"
+  },
+  {
+    "id": "家庭清洁_202603275087",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《健康饮食计划？HC清洁剂真实测评》",
+    "platform": "微博",
+    "angle": "场景展示",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "HC清洁剂",
+    "engagement_estimate": "19892+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490257"
+  },
+  {
+    "id": "家庭清洁_202603275937",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《借势健身打卡挑战，HC清洁剂这样用超赞》",
+    "platform": "B站",
+    "angle": "种草推荐",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "HC清洁剂",
+    "engagement_estimate": "47110+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490261"
+  },
+  {
+    "id": "宠物食品_202603273231",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《健康饮食计划火了，希宝也有话说》",
+    "platform": "微博",
+    "angle": "场景展示",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "猫粮",
+    "engagement_estimate": "8673+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490267"
+  },
+  {
+    "id": "宠物食品_202603273969",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《职场效率神器？狗粮真实测评》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "狗粮",
+    "engagement_estimate": "16977+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490271"
+  },
+  {
+    "id": "宠物食品_202603279452",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《借势春季护肤攻略，狗粮这样用超赞》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "狗粮",
+    "engagement_estimate": "30902+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490275"
+  },
+  {
+    "id": "宠物食品_202603277099",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《AI黑科技测评？狗粮真实测评》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "狗粮",
+    "engagement_estimate": "15383+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490279"
+  },
+  {
+    "id": "宠物食品_202603277745",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《春季护肤攻略！希宝产品使用心得》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "狗粮",
+    "engagement_estimate": "10497+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490283"
+  },
+  {
+    "id": "宠物食品_202603274403",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《AI黑科技测评！希宝产品使用心得》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "猫粮",
+    "engagement_estimate": "13065+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490287"
+  },
+  {
+    "id": "宠物食品_202603272112",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《从宠物日常vlog看狗粮的正确打开方式》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "狗粮",
+    "engagement_estimate": "30850+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490291"
+  },
+  {
+    "id": "宠物食品_202603278192",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《AI黑科技测评？猫粮真实测评》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "猫粮",
+    "engagement_estimate": "43369+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490294"
+  },
+  {
+    "id": "宠物食品_202603277377",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《宠物日常vlog火了，希宝也有话说》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "猫粮",
+    "engagement_estimate": "5327+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490298"
+  },
+  {
+    "id": "宠物食品_202603272425",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《从职场效率神器看狗粮的正确打开方式》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "狗粮",
+    "engagement_estimate": "32892+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490302"
+  },
+  {
+    "id": "食品饮料_202603273875",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《315消费者权益？燕麦奶真实测评》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "燕麦奶",
+    "engagement_estimate": "31207+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490309"
+  },
+  {
+    "id": "食品饮料_202603278477",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《健康饮食计划火了，OATLY也有话说》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "燕麦奶",
+    "engagement_estimate": "48497+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490313"
+  },
+  {
+    "id": "食品饮料_202603279201",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《露营装备推荐！OATLY产品使用心得》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "engagement_estimate": "38312+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490316"
+  },
+  {
+    "id": "食品饮料_202603274452",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《从健康饮食计划看燕麦奶的正确打开方式》",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "燕麦奶",
+    "engagement_estimate": "45117+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490320"
+  },
+  {
+    "id": "食品饮料_202603271124",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《科技新品开箱？咖啡真实测评》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "咖啡",
+    "engagement_estimate": "36404+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490324"
+  },
+  {
+    "id": "食品饮料_202603273593",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《从健身打卡挑战看咖啡的正确打开方式》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "咖啡",
+    "engagement_estimate": "23640+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490328"
+  },
+  {
+    "id": "食品饮料_202603275034",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《315消费者权益！OATLY产品使用心得》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "咖啡",
+    "engagement_estimate": "24618+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490331"
+  },
+  {
+    "id": "食品饮料_202603279866",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《春日穿搭OOTD！OATLY产品使用心得》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "engagement_estimate": "49567+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490335"
+  },
+  {
+    "id": "食品饮料_202603279869",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《职场效率神器火了，OATLY也有话说》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "燕麦奶",
+    "engagement_estimate": "16863+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490339"
+  },
+  {
+    "id": "食品饮料_202603277627",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《科技新品开箱？燕麦奶真实测评》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "燕麦奶",
+    "engagement_estimate": "7485+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490343"
+  },
+  {
+    "id": "食品饮料_202603273663",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《借势春日穿搭OOTD，燕麦奶这样用超赞》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "engagement_estimate": "32413+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490346"
+  },
+  {
+    "id": "食品饮料_202603275106",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《春季护肤攻略？咖啡真实测评》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "春季护肤攻略",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "engagement_estimate": "20985+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490350"
+  },
+  {
+    "id": "食品饮料_202603276645",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡"
+      ],
+      "priority": 4
+    },
+    "title": "《从露营装备推荐看咖啡的正确打开方式》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "engagement_estimate": "28492+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490354"
+  },
+  {
+    "id": "食品饮料_202603276516",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《AI黑科技测评？啤酒真实测评》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "啤酒",
+    "engagement_estimate": "21527+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490360"
+  },
+  {
+    "id": "食品饮料_202603273862",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《健康饮食计划！百威产品使用心得》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "健康饮食计划",
+    "heat": "337万",
+    "trend": "🔥🔥 热议中",
+    "product": "啤酒",
+    "engagement_estimate": "43623+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490364"
+  },
+  {
+    "id": "食品饮料_202603271921",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《借势春日穿搭OOTD，啤酒这样用超赞》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春日穿搭OOTD",
+    "heat": "4亿浏览",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "啤酒",
+    "engagement_estimate": "41511+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490368"
+  },
+  {
+    "id": "食品饮料_202603271558",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《从职场效率神器看啤酒的正确打开方式》",
+    "platform": "抖音",
+    "angle": "开箱体验",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "啤酒",
+    "engagement_estimate": "49743+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490371"
+  },
+  {
+    "id": "食品饮料_202603278751",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《315消费者权益！百威产品使用心得》",
+    "platform": "抖音",
+    "angle": "开箱体验",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "啤酒",
+    "engagement_estimate": "44832+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490375"
+  },
+  {
+    "id": "食品饮料_202603273893",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《职场效率神器！百威产品使用心得》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "职场效率神器",
+    "heat": "635万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "啤酒",
+    "engagement_estimate": "31452+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490379"
+  },
+  {
+    "id": "食品饮料_202603278924",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《AI黑科技测评？啤酒真实测评》",
+    "platform": "微博",
+    "angle": "开箱体验",
+    "hot_topic": "AI黑科技测评",
+    "heat": "1051万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "啤酒",
+    "engagement_estimate": "39982+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490382"
+  },
+  {
+    "id": "食品饮料_202603278108",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《健身打卡挑战！百威产品使用心得》",
+    "platform": "B站",
+    "angle": "开箱体验",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "啤酒",
+    "engagement_estimate": "18865+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490387"
+  },
+  {
+    "id": "食品饮料_202603271012",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《科技新品开箱！百威产品使用心得》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "啤酒",
+    "engagement_estimate": "47140+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490391"
+  },
+  {
+    "id": "食品饮料_202603272905",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《健身打卡挑战？啤酒真实测评》",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "健身打卡挑战",
+    "heat": "846万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "啤酒",
+    "engagement_estimate": "34895+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490395"
+  },
+  {
+    "id": "食品饮料_202603275672",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《科技新品开箱！百威产品使用心得》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "科技新品开箱",
+    "heat": "500万",
+    "trend": "🔥🔥 热议中",
+    "product": "啤酒",
+    "engagement_estimate": "35489+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490399"
+  },
+  {
+    "id": "食品饮料_202603275818",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《从露营装备推荐看啤酒的正确打开方式》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "啤酒",
+    "engagement_estimate": "34779+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490402"
+  },
+  {
+    "id": "食品饮料_202603277482",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《露营装备推荐！百威产品使用心得》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "露营装备推荐",
+    "heat": "2亿浏览",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "啤酒",
+    "engagement_estimate": "16956+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490406"
+  },
+  {
+    "id": "食品饮料_202603278802",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《315消费者权益！百威产品使用心得》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "315消费者权益",
+    "heat": "776万",
+    "trend": "🔥🔥 热议中",
+    "product": "啤酒",
+    "engagement_estimate": "14038+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490409"
+  },
+  {
+    "id": "食品饮料_202603275440",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《宠物日常vlog？啤酒真实测评》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "宠物日常vlog",
+    "heat": "1亿浏览",
+    "trend": "🔥🔥 持续上升",
+    "product": "啤酒",
+    "engagement_estimate": "33517+",
+    "status": "pending",
+    "created_at": "2026-03-27T10:08:18.490414"
   }
 ]
