@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>展开测试</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, sans-serif; padding: 20px; }
+
+.client-card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 16px;
+    overflow: visible;
+}
+
+.client-header {
+    padding: 16px 20px;
+    background: #f9fafb;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.client-header:hover { background: #f3f4f6; }
+
+.expand-icon { transition: transform 0.2s; }
+
+.ideas-list { 
+    display: none; 
+    padding: 16px 20px;
+    border-top: 1px solid #e5e7eb;
+}
+
+.client-card.expanded .ideas-list { display: block; }
+.client-card.expanded .expand-icon { transform: rotate(180deg); }
+
+.idea-item {
+    padding: 12px;
+    border-bottom: 1px solid #f3f4f6;
+}
+</style>
+</head>
+<body>
+<h1>展开功能测试</h1>
+
+<div class="client-card" data-priority="high">
+    <div class="client-header" onclick="toggleClient(this)">
+        <span>🎯 3C数码客户 (荣耀/罗技) - 点击展开</span>
+        <span class="expand-icon">▼</span>
+    </div>
+    <div class="ideas-list">
+        <div class="idea-item">📝 选题1: 《中国机器狼群 - 荣耀手机真实测评》</div>
+        <div class="idea-item">📝 选题2: 《一箭双星上天 - 中国科技有多强》</div>
+        <div class="idea-item">📝 选题3: 《罗技键鼠选购指南》</div>
+    </div>
+</div>
+
+<div class="client-card" data-priority="high">
+    <div class="client-header" onclick="toggleClient(this)">
+        <span>💄 快消客户 (AHC/多芬) - 点击展开</span>
+        <span class="expand-icon">▼</span>
+    </div>
+    <div class="ideas-list">
+        <div class="idea-item">📝 选题1: 《春日粉彩妆容公式 - AHC水乳测评》</div>
+        <div class="idea-item">📝 选题2: 《换季护肤攻略》</div>
+    </div>
+</div>
+
+<script>
+function toggleClient(header) {
+    console.log('toggleClient called');
+    const card = header.closest('.client-card');
+    console.log('card:', card);
+    card.classList.toggle('expanded');
+    console.log('classList toggled');
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    const firstCard = document.querySelector('.client-card');
+    if (firstCard) {
+        firstCard.classList.add('expanded');
+        console.log('First card expanded');
+    }
+});
+</script>
+</body>
+</html>

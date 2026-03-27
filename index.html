@@ -30,50 +30,7 @@
             background: linear-gradient(135deg, var(--primary-50) 0%, #F5F3FF 100%);
             min-height: 100vh;
             padding: 24px;
-            padding-top: 80px;
             color: var(--gray-800);
-        }
-        
-        /* 导航栏 */
-        .navbar {
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            background: rgba(255,255,255,0.95);
-            backdrop-filter: blur(10px);
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            z-index: 1000;
-        }
-        .nav-container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 16px 24px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .logo {
-            font-size: 20px;
-            font-weight: 800;
-            color: var(--primary);
-        }
-        .nav-tabs {
-            display: flex;
-            gap: 8px;
-        }
-        .nav-tab {
-            padding: 10px 20px;
-            border-radius: 8px;
-            text-decoration: none;
-            color: var(--gray-600);
-            font-weight: 600;
-            font-size: 14px;
-            transition: all 0.2s;
-        }
-        .nav-tab:hover, .nav-tab.active {
-            background: var(--primary);
-            color: white;
         }
         
         .container {
@@ -640,19 +597,22 @@
     </style>
 </head>
 <body>
-    <nav class="navbar">
-        <div class="nav-container">
-            <div class="logo">🎯 特赞内容运营平台</div>
-            <div class="nav-tabs">
-                <a href="platform.html" class="nav-tab">首页</a>
-                <a href="index.html" class="nav-tab active">热点追踪</a>
-                <a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
-                <a href="client_center.html" class="nav-tab">客户选题</a>
-                <a href="sku_library.html" class="nav-tab">SKU场景</a>
-                <a href="dashboard.html" class="nav-tab">数据看板</a>
+    <!-- 导航栏 -->
+    <nav class="navbar" style="position:fixed;top:0;left:0;right:0;background:rgba(255,255,255,0.95);backdrop-filter:blur(10px);box-shadow:0 2px 10px rgba(0,0,0,0.1);z-index:1000;padding:12px 24px;">
+        <div style="max-width:1400px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;">
+            <div style="font-size:20px;font-weight:800;color:#6366F1;">🎯 特赞内容运营平台</div>
+            <div style="display:flex;gap:8px;">
+                <a href="platform.html" style="padding:8px 16px;border-radius:8px;text-decoration:none;color:#4B5563;font-weight:500;">首页</a>
+                <a href="index.html" style="padding:8px 16px;border-radius:8px;text-decoration:none;color:#6366F1;font-weight:600;background:#EEF2FF;">热点追踪</a>
+                <a href="low_fan_hits.html" style="padding:8px 16px;border-radius:8px;text-decoration:none;color:#4B5563;font-weight:500;">低粉爆款</a>
+                <a href="client_center.html" style="padding:8px 16px;border-radius:8px;text-decoration:none;color:#4B5563;font-weight:500;">客户选题</a>
+                <a href="sku_library.html" style="padding:8px 16px;border-radius:8px;text-decoration:none;color:#4B5563;font-weight:500;">SKU场景</a>
+                <a href="dashboard.html" style="padding:8px 16px;border-radius:8px;text-decoration:none;color:#4B5563;font-weight:500;">数据看板</a>
             </div>
         </div>
     </nav>
+    <div style="height:60px;"></div>
+    
     <div class="container">
         <div class="header">
             <h1>📱 每日热点内容推荐</h1>
@@ -1431,29 +1391,18 @@
                     structure: [
                         {section: '封面', content: '机器狼群火了🔥 | 荣耀手机AI测评 | 中国科技有多强', tips: '借势热点+产品+价值承诺', image: '机器狼群+荣耀手机拼贴'},
                         {section: '开篇', content: '最近中国机器狼群巷战视频火了，很多人感叹中国科技强大。其实不只是军事科技，我们日常用的手机AI功能同样惊艳！今天测评荣耀手机的AI功能。', tips: '借势热点，建立关联', image: '热点截图+手机'},
-                        {section: '痛点共鸣', content: '你是不是也有这些困扰？
-• 拍照不好看，不会修图
-• 手机续航短，一天几充
-• 功能太复杂，老人不会用', tips: '描述痛点，引发共鸣', image: '痛点场景图'},
-                        {section: '产品展示', content: '荣耀手机AI功能实测：
-📸 AI拍照：自动识别场景，一键出大片
-🔋 智能省电：AI学习使用习惯，续航提升30%
-👴 简易模式：AI适配老人使用习惯', tips: '功能对应痛点', image: '功能展示3-5张'},
-                        {section: '使用体验', content: '实测一周体验：
-✅ 优点：AI拍照真的省心，老人也能拍出好照片
-✅ 优点：续航确实提升，一天一充够用
-⚠️ 缺点：AI功能需要学习成本
-👥 适合人群：拍照爱好者、长辈、商务人士', tips: '客观评价', image: '使用场景图'},
-                        {section: '效果对比', content: 'AI拍照 vs 普通拍照
-左：普通模式 | 右：AI模式
-明显看出AI模式色彩更好、细节更清晰', tips: '同场景对比', image: 'Before/After对比'},
-                        {section: '总结', content: '值得买吗？
-💰 性价比：⭐⭐⭐⭐
-📱 推荐度：⭐⭐⭐⭐⭐
-适合想要省心拍照、长续航的用户', tips: '明确结论', image: '总结图'},
-                        {section: 'CTA', content: '你觉得中国科技强吗？荣耀手机怎么样？评论区聊聊~
-
-#中国科技 #荣耀手机 #AI拍照 #机器狼群 #手机测评', tips: '引导互动+标签', image: '产品图+提问'}
+                        {section: '痛点共鸣', content: `你是不是也有这些困扰？
+• 拍照不好看，不会修图• 手机续航短，一天几充• 功能太复杂，老人不会用', tips: '描述痛点，引发共鸣`, image: '痛点场景图'},
+                        {section: '产品展示', content: `荣耀手机AI功能实测：
+📸 AI拍照：自动识别场景，一键出大片🔋 智能省电：AI学习使用习惯，续航提升30%👴 简易模式：AI适配老人使用习惯', tips: '功能对应痛点`, image: '功能展示3-5张'},
+                        {section: '使用体验', content: `实测一周体验：
+✅ 优点：AI拍照真的省心，老人也能拍出好照片✅ 优点：续航确实提升，一天一充够用⚠️ 缺点：AI功能需要学习成本👥 适合人群：拍照爱好者、长辈、商务人士', tips: '客观评价`, image: '使用场景图'},
+                        {section: '效果对比', content: `AI拍照 vs 普通拍照
+左：普通模式 | 右：AI模式明显看出AI模式色彩更好、细节更清晰', tips: '同场景对比`, image: 'Before/After对比'},
+                        {section: '总结', content: `值得买吗？
+💰 性价比：⭐⭐⭐⭐📱 推荐度：⭐⭐⭐⭐⭐适合想要省心拍照、长续航的用户', tips: '明确结论`, image: '总结图'},
+                        {section: 'CTA', content: `你觉得中国科技强吗？荣耀手机怎么样？评论区聊聊~
+#中国科技 #荣耀手机 #AI拍照 #机器狼群 #手机测评', tips: '引导互动+标签`, image: '产品图+提问'}
                     ],
                     tags: ['#中国科技', '#荣耀手机', '#AI拍照', '#机器狼群', '#手机测评', '#科技强国'],
                     imageCount: '6-9张',
@@ -1481,40 +1430,20 @@
                     structure: [
                         {section: '封面', content: '春日粉彩妆容公式火了🔥 | 但很多人卡粉脱妆 | AHC水乳打底秘诀', tips: '热点+痛点+方案', image: '粉彩妆容+卡粉对比+AHC'},
                         {section: '开篇', content: '最近"春日粉彩妆容公式"在小红书超火，笔记12万+，浏览3.2亿！但很多人跟风画出来卡粉、脱妆、不服帖...其实问题出在护肤打底！', tips: '数据增强说服力', image: '热点数据截图'},
-                        {section: '痛点共鸣', content: '这些困扰你有吗？
-😭 妆容卡粉，像面具一样假
-😭 不到中午就脱妆，暗沉发黄
-😭 鼻翼嘴角总是浮粉
-其实90%的底妆问题都是护肤没做好！', tips: '放大痛点', image: '卡粉特写'},
-                        {section: '问题分析', content: '为什么底妆不服帖？
-1️⃣ 皮肤缺水，吸收不了粉底
-2️⃣ 角质层厚，粉底浮在表面
-3️⃣ 水油不平衡，T区油两颊干
-解决方案：AHC水乳打底，补水保湿+调理角质', tips: '专业分析', image: '皮肤问题图解'},
-                        {section: '产品展示', content: 'AHC水乳测评：
-💧 质地：清爽不黏腻，吸收快
-🌸 香味：淡淡花香，不刺鼻
-🧪 成分：玻尿酸+植物提取物
-💰 价格：百元内，学生党友好', tips: '全方位展示', image: '产品细节3-5张'},
-                        {section: '使用方法', content: '正确打底步骤：
-1️⃣ 洁面后用AHC水，轻拍吸收
-2️⃣ 等2分钟，让水充分渗透
-3️⃣ 涂AHC乳液，按摩至吸收
-4️⃣ 再等3分钟，开始上底妆
-⏰ 总共5分钟，底妆服帖一整天！', tips: '步骤化教学', image: '使用步骤图'},
-                        {section: '效果对比', content: '使用AHC水乳打底 vs 直接上底妆
-左：直接上底妆-卡粉、浮粉
-右：AHC打底后-服帖、自然
-明显看出右边妆容更精致！', tips: '对比增强说服力', image: 'Before/After对比'},
-                        {section: '总结', content: '春日粉彩妆容公式确实好看，但前提是底妆服帖！
-AHC水乳打底，5分钟解决卡粉问题，百元内性价比超高！
-
-💰 性价比：⭐⭐⭐⭐⭐
-👍 推荐度：⭐⭐⭐⭐⭐
-👥 适合：所有肤质，尤其干皮/混干', tips: '明确结论', image: '总结图'},
-                        {section: 'CTA', content: '你也有卡粉困扰吗？用过AHC水乳吗？评论区聊聊~
-
-#春日粉彩妆容公式 #AHC水乳 #底妆服帖 #不卡粉秘诀 #护肤打底', tips: '引导互动', image: '产品图+提问'}
+                        {section: '痛点共鸣', content: `这些困扰你有吗？
+😭 妆容卡粉，像面具一样假😭 不到中午就脱妆，暗沉发黄😭 鼻翼嘴角总是浮粉其实90%的底妆问题都是护肤没做好！', tips: '放大痛点`, image: '卡粉特写'},
+                        {section: '问题分析', content: `为什么底妆不服帖？
+1️⃣ 皮肤缺水，吸收不了粉底2️⃣ 角质层厚，粉底浮在表面3️⃣ 水油不平衡，T区油两颊干解决方案：AHC水乳打底，补水保湿+调理角质', tips: '专业分析`, image: '皮肤问题图解'},
+                        {section: '产品展示', content: `AHC水乳测评：
+💧 质地：清爽不黏腻，吸收快🌸 香味：淡淡花香，不刺鼻🧪 成分：玻尿酸+植物提取物💰 价格：百元内，学生党友好', tips: '全方位展示`, image: '产品细节3-5张'},
+                        {section: '使用方法', content: `正确打底步骤：
+1️⃣ 洁面后用AHC水，轻拍吸收2️⃣ 等2分钟，让水充分渗透3️⃣ 涂AHC乳液，按摩至吸收4️⃣ 再等3分钟，开始上底妆⏰ 总共5分钟，底妆服帖一整天！', tips: '步骤化教学`, image: '使用步骤图'},
+                        {section: '效果对比', content: `使用AHC水乳打底 vs 直接上底妆
+左：直接上底妆-卡粉、浮粉右：AHC打底后-服帖、自然明显看出右边妆容更精致！', tips: '对比增强说服力`, image: 'Before/After对比'},
+                        {section: '总结', content: `春日粉彩妆容公式确实好看，但前提是底妆服帖！
+AHC水乳打底，5分钟解决卡粉问题，百元内性价比超高！💰 性价比：⭐⭐⭐⭐⭐👍 推荐度：⭐⭐⭐⭐⭐👥 适合：所有肤质，尤其干皮/混干', tips: '明确结论`, image: '总结图'},
+                        {section: 'CTA', content: `你也有卡粉困扰吗？用过AHC水乳吗？评论区聊聊~
+#春日粉彩妆容公式 #AHC水乳 #底妆服帖 #不卡粉秘诀 #护肤打底', tips: '引导互动`, image: '产品图+提问'}
                     ],
                     tags: ['#春日粉彩妆容公式', '#AHC水乳', '#底妆服帖', '#不卡粉秘诀', '#护肤打底', '#春日妆容'],
                     imageCount: '6-9张',

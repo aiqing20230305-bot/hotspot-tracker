@@ -184,7 +184,7 @@
             background: white;
             border-radius: var(--radius);
             box-shadow: var(--shadow);
-            overflow: hidden;
+            overflow: visible;
         }
         
         .client-header {
@@ -737,7 +737,9 @@
         // 展开/收起客户选题
         function toggleClient(header) {
             const card = header.closest('.client-card');
+            console.log('toggleClient clicked, card:', card);
             card.classList.toggle('expanded');
+            console.log('expanded toggled, now has:', card.classList.contains('expanded'));
         }
         
         // 筛选客户
@@ -778,9 +780,12 @@
         
         // 页面加载时默认展开第一个客户
         document.addEventListener('DOMContentLoaded', function() {
+            console.log('DOM loaded');
             const firstCard = document.querySelector('.client-card');
+            console.log('First card:', firstCard);
             if (firstCard) {
                 firstCard.classList.add('expanded');
+                console.log('Added expanded class');
             }
         });
     </script>
