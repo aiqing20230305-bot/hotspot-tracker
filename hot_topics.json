@@ -2,7 +2,7 @@
   {
     "title": "AI大模型应用潮",
     "platform": "微博",
-    "heat": "2564万",
+    "heat": "2716万",
     "trend": "🔥🔥🔥 爆发式增长",
     "type": "科技",
     "aud": "18-35岁科技爱好者",
@@ -11,13 +11,14 @@
     "link": "https://weibo.com/hot/ai",
     "c": [
       "荣耀",
-      "罗技"
+      "罗技",
+      "小米"
     ]
   },
   {
     "title": "折叠屏手机新风向",
     "platform": "抖音",
-    "heat": "886万",
+    "heat": "1275万",
     "trend": "🔥🔥🔥 持续上升",
     "type": "科技",
     "aud": "数码发烧友、商务人群",
@@ -25,13 +26,14 @@
     "logic": "新品发布带动关注",
     "link": "https://douyin.com/hot/foldphone",
     "c": [
-      "荣耀"
+      "荣耀",
+      "小米"
     ]
   },
   {
     "title": "智能穿戴健康监测",
     "platform": "小红书",
-    "heat": "683万",
+    "heat": "536万",
     "trend": "🔥🔥 稳定上升",
     "type": "科技",
     "aud": "健康意识强的人群",
@@ -39,13 +41,14 @@
     "logic": "健康管理成刚需",
     "link": "https://xiaohongshu.com/hot/smartwearable",
     "c": [
-      "荣耀"
+      "荣耀",
+      "小米"
     ]
   },
   {
     "title": "Switch2游戏机发布",
     "platform": "B站",
-    "heat": "1488万",
+    "heat": "1111万",
     "trend": "🔥🔥🔥 爆发式增长",
     "type": "科技",
     "aud": "游戏玩家、主机用户",
@@ -53,27 +56,29 @@
     "logic": "新品发布+情怀营销",
     "link": "https://bilibili.com/hot/switch2",
     "c": [
-      "罗技"
+      "罗技",
+      "索尼"
     ]
   },
   {
     "title": "国产芯片突破",
     "platform": "微博",
-    "heat": "3632万",
+    "heat": "3953万",
     "trend": "🔥🔥🔥 爆发式增长",
     "type": "科技",
     "aud": "全年龄段科技关注者",
     "time": "持续4周",
     "logic": "国产替代热度持续",
-    "link": "https://weibo.com/hot/chipse突破",
+    "link": "https://weibo.com/hot/chip",
     "c": [
-      "荣耀"
+      "荣耀",
+      "小米"
     ]
   },
   {
     "title": "春季护肤routine",
     "platform": "小红书",
-    "heat": "3亿浏览",
+    "heat": "4亿浏览",
     "trend": "🔥🔥🔥 爆发式增长",
     "type": "美妆",
     "aud": "18-35岁女性",
@@ -83,13 +88,14 @@
     "c": [
       "AHC",
       "多芬",
-      "力士"
+      "力士",
+      "玉兰油"
     ]
   },
   {
     "title": "早C晚A护肤法",
     "platform": "小红书",
-    "heat": "3亿浏览",
+    "heat": "1亿浏览",
     "trend": "🔥🔥🔥 持续上升",
     "type": "美妆",
     "aud": "25-40岁护肤进阶用户",
@@ -97,13 +103,14 @@
     "logic": "成分党护肤理念传播",
     "link": "https://xiaohongshu.com/hot/caca",
     "c": [
-      "AHC"
+      "AHC",
+      "玉兰油"
     ]
   },
   {
     "title": "平价替代彩妆推荐",
     "platform": "抖音",
-    "heat": "869万",
+    "heat": "1092万",
     "trend": "🔥🔥 稳定上升",
     "type": "美妆",
     "aud": "学生党、性价比追求者",
@@ -112,13 +119,14 @@
     "link": "https://douyin.com/hot/budget-makeup",
     "c": [
       "AHC",
-      "多芬"
+      "多芬",
+      "玉兰油"
     ]
   },
   {
     "title": "母亲节礼盒选购",
     "platform": "微博",
-    "heat": "1850万",
+    "heat": "1653万",
     "trend": "🔥🔥🔥 持续上升",
     "type": "美妆",
     "aud": "送礼人群",
@@ -128,7 +136,23 @@
     "c": [
       "AHC",
       "多芬",
-      "力士"
+      "力士",
+      "玉兰油"
+    ]
+  },
+  {
+    "title": "成分党护肤科普",
+    "platform": "小红书",
+    "heat": "1156万",
+    "trend": "🔥🔥 稳定上升",
+    "type": "美妆",
+    "aud": "护肤爱好者",
+    "time": "持续8周",
+    "logic": "消费者教育需求",
+    "link": "https://xiaohongshu.com/hot/skincare-ingredient",
+    "c": [
+      "AHC",
+      "玉兰油"
     ]
   },
   {
@@ -142,13 +166,14 @@
     "logic": "育儿刚需内容",
     "link": "https://xiaohongshu.com/hot/babyfood",
     "c": [
-      "汤臣倍健"
+      "汤臣倍健",
+      "善存"
     ]
   },
   {
     "title": "儿童护眼指南",
     "platform": "抖音",
-    "heat": "1187万",
+    "heat": "686万",
     "trend": "🔥🔥🔥 持续上升",
     "type": "母婴",
     "aud": "3-12岁儿童家长",
@@ -162,7 +187,7 @@
   {
     "title": "产后修复塑形",
     "platform": "小红书",
-    "heat": "1431万",
+    "heat": "1426万",
     "trend": "🔥🔥 稳定上升",
     "type": "母婴",
     "aud": "产后妈妈",
@@ -170,13 +195,14 @@
     "logic": "辣妈经济",
     "link": "https://xiaohongshu.com/hot/postpartum",
     "c": [
-      "汤臣倍健"
+      "汤臣倍健",
+      "多芬"
     ]
   },
   {
     "title": "居家燃脂训练",
     "platform": "抖音",
-    "heat": "3198万",
+    "heat": "2128万",
     "trend": "🔥🔥🔥 爆发式增长",
     "type": "健身",
     "aud": "20-45岁健身人群",
@@ -185,13 +211,14 @@
     "link": "https://douyin.com/hot/home-workout",
     "c": [
       "汤臣倍健",
-      "清扬"
+      "清扬",
+      "元气森林"
     ]
   },
   {
     "title": "减脂餐搭配",
     "platform": "小红书",
-    "heat": "3亿浏览",
+    "heat": "2亿浏览",
     "trend": "🔥🔥🔥 持续上升",
     "type": "健身",
     "aud": "减肥人群、健身爱好者",
@@ -200,13 +227,14 @@
     "link": "https://xiaohongshu.com/hot/diet-meal",
     "c": [
       "汤臣倍健",
-      "OATLY"
+      "OATLY",
+      "元气森林"
     ]
   },
   {
     "title": "健身房打卡vlog",
     "platform": "B站",
-    "heat": "982万",
+    "heat": "975万",
     "trend": "🔥🔥 稳定上升",
     "type": "健身",
     "aud": "健身爱好者",
@@ -214,13 +242,14 @@
     "logic": "社交健身潮流",
     "link": "https://bilibili.com/hot/gym-vlog",
     "c": [
-      "清扬"
+      "清扬",
+      "汤臣倍健"
     ]
   },
   {
     "title": "拉伸放松技巧",
     "platform": "抖音",
-    "heat": "481万",
+    "heat": "465万",
     "trend": "🔥🔥 持续上升",
     "type": "健身",
     "aud": "久坐人群、运动后人群",
@@ -228,13 +257,14 @@
     "logic": "运动恢复需求增加",
     "link": "https://douyin.com/hot/stretching",
     "c": [
-      "汤臣倍健"
+      "汤臣倍健",
+      "元气森林"
     ]
   },
   {
     "title": "春日野餐食谱",
     "platform": "小红书",
-    "heat": "2亿浏览",
+    "heat": "5亿浏览",
     "trend": "🔥🔥🔥 爆发式增长",
     "type": "美食",
     "aud": "年轻人、家庭用户",
@@ -243,13 +273,15 @@
     "link": "https://xiaohongshu.com/hot/picnic-food",
     "c": [
       "OATLY",
-      "百威"
+      "百威",
+      "元气森林",
+      "农夫山泉"
     ]
   },
   {
     "title": "咖啡探店指南",
     "platform": "小红书",
-    "heat": "3亿浏览",
+    "heat": "1亿浏览",
     "trend": "🔥🔥🔥 持续上升",
     "type": "美食",
     "aud": "咖啡爱好者",
@@ -257,13 +289,14 @@
     "logic": "咖啡文化普及",
     "link": "https://xiaohongshu.com/hot/coffee",
     "c": [
-      "OATLY"
+      "OATLY",
+      "农夫山泉"
     ]
   },
   {
     "title": "啤酒搭配美食",
     "platform": "微博",
-    "heat": "747万",
+    "heat": "644万",
     "trend": "🔥🔥 稳定上升",
     "type": "美食",
     "aud": "年轻男性、美食爱好者",
@@ -277,7 +310,7 @@
   {
     "title": "预制菜测评",
     "platform": "抖音",
-    "heat": "1403万",
+    "heat": "1152万",
     "trend": "🔥🔥 持续上升",
     "type": "美食",
     "aud": "上班族、年轻家庭",
@@ -285,13 +318,30 @@
     "logic": "懒人经济+便捷需求",
     "link": "https://douyin.com/hot/premade-food",
     "c": [
-      "百威"
+      "百威",
+      "农夫山泉"
+    ]
+  },
+  {
+    "title": "健康饮品新趋势",
+    "platform": "小红书",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 持续上升",
+    "type": "美食",
+    "aud": "健康意识消费者",
+    "time": "持续10周",
+    "logic": "无糖低卡消费升级",
+    "link": "https://xiaohongshu.com/hot/healthy-drink",
+    "c": [
+      "OATLY",
+      "元气森林",
+      "农夫山泉"
     ]
   },
   {
     "title": "春季赏花目的地",
     "platform": "小红书",
-    "heat": "7亿浏览",
+    "heat": "6亿浏览",
     "trend": "🔥🔥🔥 爆发式增长",
     "type": "旅游",
     "aud": "旅游爱好者、家庭",
@@ -299,13 +349,15 @@
     "logic": "春游季节+打卡文化",
     "link": "https://xiaohongshu.com/hot/spring-flower",
     "c": [
-      "希宝"
+      "希宝",
+      "元气森林",
+      "农夫山泉"
     ]
   },
   {
     "title": "周末周边游攻略",
     "platform": "抖音",
-    "heat": "1324万",
+    "heat": "1257万",
     "trend": "🔥🔥🔥 持续上升",
     "type": "旅游",
     "aud": "上班族、短途游爱好者",
@@ -313,13 +365,14 @@
     "logic": "微度假概念兴起",
     "link": "https://douyin.com/hot/weekend-travel",
     "c": [
-      "希宝"
+      "希宝",
+      "百威"
     ]
   },
   {
     "title": "宠物友好景区推荐",
     "platform": "小红书",
-    "heat": "750万",
+    "heat": "869万",
     "trend": "🔥🔥 稳定上升",
     "type": "旅游",
     "aud": "宠物主",
@@ -327,13 +380,14 @@
     "logic": "携宠出行需求增加",
     "link": "https://xiaohongshu.com/hot/pet-travel",
     "c": [
-      "希宝"
+      "希宝",
+      "皇家"
     ]
   },
   {
     "title": "AI办公效率课",
     "platform": "B站",
-    "heat": "1916万",
+    "heat": "1411万",
     "trend": "🔥🔥🔥 爆发式增长",
     "type": "教育",
     "aud": "职场人士、学生",
@@ -341,13 +395,14 @@
     "logic": "AI技能焦虑+学习需求",
     "link": "https://bilibili.com/hot/ai-office",
     "c": [
-      "罗技"
+      "罗技",
+      "小米"
     ]
   },
   {
     "title": "考研考公备考指南",
     "platform": "微博",
-    "heat": "1595万",
+    "heat": "1300万",
     "trend": "🔥🔥🔥 持续上升",
     "type": "教育",
     "aud": "大学生、待业人群",
@@ -355,13 +410,14 @@
     "logic": "就业压力传导",
     "link": "https://weibo.com/hot/exam",
     "c": [
-      "罗技"
+      "罗技",
+      "汤臣倍健"
     ]
   },
   {
     "title": "亲子阅读时光",
     "platform": "小红书",
-    "heat": "922万",
+    "heat": "827万",
     "trend": "🔥🔥 稳定上升",
     "type": "教育",
     "aud": "3-10岁儿童家长",
@@ -369,13 +425,14 @@
     "logic": "素质教育重视",
     "link": "https://xiaohongshu.com/hot/parenting-reading",
     "c": [
-      "汤臣倍健"
+      "汤臣倍健",
+      "善存"
     ]
   },
   {
     "title": "新能源汽车选购",
     "platform": "微博",
-    "heat": "2037万",
+    "heat": "1591万",
     "trend": "🔥🔥🔥 持续上升",
     "type": "汽车",
     "aud": "准购车人群",
@@ -383,13 +440,14 @@
     "logic": "新能源渗透率提升",
     "link": "https://weibo.com/hot/ev-car",
     "c": [
-      "荣耀"
+      "荣耀",
+      "小米"
     ]
   },
   {
     "title": "车载好物分享",
     "platform": "小红书",
-    "heat": "394万",
+    "heat": "472万",
     "trend": "🔥🔥 稳定上升",
     "type": "汽车",
     "aud": "有车一族",
@@ -397,29 +455,14 @@
     "logic": "车内生活品质追求",
     "link": "https://xiaohongshu.com/hot/car-gadgets",
     "c": [
-      "HC"
-    ]
-  },
-  {
-    "title": "春季护肤攻略",
-    "platform": "小红书",
-    "heat": "5亿浏览",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "type": "美妆",
-    "aud": "18-35岁女性",
-    "time": "换季持续1月",
-    "logic": "换季护肤刚需",
-    "link": "https://xiaohongshu.com/hot/spring-skincare",
-    "c": [
-      "AHC",
-      "多芬",
-      "力士"
+      "HC",
+      "威猛先生"
     ]
   },
   {
     "title": "宠物日常vlog",
     "platform": "小红书",
-    "heat": "1亿浏览",
+    "heat": "2亿浏览",
     "trend": "🔥🔥 持续上升",
     "type": "宠物",
     "aud": "宠物爱好者",
@@ -427,7 +470,55 @@
     "logic": "云吸宠物文化",
     "link": "https://xiaohongshu.com/hot/pet-vlog",
     "c": [
-      "希宝"
+      "希宝",
+      "皇家"
+    ]
+  },
+  {
+    "title": "宠物健康饮食科普",
+    "platform": "抖音",
+    "heat": "654万",
+    "trend": "🔥🔥 稳定上升",
+    "type": "宠物",
+    "aud": "宠物主",
+    "time": "持续8周",
+    "logic": "宠物健康意识提升",
+    "link": "https://douyin.com/hot/pet-health",
+    "c": [
+      "希宝",
+      "皇家"
+    ]
+  },
+  {
+    "title": "春季大扫除攻略",
+    "platform": "小红书",
+    "heat": "935万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "type": "家居",
+    "aud": "家庭主妇、年轻家庭",
+    "time": "季节性1月",
+    "logic": "春节后大扫除习惯",
+    "link": "https://xiaohongshu.com/hot/spring-clean",
+    "c": [
+      "HC",
+      "威猛先生",
+      "舒适"
+    ]
+  },
+  {
+    "title": "极简生活整理术",
+    "platform": "小红书",
+    "heat": "1032万",
+    "trend": "🔥🔥 稳定上升",
+    "type": "家居",
+    "aud": "追求生活品质的人群",
+    "time": "持续12周",
+    "logic": "断舍离文化流行",
+    "link": "https://xiaohongshu.com/hot/minimalism",
+    "c": [
+      "HC",
+      "威猛先生",
+      "舒适"
     ]
   }
 ]
