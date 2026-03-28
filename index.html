@@ -31,7 +31,7 @@
         }
         /* 导航栏 */
         .navbar {
-            position: fixed;
+            position: sticky;
             top: 0;
             left: 0;
             right: 0;
@@ -66,7 +66,7 @@
         .main-container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 80px 24px 40px;
+            padding: 24px 24px 40px;
         }
         /* 页面标题 */
         .page-header {
@@ -374,6 +374,7 @@
             color: white;
         }
         /* ========== 响应式布局 ========== */
+        .hamburger { display: none; }
         @media (max-width: 1024px) {
             .nav-tab {
                 padding: 6px 10px;
@@ -634,13 +635,6 @@
             '小红书': 'xiaohongshu'
         };
         
-        // 平台中文名
-        const PLATFORM_NAME = {
-            'douyin': '抖音',
-            'weibo': '微博',
-            'xiaohongshu': '小红书'
-        };
-        
         // 移动端菜单切换
         function toggleMenu() {
             const navTabs = document.getElementById('navTabs');
@@ -657,14 +651,13 @@
             });
         });
         
-        // 展开/收起热点（防抖）
-        let toggleTimer = null;
+        // 展开/收起热点（点击header区域，不影响detail内容交互）
         function toggleHotspot(element) {
-            if (toggleTimer) return;
-            toggleTimer = setTimeout(() => {
-                element.classList.toggle('expanded');
-                toggleTimer = null;
-            }, 50);
+            // 先收起其他已展开的项
+            document.querySelectorAll('.hot-item.expanded').forEach(item => {
+                if (item !== element) item.classList.remove('expanded');
+            });
+            element.classList.toggle('expanded');
         }
         
         // 平台筛选
@@ -693,8 +686,8 @@
                 const trend = topic.trend || '🔥 稳定';
                 
                 html += `
-                <div class="hot-item" onclick="toggleHotspot(this)" role="button" tabindex="0" aria-expanded="false">
-                    <div class="hot-header">
+                <div class="hot-item" role="button" tabindex="0" aria-expanded="false">
+                    <div class="hot-header" onclick="toggleHotspot(this.closest('.hot-item'))">
                         <div class="rank ${rankClass}">${index + 1}</div>
                         <div class="hot-info">
                             <div class="hot-title">${topic.title}</div>
@@ -747,20 +740,6 @@
             container.innerHTML = html;
         }
         
-        // 懒加载观察器
-        const lazyObserver = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    const el = entry.target;
-                    if (el.dataset.src) {
-                        el.src = el.dataset.src;
-                        el.removeAttribute('data-src');
-                    }
-                    lazyObserver.unobserve(el);
-                }
-            });
-        }, { rootMargin: '100px' });
-        
         // 加载数据
         document.addEventListener('DOMContentLoaded', function() {
             // 加载热点数据
@@ -793,12 +772,6 @@
             });
         });
         
-        // 减少重排重绘：使用requestAnimationFrame
-        function smoothRender(callback) {
-            requestAnimationFrame(() => {
-                requestAnimationFrame(callback);
-            });
-        }
     </script>
 </body>
 </html>

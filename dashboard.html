@@ -65,7 +65,8 @@
 
         /* 导航栏 */
         .navbar {
-            background: white;
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(10px);
             box-shadow: var(--shadow);
             padding: 0 24px;
             position: sticky;
@@ -1196,7 +1197,16 @@
         }
 
         // 初始化
-        document.addEventListener('DOMContentLoaded', initDashboard);
+        document.addEventListener('DOMContentLoaded', () => {
+            // Safety timeout: ensure loading overlay hides even if data fails
+            setTimeout(() => {
+                const overlay = document.getElementById('loadingOverlay');
+                if (overlay && !overlay.classList.contains('hidden')) {
+                    overlay.classList.add('hidden');
+                }
+            }, 5000);
+            initDashboard();
+        });
     </script>
 </body>
 </html>
