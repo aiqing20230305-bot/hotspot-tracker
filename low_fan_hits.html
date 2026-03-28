@@ -673,7 +673,8 @@
                     "share_count": 25000,
                     "category": "家居",
                     "methodology": "反差对比：通过强烈对比制造冲突，吸引注意力",
-                    "why_it_works": "对比手法制造视觉冲击；低成本高效果满足观众猎奇心理；租房是年轻人普遍痛点"
+                    "why_it_works": "对比手法制造视觉冲击；低成本高效果满足观众猎奇心理；租房是年轻人普遍痛点",
+                    "tags": ["#租房改造", "#出租屋改造", "#低成本改造", "#家居改造", "#ins风"]
                 },
                 {
                     "rank": 2,
@@ -686,7 +687,8 @@
                     "share_count": 18000,
                     "category": "亲子",
                     "methodology": "情绪价值：提供情绪价值，满足情感需求",
-                    "why_it_works": "真实展现职场妈妈困境，引发强烈共鸣；情绪价值高，易引发转发讨论"
+                    "why_it_works": "真实展现职场妈妈困境，引发强烈共鸣；情绪价值高，易引发转发讨论",
+                    "tags": ["#职场妈妈", "#育儿日常", "#带娃vlog", "#亲子关系", "#女性成长"]
                 },
                 {
                     "rank": 3,
@@ -825,20 +827,35 @@
             const modal = document.getElementById('detailModal');
             const body = document.getElementById('detailBody');
             
+            // 计算排名百分位
+            const totalVideos = 100000; // 假设平台当日视频总量
+            const percentile = hit.rank <= 5 ? 'TOP 0.01%' : hit.rank <= 10 ? 'TOP 0.05%' : 'TOP 1%';
+            const growthDef = hit.rank <= 3 ? '🔥 24小时内热度指数增长超过500%' : hit.rank <= 10 ? '📈 48小时内热度持续上升200%+' : '📊 72小时内稳定增长100%+';
+            
+            // 标签HTML
+            const tagsHtml = hit.tags ? hit.tags.map(tag => `<span style="display:inline-block;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;padding:4px 12px;border-radius:16px;font-size:12px;margin:2px;">${tag}</span>`).join(' ') : '';
+            
             body.innerHTML = `
-                <h4>${hit.content_title}</h4>
-                <p><strong>平台：</strong>${hit.platform}</p>
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+                    <h4 style="margin:0;">${hit.content_title}</h4>
+                    <span style="background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#fff;padding:6px 16px;border-radius:20px;font-weight:700;font-size:14px;">${percentile}</span>
+                </div>
+                <div style="background:linear-gradient(135deg,#ffecd2 0%,#fcb69f 100%);padding:10px 14px;border-radius:8px;margin:12px 0;">
+                    <p style="margin:0;font-size:13px;"><strong>📊 热度趋势：</strong>${growthDef}</p>
+                </div>
+                <p><strong>平台：</strong><span style="color:${hit.platform === '抖音' ? '#fe2c55' : '#ff2442'}">${hit.platform}</span></p>
                 <p><strong>账号：</strong>${hit.account_name} (${hit.fan_count.toLocaleString()}粉)</p>
                 <p><strong>分类：</strong>${hit.category}</p>
-                <p><strong>点赞：</strong>${hit.like_count.toLocaleString()} | <strong>评论：</strong>${hit.comment_count.toLocaleString()} | <strong>分享：</strong>${hit.share_count.toLocaleString()}</p>
+                <p><strong>互动数据：</strong>❤️ ${hit.like_count.toLocaleString()} | 💬 ${hit.comment_count.toLocaleString()} | 🔄 ${hit.share_count.toLocaleString()}</p>
+                ${tagsHtml ? `<div style="margin:12px 0;"><strong>🏷️ 原视频标签：</strong><div style="margin-top:8px;">${tagsHtml}</div></div>` : ''}
                 <hr style="margin: 16px 0; border: none; border-top: 1px solid var(--gray-200);">
                 <p><strong>📚 方法论：</strong></p>
-                <p>${hit.methodology}</p>
-                <p><strong>💡 为什么能火：</strong></p>
-                <p>${hit.why_it_works}</p>
+                <p style="background:#f0f4ff;padding:10px;border-radius:6px;">${hit.methodology}</p>
+                <p style="margin-top:12px;"><strong>💡 为什么能火：</strong></p>
+                <p style="background:#fff0f5;padding:10px;border-radius:6px;">${hit.why_it_works}</p>
                 <hr style="margin: 16px 0; border: none; border-top: 1px solid var(--gray-200);">
                 <p><strong>🎯 可借鉴角度：</strong></p>
-                <ul>
+                <ul style="background:#f0fff4;padding:12px 12px 12px 28px;border-radius:6px;">
                     <li>标题使用"数字+对比"手法，制造冲突感</li>
                     <li>内容直击目标人群痛点，引发共鸣</li>
                     <li>视觉化呈现，增强冲击力</li>
