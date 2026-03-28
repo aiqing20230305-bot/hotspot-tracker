@@ -452,4 +452,112 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;backgrou
 
 <!-- ===== 三维度分析 ===== -->
 <div class="dimension-section">
-<div class="section-title"><span>⚙️
+<div class="section-title"><span>⚙️</span> 内容生命周期分析</div>
+<div class="dimension-grid">
+<div class="dim-card" style="border-left:4px solid #ef4444">
+<div class="dim-title">🔥 爆发期 (0-3天)</div>
+<div class="dim-desc">热点刚出现，流量快速增长。建议快速跟进，抢占先机。</div>
+<div class="dim-tips">• 发布速度优先，质量次之<br>• 使用热门标签和话题<br>• 简短有力，引发讨论</div>
+</div>
+<div class="dim-card" style="border-left:4px solid #f59e0b">
+<div class="dim-title">📈 成长期 (3-7天)</div>
+<div class="dim-desc">内容开始传播，互动量持续上升。适合深度内容创作。</div>
+<div class="dim-tips">• 深度解读和测评<br>• 横向对比内容<br>• 结合个人体验</div>
+</div>
+<div class="dim-card" style="border-left:4px solid #10b981">
+<div class="dim-title">🔄 成熟期 (7-14天)</div>
+<div class="dim-desc">话题稳定，适合长尾内容创作。</div>
+<div class="dim-tips">• 教程类内容<br>• 知识科普<br>• 合集整理</div>
+</div>
+<div class="dim-card" style="border-left:4px solid #6366f1">
+<div class="dim-title">📉 衰退期 (14天+)</div>
+<div class="dim-desc">热度下降，但可通过新角度重新激活。</div>
+<div class="dim-tips">• 寻找新切入点<br>• 反转/辟谣类内容<br>• 季节性回顾</div>
+</div>
+</div>
+</div>
+
+<!-- ===== JavaScript ===== -->
+<script>
+// 数据加载和渲染逻辑
+const trends = [];
+const categories = ['科技','美妆','母婴','健身','美食','旅游','教育','汽车','宠物','家居'];
+
+function init() {
+    renderCategoryTabs();
+    renderCategoryGrid();
+    renderTimeGrid();
+}
+
+function renderCategoryTabs() {
+    const tabs = document.getElementById('categoryTabs');
+    if (!tabs) return;
+    tabs.innerHTML = categories.map((c, i) => 
+        `<button class="cat-tab ${i===0?'active':''}" onclick="filterCategory('${c}',this)">${c}</button>`
+    ).join('');
+}
+
+function renderCategoryGrid() {
+    const grid = document.getElementById('categoryGrid');
+    if (!grid) return;
+    const items = [
+        {cat:'科技',title:'AI手机趋势预测',score:92,trend:'up',desc:'AI功能将成为手机标配'},
+        {cat:'科技',title:'智能家居普及',score:85,trend:'up',desc:'全屋智能方案需求增长'},
+        {cat:'美妆',title:'春季妆容趋势',score:88,trend:'up',desc:'自然清透妆受追捧'},
+        {cat:'美妆',title:'国货美妆崛起',score:80,trend:'up',desc:'国产品牌关注度持续上升'},
+        {cat:'母婴',title:'科学育儿新观念',score:78,trend:'stable',desc:'精细化育儿内容受欢迎'},
+        {cat:'健身',title:'居家健身器材',score:82,trend:'up',desc:'小型化、智能化趋势'},
+        {cat:'美食',title:'春季时令食材',score:86,trend:'up',desc:'春笋、香椿等受关注'},
+        {cat:'旅游',title:'露营2.0时代',score:84,trend:'up',desc:'精致露营和房车旅行'},
+        {cat:'教育',title:'AI辅助学习',score:79,trend:'up',desc:'智能学习工具需求增长'},
+        {cat:'汽车',title:'新能源车降价潮',score:90,trend:'up',desc:'价格战推动市场普及'},
+        {cat:'宠物',title:'宠物健康护理',score:76,trend:'stable',desc:'精细化养宠成趋势'},
+        {cat:'家居',title:'极简风家居',score:77,trend:'stable',desc:'断舍离理念深入'}
+    ];
+    grid.innerHTML = items.map(item => `
+        <div class="trend-card" data-cat="${item.cat}">
+            <div class="trend-badge ${item.trend}">${item.trend==='up'?'↑ 上升':item.trend==='down'?'↓ 下降':'→ 稳定'}</div>
+            <div class="trend-title">${item.title}</div>
+            <div class="trend-desc">${item.desc}</div>
+            <div class="trend-score">
+                <div class="score-bar"><div class="score-fill" style="width:${item.score}%"></div></div>
+                <span>${item.score}分</span>
+            </div>
+            <div class="trend-cat-tag">${item.cat}</div>
+        </div>
+    `).join('');
+}
+
+function renderTimeGrid() {
+    const grid = document.getElementById('timeGrid');
+    if (!grid) return;
+    const platforms = [
+        {name:'抖音',times:'7:00-9:00 / 12:00-14:00 / 18:00-22:00',best:'18:00-22:00'},
+        {name:'小红书',times:'8:00-10:00 / 12:00-13:00 / 20:00-23:00',best:'20:00-23:00'},
+        {name:'微博',times:'7:00-9:00 / 12:00-14:00 / 17:00-19:00',best:'12:00-14:00'},
+        {name:'快手',times:'6:00-8:00 / 11:00-13:00 / 19:00-22:00',best:'19:00-22:00'},
+        {name:'B站',times:'17:00-19:00 / 20:00-23:00',best:'20:00-23:00'},
+        {name:'视频号',times:'7:00-9:00 / 18:00-21:00',best:'18:00-21:00'}
+    ];
+    grid.innerHTML = platforms.map(p => `
+        <div class="time-card">
+            <div class="platform-name">${p.name}</div>
+            <div class="time-slots">${p.times}</div>
+            <div class="best-time">⭐ 最佳: ${p.best}</div>
+        </div>
+    `).join('');
+}
+
+function filterCategory(cat, btn) {
+    document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelectorAll('.trend-card').forEach(c => {
+        c.style.display = c.dataset.cat === cat ? 'block' : 'none';
+    });
+}
+
+document.addEventListener('DOMContentLoaded', init);
+</script>
+
+</body>
+</html>
