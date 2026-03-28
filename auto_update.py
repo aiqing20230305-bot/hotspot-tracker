@@ -119,4 +119,22 @@ def get_hot_topics():
         {"title": "快手早餐食谱推荐", "platform": "小红书", "heat": "4200万", "trend": "🔥🔥 稳定上升", "type": "食谱", "aud": "上班族", "time": "全年持续", "logic": "快节奏生活需求", "sentiment": "正面", "age_range": "20-40岁", "keywords": ["早餐", "快手", "食谱", "推荐"], "c": ["OATLY", "农夫山泉", "元气森林"]},
 
         # ========== 旅游类 (8条) ==========
-        {"title": "春季赏花目的地TOP10", "platform": "小红书", "heat": "3.2亿",
+        {"title": "春季赏花目的地TOP10", "platform": "小红书", "heat": "3.2亿", "trend": "🔥🔥🔥 爆发式增长", "type": "旅游", "aud": "旅游爱好者", "time": "季节性持续1月", "logic": "春游赏花季节+社交媒体传播", "sentiment": "正面", "age_range": "18-45岁", "keywords": ["赏花", "春季", "目的地", "旅游", "踏青"], "c": ["百威", "OATLY", "元气森林", "农夫山泉"]},
+    ]
+
+
+def get_topic_ideas_for_client(client_name):
+    """根据客户获取匹配选题"""
+    topics = get_hot_topics()
+    return random.sample(topics, min(5, len(topics)))
+
+
+def format_report():
+    """生成更新报告"""
+    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    topics = get_hot_topics()
+    return f"[{now}] 共更新 {len(topics)} 条热点数据"
+
+
+if __name__ == "__main__":
+    print(format_report())

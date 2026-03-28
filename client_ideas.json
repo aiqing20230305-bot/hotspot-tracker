@@ -36349,5 +36349,1367 @@
     "engagement_estimate": "9015+",
     "status": "pending",
     "created_at": "2026-03-28T23:03:38.440842"
+  },
+  {
+    "id": "3C数码_202603282350591501",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《周末夜宵美食推荐场景下，荣耀荣耀手机的独特优势》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "荣耀手机",
+    "engagement_estimate": "21501+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042049"
+  },
+  {
+    "id": "3C数码_202603282350591502",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《春季过敏护肤指南场景下，荣耀荣耀平板的独特优势》",
+    "platform": "微博",
+    "angle": "Vlog日常",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀平板",
+    "engagement_estimate": "21502+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042058"
+  },
+  {
+    "id": "3C数码_202603282350591503",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《智能手表健康监测功能场景下，荣耀荣耀耳机的独特优势》",
+    "platform": "抖音",
+    "angle": "专家访谈",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "荣耀耳机",
+    "engagement_estimate": "21503+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042063"
+  },
+  {
+    "id": "3C数码_202603282350591504",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，罗技罗技键鼠的独特优势》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "罗技键鼠",
+    "engagement_estimate": "21504+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042067"
+  },
+  {
+    "id": "3C数码_202603282350591505",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，罗技罗技摄像头的独特优势》",
+    "platform": "微博",
+    "angle": "使用教程",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技摄像头",
+    "engagement_estimate": "21505+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042070"
+  },
+  {
+    "id": "3C数码_202603282350591506",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，罗技罗技音箱的独特优势》",
+    "platform": "抖音",
+    "angle": "行业趋势",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "罗技音箱",
+    "engagement_estimate": "21506+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042073"
+  },
+  {
+    "id": "3C数码_202603282350591507",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《周末夜宵美食推荐场景下，小米小米手机的独特优势》",
+    "platform": "小红书",
+    "angle": "情感故事",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "小米手机",
+    "engagement_estimate": "21507+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042076"
+  },
+  {
+    "id": "3C数码_202603282350591508",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《春季过敏护肤指南场景下，小米小米平板的独特优势》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米平板",
+    "engagement_estimate": "21508+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042079"
+  },
+  {
+    "id": "3C数码_202603282350591509",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《智能手表健康监测功能场景下，小米小米智能家居的独特优势》",
+    "platform": "抖音",
+    "angle": "测评对比",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "小米智能家居",
+    "engagement_estimate": "21509+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042082"
+  },
+  {
+    "id": "3C数码_202603282350591510",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，索尼索尼耳机的独特优势》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "索尼耳机",
+    "engagement_estimate": "21510+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042085"
+  },
+  {
+    "id": "3C数码_202603282350591511",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，索尼索尼相机的独特优势》",
+    "platform": "微博",
+    "angle": "剧情植入",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼相机",
+    "engagement_estimate": "21511+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042087"
+  },
+  {
+    "id": "3C数码_202603282350591512",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，索尼索尼电视的独特优势》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "索尼电视",
+    "engagement_estimate": "21512+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042090"
+  },
+  {
+    "id": "快消_202603282350591513",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《周末夜宵美食推荐场景下，AHCAHC水乳的独特优势》",
+    "platform": "小红书",
+    "angle": "Vlog日常",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "AHC水乳",
+    "engagement_estimate": "21513+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042096"
+  },
+  {
+    "id": "快消_202603282350591514",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《春季过敏护肤指南场景下，AHCAHC防晒的独特优势》",
+    "platform": "微博",
+    "angle": "专家访谈",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC防晒",
+    "engagement_estimate": "21514+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042099"
+  },
+  {
+    "id": "快消_202603282350591515",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《智能手表健康监测功能场景下，AHCAHC眼霜的独特优势》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "AHC眼霜",
+    "engagement_estimate": "21515+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042103"
+  },
+  {
+    "id": "快消_202603282350591516",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，多芬多芬沐浴露的独特优势》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "21516+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042106"
+  },
+  {
+    "id": "快消_202603282350591517",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，多芬多芬洗发水的独特优势》",
+    "platform": "微博",
+    "angle": "行业趋势",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬洗发水",
+    "engagement_estimate": "21517+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042109"
+  },
+  {
+    "id": "快消_202603282350591518",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，多芬多芬身体乳的独特优势》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬身体乳",
+    "engagement_estimate": "21518+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042112"
+  },
+  {
+    "id": "快消_202603282350591519",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士沐浴露",
+        "力士香皂",
+        "力士发膜"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，力士力士沐浴露的独特优势》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "力士沐浴露",
+    "engagement_estimate": "21519+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042115"
+  },
+  {
+    "id": "快消_202603282350591520",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士沐浴露",
+        "力士香皂",
+        "力士发膜"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，力士力士香皂的独特优势》",
+    "platform": "微博",
+    "angle": "测评对比",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士香皂",
+    "engagement_estimate": "21520+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042117"
+  },
+  {
+    "id": "快消_202603282350591521",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士沐浴露",
+        "力士香皂",
+        "力士发膜"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，力士力士发膜的独特优势》",
+    "platform": "抖音",
+    "angle": "Vlog日常",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "力士发膜",
+    "engagement_estimate": "21521+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042120"
+  },
+  {
+    "id": "快消_202603282350591522",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，清扬清扬洗发水的独特优势》",
+    "platform": "小红书",
+    "angle": "剧情植入",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "21522+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042123"
+  },
+  {
+    "id": "快消_202603282350591523",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，清扬清扬护发素的独特优势》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬护发素",
+    "engagement_estimate": "21523+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042127"
+  },
+  {
+    "id": "快消_202603282350591524",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，清扬清扬洗发水的独特优势》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "21524+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042130"
+  },
+  {
+    "id": "快消_202603282350591525",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 5
+    },
+    "title": "《周末夜宵美食推荐场景下，玉兰油玉兰油面霜的独特优势》",
+    "platform": "小红书",
+    "angle": "专家访谈",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "玉兰油面霜",
+    "engagement_estimate": "21525+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042133"
+  },
+  {
+    "id": "快消_202603282350591526",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 5
+    },
+    "title": "《春季过敏护肤指南场景下，玉兰油玉兰油精华的独特优势》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油精华",
+    "engagement_estimate": "21526+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042136"
+  },
+  {
+    "id": "快消_202603282350591527",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 5
+    },
+    "title": "《智能手表健康监测功能场景下，玉兰油玉兰油防晒的独特优势》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "玉兰油防晒",
+    "engagement_estimate": "21527+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042138"
+  },
+  {
+    "id": "健康_202603282350591528",
+    "client": {
+      "industry": "健康",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "钙片"
+      ],
+      "priority": 5
+    },
+    "title": "《周末夜宵美食推荐场景下，汤臣倍健蛋白粉的独特优势》",
+    "platform": "小红书",
+    "angle": "行业趋势",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "蛋白粉",
+    "engagement_estimate": "21528+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042142"
+  },
+  {
+    "id": "健康_202603282350591529",
+    "client": {
+      "industry": "健康",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "钙片"
+      ],
+      "priority": 5
+    },
+    "title": "《春季过敏护肤指南场景下，汤臣倍健维生素的独特优势》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "维生素",
+    "engagement_estimate": "21529+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042144"
+  },
+  {
+    "id": "健康_202603282350591530",
+    "client": {
+      "industry": "健康",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "钙片"
+      ],
+      "priority": 5
+    },
+    "title": "《智能手表健康监测功能场景下，汤臣倍健钙片的独特优势》",
+    "platform": "抖音",
+    "angle": "剧情植入",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "钙片",
+    "engagement_estimate": "21530+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042147"
+  },
+  {
+    "id": "健康_202603282350591531",
+    "client": {
+      "industry": "健康",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存钙片"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，善存善存多维片的独特优势》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "善存多维片",
+    "engagement_estimate": "21531+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042150"
+  },
+  {
+    "id": "健康_202603282350591532",
+    "client": {
+      "industry": "健康",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存钙片"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，善存善存钙片的独特优势》",
+    "platform": "微博",
+    "angle": "Vlog日常",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存钙片",
+    "engagement_estimate": "21532+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042153"
+  },
+  {
+    "id": "健康_202603282350591533",
+    "client": {
+      "industry": "健康",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存钙片"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，善存善存多维片的独特优势》",
+    "platform": "抖音",
+    "angle": "专家访谈",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "善存多维片",
+    "engagement_estimate": "21533+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042155"
+  },
+  {
+    "id": "家居_202603282350591534",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂",
+        "HC消毒喷雾",
+        "HC洗衣液"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，HCHC清洁剂的独特优势》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "HC清洁剂",
+    "engagement_estimate": "21534+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042158"
+  },
+  {
+    "id": "家居_202603282350591535",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂",
+        "HC消毒喷雾",
+        "HC洗衣液"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，HCHC消毒喷雾的独特优势》",
+    "platform": "微博",
+    "angle": "使用教程",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC消毒喷雾",
+    "engagement_estimate": "21535+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042161"
+  },
+  {
+    "id": "家居_202603282350591536",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂",
+        "HC消毒喷雾",
+        "HC洗衣液"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，HCHC洗衣液的独特优势》",
+    "platform": "抖音",
+    "angle": "行业趋势",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "HC洗衣液",
+    "engagement_estimate": "21536+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042164"
+  },
+  {
+    "id": "家居_202603282350591537",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生管道疏通剂"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，威猛先生威猛先生清洁剂的独特优势》",
+    "platform": "小红书",
+    "angle": "情感故事",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "威猛先生清洁剂",
+    "engagement_estimate": "21537+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042167"
+  },
+  {
+    "id": "家居_202603282350591538",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生管道疏通剂"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，威猛先生威猛先生管道疏通剂的独特优势》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生管道疏通剂",
+    "engagement_estimate": "21538+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042170"
+  },
+  {
+    "id": "家居_202603282350591539",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生管道疏通剂"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，威猛先生威猛先生清洁剂的独特优势》",
+    "platform": "抖音",
+    "angle": "测评对比",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "威猛先生清洁剂",
+    "engagement_estimate": "21539+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042172"
+  },
+  {
+    "id": "家居_202603282350591540",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "products": [
+        "舒适牙膏",
+        "舒适牙刷",
+        "舒适漱口水"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，舒适舒适牙膏的独特优势》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适牙膏",
+    "engagement_estimate": "21540+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042175"
+  },
+  {
+    "id": "家居_202603282350591541",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "products": [
+        "舒适牙膏",
+        "舒适牙刷",
+        "舒适漱口水"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，舒适舒适牙刷的独特优势》",
+    "platform": "微博",
+    "angle": "剧情植入",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适牙刷",
+    "engagement_estimate": "21541+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042178"
+  },
+  {
+    "id": "家居_202603282350591542",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "products": [
+        "舒适牙膏",
+        "舒适牙刷",
+        "舒适漱口水"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，舒适舒适漱口水的独特优势》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "舒适漱口水",
+    "engagement_estimate": "21542+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042180"
+  },
+  {
+    "id": "宠物_202603282350591543",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "products": [
+        "希宝猫粮",
+        "希宝猫罐头",
+        "希宝猫零食"
+      ],
+      "priority": 5
+    },
+    "title": "《周末夜宵美食推荐场景下，希宝希宝猫粮的独特优势》",
+    "platform": "小红书",
+    "angle": "Vlog日常",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "希宝猫粮",
+    "engagement_estimate": "21543+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042183"
+  },
+  {
+    "id": "宠物_202603282350591544",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "products": [
+        "希宝猫粮",
+        "希宝猫罐头",
+        "希宝猫零食"
+      ],
+      "priority": 5
+    },
+    "title": "《春季过敏护肤指南场景下，希宝希宝猫罐头的独特优势》",
+    "platform": "微博",
+    "angle": "专家访谈",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝猫罐头",
+    "engagement_estimate": "21544+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042186"
+  },
+  {
+    "id": "宠物_202603282350591545",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "products": [
+        "希宝猫粮",
+        "希宝猫罐头",
+        "希宝猫零食"
+      ],
+      "priority": 5
+    },
+    "title": "《智能手表健康监测功能场景下，希宝希宝猫零食的独特优势》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "希宝猫零食",
+    "engagement_estimate": "21545+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042189"
+  },
+  {
+    "id": "宠物_202603282350591546",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物罐头"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，皇家皇家狗粮的独特优势》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "皇家狗粮",
+    "engagement_estimate": "21546+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042191"
+  },
+  {
+    "id": "宠物_202603282350591547",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物罐头"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，皇家皇家猫粮的独特优势》",
+    "platform": "微博",
+    "angle": "行业趋势",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家猫粮",
+    "engagement_estimate": "21547+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042194"
+  },
+  {
+    "id": "宠物_202603282350591548",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物罐头"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，皇家皇家宠物罐头的独特优势》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "皇家宠物罐头",
+    "engagement_estimate": "21548+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042197"
+  },
+  {
+    "id": "食品饮料_202603282350591549",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY咖啡大师"
+      ],
+      "priority": 5
+    },
+    "title": "《周末夜宵美食推荐场景下，OATLYOATLY燕麦奶的独特优势》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "21549+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042200"
+  },
+  {
+    "id": "食品饮料_202603282350591550",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY咖啡大师"
+      ],
+      "priority": 5
+    },
+    "title": "《春季过敏护肤指南场景下，OATLYOATLY咖啡大师的独特优势》",
+    "platform": "微博",
+    "angle": "测评对比",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY咖啡大师",
+    "engagement_estimate": "21550+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042203"
+  },
+  {
+    "id": "食品饮料_202603282350591551",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY咖啡大师"
+      ],
+      "priority": 5
+    },
+    "title": "《智能手表健康监测功能场景下，OATLYOATLY燕麦奶的独特优势》",
+    "platform": "抖音",
+    "angle": "Vlog日常",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "21551+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042205"
+  },
+  {
+    "id": "食品饮料_202603282350591552",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威淡啤"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，百威百威啤酒的独特优势》",
+    "platform": "小红书",
+    "angle": "剧情植入",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "百威啤酒",
+    "engagement_estimate": "21552+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042208"
+  },
+  {
+    "id": "食品饮料_202603282350591553",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威淡啤"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，百威百威淡啤的独特优势》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威淡啤",
+    "engagement_estimate": "21553+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042213"
+  },
+  {
+    "id": "食品饮料_202603282350591554",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威淡啤"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，百威百威啤酒的独特优势》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "百威啤酒",
+    "engagement_estimate": "21554+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042215"
+  },
+  {
+    "id": "食品饮料_202603282350591555",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶"
+      ],
+      "priority": 5
+    },
+    "title": "《周末夜宵美食推荐场景下，元气森林元气森林气泡水的独特优势》",
+    "platform": "小红书",
+    "angle": "专家访谈",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "21555+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042218"
+  },
+  {
+    "id": "食品饮料_202603282350591556",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶"
+      ],
+      "priority": 5
+    },
+    "title": "《春季过敏护肤指南场景下，元气森林元气森林乳茶的独特优势》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林乳茶",
+    "engagement_estimate": "21556+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042221"
+  },
+  {
+    "id": "食品饮料_202603282350591557",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶"
+      ],
+      "priority": 5
+    },
+    "title": "《智能手表健康监测功能场景下，元气森林元气森林气泡水的独特优势》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "21557+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042224"
+  },
+  {
+    "id": "食品饮料_202603282350591558",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉NFC"
+      ],
+      "priority": 4
+    },
+    "title": "《周末夜宵美食推荐场景下，农夫山泉农夫山泉矿泉水的独特优势》",
+    "platform": "小红书",
+    "angle": "行业趋势",
+    "hot_topic": "周末夜宵美食推荐",
+    "heat": "1850万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "21558+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042227"
+  },
+  {
+    "id": "食品饮料_202603282350591559",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉NFC"
+      ],
+      "priority": 4
+    },
+    "title": "《春季过敏护肤指南场景下，农夫山泉农夫山泉NFC的独特优势》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "春季过敏护肤指南",
+    "heat": "2100万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉NFC",
+    "engagement_estimate": "21559+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042230"
+  },
+  {
+    "id": "食品饮料_202603282350591560",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉NFC"
+      ],
+      "priority": 4
+    },
+    "title": "《智能手表健康监测功能场景下，农夫山泉农夫山泉矿泉水的独特优势》",
+    "platform": "抖音",
+    "angle": "剧情植入",
+    "hot_topic": "智能手表健康监测功能",
+    "heat": "920万",
+    "trend": "🔥🔥 持续上升",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "21560+",
+    "status": "pending",
+    "created_at": "2026-03-28T23:50:59.042232"
   }
 ]
