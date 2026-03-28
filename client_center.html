@@ -959,6 +959,12 @@
             <button class="export-btn excel" onclick="exportToExcel()" id="excelBtn">
                 <span>📗</span> 导出选题 Excel
             </button>
+            <button class="export-btn json" onclick="exportToJSON()" id="jsonBtn" style="background: linear-gradient(135deg, #6366F1, #4F46E5); color: white;">
+                <span>📋</span> 导出选题 JSON
+            </button>
+            <button class="export-btn copy" onclick="copyToClipboard()" id="copyBtn" style="background: linear-gradient(135deg, #8B5CF6, #7C3AED); color: white;">
+                <span>📎</span> 复制到剪贴板
+            </button>
         </div>
         
         <!-- 客户选题列表 -->
@@ -1710,10 +1716,57 @@
         }
         
         /**
+         * 获取当前筛选后的选题数据
+         */
+        function getFilteredIdeas() {
+            // 检查是否有筛选条件
+            const hasFilters = currentFilters.keyword || currentFilters.platform || 
+                              currentFilters.industry || currentFilters.angle || currentPredictionFilter;
+            
+            if (!hasFilters) {
+                return allIdeas;
+            }
+            
+            // 根据筛选条件过滤
+            let filteredIdeas = [...allIdeas];
+            
+            if (currentFilters.keyword) {
+                const kw = currentFilters.keyword.toLowerCase();
+                filteredIdeas = filteredIdeas.filter(idea => {
+                    return idea.title?.toLowerCase().includes(kw) ||
+                           idea.hot_topic?.toLowerCase().includes(kw) ||
+                           idea.angle?.toLowerCase().includes(kw) ||
+                           idea.client?.brand?.toLowerCase().includes(kw) ||
+                           idea.client?.industry?.toLowerCase().includes(kw);
+                });
+            }
+            
+            if (currentFilters.platform) {
+                filteredIdeas = filteredIdeas.filter(idea => idea.platform === currentFilters.platform);
+            }
+            
+            if (currentFilters.industry) {
+                filteredIdeas = filteredIdeas.filter(idea => idea.client?.industry === currentFilters.industry);
+            }
+            
+            if (currentFilters.angle) {
+                filteredIdeas = filteredIdeas.filter(idea => idea.angle === currentFilters.angle);
+            }
+            
+            if (currentPredictionFilter) {
+                filteredIdeas = filteredIdeas.filter(idea => idea._successLevel === currentPredictionFilter);
+            }
+            
+            return filteredIdeas;
+        }
+        
+        /**
          * 导出选题数据为CSV
          */
         function exportToCSV() {
-            if (allIdeas.length === 0) {
+            const ideasToExport = getFilteredIdeas();
+            
+            if (ideasToExport.length === 0) {
                 showToast('暂无选题数据可导出', 'error');
                 return;
             }
@@ -1747,7 +1800,7 @@
                     // 生成CSV内容
                     let csv = headers.join(',') + '\n';
                     
-                    allIdeas.forEach(idea => {
+                    ideasToExport.forEach(idea => {
                         const row = [
                             escapeCSVField(idea.client?.industry),
                             escapeCSVField(idea.client?.brand),
@@ -1766,13 +1819,14 @@
                         csv += row.join(',') + '\n';
                     });
                     
-                    // 生成文件名
+                    // 生成文件名（包含日期）
                     const timestamp = new Date().toISOString().slice(0, 10);
-                    const filename = `客户选题_${timestamp}.csv`;
+                    const filterSuffix = ideasToExport.length < allIdeas.length ? '_筛选后' : '';
+                    const filename = `客户选题${filterSuffix}_${timestamp}.csv`;
                     
                     downloadFile(csv, filename, 'text/csv');
                     
-                    showToast(`✅ 成功导出 ${allIdeas.length} 条选题到 CSV`, 'success');
+                    showToast(`✅ 成功导出 ${ideasToExport.length} 条选题到 CSV`, 'success');
                 } catch (error) {
                     console.error('CSV导出失败:', error);
                     showToast('CSV导出失败: ' + error.message, 'error');

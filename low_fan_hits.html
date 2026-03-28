@@ -27,19 +27,22 @@
         
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: linear-gradient(135deg, var(--primary-50) 0%, #F5F3FF 100%);
+            background: linear-gradient(135deg, #EEF2FF 0%, #F5F3FF 100%);
             min-height: 100vh;
             color: var(--gray-800);
         }
         
         /* 导航栏 */
         .navbar {
-            background: white;
-            box-shadow: var(--shadow);
-            padding: 16px 24px;
-            position: sticky;
+            position: fixed;
             top: 0;
-            z-index: 100;
+            left: 0;
+            right: 0;
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            z-index: 1000;
+            padding: 12px 24px;
         }
         
         .nav-container {
@@ -51,7 +54,7 @@
         }
         
         .logo {
-            font-size: 24px;
+            font-size: 20px;
             font-weight: 800;
             color: var(--primary);
             display: flex;
@@ -75,8 +78,8 @@
         }
         
         .nav-tab:hover, .nav-tab.active {
-            background: var(--primary-50);
-            color: var(--primary);
+            background: var(--primary);
+            color: white;
         }
         
         /* 汉堡菜单 */
@@ -115,7 +118,7 @@
             .nav-tabs {
                 display: none;
                 position: fixed;
-                top: 64px;
+                top: 60px;
                 left: 0;
                 right: 0;
                 background: white;
@@ -134,18 +137,21 @@
                 text-align: left;
                 min-height: 48px;
             }
-            .main-container { padding: 16px; }
+            .main-container { padding: 80px 16px 24px; }
             .page-header { padding: 24px 20px; border-radius: 16px; }
             .page-header h1 { font-size: 24px; }
-            .time-filter { flex-wrap: wrap; gap: 8px; }
-            .filter-btn { min-height: 44px; padding: 10px 16px; }
+            .filter-section { flex-direction: column; }
+            .filter-group { width: 100%; }
             .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
             .stat-card { padding: 16px; }
             .stat-number { font-size: 26px; }
             .content-grid { grid-template-columns: 1fr; }
             .hit-item { flex-direction: column; gap: 12px; }
-            .hit-stats { text-align: left; width: 100%; display: flex; gap: 16px; align-items: center; }
+            .hit-stats { text-align: left; width: 100%; display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
             .hit-rank { width: 36px; height: 36px; font-size: 14px; }
+            .hit-actions { margin-top: 8px; }
+            .detail-content { width: 95%; max-height: 85vh; }
+            .sidebar { order: 2; }
         }
         @media (max-width: 480px) {
             .logo { font-size: 16px; }
@@ -154,16 +160,18 @@
             .stat-card { padding: 14px 12px; }
             .stat-number { font-size: 22px; }
             .hit-title { font-size: 14px; }
+            .hit-meta { gap: 6px; }
+            .hit-tag { font-size: 11px; padding: 2px 6px; }
         }
         @media (hover: none) and (pointer: coarse) {
-            .filter-btn, .nav-tab, .hit-btn { min-height: 44px; }
+            .filter-btn, .nav-tab, .hit-btn, .sort-btn, select { min-height: 44px; }
         }
         
         /* 主容器 */
         .main-container {
             max-width: 1400px;
             margin: 0 auto;
-            padding: 24px;
+            padding: 80px 24px 40px;
         }
         
         /* 页面标题 */
@@ -172,7 +180,7 @@
             color: white;
             padding: 40px;
             border-radius: 24px;
-            margin-bottom: 32px;
+            margin-bottom: 24px;
         }
         
         .page-header h1 {
@@ -184,53 +192,35 @@
             opacity: 0.9;
         }
         
-        /* 时间筛选 */
-        .time-filter {
-            display: flex;
-            gap: 12px;
-            margin-bottom: 24px;
-            background: white;
-            padding: 16px;
-            border-radius: var(--radius);
-            box-shadow: var(--shadow);
-        }
-        
-        .filter-btn {
-            padding: 10px 24px;
-            border: 2px solid var(--gray-200);
-            background: white;
-            border-radius: 8px;
-            cursor: pointer;
+        .update-time {
+            background: rgba(255,255,255,0.2);
+            padding: 6px 16px;
+            border-radius: 20px;
             font-size: 14px;
-            font-weight: 600;
-            transition: all 0.2s;
-        }
-        
-        .filter-btn:hover {
-            border-color: var(--primary);
-            color: var(--primary);
-        }
-        
-        .filter-btn.active {
-            background: var(--primary);
-            color: white;
-            border-color: var(--primary);
+            display: inline-block;
+            margin-top: 12px;
         }
         
         /* 统计卡片 */
         .stats-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
             gap: 16px;
             margin-bottom: 24px;
         }
         
         .stat-card {
             background: white;
-            padding: 20px;
+            padding: 24px;
             border-radius: var(--radius);
             box-shadow: var(--shadow);
             text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
         }
         
         .stat-number {
@@ -243,6 +233,87 @@
             font-size: 14px;
             color: var(--gray-600);
             margin-top: 4px;
+        }
+        
+        .stat-trend {
+            font-size: 12px;
+            color: var(--success);
+            margin-top: 4px;
+        }
+        
+        /* 筛选区域 */
+        .filter-section {
+            background: white;
+            padding: 20px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            margin-bottom: 24px;
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            align-items: flex-end;
+        }
+        
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+        
+        .filter-label {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--gray-600);
+        }
+        
+        .filter-select {
+            padding: 10px 16px;
+            border: 2px solid var(--gray-200);
+            border-radius: 8px;
+            font-size: 14px;
+            background: white;
+            cursor: pointer;
+            min-width: 140px;
+            transition: border-color 0.2s;
+        }
+        
+        .filter-select:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        
+        .sort-group {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .sort-btn {
+            padding: 10px 16px;
+            border: 2px solid var(--gray-200);
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+        
+        .sort-btn:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+        
+        .sort-btn.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+        
+        .result-count {
+            margin-left: auto;
+            font-size: 14px;
+            color: var(--gray-600);
+            padding: 10px 0;
         }
         
         /* 内容区 */
@@ -336,6 +407,7 @@
         
         .hit-content {
             flex: 1;
+            min-width: 0;
         }
         
         .hit-title {
@@ -343,11 +415,16 @@
             font-weight: 600;
             margin-bottom: 8px;
             line-height: 1.5;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
         }
         
         .hit-meta {
             display: flex;
-            gap: 12px;
+            gap: 8px;
             flex-wrap: wrap;
             margin-bottom: 8px;
         }
@@ -382,7 +459,7 @@
         .hit-methodology {
             font-size: 13px;
             color: var(--primary);
-            background: var(--primary-50);
+            background: #EEF2FF;
             padding: 6px 12px;
             border-radius: 6px;
             display: inline-block;
@@ -393,6 +470,11 @@
             font-size: 13px;
             color: var(--gray-600);
             line-height: 1.6;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
         }
         
         .hit-stats {
@@ -437,12 +519,24 @@
             margin-bottom: 24px;
         }
         
+        .card-body {
+            padding: 16px 24px;
+        }
+        
         .category-item, .method-item {
             display: flex;
             justify-content: space-between;
             align-items: center;
             padding: 12px 0;
             border-bottom: 1px solid var(--gray-100);
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        .category-item:hover, .method-item:hover {
+            background: var(--gray-50);
+            margin: 0 -24px;
+            padding: 12px 24px;
         }
         
         .category-item:last-child, .method-item:last-child {
@@ -470,9 +564,10 @@
             width: 100%;
             height: 100%;
             background: rgba(0,0,0,0.5);
-            z-index: 1000;
+            z-index: 2000;
             justify-content: center;
             align-items: center;
+            padding: 20px;
         }
         
         .detail-modal.active {
@@ -508,8 +603,48 @@
             background: none;
             border: none;
             color: white;
-            font-size: 24px;
+            font-size: 28px;
             cursor: pointer;
+            line-height: 1;
+            padding: 0 8px;
+        }
+        
+        /* 空状态 */
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--gray-600);
+        }
+        
+        .empty-state svg {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 16px;
+            opacity: 0.5;
+        }
+        
+        /* 加载状态 */
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: var(--gray-600);
+        }
+        
+        /* 重置按钮 */
+        .reset-btn {
+            padding: 10px 20px;
+            background: var(--gray-100);
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-600);
+            transition: all 0.2s;
+        }
+        
+        .reset-btn:hover {
+            background: var(--gray-200);
         }
     </style>
 </head>
@@ -541,34 +676,62 @@
         <!-- 页面标题 -->
         <div class="page-header">
             <h1>💎 低粉爆款榜</h1>
-            <p>粉丝少但点赞高的爆款内容，纯内容驱动更值得借鉴 | 今日已更新 20 条</p>
-        </div>
-        
-        <!-- 时间筛选 -->
-        <div class="time-filter">
-            <button class="filter-btn active" onclick="switchRanking('daily')">📅 日榜</button>
-            <button class="filter-btn" onclick="switchRanking('weekly')">📊 周榜</button>
-            <button class="filter-btn" onclick="switchRanking('monthly')">📈 月榜</button>
+            <p>粉丝少但点赞高的爆款内容，纯内容驱动更值得借鉴</p>
+            <div class="update-time" id="updateTime">数据更新时间：加载中...</div>
         </div>
         
         <!-- 统计卡片 -->
-        <div class="stats-grid">
+        <div class="stats-grid" id="statsGrid">
             <div class="stat-card">
-                <div class="stat-number">20</div>
-                <div class="stat-label">今日爆款数</div>
+                <div class="stat-number" id="statTotal">-</div>
+                <div class="stat-label">爆款总数</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">10.2万</div>
+                <div class="stat-number" id="statAvgFans">-</div>
                 <div class="stat-label">平均粉丝数</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">12.8万</div>
+                <div class="stat-number" id="statAvgLikes">-</div>
                 <div class="stat-label">平均点赞数</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">15.6</div>
+                <div class="stat-number" id="statAvgEngagement">-</div>
                 <div class="stat-label">平均互动率</div>
             </div>
+        </div>
+        
+        <!-- 筛选区域 -->
+        <div class="filter-section">
+            <div class="filter-group">
+                <label class="filter-label">平台</label>
+                <select class="filter-select" id="filterPlatform" onchange="applyFilters()">
+                    <option value="">全部平台</option>
+                    <option value="抖音">抖音</option>
+                    <option value="小红书">小红书</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">品类</label>
+                <select class="filter-select" id="filterCategory" onchange="applyFilters()">
+                    <option value="">全部分类</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">方法论</label>
+                <select class="filter-select" id="filterMethodology" onchange="applyFilters()">
+                    <option value="">全部方法</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">排序方式</label>
+                <div class="sort-group">
+                    <button class="sort-btn active" data-sort="likes" onclick="setSort('likes')">点赞数</button>
+                    <button class="sort-btn" data-sort="engagement" onclick="setSort('engagement')">互动率</button>
+                    <button class="sort-btn" data-sort="fans" onclick="setSort('fans')">粉丝数</button>
+                </div>
+            </div>
+            <button class="reset-btn" onclick="resetFilters()">重置筛选</button>
+            <div class="result-count" id="resultCount">显示 0 条结果</div>
         </div>
         
         <!-- 内容区 -->
@@ -576,10 +739,10 @@
             <!-- 左侧：爆款列表 -->
             <div class="card">
                 <div class="card-header">
-                    <div class="card-title">🔥 今日低粉爆款 TOP20</div>
+                    <div class="card-title">🔥 低粉爆款榜</div>
                 </div>
                 <div class="hit-list" id="hitList">
-                    <!-- 爆款项目将通过JS动态生成 -->
+                    <div class="loading">加载中...</div>
                 </div>
             </div>
             
@@ -617,10 +780,10 @@
                             <strong>为什么值得借鉴？</strong><br>
                             低粉账号没有粉丝基础，爆款完全依靠内容质量，方法论更可复制。<br><br>
                             <strong>如何使用？</strong><br>
-                            1. 查看爆款标题和文案技巧<br>
-                            2. 学习标注的方法论<br>
-                            3. 结合自己的产品和热点<br>
-                            4. 生成专属内容脚本
+                            1. 点击侧边栏分类快速筛选<br>
+                            2. 查看爆款标题和文案技巧<br>
+                            3. 学习标注的方法论<br>
+                            4. 点击"生成脚本"创作内容
                         </p>
                     </div>
                 </div>
@@ -642,262 +805,5 @@
     </div>
     
     <script>
-        // 移动端菜单切换
-        function toggleMenu() {
-            const navTabs = document.getElementById('navTabs');
-            const hamburger = document.getElementById('hamburger');
-            navTabs.classList.toggle('show');
-            hamburger.classList.toggle('active');
-        }
-        
-        document.querySelectorAll('.nav-tab').forEach(tab => {
-            tab.addEventListener('click', () => {
-                document.getElementById('navTabs').classList.remove('show');
-                document.getElementById('hamburger').classList.remove('active');
-            });
-        });
-        
-        // 低粉爆款数据（实际应从JSON文件加载）
-        const lowFanHitsData = {
-            "date": "20260326",
-            "total_count": 20,
-            "top_hits": [
-                {
-                    "rank": 1,
-                    "platform": "抖音",
-                    "account_name": "租房改造家",
-                    "fan_count": 5600,
-                    "content_title": "500元改造10平米出租屋，房东以为走错门",
-                    "like_count": 234000,
-                    "comment_count": 12000,
-                    "share_count": 25000,
-                    "category": "家居",
-                    "methodology": "反差对比：通过强烈对比制造冲突，吸引注意力",
-                    "why_it_works": "对比手法制造视觉冲击；低成本高效果满足观众猎奇心理；租房是年轻人普遍痛点",
-                    "tags": ["#租房改造", "#出租屋改造", "#低成本改造", "#家居改造", "#ins风"]
-                },
-                {
-                    "rank": 2,
-                    "platform": "小红书",
-                    "account_name": "职场妈妈",
-                    "fan_count": 4500,
-                    "content_title": "职场妈妈的一天，看完你还想生孩子吗",
-                    "like_count": 123000,
-                    "comment_count": 15000,
-                    "share_count": 18000,
-                    "category": "亲子",
-                    "methodology": "情绪价值：提供情绪价值，满足情感需求",
-                    "why_it_works": "真实展现职场妈妈困境，引发强烈共鸣；情绪价值高，易引发转发讨论",
-                    "tags": ["#职场妈妈", "#育儿日常", "#带娃vlog", "#亲子关系", "#女性成长"]
-                },
-                {
-                    "rank": 3,
-                    "platform": "抖音",
-                    "account_name": "小王爱测评",
-                    "fan_count": 8500,
-                    "content_title": "月薪3000 vs 月薪30000的早餐差别",
-                    "like_count": 156000,
-                    "comment_count": 8900,
-                    "share_count": 12000,
-                    "category": "生活",
-                    "methodology": "反差对比：通过强烈对比制造冲突，吸引注意力",
-                    "why_it_works": "贫富差距是永恒话题；对比手法直观震撼；引发观众自我代入和讨论"
-                },
-                {
-                    "rank": 4,
-                    "platform": "小红书",
-                    "account_name": "独居生活家",
-                    "fan_count": 9200,
-                    "content_title": "25岁独居女生的周末，治愈又充实",
-                    "like_count": 156000,
-                    "comment_count": 8900,
-                    "share_count": 23000,
-                    "category": "生活",
-                    "methodology": "情绪价值：提供情绪价值，满足情感需求",
-                    "why_it_works": "独居是年轻人普遍状态；治愈系内容满足情感需求；生活方式种草属性强"
-                },
-                {
-                    "rank": 5,
-                    "platform": "抖音",
-                    "account_name": "职场老油条",
-                    "fan_count": 3200,
-                    "content_title": "老板以为我在加班，其实我在...",
-                    "like_count": 67800,
-                    "comment_count": 4500,
-                    "share_count": 5600,
-                    "category": "职场",
-                    "methodology": "痛点共鸣：精准击中用户痛点，引发情感共鸣",
-                    "why_it_works": "打工人摸鱼是普遍现象；幽默化解职场压力；引发强烈共鸣和转发"
-                }
-            ],
-            "category_stats": {
-                "家居": 4,
-                "生活": 5,
-                "职场": 3,
-                "美妆": 2,
-                "亲子": 2,
-                "美食": 2,
-                "穿搭": 1,
-                "健身": 1
-            },
-            "methodology_stats": {
-                "反差对比": 6,
-                "痛点共鸣": 5,
-                "情绪价值": 4,
-                "干货教学": 3,
-                "热点借势": 2
-            }
-        };
-        
-        // 渲染爆款列表
-        function renderHitList() {
-            const listContainer = document.getElementById('hitList');
-            let html = '';
-            
-            lowFanHitsData.top_hits.forEach(hit => {
-                const rankClass = hit.rank === 1 ? 'top1' : hit.rank === 2 ? 'top2' : hit.rank === 3 ? 'top3' : 'normal';
-                const platformClass = hit.platform === '抖音' ? 'platform-douyin' : 'platform-xiaohongshu';
-                
-                html += `
-                    <div class="hit-item" onclick="showDetail(${hit.rank - 1})">
-                        <div class="hit-rank ${rankClass}">${hit.rank}</div>
-                        <div class="hit-content">
-                            <div class="hit-title">${hit.content_title}</div>
-                            <div class="hit-meta">
-                                <span class="hit-tag ${platformClass}">${hit.platform}</span>
-                                <span class="hit-tag category">${hit.category}</span>
-                                <span class="hit-tag fans">${hit.fan_count.toLocaleString()}粉</span>
-                            </div>
-                            <div class="hit-methodology">📚 ${hit.methodology}</div>
-                            <div class="hit-why">💡 ${hit.why_it_works}</div>
-                        </div>
-                        <div class="hit-stats">
-                            <div class="hit-likes">${(hit.like_count / 10000).toFixed(1)}万</div>
-                            <div class="hit-engagement">互动率 ${((hit.like_count + hit.comment_count + hit.share_count) / hit.fan_count).toFixed(1)}</div>
-                            <div class="hit-actions">
-                                <button class="hit-btn" onclick="event.stopPropagation(); generateScript('${hit.content_title}')">生成脚本</button>
-                            </div>
-                        </div>
-                    </div>
-                `;
-            });
-            
-            listContainer.innerHTML = html;
-        }
-        
-        // 渲染分类统计
-        function renderCategoryStats() {
-            const container = document.getElementById('categoryStats');
-            const stats = lowFanHitsData.category_stats;
-            let html = '';
-            
-            Object.entries(stats).sort((a, b) => b[1] - a[1]).forEach(([category, count]) => {
-                html += `
-                    <div class="category-item">
-                        <span class="category-name">${category}</span>
-                        <span class="category-count">${count}条</span>
-                    </div>
-                `;
-            });
-            
-            container.innerHTML = html;
-        }
-        
-        // 渲染方法论统计
-        function renderMethodologyStats() {
-            const container = document.getElementById('methodologyStats');
-            const stats = lowFanHitsData.methodology_stats;
-            let html = '';
-            
-            Object.entries(stats).sort((a, b) => b[1] - a[1]).forEach(([method, count]) => {
-                html += `
-                    <div class="method-item">
-                        <span class="method-name">${method}</span>
-                        <span class="method-count">${count}条</span>
-                    </div>
-                `;
-            });
-            
-            container.innerHTML = html;
-        }
-        
-        // 显示详情
-        function showDetail(index) {
-            const hit = lowFanHitsData.top_hits[index];
-            const modal = document.getElementById('detailModal');
-            const body = document.getElementById('detailBody');
-            
-            // 计算排名百分位
-            const totalVideos = 100000; // 假设平台当日视频总量
-            const percentile = hit.rank <= 5 ? 'TOP 0.01%' : hit.rank <= 10 ? 'TOP 0.05%' : 'TOP 1%';
-            const growthDef = hit.rank <= 3 ? '🔥 24小时内热度指数增长超过500%' : hit.rank <= 10 ? '📈 48小时内热度持续上升200%+' : '📊 72小时内稳定增长100%+';
-            
-            // 标签HTML
-            const tagsHtml = hit.tags ? hit.tags.map(tag => `<span style="display:inline-block;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;padding:4px 12px;border-radius:16px;font-size:12px;margin:2px;">${tag}</span>`).join(' ') : '';
-            
-            body.innerHTML = `
-                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
-                    <h4 style="margin:0;">${hit.content_title}</h4>
-                    <span style="background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#fff;padding:6px 16px;border-radius:20px;font-weight:700;font-size:14px;">${percentile}</span>
-                </div>
-                <div style="background:linear-gradient(135deg,#ffecd2 0%,#fcb69f 100%);padding:10px 14px;border-radius:8px;margin:12px 0;">
-                    <p style="margin:0;font-size:13px;"><strong>📊 热度趋势：</strong>${growthDef}</p>
-                </div>
-                <p><strong>平台：</strong><span style="color:${hit.platform === '抖音' ? '#fe2c55' : '#ff2442'}">${hit.platform}</span></p>
-                <p><strong>账号：</strong>${hit.account_name} (${hit.fan_count.toLocaleString()}粉)</p>
-                <p><strong>分类：</strong>${hit.category}</p>
-                <p><strong>互动数据：</strong>❤️ ${hit.like_count.toLocaleString()} | 💬 ${hit.comment_count.toLocaleString()} | 🔄 ${hit.share_count.toLocaleString()}</p>
-                ${tagsHtml ? `<div style="margin:12px 0;"><strong>🏷️ 原视频标签：</strong><div style="margin-top:8px;">${tagsHtml}</div></div>` : ''}
-                <hr style="margin: 16px 0; border: none; border-top: 1px solid var(--gray-200);">
-                <p><strong>📚 方法论：</strong></p>
-                <p style="background:#f0f4ff;padding:10px;border-radius:6px;">${hit.methodology}</p>
-                <p style="margin-top:12px;"><strong>💡 为什么能火：</strong></p>
-                <p style="background:#fff0f5;padding:10px;border-radius:6px;">${hit.why_it_works}</p>
-                <hr style="margin: 16px 0; border: none; border-top: 1px solid var(--gray-200);">
-                <p><strong>🎯 可借鉴角度：</strong></p>
-                <ul style="background:#f0fff4;padding:12px 12px 12px 28px;border-radius:6px;">
-                    <li>标题使用"数字+对比"手法，制造冲突感</li>
-                    <li>内容直击目标人群痛点，引发共鸣</li>
-                    <li>视觉化呈现，增强冲击力</li>
-                    <li>引导互动，提升完播率</li>
-                </ul>
-            `;
-            
-            modal.classList.add('active');
-        }
-        
-        // 关闭详情
-        function closeDetail() {
-            document.getElementById('detailModal').classList.remove('active');
-        }
-        
-        // 生成脚本
-        function generateScript(title) {
-            alert(`正在生成脚本：${title}\n\n将结合内容运营方法论（AIDA/SCQA）生成专业脚本...`);
-        }
-        
-        // 切换榜单
-        function switchRanking(type) {
-            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            event.target.classList.add('active');
-            
-            // 这里应该加载对应的数据
-            alert(`切换到${type === 'daily' ? '日榜' : type === 'weekly' ? '周榜' : '月榜'}数据...`);
-        }
-        
-        // 初始化
-        document.addEventListener('DOMContentLoaded', function() {
-            renderHitList();
-            renderCategoryStats();
-            renderMethodologyStats();
-        });
-        
-        // 点击弹窗外部关闭
-        document.getElementById('detailModal').addEventListener('click', function(e) {
-            if (e.target === this) {
-                closeDetail();
-            }
-        });
-    </script>
-</body>
-</html>
+        // 从数据库加载的实际数据
+        const rawData = [{"id":"抖音_20260326_2","platform":"抖音","account_name":"账号3505","fan_count":5600,"content_title":"500元改造10平米出租屋，房东以为走错门","content_url":"https://抖音.com/search/500元改造10平米","like_count":234000,"comment_count":15999,"share_count":32878,"publish_date":"20260326","category":"家居","tags":"[\"家居\", \"爆款\", \"低粉\"]","methodology":"综合型：多种方法结合","why_it_works":"高点赞说明内容质量过硬"},{"id":"小红_20260326_15","platform":"小红书","account_name":"账号7467","fan_count":8900,"content_title":"只有女生才懂的尴尬瞬间","content_url":"https://小红书.com/search/只有女生才懂的尴尬瞬","like_count":167000,"comment_count":15286,"share_count":15481,"publish_date":"20260326","category":"情感","tags":"[\"情感\", \"爆款\", \"低粉\"]","methodology":"身份认同：强化群体身份，获得归属感","why_it_works":"高点赞说明内容质量过硬"},{"id":"抖音_20260326_0","platform":"抖音","account_name":"账号8112","fan_count":8500,"content_title":"月薪3000 vs 月薪30000的早餐差别","content_url":"https://抖音.com/search/月薪3000 vs ","like_count":156000,"comment_count":8009,"share_count":18787,"publish_date":"20260326","category":"生活","tags":"[\"生活\", \"爆款\", \"低粉\"]","methodology":"反差对比：通过强烈对比制造冲突，吸引注意力","why_it_works":"对比手法制造视觉冲击；高点赞说明内容质量过硬"},{"id":"抖音_20260326_8","platform":"抖音","account_name":"账号8951","fan_count":11000,"content_title":"租房避坑指南，看完少交智商税","content_url":"https://抖音.com/search/租房避坑指南，看完少","like_count":156000,"comment_count":12657,"share_count":19279,"publish_date":"20260326","category":"生活","tags":"[\"生活\", \"爆款\", \"低粉\"]","methodology":"痛点共鸣：精准击中用户痛点，引发情感共鸣","why_it_works":"精准击中目标人群痛点；高点赞说明内容质量过硬"},{"id":"小红_20260326_11","platform":"小红书","account_name":"账号1935","fan_count":9200,"content_title":"25岁独居女生的周末，治愈又充实","content_url":"https://小红书.com/search/25岁独居女生的周末","like_count":156000,"comment_count":15092,"share_count":17609,"publish_date":"20260326","category":"生活","tags":"[\"生活\", \"爆款\", \"低粉\"]","methodology":"情绪价值：提供情绪价值，满足情感需求","why_it_works":"情绪价值高，易引发共鸣；高点赞说明内容质量过硬"},{"id":"小红_20260326_19","platform":"小红书","account_name":"账号5399","fan_count":13400,"content_title":"社恐人的社交自救指南","content_url":"https://小红书.com/search/社恐人的社交自救指南","like_count":156000,"comment_count":8793,"share_count":13268,"publish_date":"20260326","category":"情感","tags":"[\"情感\", \"爆款\", \"低粉\"]","methodology":"综合型：多种方法结合","why_it_works":"高点赞说明内容质量过硬"},{"id":"抖音_20260326_5","platform":"抖音","account_name":"账号9767","fan_count":6800,"content_title":"只有打工人才懂的痛","content_url":"https://抖音.com/search/只有打工人才懂的痛","like_count":145000,"comment_count":13438,"share_count":15013,"publish_date":"20260326","category":"职场","tags":"[\"职场\", \"爆款\", \"低粉\"]","methodology":"身份认同：强化群体身份，获得归属感","why_it_works":"精准击中目标人群痛点；高点赞说明内容质量过硬"},{"id":"小红_20260326_14","platform":"小红书","account_name":"账号9291","fan_count":11200,"content_title":"一周减脂餐不重样，好吃又掉秤","content_url":"https://小红书.com/search/一周减脂餐不重样，好","like_count":145000,"comment_count":13760,"share_count":14093,"publish_date":"20260326","category":"美食","tags":"[\"美食\", \"爆款\", \"低粉\"]","methodology":"综合型：多种方法结合","why_it_works":"高点赞说明内容质量过硬"},{"id":"小红_20260326_18","platform":"小红书","account_name":"账号7719","fan_count":9800,"content_title":"租房改造前后对比，房东都惊了","content_url":"https://小红书.com/search/租房改造前后对比，房","like_count":134000,"comment_count":13122,"share_count":19116,"publish_date":"20260326","category":"家居","tags":"[\"家居\", \"爆款\", \"低粉\"]","methodology":"反差对比：通过强烈对比制造冲突，吸引注意力","why_it_works":"对比手法制造视觉冲击；精准击中目标人群痛点；高点赞说明内容质量过硬"},{"id":"抖音_20260326_7","platform":"抖音","account_name":"账号1006","fan_count":7800,"content_title":"30天减肥20斤，我是怎么做到的","content_url":"https://抖音.com/search/30天减肥20斤，我","like_count":123000,"comment_count":8969,"share_count":16572,"publish_date":"20260326","category":"健身","tags":"[\"健身\", \"爆款\", \"低粉\"]","methodology":"综合型：多种方法结合","why_it_works":"高点赞说明内容质量过硬"},{"id":"小红_20260326_12","platform":"小红书","account_name":"账号4404","fan_count":4500,"content_title":"职场妈妈的一天，看完你还想生孩子吗","content_url":"https://小红书.com/search/职场妈妈的一天，看完","like_count":123000,"comment_count":7258,"share_count":15944,"publish_date":"20260326","category":"亲子","tags":"[\"亲子\", \"爆款\", \"低粉\"]","methodology":"综合型：多种方法结合","why_it_works":"高点赞说明内容质量过硬"},{"id":"抖音_20260326_4","platform":"抖音","account_name":"账号6427","fan_count":15000,"content_title":"一年存下10万，我的省钱秘诀大公开","content_url":"https://抖音.com/search/一年存下10万，我的","like_count":112000,"comment_count":9341,"share_count":14787,"publish_date":"20260326","category":"理财","tags":"[\"理财\", \"爆款\", \"低粉\"]","methodology":"痛点共鸣：精准击中用户痛点，引发情感共鸣","why_it_works":"精准击中目标人群痛点；高点赞说明内容质量过硬"},{"id":"小红_20260326_13","platform":"小红书","account_name":"账号7930","fan_count":7800,"content_title":"小户型收纳秘籍，空间翻倍","content_url":"https://小红书.com/search/小户型收纳秘籍，空间","like_count":112000,"comment_count":5918,"share_count":9480,"publish_date":"20260326","category":"家居","tags":"[\"家居\", \"爆款\", \"低粉\"]","methodology":"综合型：多种方法结合","why_it_works":"高点赞说明内容质量过硬"},{"id":"抖音_20260326_9","platform":"抖音","account_name":"账号2861","fan_count":6500,"content_title":"第一次见家长，穿搭攻略","content_url":"https://抖音.com/search/第一次见家长，穿搭攻","like_count":98000,"comment_count":8546,"share_count":13727,"publish_date":"20260326","category":"穿搭","tags":"[\"穿搭\", \"爆款\", \"低粉\"]","methodology":"干货教学：提供实用价值，解决具体问题","why_it_works":"实用价值高，收藏率高；视觉化内容，易传播"},{"id":"抖音_20260326_1","platform":"抖音","account_name":"账号9114","fan_count":12000,"content_title":"新手化妆误区，90%的人都踩过","content_url":"https://抖音.com/search/新手化妆误区，90%","like_count":89000,"comment_count":6432,"share_count":10168,"publish_date":"20260326","category":"美妆","tags":"[\"美妆\", \"爆款\", \"低粉\"]","methodology":"综合型：多种方法结合","why_it_works":"视觉化内容，易传播"},{"id":"抖音_20260326_6","platform":"抖音","account_name":"账号8117","fan_count":9200,"content_title":"揭秘：网红餐厅背后的真相","content_url":"https://抖音.com/search/揭秘：网红餐厅背后的","like_count":89000,"comment_count":8596,"share_count":13086,"publish_date":"20260326","category":"美食","tags":"[\"美食\", \"爆款\", \"低粉\"]","methodology":"猎奇新奇：展示新奇事物，满足好奇心","why_it_works":"内容质量高，符合平台推荐算法"},{"id":"小红_20260326_10","platform":"小红书","account_name":"账号47
