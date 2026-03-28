@@ -1,0 +1,4 @@
+  File "/Users/zhangjingwei/.qclaw/workspace/hotspot-tracker/auto_update.py", line 122
+    {"title": "春季赏花目的地TOP10", "platform": "小红书", "heat": "3.2亿",
+    ^
+SyntaxError: '{' was never closed

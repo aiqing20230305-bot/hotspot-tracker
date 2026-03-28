@@ -20352,5 +20352,7803 @@
     "engagement_estimate": "40615+",
     "status": "pending",
     "created_at": "2026-03-28T06:44:33.969721"
+  },
+  {
+    "id": "3C数码_202603282354",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《AI大模型应用潮必备！荣耀平板使用心得分享》",
+    "platform": "微博",
+    "angle": "知识科普",
+    "hot_topic": "AI大模型应用潮",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "AI",
+      "大模型",
+      "ChatGPT",
+      "人工智能"
+    ],
+    "heat_index": 77,
+    "estimated_interaction": "41w",
+    "success_rate": 78,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603281515",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 3
+    },
+    "title": "《借势AI大模型应用潮，罗技摄像头这样用超赞》",
+    "platform": "微博",
+    "angle": "专家访谈",
+    "hot_topic": "AI大模型应用潮",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "AI",
+      "大模型",
+      "ChatGPT",
+      "人工智能"
+    ],
+    "heat_index": 76,
+    "estimated_interaction": "43w",
+    "success_rate": 55,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603284267",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《从AI大模型应用潮看小米手机的正确打开方式》",
+    "platform": "微博",
+    "angle": "行业趋势",
+    "hot_topic": "AI大模型应用潮",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "AI",
+      "大模型",
+      "ChatGPT",
+      "人工智能"
+    ],
+    "heat_index": 64,
+    "estimated_interaction": "18w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603288980",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《折叠屏手机新风向×荣耀手机：使用教程完全指南》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "折叠屏手机新风向",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "折叠屏",
+      "手机",
+      "数码",
+      "新品"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "33w",
+    "success_rate": 75,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603282127",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《罗技摄像头+折叠屏手机新风向，这个组合绝了》",
+    "platform": "抖音",
+    "angle": "剧情植入",
+    "hot_topic": "折叠屏手机新风向",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "折叠屏",
+      "手机",
+      "数码",
+      "新品"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "6w",
+    "success_rate": 81,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603285541",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《折叠屏手机新风向×小米智能家居：行业趋势完全指南》",
+    "platform": "抖音",
+    "angle": "行业趋势",
+    "hot_topic": "折叠屏手机新风向",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "折叠屏",
+      "手机",
+      "数码",
+      "新品"
+    ],
+    "heat_index": 88,
+    "estimated_interaction": "15w",
+    "success_rate": 65,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603281072",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《智能穿戴健康监测热潮下，荣耀凭什么出圈》",
+    "platform": "小红书",
+    "angle": "用户故事",
+    "hot_topic": "智能穿戴健康监测",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "智能手表",
+      "健康",
+      "运动",
+      "监测"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "49w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603282979",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《智能穿戴健康监测热潮下，罗技凭什么出圈》",
+    "platform": "小红书",
+    "angle": "专家访谈",
+    "hot_topic": "智能穿戴健康监测",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "智能手表",
+      "健康",
+      "运动",
+      "监测"
+    ],
+    "heat_index": 99,
+    "estimated_interaction": "37w",
+    "success_rate": 68,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603284564",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《从智能穿戴健康监测看小米智能家居的正确打开方式》",
+    "platform": "小红书",
+    "angle": "用户故事",
+    "hot_topic": "智能穿戴健康监测",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "智能手表",
+      "健康",
+      "运动",
+      "监测"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "45w",
+    "success_rate": 78,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603283814",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《借势Switch2游戏机发布，荣耀手机这样用超赞》",
+    "platform": "B站",
+    "angle": "知识科普",
+    "hot_topic": "Switch2游戏机发布",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "Switch",
+      "游戏机",
+      "任天堂",
+      "新品"
+    ],
+    "heat_index": 78,
+    "estimated_interaction": "34w",
+    "success_rate": 65,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603288938",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 3
+    },
+    "title": "《借势Switch2游戏机发布，罗技键鼠这样用超赞》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "Switch2游戏机发布",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "Switch",
+      "游戏机",
+      "任天堂",
+      "新品"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "25w",
+    "success_rate": 71,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603285065",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 4
+    },
+    "title": "《从Switch2游戏机发布看小米手机的正确打开方式》",
+    "platform": "B站",
+    "angle": "开箱体验",
+    "hot_topic": "Switch2游戏机发布",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "Switch",
+      "游戏机",
+      "任天堂",
+      "新品"
+    ],
+    "heat_index": 99,
+    "estimated_interaction": "5w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603288128",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《从国产芯片突破看荣耀手机的正确打开方式》",
+    "platform": "微博",
+    "angle": "剧情植入",
+    "hot_topic": "国产芯片突破",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "芯片",
+      "国产",
+      "科技",
+      "突破"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "9w",
+    "success_rate": 58,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603284279",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《国产芯片突破火了！罗技产品真实测评》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "国产芯片突破",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "芯片",
+      "国产",
+      "科技",
+      "突破"
+    ],
+    "heat_index": 94,
+    "estimated_interaction": "49w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603289054",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《从国产芯片突破看小米平板的正确打开方式》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "国产芯片突破",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "芯片",
+      "国产",
+      "科技",
+      "突破"
+    ],
+    "heat_index": 68,
+    "estimated_interaction": "9w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603283281",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《荣耀耳机+新能源汽车选购指南，这个组合绝了》",
+    "platform": "微博",
+    "angle": "教程攻略",
+    "hot_topic": "新能源汽车选购指南",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "新能源",
+      "汽车",
+      "购车",
+      "电动车"
+    ],
+    "heat_index": 89,
+    "estimated_interaction": "31w",
+    "success_rate": 54,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603286200",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《新能源汽车选购指南必备！罗技键鼠使用心得分享》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "新能源汽车选购指南",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "新能源",
+      "汽车",
+      "购车",
+      "电动车"
+    ],
+    "heat_index": 71,
+    "estimated_interaction": "45w",
+    "success_rate": 56,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603283738",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《新能源汽车选购指南火了！小米产品真实测评》",
+    "platform": "微博",
+    "angle": "挑战赛",
+    "hot_topic": "新能源汽车选购指南",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "新能源",
+      "汽车",
+      "购车",
+      "电动车"
+    ],
+    "heat_index": 74,
+    "estimated_interaction": "43w",
+    "success_rate": 65,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603281497",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《耳机音质大比拼×荣耀手机：情感故事完全指南》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "耳机音质大比拼",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "耳机",
+      "音质",
+      "蓝牙耳机",
+      "测评"
+    ],
+    "heat_index": 98,
+    "estimated_interaction": "38w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603288469",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《耳机音质大比拼热潮下，罗技凭什么出圈》",
+    "platform": "抖音",
+    "angle": "用户故事",
+    "hot_topic": "耳机音质大比拼",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "耳机",
+      "音质",
+      "蓝牙耳机",
+      "测评"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "12w",
+    "success_rate": 45,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603286711",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《耳机音质大比拼火了！小米产品真实测评》",
+    "platform": "抖音",
+    "angle": "行业趋势",
+    "hot_topic": "耳机音质大比拼",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "耳机",
+      "音质",
+      "蓝牙耳机",
+      "测评"
+    ],
+    "heat_index": 87,
+    "estimated_interaction": "15w",
+    "success_rate": 51,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603283395",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《平板电脑办公评测必备！荣耀耳机使用心得分享》",
+    "platform": "B站",
+    "angle": "联名合作",
+    "hot_topic": "平板电脑办公评测",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "平板",
+      "办公",
+      "iPad",
+      "生产力"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "36w",
+    "success_rate": 51,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603283248",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 3
+    },
+    "title": "《罗技键鼠+平板电脑办公评测，这个组合绝了》",
+    "platform": "B站",
+    "angle": "Vlog日常",
+    "hot_topic": "平板电脑办公评测",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "平板",
+      "办公",
+      "iPad",
+      "生产力"
+    ],
+    "heat_index": 78,
+    "estimated_interaction": "11w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603285070",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《平板电脑办公评测×小米手机：情感故事完全指南》",
+    "platform": "B站",
+    "angle": "情感故事",
+    "hot_topic": "平板电脑办公评测",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "平板",
+      "办公",
+      "iPad",
+      "生产力"
+    ],
+    "heat_index": 87,
+    "estimated_interaction": "18w",
+    "success_rate": 48,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603285805",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《智能家居入门套装×荣耀手机：场景展示完全指南》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "智能家居入门套装",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "智能家居",
+      "小米",
+      "全屋智能",
+      "IoT"
+    ],
+    "heat_index": 64,
+    "estimated_interaction": "34w",
+    "success_rate": 68,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603288490",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《智能家居入门套装×罗技摄像头：测评对比完全指南》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "智能家居入门套装",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "智能家居",
+      "小米",
+      "全屋智能",
+      "IoT"
+    ],
+    "heat_index": 75,
+    "estimated_interaction": "20w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603284870",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 4
+    },
+    "title": "《智能家居入门套装必备！小米平板使用心得分享》",
+    "platform": "小红书",
+    "angle": "联名合作",
+    "hot_topic": "智能家居入门套装",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "智能家居",
+      "小米",
+      "全屋智能",
+      "IoT"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "38w",
+    "success_rate": 57,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603288701",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《游戏手机性能排行火了！荣耀产品真实测评》",
+    "platform": "微博",
+    "angle": "知识科普",
+    "hot_topic": "游戏手机性能排行",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "游戏手机",
+      "性能",
+      "骁龙",
+      "黑鲨"
+    ],
+    "heat_index": 61,
+    "estimated_interaction": "10w",
+    "success_rate": 40,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603287616",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《游戏手机性能排行火了！罗技产品真实测评》",
+    "platform": "微博",
+    "angle": "剧情植入",
+    "hot_topic": "游戏手机性能排行",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "游戏手机",
+      "性能",
+      "骁龙",
+      "黑鲨"
+    ],
+    "heat_index": 94,
+    "estimated_interaction": "37w",
+    "success_rate": 53,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603281691",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《游戏手机性能排行必备！小米手机使用心得分享》",
+    "platform": "微博",
+    "angle": "挑战赛",
+    "hot_topic": "游戏手机性能排行",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "游戏手机",
+      "性能",
+      "骁龙",
+      "黑鲨"
+    ],
+    "heat_index": 80,
+    "estimated_interaction": "39w",
+    "success_rate": 42,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603282600",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 4
+    },
+    "title": "《相机拍照技巧分享热潮下，荣耀凭什么出圈》",
+    "platform": "小红书",
+    "angle": "专家访谈",
+    "hot_topic": "相机拍照技巧分享",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "相机",
+      "拍照",
+      "摄影",
+      "技巧"
+    ],
+    "heat_index": 89,
+    "estimated_interaction": "34w",
+    "success_rate": 79,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603284826",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 3
+    },
+    "title": "《借势相机拍照技巧分享，罗技键鼠这样用超赞》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "相机拍照技巧分享",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "相机",
+      "拍照",
+      "摄影",
+      "技巧"
+    ],
+    "heat_index": 89,
+    "estimated_interaction": "9w",
+    "success_rate": 59,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603287284",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《相机拍照技巧分享必备！小米平板使用心得分享》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "相机拍照技巧分享",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "相机",
+      "拍照",
+      "摄影",
+      "技巧"
+    ],
+    "heat_index": 84,
+    "estimated_interaction": "25w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603283256",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《5G网络覆盖进展×荣耀耳机：测评对比完全指南》",
+    "platform": "微博",
+    "angle": "测评对比",
+    "hot_topic": "5G网络覆盖进展",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "5G",
+      "网络",
+      "运营商",
+      "覆盖"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "8w",
+    "success_rate": 56,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603282527",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《从5G网络覆盖进展看罗技键鼠的正确打开方式》",
+    "platform": "微博",
+    "angle": "挑战赛",
+    "hot_topic": "5G网络覆盖进展",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "5G",
+      "网络",
+      "运营商",
+      "覆盖"
+    ],
+    "heat_index": 65,
+    "estimated_interaction": "32w",
+    "success_rate": 59,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603285163",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《5G网络覆盖进展热潮下，小米凭什么出圈》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "5G网络覆盖进展",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "5G",
+      "网络",
+      "运营商",
+      "覆盖"
+    ],
+    "heat_index": 64,
+    "estimated_interaction": "15w",
+    "success_rate": 54,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603289841",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 4
+    },
+    "title": "《从笔记本电脑推荐看荣耀平板的正确打开方式》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "笔记本电脑推荐",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "笔记本",
+      "电脑",
+      "推荐",
+      "MacBook"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "28w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603288524",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 3
+    },
+    "title": "《借势笔记本电脑推荐，罗技键鼠这样用超赞》",
+    "platform": "B站",
+    "angle": "挑战赛",
+    "hot_topic": "笔记本电脑推荐",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "笔记本",
+      "电脑",
+      "推荐",
+      "MacBook"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "43w",
+    "success_rate": 67,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603286716",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 4
+    },
+    "title": "《借势笔记本电脑推荐，小米手机这样用超赞》",
+    "platform": "B站",
+    "angle": "行业趋势",
+    "hot_topic": "笔记本电脑推荐",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "笔记本",
+      "电脑",
+      "推荐",
+      "MacBook"
+    ],
+    "heat_index": 95,
+    "estimated_interaction": "44w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603284862",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《荣耀耳机+智能音箱语音助手对比，这个组合绝了》",
+    "platform": "抖音",
+    "angle": "剧情植入",
+    "hot_topic": "智能音箱语音助手对比",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "智能音箱",
+      "小爱",
+      "Siri",
+      "语音助手"
+    ],
+    "heat_index": 81,
+    "estimated_interaction": "14w",
+    "success_rate": 58,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603286366",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《借势智能音箱语音助手对比，罗技摄像头这样用超赞》",
+    "platform": "抖音",
+    "angle": "专家访谈",
+    "hot_topic": "智能音箱语音助手对比",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "智能音箱",
+      "小爱",
+      "Siri",
+      "语音助手"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "5w",
+    "success_rate": 49,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603288544",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 4
+    },
+    "title": "《智能音箱语音助手对比×小米智能家居：热点借势完全指南》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "智能音箱语音助手对比",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "智能音箱",
+      "小爱",
+      "Siri",
+      "语音助手"
+    ],
+    "heat_index": 86,
+    "estimated_interaction": "50w",
+    "success_rate": 39,
+    "risk_level": "高",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603287330",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《无人机航拍作品赏析热潮下，荣耀凭什么出圈》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "无人机航拍作品赏析",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "无人机",
+      "航拍",
+      "DJI",
+      "大疆"
+    ],
+    "heat_index": 87,
+    "estimated_interaction": "29w",
+    "success_rate": 85,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603281295",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《罗技键鼠+无人机航拍作品赏析，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "用户故事",
+    "hot_topic": "无人机航拍作品赏析",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "无人机",
+      "航拍",
+      "DJI",
+      "大疆"
+    ],
+    "heat_index": 74,
+    "estimated_interaction": "28w",
+    "success_rate": 70,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603289703",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 4
+    },
+    "title": "《从无人机航拍作品赏析看小米平板的正确打开方式》",
+    "platform": "小红书",
+    "angle": "挑战赛",
+    "hot_topic": "无人机航拍作品赏析",
+    "hot_topic_type": "科技",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "无人机",
+      "航拍",
+      "DJI",
+      "大疆"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "31w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "快消_202603288145",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 3
+    },
+    "title": "《春季护肤routine必备！AHC眼霜使用心得分享》",
+    "platform": "小红书",
+    "angle": "限时优惠",
+    "hot_topic": "春季护肤routine",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "护肤",
+      "春季",
+      "敏感肌",
+      "水乳"
+    ],
+    "heat_index": 83,
+    "estimated_interaction": "47w",
+    "success_rate": 81,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603282640",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《春季护肤routine热潮下，多芬凭什么出圈》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "春季护肤routine",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "护肤",
+      "春季",
+      "敏感肌",
+      "水乳"
+    ],
+    "heat_index": 70,
+    "estimated_interaction": "47w",
+    "success_rate": 77,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603283210",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《春季护肤routine热潮下，力士凭什么出圈》",
+    "platform": "小红书",
+    "angle": "联名合作",
+    "hot_topic": "春季护肤routine",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "护肤",
+      "春季",
+      "敏感肌",
+      "水乳"
+    ],
+    "heat_index": 81,
+    "estimated_interaction": "26w",
+    "success_rate": 59,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "快消_202603284732",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 3
+    },
+    "title": "《从早C晚A护肤法看AHC防晒的正确打开方式》",
+    "platform": "小红书",
+    "angle": "挑战赛",
+    "hot_topic": "早C晚A护肤法",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "早C晚A",
+      "护肤",
+      "成分党",
+      "VC",
+      "A醇"
+    ],
+    "heat_index": 84,
+    "estimated_interaction": "28w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603283536",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《多芬沐浴露+早C晚A护肤法，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "行业趋势",
+    "hot_topic": "早C晚A护肤法",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "早C晚A",
+      "护肤",
+      "成分党",
+      "VC",
+      "A醇"
+    ],
+    "heat_index": 90,
+    "estimated_interaction": "23w",
+    "success_rate": 83,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603287346",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《借势早C晚A护肤法，力士洗发水这样用超赞》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "早C晚A护肤法",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "早C晚A",
+      "护肤",
+      "成分党",
+      "VC",
+      "A醇"
+    ],
+    "heat_index": 90,
+    "estimated_interaction": "7w",
+    "success_rate": 73,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603282044",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 3
+    },
+    "title": "《平价替代彩妆推荐热潮下，AHC凭什么出圈》",
+    "platform": "抖音",
+    "angle": "开箱体验",
+    "hot_topic": "平价替代彩妆推荐",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "平价",
+      "彩妆",
+      "替代",
+      "性价比"
+    ],
+    "heat_index": 99,
+    "estimated_interaction": "30w",
+    "success_rate": 85,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603283835",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《平价替代彩妆推荐热潮下，多芬凭什么出圈》",
+    "platform": "抖音",
+    "angle": "测评对比",
+    "hot_topic": "平价替代彩妆推荐",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "平价",
+      "彩妆",
+      "替代",
+      "性价比"
+    ],
+    "heat_index": 98,
+    "estimated_interaction": "37w",
+    "success_rate": 71,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "快消_202603282955",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《借势平价替代彩妆推荐，力士沐浴露这样用超赞》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "平价替代彩妆推荐",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "平价",
+      "彩妆",
+      "替代",
+      "性价比"
+    ],
+    "heat_index": 95,
+    "estimated_interaction": "40w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603281454",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 4
+    },
+    "title": "《母亲节礼盒选购必备！AHC眼霜使用心得分享》",
+    "platform": "微博",
+    "angle": "联名合作",
+    "hot_topic": "母亲节礼盒选购",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "母亲节",
+      "礼盒",
+      "护肤",
+      "美妆"
+    ],
+    "heat_index": 71,
+    "estimated_interaction": "49w",
+    "success_rate": 69,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603283394",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《多芬洗发水+母亲节礼盒选购，这个组合绝了》",
+    "platform": "微博",
+    "angle": "知识科普",
+    "hot_topic": "母亲节礼盒选购",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "母亲节",
+      "礼盒",
+      "护肤",
+      "美妆"
+    ],
+    "heat_index": 95,
+    "estimated_interaction": "26w",
+    "success_rate": 66,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603289449",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 5
+    },
+    "title": "《从母亲节礼盒选购看力士沐浴露的正确打开方式》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "母亲节礼盒选购",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "母亲节",
+      "礼盒",
+      "护肤",
+      "美妆"
+    ],
+    "heat_index": 64,
+    "estimated_interaction": "48w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603282009",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 4
+    },
+    "title": "《AHC眼霜+成分党护肤科普，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "成分党护肤科普",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "成分党",
+      "烟酰胺",
+      "玻尿酸",
+      "护肤"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "37w",
+    "success_rate": 55,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603288134",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 5
+    },
+    "title": "《成分党护肤科普必备！多芬沐浴露使用心得分享》",
+    "platform": "小红书",
+    "angle": "用户故事",
+    "hot_topic": "成分党护肤科普",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "成分党",
+      "烟酰胺",
+      "玻尿酸",
+      "护肤"
+    ],
+    "heat_index": 62,
+    "estimated_interaction": "50w",
+    "success_rate": 79,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603288905",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 5
+    },
+    "title": "《力士洗发水+成分党护肤科普，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "Vlog日常",
+    "hot_topic": "成分党护肤科普",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "成分党",
+      "烟酰胺",
+      "玻尿酸",
+      "护肤"
+    ],
+    "heat_index": 79,
+    "estimated_interaction": "35w",
+    "success_rate": 56,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603289390",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《借势口红色号试色合集，AHC水乳这样用超赞》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "口红色号试色合集",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "口红",
+      "试色",
+      "色号",
+      "平价"
+    ],
+    "heat_index": 62,
+    "estimated_interaction": "34w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603281316",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《口红色号试色合集×多芬沐浴露：挑战赛完全指南》",
+    "platform": "小红书",
+    "angle": "挑战赛",
+    "hot_topic": "口红色号试色合集",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "口红",
+      "试色",
+      "色号",
+      "平价"
+    ],
+    "heat_index": 88,
+    "estimated_interaction": "14w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603282115",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 5
+    },
+    "title": "《借势口红色号试色合集，力士洗发水这样用超赞》",
+    "platform": "小红书",
+    "angle": "教程攻略",
+    "hot_topic": "口红色号试色合集",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "口红",
+      "试色",
+      "色号",
+      "平价"
+    ],
+    "heat_index": 65,
+    "estimated_interaction": "47w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603284097",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 4
+    },
+    "title": "《医美项目体验分享×AHC水乳：行业趋势完全指南》",
+    "platform": "小红书",
+    "angle": "行业趋势",
+    "hot_topic": "医美项目体验分享",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "医美",
+      "光子嫩肤",
+      "热玛吉",
+      "微整"
+    ],
+    "heat_index": 75,
+    "estimated_interaction": "8w",
+    "success_rate": 49,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "快消_202603286801",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《医美项目体验分享×多芬洗发水：挑战赛完全指南》",
+    "platform": "小红书",
+    "angle": "挑战赛",
+    "hot_topic": "医美项目体验分享",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "医美",
+      "光子嫩肤",
+      "热玛吉",
+      "微整"
+    ],
+    "heat_index": 86,
+    "estimated_interaction": "34w",
+    "success_rate": 41,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603282649",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 3
+    },
+    "title": "《医美项目体验分享热潮下，力士凭什么出圈》",
+    "platform": "小红书",
+    "angle": "知识科普",
+    "hot_topic": "医美项目体验分享",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "医美",
+      "光子嫩肤",
+      "热玛吉",
+      "微整"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "8w",
+    "success_rate": 39,
+    "risk_level": "高",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603284933",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 4
+    },
+    "title": "《从香水入门指南看AHC水乳的正确打开方式》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "香水入门指南",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "香水",
+      "入门",
+      "香调",
+      "推荐"
+    ],
+    "heat_index": 99,
+    "estimated_interaction": "33w",
+    "success_rate": 76,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603287666",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《香水入门指南热潮下，多芬凭什么出圈》",
+    "platform": "微博",
+    "angle": "开箱体验",
+    "hot_topic": "香水入门指南",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "香水",
+      "入门",
+      "香调",
+      "推荐"
+    ],
+    "heat_index": 94,
+    "estimated_interaction": "23w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "快消_202603287845",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 3
+    },
+    "title": "《香水入门指南火了！力士产品真实测评》",
+    "platform": "微博",
+    "angle": "联名合作",
+    "hot_topic": "香水入门指南",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "香水",
+      "入门",
+      "香调",
+      "推荐"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "33w",
+    "success_rate": 73,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603283600",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 4
+    },
+    "title": "《卸妆产品红黑榜必备！AHC眼霜使用心得分享》",
+    "platform": "抖音",
+    "angle": "对比评测",
+    "hot_topic": "卸妆产品红黑榜",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "卸妆",
+      "洁面",
+      "护肤",
+      "测评"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "23w",
+    "success_rate": 65,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "快消_202603286673",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《卸妆产品红黑榜热潮下，多芬凭什么出圈》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "卸妆产品红黑榜",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "卸妆",
+      "洁面",
+      "护肤",
+      "测评"
+    ],
+    "heat_index": 66,
+    "estimated_interaction": "21w",
+    "success_rate": 53,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603284436",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 3
+    },
+    "title": "《卸妆产品红黑榜必备！力士洗发水使用心得分享》",
+    "platform": "抖音",
+    "angle": "对比评测",
+    "hot_topic": "卸妆产品红黑榜",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "卸妆",
+      "洁面",
+      "护肤",
+      "测评"
+    ],
+    "heat_index": 63,
+    "estimated_interaction": "15w",
+    "success_rate": 57,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603281983",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《眼霜去黑眼圈测评×AHC水乳：种草推荐完全指南》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "眼霜去黑眼圈测评",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "眼霜",
+      "黑眼圈",
+      "抗衰",
+      "测评"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "20w",
+    "success_rate": 51,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603282353",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《眼霜去黑眼圈测评必备！多芬洗发水使用心得分享》",
+    "platform": "小红书",
+    "angle": "剧情植入",
+    "hot_topic": "眼霜去黑眼圈测评",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "眼霜",
+      "黑眼圈",
+      "抗衰",
+      "测评"
+    ],
+    "heat_index": 65,
+    "estimated_interaction": "14w",
+    "success_rate": 59,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603282185",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《眼霜去黑眼圈测评×力士沐浴露：知识科普完全指南》",
+    "platform": "小红书",
+    "angle": "知识科普",
+    "hot_topic": "眼霜去黑眼圈测评",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "眼霜",
+      "黑眼圈",
+      "抗衰",
+      "测评"
+    ],
+    "heat_index": 80,
+    "estimated_interaction": "22w",
+    "success_rate": 37,
+    "risk_level": "高",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "快消_202603285071",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《借势面膜敷法正确步骤，AHC水乳这样用超赞》",
+    "platform": "抖音",
+    "angle": "Vlog日常",
+    "hot_topic": "面膜敷法正确步骤",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "面膜",
+      "护肤",
+      "步骤",
+      "技巧"
+    ],
+    "heat_index": 88,
+    "estimated_interaction": "9w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603286255",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 5
+    },
+    "title": "《从面膜敷法正确步骤看多芬洗发水的正确打开方式》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "面膜敷法正确步骤",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "面膜",
+      "护肤",
+      "步骤",
+      "技巧"
+    ],
+    "heat_index": 62,
+    "estimated_interaction": "26w",
+    "success_rate": 78,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603281443",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 5
+    },
+    "title": "《从面膜敷法正确步骤看力士洗发水的正确打开方式》",
+    "platform": "抖音",
+    "angle": "知识科普",
+    "hot_topic": "面膜敷法正确步骤",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "面膜",
+      "护肤",
+      "步骤",
+      "技巧"
+    ],
+    "heat_index": 74,
+    "estimated_interaction": "42w",
+    "success_rate": 55,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603289993",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《AHC水乳+美甲款式流行趋势，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "美甲款式流行趋势",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "美甲",
+      "款式",
+      "流行",
+      "穿戴甲"
+    ],
+    "heat_index": 85,
+    "estimated_interaction": "25w",
+    "success_rate": 57,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603286264",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《美甲款式流行趋势热潮下，多芬凭什么出圈》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "美甲款式流行趋势",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "美甲",
+      "款式",
+      "流行",
+      "穿戴甲"
+    ],
+    "heat_index": 82,
+    "estimated_interaction": "42w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "快消_202603281540",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《美甲款式流行趋势热潮下，力士凭什么出圈》",
+    "platform": "小红书",
+    "angle": "联名合作",
+    "hot_topic": "美甲款式流行趋势",
+    "hot_topic_type": "美妆",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "美甲",
+      "款式",
+      "流行",
+      "穿戴甲"
+    ],
+    "heat_index": 78,
+    "estimated_interaction": "18w",
+    "success_rate": 55,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603284138",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 3
+    },
+    "title": "《宝宝辅食制作教程×维生素：痛点解决完全指南》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "宝宝辅食制作教程",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "辅食",
+      "宝宝",
+      "食谱",
+      "育儿"
+    ],
+    "heat_index": 84,
+    "estimated_interaction": "23w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "保健品_202603286261",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 3
+    },
+    "title": "《从宝宝辅食制作教程看善存多维片的正确打开方式》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "宝宝辅食制作教程",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "辅食",
+      "宝宝",
+      "食谱",
+      "育儿"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "49w",
+    "success_rate": 75,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "保健品_202603283840",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 4
+    },
+    "title": "《蛋白粉+儿童护眼指南，这个组合绝了》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "儿童护眼指南",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "护眼",
+      "近视",
+      "儿童",
+      "视力"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "46w",
+    "success_rate": 70,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "保健品_202603286313",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 5
+    },
+    "title": "《借势儿童护眼指南，善存多维片这样用超赞》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "儿童护眼指南",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "护眼",
+      "近视",
+      "儿童",
+      "视力"
+    ],
+    "heat_index": 94,
+    "estimated_interaction": "44w",
+    "success_rate": 69,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603289913",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 4
+    },
+    "title": "《产后修复塑形必备！鱼油使用心得分享》",
+    "platform": "小红书",
+    "angle": "剧情植入",
+    "hot_topic": "产后修复塑形",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "产后",
+      "修复",
+      "塑形",
+      "健身"
+    ],
+    "heat_index": 74,
+    "estimated_interaction": "15w",
+    "success_rate": 65,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "保健品_202603286583",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 4
+    },
+    "title": "《从产后修复塑形看善存多维片的正确打开方式》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "产后修复塑形",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "产后",
+      "修复",
+      "塑形",
+      "健身"
+    ],
+    "heat_index": 71,
+    "estimated_interaction": "11w",
+    "success_rate": 71,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603284473",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《从婴儿抚触操教学看维生素的正确打开方式》",
+    "platform": "抖音",
+    "angle": "行业趋势",
+    "hot_topic": "婴儿抚触操教学",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "婴儿",
+      "抚触",
+      "早教",
+      "护理"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "38w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603288805",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 5
+    },
+    "title": "《婴儿抚触操教学必备！善存多维片使用心得分享》",
+    "platform": "抖音",
+    "angle": "知识科普",
+    "hot_topic": "婴儿抚触操教学",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "婴儿",
+      "抚触",
+      "早教",
+      "护理"
+    ],
+    "heat_index": 71,
+    "estimated_interaction": "45w",
+    "success_rate": 71,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "保健品_202603288452",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《从宝宝绘本推荐清单看鱼油的正确打开方式》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "宝宝绘本推荐清单",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "绘本",
+      "童书",
+      "阅读",
+      "早教"
+    ],
+    "heat_index": 65,
+    "estimated_interaction": "42w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "保健品_202603287570",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 3
+    },
+    "title": "《宝宝绘本推荐清单火了！善存产品真实测评》",
+    "platform": "小红书",
+    "angle": "情感故事",
+    "hot_topic": "宝宝绘本推荐清单",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "绘本",
+      "童书",
+      "阅读",
+      "早教"
+    ],
+    "heat_index": 66,
+    "estimated_interaction": "25w",
+    "success_rate": 76,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603281377",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 3
+    },
+    "title": "《儿童安全座椅选购火了！汤臣倍健产品真实测评》",
+    "platform": "微博",
+    "angle": "测评对比",
+    "hot_topic": "儿童安全座椅选购",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "安全座椅",
+      "儿童",
+      "出行",
+      "选购"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "45w",
+    "success_rate": 83,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "保健品_202603281038",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 4
+    },
+    "title": "《儿童安全座椅选购热潮下，善存凭什么出圈》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "儿童安全座椅选购",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "安全座椅",
+      "儿童",
+      "出行",
+      "选购"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "8w",
+    "success_rate": 79,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "保健品_202603284089",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 3
+    },
+    "title": "《借势备孕注意事项指南，鱼油这样用超赞》",
+    "platform": "小红书",
+    "angle": "剧情植入",
+    "hot_topic": "备孕注意事项指南",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "备孕",
+      "叶酸",
+      "排卵",
+      "怀孕"
+    ],
+    "heat_index": 80,
+    "estimated_interaction": "38w",
+    "success_rate": 75,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603284275",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 3
+    },
+    "title": "《善存多维片+备孕注意事项指南，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "Vlog日常",
+    "hot_topic": "备孕注意事项指南",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "备孕",
+      "叶酸",
+      "排卵",
+      "怀孕"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "45w",
+    "success_rate": 57,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603284891",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 3
+    },
+    "title": "《从宝宝湿疹护理攻略看蛋白粉的正确打开方式》",
+    "platform": "小红书",
+    "angle": "知识科普",
+    "hot_topic": "宝宝湿疹护理攻略",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "湿疹",
+      "宝宝",
+      "护肤",
+      "护理"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "26w",
+    "success_rate": 59,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "保健品_202603281185",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 3
+    },
+    "title": "《宝宝湿疹护理攻略必备！善存多维片使用心得分享》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "宝宝湿疹护理攻略",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "湿疹",
+      "宝宝",
+      "护肤",
+      "护理"
+    ],
+    "heat_index": 85,
+    "estimated_interaction": "11w",
+    "success_rate": 56,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "保健品_202603285297",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《儿童补钙产品对比必备！维生素使用心得分享》",
+    "platform": "抖音",
+    "angle": "开箱体验",
+    "hot_topic": "儿童补钙产品对比",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "补钙",
+      "维生素D",
+      "儿童",
+      "营养"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "35w",
+    "success_rate": 45,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "保健品_202603286158",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 5
+    },
+    "title": "《善存多维片+儿童补钙产品对比，这个组合绝了》",
+    "platform": "抖音",
+    "angle": "行业趋势",
+    "hot_topic": "儿童补钙产品对比",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "补钙",
+      "维生素D",
+      "儿童",
+      "营养"
+    ],
+    "heat_index": 82,
+    "estimated_interaction": "35w",
+    "success_rate": 44,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "保健品_202603285430",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《亲子户外活动推荐必备！蛋白粉使用心得分享》",
+    "platform": "小红书",
+    "angle": "挑战赛",
+    "hot_topic": "亲子户外活动推荐",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "亲子",
+      "户外",
+      "活动",
+      "周末"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "41w",
+    "success_rate": 77,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "保健品_202603284690",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片"
+      ],
+      "priority": 3
+    },
+    "title": "《亲子户外活动推荐必备！善存多维片使用心得分享》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "亲子户外活动推荐",
+    "hot_topic_type": "母婴",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "亲子",
+      "户外",
+      "活动",
+      "周末"
+    ],
+    "heat_index": 68,
+    "estimated_interaction": "36w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603282421",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《居家燃脂训练必备！清扬洗发水使用心得分享》",
+    "platform": "抖音",
+    "angle": "联名合作",
+    "hot_topic": "居家燃脂训练",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "燃脂",
+      "居家",
+      "HIIT",
+      "健身"
+    ],
+    "heat_index": 75,
+    "estimated_interaction": "30w",
+    "success_rate": 58,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603287132",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 4
+    },
+    "title": "《居家燃脂训练热潮下，汤臣倍健凭什么出圈》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "居家燃脂训练",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "燃脂",
+      "居家",
+      "HIIT",
+      "健身"
+    ],
+    "heat_index": 73,
+    "estimated_interaction": "13w",
+    "success_rate": 68,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603286931",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《从居家燃脂训练看外星人电解质水的正确打开方式》",
+    "platform": "抖音",
+    "angle": "开箱体验",
+    "hot_topic": "居家燃脂训练",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "燃脂",
+      "居家",
+      "HIIT",
+      "健身"
+    ],
+    "heat_index": 99,
+    "estimated_interaction": "38w",
+    "success_rate": 85,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "快消_202603284651",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 5
+    },
+    "title": "《减脂餐搭配教程必备！清扬洗发水使用心得分享》",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "减脂餐搭配教程",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "减脂餐",
+      "健康餐",
+      "减肥",
+      "饮食"
+    ],
+    "heat_index": 73,
+    "estimated_interaction": "44w",
+    "success_rate": 85,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603281268",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 3
+    },
+    "title": "《减脂餐搭配教程×维生素：产品测评完全指南》",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "减脂餐搭配教程",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "减脂餐",
+      "健康餐",
+      "减肥",
+      "饮食"
+    ],
+    "heat_index": 64,
+    "estimated_interaction": "24w",
+    "success_rate": 77,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603285492",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《减脂餐搭配教程×气泡水：种草推荐完全指南》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "减脂餐搭配教程",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "减脂餐",
+      "健康餐",
+      "减肥",
+      "饮食"
+    ],
+    "heat_index": 73,
+    "estimated_interaction": "11w",
+    "success_rate": 83,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603283953",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《健身房打卡vlog热潮下，清扬凭什么出圈》",
+    "platform": "B站",
+    "angle": "剧情植入",
+    "hot_topic": "健身房打卡vlog",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "健身房",
+      "打卡",
+      "vlog",
+      "健身"
+    ],
+    "heat_index": 87,
+    "estimated_interaction": "10w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603289610",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 3
+    },
+    "title": "《借势健身房打卡vlog，蛋白粉这样用超赞》",
+    "platform": "B站",
+    "angle": "知识科普",
+    "hot_topic": "健身房打卡vlog",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "健身房",
+      "打卡",
+      "vlog",
+      "健身"
+    ],
+    "heat_index": 73,
+    "estimated_interaction": "28w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603282988",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《从健身房打卡vlog看外星人电解质水的正确打开方式》",
+    "platform": "B站",
+    "angle": "限时优惠",
+    "hot_topic": "健身房打卡vlog",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "健身房",
+      "打卡",
+      "vlog",
+      "健身"
+    ],
+    "heat_index": 65,
+    "estimated_interaction": "37w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603282928",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 5
+    },
+    "title": "《从拉伸放松技巧看清扬洗发水的正确打开方式》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "拉伸放松技巧",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "拉伸",
+      "放松",
+      "运动康复",
+      "瑜伽"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "39w",
+    "success_rate": 66,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "保健品_202603284676",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 3
+    },
+    "title": "《拉伸放松技巧必备！维生素使用心得分享》",
+    "platform": "抖音",
+    "angle": "挑战赛",
+    "hot_topic": "拉伸放松技巧",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "拉伸",
+      "放松",
+      "运动康复",
+      "瑜伽"
+    ],
+    "heat_index": 75,
+    "estimated_interaction": "36w",
+    "success_rate": 55,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603284776",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《拉伸放松技巧热潮下，元气森林凭什么出圈》",
+    "platform": "抖音",
+    "angle": "行业趋势",
+    "hot_topic": "拉伸放松技巧",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "拉伸",
+      "放松",
+      "运动康复",
+      "瑜伽"
+    ],
+    "heat_index": 78,
+    "estimated_interaction": "27w",
+    "success_rate": 68,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603286373",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 5
+    },
+    "title": "《马甲线养成计划火了！清扬产品真实测评》",
+    "platform": "小红书",
+    "angle": "限时优惠",
+    "hot_topic": "马甲线养成计划",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "马甲线",
+      "核心",
+      "腹肌",
+      "健身"
+    ],
+    "heat_index": 70,
+    "estimated_interaction": "17w",
+    "success_rate": 78,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603286554",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 3
+    },
+    "title": "《马甲线养成计划热潮下，汤臣倍健凭什么出圈》",
+    "platform": "小红书",
+    "angle": "教程攻略",
+    "hot_topic": "马甲线养成计划",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "马甲线",
+      "核心",
+      "腹肌",
+      "健身"
+    ],
+    "heat_index": 84,
+    "estimated_interaction": "7w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603288937",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 4
+    },
+    "title": "《马甲线养成计划火了！元气森林产品真实测评》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "马甲线养成计划",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "马甲线",
+      "核心",
+      "腹肌",
+      "健身"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "31w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603285364",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 3
+    },
+    "title": "《蛋白粉选购指南×清扬洗发水：产品测评完全指南》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "蛋白粉选购指南",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "蛋白粉",
+      "健身补剂",
+      "蛋白",
+      "营养"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "41w",
+    "success_rate": 65,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "保健品_202603286460",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《蛋白粉选购指南必备！鱼油使用心得分享》",
+    "platform": "微博",
+    "angle": "剧情植入",
+    "hot_topic": "蛋白粉选购指南",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "蛋白粉",
+      "健身补剂",
+      "蛋白",
+      "营养"
+    ],
+    "heat_index": 62,
+    "estimated_interaction": "49w",
+    "success_rate": 56,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603283902",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《蛋白粉选购指南必备！气泡水使用心得分享》",
+    "platform": "微博",
+    "angle": "剧情植入",
+    "hot_topic": "蛋白粉选购指南",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "蛋白粉",
+      "健身补剂",
+      "蛋白",
+      "营养"
+    ],
+    "heat_index": 95,
+    "estimated_interaction": "9w",
+    "success_rate": 49,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603288508",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬洗发水+跑步装备清单，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "跑步装备清单",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "跑步",
+      "装备",
+      "跑鞋",
+      "运动"
+    ],
+    "heat_index": 68,
+    "estimated_interaction": "47w",
+    "success_rate": 62,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "保健品_202603287519",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 4
+    },
+    "title": "《跑步装备清单×维生素：情感故事完全指南》",
+    "platform": "小红书",
+    "angle": "情感故事",
+    "hot_topic": "跑步装备清单",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "跑步",
+      "装备",
+      "跑鞋",
+      "运动"
+    ],
+    "heat_index": 79,
+    "estimated_interaction": "19w",
+    "success_rate": 62,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603283179",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《气泡水+跑步装备清单，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "联名合作",
+    "hot_topic": "跑步装备清单",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "跑步",
+      "装备",
+      "跑鞋",
+      "运动"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "34w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603286387",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 5
+    },
+    "title": "《从体态矫正训练看清扬洗发水的正确打开方式》",
+    "platform": "抖音",
+    "angle": "联名合作",
+    "hot_topic": "体态矫正训练",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "体态",
+      "矫正",
+      "驼背",
+      "圆肩"
+    ],
+    "heat_index": 92,
+    "estimated_interaction": "49w",
+    "success_rate": 55,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "保健品_202603283638",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 4
+    },
+    "title": "《维生素+体态矫正训练，这个组合绝了》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "体态矫正训练",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "体态",
+      "矫正",
+      "驼背",
+      "圆肩"
+    ],
+    "heat_index": 85,
+    "estimated_interaction": "31w",
+    "success_rate": 81,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603285200",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《体态矫正训练热潮下，元气森林凭什么出圈》",
+    "platform": "抖音",
+    "angle": "剧情植入",
+    "hot_topic": "体态矫正训练",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "体态",
+      "矫正",
+      "驼背",
+      "圆肩"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "25w",
+    "success_rate": 73,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "快消_202603289628",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 5
+    },
+    "title": "《瑜伽入门动作火了！清扬产品真实测评》",
+    "platform": "小红书",
+    "angle": "知识科普",
+    "hot_topic": "瑜伽入门动作",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "瑜伽",
+      "入门",
+      "柔韧",
+      "放松"
+    ],
+    "heat_index": 83,
+    "estimated_interaction": "9w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "保健品_202603281725",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 5
+    },
+    "title": "《瑜伽入门动作火了！汤臣倍健产品真实测评》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "瑜伽入门动作",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "瑜伽",
+      "入门",
+      "柔韧",
+      "放松"
+    ],
+    "heat_index": 99,
+    "estimated_interaction": "27w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603281406",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 3
+    },
+    "title": "《瑜伽入门动作火了！元气森林产品真实测评》",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "瑜伽入门动作",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "瑜伽",
+      "入门",
+      "柔韧",
+      "放松"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "45w",
+    "success_rate": 71,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "快消_202603288126",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《健身环大冒险测评×清扬洗发水：对比评测完全指南》",
+    "platform": "B站",
+    "angle": "对比评测",
+    "hot_topic": "健身环大冒险测评",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "健身环",
+      "游戏",
+      "运动",
+      "Switch"
+    ],
+    "heat_index": 70,
+    "estimated_interaction": "21w",
+    "success_rate": 67,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "保健品_202603281773",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油"
+      ],
+      "priority": 3
+    },
+    "title": "《从健身环大冒险测评看维生素的正确打开方式》",
+    "platform": "B站",
+    "angle": "限时优惠",
+    "hot_topic": "健身环大冒险测评",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "健身环",
+      "游戏",
+      "运动",
+      "Switch"
+    ],
+    "heat_index": 74,
+    "estimated_interaction": "39w",
+    "success_rate": 66,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603284240",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 3
+    },
+    "title": "《健身环大冒险测评火了！元气森林产品真实测评》",
+    "platform": "B站",
+    "angle": "热点借势",
+    "hot_topic": "健身环大冒险测评",
+    "hot_topic_type": "健身",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "健身环",
+      "游戏",
+      "运动",
+      "Switch"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "33w",
+    "success_rate": 78,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603283409",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 4
+    },
+    "title": "《春日野餐食谱火了！OATLY产品真实测评》",
+    "platform": "小红书",
+    "angle": "知识科普",
+    "hot_topic": "春日野餐食谱",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "野餐",
+      "食谱",
+      "春季",
+      "美食"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "50w",
+    "success_rate": 83,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603284301",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《从春日野餐食谱看百威啤酒的正确打开方式》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "春日野餐食谱",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "野餐",
+      "食谱",
+      "春季",
+      "美食"
+    ],
+    "heat_index": 80,
+    "estimated_interaction": "37w",
+    "success_rate": 57,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603284478",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 4
+    },
+    "title": "《春日野餐食谱必备！气泡水使用心得分享》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "春日野餐食谱",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "野餐",
+      "食谱",
+      "春季",
+      "美食"
+    ],
+    "heat_index": 76,
+    "estimated_interaction": "28w",
+    "success_rate": 67,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603284481",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 5
+    },
+    "title": "《咖啡探店指南热潮下，OATLY凭什么出圈》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "咖啡探店指南",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "咖啡",
+      "探店",
+      "网红店",
+      "拿铁"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "28w",
+    "success_rate": 62,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603286527",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 4
+    },
+    "title": "《咖啡探店指南×百威啤酒：Vlog日常完全指南》",
+    "platform": "小红书",
+    "angle": "Vlog日常",
+    "hot_topic": "咖啡探店指南",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "咖啡",
+      "探店",
+      "网红店",
+      "拿铁"
+    ],
+    "heat_index": 75,
+    "estimated_interaction": "38w",
+    "success_rate": 83,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603284279",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 4
+    },
+    "title": "《咖啡探店指南×外星人电解质水：剧情植入完全指南》",
+    "platform": "小红书",
+    "angle": "剧情植入",
+    "hot_topic": "咖啡探店指南",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "咖啡",
+      "探店",
+      "网红店",
+      "拿铁"
+    ],
+    "heat_index": 98,
+    "estimated_interaction": "17w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603282216",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 5
+    },
+    "title": "《啤酒搭配美食热潮下，OATLY凭什么出圈》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "啤酒搭配美食",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "啤酒",
+      "美食",
+      "搭配",
+      "夜宵"
+    ],
+    "heat_index": 94,
+    "estimated_interaction": "40w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603287530",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《啤酒搭配美食火了！百威产品真实测评》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "啤酒搭配美食",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "啤酒",
+      "美食",
+      "搭配",
+      "夜宵"
+    ],
+    "heat_index": 83,
+    "estimated_interaction": "11w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603289712",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《啤酒搭配美食热潮下，元气森林凭什么出圈》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "啤酒搭配美食",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "啤酒",
+      "美食",
+      "搭配",
+      "夜宵"
+    ],
+    "heat_index": 96,
+    "estimated_interaction": "21w",
+    "success_rate": 68,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603286072",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 3
+    },
+    "title": "《燕麦奶+预制菜测评，这个组合绝了》",
+    "platform": "抖音",
+    "angle": "知识科普",
+    "hot_topic": "预制菜测评",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "预制菜",
+      "快手菜",
+      "测评",
+      "方便"
+    ],
+    "heat_index": 95,
+    "estimated_interaction": "21w",
+    "success_rate": 36,
+    "risk_level": "高",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603287307",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 5
+    },
+    "title": "《预制菜测评火了！百威产品真实测评》",
+    "platform": "抖音",
+    "angle": "行业趋势",
+    "hot_topic": "预制菜测评",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "预制菜",
+      "快手菜",
+      "测评",
+      "方便"
+    ],
+    "heat_index": 92,
+    "estimated_interaction": "12w",
+    "success_rate": 38,
+    "risk_level": "高",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603281934",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《预制菜测评×气泡水：产品测评完全指南》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "预制菜测评",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "预制菜",
+      "快手菜",
+      "测评",
+      "方便"
+    ],
+    "heat_index": 76,
+    "estimated_interaction": "12w",
+    "success_rate": 52,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603287983",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 3
+    },
+    "title": "《从健康饮品新趋势看燕麦奶的正确打开方式》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "健康饮品新趋势",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "健康饮品",
+      "无糖",
+      "气泡水",
+      "新消费"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "11w",
+    "success_rate": 69,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603286509",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 4
+    },
+    "title": "《健康饮品新趋势×百威啤酒：痛点解决完全指南》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "健康饮品新趋势",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "健康饮品",
+      "无糖",
+      "气泡水",
+      "新消费"
+    ],
+    "heat_index": 90,
+    "estimated_interaction": "35w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603282820",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 3
+    },
+    "title": "《借势健康饮品新趋势，气泡水这样用超赞》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "健康饮品新趋势",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "健康饮品",
+      "无糖",
+      "气泡水",
+      "新消费"
+    ],
+    "heat_index": 89,
+    "estimated_interaction": "22w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603283090",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 5
+    },
+    "title": "《家常菜做法大全火了！OATLY产品真实测评》",
+    "platform": "抖音",
+    "angle": "用户故事",
+    "hot_topic": "家常菜做法大全",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "家常菜",
+      "食谱",
+      "做法",
+      "烹饪"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "50w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603284789",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 4
+    },
+    "title": "《从家常菜做法大全看百威啤酒的正确打开方式》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "家常菜做法大全",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "家常菜",
+      "食谱",
+      "做法",
+      "烹饪"
+    ],
+    "heat_index": 61,
+    "estimated_interaction": "20w",
+    "success_rate": 78,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603284825",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 4
+    },
+    "title": "《气泡水+家常菜做法大全，这个组合绝了》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "家常菜做法大全",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "家常菜",
+      "食谱",
+      "做法",
+      "烹饪"
+    ],
+    "heat_index": 90,
+    "estimated_interaction": "24w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603286147",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 3
+    },
+    "title": "《下午茶甜点制作火了！OATLY产品真实测评》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "下午茶甜点制作",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "甜点",
+      "下午茶",
+      "蛋糕",
+      "烘焙"
+    ],
+    "heat_index": 95,
+    "estimated_interaction": "28w",
+    "success_rate": 70,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603285900",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 4
+    },
+    "title": "《下午茶甜点制作热潮下，百威凭什么出圈》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "下午茶甜点制作",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "甜点",
+      "下午茶",
+      "蛋糕",
+      "烘焙"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "20w",
+    "success_rate": 56,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603289887",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 4
+    },
+    "title": "《下午茶甜点制作必备！气泡水使用心得分享》",
+    "platform": "小红书",
+    "angle": "用户故事",
+    "hot_topic": "下午茶甜点制作",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "甜点",
+      "下午茶",
+      "蛋糕",
+      "烘焙"
+    ],
+    "heat_index": 95,
+    "estimated_interaction": "17w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603282777",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 3
+    },
+    "title": "《低卡零食推荐热潮下，OATLY凭什么出圈》",
+    "platform": "抖音",
+    "angle": "限时优惠",
+    "hot_topic": "低卡零食推荐",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "低卡",
+      "零食",
+      "健康",
+      "减肥"
+    ],
+    "heat_index": 81,
+    "estimated_interaction": "17w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603282656",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 4
+    },
+    "title": "《低卡零食推荐×百威啤酒：专家访谈完全指南》",
+    "platform": "抖音",
+    "angle": "专家访谈",
+    "hot_topic": "低卡零食推荐",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "低卡",
+      "零食",
+      "健康",
+      "减肥"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "8w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603288468",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《低卡零食推荐×气泡水：使用教程完全指南》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "低卡零食推荐",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "低卡",
+      "零食",
+      "健康",
+      "减肥"
+    ],
+    "heat_index": 85,
+    "estimated_interaction": "7w",
+    "success_rate": 68,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603287860",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 5
+    },
+    "title": "《火锅食材清单必备！燕麦奶使用心得分享》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "火锅食材清单",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "火锅",
+      "食材",
+      "做法",
+      "聚餐"
+    ],
+    "heat_index": 86,
+    "estimated_interaction": "31w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603283667",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《百威啤酒+火锅食材清单，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "剧情植入",
+    "hot_topic": "火锅食材清单",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "火锅",
+      "食材",
+      "做法",
+      "聚餐"
+    ],
+    "heat_index": 82,
+    "estimated_interaction": "45w",
+    "success_rate": 57,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603289400",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《火锅食材清单必备！气泡水使用心得分享》",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "火锅食材清单",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "火锅",
+      "食材",
+      "做法",
+      "聚餐"
+    ],
+    "heat_index": 88,
+    "estimated_interaction": "24w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603289879",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 3
+    },
+    "title": "《手冲咖啡教程火了！OATLY产品真实测评》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "手冲咖啡教程",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "手冲咖啡",
+      "教程",
+      "咖啡豆",
+      "精品咖啡"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "46w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603282708",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 5
+    },
+    "title": "《百威啤酒+手冲咖啡教程，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "手冲咖啡教程",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "手冲咖啡",
+      "教程",
+      "咖啡豆",
+      "精品咖啡"
+    ],
+    "heat_index": 62,
+    "estimated_interaction": "30w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603285857",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 3
+    },
+    "title": "《手冲咖啡教程热潮下，元气森林凭什么出圈》",
+    "platform": "小红书",
+    "angle": "剧情植入",
+    "hot_topic": "手冲咖啡教程",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "手冲咖啡",
+      "教程",
+      "咖啡豆",
+      "精品咖啡"
+    ],
+    "heat_index": 73,
+    "estimated_interaction": "46w",
+    "success_rate": 85,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603283485",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 4
+    },
+    "title": "《便利店美食攻略×咖啡燕麦奶：场景展示完全指南》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "便利店美食攻略",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "便利店",
+      "美食",
+      "攻略",
+      "711"
+    ],
+    "heat_index": 79,
+    "estimated_interaction": "6w",
+    "success_rate": 79,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603281035",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《便利店美食攻略火了！百威产品真实测评》",
+    "platform": "抖音",
+    "angle": "剧情植入",
+    "hot_topic": "便利店美食攻略",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "便利店",
+      "美食",
+      "攻略",
+      "711"
+    ],
+    "heat_index": 79,
+    "estimated_interaction": "50w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603289267",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《外星人电解质水+便利店美食攻略，这个组合绝了》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "便利店美食攻略",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "便利店",
+      "美食",
+      "攻略",
+      "711"
+    ],
+    "heat_index": 87,
+    "estimated_interaction": "19w",
+    "success_rate": 66,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603289765",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶"
+      ],
+      "priority": 4
+    },
+    "title": "《燕麦奶+酒水搭配推荐，这个组合绝了》",
+    "platform": "微博",
+    "angle": "挑战赛",
+    "hot_topic": "酒水搭配推荐",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "酒水",
+      "搭配",
+      "聚会",
+      "微醺"
+    ],
+    "heat_index": 74,
+    "estimated_interaction": "5w",
+    "success_rate": 65,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603289899",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 3
+    },
+    "title": "《酒水搭配推荐火了！百威产品真实测评》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "酒水搭配推荐",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "酒水",
+      "搭配",
+      "聚会",
+      "微醺"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "42w",
+    "success_rate": 82,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603287084",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《借势酒水搭配推荐，外星人电解质水这样用超赞》",
+    "platform": "微博",
+    "angle": "知识科普",
+    "hot_topic": "酒水搭配推荐",
+    "hot_topic_type": "美食",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "酒水",
+      "搭配",
+      "聚会",
+      "微醺"
+    ],
+    "heat_index": 62,
+    "estimated_interaction": "14w",
+    "success_rate": 76,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603281406",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《借势春季赏花目的地，狗粮这样用超赞》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "春季赏花目的地",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "赏花",
+      "春季",
+      "旅游",
+      "樱花"
+    ],
+    "heat_index": 86,
+    "estimated_interaction": "42w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603286571",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 4
+    },
+    "title": "《春季赏花目的地×外星人电解质水：开箱体验完全指南》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "春季赏花目的地",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "赏花",
+      "春季",
+      "旅游",
+      "樱花"
+    ],
+    "heat_index": 88,
+    "estimated_interaction": "23w",
+    "success_rate": 75,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603289089",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《周末周边游攻略火了！希宝产品真实测评》",
+    "platform": "抖音",
+    "angle": "联名合作",
+    "hot_topic": "周末周边游攻略",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "周边游",
+      "周末",
+      "攻略",
+      "自驾"
+    ],
+    "heat_index": 78,
+    "estimated_interaction": "37w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603286839",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 4
+    },
+    "title": "《从周末周边游攻略看气泡水的正确打开方式》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "周末周边游攻略",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "周边游",
+      "周末",
+      "攻略",
+      "自驾"
+    ],
+    "heat_index": 83,
+    "estimated_interaction": "43w",
+    "success_rate": 75,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "宠物食品_202603284473",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《宠物友好景区推荐必备！猫粮使用心得分享》",
+    "platform": "小红书",
+    "angle": "用户故事",
+    "hot_topic": "宠物友好景区推荐",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "宠物",
+      "景区",
+      "携宠游",
+      "旅行"
+    ],
+    "heat_index": 88,
+    "estimated_interaction": "23w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603286989",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 3
+    },
+    "title": "《外星人电解质水+宠物友好景区推荐，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "宠物友好景区推荐",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "宠物",
+      "景区",
+      "携宠游",
+      "旅行"
+    ],
+    "heat_index": 94,
+    "estimated_interaction": "27w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603286646",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《小众景点打卡热潮下，希宝凭什么出圈》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "小众景点打卡",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "小众",
+      "打卡",
+      "景点",
+      "避开人群"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "11w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603285876",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 3
+    },
+    "title": "《外星人电解质水+小众景点打卡，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "小众景点打卡",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "小众",
+      "打卡",
+      "景点",
+      "避开人群"
+    ],
+    "heat_index": 98,
+    "estimated_interaction": "20w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "宠物食品_202603281031",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《露营装备清单×狗粮：产品测评完全指南》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "露营装备清单",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "露营",
+      "装备",
+      "帐篷",
+      "户外"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "40w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "食品饮料_202603289056",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 4
+    },
+    "title": "《露营装备清单×外星人电解质水：知识科普完全指南》",
+    "platform": "抖音",
+    "angle": "知识科普",
+    "hot_topic": "露营装备清单",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "露营",
+      "装备",
+      "帐篷",
+      "户外"
+    ],
+    "heat_index": 78,
+    "estimated_interaction": "7w",
+    "success_rate": 71,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "宠物食品_202603288149",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《海岛度假攻略火了！希宝产品真实测评》",
+    "platform": "微博",
+    "angle": "挑战赛",
+    "hot_topic": "海岛度假攻略",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "海岛",
+      "度假",
+      "三亚",
+      "马尔代夫"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "39w",
+    "success_rate": 71,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "食品饮料_202603285924",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 4
+    },
+    "title": "《借势海岛度假攻略，外星人电解质水这样用超赞》",
+    "platform": "微博",
+    "angle": "限时优惠",
+    "hot_topic": "海岛度假攻略",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "海岛",
+      "度假",
+      "三亚",
+      "马尔代夫"
+    ],
+    "heat_index": 99,
+    "estimated_interaction": "37w",
+    "success_rate": 70,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "宠物食品_202603285484",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 3
+    },
+    "title": "《狗粮+亲子游目的地，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "亲子游目的地",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "亲子游",
+      "目的地",
+      "遛娃",
+      "乐园"
+    ],
+    "heat_index": 89,
+    "estimated_interaction": "9w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603281529",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 3
+    },
+    "title": "《亲子游目的地×外星人电解质水：测评对比完全指南》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "亲子游目的地",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "亲子游",
+      "目的地",
+      "遛娃",
+      "乐园"
+    ],
+    "heat_index": 86,
+    "estimated_interaction": "45w",
+    "success_rate": 80,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "宠物食品_202603287427",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 3
+    },
+    "title": "《旅行穿搭指南×狗粮：教程攻略完全指南》",
+    "platform": "小红书",
+    "angle": "教程攻略",
+    "hot_topic": "旅行穿搭指南",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "穿搭",
+      "旅行",
+      "拍照",
+      "风格"
+    ],
+    "heat_index": 91,
+    "estimated_interaction": "5w",
+    "success_rate": 83,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "食品饮料_202603282078",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水"
+      ],
+      "priority": 5
+    },
+    "title": "《旅行穿搭指南必备！外星人电解质水使用心得分享》",
+    "platform": "小红书",
+    "angle": "限时优惠",
+    "hot_topic": "旅行穿搭指南",
+    "hot_topic_type": "旅游",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "穿搭",
+      "旅行",
+      "拍照",
+      "风格"
+    ],
+    "heat_index": 74,
+    "estimated_interaction": "29w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603282794",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《AI办公效率课火了！罗技产品真实测评》",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "AI办公效率课",
+    "hot_topic_type": "教育",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "AI",
+      "办公",
+      "效率",
+      "Excel"
+    ],
+    "heat_index": 73,
+    "estimated_interaction": "34w",
+    "success_rate": 57,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603287256",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 3
+    },
+    "title": "《借势考研考公备考指南，罗技键鼠这样用超赞》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "考研考公备考指南",
+    "hot_topic_type": "教育",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "考研",
+      "考公",
+      "备考",
+      "学习"
+    ],
+    "heat_index": 98,
+    "estimated_interaction": "20w",
+    "success_rate": 45,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603287547",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《亲子阅读时光火了！罗技产品真实测评》",
+    "platform": "小红书",
+    "angle": "情感故事",
+    "hot_topic": "亲子阅读时光",
+    "hot_topic_type": "教育",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "亲子阅读",
+      "绘本",
+      "育儿",
+      "阅读"
+    ],
+    "heat_index": 76,
+    "estimated_interaction": "13w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603283620",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《英语口语练习方法×罗技键鼠：行业趋势完全指南》",
+    "platform": "抖音",
+    "angle": "行业趋势",
+    "hot_topic": "英语口语练习方法",
+    "hot_topic_type": "教育",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "英语",
+      "口语",
+      "学习",
+      "方法"
+    ],
+    "heat_index": 85,
+    "estimated_interaction": "47w",
+    "success_rate": 64,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603281429",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《从职业技能提升课程看罗技键鼠的正确打开方式》",
+    "platform": "B站",
+    "angle": "种草推荐",
+    "hot_topic": "职业技能提升课程",
+    "hot_topic_type": "教育",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "技能",
+      "课程",
+      "职场",
+      "提升"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "18w",
+    "success_rate": 58,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603282541",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《公考面试技巧×罗技键鼠：剧情植入完全指南》",
+    "platform": "微博",
+    "angle": "剧情植入",
+    "hot_topic": "公考面试技巧",
+    "hot_topic_type": "教育",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "面试",
+      "公考",
+      "技巧",
+      "上岸"
+    ],
+    "heat_index": 75,
+    "estimated_interaction": "50w",
+    "success_rate": 81,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603282201",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 5
+    },
+    "title": "《儿童编程启蒙×罗技摄像头：种草推荐完全指南》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "儿童编程启蒙",
+    "hot_topic_type": "教育",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "编程",
+      "Scratch",
+      "STEM",
+      "教育"
+    ],
+    "heat_index": 62,
+    "estimated_interaction": "29w",
+    "success_rate": 82,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603284456",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头"
+      ],
+      "priority": 4
+    },
+    "title": "《学习方法分享火了！罗技产品真实测评》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "学习方法分享",
+    "hot_topic_type": "教育",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "学习",
+      "方法",
+      "效率",
+      "笔记"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "9w",
+    "success_rate": 77,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603287387",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《新能源汽车选购必备！荣耀耳机使用心得分享》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "新能源汽车选购",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "新能源",
+      "电动车",
+      "选购",
+      "比亚迪"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "50w",
+    "success_rate": 35,
+    "risk_level": "高",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603281487",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《新能源汽车选购火了！小米产品真实测评》",
+    "platform": "微博",
+    "angle": "知识科普",
+    "hot_topic": "新能源汽车选购",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "新能源",
+      "电动车",
+      "选购",
+      "比亚迪"
+    ],
+    "heat_index": 99,
+    "estimated_interaction": "29w",
+    "success_rate": 39,
+    "risk_level": "高",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603286747",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《从车载好物分享看荣耀耳机的正确打开方式》",
+    "platform": "小红书",
+    "angle": "行业趋势",
+    "hot_topic": "车载好物分享",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "车载",
+      "好物",
+      "装饰",
+      "配件"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "10w",
+    "success_rate": 85,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603281618",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《车载好物分享热潮下，小米凭什么出圈》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "车载好物分享",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "车载",
+      "好物",
+      "装饰",
+      "配件"
+    ],
+    "heat_index": 80,
+    "estimated_interaction": "14w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603288375",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 4
+    },
+    "title": "《新车上市发布必备！荣耀耳机使用心得分享》",
+    "platform": "微博",
+    "angle": "挑战赛",
+    "hot_topic": "新车上市发布",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "新车",
+      "上市",
+      "发布",
+      "车型"
+    ],
+    "heat_index": 92,
+    "estimated_interaction": "11w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603284567",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 4
+    },
+    "title": "《新车上市发布×小米手机：知识科普完全指南》",
+    "platform": "微博",
+    "angle": "知识科普",
+    "hot_topic": "新车上市发布",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "新车",
+      "上市",
+      "发布",
+      "车型"
+    ],
+    "heat_index": 66,
+    "estimated_interaction": "39w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603281249",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《智能驾驶体验火了！荣耀产品真实测评》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "智能驾驶体验",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "智能驾驶",
+      "辅助驾驶",
+      "自动驾驶"
+    ],
+    "heat_index": 85,
+    "estimated_interaction": "30w",
+    "success_rate": 66,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603284710",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《借势智能驾驶体验，小米平板这样用超赞》",
+    "platform": "抖音",
+    "angle": "知识科普",
+    "hot_topic": "智能驾驶体验",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "智能驾驶",
+      "辅助驾驶",
+      "自动驾驶"
+    ],
+    "heat_index": 80,
+    "estimated_interaction": "12w",
+    "success_rate": 80,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "3C数码_202603289240",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《车载支架测评热潮下，荣耀凭什么出圈》",
+    "platform": "小红书",
+    "angle": "Vlog日常",
+    "hot_topic": "车载支架测评",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "车载支架",
+      "测评",
+      "手机支架",
+      "配件"
+    ],
+    "heat_index": 95,
+    "estimated_interaction": "28w",
+    "success_rate": 35,
+    "risk_level": "高",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603289059",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《从车载支架测评看小米智能家居的正确打开方式》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "车载支架测评",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "车载支架",
+      "测评",
+      "手机支架",
+      "配件"
+    ],
+    "heat_index": 75,
+    "estimated_interaction": "39w",
+    "success_rate": 52,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603287495",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《油耗对比测试必备！荣耀耳机使用心得分享》",
+    "platform": "微博",
+    "angle": "行业趋势",
+    "hot_topic": "油耗对比测试",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "油耗",
+      "对比",
+      "测试",
+      "排量"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "32w",
+    "success_rate": 49,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603285319",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《油耗对比测试火了！小米产品真实测评》",
+    "platform": "微博",
+    "angle": "限时优惠",
+    "hot_topic": "油耗对比测试",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "油耗",
+      "对比",
+      "测试",
+      "排量"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "21w",
+    "success_rate": 43,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "3C数码_202603287817",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《洗车工具推荐热潮下，荣耀凭什么出圈》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "洗车工具推荐",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "洗车",
+      "工具",
+      "自助",
+      "清洁"
+    ],
+    "heat_index": 61,
+    "estimated_interaction": "10w",
+    "success_rate": 69,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603288619",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 4
+    },
+    "title": "《洗车工具推荐×小米平板：场景展示完全指南》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "洗车工具推荐",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "洗车",
+      "工具",
+      "自助",
+      "清洁"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "40w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603287893",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《二手车选购指南必备！荣耀耳机使用心得分享》",
+    "platform": "微博",
+    "angle": "使用教程",
+    "hot_topic": "二手车选购指南",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "二手车",
+      "选购",
+      "避坑",
+      "检测"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "6w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "3C数码_202603282972",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 3
+    },
+    "title": "《小米智能家居+二手车选购指南，这个组合绝了》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "二手车选购指南",
+    "hot_topic_type": "汽车",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "二手车",
+      "选购",
+      "避坑",
+      "检测"
+    ],
+    "heat_index": 94,
+    "estimated_interaction": "21w",
+    "success_rate": 41,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603289479",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《从宠物日常vlog看狗粮的正确打开方式》",
+    "platform": "小红书",
+    "angle": "联名合作",
+    "hot_topic": "宠物日常vlog",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "宠物",
+      "vlog",
+      "猫",
+      "狗"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "18w",
+    "success_rate": 74,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "宠物食品_202603283832",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《宠物日常vlog必备！皇家猫粮使用心得分享》",
+    "platform": "小红书",
+    "angle": "行业趋势",
+    "hot_topic": "宠物日常vlog",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "宠物",
+      "vlog",
+      "猫",
+      "狗"
+    ],
+    "heat_index": 86,
+    "estimated_interaction": "48w",
+    "success_rate": 76,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603286200",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《猫粮狗粮测评×猫粮：知识科普完全指南》",
+    "platform": "微博",
+    "angle": "知识科普",
+    "hot_topic": "猫粮狗粮测评",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "猫粮",
+      "狗粮",
+      "测评",
+      "宠物食品"
+    ],
+    "heat_index": 87,
+    "estimated_interaction": "11w",
+    "success_rate": 58,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "宠物食品_202603282580",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《猫粮狗粮测评×皇家狗粮：情感故事完全指南》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "猫粮狗粮测评",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "猫粮",
+      "狗粮",
+      "测评",
+      "宠物食品"
+    ],
+    "heat_index": 83,
+    "estimated_interaction": "43w",
+    "success_rate": 38,
+    "risk_level": "高",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "宠物食品_202603281156",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 3
+    },
+    "title": "《猫咪行为解读必备！狗粮使用心得分享》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "猫咪行为解读",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "猫咪",
+      "行为",
+      "解读",
+      "养猫"
+    ],
+    "heat_index": 97,
+    "estimated_interaction": "5w",
+    "success_rate": 85,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603282571",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《从猫咪行为解读看皇家猫粮的正确打开方式》",
+    "platform": "小红书",
+    "angle": "行业趋势",
+    "hot_topic": "猫咪行为解读",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "猫咪",
+      "行为",
+      "解读",
+      "养猫"
+    ],
+    "heat_index": 79,
+    "estimated_interaction": "11w",
+    "success_rate": 62,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "宠物食品_202603286968",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《宠物健康护理火了！希宝产品真实测评》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "宠物健康护理",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "宠物健康",
+      "护理",
+      "驱虫",
+      "疫苗"
+    ],
+    "heat_index": 93,
+    "estimated_interaction": "45w",
+    "success_rate": 56,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603281309",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《借势宠物健康护理，皇家狗粮这样用超赞》",
+    "platform": "抖音",
+    "angle": "教程攻略",
+    "hot_topic": "宠物健康护理",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "宠物健康",
+      "护理",
+      "驱虫",
+      "疫苗"
+    ],
+    "heat_index": 76,
+    "estimated_interaction": "50w",
+    "success_rate": 76,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603288985",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 3
+    },
+    "title": "《从狗子训练教程看狗粮的正确打开方式》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "狗子训练教程",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "狗",
+      "训练",
+      "教程",
+      "宠物"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "28w",
+    "success_rate": 56,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "宠物食品_202603284295",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮"
+      ],
+      "priority": 3
+    },
+    "title": "《借势狗子训练教程，皇家猫粮这样用超赞》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "狗子训练教程",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "狗",
+      "训练",
+      "教程",
+      "宠物"
+    ],
+    "heat_index": 68,
+    "estimated_interaction": "29w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603283297",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《宠物用品红黑榜热潮下，希宝凭什么出圈》",
+    "platform": "抖音",
+    "angle": "限时优惠",
+    "hot_topic": "宠物用品红黑榜",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "宠物用品",
+      "红黑榜",
+      "推荐",
+      "避雷"
+    ],
+    "heat_index": 65,
+    "estimated_interaction": "28w",
+    "success_rate": 57,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "宠物食品_202603286223",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《从宠物用品红黑榜看皇家狗粮的正确打开方式》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "宠物用品红黑榜",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "宠物用品",
+      "红黑榜",
+      "推荐",
+      "避雷"
+    ],
+    "heat_index": 88,
+    "estimated_interaction": "24w",
+    "success_rate": 42,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "宠物食品_202603283388",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《异宠饲养指南×猫粮：测评对比完全指南》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "异宠饲养指南",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "异宠",
+      "蜥蜴",
+      "守宫",
+      "仓鼠"
+    ],
+    "heat_index": 75,
+    "estimated_interaction": "27w",
+    "success_rate": 66,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "宠物食品_202603283083",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《借势异宠饲养指南，皇家猫粮这样用超赞》",
+    "platform": "小红书",
+    "angle": "联名合作",
+    "hot_topic": "异宠饲养指南",
+    "hot_topic_type": "宠物",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "异宠",
+      "蜥蜴",
+      "守宫",
+      "仓鼠"
+    ],
+    "heat_index": 77,
+    "estimated_interaction": "49w",
+    "success_rate": 80,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "家庭清洁_202603284184",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《HC清洁剂+收纳神器推荐，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "剧情植入",
+    "hot_topic": "收纳神器推荐",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "收纳",
+      "神器",
+      "整理",
+      "家居"
+    ],
+    "heat_index": 98,
+    "estimated_interaction": "18w",
+    "success_rate": 81,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603285172",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 5
+    },
+    "title": "《从收纳神器推荐看威猛先生厨房清洁的正确打开方式》",
+    "platform": "小红书",
+    "angle": "Vlog日常",
+    "hot_topic": "收纳神器推荐",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "收纳",
+      "神器",
+      "整理",
+      "家居"
+    ],
+    "heat_index": 68,
+    "estimated_interaction": "7w",
+    "success_rate": 62,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603283154",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 4
+    },
+    "title": "《从收纳神器推荐看舒适洗衣液的正确打开方式》",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "收纳神器推荐",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "收纳",
+      "神器",
+      "整理",
+      "家居"
+    ],
+    "heat_index": 87,
+    "estimated_interaction": "42w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "家庭清洁_202603284686",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 4
+    },
+    "title": "《借势清洁剂大比拼，HC清洁剂这样用超赞》",
+    "platform": "抖音",
+    "angle": "专家访谈",
+    "hot_topic": "清洁剂大比拼",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "清洁剂",
+      "测评",
+      "清洁",
+      "家务"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "33w",
+    "success_rate": 48,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "家庭清洁_202603285364",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《借势清洁剂大比拼，威猛先生厨房清洁这样用超赞》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "清洁剂大比拼",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "清洁剂",
+      "测评",
+      "清洁",
+      "家务"
+    ],
+    "heat_index": 71,
+    "estimated_interaction": "33w",
+    "success_rate": 44,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "家庭清洁_202603289812",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 5
+    },
+    "title": "《舒适洗衣液+清洁剂大比拼，这个组合绝了》",
+    "platform": "抖音",
+    "angle": "对比评测",
+    "hot_topic": "清洁剂大比拼",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "中性",
+    "keywords": [
+      "清洁剂",
+      "测评",
+      "清洁",
+      "家务"
+    ],
+    "heat_index": 74,
+    "estimated_interaction": "33w",
+    "success_rate": 47,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "家庭清洁_202603285344",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《小户型装修案例×HC清洁剂：热点借势完全指南》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "小户型装修案例",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "小户型",
+      "装修",
+      "案例",
+      "北欧"
+    ],
+    "heat_index": 86,
+    "estimated_interaction": "21w",
+    "success_rate": 58,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603284075",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《威猛先生厨房清洁+小户型装修案例，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "小户型装修案例",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "小户型",
+      "装修",
+      "案例",
+      "北欧"
+    ],
+    "heat_index": 74,
+    "estimated_interaction": "32w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "家庭清洁_202603286075",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《小户型装修案例热潮下，舒适凭什么出圈》",
+    "platform": "小红书",
+    "angle": "限时优惠",
+    "hot_topic": "小户型装修案例",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "小户型",
+      "装修",
+      "案例",
+      "北欧"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "23w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603286300",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《借势香薰蜡烛测评，HC清洁剂这样用超赞》",
+    "platform": "小红书",
+    "angle": "行业趋势",
+    "hot_topic": "香薰蜡烛测评",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "香薰",
+      "蜡烛",
+      "测评",
+      "氛围"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "7w",
+    "success_rate": 63,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "家庭清洁_202603284432",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 5
+    },
+    "title": "《香薰蜡烛测评×威猛先生厨房清洁：痛点解决完全指南》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "香薰蜡烛测评",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "香薰",
+      "蜡烛",
+      "测评",
+      "氛围"
+    ],
+    "heat_index": 76,
+    "estimated_interaction": "36w",
+    "success_rate": 76,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603287872",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《舒适洗衣液+香薰蜡烛测评，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "开箱体验",
+    "hot_topic": "香薰蜡烛测评",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "香薰",
+      "蜡烛",
+      "测评",
+      "氛围"
+    ],
+    "heat_index": 67,
+    "estimated_interaction": "12w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "家庭清洁_202603288381",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 5
+    },
+    "title": "《床上用品选购必备！HC清洁剂使用心得分享》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "床上用品选购",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "床上用品",
+      "床品",
+      "四件套",
+      "选购"
+    ],
+    "heat_index": 69,
+    "estimated_interaction": "10w",
+    "success_rate": 78,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603285425",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 5
+    },
+    "title": "《床上用品选购必备！威猛先生厨房清洁使用心得分享》",
+    "platform": "小红书",
+    "angle": "专家访谈",
+    "hot_topic": "床上用品选购",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "床上用品",
+      "床品",
+      "四件套",
+      "选购"
+    ],
+    "heat_index": 71,
+    "estimated_interaction": "29w",
+    "success_rate": 60,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "家庭清洁_202603286877",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《床上用品选购火了！舒适产品真实测评》",
+    "platform": "小红书",
+    "angle": "知识科普",
+    "hot_topic": "床上用品选购",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "床上用品",
+      "床品",
+      "四件套",
+      "选购"
+    ],
+    "heat_index": 60,
+    "estimated_interaction": "41w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "家庭清洁_202603285214",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 3
+    },
+    "title": "《厨房小家电推荐热潮下，HC凭什么出圈》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "厨房小家电推荐",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "厨房",
+      "小家电",
+      "推荐",
+      "多功能锅"
+    ],
+    "heat_index": 64,
+    "estimated_interaction": "21w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "家庭清洁_202603288639",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《厨房小家电推荐火了！威猛先生产品真实测评》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "厨房小家电推荐",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "厨房",
+      "小家电",
+      "推荐",
+      "多功能锅"
+    ],
+    "heat_index": 76,
+    "estimated_interaction": "49w",
+    "success_rate": 85,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "家庭清洁_202603282743",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 5
+    },
+    "title": "《厨房小家电推荐火了！舒适产品真实测评》",
+    "platform": "抖音",
+    "angle": "联名合作",
+    "hot_topic": "厨房小家电推荐",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "厨房",
+      "小家电",
+      "推荐",
+      "多功能锅"
+    ],
+    "heat_index": 72,
+    "estimated_interaction": "17w",
+    "success_rate": 83,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603286461",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 4
+    },
+    "title": "《绿植养护攻略必备！HC清洁剂使用心得分享》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "绿植养护攻略",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "绿植",
+      "养护",
+      "家居",
+      "植物"
+    ],
+    "heat_index": 87,
+    "estimated_interaction": "14w",
+    "success_rate": 70,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603284248",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 5
+    },
+    "title": "《绿植养护攻略火了！威猛先生产品真实测评》",
+    "platform": "小红书",
+    "angle": "教程攻略",
+    "hot_topic": "绿植养护攻略",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "绿植",
+      "养护",
+      "家居",
+      "植物"
+    ],
+    "heat_index": 80,
+    "estimated_interaction": "28w",
+    "success_rate": 79,
+    "risk_level": "低",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "家庭清洁_202603282969",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 5
+    },
+    "title": "《借势绿植养护攻略，舒适洗衣液这样用超赞》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "绿植养护攻略",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "绿植",
+      "养护",
+      "家居",
+      "植物"
+    ],
+    "heat_index": 63,
+    "estimated_interaction": "46w",
+    "success_rate": 68,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "家庭清洁_202603283695",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 4
+    },
+    "title": "《出租屋改造必备！HC清洁剂使用心得分享》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "出租屋改造",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "出租屋",
+      "改造",
+      "低成本",
+      "diy"
+    ],
+    "heat_index": 94,
+    "estimated_interaction": "17w",
+    "success_rate": 57,
+    "risk_level": "中",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603281720",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《出租屋改造×威猛先生厨房清洁：限时优惠完全指南》",
+    "platform": "小红书",
+    "angle": "限时优惠",
+    "hot_topic": "出租屋改造",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "出租屋",
+      "改造",
+      "低成本",
+      "diy"
+    ],
+    "heat_index": 61,
+    "estimated_interaction": "46w",
+    "success_rate": 56,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603281349",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 3
+    },
+    "title": "《出租屋改造必备！舒适洗衣液使用心得分享》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "出租屋改造",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "出租屋",
+      "改造",
+      "低成本",
+      "diy"
+    ],
+    "heat_index": 86,
+    "estimated_interaction": "44w",
+    "success_rate": 72,
+    "risk_level": "低",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "家庭清洁_202603288546",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 4
+    },
+    "title": "《除螨方法分享热潮下，HC凭什么出圈》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "除螨方法分享",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "除螨",
+      "清洁",
+      "家居",
+      "健康"
+    ],
+    "heat_index": 95,
+    "estimated_interaction": "6w",
+    "success_rate": 61,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "家庭清洁_202603286859",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 5
+    },
+    "title": "《借势除螨方法分享，威猛先生厨房清洁这样用超赞》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "除螨方法分享",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "除螨",
+      "清洁",
+      "家居",
+      "健康"
+    ],
+    "heat_index": 81,
+    "estimated_interaction": "18w",
+    "success_rate": 84,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "低"
+  },
+  {
+    "id": "家庭清洁_202603283686",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 5
+    },
+    "title": "《从除螨方法分享看舒适洗衣液的正确打开方式》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "除螨方法分享",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "除螨",
+      "清洁",
+      "家居",
+      "健康"
+    ],
+    "heat_index": 77,
+    "estimated_interaction": "33w",
+    "success_rate": 80,
+    "risk_level": "低",
+    "status": "待执行",
+    "created_at": "20260328",
+    "priority": "中"
+  },
+  {
+    "id": "家庭清洁_202603282922",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂"
+      ],
+      "priority": 5
+    },
+    "title": "《HC清洁剂+阳台花园设计，这个组合绝了》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "阳台花园设计",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "阳台",
+      "花园",
+      "设计",
+      "绿植"
+    ],
+    "heat_index": 82,
+    "estimated_interaction": "40w",
+    "success_rate": 69,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603283319",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《阳台花园设计热潮下，威猛先生凭什么出圈》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "阳台花园设计",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "阳台",
+      "花园",
+      "设计",
+      "绿植"
+    ],
+    "heat_index": 63,
+    "estimated_interaction": "25w",
+    "success_rate": 59,
+    "risk_level": "中",
+    "status": "执行中",
+    "created_at": "20260328",
+    "priority": "高"
+  },
+  {
+    "id": "家庭清洁_202603283134",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液"
+      ],
+      "priority": 5
+    },
+    "title": "《阳台花园设计火了！舒适产品真实测评》",
+    "platform": "小红书",
+    "angle": "Vlog日常",
+    "hot_topic": "阳台花园设计",
+    "hot_topic_type": "家居",
+    "hot_topic_sentiment": "正面",
+    "keywords": [
+      "阳台",
+      "花园",
+      "设计",
+      "绿植"
+    ],
+    "heat_index": 81,
+    "estimated_interaction": "50w",
+    "success_rate": 62,
+    "risk_level": "中",
+    "status": "已完成",
+    "created_at": "20260328",
+    "priority": "高"
   }
 ]
