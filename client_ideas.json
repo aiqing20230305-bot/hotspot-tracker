@@ -28150,5 +28150,1850 @@
     "status": "已完成",
     "created_at": "20260328",
     "priority": "高"
+  },
+  {
+    "id": "3C数码_202603289995",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《DeepSeek开源新模型发布×荣耀：必买清单》",
+    "platform": "视频号",
+    "angle": "热点借势",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀手机",
+    "engagement_estimate": "37511+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603289996",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《智能门锁安全成焦点×荣耀：宝藏推荐》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "荣耀手机",
+    "engagement_estimate": "30999+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603289997",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《周末露营热潮来袭×荣耀：真实测评》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "荣耀耳机",
+    "engagement_estimate": "32981+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603289998",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《2026春季限定美妆上市×荣耀：宝藏推荐》",
+    "platform": "视频号",
+    "angle": "热点借势",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "荣耀平板",
+    "engagement_estimate": "38793+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603289999",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《2026春季限定美妆上市×荣耀：必买清单》",
+    "platform": "视频号",
+    "angle": "热点借势",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "荣耀手机",
+    "engagement_estimate": "47285+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290000",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《周末露营热潮来袭×罗技：真实测评》",
+    "platform": "视频号",
+    "angle": "种草推荐",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "罗技音箱",
+    "engagement_estimate": "14483+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290001",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《周末露营热潮来袭×罗技：必买清单》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "罗技摄像头",
+    "engagement_estimate": "37670+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290002",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《2026春季限定美妆上市×罗技：真实测评》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "罗技键鼠",
+    "engagement_estimate": "22683+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290003",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《2026春季限定美妆上市×罗技：真实测评》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "罗技摄像头",
+    "engagement_estimate": "18419+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290004",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×罗技：宝藏推荐》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技键鼠",
+    "engagement_estimate": "31512+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290005",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《DeepSeek开源新模型发布×小米：终极指南》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米平板",
+    "engagement_estimate": "14134+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290006",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《智能门锁安全成焦点×小米：真实测评》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "小米平板",
+    "engagement_estimate": "30295+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290007",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《智能门锁安全成焦点×小米：避坑攻略》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "小米智能家居",
+    "engagement_estimate": "26131+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290008",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《即食燕窝成新消费热点×小米：终极指南》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米智能家居",
+    "engagement_estimate": "20581+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290009",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《2026春季限定美妆上市×索尼：宝藏推荐》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "索尼相机",
+    "engagement_estimate": "43997+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290010",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×索尼：避坑攻略》",
+    "platform": "视频号",
+    "angle": "场景展示",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼耳机",
+    "engagement_estimate": "30666+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "3C数码_202603290011",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《智能门锁安全成焦点×索尼：必买清单》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "索尼相机",
+    "engagement_estimate": "7730+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290012",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《2026春季限定美妆上市×AHC：避坑攻略》",
+    "platform": "B站",
+    "angle": "种草推荐",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "AHC水乳",
+    "engagement_estimate": "29327+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290013",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《DeepSeek开源新模型发布×AHC：避坑攻略》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC水乳",
+    "engagement_estimate": "13178+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290014",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《智能门锁安全成焦点×AHC：终极指南》",
+    "platform": "B站",
+    "angle": "热点借势",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "AHC防晒",
+    "engagement_estimate": "39980+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290015",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×多芬：终极指南》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬身体乳",
+    "engagement_estimate": "22525+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290016",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×多芬：真实测评》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬洗发水",
+    "engagement_estimate": "31756+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290017",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《智能门锁安全成焦点×多芬：终极指南》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "43362+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290018",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《2026春季限定美妆上市×多芬：避坑攻略》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬洗发水",
+    "engagement_estimate": "14332+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290019",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《周末露营热潮来袭×多芬：终极指南》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬洗发水",
+    "engagement_estimate": "41786+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290020",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士沐浴露",
+        "力士香皂",
+        "力士洗手液"
+      ],
+      "priority": 3
+    },
+    "title": "《DeepSeek开源新模型发布×力士：必买清单》",
+    "platform": "B站",
+    "angle": "种草推荐",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士沐浴露",
+    "engagement_estimate": "37144+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290021",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士沐浴露",
+        "力士香皂",
+        "力士洗手液"
+      ],
+      "priority": 3
+    },
+    "title": "《2026春季限定美妆上市×力士：必买清单》",
+    "platform": "视频号",
+    "angle": "种草推荐",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "力士香皂",
+    "engagement_estimate": "24447+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290022",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士沐浴露",
+        "力士香皂",
+        "力士洗手液"
+      ],
+      "priority": 3
+    },
+    "title": "《DeepSeek开源新模型发布×力士：避坑攻略》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士沐浴露",
+    "engagement_estimate": "45314+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290023",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士沐浴露",
+        "力士香皂",
+        "力士洗手液"
+      ],
+      "priority": 3
+    },
+    "title": "《DeepSeek开源新模型发布×力士：真实测评》",
+    "platform": "视频号",
+    "angle": "场景展示",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士香皂",
+    "engagement_estimate": "28976+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290024",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士沐浴露",
+        "力士香皂",
+        "力士洗手液"
+      ],
+      "priority": 3
+    },
+    "title": "《2026春季限定美妆上市×力士：终极指南》",
+    "platform": "视频号",
+    "angle": "热点借势",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "力士洗手液",
+    "engagement_estimate": "9617+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290025",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬男士",
+        "清扬护发素"
+      ],
+      "priority": 3
+    },
+    "title": "《周末露营热潮来袭×清扬：宝藏推荐》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬男士",
+    "engagement_estimate": "27853+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290026",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬男士",
+        "清扬护发素"
+      ],
+      "priority": 3
+    },
+    "title": "《即食燕窝成新消费热点×清扬：终极指南》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬男士",
+    "engagement_estimate": "15022+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290027",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬男士",
+        "清扬护发素"
+      ],
+      "priority": 3
+    },
+    "title": "《即食燕窝成新消费热点×清扬：必买清单》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "8802+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290028",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬男士",
+        "清扬护发素"
+      ],
+      "priority": 3
+    },
+    "title": "《DeepSeek开源新模型发布×清扬：真实测评》",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "25427+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290029",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 4
+    },
+    "title": "《周末露营热潮来袭×玉兰油：真实测评》",
+    "platform": "B站",
+    "angle": "种草推荐",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "玉兰油面霜",
+    "engagement_estimate": "14127+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290030",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 4
+    },
+    "title": "《2026春季限定美妆上市×玉兰油：终极指南》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "玉兰油精华",
+    "engagement_estimate": "18296+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "快消_202603290031",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×玉兰油：必买清单》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油面霜",
+    "engagement_estimate": "36302+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290032",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健蛋白粉",
+        "汤臣倍健维生素",
+        "汤臣倍健钙片"
+      ],
+      "priority": 5
+    },
+    "title": "《智能门锁安全成焦点×汤臣倍健：真实测评》",
+    "platform": "B站",
+    "angle": "种草推荐",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "汤臣倍健钙片",
+    "engagement_estimate": "32252+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290033",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健蛋白粉",
+        "汤臣倍健维生素",
+        "汤臣倍健钙片"
+      ],
+      "priority": 5
+    },
+    "title": "《DeepSeek开源新模型发布×汤臣倍健：真实测评》",
+    "platform": "视频号",
+    "angle": "种草推荐",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健蛋白粉",
+    "engagement_estimate": "19481+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290034",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健蛋白粉",
+        "汤臣倍健维生素",
+        "汤臣倍健钙片"
+      ],
+      "priority": 5
+    },
+    "title": "《即食燕窝成新消费热点×汤臣倍健：真实测评》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健钙片",
+    "engagement_estimate": "10168+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290035",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存钙片",
+        "善存维生素"
+      ],
+      "priority": 4
+    },
+    "title": "《DeepSeek开源新模型发布×善存：宝藏推荐》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存多维片",
+    "engagement_estimate": "46202+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290036",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存钙片",
+        "善存维生素"
+      ],
+      "priority": 4
+    },
+    "title": "《智能门锁安全成焦点×善存：真实测评》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "善存维生素",
+    "engagement_estimate": "42149+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290037",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存钙片",
+        "善存维生素"
+      ],
+      "priority": 4
+    },
+    "title": "《智能门锁安全成焦点×善存：真实测评》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "善存钙片",
+    "engagement_estimate": "12047+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290038",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存钙片",
+        "善存维生素"
+      ],
+      "priority": 4
+    },
+    "title": "《DeepSeek开源新模型发布×善存：宝藏推荐》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存多维片",
+    "engagement_estimate": "19469+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290039",
+    "client": {
+      "industry": "保健品",
+      "brand": "HC",
+      "products": [
+        "HC胶原蛋白",
+        "HC护眼片",
+        "HC蔓越莓"
+      ],
+      "priority": 3
+    },
+    "title": "《周末露营热潮来袭×HC：终极指南》",
+    "platform": "视频号",
+    "angle": "场景展示",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "HC胶原蛋白",
+    "engagement_estimate": "38942+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290040",
+    "client": {
+      "industry": "保健品",
+      "brand": "HC",
+      "products": [
+        "HC胶原蛋白",
+        "HC护眼片",
+        "HC蔓越莓"
+      ],
+      "priority": 3
+    },
+    "title": "《DeepSeek开源新模型发布×HC：真实测评》",
+    "platform": "视频号",
+    "angle": "情感故事",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC护眼片",
+    "engagement_estimate": "47282+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290041",
+    "client": {
+      "industry": "保健品",
+      "brand": "HC",
+      "products": [
+        "HC胶原蛋白",
+        "HC护眼片",
+        "HC蔓越莓"
+      ],
+      "priority": 3
+    },
+    "title": "《周末露营热潮来袭×HC：真实测评》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "HC护眼片",
+    "engagement_estimate": "37212+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "保健品_202603290042",
+    "client": {
+      "industry": "保健品",
+      "brand": "HC",
+      "products": [
+        "HC胶原蛋白",
+        "HC护眼片",
+        "HC蔓越莓"
+      ],
+      "priority": 3
+    },
+    "title": "《2026春季限定美妆上市×HC：宝藏推荐》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "HC蔓越莓",
+    "engagement_estimate": "23567+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "家居_202603290043",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生洁厕液",
+        "威猛先生厨房清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《即食燕窝成新消费热点×威猛先生：真实测评》",
+    "platform": "抖音",
+    "angle": "种草推荐",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生厨房清洁",
+    "engagement_estimate": "6185+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "家居_202603290044",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生洁厕液",
+        "威猛先生厨房清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《DeepSeek开源新模型发布×威猛先生：避坑攻略》",
+    "platform": "B站",
+    "angle": "情感故事",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生清洁剂",
+    "engagement_estimate": "28232+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "家居_202603290045",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生洁厕液",
+        "威猛先生厨房清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《DeepSeek开源新模型发布×威猛先生：必买清单》",
+    "platform": "视频号",
+    "angle": "场景展示",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生洁厕液",
+    "engagement_estimate": "47698+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "家居_202603290046",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生洁厕液",
+        "威猛先生厨房清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《2026春季限定美妆上市×威猛先生：宝藏推荐》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "威猛先生清洁剂",
+    "engagement_estimate": "29614+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "家居_202603290047",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "products": [
+        "舒适牙刷",
+        "舒适牙膏",
+        "舒适漱口水"
+      ],
+      "priority": 3
+    },
+    "title": "《周末露营热潮来袭×舒适：必买清单》",
+    "platform": "B站",
+    "angle": "情感故事",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "舒适牙刷",
+    "engagement_estimate": "30764+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "家居_202603290048",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "products": [
+        "舒适牙刷",
+        "舒适牙膏",
+        "舒适漱口水"
+      ],
+      "priority": 3
+    },
+    "title": "《2026春季限定美妆上市×舒适：必买清单》",
+    "platform": "视频号",
+    "angle": "场景展示",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适牙刷",
+    "engagement_estimate": "30213+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "家居_202603290049",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "products": [
+        "舒适牙刷",
+        "舒适牙膏",
+        "舒适漱口水"
+      ],
+      "priority": 3
+    },
+    "title": "《智能门锁安全成焦点×舒适：避坑攻略》",
+    "platform": "B站",
+    "angle": "情感故事",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "舒适漱口水",
+    "engagement_estimate": "26713+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290050",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "products": [
+        "希宝猫粮",
+        "希宝猫罐头",
+        "希宝猫零食"
+      ],
+      "priority": 4
+    },
+    "title": "《2026春季限定美妆上市×希宝：避坑攻略》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "希宝猫零食",
+    "engagement_estimate": "12860+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290051",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "products": [
+        "希宝猫粮",
+        "希宝猫罐头",
+        "希宝猫零食"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×希宝：终极指南》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝猫零食",
+    "engagement_estimate": "13190+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290052",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "products": [
+        "希宝猫粮",
+        "希宝猫罐头",
+        "希宝猫零食"
+      ],
+      "priority": 4
+    },
+    "title": "《智能门锁安全成焦点×希宝：真实测评》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "希宝猫罐头",
+    "engagement_estimate": "25715+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290053",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "products": [
+        "希宝猫粮",
+        "希宝猫罐头",
+        "希宝猫零食"
+      ],
+      "priority": 4
+    },
+    "title": "《2026春季限定美妆上市×希宝：避坑攻略》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "希宝猫罐头",
+    "engagement_estimate": "35608+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290054",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "products": [
+        "希宝猫粮",
+        "希宝猫罐头",
+        "希宝猫零食"
+      ],
+      "priority": 4
+    },
+    "title": "《DeepSeek开源新模型发布×希宝：真实测评》",
+    "platform": "小红书",
+    "angle": "情感故事",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝猫粮",
+    "engagement_estimate": "14002+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290055",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家处方粮"
+      ],
+      "priority": 4
+    },
+    "title": "《DeepSeek开源新模型发布×皇家：避坑攻略》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家处方粮",
+    "engagement_estimate": "31132+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290056",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家处方粮"
+      ],
+      "priority": 4
+    },
+    "title": "《DeepSeek开源新模型发布×皇家：终极指南》",
+    "platform": "微博",
+    "angle": "种草推荐",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家狗粮",
+    "engagement_estimate": "29354+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290057",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家处方粮"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×皇家：必买清单》",
+    "platform": "B站",
+    "angle": "情感故事",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家猫粮",
+    "engagement_estimate": "18410+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290058",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家处方粮"
+      ],
+      "priority": 4
+    },
+    "title": "《智能门锁安全成焦点×皇家：终极指南》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "皇家狗粮",
+    "engagement_estimate": "11935+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "宠物_202603290059",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家处方粮"
+      ],
+      "priority": 4
+    },
+    "title": "《周末露营热潮来袭×皇家：必买清单》",
+    "platform": "B站",
+    "angle": "热点借势",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "皇家猫粮",
+    "engagement_estimate": "27318+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "食品_202603290060",
+    "client": {
+      "industry": "食品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY咖啡大师",
+        "OATLY雪糕"
+      ],
+      "priority": 4
+    },
+    "title": "《2026春季限定美妆上市×OATLY：终极指南》",
+    "platform": "小红书",
+    "angle": "种草推荐",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "OATLY雪糕",
+    "engagement_estimate": "48749+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "食品_202603290061",
+    "client": {
+      "industry": "食品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY咖啡大师",
+        "OATLY雪糕"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×OATLY：必买清单》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY雪糕",
+    "engagement_estimate": "22135+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "食品_202603290062",
+    "client": {
+      "industry": "食品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY咖啡大师",
+        "OATLY雪糕"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×OATLY：宝藏推荐》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY咖啡大师",
+    "engagement_estimate": "38235+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "食品_202603290063",
+    "client": {
+      "industry": "食品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY咖啡大师",
+        "OATLY雪糕"
+      ],
+      "priority": 4
+    },
+    "title": "《DeepSeek开源新模型发布×OATLY：真实测评》",
+    "platform": "小红书",
+    "angle": "情感故事",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY咖啡大师",
+    "engagement_estimate": "40651+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "酒水_202603290064",
+    "client": {
+      "industry": "酒水",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威金尊",
+        "百威淡啤"
+      ],
+      "priority": 3
+    },
+    "title": "《智能门锁安全成焦点×百威：宝藏推荐》",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "百威金尊",
+    "engagement_estimate": "5599+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "酒水_202603290065",
+    "client": {
+      "industry": "酒水",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威金尊",
+        "百威淡啤"
+      ],
+      "priority": 3
+    },
+    "title": "《2026春季限定美妆上市×百威：宝藏推荐》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "百威啤酒",
+    "engagement_estimate": "40861+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "酒水_202603290066",
+    "client": {
+      "industry": "酒水",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威金尊",
+        "百威淡啤"
+      ],
+      "priority": 3
+    },
+    "title": "《周末露营热潮来袭×百威：避坑攻略》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "百威啤酒",
+    "engagement_estimate": "22626+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "饮料_202603290067",
+    "client": {
+      "industry": "饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水",
+        "元气森林外星人",
+        "元气森林燃茶"
+      ],
+      "priority": 5
+    },
+    "title": "《DeepSeek开源新模型发布×元气森林：终极指南》",
+    "platform": "抖音",
+    "angle": "场景展示",
+    "hot_topic": "DeepSeek开源新模型发布",
+    "heat": "5200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "28834+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "饮料_202603290068",
+    "client": {
+      "industry": "饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水",
+        "元气森林外星人",
+        "元气森林燃茶"
+      ],
+      "priority": 5
+    },
+    "title": "《周末露营热潮来袭×元气森林：真实测评》",
+    "platform": "B站",
+    "angle": "情感故事",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "元气森林外星人",
+    "engagement_estimate": "18138+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "饮料_202603290069",
+    "client": {
+      "industry": "饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水",
+        "元气森林外星人",
+        "元气森林燃茶"
+      ],
+      "priority": 5
+    },
+    "title": "《智能门锁安全成焦点×元气森林：避坑攻略》",
+    "platform": "B站",
+    "angle": "种草推荐",
+    "hot_topic": "智能门锁安全成焦点",
+    "heat": "720万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "元气森林燃茶",
+    "engagement_estimate": "44825+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "饮料_202603290070",
+    "client": {
+      "industry": "饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉NFC",
+        "农夫山泉茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《周末露营热潮来袭×农夫山泉：避坑攻略》",
+    "platform": "B站",
+    "angle": "情感故事",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "农夫山泉茶π",
+    "engagement_estimate": "29997+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "饮料_202603290071",
+    "client": {
+      "industry": "饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉NFC",
+        "农夫山泉茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×农夫山泉：真实测评》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "7221+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "饮料_202603290072",
+    "client": {
+      "industry": "饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉NFC",
+        "农夫山泉茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《2026春季限定美妆上市×农夫山泉：终极指南》",
+    "platform": "视频号",
+    "angle": "种草推荐",
+    "hot_topic": "2026春季限定美妆上市",
+    "heat": "2800万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "农夫山泉茶π",
+    "engagement_estimate": "31860+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "饮料_202603290073",
+    "client": {
+      "industry": "饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉NFC",
+        "农夫山泉茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《即食燕窝成新消费热点×农夫山泉：必买清单》",
+    "platform": "B站",
+    "angle": "场景展示",
+    "hot_topic": "即食燕窝成新消费热点",
+    "heat": "960万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "25140+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
+  },
+  {
+    "id": "饮料_202603290074",
+    "client": {
+      "industry": "饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉NFC",
+        "农夫山泉茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《周末露营热潮来袭×农夫山泉：宝藏推荐》",
+    "platform": "小红书",
+    "angle": "场景展示",
+    "hot_topic": "周末露营热潮来袭",
+    "heat": "1850万",
+    "trend": "🔥🔥 持续上升",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "40822+",
+    "status": "pending",
+    "created_at": "2026-03-28T22:46:00.000000"
   }
 ]
