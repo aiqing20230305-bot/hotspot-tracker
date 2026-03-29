@@ -33538,5 +33538,7355 @@
     "engagement_estimate": "25038+",
     "status": "pending",
     "created_at": "2026-03-29T13:39:11.572622"
+  },
+  {
+    "id": "美妆_202603291339480001",
+    "client": {
+      "industry": "美妆",
+      "brand": "Colorkey",
+      "products": [
+        "Colorkey空气唇釉"
+      ],
+      "priority": 5
+    },
+    "title": "《ColorkeyColorkey空气唇釉遇上平价替代测评》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "平价替代测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Colorkey空气唇釉",
+    "engagement_estimate": "36491+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858724"
+  },
+  {
+    "id": "美妆_202603291339480002",
+    "client": {
+      "industry": "美妆",
+      "brand": "Colorkey",
+      "products": [
+        "Colorkey眉笔"
+      ],
+      "priority": 4
+    },
+    "title": "《ColorkeyColorkey眉笔遇上刷酸正确姿势》",
+    "platform": "小红书",
+    "angle": "专家解读",
+    "hot_topic": "刷酸正确姿势",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Colorkey眉笔",
+    "engagement_estimate": "31313+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858751"
+  },
+  {
+    "id": "美妆_202603291339480003",
+    "client": {
+      "industry": "美妆",
+      "brand": "Colorkey",
+      "products": [
+        "Colorkey气垫"
+      ],
+      "priority": 5
+    },
+    "title": "《ColorkeyColorkey气垫遇上刷酸正确姿势》",
+    "platform": "微博",
+    "angle": "限时优惠",
+    "hot_topic": "刷酸正确姿势",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "Colorkey气垫",
+    "engagement_estimate": "30285+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858764"
+  },
+  {
+    "id": "美妆_202603291339480004",
+    "client": {
+      "industry": "美妆",
+      "brand": "逐本",
+      "products": [
+        "逐本卸妆油"
+      ],
+      "priority": 3
+    },
+    "title": "《逐本卸妆油与眼霜使用手法的碰撞》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "眼霜使用手法",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "逐本卸妆油",
+    "engagement_estimate": "34669+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858775"
+  },
+  {
+    "id": "美妆_202603291339480005",
+    "client": {
+      "industry": "美妆",
+      "brand": "润百颜",
+      "products": [
+        "润百颜面霜"
+      ],
+      "priority": 3
+    },
+    "title": "《润百颜润百颜面霜遇上防晒霜涂抹技巧》",
+    "platform": "抖音",
+    "angle": "对比测评",
+    "hot_topic": "防晒霜涂抹技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "润百颜面霜",
+    "engagement_estimate": "49190+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858784"
+  },
+  {
+    "id": "美妆_202603291339480006",
+    "client": {
+      "industry": "美妆",
+      "brand": "谷雨",
+      "products": [
+        "谷雨光甘草水乳"
+      ],
+      "priority": 4
+    },
+    "title": "《谷雨光甘草水乳借势妆前乳怎么选：痛点解决内容创作》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "妆前乳怎么选",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "谷雨光甘草水乳",
+    "engagement_estimate": "48882+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858793"
+  },
+  {
+    "id": "美妆_202603291339480007",
+    "client": {
+      "industry": "美妆",
+      "brand": "unny",
+      "products": [
+        "unny睫毛膏"
+      ],
+      "priority": 5
+    },
+    "title": "《unny睫毛膏借势定妆喷雾测评：故事叙述内容创作》",
+    "platform": "知乎",
+    "angle": "故事叙述",
+    "hot_topic": "定妆喷雾测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "unny睫毛膏",
+    "engagement_estimate": "38662+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858802"
+  },
+  {
+    "id": "美妆_202603291339480008",
+    "client": {
+      "industry": "美妆",
+      "brand": "unny",
+      "products": [
+        "unny遮瑕液"
+      ],
+      "priority": 5
+    },
+    "title": "《unny遮瑕液与平价替代测评的碰撞》",
+    "platform": "小红书",
+    "angle": "对比测评",
+    "hot_topic": "平价替代测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "unny遮瑕液",
+    "engagement_estimate": "25141+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858811"
+  },
+  {
+    "id": "美妆_202603291339480009",
+    "client": {
+      "industry": "美妆",
+      "brand": "滋色",
+      "products": [
+        "滋色定妆喷雾"
+      ],
+      "priority": 3
+    },
+    "title": "《滋色定妆喷雾借势春季保湿攻略：限时优惠内容创作》",
+    "platform": "微信视频号",
+    "angle": "限时优惠",
+    "hot_topic": "春季保湿攻略",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "滋色定妆喷雾",
+    "engagement_estimate": "21399+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858820"
+  },
+  {
+    "id": "美妆_202603291339480010",
+    "client": {
+      "industry": "美妆",
+      "brand": "可复美",
+      "products": [
+        "可复美敷料"
+      ],
+      "priority": 5
+    },
+    "title": "《可复美敷料借势刷酸正确姿势：故事叙述内容创作》",
+    "platform": "B站",
+    "angle": "故事叙述",
+    "hot_topic": "刷酸正确姿势",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "可复美敷料",
+    "engagement_estimate": "44913+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858829"
+  },
+  {
+    "id": "美妆_202603291339480011",
+    "client": {
+      "industry": "美妆",
+      "brand": "HBN",
+      "products": [
+        "HBN视黄醇精华"
+      ],
+      "priority": 5
+    },
+    "title": "《HBN视黄醇精华与素颜霜使用技巧的碰撞》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "素颜霜使用技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "HBN视黄醇精华",
+    "engagement_estimate": "39874+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858838"
+  },
+  {
+    "id": "美妆_202603291339480012",
+    "client": {
+      "industry": "美妆",
+      "brand": "谷雨",
+      "products": [
+        "谷雨光甘草水乳"
+      ],
+      "priority": 3
+    },
+    "title": "《谷雨光甘草水乳借势刷酸正确姿势：痛点解决内容创作》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "刷酸正确姿势",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "谷雨光甘草水乳",
+    "engagement_estimate": "30551+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858847"
+  },
+  {
+    "id": "美妆_202603291339480013",
+    "client": {
+      "industry": "美妆",
+      "brand": "逐本",
+      "products": [
+        "逐本芳香水"
+      ],
+      "priority": 5
+    },
+    "title": "《逐本芳香水与面膜使用频率的碰撞》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "面膜使用频率",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "逐本芳香水",
+    "engagement_estimate": "19730+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858856"
+  },
+  {
+    "id": "美妆_202603291339480014",
+    "client": {
+      "industry": "美妆",
+      "brand": "滋色",
+      "products": [
+        "滋色粉底液"
+      ],
+      "priority": 5
+    },
+    "title": "《滋色粉底液借势妆前乳怎么选：实用科普内容创作》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "妆前乳怎么选",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "滋色粉底液",
+    "engagement_estimate": "23271+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858864"
+  },
+  {
+    "id": "美妆_202603291339480015",
+    "client": {
+      "industry": "美妆",
+      "brand": "unny",
+      "products": [
+        "unny卸妆水"
+      ],
+      "priority": 5
+    },
+    "title": "《unny卸妆水与卸妆产品红黑榜的碰撞》",
+    "platform": "微博",
+    "angle": "好物推荐",
+    "hot_topic": "卸妆产品红黑榜",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "unny卸妆水",
+    "engagement_estimate": "30546+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858873"
+  },
+  {
+    "id": "美妆_202603291339480016",
+    "client": {
+      "industry": "美妆",
+      "brand": "Colorkey",
+      "products": [
+        "Colorkey空气唇釉"
+      ],
+      "priority": 4
+    },
+    "title": "《Colorkey空气唇釉与妆前乳怎么选的碰撞》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "妆前乳怎么选",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Colorkey空气唇釉",
+    "engagement_estimate": "26274+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858881"
+  },
+  {
+    "id": "美妆_202603291339480017",
+    "client": {
+      "industry": "美妆",
+      "brand": "润百颜",
+      "products": [
+        "润百颜面霜"
+      ],
+      "priority": 3
+    },
+    "title": "《润百颜面霜与防晒霜涂抹技巧的碰撞》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "防晒霜涂抹技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "润百颜面霜",
+    "engagement_estimate": "25795+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858890"
+  },
+  {
+    "id": "美妆_202603291339480018",
+    "client": {
+      "industry": "美妆",
+      "brand": "润百颜",
+      "products": [
+        "润百颜喷雾"
+      ],
+      "priority": 3
+    },
+    "title": "《润百颜喷雾借势刷酸正确姿势：对比测评内容创作》",
+    "platform": "抖音",
+    "angle": "对比测评",
+    "hot_topic": "刷酸正确姿势",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "润百颜喷雾",
+    "engagement_estimate": "20715+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858898"
+  },
+  {
+    "id": "美妆_202603291339480019",
+    "client": {
+      "industry": "美妆",
+      "brand": "谷雨",
+      "products": [
+        "谷雨光甘草水乳"
+      ],
+      "priority": 3
+    },
+    "title": "《谷雨谷雨光甘草水乳遇上妆前乳怎么选》",
+    "platform": "抖音",
+    "angle": "好物推荐",
+    "hot_topic": "妆前乳怎么选",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "谷雨光甘草水乳",
+    "engagement_estimate": "19855+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858906"
+  },
+  {
+    "id": "美妆_202603291339480020",
+    "client": {
+      "industry": "美妆",
+      "brand": "可复美",
+      "products": [
+        "可复美敷料"
+      ],
+      "priority": 3
+    },
+    "title": "《可复美敷料与定妆喷雾测评的碰撞》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "定妆喷雾测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "可复美敷料",
+    "engagement_estimate": "22934+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858914"
+  },
+  {
+    "id": "美妆_202603291339480021",
+    "client": {
+      "industry": "美妆",
+      "brand": "滋色",
+      "products": [
+        "滋色定妆喷雾"
+      ],
+      "priority": 4
+    },
+    "title": "《滋色定妆喷雾借势平价替代测评：热点追踪内容创作》",
+    "platform": "微博",
+    "angle": "热点追踪",
+    "hot_topic": "平价替代测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "滋色定妆喷雾",
+    "engagement_estimate": "16520+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858923"
+  },
+  {
+    "id": "美妆_202603291339480022",
+    "client": {
+      "industry": "美妆",
+      "brand": "Colorkey",
+      "products": [
+        "Colorkey气垫"
+      ],
+      "priority": 4
+    },
+    "title": "《Colorkey气垫与面膜使用频率的碰撞》",
+    "platform": "微博",
+    "angle": "热点追踪",
+    "hot_topic": "面膜使用频率",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Colorkey气垫",
+    "engagement_estimate": "15614+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858932"
+  },
+  {
+    "id": "美妆_202603291339480023",
+    "client": {
+      "industry": "美妆",
+      "brand": "滋色",
+      "products": [
+        "滋色粉底液"
+      ],
+      "priority": 5
+    },
+    "title": "《滋色滋色粉底液遇上素颜霜使用技巧》",
+    "platform": "微信视频号",
+    "angle": "痛点解决",
+    "hot_topic": "素颜霜使用技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "滋色粉底液",
+    "engagement_estimate": "28814+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858941"
+  },
+  {
+    "id": "美妆_202603291339480024",
+    "client": {
+      "industry": "美妆",
+      "brand": "润百颜",
+      "products": [
+        "润百颜次抛精华"
+      ],
+      "priority": 3
+    },
+    "title": "《润百颜次抛精华借势早春护肤routine：实用科普内容创作》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "早春护肤routine",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "润百颜次抛精华",
+    "engagement_estimate": "40315+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858949"
+  },
+  {
+    "id": "美妆_202603291339480025",
+    "client": {
+      "industry": "美妆",
+      "brand": "unny",
+      "products": [
+        "unny遮瑕液"
+      ],
+      "priority": 3
+    },
+    "title": "《unnyunny遮瑕液遇上素颜霜使用技巧》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "素颜霜使用技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "unny遮瑕液",
+    "engagement_estimate": "47088+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858958"
+  },
+  {
+    "id": "美妆_202603291339480026",
+    "client": {
+      "industry": "美妆",
+      "brand": "逐本",
+      "products": [
+        "逐本芳香水"
+      ],
+      "priority": 4
+    },
+    "title": "《逐本逐本芳香水遇上妆前乳怎么选》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "妆前乳怎么选",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "逐本芳香水",
+    "engagement_estimate": "17639+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858966"
+  },
+  {
+    "id": "美妆_202603291339480027",
+    "client": {
+      "industry": "美妆",
+      "brand": "谷雨",
+      "products": [
+        "谷雨美白霜"
+      ],
+      "priority": 3
+    },
+    "title": "《谷雨美白霜借势精华叠加禁忌：趋势解读内容创作》",
+    "platform": "小红书",
+    "angle": "趋势解读",
+    "hot_topic": "精华叠加禁忌",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "谷雨美白霜",
+    "engagement_estimate": "17160+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858975"
+  },
+  {
+    "id": "美妆_202603291339480028",
+    "client": {
+      "industry": "美妆",
+      "brand": "逐本",
+      "products": [
+        "逐本芳香水"
+      ],
+      "priority": 3
+    },
+    "title": "《逐本逐本芳香水遇上面膜使用频率》",
+    "platform": "知乎",
+    "angle": "实用科普",
+    "hot_topic": "面膜使用频率",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "逐本芳香水",
+    "engagement_estimate": "21751+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858983"
+  },
+  {
+    "id": "美妆_202603291339480029",
+    "client": {
+      "industry": "美妆",
+      "brand": "unny",
+      "products": [
+        "unny遮瑕液"
+      ],
+      "priority": 5
+    },
+    "title": "《unnyunny遮瑕液遇上面膜使用频率》",
+    "platform": "微信视频号",
+    "angle": "好物推荐",
+    "hot_topic": "面膜使用频率",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "unny遮瑕液",
+    "engagement_estimate": "21322+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.858992"
+  },
+  {
+    "id": "美妆_202603291339480030",
+    "client": {
+      "industry": "美妆",
+      "brand": "逐本",
+      "products": [
+        "逐本精华油"
+      ],
+      "priority": 3
+    },
+    "title": "《逐本精华油借势精华叠加禁忌：热点追踪内容创作》",
+    "platform": "微博",
+    "angle": "热点追踪",
+    "hot_topic": "精华叠加禁忌",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "逐本精华油",
+    "engagement_estimate": "31445+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859000"
+  },
+  {
+    "id": "美妆_202603291339480031",
+    "client": {
+      "industry": "美妆",
+      "brand": "滋色",
+      "products": [
+        "滋色隔离霜"
+      ],
+      "priority": 5
+    },
+    "title": "《滋色滋色隔离霜遇上妆前乳怎么选》",
+    "platform": "知乎",
+    "angle": "好物推荐",
+    "hot_topic": "妆前乳怎么选",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "滋色隔离霜",
+    "engagement_estimate": "26006+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859008"
+  },
+  {
+    "id": "美妆_202603291339480032",
+    "client": {
+      "industry": "美妆",
+      "brand": "unny",
+      "products": [
+        "unny卸妆水"
+      ],
+      "priority": 4
+    },
+    "title": "《unny卸妆水与面膜使用频率的碰撞》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "面膜使用频率",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "unny卸妆水",
+    "engagement_estimate": "23582+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859016"
+  },
+  {
+    "id": "美妆_202603291339480033",
+    "client": {
+      "industry": "美妆",
+      "brand": "滋色",
+      "products": [
+        "滋色定妆喷雾"
+      ],
+      "priority": 5
+    },
+    "title": "《滋色定妆喷雾借势素颜霜使用技巧：好物推荐内容创作》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "素颜霜使用技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "滋色定妆喷雾",
+    "engagement_estimate": "47049+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859030"
+  },
+  {
+    "id": "美妆_202603291339480034",
+    "client": {
+      "industry": "美妆",
+      "brand": "谷雨",
+      "products": [
+        "谷雨奶皮面膜"
+      ],
+      "priority": 5
+    },
+    "title": "《谷雨谷雨奶皮面膜遇上早春护肤routine》",
+    "platform": "抖音",
+    "angle": "热点追踪",
+    "hot_topic": "早春护肤routine",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "谷雨奶皮面膜",
+    "engagement_estimate": "21346+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859039"
+  },
+  {
+    "id": "美妆_202603291339480035",
+    "client": {
+      "industry": "美妆",
+      "brand": "润百颜",
+      "products": [
+        "润百颜面霜"
+      ],
+      "priority": 5
+    },
+    "title": "《润百颜面霜借势面膜使用频率：对比测评内容创作》",
+    "platform": "抖音",
+    "angle": "对比测评",
+    "hot_topic": "面膜使用频率",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "润百颜面霜",
+    "engagement_estimate": "20088+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859047"
+  },
+  {
+    "id": "美妆_202603291339480036",
+    "client": {
+      "industry": "美妆",
+      "brand": "HBN",
+      "products": [
+        "HBN面霜"
+      ],
+      "priority": 4
+    },
+    "title": "《HBNHBN面霜遇上眼霜使用手法》",
+    "platform": "小红书",
+    "angle": "对比测评",
+    "hot_topic": "眼霜使用手法",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "HBN面霜",
+    "engagement_estimate": "23542+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859056"
+  },
+  {
+    "id": "美妆_202603291339480037",
+    "client": {
+      "industry": "美妆",
+      "brand": "HBN",
+      "products": [
+        "HBN发光水"
+      ],
+      "priority": 3
+    },
+    "title": "《HBNHBN发光水遇上定妆喷雾测评》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "定妆喷雾测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "HBN发光水",
+    "engagement_estimate": "17031+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859066"
+  },
+  {
+    "id": "美妆_202603291339480038",
+    "client": {
+      "industry": "美妆",
+      "brand": "可复美",
+      "products": [
+        "可复美水乳"
+      ],
+      "priority": 5
+    },
+    "title": "《可复美水乳借势素颜霜使用技巧：专家解读内容创作》",
+    "platform": "微信视频号",
+    "angle": "专家解读",
+    "hot_topic": "素颜霜使用技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "可复美水乳",
+    "engagement_estimate": "36113+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859075"
+  },
+  {
+    "id": "美妆_202603291339480039",
+    "client": {
+      "industry": "美妆",
+      "brand": "HBN",
+      "products": [
+        "HBN视黄醇精华"
+      ],
+      "priority": 4
+    },
+    "title": "《HBN视黄醇精华与面膜使用频率的碰撞》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "面膜使用频率",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "HBN视黄醇精华",
+    "engagement_estimate": "34597+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859084"
+  },
+  {
+    "id": "美妆_202603291339480040",
+    "client": {
+      "industry": "美妆",
+      "brand": "滋色",
+      "products": [
+        "滋色定妆喷雾"
+      ],
+      "priority": 3
+    },
+    "title": "《滋色定妆喷雾借势面膜使用频率：实用科普内容创作》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "面膜使用频率",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "滋色定妆喷雾",
+    "engagement_estimate": "34787+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859093"
+  },
+  {
+    "id": "服饰_202603291339480001",
+    "client": {
+      "industry": "服饰",
+      "brand": "鸿星尔克",
+      "products": [
+        "鸿星尔克跑鞋"
+      ],
+      "priority": 5
+    },
+    "title": "《鸿星尔克跑鞋借势运动休闲风：对比测评内容创作》",
+    "platform": "抖音",
+    "angle": "对比测评",
+    "hot_topic": "运动休闲风",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "鸿星尔克跑鞋",
+    "engagement_estimate": "24564+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859103"
+  },
+  {
+    "id": "服饰_202603291339480002",
+    "client": {
+      "industry": "服饰",
+      "brand": "鸿星尔克",
+      "products": [
+        "鸿星尔克运动服"
+      ],
+      "priority": 3
+    },
+    "title": "《鸿星尔克运动服与春季外套推荐的碰撞》",
+    "platform": "微信视频号",
+    "angle": "好物推荐",
+    "hot_topic": "春季外套推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "鸿星尔克运动服",
+    "engagement_estimate": "28006+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859112"
+  },
+  {
+    "id": "服饰_202603291339480003",
+    "client": {
+      "industry": "服饰",
+      "brand": "太平鸟",
+      "products": [
+        "太平鸟牛仔裤"
+      ],
+      "priority": 4
+    },
+    "title": "《太平鸟牛仔裤与配饰点睛之笔的碰撞》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "配饰点睛之笔",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "太平鸟牛仔裤",
+    "engagement_estimate": "47218+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859120"
+  },
+  {
+    "id": "服饰_202603291339480004",
+    "client": {
+      "industry": "服饰",
+      "brand": "Zara",
+      "products": [
+        "Zara女士连衣裙"
+      ],
+      "priority": 5
+    },
+    "title": "《Zara女士连衣裙借势情侣装搭配：情感共鸣内容创作》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "情侣装搭配",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "Zara女士连衣裙",
+    "engagement_estimate": "33681+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859129"
+  },
+  {
+    "id": "服饰_202603291339480005",
+    "client": {
+      "industry": "服饰",
+      "brand": "Gap",
+      "products": [
+        "Gap牛仔系列"
+      ],
+      "priority": 3
+    },
+    "title": "《GapGap牛仔系列遇上情侣装搭配》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "情侣装搭配",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Gap牛仔系列",
+    "engagement_estimate": "28967+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859138"
+  },
+  {
+    "id": "服饰_202603291339480006",
+    "client": {
+      "industry": "服饰",
+      "brand": "特步",
+      "products": [
+        "特步跑步裤"
+      ],
+      "priority": 5
+    },
+    "title": "《特步跑步裤借势小众品牌发现：实用科普内容创作》",
+    "platform": "知乎",
+    "angle": "实用科普",
+    "hot_topic": "小众品牌发现",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "特步跑步裤",
+    "engagement_estimate": "46642+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859147"
+  },
+  {
+    "id": "服饰_202603291339480007",
+    "client": {
+      "industry": "服饰",
+      "brand": "特步",
+      "products": [
+        "特步运动鞋"
+      ],
+      "priority": 3
+    },
+    "title": "《特步运动鞋借势微胖女生显瘦：好物推荐内容创作》",
+    "platform": "微信视频号",
+    "angle": "好物推荐",
+    "hot_topic": "微胖女生显瘦",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "特步运动鞋",
+    "engagement_estimate": "37088+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859155"
+  },
+  {
+    "id": "服饰_202603291339480008",
+    "client": {
+      "industry": "服饰",
+      "brand": "鸿星尔克",
+      "products": [
+        "鸿星尔克运动服"
+      ],
+      "priority": 3
+    },
+    "title": "《鸿星尔克运动服与运动休闲风的碰撞》",
+    "platform": "知乎",
+    "angle": "情感共鸣",
+    "hot_topic": "运动休闲风",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "鸿星尔克运动服",
+    "engagement_estimate": "27066+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859170"
+  },
+  {
+    "id": "服饰_202603291339480009",
+    "client": {
+      "industry": "服饰",
+      "brand": "Zara",
+      "products": [
+        "Zara男士西装"
+      ],
+      "priority": 5
+    },
+    "title": "《Zara男士西装与情侣装搭配的碰撞》",
+    "platform": "小红书",
+    "angle": "限时优惠",
+    "hot_topic": "情侣装搭配",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Zara男士西装",
+    "engagement_estimate": "38424+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859179"
+  },
+  {
+    "id": "服饰_202603291339480010",
+    "client": {
+      "industry": "服饰",
+      "brand": "特步",
+      "products": [
+        "特步运动T恤"
+      ],
+      "priority": 3
+    },
+    "title": "《特步运动T恤与春季外套推荐的碰撞》",
+    "platform": "知乎",
+    "angle": "限时优惠",
+    "hot_topic": "春季外套推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "特步运动T恤",
+    "engagement_estimate": "16733+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859188"
+  },
+  {
+    "id": "服饰_202603291339480011",
+    "client": {
+      "industry": "服饰",
+      "brand": "Zara",
+      "products": [
+        "Zara女士连衣裙"
+      ],
+      "priority": 4
+    },
+    "title": "《ZaraZara女士连衣裙遇上包包搭配法则》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "包包搭配法则",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Zara女士连衣裙",
+    "engagement_estimate": "27944+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859196"
+  },
+  {
+    "id": "服饰_202603291339480012",
+    "client": {
+      "industry": "服饰",
+      "brand": "鸿星尔克",
+      "products": [
+        "鸿星尔克篮球鞋"
+      ],
+      "priority": 4
+    },
+    "title": "《鸿星尔克鸿星尔克篮球鞋遇上职场穿搭指南》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "职场穿搭指南",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "鸿星尔克篮球鞋",
+    "engagement_estimate": "41280+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859205"
+  },
+  {
+    "id": "服饰_202603291339480013",
+    "client": {
+      "industry": "服饰",
+      "brand": "Gap",
+      "products": [
+        "Gap连帽衫"
+      ],
+      "priority": 3
+    },
+    "title": "《Gap连帽衫与包包搭配法则的碰撞》",
+    "platform": "知乎",
+    "angle": "实用科普",
+    "hot_topic": "包包搭配法则",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Gap连帽衫",
+    "engagement_estimate": "44913+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859214"
+  },
+  {
+    "id": "服饰_202603291339480014",
+    "client": {
+      "industry": "服饰",
+      "brand": "太平鸟",
+      "products": [
+        "太平鸟外套"
+      ],
+      "priority": 5
+    },
+    "title": "《太平鸟太平鸟外套遇上配色穿搭技巧》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "配色穿搭技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "太平鸟外套",
+    "engagement_estimate": "17832+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859222"
+  },
+  {
+    "id": "服饰_202603291339480015",
+    "client": {
+      "industry": "服饰",
+      "brand": "GXG",
+      "products": [
+        "GXG夹克"
+      ],
+      "priority": 3
+    },
+    "title": "《GXG夹克与帽子搭配技巧的碰撞》",
+    "platform": "知乎",
+    "angle": "热点追踪",
+    "hot_topic": "帽子搭配技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "GXG夹克",
+    "engagement_estimate": "29401+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859231"
+  },
+  {
+    "id": "服饰_202603291339480016",
+    "client": {
+      "industry": "服饰",
+      "brand": "GXG",
+      "products": [
+        "GXG卫衣"
+      ],
+      "priority": 3
+    },
+    "title": "《GXGGXG卫衣遇上职场穿搭指南》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "职场穿搭指南",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "GXG卫衣",
+    "engagement_estimate": "48337+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859239"
+  },
+  {
+    "id": "服饰_202603291339480017",
+    "client": {
+      "industry": "服饰",
+      "brand": "Gap",
+      "products": [
+        "Gap牛仔系列"
+      ],
+      "priority": 3
+    },
+    "title": "《GapGap牛仔系列遇上学生党穿搭》",
+    "platform": "知乎",
+    "angle": "好物推荐",
+    "hot_topic": "学生党穿搭",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Gap牛仔系列",
+    "engagement_estimate": "39299+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859248"
+  },
+  {
+    "id": "服饰_202603291339480018",
+    "client": {
+      "industry": "服饰",
+      "brand": "回力",
+      "products": [
+        "回力板鞋"
+      ],
+      "priority": 5
+    },
+    "title": "《回力回力板鞋遇上情侣装搭配》",
+    "platform": "知乎",
+    "angle": "情感共鸣",
+    "hot_topic": "情侣装搭配",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "回力板鞋",
+    "engagement_estimate": "39450+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859256"
+  },
+  {
+    "id": "服饰_202603291339480019",
+    "client": {
+      "industry": "服饰",
+      "brand": "Gap",
+      "products": [
+        "Gap连帽衫"
+      ],
+      "priority": 3
+    },
+    "title": "《Gap连帽衫借势包包搭配法则：好物推荐内容创作》",
+    "platform": "知乎",
+    "angle": "好物推荐",
+    "hot_topic": "包包搭配法则",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "Gap连帽衫",
+    "engagement_estimate": "34649+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859265"
+  },
+  {
+    "id": "服饰_202603291339480020",
+    "client": {
+      "industry": "服饰",
+      "brand": "特步",
+      "products": [
+        "特步运动鞋"
+      ],
+      "priority": 3
+    },
+    "title": "《特步运动鞋与职场穿搭指南的碰撞》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "职场穿搭指南",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "特步运动鞋",
+    "engagement_estimate": "24051+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859278"
+  },
+  {
+    "id": "服饰_202603291339480021",
+    "client": {
+      "industry": "服饰",
+      "brand": "Gap",
+      "products": [
+        "Gap连帽衫"
+      ],
+      "priority": 5
+    },
+    "title": "《Gap连帽衫与情侣装搭配的碰撞》",
+    "platform": "微信视频号",
+    "angle": "专家解读",
+    "hot_topic": "情侣装搭配",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Gap连帽衫",
+    "engagement_estimate": "32817+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859286"
+  },
+  {
+    "id": "服饰_202603291339480022",
+    "client": {
+      "industry": "服饰",
+      "brand": "鸿星尔克",
+      "products": [
+        "鸿星尔克跑鞋"
+      ],
+      "priority": 3
+    },
+    "title": "《鸿星尔克跑鞋借势配色穿搭技巧：情感共鸣内容创作》",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "配色穿搭技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "鸿星尔克跑鞋",
+    "engagement_estimate": "41028+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859295"
+  },
+  {
+    "id": "服饰_202603291339480023",
+    "client": {
+      "industry": "服饰",
+      "brand": "太平鸟",
+      "products": [
+        "太平鸟外套"
+      ],
+      "priority": 5
+    },
+    "title": "《太平鸟外套与职场穿搭指南的碰撞》",
+    "platform": "微博",
+    "angle": "热点追踪",
+    "hot_topic": "职场穿搭指南",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "太平鸟外套",
+    "engagement_estimate": "39131+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859303"
+  },
+  {
+    "id": "服饰_202603291339480024",
+    "client": {
+      "industry": "服饰",
+      "brand": "特步",
+      "products": [
+        "特步运动T恤"
+      ],
+      "priority": 3
+    },
+    "title": "《特步运动T恤借势微胖女生显瘦：实用科普内容创作》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "微胖女生显瘦",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "特步运动T恤",
+    "engagement_estimate": "21567+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859311"
+  },
+  {
+    "id": "服饰_202603291339480025",
+    "client": {
+      "industry": "服饰",
+      "brand": "Gap",
+      "products": [
+        "Gap休闲裤"
+      ],
+      "priority": 5
+    },
+    "title": "《Gap休闲裤与帽子搭配技巧的碰撞》",
+    "platform": "小红书",
+    "angle": "对比测评",
+    "hot_topic": "帽子搭配技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Gap休闲裤",
+    "engagement_estimate": "20864+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859320"
+  },
+  {
+    "id": "服饰_202603291339480026",
+    "client": {
+      "industry": "服饰",
+      "brand": "特步",
+      "products": [
+        "特步跑步裤"
+      ],
+      "priority": 3
+    },
+    "title": "《特步跑步裤借势配色穿搭技巧：痛点解决内容创作》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "配色穿搭技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "特步跑步裤",
+    "engagement_estimate": "40775+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859329"
+  },
+  {
+    "id": "服饰_202603291339480027",
+    "client": {
+      "industry": "服饰",
+      "brand": "鸿星尔克",
+      "products": [
+        "鸿星尔克篮球鞋"
+      ],
+      "priority": 5
+    },
+    "title": "《鸿星尔克篮球鞋借势微胖女生显瘦：对比测评内容创作》",
+    "platform": "微信视频号",
+    "angle": "对比测评",
+    "hot_topic": "微胖女生显瘦",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "鸿星尔克篮球鞋",
+    "engagement_estimate": "18315+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859339"
+  },
+  {
+    "id": "服饰_202603291339480028",
+    "client": {
+      "industry": "服饰",
+      "brand": "森马",
+      "products": [
+        "森马T恤"
+      ],
+      "priority": 3
+    },
+    "title": "《森马森马T恤遇上配色穿搭技巧》",
+    "platform": "知乎",
+    "angle": "故事叙述",
+    "hot_topic": "配色穿搭技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "森马T恤",
+    "engagement_estimate": "43737+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859347"
+  },
+  {
+    "id": "服饰_202603291339480029",
+    "client": {
+      "industry": "服饰",
+      "brand": "回力",
+      "products": [
+        "回力老爹鞋"
+      ],
+      "priority": 4
+    },
+    "title": "《回力老爹鞋与配饰点睛之笔的碰撞》",
+    "platform": "B站",
+    "angle": "故事叙述",
+    "hot_topic": "配饰点睛之笔",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "回力老爹鞋",
+    "engagement_estimate": "22665+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859356"
+  },
+  {
+    "id": "服饰_202603291339480030",
+    "client": {
+      "industry": "服饰",
+      "brand": "Gap",
+      "products": [
+        "Gap牛仔系列"
+      ],
+      "priority": 4
+    },
+    "title": "《GapGap牛仔系列遇上配色穿搭技巧》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "配色穿搭技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Gap牛仔系列",
+    "engagement_estimate": "37314+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859364"
+  },
+  {
+    "id": "服饰_202603291339480031",
+    "client": {
+      "industry": "服饰",
+      "brand": "鸿星尔克",
+      "products": [
+        "鸿星尔克跑鞋"
+      ],
+      "priority": 4
+    },
+    "title": "《鸿星尔克跑鞋与帽子搭配技巧的碰撞》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "帽子搭配技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "鸿星尔克跑鞋",
+    "engagement_estimate": "28498+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859372"
+  },
+  {
+    "id": "服饰_202603291339480032",
+    "client": {
+      "industry": "服饰",
+      "brand": "特步",
+      "products": [
+        "特步运动鞋"
+      ],
+      "priority": 3
+    },
+    "title": "《特步特步运动鞋遇上配色穿搭技巧》",
+    "platform": "微博",
+    "angle": "专家解读",
+    "hot_topic": "配色穿搭技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "特步运动鞋",
+    "engagement_estimate": "48725+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859383"
+  },
+  {
+    "id": "服饰_202603291339480033",
+    "client": {
+      "industry": "服饰",
+      "brand": "太平鸟",
+      "products": [
+        "太平鸟外套"
+      ],
+      "priority": 4
+    },
+    "title": "《太平鸟外套与微胖女生显瘦的碰撞》",
+    "platform": "抖音",
+    "angle": "好物推荐",
+    "hot_topic": "微胖女生显瘦",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "太平鸟外套",
+    "engagement_estimate": "30844+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859391"
+  },
+  {
+    "id": "服饰_202603291339480034",
+    "client": {
+      "industry": "服饰",
+      "brand": "鸿星尔克",
+      "products": [
+        "鸿星尔克跑鞋"
+      ],
+      "priority": 4
+    },
+    "title": "《鸿星尔克鸿星尔克跑鞋遇上帽子搭配技巧》",
+    "platform": "微信视频号",
+    "angle": "对比测评",
+    "hot_topic": "帽子搭配技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "鸿星尔克跑鞋",
+    "engagement_estimate": "24992+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859399"
+  },
+  {
+    "id": "服饰_202603291339480035",
+    "client": {
+      "industry": "服饰",
+      "brand": "太平鸟",
+      "products": [
+        "太平鸟外套"
+      ],
+      "priority": 3
+    },
+    "title": "《太平鸟外套借势学生党穿搭：热点追踪内容创作》",
+    "platform": "微信视频号",
+    "angle": "热点追踪",
+    "hot_topic": "学生党穿搭",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "太平鸟外套",
+    "engagement_estimate": "25872+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859408"
+  },
+  {
+    "id": "美食_202603291339480001",
+    "client": {
+      "industry": "美食",
+      "brand": "费列罗",
+      "products": [
+        "费列罗金莎"
+      ],
+      "priority": 3
+    },
+    "title": "《费列罗金莎与童年零食回忆的碰撞》",
+    "platform": "微信视频号",
+    "angle": "实用科普",
+    "hot_topic": "童年零食回忆",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "费列罗金莎",
+    "engagement_estimate": "29133+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859417"
+  },
+  {
+    "id": "美食_202603291339480002",
+    "client": {
+      "industry": "美食",
+      "brand": "每日黑巧",
+      "products": [
+        "每日黑巧瑞士巧克力"
+      ],
+      "priority": 3
+    },
+    "title": "《每日黑巧瑞士巧克力与追剧零食推荐的碰撞》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "追剧零食推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "每日黑巧瑞士巧克力",
+    "engagement_estimate": "36569+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859427"
+  },
+  {
+    "id": "美食_202603291339480003",
+    "client": {
+      "industry": "美食",
+      "brand": "每日黑巧",
+      "products": [
+        "每日黑巧瑞士巧克力"
+      ],
+      "priority": 5
+    },
+    "title": "《每日黑巧每日黑巧瑞士巧克力遇上童年零食回忆》",
+    "platform": "抖音",
+    "angle": "专家解读",
+    "hot_topic": "童年零食回忆",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "每日黑巧瑞士巧克力",
+    "engagement_estimate": "20229+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859437"
+  },
+  {
+    "id": "美食_202603291339480004",
+    "client": {
+      "industry": "美食",
+      "brand": "奥利奥",
+      "products": [
+        "奥利奥威化"
+      ],
+      "priority": 4
+    },
+    "title": "《奥利奥威化与下午茶甜点的碰撞》",
+    "platform": "知乎",
+    "angle": "趋势解读",
+    "hot_topic": "下午茶甜点",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "奥利奥威化",
+    "engagement_estimate": "26773+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859446"
+  },
+  {
+    "id": "美食_202603291339480005",
+    "client": {
+      "industry": "美食",
+      "brand": "周黑鸭",
+      "products": [
+        "周黑鸭鸭翅"
+      ],
+      "priority": 5
+    },
+    "title": "《周黑鸭周黑鸭鸭翅遇上网红零食真实测评》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "网红零食真实测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "周黑鸭鸭翅",
+    "engagement_estimate": "15606+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859455"
+  },
+  {
+    "id": "美食_202603291339480006",
+    "client": {
+      "industry": "美食",
+      "brand": "德芙",
+      "products": [
+        "德芙巧克力"
+      ],
+      "priority": 4
+    },
+    "title": "《德芙巧克力借势年货零食清单：趋势解读内容创作》",
+    "platform": "B站",
+    "angle": "趋势解读",
+    "hot_topic": "年货零食清单",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "德芙巧克力",
+    "engagement_estimate": "42407+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859464"
+  },
+  {
+    "id": "美食_202603291339480007",
+    "client": {
+      "industry": "美食",
+      "brand": "每日黑巧",
+      "products": [
+        "每日黑巧瑞士巧克力"
+      ],
+      "priority": 5
+    },
+    "title": "《每日黑巧瑞士巧克力与减脂零食分享的碰撞》",
+    "platform": "知乎",
+    "angle": "对比测评",
+    "hot_topic": "减脂零食分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "每日黑巧瑞士巧克力",
+    "engagement_estimate": "16846+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859473"
+  },
+  {
+    "id": "美食_202603291339480008",
+    "client": {
+      "industry": "美食",
+      "brand": "旺旺",
+      "products": [
+        "旺旺雪饼"
+      ],
+      "priority": 5
+    },
+    "title": "《旺旺雪饼借势送礼零食礼盒：实用科普内容创作》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "送礼零食礼盒",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "旺旺雪饼",
+    "engagement_estimate": "23107+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859481"
+  },
+  {
+    "id": "美食_202603291339480009",
+    "client": {
+      "industry": "美食",
+      "brand": "每日黑巧",
+      "products": [
+        "每日黑巧瑞士巧克力"
+      ],
+      "priority": 3
+    },
+    "title": "《每日黑巧瑞士巧克力与进口零食推荐的碰撞》",
+    "platform": "微博",
+    "angle": "故事叙述",
+    "hot_topic": "进口零食推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "每日黑巧瑞士巧克力",
+    "engagement_estimate": "35586+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859489"
+  },
+  {
+    "id": "美食_202603291339480010",
+    "client": {
+      "industry": "美食",
+      "brand": "周黑鸭",
+      "products": [
+        "周黑鸭鸭翅"
+      ],
+      "priority": 3
+    },
+    "title": "《周黑鸭鸭翅借势健康零食替代：好物推荐内容创作》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "健康零食替代",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "周黑鸭鸭翅",
+    "engagement_estimate": "15989+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859498"
+  },
+  {
+    "id": "美食_202603291339480011",
+    "client": {
+      "industry": "美食",
+      "brand": "每日黑巧",
+      "products": [
+        "每日黑巧礼盒"
+      ],
+      "priority": 5
+    },
+    "title": "《每日黑巧礼盒借势早餐代餐推荐：故事叙述内容创作》",
+    "platform": "小红书",
+    "angle": "故事叙述",
+    "hot_topic": "早餐代餐推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "每日黑巧礼盒",
+    "engagement_estimate": "43760+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859506"
+  },
+  {
+    "id": "美食_202603291339480012",
+    "client": {
+      "industry": "美食",
+      "brand": "卫龙",
+      "products": [
+        "卫龙魔芋爽"
+      ],
+      "priority": 5
+    },
+    "title": "《卫龙卫龙魔芋爽遇上健康零食替代》",
+    "platform": "小红书",
+    "angle": "对比测评",
+    "hot_topic": "健康零食替代",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "卫龙魔芋爽",
+    "engagement_estimate": "28162+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859515"
+  },
+  {
+    "id": "美食_202603291339480013",
+    "client": {
+      "industry": "美食",
+      "brand": "卫龙",
+      "products": [
+        "卫龙溏心蛋"
+      ],
+      "priority": 5
+    },
+    "title": "《卫龙卫龙溏心蛋遇上网红零食真实测评》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "网红零食真实测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "卫龙溏心蛋",
+    "engagement_estimate": "27121+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859523"
+  },
+  {
+    "id": "美食_202603291339480014",
+    "client": {
+      "industry": "美食",
+      "brand": "百草味",
+      "products": [
+        "百草味果干"
+      ],
+      "priority": 4
+    },
+    "title": "《百草味果干与进口零食推荐的碰撞》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "进口零食推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "百草味果干",
+    "engagement_estimate": "34959+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859531"
+  },
+  {
+    "id": "美食_202603291339480015",
+    "client": {
+      "industry": "美食",
+      "brand": "德芙",
+      "products": [
+        "德芙榛仁巧克力"
+      ],
+      "priority": 5
+    },
+    "title": "《德芙榛仁巧克力借势送礼零食礼盒：痛点解决内容创作》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "送礼零食礼盒",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "德芙榛仁巧克力",
+    "engagement_estimate": "47717+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859539"
+  },
+  {
+    "id": "美食_202603291339480016",
+    "client": {
+      "industry": "美食",
+      "brand": "百草味",
+      "products": [
+        "百草味坚果"
+      ],
+      "priority": 3
+    },
+    "title": "《百草味百草味坚果遇上追剧零食推荐》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "追剧零食推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "百草味坚果",
+    "engagement_estimate": "32704+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859547"
+  },
+  {
+    "id": "美食_202603291339480017",
+    "client": {
+      "industry": "美食",
+      "brand": "周黑鸭",
+      "products": [
+        "周黑鸭鸭翅"
+      ],
+      "priority": 4
+    },
+    "title": "《周黑鸭周黑鸭鸭翅遇上早餐代餐推荐》",
+    "platform": "抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "早餐代餐推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "周黑鸭鸭翅",
+    "engagement_estimate": "46072+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859555"
+  },
+  {
+    "id": "美食_202603291339480018",
+    "client": {
+      "industry": "美食",
+      "brand": "费列罗",
+      "products": [
+        "费列罗礼盒"
+      ],
+      "priority": 3
+    },
+    "title": "《费列罗礼盒与办公室零食的碰撞》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "办公室零食",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "费列罗礼盒",
+    "engagement_estimate": "29888+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859563"
+  },
+  {
+    "id": "美食_202603291339480019",
+    "client": {
+      "industry": "美食",
+      "brand": "奥利奥",
+      "products": [
+        "奥利奥薄片"
+      ],
+      "priority": 5
+    },
+    "title": "《奥利奥奥利奥薄片遇上下午茶甜点》",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "下午茶甜点",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "奥利奥薄片",
+    "engagement_estimate": "20693+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859571"
+  },
+  {
+    "id": "美食_202603291339480020",
+    "client": {
+      "industry": "美食",
+      "brand": "周黑鸭",
+      "products": [
+        "周黑鸭鸭锁骨"
+      ],
+      "priority": 3
+    },
+    "title": "《周黑鸭鸭锁骨借势年货零食清单：好物推荐内容创作》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "年货零食清单",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "周黑鸭鸭锁骨",
+    "engagement_estimate": "21870+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859579"
+  },
+  {
+    "id": "美食_202603291339480021",
+    "client": {
+      "industry": "美食",
+      "brand": "旺旺",
+      "products": [
+        "旺旺雪饼"
+      ],
+      "priority": 5
+    },
+    "title": "《旺旺雪饼与进口零食推荐的碰撞》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "进口零食推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "旺旺雪饼",
+    "engagement_estimate": "45213+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859588"
+  },
+  {
+    "id": "美食_202603291339480022",
+    "client": {
+      "industry": "美食",
+      "brand": "百草味",
+      "products": [
+        "百草味肉干"
+      ],
+      "priority": 4
+    },
+    "title": "《百草味百草味肉干遇上下午茶甜点》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "下午茶甜点",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "百草味肉干",
+    "engagement_estimate": "42181+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859596"
+  },
+  {
+    "id": "美食_202603291339480023",
+    "client": {
+      "industry": "美食",
+      "brand": "百草味",
+      "products": [
+        "百草味坚果"
+      ],
+      "priority": 4
+    },
+    "title": "《百草味坚果与童年零食回忆的碰撞》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "童年零食回忆",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "百草味坚果",
+    "engagement_estimate": "37823+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859604"
+  },
+  {
+    "id": "美食_202603291339480024",
+    "client": {
+      "industry": "美食",
+      "brand": "奥利奥",
+      "products": [
+        "奥利奥薄片"
+      ],
+      "priority": 3
+    },
+    "title": "《奥利奥奥利奥薄片遇上健康零食替代》",
+    "platform": "知乎",
+    "angle": "实用科普",
+    "hot_topic": "健康零食替代",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "奥利奥薄片",
+    "engagement_estimate": "20661+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859612"
+  },
+  {
+    "id": "美食_202603291339480025",
+    "client": {
+      "industry": "美食",
+      "brand": "奥利奥",
+      "products": [
+        "奥利奥威化"
+      ],
+      "priority": 3
+    },
+    "title": "《奥利奥×奥利奥威化深度解读下午茶甜点》",
+    "platform": "微博",
+    "angle": "专家解读",
+    "hot_topic": "下午茶甜点",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "奥利奥威化",
+    "engagement_estimate": "21925+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859621"
+  },
+  {
+    "id": "美食_202603291339480026",
+    "client": {
+      "industry": "美食",
+      "brand": "百草味",
+      "products": [
+        "百草味肉干"
+      ],
+      "priority": 3
+    },
+    "title": "《百草味百草味肉干遇上网红零食真实测评》",
+    "platform": "微博",
+    "angle": "好物推荐",
+    "hot_topic": "网红零食真实测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "百草味肉干",
+    "engagement_estimate": "20129+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859629"
+  },
+  {
+    "id": "美食_202603291339480027",
+    "client": {
+      "industry": "美食",
+      "brand": "百草味",
+      "products": [
+        "百草味坚果"
+      ],
+      "priority": 3
+    },
+    "title": "《百草味坚果与年货零食清单的碰撞》",
+    "platform": "微信视频号",
+    "angle": "痛点解决",
+    "hot_topic": "年货零食清单",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "百草味坚果",
+    "engagement_estimate": "48035+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859637"
+  },
+  {
+    "id": "美食_202603291339480028",
+    "client": {
+      "industry": "美食",
+      "brand": "周黑鸭",
+      "products": [
+        "周黑鸭鸭翅"
+      ],
+      "priority": 5
+    },
+    "title": "《周黑鸭鸭翅借势年货零食清单：故事叙述内容创作》",
+    "platform": "抖音",
+    "angle": "故事叙述",
+    "hot_topic": "年货零食清单",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "周黑鸭鸭翅",
+    "engagement_estimate": "21694+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859645"
+  },
+  {
+    "id": "美食_202603291339480029",
+    "client": {
+      "industry": "美食",
+      "brand": "费列罗",
+      "products": [
+        "费列罗金莎"
+      ],
+      "priority": 4
+    },
+    "title": "《费列罗金莎与健康零食替代的碰撞》",
+    "platform": "抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "健康零食替代",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "费列罗金莎",
+    "engagement_estimate": "46565+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859653"
+  },
+  {
+    "id": "美食_202603291339480030",
+    "client": {
+      "industry": "美食",
+      "brand": "旺旺",
+      "products": [
+        "旺旺小小酥"
+      ],
+      "priority": 4
+    },
+    "title": "《旺旺旺旺小小酥遇上速溶咖啡测评》",
+    "platform": "B站",
+    "angle": "对比测评",
+    "hot_topic": "速溶咖啡测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "旺旺小小酥",
+    "engagement_estimate": "27815+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859661"
+  },
+  {
+    "id": "美食_202603291339480031",
+    "client": {
+      "industry": "美食",
+      "brand": "卫龙",
+      "products": [
+        "卫龙溏心蛋"
+      ],
+      "priority": 3
+    },
+    "title": "《卫龙溏心蛋与童年零食回忆的碰撞》",
+    "platform": "B站",
+    "angle": "限时优惠",
+    "hot_topic": "童年零食回忆",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "卫龙溏心蛋",
+    "engagement_estimate": "21747+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859670"
+  },
+  {
+    "id": "美食_202603291339480032",
+    "client": {
+      "industry": "美食",
+      "brand": "德芙",
+      "products": [
+        "德芙榛仁巧克力"
+      ],
+      "priority": 4
+    },
+    "title": "《德芙德芙榛仁巧克力遇上追剧零食推荐》",
+    "platform": "B站",
+    "angle": "故事叙述",
+    "hot_topic": "追剧零食推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "德芙榛仁巧克力",
+    "engagement_estimate": "19798+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859678"
+  },
+  {
+    "id": "美食_202603291339480033",
+    "client": {
+      "industry": "美食",
+      "brand": "费列罗",
+      "products": [
+        "费列罗礼盒"
+      ],
+      "priority": 3
+    },
+    "title": "《费列罗礼盒借势送礼零食礼盒：故事叙述内容创作》",
+    "platform": "抖音",
+    "angle": "故事叙述",
+    "hot_topic": "送礼零食礼盒",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "费列罗礼盒",
+    "engagement_estimate": "39426+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859687"
+  },
+  {
+    "id": "美食_202603291339480034",
+    "client": {
+      "industry": "美食",
+      "brand": "周黑鸭",
+      "products": [
+        "周黑鸭鸭锁骨"
+      ],
+      "priority": 3
+    },
+    "title": "《周黑鸭鸭锁骨借势办公室零食：好物推荐内容创作》",
+    "platform": "微信视频号",
+    "angle": "好物推荐",
+    "hot_topic": "办公室零食",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "周黑鸭鸭锁骨",
+    "engagement_estimate": "49574+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859695"
+  },
+  {
+    "id": "美食_202603291339480035",
+    "client": {
+      "industry": "美食",
+      "brand": "奥利奥",
+      "products": [
+        "奥利奥饼干"
+      ],
+      "priority": 5
+    },
+    "title": "《奥利奥奥利奥饼干遇上办公室零食》",
+    "platform": "知乎",
+    "angle": "故事叙述",
+    "hot_topic": "办公室零食",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "奥利奥饼干",
+    "engagement_estimate": "17615+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859704"
+  },
+  {
+    "id": "美食_202603291339480036",
+    "client": {
+      "industry": "美食",
+      "brand": "百草味",
+      "products": [
+        "百草味肉干"
+      ],
+      "priority": 5
+    },
+    "title": "《百草味肉干借势早餐代餐推荐：好物推荐内容创作》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "早餐代餐推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百草味肉干",
+    "engagement_estimate": "49179+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859712"
+  },
+  {
+    "id": "美食_202603291339480037",
+    "client": {
+      "industry": "美食",
+      "brand": "每日黑巧",
+      "products": [
+        "每日黑巧瑞士巧克力"
+      ],
+      "priority": 5
+    },
+    "title": "《每日黑巧瑞士巧克力借势网红零食真实测评：实用科普内容创作》",
+    "platform": "知乎",
+    "angle": "实用科普",
+    "hot_topic": "网红零食真实测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "每日黑巧瑞士巧克力",
+    "engagement_estimate": "15763+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859721"
+  },
+  {
+    "id": "美食_202603291339480038",
+    "client": {
+      "industry": "美食",
+      "brand": "周黑鸭",
+      "products": [
+        "周黑鸭鸭锁骨"
+      ],
+      "priority": 5
+    },
+    "title": "《周黑鸭鸭锁骨与减脂零食分享的碰撞》",
+    "platform": "微信视频号",
+    "angle": "专家解读",
+    "hot_topic": "减脂零食分享",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "周黑鸭鸭锁骨",
+    "engagement_estimate": "42689+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859729"
+  },
+  {
+    "id": "美食_202603291339480039",
+    "client": {
+      "industry": "美食",
+      "brand": "周黑鸭",
+      "products": [
+        "周黑鸭鸭翅"
+      ],
+      "priority": 5
+    },
+    "title": "《周黑鸭鸭翅借势网红零食真实测评：情感共鸣内容创作》",
+    "platform": "微信视频号",
+    "angle": "情感共鸣",
+    "hot_topic": "网红零食真实测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "周黑鸭鸭翅",
+    "engagement_estimate": "40969+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859738"
+  },
+  {
+    "id": "美食_202603291339480040",
+    "client": {
+      "industry": "美食",
+      "brand": "德芙",
+      "products": [
+        "德芙榛仁巧克力"
+      ],
+      "priority": 4
+    },
+    "title": "《德芙榛仁巧克力借势速溶咖啡测评：故事叙述内容创作》",
+    "platform": "微博",
+    "angle": "故事叙述",
+    "hot_topic": "速溶咖啡测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "德芙榛仁巧克力",
+    "engagement_estimate": "23696+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859746"
+  },
+  {
+    "id": "母婴_202603291339480001",
+    "client": {
+      "industry": "母婴",
+      "brand": "花王",
+      "products": [
+        "花王纸尿裤"
+      ],
+      "priority": 5
+    },
+    "title": "《花王花王纸尿裤遇上宝宝衣物清洗》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "宝宝衣物清洗",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "花王纸尿裤",
+    "engagement_estimate": "29014+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859755"
+  },
+  {
+    "id": "母婴_202603291339480002",
+    "client": {
+      "industry": "母婴",
+      "brand": "可优比",
+      "products": [
+        "可优比儿童餐椅"
+      ],
+      "priority": 3
+    },
+    "title": "《可优比儿童餐椅借势纸尿裤选购攻略：专家解读内容创作》",
+    "platform": "抖音",
+    "angle": "专家解读",
+    "hot_topic": "纸尿裤选购攻略",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "可优比儿童餐椅",
+    "engagement_estimate": "23671+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859765"
+  },
+  {
+    "id": "母婴_202603291339480003",
+    "client": {
+      "industry": "母婴",
+      "brand": "花王",
+      "products": [
+        "花王卫生巾"
+      ],
+      "priority": 4
+    },
+    "title": "《花王花王卫生巾遇上婴儿玩具推荐》",
+    "platform": "微信视频号",
+    "angle": "情感共鸣",
+    "hot_topic": "婴儿玩具推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "花王卫生巾",
+    "engagement_estimate": "19948+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859774"
+  },
+  {
+    "id": "母婴_202603291339480004",
+    "client": {
+      "industry": "母婴",
+      "brand": "好奇",
+      "products": [
+        "好奇拉拉裤"
+      ],
+      "priority": 5
+    },
+    "title": "《好奇拉拉裤与宝宝如厕训练的碰撞》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "宝宝如厕训练",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "好奇拉拉裤",
+    "engagement_estimate": "46318+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859784"
+  },
+  {
+    "id": "母婴_202603291339480005",
+    "client": {
+      "industry": "母婴",
+      "brand": "惠氏",
+      "products": [
+        "惠氏幼儿乐"
+      ],
+      "priority": 4
+    },
+    "title": "《惠氏惠氏幼儿乐遇上儿童乘车安全》",
+    "platform": "微信视频号",
+    "angle": "实用科普",
+    "hot_topic": "儿童乘车安全",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "惠氏幼儿乐",
+    "engagement_estimate": "43169+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859792"
+  },
+  {
+    "id": "母婴_202603291339480006",
+    "client": {
+      "industry": "母婴",
+      "brand": "可优比",
+      "products": [
+        "可优比儿童餐椅"
+      ],
+      "priority": 4
+    },
+    "title": "《可优比儿童餐椅借势宝宝如厕训练：专家解读内容创作》",
+    "platform": "B站",
+    "angle": "专家解读",
+    "hot_topic": "宝宝如厕训练",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "可优比儿童餐椅",
+    "engagement_estimate": "42781+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859801"
+  },
+  {
+    "id": "母婴_202603291339480007",
+    "client": {
+      "industry": "母婴",
+      "brand": "花王",
+      "products": [
+        "花王卫生巾"
+      ],
+      "priority": 4
+    },
+    "title": "《花王卫生巾与宝宝衣物清洗的碰撞》",
+    "platform": "知乎",
+    "angle": "专家解读",
+    "hot_topic": "宝宝衣物清洗",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "花王卫生巾",
+    "engagement_estimate": "27778+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859810"
+  },
+  {
+    "id": "母婴_202603291339480008",
+    "client": {
+      "industry": "母婴",
+      "brand": "好奇",
+      "products": [
+        "好奇拉拉裤"
+      ],
+      "priority": 5
+    },
+    "title": "《好奇拉拉裤借势孕妈饮食禁忌：对比测评内容创作》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "孕妈饮食禁忌",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "好奇拉拉裤",
+    "engagement_estimate": "33239+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859818"
+  },
+  {
+    "id": "母婴_202603291339480009",
+    "client": {
+      "industry": "母婴",
+      "brand": "英氏",
+      "products": [
+        "英氏磨牙棒"
+      ],
+      "priority": 5
+    },
+    "title": "《英氏英氏磨牙棒遇上婴儿抚触手法》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "婴儿抚触手法",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "英氏磨牙棒",
+    "engagement_estimate": "25439+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859826"
+  },
+  {
+    "id": "母婴_202603291339480010",
+    "client": {
+      "industry": "母婴",
+      "brand": "小皮",
+      "products": [
+        "小皮米糊"
+      ],
+      "priority": 4
+    },
+    "title": "《小皮米糊借势婴儿理发技巧：好物推荐内容创作》",
+    "platform": "微信视频号",
+    "angle": "好物推荐",
+    "hot_topic": "婴儿理发技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小皮米糊",
+    "engagement_estimate": "38177+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859834"
+  },
+  {
+    "id": "母婴_202603291339480011",
+    "client": {
+      "industry": "母婴",
+      "brand": "可优比",
+      "products": [
+        "可优比儿童餐椅"
+      ],
+      "priority": 5
+    },
+    "title": "《可优比儿童餐椅借势宝宝衣物清洗：故事叙述内容创作》",
+    "platform": "抖音",
+    "angle": "故事叙述",
+    "hot_topic": "宝宝衣物清洗",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "可优比儿童餐椅",
+    "engagement_estimate": "47633+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859843"
+  },
+  {
+    "id": "母婴_202603291339480012",
+    "client": {
+      "industry": "母婴",
+      "brand": "可优比",
+      "products": [
+        "可优比婴儿推车"
+      ],
+      "priority": 4
+    },
+    "title": "《可优比可优比婴儿推车遇上纸尿裤选购攻略》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "纸尿裤选购攻略",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "可优比婴儿推车",
+    "engagement_estimate": "38337+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859851"
+  },
+  {
+    "id": "母婴_202603291339480013",
+    "client": {
+      "industry": "母婴",
+      "brand": "可优比",
+      "products": [
+        "可优比婴儿推车"
+      ],
+      "priority": 5
+    },
+    "title": "《可优比可优比婴儿推车遇上婴儿辅食制作》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "婴儿辅食制作",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "可优比婴儿推车",
+    "engagement_estimate": "30661+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859859"
+  },
+  {
+    "id": "母婴_202603291339480014",
+    "client": {
+      "industry": "母婴",
+      "brand": "可优比",
+      "products": [
+        "可优比婴儿推车"
+      ],
+      "priority": 5
+    },
+    "title": "《可优比婴儿推车与婴儿理发技巧的碰撞》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "婴儿理发技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "可优比婴儿推车",
+    "engagement_estimate": "22593+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859868"
+  },
+  {
+    "id": "母婴_202603291339480015",
+    "client": {
+      "industry": "母婴",
+      "brand": "英氏",
+      "products": [
+        "英氏辅食"
+      ],
+      "priority": 4
+    },
+    "title": "《英氏英氏辅食遇上产后恢复好物》",
+    "platform": "抖音",
+    "angle": "限时优惠",
+    "hot_topic": "产后恢复好物",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "英氏辅食",
+    "engagement_estimate": "31746+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859876"
+  },
+  {
+    "id": "母婴_202603291339480016",
+    "client": {
+      "industry": "母婴",
+      "brand": "世喜",
+      "products": [
+        "世喜学饮杯"
+      ],
+      "priority": 4
+    },
+    "title": "《世喜学饮杯借势产后恢复好物：情感共鸣内容创作》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "产后恢复好物",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "世喜学饮杯",
+    "engagement_estimate": "21076+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859884"
+  },
+  {
+    "id": "母婴_202603291339480017",
+    "client": {
+      "industry": "母婴",
+      "brand": "小皮",
+      "products": [
+        "小皮酸奶"
+      ],
+      "priority": 3
+    },
+    "title": "《小皮酸奶与儿童乘车安全的碰撞》",
+    "platform": "微博",
+    "angle": "限时优惠",
+    "hot_topic": "儿童乘车安全",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小皮酸奶",
+    "engagement_estimate": "47120+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859892"
+  },
+  {
+    "id": "母婴_202603291339480018",
+    "client": {
+      "industry": "母婴",
+      "brand": "花王",
+      "products": [
+        "花王卫生巾"
+      ],
+      "priority": 5
+    },
+    "title": "《花王花王卫生巾遇上宝宝衣物清洗》",
+    "platform": "抖音",
+    "angle": "限时优惠",
+    "hot_topic": "宝宝衣物清洗",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "花王卫生巾",
+    "engagement_estimate": "18928+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859900"
+  },
+  {
+    "id": "母婴_202603291339480019",
+    "client": {
+      "industry": "母婴",
+      "brand": "小皮",
+      "products": [
+        "小皮米糊"
+      ],
+      "priority": 3
+    },
+    "title": "《小皮小皮米糊遇上宝宝防晒指南》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "宝宝防晒指南",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小皮米糊",
+    "engagement_estimate": "46084+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859907"
+  },
+  {
+    "id": "母婴_202603291339480020",
+    "client": {
+      "industry": "母婴",
+      "brand": "小皮",
+      "products": [
+        "小皮酸奶"
+      ],
+      "priority": 3
+    },
+    "title": "《小皮酸奶与婴儿理发技巧的碰撞》",
+    "platform": "知乎",
+    "angle": "限时优惠",
+    "hot_topic": "婴儿理发技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小皮酸奶",
+    "engagement_estimate": "15594+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859915"
+  },
+  {
+    "id": "母婴_202603291339480021",
+    "client": {
+      "industry": "母婴",
+      "brand": "小皮",
+      "products": [
+        "小皮酸奶"
+      ],
+      "priority": 3
+    },
+    "title": "《小皮酸奶与产后恢复好物的碰撞》",
+    "platform": "知乎",
+    "angle": "情感共鸣",
+    "hot_topic": "产后恢复好物",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小皮酸奶",
+    "engagement_estimate": "38467+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859922"
+  },
+  {
+    "id": "母婴_202603291339480022",
+    "client": {
+      "industry": "母婴",
+      "brand": "世喜",
+      "products": [
+        "世喜学饮杯"
+      ],
+      "priority": 4
+    },
+    "title": "《世喜学饮杯借势纸尿裤选购攻略：热点追踪内容创作》",
+    "platform": "B站",
+    "angle": "热点追踪",
+    "hot_topic": "纸尿裤选购攻略",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "世喜学饮杯",
+    "engagement_estimate": "28675+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859930"
+  },
+  {
+    "id": "母婴_202603291339480023",
+    "client": {
+      "industry": "母婴",
+      "brand": "世喜",
+      "products": [
+        "世喜奶瓶"
+      ],
+      "priority": 5
+    },
+    "title": "《世喜奶瓶借势宝宝如厕训练：热点追踪内容创作》",
+    "platform": "小红书",
+    "angle": "热点追踪",
+    "hot_topic": "宝宝如厕训练",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "世喜奶瓶",
+    "engagement_estimate": "27960+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859938"
+  },
+  {
+    "id": "母婴_202603291339480024",
+    "client": {
+      "industry": "母婴",
+      "brand": "惠氏",
+      "products": [
+        "惠氏铂臻奶粉"
+      ],
+      "priority": 5
+    },
+    "title": "《惠氏惠氏铂臻奶粉遇上宝宝衣物清洗》",
+    "platform": "微信视频号",
+    "angle": "热点追踪",
+    "hot_topic": "宝宝衣物清洗",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "惠氏铂臻奶粉",
+    "engagement_estimate": "21957+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859946"
+  },
+  {
+    "id": "母婴_202603291339480025",
+    "client": {
+      "industry": "母婴",
+      "brand": "好奇",
+      "products": [
+        "好奇纸尿裤"
+      ],
+      "priority": 3
+    },
+    "title": "《好奇纸尿裤与孕妈饮食禁忌的碰撞》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "孕妈饮食禁忌",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "好奇纸尿裤",
+    "engagement_estimate": "28007+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859953"
+  },
+  {
+    "id": "母婴_202603291339480026",
+    "client": {
+      "industry": "母婴",
+      "brand": "小皮",
+      "products": [
+        "小皮果泥"
+      ],
+      "priority": 5
+    },
+    "title": "《小皮果泥借势奶瓶消毒方法：专家解读内容创作》",
+    "platform": "B站",
+    "angle": "专家解读",
+    "hot_topic": "奶瓶消毒方法",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小皮果泥",
+    "engagement_estimate": "42705+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859961"
+  },
+  {
+    "id": "母婴_202603291339480027",
+    "client": {
+      "industry": "母婴",
+      "brand": "世喜",
+      "products": [
+        "世喜奶瓶"
+      ],
+      "priority": 3
+    },
+    "title": "《世喜奶瓶借势婴儿玩具推荐：故事叙述内容创作》",
+    "platform": "小红书",
+    "angle": "故事叙述",
+    "hot_topic": "婴儿玩具推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "世喜奶瓶",
+    "engagement_estimate": "47120+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859969"
+  },
+  {
+    "id": "母婴_202603291339480028",
+    "client": {
+      "industry": "母婴",
+      "brand": "花王",
+      "products": [
+        "花王拉拉裤"
+      ],
+      "priority": 4
+    },
+    "title": "《花王拉拉裤借势儿童乘车安全：故事叙述内容创作》",
+    "platform": "B站",
+    "angle": "故事叙述",
+    "hot_topic": "儿童乘车安全",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "花王拉拉裤",
+    "engagement_estimate": "30716+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859976"
+  },
+  {
+    "id": "母婴_202603291339480029",
+    "client": {
+      "industry": "母婴",
+      "brand": "可优比",
+      "products": [
+        "可优比婴儿床"
+      ],
+      "priority": 3
+    },
+    "title": "《可优比可优比婴儿床遇上宝宝衣物清洗》",
+    "platform": "知乎",
+    "angle": "情感共鸣",
+    "hot_topic": "宝宝衣物清洗",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "可优比婴儿床",
+    "engagement_estimate": "16665+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859984"
+  },
+  {
+    "id": "母婴_202603291339480030",
+    "client": {
+      "industry": "母婴",
+      "brand": "好奇",
+      "products": [
+        "好奇拉拉裤"
+      ],
+      "priority": 3
+    },
+    "title": "《好奇好奇拉拉裤遇上婴儿辅食制作》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "婴儿辅食制作",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "好奇拉拉裤",
+    "engagement_estimate": "24504+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859991"
+  },
+  {
+    "id": "母婴_202603291339480031",
+    "client": {
+      "industry": "母婴",
+      "brand": "世喜",
+      "products": [
+        "世喜奶瓶"
+      ],
+      "priority": 3
+    },
+    "title": "《世喜世喜奶瓶遇上婴儿理发技巧》",
+    "platform": "微信视频号",
+    "angle": "好物推荐",
+    "hot_topic": "婴儿理发技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "世喜奶瓶",
+    "engagement_estimate": "43962+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.859999"
+  },
+  {
+    "id": "母婴_202603291339480032",
+    "client": {
+      "industry": "母婴",
+      "brand": "花王",
+      "products": [
+        "花王拉拉裤"
+      ],
+      "priority": 4
+    },
+    "title": "《花王拉拉裤借势婴儿抚触手法：实用科普内容创作》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "婴儿抚触手法",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "花王拉拉裤",
+    "engagement_estimate": "26096+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860006"
+  },
+  {
+    "id": "母婴_202603291339480033",
+    "client": {
+      "industry": "母婴",
+      "brand": "英氏",
+      "products": [
+        "英氏婴幼儿面条"
+      ],
+      "priority": 3
+    },
+    "title": "《英氏英氏婴幼儿面条遇上婴儿理发技巧》",
+    "platform": "B站",
+    "angle": "热点追踪",
+    "hot_topic": "婴儿理发技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "英氏婴幼儿面条",
+    "engagement_estimate": "41206+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860014"
+  },
+  {
+    "id": "母婴_202603291339480034",
+    "client": {
+      "industry": "母婴",
+      "brand": "小皮",
+      "products": [
+        "小皮果泥"
+      ],
+      "priority": 4
+    },
+    "title": "《小皮果泥与婴儿玩具推荐的碰撞》",
+    "platform": "微信视频号",
+    "angle": "趋势解读",
+    "hot_topic": "婴儿玩具推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小皮果泥",
+    "engagement_estimate": "36310+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860022"
+  },
+  {
+    "id": "母婴_202603291339480035",
+    "client": {
+      "industry": "母婴",
+      "brand": "世喜",
+      "products": [
+        "世喜断奶奶瓶"
+      ],
+      "priority": 5
+    },
+    "title": "《世喜世喜断奶奶瓶遇上婴儿辅食制作》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "婴儿辅食制作",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "世喜断奶奶瓶",
+    "engagement_estimate": "27996+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860034"
+  },
+  {
+    "id": "3C数码_202603291339480001",
+    "client": {
+      "industry": "3C数码",
+      "brand": "ANKER",
+      "products": [
+        "ANKER数据线"
+      ],
+      "priority": 4
+    },
+    "title": "《ANKER数据线借势学生平板推荐：痛点解决内容创作》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "学生平板推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "ANKER数据线",
+    "engagement_estimate": "45057+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860042"
+  },
+  {
+    "id": "3C数码_202603291339480002",
+    "client": {
+      "industry": "3C数码",
+      "brand": "漫步者",
+      "products": [
+        "漫步者音响"
+      ],
+      "priority": 5
+    },
+    "title": "《漫步者漫步者音响遇上数据备份方案》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "数据备份方案",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "漫步者音响",
+    "engagement_estimate": "18290+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860050"
+  },
+  {
+    "id": "3C数码_202603291339480003",
+    "client": {
+      "industry": "3C数码",
+      "brand": "一加",
+      "products": [
+        "一加耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《一加耳机借势平板记笔记：情感共鸣内容创作》",
+    "platform": "微信视频号",
+    "angle": "情感共鸣",
+    "hot_topic": "平板记笔记",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "一加耳机",
+    "engagement_estimate": "27467+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860058"
+  },
+  {
+    "id": "3C数码_202603291339480004",
+    "client": {
+      "industry": "3C数码",
+      "brand": "OPPO",
+      "products": [
+        "OPPO Find手机"
+      ],
+      "priority": 5
+    },
+    "title": "《OPPO Find手机与存储设备推荐的碰撞》",
+    "platform": "B站",
+    "angle": "对比测评",
+    "hot_topic": "存储设备推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "OPPO Find手机",
+    "engagement_estimate": "26344+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860066"
+  },
+  {
+    "id": "3C数码_202603291339480005",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机"
+      ],
+      "priority": 3
+    },
+    "title": "《小米手机与学生平板推荐的碰撞》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "学生平板推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "小米手机",
+    "engagement_estimate": "15402+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860073"
+  },
+  {
+    "id": "3C数码_202603291339480006",
+    "client": {
+      "industry": "3C数码",
+      "brand": "ANKER",
+      "products": [
+        "ANKER充电宝"
+      ],
+      "priority": 3
+    },
+    "title": "《ANKER充电宝与数码配件好物的碰撞》",
+    "platform": "抖音",
+    "angle": "热点追踪",
+    "hot_topic": "数码配件好物",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "ANKER充电宝",
+    "engagement_estimate": "24167+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860082"
+  },
+  {
+    "id": "3C数码_202603291339480007",
+    "client": {
+      "industry": "3C数码",
+      "brand": "Bose",
+      "products": [
+        "Bose耳机"
+      ],
+      "priority": 4
+    },
+    "title": "《BoseBose耳机遇上快充技术解析》",
+    "platform": "微信视频号",
+    "angle": "故事叙述",
+    "hot_topic": "快充技术解析",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Bose耳机",
+    "engagement_estimate": "43688+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860093"
+  },
+  {
+    "id": "3C数码_202603291339480008",
+    "client": {
+      "industry": "3C数码",
+      "brand": "绿联",
+      "products": [
+        "绿联扩展坞"
+      ],
+      "priority": 5
+    },
+    "title": "《绿联扩展坞与屏幕清洁技巧的碰撞》",
+    "platform": "知乎",
+    "angle": "好物推荐",
+    "hot_topic": "屏幕清洁技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "绿联扩展坞",
+    "engagement_estimate": "45745+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860100"
+  },
+  {
+    "id": "3C数码_202603291339480009",
+    "client": {
+      "industry": "3C数码",
+      "brand": "绿联",
+      "products": [
+        "绿联数据线"
+      ],
+      "priority": 3
+    },
+    "title": "《绿联数据线借势手机摄影技巧：实用科普内容创作》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "手机摄影技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "绿联数据线",
+    "engagement_estimate": "23472+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860108"
+  },
+  {
+    "id": "3C数码_202603291339480010",
+    "client": {
+      "industry": "3C数码",
+      "brand": "ANKER",
+      "products": [
+        "ANKER充电宝"
+      ],
+      "priority": 5
+    },
+    "title": "《ANKER充电宝借势键盘鼠标推荐：好物推荐内容创作》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "键盘鼠标推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "ANKER充电宝",
+    "engagement_estimate": "21220+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860115"
+  },
+  {
+    "id": "3C数码_202603291339480011",
+    "client": {
+      "industry": "3C数码",
+      "brand": "一加",
+      "products": [
+        "一加手机"
+      ],
+      "priority": 4
+    },
+    "title": "《一加手机与屏幕清洁技巧的碰撞》",
+    "platform": "微博",
+    "angle": "好物推荐",
+    "hot_topic": "屏幕清洁技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "一加手机",
+    "engagement_estimate": "48970+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860123"
+  },
+  {
+    "id": "3C数码_202603291339480012",
+    "client": {
+      "industry": "3C数码",
+      "brand": "ANKER",
+      "products": [
+        "ANKER充电宝"
+      ],
+      "priority": 5
+    },
+    "title": "《ANKER充电宝借势数码配件好物：故事叙述内容创作》",
+    "platform": "微博",
+    "angle": "故事叙述",
+    "hot_topic": "数码配件好物",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "ANKER充电宝",
+    "engagement_estimate": "44076+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860130"
+  },
+  {
+    "id": "3C数码_202603291339480013",
+    "client": {
+      "industry": "3C数码",
+      "brand": "绿联",
+      "products": [
+        "绿联扩展坞"
+      ],
+      "priority": 5
+    },
+    "title": "《绿联扩展坞借势Type-C接口优势：好物推荐内容创作》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "Type-C接口优势",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "绿联扩展坞",
+    "engagement_estimate": "28721+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860138"
+  },
+  {
+    "id": "3C数码_202603291339480014",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米路由器"
+      ],
+      "priority": 4
+    },
+    "title": "《小米路由器借势平板记笔记：痛点解决内容创作》",
+    "platform": "微信视频号",
+    "angle": "痛点解决",
+    "hot_topic": "平板记笔记",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小米路由器",
+    "engagement_estimate": "40252+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860146"
+  },
+  {
+    "id": "3C数码_202603291339480015",
+    "client": {
+      "industry": "3C数码",
+      "brand": "Bose",
+      "products": [
+        "Bose SoundBar"
+      ],
+      "priority": 3
+    },
+    "title": "《BoseBose SoundBar遇上数码配件好物》",
+    "platform": "微博",
+    "angle": "故事叙述",
+    "hot_topic": "数码配件好物",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Bose SoundBar",
+    "engagement_estimate": "28258+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860154"
+  },
+  {
+    "id": "3C数码_202603291339480016",
+    "client": {
+      "industry": "3C数码",
+      "brand": "一加",
+      "products": [
+        "一加充电器"
+      ],
+      "priority": 5
+    },
+    "title": "《一加一加充电器遇上百元耳机推荐》",
+    "platform": "抖音",
+    "angle": "限时优惠",
+    "hot_topic": "百元耳机推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "一加充电器",
+    "engagement_estimate": "48168+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860162"
+  },
+  {
+    "id": "3C数码_202603291339480017",
+    "client": {
+      "industry": "3C数码",
+      "brand": "vivo",
+      "products": [
+        "vivo X手机"
+      ],
+      "priority": 3
+    },
+    "title": "《vivovivo X手机遇上键盘鼠标推荐》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "键盘鼠标推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "vivo X手机",
+    "engagement_estimate": "16424+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860170"
+  },
+  {
+    "id": "3C数码_202603291339480018",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米路由器"
+      ],
+      "priority": 4
+    },
+    "title": "《小米路由器借势Type-C接口优势：好物推荐内容创作》",
+    "platform": "抖音",
+    "angle": "好物推荐",
+    "hot_topic": "Type-C接口优势",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小米路由器",
+    "engagement_estimate": "32557+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860177"
+  },
+  {
+    "id": "3C数码_202603291339480019",
+    "client": {
+      "industry": "3C数码",
+      "brand": "vivo",
+      "products": [
+        "vivo X手机"
+      ],
+      "priority": 5
+    },
+    "title": "《vivo X手机与屏幕清洁技巧的碰撞》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "屏幕清洁技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "vivo X手机",
+    "engagement_estimate": "41463+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860185"
+  },
+  {
+    "id": "3C数码_202603291339480020",
+    "client": {
+      "industry": "3C数码",
+      "brand": "漫步者",
+      "products": [
+        "漫步者音响"
+      ],
+      "priority": 3
+    },
+    "title": "《漫步者音响与Type-C接口优势的碰撞》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "Type-C接口优势",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "漫步者音响",
+    "engagement_estimate": "20111+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860193"
+  },
+  {
+    "id": "3C数码_202603291339480021",
+    "client": {
+      "industry": "3C数码",
+      "brand": "Bose",
+      "products": [
+        "Bose音响"
+      ],
+      "priority": 3
+    },
+    "title": "《Bose音响与学生平板推荐的碰撞》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "学生平板推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Bose音响",
+    "engagement_estimate": "17289+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860200"
+  },
+  {
+    "id": "3C数码_202603291339480022",
+    "client": {
+      "industry": "3C数码",
+      "brand": "Bose",
+      "products": [
+        "Bose音响"
+      ],
+      "priority": 3
+    },
+    "title": "《Bose音响借势键盘鼠标推荐：对比测评内容创作》",
+    "platform": "B站",
+    "angle": "对比测评",
+    "hot_topic": "键盘鼠标推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Bose音响",
+    "engagement_estimate": "25188+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860287"
+  },
+  {
+    "id": "3C数码_202603291339480023",
+    "client": {
+      "industry": "3C数码",
+      "brand": "一加",
+      "products": [
+        "一加耳机"
+      ],
+      "priority": 5
+    },
+    "title": "《一加一加耳机遇上屏幕清洁技巧》",
+    "platform": "知乎",
+    "angle": "故事叙述",
+    "hot_topic": "屏幕清洁技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "一加耳机",
+    "engagement_estimate": "44834+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860295"
+  },
+  {
+    "id": "3C数码_202603291339480024",
+    "client": {
+      "industry": "3C数码",
+      "brand": "ANKER",
+      "products": [
+        "ANKER数据线"
+      ],
+      "priority": 5
+    },
+    "title": "《ANKER数据线借势手机摄影技巧：实用科普内容创作》",
+    "platform": "抖音",
+    "angle": "实用科普",
+    "hot_topic": "手机摄影技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "ANKER数据线",
+    "engagement_estimate": "24548+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860303"
+  },
+  {
+    "id": "3C数码_202603291339480025",
+    "client": {
+      "industry": "3C数码",
+      "brand": "绿联",
+      "products": [
+        "绿联数据线"
+      ],
+      "priority": 4
+    },
+    "title": "《绿联数据线与Type-C接口优势的碰撞》",
+    "platform": "小红书",
+    "angle": "热点追踪",
+    "hot_topic": "Type-C接口优势",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "绿联数据线",
+    "engagement_estimate": "24546+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860311"
+  },
+  {
+    "id": "3C数码_202603291339480026",
+    "client": {
+      "industry": "3C数码",
+      "brand": "绿联",
+      "products": [
+        "绿联扩展坞"
+      ],
+      "priority": 4
+    },
+    "title": "《绿联绿联扩展坞遇上屏幕清洁技巧》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "屏幕清洁技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "绿联扩展坞",
+    "engagement_estimate": "44066+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860318"
+  },
+  {
+    "id": "3C数码_202603291339480027",
+    "client": {
+      "industry": "3C数码",
+      "brand": "Bose",
+      "products": [
+        "Bose SoundBar"
+      ],
+      "priority": 3
+    },
+    "title": "《Bose SoundBar借势键盘鼠标推荐：好物推荐内容创作》",
+    "platform": "微博",
+    "angle": "好物推荐",
+    "hot_topic": "键盘鼠标推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Bose SoundBar",
+    "engagement_estimate": "43315+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860326"
+  },
+  {
+    "id": "3C数码_202603291339480028",
+    "client": {
+      "industry": "3C数码",
+      "brand": "OPPO",
+      "products": [
+        "OPPO耳机"
+      ],
+      "priority": 4
+    },
+    "title": "《OPPO耳机与键盘鼠标推荐的碰撞》",
+    "platform": "小红书",
+    "angle": "热点追踪",
+    "hot_topic": "键盘鼠标推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "OPPO耳机",
+    "engagement_estimate": "21078+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860334"
+  },
+  {
+    "id": "3C数码_202603291339480029",
+    "client": {
+      "industry": "3C数码",
+      "brand": "OPPO",
+      "products": [
+        "OPPO Find手机"
+      ],
+      "priority": 3
+    },
+    "title": "《OPPOOPPO Find手机遇上数据备份方案》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "数据备份方案",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "OPPO Find手机",
+    "engagement_estimate": "20321+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860342"
+  },
+  {
+    "id": "3C数码_202603291339480030",
+    "client": {
+      "industry": "3C数码",
+      "brand": "漫步者",
+      "products": [
+        "漫步者音响"
+      ],
+      "priority": 3
+    },
+    "title": "《漫步者音响借势Type-C接口优势：限时优惠内容创作》",
+    "platform": "微信视频号",
+    "angle": "限时优惠",
+    "hot_topic": "Type-C接口优势",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "漫步者音响",
+    "engagement_estimate": "17128+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860350"
+  },
+  {
+    "id": "3C数码_202603291339480031",
+    "client": {
+      "industry": "3C数码",
+      "brand": "Bose",
+      "products": [
+        "Bose耳机"
+      ],
+      "priority": 3
+    },
+    "title": "《Bose耳机与手机摄影技巧的碰撞》",
+    "platform": "抖音",
+    "angle": "专家解读",
+    "hot_topic": "手机摄影技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Bose耳机",
+    "engagement_estimate": "45626+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860357"
+  },
+  {
+    "id": "3C数码_202603291339480032",
+    "client": {
+      "industry": "3C数码",
+      "brand": "ANKER",
+      "products": [
+        "ANKER数据线"
+      ],
+      "priority": 3
+    },
+    "title": "《ANKER数据线借势桌面好物分享：好物推荐内容创作》",
+    "platform": "微博",
+    "angle": "好物推荐",
+    "hot_topic": "桌面好物分享",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "ANKER数据线",
+    "engagement_estimate": "29384+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860365"
+  },
+  {
+    "id": "3C数码_202603291339480033",
+    "client": {
+      "industry": "3C数码",
+      "brand": "绿联",
+      "products": [
+        "绿联数据线"
+      ],
+      "priority": 3
+    },
+    "title": "《绿联数据线借势手机摄影技巧：痛点解决内容创作》",
+    "platform": "微信视频号",
+    "angle": "痛点解决",
+    "hot_topic": "手机摄影技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "绿联数据线",
+    "engagement_estimate": "31896+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860372"
+  },
+  {
+    "id": "3C数码_202603291339480034",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手环"
+      ],
+      "priority": 5
+    },
+    "title": "《小米小米手环遇上数据备份方案》",
+    "platform": "知乎",
+    "angle": "好物推荐",
+    "hot_topic": "数据备份方案",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小米手环",
+    "engagement_estimate": "24315+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860380"
+  },
+  {
+    "id": "3C数码_202603291339480035",
+    "client": {
+      "industry": "3C数码",
+      "brand": "vivo",
+      "products": [
+        "vivo TWS耳机"
+      ],
+      "priority": 4
+    },
+    "title": "《vivovivo TWS耳机遇上学生平板推荐》",
+    "platform": "小红书",
+    "angle": "对比测评",
+    "hot_topic": "学生平板推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "vivo TWS耳机",
+    "engagement_estimate": "31683+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860388"
+  },
+  {
+    "id": "3C数码_202603291339480036",
+    "client": {
+      "industry": "3C数码",
+      "brand": "Bose",
+      "products": [
+        "Bose音响"
+      ],
+      "priority": 4
+    },
+    "title": "《Bose音响与存储设备推荐的碰撞》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "存储设备推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Bose音响",
+    "engagement_estimate": "41614+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860395"
+  },
+  {
+    "id": "3C数码_202603291339480037",
+    "client": {
+      "industry": "3C数码",
+      "brand": "绿联",
+      "products": [
+        "绿联扩展坞"
+      ],
+      "priority": 4
+    },
+    "title": "《绿联绿联扩展坞遇上手机摄影技巧》",
+    "platform": "小红书",
+    "angle": "对比测评",
+    "hot_topic": "手机摄影技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "绿联扩展坞",
+    "engagement_estimate": "17581+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860403"
+  },
+  {
+    "id": "3C数码_202603291339480038",
+    "client": {
+      "industry": "3C数码",
+      "brand": "vivo",
+      "products": [
+        "vivo S手机"
+      ],
+      "priority": 5
+    },
+    "title": "《vivovivo S手机遇上桌面好物分享》",
+    "platform": "微博",
+    "angle": "限时优惠",
+    "hot_topic": "桌面好物分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "vivo S手机",
+    "engagement_estimate": "16461+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860410"
+  },
+  {
+    "id": "3C数码_202603291339480039",
+    "client": {
+      "industry": "3C数码",
+      "brand": "一加",
+      "products": [
+        "一加手机"
+      ],
+      "priority": 3
+    },
+    "title": "《一加一加手机遇上键盘鼠标推荐》",
+    "platform": "微博",
+    "angle": "专家解读",
+    "hot_topic": "键盘鼠标推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "一加手机",
+    "engagement_estimate": "29236+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860418"
+  },
+  {
+    "id": "3C数码_202603291339480040",
+    "client": {
+      "industry": "3C数码",
+      "brand": "漫步者",
+      "products": [
+        "漫步者音响"
+      ],
+      "priority": 5
+    },
+    "title": "《漫步者漫步者音响遇上数码配件好物》",
+    "platform": "微信视频号",
+    "angle": "痛点解决",
+    "hot_topic": "数码配件好物",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "漫步者音响",
+    "engagement_estimate": "48630+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860426"
+  },
+  {
+    "id": "家居_202603291339480001",
+    "client": {
+      "industry": "家居",
+      "brand": "摩飞",
+      "products": [
+        "摩飞榨汁杯"
+      ],
+      "priority": 5
+    },
+    "title": "《摩飞榨汁杯与冰箱收纳技巧的碰撞》",
+    "platform": "抖音",
+    "angle": "故事叙述",
+    "hot_topic": "冰箱收纳技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "摩飞榨汁杯",
+    "engagement_estimate": "20008+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860434"
+  },
+  {
+    "id": "家居_202603291339480002",
+    "client": {
+      "industry": "家居",
+      "brand": "摩飞",
+      "products": [
+        "摩飞多功能锅"
+      ],
+      "priority": 5
+    },
+    "title": "《摩飞摩飞多功能锅遇上床品选购指南》",
+    "platform": "小红书",
+    "angle": "对比测评",
+    "hot_topic": "床品选购指南",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "摩飞多功能锅",
+    "engagement_estimate": "21993+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860442"
+  },
+  {
+    "id": "家居_202603291339480003",
+    "client": {
+      "industry": "家居",
+      "brand": "洁碧",
+      "products": [
+        "洁碧电动牙刷"
+      ],
+      "priority": 3
+    },
+    "title": "《洁碧洁碧电动牙刷遇上家居绿植推荐》",
+    "platform": "微信视频号",
+    "angle": "对比测评",
+    "hot_topic": "家居绿植推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "洁碧电动牙刷",
+    "engagement_estimate": "15625+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860451"
+  },
+  {
+    "id": "家居_202603291339480004",
+    "client": {
+      "industry": "家居",
+      "brand": "北鼎",
+      "products": [
+        "北鼎蒸炖锅"
+      ],
+      "priority": 5
+    },
+    "title": "《北鼎北鼎蒸炖锅遇上清洁工具测评》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "清洁工具测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "北鼎蒸炖锅",
+    "engagement_estimate": "43091+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860458"
+  },
+  {
+    "id": "家居_202603291339480005",
+    "client": {
+      "industry": "家居",
+      "brand": "洁碧",
+      "products": [
+        "洁碧冲牙器"
+      ],
+      "priority": 3
+    },
+    "title": "《洁碧冲牙器与微波炉美食的碰撞》",
+    "platform": "B站",
+    "angle": "对比测评",
+    "hot_topic": "微波炉美食",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "洁碧冲牙器",
+    "engagement_estimate": "43258+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860466"
+  },
+  {
+    "id": "家居_202603291339480006",
+    "client": {
+      "industry": "家居",
+      "brand": "摩飞",
+      "products": [
+        "摩飞多功能锅"
+      ],
+      "priority": 5
+    },
+    "title": "《摩飞摩飞多功能锅遇上饮水机推荐》",
+    "platform": "微信视频号",
+    "angle": "痛点解决",
+    "hot_topic": "饮水机推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "摩飞多功能锅",
+    "engagement_estimate": "15862+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860474"
+  },
+  {
+    "id": "家居_202603291339480007",
+    "client": {
+      "industry": "家居",
+      "brand": "小熊",
+      "products": [
+        "小熊电饭煲"
+      ],
+      "priority": 5
+    },
+    "title": "《小熊电饭煲与家居绿植推荐的碰撞》",
+    "platform": "知乎",
+    "angle": "趋势解读",
+    "hot_topic": "家居绿植推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "小熊电饭煲",
+    "engagement_estimate": "17967+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860486"
+  },
+  {
+    "id": "家居_202603291339480008",
+    "client": {
+      "industry": "家居",
+      "brand": "美的",
+      "products": [
+        "美的电饭煲"
+      ],
+      "priority": 5
+    },
+    "title": "《美的美的电饭煲遇上厨房收纳技巧》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "厨房收纳技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "美的电饭煲",
+    "engagement_estimate": "45885+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860493"
+  },
+  {
+    "id": "家居_202603291339480009",
+    "client": {
+      "industry": "家居",
+      "brand": "北鼎",
+      "products": [
+        "北鼎养生壶"
+      ],
+      "priority": 3
+    },
+    "title": "《北鼎养生壶借势碗碟套装推荐：实用科普内容创作》",
+    "platform": "微信视频号",
+    "angle": "实用科普",
+    "hot_topic": "碗碟套装推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "北鼎养生壶",
+    "engagement_estimate": "20237+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860500"
+  },
+  {
+    "id": "家居_202603291339480010",
+    "client": {
+      "industry": "家居",
+      "brand": "小熊",
+      "products": [
+        "小熊加湿器"
+      ],
+      "priority": 5
+    },
+    "title": "《小熊小熊加湿器遇上租房改造攻略》",
+    "platform": "微博",
+    "angle": "好物推荐",
+    "hot_topic": "租房改造攻略",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "小熊加湿器",
+    "engagement_estimate": "29758+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860508"
+  },
+  {
+    "id": "家居_202603291339480011",
+    "client": {
+      "industry": "家居",
+      "brand": "美的",
+      "products": [
+        "美的电饭煲"
+      ],
+      "priority": 4
+    },
+    "title": "《美的电饭煲借势租房好物分享：故事叙述内容创作》",
+    "platform": "小红书",
+    "angle": "故事叙述",
+    "hot_topic": "租房好物分享",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "美的电饭煲",
+    "engagement_estimate": "18407+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860515"
+  },
+  {
+    "id": "家居_202603291339480012",
+    "client": {
+      "industry": "家居",
+      "brand": "摩飞",
+      "products": [
+        "摩飞榨汁杯"
+      ],
+      "priority": 4
+    },
+    "title": "《摩飞摩飞榨汁杯遇上饮水机推荐》",
+    "platform": "抖音",
+    "angle": "专家解读",
+    "hot_topic": "饮水机推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "摩飞榨汁杯",
+    "engagement_estimate": "29561+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860523"
+  },
+  {
+    "id": "家居_202603291339480013",
+    "client": {
+      "industry": "家居",
+      "brand": "美的",
+      "products": [
+        "美的电饭煲"
+      ],
+      "priority": 3
+    },
+    "title": "《美的电饭煲与家居香薰推荐的碰撞》",
+    "platform": "微信视频号",
+    "angle": "对比测评",
+    "hot_topic": "家居香薰推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "美的电饭煲",
+    "engagement_estimate": "32065+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860531"
+  },
+  {
+    "id": "家居_202603291339480014",
+    "client": {
+      "industry": "家居",
+      "brand": "格力",
+      "products": [
+        "格力空调"
+      ],
+      "priority": 4
+    },
+    "title": "《格力空调借势家居香薰推荐：好物推荐内容创作》",
+    "platform": "微博",
+    "angle": "好物推荐",
+    "hot_topic": "家居香薰推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "格力空调",
+    "engagement_estimate": "40207+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860538"
+  },
+  {
+    "id": "家居_202603291339480015",
+    "client": {
+      "industry": "家居",
+      "brand": "摩飞",
+      "products": [
+        "摩飞电水壶"
+      ],
+      "priority": 3
+    },
+    "title": "《摩飞电水壶与冰箱收纳技巧的碰撞》",
+    "platform": "小红书",
+    "angle": "专家解读",
+    "hot_topic": "冰箱收纳技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "摩飞电水壶",
+    "engagement_estimate": "24289+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860545"
+  },
+  {
+    "id": "家居_202603291339480016",
+    "client": {
+      "industry": "家居",
+      "brand": "北鼎",
+      "products": [
+        "北鼎蒸炖锅"
+      ],
+      "priority": 3
+    },
+    "title": "《北鼎北鼎蒸炖锅遇上饮水机推荐》",
+    "platform": "B站",
+    "angle": "专家解读",
+    "hot_topic": "饮水机推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "北鼎蒸炖锅",
+    "engagement_estimate": "47326+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860553"
+  },
+  {
+    "id": "家居_202603291339480017",
+    "client": {
+      "industry": "家居",
+      "brand": "倍轻松",
+      "products": [
+        "倍轻松头部按摩器"
+      ],
+      "priority": 4
+    },
+    "title": "《倍轻松倍轻松头部按摩器遇上冰箱收纳技巧》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "冰箱收纳技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "倍轻松头部按摩器",
+    "engagement_estimate": "18767+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860561"
+  },
+  {
+    "id": "家居_202603291339480018",
+    "client": {
+      "industry": "家居",
+      "brand": "美的",
+      "products": [
+        "美的空调"
+      ],
+      "priority": 4
+    },
+    "title": "《美的空调与清洁工具测评的碰撞》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "清洁工具测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "美的空调",
+    "engagement_estimate": "48055+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860568"
+  },
+  {
+    "id": "家居_202603291339480019",
+    "client": {
+      "industry": "家居",
+      "brand": "洁碧",
+      "products": [
+        "洁碧电动牙刷"
+      ],
+      "priority": 4
+    },
+    "title": "《洁碧电动牙刷与租房改造攻略的碰撞》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "租房改造攻略",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "洁碧电动牙刷",
+    "engagement_estimate": "42731+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860575"
+  },
+  {
+    "id": "家居_202603291339480020",
+    "client": {
+      "industry": "家居",
+      "brand": "北鼎",
+      "products": [
+        "北鼎蒸炖锅"
+      ],
+      "priority": 5
+    },
+    "title": "《北鼎蒸炖锅借势租房改造攻略：故事叙述内容创作》",
+    "platform": "小红书",
+    "angle": "故事叙述",
+    "hot_topic": "租房改造攻略",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "北鼎蒸炖锅",
+    "engagement_estimate": "37648+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860583"
+  },
+  {
+    "id": "家居_202603291339480021",
+    "client": {
+      "industry": "家居",
+      "brand": "洁碧",
+      "products": [
+        "洁碧水牙线"
+      ],
+      "priority": 4
+    },
+    "title": "《洁碧洁碧水牙线遇上家居绿植推荐》",
+    "platform": "知乎",
+    "angle": "热点追踪",
+    "hot_topic": "家居绿植推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "洁碧水牙线",
+    "engagement_estimate": "30154+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860591"
+  },
+  {
+    "id": "家居_202603291339480022",
+    "client": {
+      "industry": "家居",
+      "brand": "洁碧",
+      "products": [
+        "洁碧冲牙器"
+      ],
+      "priority": 3
+    },
+    "title": "《洁碧冲牙器借势小家电测评：实用科普内容创作》",
+    "platform": "知乎",
+    "angle": "实用科普",
+    "hot_topic": "小家电测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "洁碧冲牙器",
+    "engagement_estimate": "34300+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860598"
+  },
+  {
+    "id": "家居_202603291339480023",
+    "client": {
+      "industry": "家居",
+      "brand": "小熊",
+      "products": [
+        "小熊电饭煲"
+      ],
+      "priority": 4
+    },
+    "title": "《小熊小熊电饭煲遇上微波炉美食》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "微波炉美食",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小熊电饭煲",
+    "engagement_estimate": "32322+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860606"
+  },
+  {
+    "id": "家居_202603291339480024",
+    "client": {
+      "industry": "家居",
+      "brand": "洁碧",
+      "products": [
+        "洁碧电动牙刷"
+      ],
+      "priority": 5
+    },
+    "title": "《洁碧洁碧电动牙刷遇上厨房收纳技巧》",
+    "platform": "抖音",
+    "angle": "好物推荐",
+    "hot_topic": "厨房收纳技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "洁碧电动牙刷",
+    "engagement_estimate": "39807+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860613"
+  },
+  {
+    "id": "家居_202603291339480025",
+    "client": {
+      "industry": "家居",
+      "brand": "倍轻松",
+      "products": [
+        "倍轻松颈椎按摩仪"
+      ],
+      "priority": 5
+    },
+    "title": "《倍轻松颈椎按摩仪与厨房收纳技巧的碰撞》",
+    "platform": "知乎",
+    "angle": "好物推荐",
+    "hot_topic": "厨房收纳技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "倍轻松颈椎按摩仪",
+    "engagement_estimate": "38835+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860620"
+  },
+  {
+    "id": "家居_202603291339480026",
+    "client": {
+      "industry": "家居",
+      "brand": "奥克斯",
+      "products": [
+        "奥克斯电暖器"
+      ],
+      "priority": 3
+    },
+    "title": "《奥克斯电暖器借势床品选购指南：实用科普内容创作》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "床品选购指南",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "奥克斯电暖器",
+    "engagement_estimate": "19119+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860628"
+  },
+  {
+    "id": "家居_202603291339480027",
+    "client": {
+      "industry": "家居",
+      "brand": "格力",
+      "products": [
+        "格力空气净化器"
+      ],
+      "priority": 5
+    },
+    "title": "《格力空气净化器借势清洁工具测评：情感共鸣内容创作》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清洁工具测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "格力空气净化器",
+    "engagement_estimate": "16940+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860636"
+  },
+  {
+    "id": "家居_202603291339480028",
+    "client": {
+      "industry": "家居",
+      "brand": "摩飞",
+      "products": [
+        "摩飞榨汁杯"
+      ],
+      "priority": 3
+    },
+    "title": "《摩飞榨汁杯借势租房好物分享：痛点解决内容创作》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "租房好物分享",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "摩飞榨汁杯",
+    "engagement_estimate": "25070+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860643"
+  },
+  {
+    "id": "家居_202603291339480029",
+    "client": {
+      "industry": "家居",
+      "brand": "摩飞",
+      "products": [
+        "摩飞榨汁杯"
+      ],
+      "priority": 3
+    },
+    "title": "《摩飞榨汁杯借势冰箱收纳技巧：痛点解决内容创作》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "冰箱收纳技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "摩飞榨汁杯",
+    "engagement_estimate": "16410+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860650"
+  },
+  {
+    "id": "家居_202603291339480030",
+    "client": {
+      "industry": "家居",
+      "brand": "摩飞",
+      "products": [
+        "摩飞电水壶"
+      ],
+      "priority": 4
+    },
+    "title": "《摩飞电水壶借势小家电测评：故事叙述内容创作》",
+    "platform": "微信视频号",
+    "angle": "故事叙述",
+    "hot_topic": "小家电测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "摩飞电水壶",
+    "engagement_estimate": "34696+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860658"
+  },
+  {
+    "id": "家居_202603291339480031",
+    "client": {
+      "industry": "家居",
+      "brand": "奥克斯",
+      "products": [
+        "奥克斯取暖器"
+      ],
+      "priority": 5
+    },
+    "title": "《奥克斯取暖器与家居香薰推荐的碰撞》",
+    "platform": "抖音",
+    "angle": "好物推荐",
+    "hot_topic": "家居香薰推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "奥克斯取暖器",
+    "engagement_estimate": "23881+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860665"
+  },
+  {
+    "id": "家居_202603291339480032",
+    "client": {
+      "industry": "家居",
+      "brand": "倍轻松",
+      "products": [
+        "倍轻松颈椎按摩仪"
+      ],
+      "priority": 3
+    },
+    "title": "《倍轻松颈椎按摩仪与租房好物分享的碰撞》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "租房好物分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "倍轻松颈椎按摩仪",
+    "engagement_estimate": "34100+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860673"
+  },
+  {
+    "id": "家居_202603291339480033",
+    "client": {
+      "industry": "家居",
+      "brand": "小熊",
+      "products": [
+        "小熊加湿器"
+      ],
+      "priority": 5
+    },
+    "title": "《小熊加湿器与清洁工具测评的碰撞》",
+    "platform": "知乎",
+    "angle": "趋势解读",
+    "hot_topic": "清洁工具测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "小熊加湿器",
+    "engagement_estimate": "33991+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860681"
+  },
+  {
+    "id": "家居_202603291339480034",
+    "client": {
+      "industry": "家居",
+      "brand": "洁碧",
+      "products": [
+        "洁碧冲牙器"
+      ],
+      "priority": 4
+    },
+    "title": "《洁碧洁碧冲牙器遇上家居绿植推荐》",
+    "platform": "微博",
+    "angle": "故事叙述",
+    "hot_topic": "家居绿植推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "洁碧冲牙器",
+    "engagement_estimate": "21162+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860688"
+  },
+  {
+    "id": "家居_202603291339480035",
+    "client": {
+      "industry": "家居",
+      "brand": "小熊",
+      "products": [
+        "小熊电饭煲"
+      ],
+      "priority": 4
+    },
+    "title": "《小熊小熊电饭煲遇上碗碟套装推荐》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "碗碟套装推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "小熊电饭煲",
+    "engagement_estimate": "19467+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860695"
+  },
+  {
+    "id": "健身_202603291339480001",
+    "client": {
+      "industry": "健身",
+      "brand": "诺特兰德",
+      "products": [
+        "诺特兰德氮泵"
+      ],
+      "priority": 4
+    },
+    "title": "《诺特兰德诺特兰德氮泵遇上跑步装备清单》",
+    "platform": "抖音",
+    "angle": "对比测评",
+    "hot_topic": "跑步装备清单",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "诺特兰德氮泵",
+    "engagement_estimate": "16472+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860704"
+  },
+  {
+    "id": "健身_202603291339480002",
+    "client": {
+      "industry": "健身",
+      "brand": "KRUPS",
+      "products": [
+        "KRUPS榨汁机"
+      ],
+      "priority": 4
+    },
+    "title": "《KRUPSKRUPS榨汁机遇上健身房礼仪》",
+    "platform": "B站",
+    "angle": "故事叙述",
+    "hot_topic": "健身房礼仪",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "KRUPS榨汁机",
+    "engagement_estimate": "36690+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860712"
+  },
+  {
+    "id": "健身_202603291339480003",
+    "client": {
+      "industry": "健身",
+      "brand": "MAIA ACTIVE",
+      "products": [
+        "MAIA ACTIVE健身衣"
+      ],
+      "priority": 4
+    },
+    "title": "《MAIA ACTIVEMAIA ACTIVE健身衣遇上拉伸放松动作》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "拉伸放松动作",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "MAIA ACTIVE健身衣",
+    "engagement_estimate": "39187+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860720"
+  },
+  {
+    "id": "健身_202603291339480004",
+    "client": {
+      "industry": "健身",
+      "brand": "MAIA ACTIVE",
+      "products": [
+        "MAIA ACTIVE瑜伽裤"
+      ],
+      "priority": 3
+    },
+    "title": "《MAIA ACTIVEMAIA ACTIVE瑜伽裤遇上马甲线训练》",
+    "platform": "知乎",
+    "angle": "限时优惠",
+    "hot_topic": "马甲线训练",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "MAIA ACTIVE瑜伽裤",
+    "engagement_estimate": "26133+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860729"
+  },
+  {
+    "id": "健身_202603291339480005",
+    "client": {
+      "industry": "健身",
+      "brand": "麦瑞克",
+      "products": [
+        "麦瑞克椭圆机"
+      ],
+      "priority": 5
+    },
+    "title": "《麦瑞克椭圆机借势骑行装备分享：实用科普内容创作》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "骑行装备分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "麦瑞克椭圆机",
+    "engagement_estimate": "18686+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860736"
+  },
+  {
+    "id": "健身_202603291339480006",
+    "client": {
+      "industry": "健身",
+      "brand": "MAIA ACTIVE",
+      "products": [
+        "MAIA ACTIVE运动内衣"
+      ],
+      "priority": 4
+    },
+    "title": "《MAIA ACTIVEMAIA ACTIVE运动内衣遇上HIIT燃脂训练》",
+    "platform": "知乎",
+    "angle": "对比测评",
+    "hot_topic": "HIIT燃脂训练",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "MAIA ACTIVE运动内衣",
+    "engagement_estimate": "30344+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860744"
+  },
+  {
+    "id": "健身_202603291339480007",
+    "client": {
+      "industry": "健身",
+      "brand": "肌肉科技",
+      "products": [
+        "肌肉科技乳清蛋白"
+      ],
+      "priority": 3
+    },
+    "title": "《肌肉科技乳清蛋白与运动内衣推荐的碰撞》",
+    "platform": "知乎",
+    "angle": "热点追踪",
+    "hot_topic": "运动内衣推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "肌肉科技乳清蛋白",
+    "engagement_estimate": "16250+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860753"
+  },
+  {
+    "id": "健身_202603291339480008",
+    "client": {
+      "industry": "健身",
+      "brand": "粒子狂热",
+      "products": [
+        "粒子狂热运动服"
+      ],
+      "priority": 3
+    },
+    "title": "《粒子狂热运动服借势骑行装备分享：情感共鸣内容创作》",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "骑行装备分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "粒子狂热运动服",
+    "engagement_estimate": "26264+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860761"
+  },
+  {
+    "id": "健身_202603291339480009",
+    "client": {
+      "industry": "健身",
+      "brand": "肌肉科技",
+      "products": [
+        "肌肉科技乳清蛋白"
+      ],
+      "priority": 3
+    },
+    "title": "《肌肉科技肌肉科技乳清蛋白遇上健身房礼仪》",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "健身房礼仪",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "肌肉科技乳清蛋白",
+    "engagement_estimate": "37387+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860769"
+  },
+  {
+    "id": "健身_202603291339480010",
+    "client": {
+      "industry": "健身",
+      "brand": "麦瑞克",
+      "products": [
+        "麦瑞克跑步机"
+      ],
+      "priority": 3
+    },
+    "title": "《麦瑞克跑步机借势运动内衣推荐：情感共鸣内容创作》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "运动内衣推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "麦瑞克跑步机",
+    "engagement_estimate": "42434+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860777"
+  },
+  {
+    "id": "健身_202603291339480011",
+    "client": {
+      "industry": "健身",
+      "brand": "麦瑞克",
+      "products": [
+        "麦瑞克跑步机"
+      ],
+      "priority": 5
+    },
+    "title": "《麦瑞克麦瑞克跑步机遇上减脂餐食谱》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "减脂餐食谱",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "麦瑞克跑步机",
+    "engagement_estimate": "19252+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860785"
+  },
+  {
+    "id": "健身_202603291339480012",
+    "client": {
+      "industry": "健身",
+      "brand": "粒子狂热",
+      "products": [
+        "粒子狂热运动外套"
+      ],
+      "priority": 5
+    },
+    "title": "《粒子狂热运动外套与增肌饮食计划的碰撞》",
+    "platform": "B站",
+    "angle": "情感共鸣",
+    "hot_topic": "增肌饮食计划",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "粒子狂热运动外套",
+    "engagement_estimate": "35626+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860794"
+  },
+  {
+    "id": "健身_202603291339480013",
+    "client": {
+      "industry": "健身",
+      "brand": "粒子狂热",
+      "products": [
+        "粒子狂热运动服"
+      ],
+      "priority": 4
+    },
+    "title": "《粒子狂热运动服借势HIIT燃脂训练：限时优惠内容创作》",
+    "platform": "小红书",
+    "angle": "限时优惠",
+    "hot_topic": "HIIT燃脂训练",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "粒子狂热运动服",
+    "engagement_estimate": "38331+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860803"
+  },
+  {
+    "id": "健身_202603291339480014",
+    "client": {
+      "industry": "健身",
+      "brand": "肌肉科技",
+      "products": [
+        "肌肉科技减脂胶囊"
+      ],
+      "priority": 3
+    },
+    "title": "《肌肉科技肌肉科技减脂胶囊遇上健身房礼仪》",
+    "platform": "B站",
+    "angle": "热点追踪",
+    "hot_topic": "健身房礼仪",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "肌肉科技减脂胶囊",
+    "engagement_estimate": "48534+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860810"
+  },
+  {
+    "id": "健身_202603291339480015",
+    "client": {
+      "industry": "健身",
+      "brand": "KRUPS",
+      "products": [
+        "KRUPS咖啡机"
+      ],
+      "priority": 4
+    },
+    "title": "《KRUPS咖啡机借势蛋白粉冲泡技巧：实用科普内容创作》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "蛋白粉冲泡技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "KRUPS咖啡机",
+    "engagement_estimate": "27244+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860818"
+  },
+  {
+    "id": "健身_202603291339480016",
+    "client": {
+      "industry": "健身",
+      "brand": "野小兽",
+      "products": [
+        "野小兽跑步机"
+      ],
+      "priority": 4
+    },
+    "title": "《野小兽跑步机与拉伸放松动作的碰撞》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "拉伸放松动作",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "野小兽跑步机",
+    "engagement_estimate": "39572+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860826"
+  },
+  {
+    "id": "健身_202603291339480017",
+    "client": {
+      "industry": "健身",
+      "brand": "粒子狂热",
+      "products": [
+        "粒子狂热运动服"
+      ],
+      "priority": 3
+    },
+    "title": "《粒子狂热运动服与骑行装备分享的碰撞》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "骑行装备分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "粒子狂热运动服",
+    "engagement_estimate": "22105+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860837"
+  },
+  {
+    "id": "健身_202603291339480018",
+    "client": {
+      "industry": "健身",
+      "brand": "KRUPS",
+      "products": [
+        "KRUPS料理机"
+      ],
+      "priority": 3
+    },
+    "title": "《KRUPSKRUPS料理机遇上减脂餐食谱》",
+    "platform": "抖音",
+    "angle": "限时优惠",
+    "hot_topic": "减脂餐食谱",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "KRUPS料理机",
+    "engagement_estimate": "24129+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860845"
+  },
+  {
+    "id": "健身_202603291339480019",
+    "client": {
+      "industry": "健身",
+      "brand": "MAIA ACTIVE",
+      "products": [
+        "MAIA ACTIVE健身衣"
+      ],
+      "priority": 4
+    },
+    "title": "《MAIA ACTIVEMAIA ACTIVE健身衣遇上马甲线训练》",
+    "platform": "B站",
+    "angle": "专家解读",
+    "hot_topic": "马甲线训练",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "MAIA ACTIVE健身衣",
+    "engagement_estimate": "36583+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860853"
+  },
+  {
+    "id": "健身_202603291339480020",
+    "client": {
+      "industry": "健身",
+      "brand": "MAIA ACTIVE",
+      "products": [
+        "MAIA ACTIVE瑜伽裤"
+      ],
+      "priority": 5
+    },
+    "title": "《MAIA ACTIVE瑜伽裤与瑜伽入门动作的碰撞》",
+    "platform": "小红书",
+    "angle": "故事叙述",
+    "hot_topic": "瑜伽入门动作",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "MAIA ACTIVE瑜伽裤",
+    "engagement_estimate": "26736+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860861"
+  },
+  {
+    "id": "健身_202603291339480021",
+    "client": {
+      "industry": "健身",
+      "brand": "粒子狂热",
+      "products": [
+        "粒子狂热瑜伽裤"
+      ],
+      "priority": 4
+    },
+    "title": "《粒子狂热粒子狂热瑜伽裤遇上HIIT燃脂训练》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "HIIT燃脂训练",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "粒子狂热瑜伽裤",
+    "engagement_estimate": "18209+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860869"
+  },
+  {
+    "id": "健身_202603291339480022",
+    "client": {
+      "industry": "健身",
+      "brand": "诺特兰德",
+      "products": [
+        "诺特兰德氮泵"
+      ],
+      "priority": 4
+    },
+    "title": "《诺特兰德诺特兰德氮泵遇上瑜伽入门动作》",
+    "platform": "知乎",
+    "angle": "好物推荐",
+    "hot_topic": "瑜伽入门动作",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "诺特兰德氮泵",
+    "engagement_estimate": "26554+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860876"
+  },
+  {
+    "id": "健身_202603291339480023",
+    "client": {
+      "industry": "健身",
+      "brand": "佑美",
+      "products": [
+        "佑美筋膜枪"
+      ],
+      "priority": 5
+    },
+    "title": "《佑美筋膜枪借势骑行装备分享：好物推荐内容创作》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "骑行装备分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "佑美筋膜枪",
+    "engagement_estimate": "31071+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860886"
+  },
+  {
+    "id": "健身_202603291339480024",
+    "client": {
+      "industry": "健身",
+      "brand": "肌肉科技",
+      "products": [
+        "肌肉科技增肌粉"
+      ],
+      "priority": 4
+    },
+    "title": "《肌肉科技增肌粉与增肌饮食计划的碰撞》",
+    "platform": "微博",
+    "angle": "热点追踪",
+    "hot_topic": "增肌饮食计划",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "肌肉科技增肌粉",
+    "engagement_estimate": "29522+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860894"
+  },
+  {
+    "id": "健身_202603291339480025",
+    "client": {
+      "industry": "健身",
+      "brand": "肌肉科技",
+      "products": [
+        "肌肉科技减脂胶囊"
+      ],
+      "priority": 4
+    },
+    "title": "《肌肉科技肌肉科技减脂胶囊遇上骑行装备分享》",
+    "platform": "微博",
+    "angle": "趋势解读",
+    "hot_topic": "骑行装备分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "肌肉科技减脂胶囊",
+    "engagement_estimate": "40247+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860902"
+  },
+  {
+    "id": "健身_202603291339480026",
+    "client": {
+      "industry": "健身",
+      "brand": "麦瑞克",
+      "products": [
+        "麦瑞克划船机"
+      ],
+      "priority": 3
+    },
+    "title": "《麦瑞克麦瑞克划船机遇上增肌饮食计划》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "增肌饮食计划",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "麦瑞克划船机",
+    "engagement_estimate": "34143+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860910"
+  },
+  {
+    "id": "健身_202603291339480027",
+    "client": {
+      "industry": "健身",
+      "brand": "MAIA ACTIVE",
+      "products": [
+        "MAIA ACTIVE瑜伽裤"
+      ],
+      "priority": 5
+    },
+    "title": "《MAIA ACTIVEMAIA ACTIVE瑜伽裤遇上骑行装备分享》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "骑行装备分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "MAIA ACTIVE瑜伽裤",
+    "engagement_estimate": "28169+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860917"
+  },
+  {
+    "id": "健身_202603291339480028",
+    "client": {
+      "industry": "健身",
+      "brand": "佑美",
+      "products": [
+        "佑美跑步机"
+      ],
+      "priority": 5
+    },
+    "title": "《佑美佑美跑步机遇上瑜伽入门动作》",
+    "platform": "B站",
+    "angle": "热点追踪",
+    "hot_topic": "瑜伽入门动作",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "佑美跑步机",
+    "engagement_estimate": "26418+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860925"
+  },
+  {
+    "id": "健身_202603291339480029",
+    "client": {
+      "industry": "健身",
+      "brand": "佑美",
+      "products": [
+        "佑美跑步机"
+      ],
+      "priority": 5
+    },
+    "title": "《佑美跑步机借势HIIT燃脂训练：痛点解决内容创作》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "HIIT燃脂训练",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "佑美跑步机",
+    "engagement_estimate": "44317+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860932"
+  },
+  {
+    "id": "健身_202603291339480030",
+    "client": {
+      "industry": "健身",
+      "brand": "肌肉科技",
+      "products": [
+        "肌肉科技乳清蛋白"
+      ],
+      "priority": 5
+    },
+    "title": "《肌肉科技乳清蛋白借势游泳装备推荐：对比测评内容创作》",
+    "platform": "知乎",
+    "angle": "对比测评",
+    "hot_topic": "游泳装备推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "肌肉科技乳清蛋白",
+    "engagement_estimate": "48157+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860940"
+  },
+  {
+    "id": "健身_202603291339480031",
+    "client": {
+      "industry": "健身",
+      "brand": "佑美",
+      "products": [
+        "佑美筋膜枪"
+      ],
+      "priority": 4
+    },
+    "title": "《佑美筋膜枪与瑜伽入门动作的碰撞》",
+    "platform": "微信视频号",
+    "angle": "痛点解决",
+    "hot_topic": "瑜伽入门动作",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "佑美筋膜枪",
+    "engagement_estimate": "35975+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860947"
+  },
+  {
+    "id": "健身_202603291339480032",
+    "client": {
+      "industry": "健身",
+      "brand": "粒子狂热",
+      "products": [
+        "粒子狂热运动服"
+      ],
+      "priority": 4
+    },
+    "title": "《粒子狂热粒子狂热运动服遇上增肌饮食计划》",
+    "platform": "小红书",
+    "angle": "对比测评",
+    "hot_topic": "增肌饮食计划",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "粒子狂热运动服",
+    "engagement_estimate": "20090+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860955"
+  },
+  {
+    "id": "健身_202603291339480033",
+    "client": {
+      "industry": "健身",
+      "brand": "粒子狂热",
+      "products": [
+        "粒子狂热瑜伽裤"
+      ],
+      "priority": 3
+    },
+    "title": "《粒子狂热瑜伽裤借势蛋白粉冲泡技巧：痛点解决内容创作》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "蛋白粉冲泡技巧",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "粒子狂热瑜伽裤",
+    "engagement_estimate": "36174+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860963"
+  },
+  {
+    "id": "健身_202603291339480034",
+    "client": {
+      "industry": "健身",
+      "brand": "诺特兰德",
+      "products": [
+        "诺特兰德支链氨基酸"
+      ],
+      "priority": 3
+    },
+    "title": "《诺特兰德支链氨基酸借势蛋白粉冲泡技巧：趋势解读内容创作》",
+    "platform": "微信视频号",
+    "angle": "趋势解读",
+    "hot_topic": "蛋白粉冲泡技巧",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "诺特兰德支链氨基酸",
+    "engagement_estimate": "21911+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860971"
+  },
+  {
+    "id": "健身_202603291339480035",
+    "client": {
+      "industry": "健身",
+      "brand": "野小兽",
+      "products": [
+        "野小兽跑步机"
+      ],
+      "priority": 5
+    },
+    "title": "《野小兽跑步机与增肌饮食计划的碰撞》",
+    "platform": "小红书",
+    "angle": "专家解读",
+    "hot_topic": "增肌饮食计划",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "野小兽跑步机",
+    "engagement_estimate": "38456+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860979"
+  },
+  {
+    "id": "教育_202603291339480001",
+    "client": {
+      "industry": "教育",
+      "brand": "优学派",
+      "products": [
+        "优学派学生平板"
+      ],
+      "priority": 3
+    },
+    "title": "《优学派学生平板与错题本整理方法的碰撞》",
+    "platform": "B站",
+    "angle": "情感共鸣",
+    "hot_topic": "错题本整理方法",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "优学派学生平板",
+    "engagement_estimate": "37981+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860987"
+  },
+  {
+    "id": "教育_202603291339480002",
+    "client": {
+      "industry": "教育",
+      "brand": "得力",
+      "products": [
+        "得力书包"
+      ],
+      "priority": 4
+    },
+    "title": "《得力得力书包遇上儿童读物推荐》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "儿童读物推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "得力书包",
+    "engagement_estimate": "24334+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.860995"
+  },
+  {
+    "id": "教育_202603291339480003",
+    "client": {
+      "industry": "教育",
+      "brand": "读书郎",
+      "products": [
+        "读书郎点读机"
+      ],
+      "priority": 3
+    },
+    "title": "《读书郎点读机与STEM玩具清单的碰撞》",
+    "platform": "抖音",
+    "angle": "专家解读",
+    "hot_topic": "STEM玩具清单",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "读书郎点读机",
+    "engagement_estimate": "33074+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861003"
+  },
+  {
+    "id": "教育_202603291339480004",
+    "client": {
+      "industry": "教育",
+      "brand": "步步高",
+      "products": [
+        "步步高点读机"
+      ],
+      "priority": 5
+    },
+    "title": "《步步高步步高点读机遇上益智玩具推荐》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "益智玩具推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "步步高点读机",
+    "engagement_estimate": "33977+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861011"
+  },
+  {
+    "id": "教育_202603291339480005",
+    "client": {
+      "industry": "教育",
+      "brand": "步步高",
+      "products": [
+        "步步高学习机"
+      ],
+      "priority": 3
+    },
+    "title": "《步步高学习机借势儿童书包推荐：热点追踪内容创作》",
+    "platform": "抖音",
+    "angle": "热点追踪",
+    "hot_topic": "儿童书包推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "步步高学习机",
+    "engagement_estimate": "18914+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861019"
+  },
+  {
+    "id": "教育_202603291339480006",
+    "client": {
+      "industry": "教育",
+      "brand": "喵喵机",
+      "products": [
+        "喵喵机错题打印机"
+      ],
+      "priority": 5
+    },
+    "title": "《喵喵机喵喵机错题打印机遇上儿童读物推荐》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "儿童读物推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "喵喵机错题打印机",
+    "engagement_estimate": "39923+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861026"
+  },
+  {
+    "id": "教育_202603291339480007",
+    "client": {
+      "industry": "教育",
+      "brand": "步步高",
+      "products": [
+        "步步高点读机"
+      ],
+      "priority": 4
+    },
+    "title": "《步步高点读机与STEM玩具清单的碰撞》",
+    "platform": "微博",
+    "angle": "故事叙述",
+    "hot_topic": "STEM玩具清单",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "步步高点读机",
+    "engagement_estimate": "43708+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861034"
+  },
+  {
+    "id": "教育_202603291339480008",
+    "client": {
+      "industry": "教育",
+      "brand": "读书郎",
+      "products": [
+        "读书郎学生平板"
+      ],
+      "priority": 4
+    },
+    "title": "《读书郎学生平板借势文具开箱测评：对比测评内容创作》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "文具开箱测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "读书郎学生平板",
+    "engagement_estimate": "44398+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861042"
+  },
+  {
+    "id": "教育_202603291339480009",
+    "client": {
+      "industry": "教育",
+      "brand": "优学派",
+      "products": [
+        "优学派点读机"
+      ],
+      "priority": 4
+    },
+    "title": "《优学派点读机借势错题本整理方法：实用科普内容创作》",
+    "platform": "抖音",
+    "angle": "实用科普",
+    "hot_topic": "错题本整理方法",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "优学派点读机",
+    "engagement_estimate": "15103+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861049"
+  },
+  {
+    "id": "教育_202603291339480010",
+    "client": {
+      "industry": "教育",
+      "brand": "步步高",
+      "products": [
+        "步步高点读机"
+      ],
+      "priority": 4
+    },
+    "title": "《步步高点读机借势儿童读物推荐：故事叙述内容创作》",
+    "platform": "B站",
+    "angle": "故事叙述",
+    "hot_topic": "儿童读物推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "步步高点读机",
+    "engagement_estimate": "16634+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861058"
+  },
+  {
+    "id": "教育_202603291339480011",
+    "client": {
+      "industry": "教育",
+      "brand": "晨光",
+      "products": [
+        "晨光马克笔"
+      ],
+      "priority": 5
+    },
+    "title": "《晨光马克笔借势护眼灯测评：实用科普内容创作》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "护眼灯测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "晨光马克笔",
+    "engagement_estimate": "31853+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861067"
+  },
+  {
+    "id": "教育_202603291339480012",
+    "client": {
+      "industry": "教育",
+      "brand": "优学派",
+      "products": [
+        "优学派学生平板"
+      ],
+      "priority": 5
+    },
+    "title": "《优学派学生平板借势儿童绘画工具：专家解读内容创作》",
+    "platform": "微信视频号",
+    "angle": "专家解读",
+    "hot_topic": "儿童绘画工具",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "优学派学生平板",
+    "engagement_estimate": "46733+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861075"
+  },
+  {
+    "id": "教育_202603291339480013",
+    "client": {
+      "industry": "教育",
+      "brand": "喵喵机",
+      "products": [
+        "喵喵机学习打印机"
+      ],
+      "priority": 5
+    },
+    "title": "《喵喵机学习打印机借势STEM玩具清单：热点追踪内容创作》",
+    "platform": "知乎",
+    "angle": "热点追踪",
+    "hot_topic": "STEM玩具清单",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "喵喵机学习打印机",
+    "engagement_estimate": "27427+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861083"
+  },
+  {
+    "id": "教育_202603291339480014",
+    "client": {
+      "industry": "教育",
+      "brand": "晨光",
+      "products": [
+        "晨光笔记本"
+      ],
+      "priority": 5
+    },
+    "title": "《晨光笔记本借势学习桌选购：故事叙述内容创作》",
+    "platform": "小红书",
+    "angle": "故事叙述",
+    "hot_topic": "学习桌选购",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "晨光笔记本",
+    "engagement_estimate": "20394+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861091"
+  },
+  {
+    "id": "教育_202603291339480015",
+    "client": {
+      "industry": "教育",
+      "brand": "喵喵机",
+      "products": [
+        "喵喵机咕咕机"
+      ],
+      "priority": 5
+    },
+    "title": "《喵喵机咕咕机与护眼灯测评的碰撞》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "护眼灯测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "喵喵机咕咕机",
+    "engagement_estimate": "34087+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861099"
+  },
+  {
+    "id": "教育_202603291339480016",
+    "client": {
+      "industry": "教育",
+      "brand": "晨光",
+      "products": [
+        "晨光马克笔"
+      ],
+      "priority": 5
+    },
+    "title": "《晨光晨光马克笔遇上益智玩具推荐》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "益智玩具推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "晨光马克笔",
+    "engagement_estimate": "22197+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861106"
+  },
+  {
+    "id": "教育_202603291339480017",
+    "client": {
+      "industry": "教育",
+      "brand": "作业帮",
+      "products": [
+        "作业帮学习笔"
+      ],
+      "priority": 4
+    },
+    "title": "《作业帮学习笔借势益智玩具推荐：情感共鸣内容创作》",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "益智玩具推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "作业帮学习笔",
+    "engagement_estimate": "44842+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861115"
+  },
+  {
+    "id": "教育_202603291339480018",
+    "client": {
+      "industry": "教育",
+      "brand": "读书郎",
+      "products": [
+        "读书郎学习机"
+      ],
+      "priority": 3
+    },
+    "title": "《读书郎学习机借势儿童书包推荐：实用科普内容创作》",
+    "platform": "微信视频号",
+    "angle": "实用科普",
+    "hot_topic": "儿童书包推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "读书郎学习机",
+    "engagement_estimate": "22737+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861123"
+  },
+  {
+    "id": "教育_202603291339480019",
+    "client": {
+      "industry": "教育",
+      "brand": "作业帮",
+      "products": [
+        "作业帮错题打印机"
+      ],
+      "priority": 4
+    },
+    "title": "《作业帮错题打印机与学习桌选购的碰撞》",
+    "platform": "微信视频号",
+    "angle": "故事叙述",
+    "hot_topic": "学习桌选购",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "作业帮错题打印机",
+    "engagement_estimate": "38202+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861130"
+  },
+  {
+    "id": "教育_202603291339480020",
+    "client": {
+      "industry": "教育",
+      "brand": "小天才",
+      "products": [
+        "小天才学习平板"
+      ],
+      "priority": 5
+    },
+    "title": "《小天才小天才学习平板遇上儿童书包推荐》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "儿童书包推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小天才学习平板",
+    "engagement_estimate": "47104+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861138"
+  },
+  {
+    "id": "教育_202603291339480021",
+    "client": {
+      "industry": "教育",
+      "brand": "喵喵机",
+      "products": [
+        "喵喵机学习打印机"
+      ],
+      "priority": 3
+    },
+    "title": "《喵喵机学习打印机借势益智玩具推荐：实用科普内容创作》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "益智玩具推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "喵喵机学习打印机",
+    "engagement_estimate": "17759+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861145"
+  },
+  {
+    "id": "教育_202603291339480022",
+    "client": {
+      "industry": "教育",
+      "brand": "喵喵机",
+      "products": [
+        "喵喵机错题打印机"
+      ],
+      "priority": 5
+    },
+    "title": "《喵喵机错题打印机借势益智玩具推荐：限时优惠内容创作》",
+    "platform": "B站",
+    "angle": "限时优惠",
+    "hot_topic": "益智玩具推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "喵喵机错题打印机",
+    "engagement_estimate": "36341+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861153"
+  },
+  {
+    "id": "教育_202603291339480023",
+    "client": {
+      "industry": "教育",
+      "brand": "作业帮",
+      "products": [
+        "作业帮学生平板"
+      ],
+      "priority": 4
+    },
+    "title": "《作业帮作业帮学生平板遇上文具开箱测评》",
+    "platform": "抖音",
+    "angle": "实用科普",
+    "hot_topic": "文具开箱测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "作业帮学生平板",
+    "engagement_estimate": "28247+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861160"
+  },
+  {
+    "id": "教育_202603291339480024",
+    "client": {
+      "industry": "教育",
+      "brand": "晨光",
+      "products": [
+        "晨光笔记本"
+      ],
+      "priority": 3
+    },
+    "title": "《晨光笔记本借势STEM玩具清单：情感共鸣内容创作》",
+    "platform": "抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "STEM玩具清单",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "晨光笔记本",
+    "engagement_estimate": "26050+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861168"
+  },
+  {
+    "id": "教育_202603291339480025",
+    "client": {
+      "industry": "教育",
+      "brand": "优学派",
+      "products": [
+        "优学派学生平板"
+      ],
+      "priority": 4
+    },
+    "title": "《优学派学生平板借势早教启蒙好物：热点追踪内容创作》",
+    "platform": "微博",
+    "angle": "热点追踪",
+    "hot_topic": "早教启蒙好物",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "优学派学生平板",
+    "engagement_estimate": "21309+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861176"
+  },
+  {
+    "id": "教育_202603291339480026",
+    "client": {
+      "industry": "教育",
+      "brand": "作业帮",
+      "products": [
+        "作业帮学生平板"
+      ],
+      "priority": 5
+    },
+    "title": "《作业帮学生平板与儿童绘画工具的碰撞》",
+    "platform": "小红书",
+    "angle": "故事叙述",
+    "hot_topic": "儿童绘画工具",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "作业帮学生平板",
+    "engagement_estimate": "17291+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861184"
+  },
+  {
+    "id": "教育_202603291339480027",
+    "client": {
+      "industry": "教育",
+      "brand": "喵喵机",
+      "products": [
+        "喵喵机学习打印机"
+      ],
+      "priority": 5
+    },
+    "title": "《喵喵机喵喵机学习打印机遇上文具开箱测评》",
+    "platform": "抖音",
+    "angle": "实用科普",
+    "hot_topic": "文具开箱测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "喵喵机学习打印机",
+    "engagement_estimate": "44026+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861191"
+  },
+  {
+    "id": "教育_202603291339480028",
+    "client": {
+      "industry": "教育",
+      "brand": "晨光",
+      "products": [
+        "晨光中性笔"
+      ],
+      "priority": 4
+    },
+    "title": "《晨光中性笔借势儿童书包推荐：专家解读内容创作》",
+    "platform": "微信视频号",
+    "angle": "专家解读",
+    "hot_topic": "儿童书包推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "晨光中性笔",
+    "engagement_estimate": "24893+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861199"
+  },
+  {
+    "id": "教育_202603291339480029",
+    "client": {
+      "industry": "教育",
+      "brand": "小天才",
+      "products": [
+        "小天才学习平板"
+      ],
+      "priority": 5
+    },
+    "title": "《小天才学习平板借势学习方法分享：故事叙述内容创作》",
+    "platform": "B站",
+    "angle": "故事叙述",
+    "hot_topic": "学习方法分享",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "小天才学习平板",
+    "engagement_estimate": "44418+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861207"
+  },
+  {
+    "id": "教育_202603291339480030",
+    "client": {
+      "industry": "教育",
+      "brand": "作业帮",
+      "products": [
+        "作业帮学生平板"
+      ],
+      "priority": 5
+    },
+    "title": "《作业帮×作业帮学生平板深度解读儿童绘画工具》",
+    "platform": "知乎",
+    "angle": "情感共鸣",
+    "hot_topic": "儿童绘画工具",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "作业帮学生平板",
+    "engagement_estimate": "33833+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861214"
+  },
+  {
+    "id": "教育_202603291339480031",
+    "client": {
+      "industry": "教育",
+      "brand": "喵喵机",
+      "products": [
+        "喵喵机错题打印机"
+      ],
+      "priority": 3
+    },
+    "title": "《喵喵机错题打印机借势儿童绘画工具：热点追踪内容创作》",
+    "platform": "B站",
+    "angle": "热点追踪",
+    "hot_topic": "儿童绘画工具",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "喵喵机错题打印机",
+    "engagement_estimate": "49368+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861222"
+  },
+  {
+    "id": "教育_202603291339480032",
+    "client": {
+      "industry": "教育",
+      "brand": "小天才",
+      "products": [
+        "小天才学习平板"
+      ],
+      "priority": 3
+    },
+    "title": "《小天才小天才学习平板遇上益智玩具推荐》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "益智玩具推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小天才学习平板",
+    "engagement_estimate": "27963+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861230"
+  },
+  {
+    "id": "教育_202603291339480033",
+    "client": {
+      "industry": "教育",
+      "brand": "作业帮",
+      "products": [
+        "作业帮学习笔"
+      ],
+      "priority": 3
+    },
+    "title": "《作业帮学习笔借势护眼灯测评：好物推荐内容创作》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "护眼灯测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "作业帮学习笔",
+    "engagement_estimate": "38613+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861237"
+  },
+  {
+    "id": "教育_202603291339480034",
+    "client": {
+      "industry": "教育",
+      "brand": "晨光",
+      "products": [
+        "晨光笔记本"
+      ],
+      "priority": 5
+    },
+    "title": "《晨光笔记本借势文具开箱测评：好物推荐内容创作》",
+    "platform": "微博",
+    "angle": "好物推荐",
+    "hot_topic": "文具开箱测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "晨光笔记本",
+    "engagement_estimate": "39034+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861245"
+  },
+  {
+    "id": "教育_202603291339480035",
+    "client": {
+      "industry": "教育",
+      "brand": "读书郎",
+      "products": [
+        "读书郎学习机"
+      ],
+      "priority": 3
+    },
+    "title": "《读书郎读书郎学习机遇上早教启蒙好物》",
+    "platform": "微博",
+    "angle": "热点追踪",
+    "hot_topic": "早教启蒙好物",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "读书郎学习机",
+    "engagement_estimate": "49568+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861253"
+  },
+  {
+    "id": "宠物_202603291339480001",
+    "client": {
+      "industry": "宠物",
+      "brand": "霍曼",
+      "products": [
+        "霍曼宠物饮水机"
+      ],
+      "priority": 3
+    },
+    "title": "《霍曼霍曼宠物饮水机遇上猫砂盆推荐》",
+    "platform": "微博",
+    "angle": "专家解读",
+    "hot_topic": "猫砂盆推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "霍曼宠物饮水机",
+    "engagement_estimate": "41554+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861261"
+  },
+  {
+    "id": "宠物_202603291339480002",
+    "client": {
+      "industry": "宠物",
+      "brand": "小佩",
+      "products": [
+        "小佩智能喂食器"
+      ],
+      "priority": 4
+    },
+    "title": "《小佩小佩智能喂食器遇上狗粮品牌测评》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "狗粮品牌测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "小佩智能喂食器",
+    "engagement_estimate": "36801+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861268"
+  },
+  {
+    "id": "宠物_202603291339480003",
+    "client": {
+      "industry": "宠物",
+      "brand": "霍曼",
+      "products": [
+        "霍曼自动喂食器"
+      ],
+      "priority": 5
+    },
+    "title": "《霍曼自动喂食器与宠物出行装备的碰撞》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "宠物出行装备",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "霍曼自动喂食器",
+    "engagement_estimate": "46608+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861276"
+  },
+  {
+    "id": "宠物_202603291339480004",
+    "client": {
+      "industry": "宠物",
+      "brand": "pidan",
+      "products": [
+        "pidan猫窝"
+      ],
+      "priority": 3
+    },
+    "title": "《pidan猫窝与自动喂食器的碰撞》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "自动喂食器",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "pidan猫窝",
+    "engagement_estimate": "47803+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861284"
+  },
+  {
+    "id": "宠物_202603291339480005",
+    "client": {
+      "industry": "宠物",
+      "brand": "小佩",
+      "products": [
+        "小佩智能饮水机"
+      ],
+      "priority": 4
+    },
+    "title": "《小佩智能饮水机借势宠物清洁好物：专家解读内容创作》",
+    "platform": "抖音",
+    "angle": "专家解读",
+    "hot_topic": "宠物清洁好物",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "小佩智能饮水机",
+    "engagement_estimate": "20287+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861291"
+  },
+  {
+    "id": "宠物_202603291339480006",
+    "client": {
+      "industry": "宠物",
+      "brand": "网易严选",
+      "products": [
+        "网易严选猫粮"
+      ],
+      "priority": 3
+    },
+    "title": "《网易严选猫粮与自动喂食器的碰撞》",
+    "platform": "B站",
+    "angle": "专家解读",
+    "hot_topic": "自动喂食器",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "网易严选猫粮",
+    "engagement_estimate": "31762+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861299"
+  },
+  {
+    "id": "宠物_202603291339480007",
+    "client": {
+      "industry": "宠物",
+      "brand": "比瑞吉",
+      "products": [
+        "比瑞吉狗粮"
+      ],
+      "priority": 4
+    },
+    "title": "《比瑞吉比瑞吉狗粮遇上猫粮成分解析》",
+    "platform": "微信视频号",
+    "angle": "对比测评",
+    "hot_topic": "猫粮成分解析",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "比瑞吉狗粮",
+    "engagement_estimate": "38297+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861306"
+  },
+  {
+    "id": "宠物_202603291339480008",
+    "client": {
+      "industry": "宠物",
+      "brand": "比瑞吉",
+      "products": [
+        "比瑞吉猫粮"
+      ],
+      "priority": 3
+    },
+    "title": "《比瑞吉比瑞吉猫粮遇上宠物清洁好物》",
+    "platform": "微博",
+    "angle": "限时优惠",
+    "hot_topic": "宠物清洁好物",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "比瑞吉猫粮",
+    "engagement_estimate": "16421+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861314"
+  },
+  {
+    "id": "宠物_202603291339480009",
+    "client": {
+      "industry": "宠物",
+      "brand": "麦富迪",
+      "products": [
+        "麦富迪猫粮"
+      ],
+      "priority": 3
+    },
+    "title": "《麦富迪猫粮借势宠物清洁好物：实用科普内容创作》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "宠物清洁好物",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "麦富迪猫粮",
+    "engagement_estimate": "19271+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861321"
+  },
+  {
+    "id": "宠物_202603291339480010",
+    "client": {
+      "industry": "宠物",
+      "brand": "霍曼",
+      "products": [
+        "霍曼宠物烘干机"
+      ],
+      "priority": 3
+    },
+    "title": "《霍曼宠物烘干机与宠物窝推荐的碰撞》",
+    "platform": "B站",
+    "angle": "热点追踪",
+    "hot_topic": "宠物窝推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "霍曼宠物烘干机",
+    "engagement_estimate": "34860+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861330"
+  },
+  {
+    "id": "宠物_202603291339480011",
+    "client": {
+      "industry": "宠物",
+      "brand": "小佩",
+      "products": [
+        "小佩智能喂食器"
+      ],
+      "priority": 3
+    },
+    "title": "《小佩小佩智能喂食器遇上宠物出行装备》",
+    "platform": "微信视频号",
+    "angle": "故事叙述",
+    "hot_topic": "宠物出行装备",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小佩智能喂食器",
+    "engagement_estimate": "21777+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861337"
+  },
+  {
+    "id": "宠物_202603291339480012",
+    "client": {
+      "industry": "宠物",
+      "brand": "pidan",
+      "products": [
+        "pidan猫包"
+      ],
+      "priority": 3
+    },
+    "title": "《pidanpidan猫包遇上宠物出行装备》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "宠物出行装备",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "pidan猫包",
+    "engagement_estimate": "47245+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861345"
+  },
+  {
+    "id": "宠物_202603291339480013",
+    "client": {
+      "industry": "宠物",
+      "brand": "小佩",
+      "products": [
+        "小佩智能喂食器"
+      ],
+      "priority": 4
+    },
+    "title": "《小佩小佩智能喂食器遇上宠物清洁好物》",
+    "platform": "微信视频号",
+    "angle": "对比测评",
+    "hot_topic": "宠物清洁好物",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小佩智能喂食器",
+    "engagement_estimate": "23120+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861353"
+  },
+  {
+    "id": "宠物_202603291339480014",
+    "client": {
+      "industry": "宠物",
+      "brand": "霍曼",
+      "products": [
+        "霍曼自动喂食器"
+      ],
+      "priority": 4
+    },
+    "title": "《霍曼霍曼自动喂食器遇上猫咪玩具分享》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "猫咪玩具分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "霍曼自动喂食器",
+    "engagement_estimate": "44383+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861360"
+  },
+  {
+    "id": "宠物_202603291339480015",
+    "client": {
+      "industry": "宠物",
+      "brand": "比瑞吉",
+      "products": [
+        "比瑞吉狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《比瑞吉狗粮与猫砂盆推荐的碰撞》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "猫砂盆推荐",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "比瑞吉狗粮",
+    "engagement_estimate": "30549+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861368"
+  },
+  {
+    "id": "宠物_202603291339480016",
+    "client": {
+      "industry": "宠物",
+      "brand": "网易严选",
+      "products": [
+        "网易严选猫粮"
+      ],
+      "priority": 4
+    },
+    "title": "《网易严选猫粮借势宠物窝推荐：实用科普内容创作》",
+    "platform": "B站",
+    "angle": "实用科普",
+    "hot_topic": "宠物窝推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "网易严选猫粮",
+    "engagement_estimate": "16749+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861375"
+  },
+  {
+    "id": "宠物_202603291339480017",
+    "client": {
+      "industry": "宠物",
+      "brand": "麦富迪",
+      "products": [
+        "麦富迪宠物零食"
+      ],
+      "priority": 5
+    },
+    "title": "《麦富迪宠物零食借势猫爬架测评：痛点解决内容创作》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "猫爬架测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "麦富迪宠物零食",
+    "engagement_estimate": "39388+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861383"
+  },
+  {
+    "id": "宠物_202603291339480018",
+    "client": {
+      "industry": "宠物",
+      "brand": "霍曼",
+      "products": [
+        "霍曼自动喂食器"
+      ],
+      "priority": 3
+    },
+    "title": "《霍曼×霍曼自动喂食器深度解读宠物出行装备》",
+    "platform": "知乎",
+    "angle": "好物推荐",
+    "hot_topic": "宠物出行装备",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "霍曼自动喂食器",
+    "engagement_estimate": "23351+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861391"
+  },
+  {
+    "id": "宠物_202603291339480019",
+    "client": {
+      "industry": "宠物",
+      "brand": "网易严选",
+      "products": [
+        "网易严选猫粮"
+      ],
+      "priority": 5
+    },
+    "title": "《网易严选网易严选猫粮遇上猫粮成分解析》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "猫粮成分解析",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "网易严选猫粮",
+    "engagement_estimate": "15744+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861398"
+  },
+  {
+    "id": "宠物_202603291339480020",
+    "client": {
+      "industry": "宠物",
+      "brand": "霍曼",
+      "products": [
+        "霍曼自动喂食器"
+      ],
+      "priority": 5
+    },
+    "title": "《霍曼自动喂食器借势猫爬架测评：趋势解读内容创作》",
+    "platform": "知乎",
+    "angle": "趋势解读",
+    "hot_topic": "猫爬架测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "霍曼自动喂食器",
+    "engagement_estimate": "29814+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861406"
+  },
+  {
+    "id": "宠物_202603291339480021",
+    "client": {
+      "industry": "宠物",
+      "brand": "小佩",
+      "products": [
+        "小佩智能喂食器"
+      ],
+      "priority": 5
+    },
+    "title": "《小佩小佩智能喂食器遇上宠物驱虫指南》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "宠物驱虫指南",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "小佩智能喂食器",
+    "engagement_estimate": "22854+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861413"
+  },
+  {
+    "id": "宠物_202603291339480022",
+    "client": {
+      "industry": "宠物",
+      "brand": "小佩",
+      "products": [
+        "小佩宠物监控"
+      ],
+      "priority": 5
+    },
+    "title": "《小佩小佩宠物监控遇上猫咪玩具分享》",
+    "platform": "抖音",
+    "angle": "实用科普",
+    "hot_topic": "猫咪玩具分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小佩宠物监控",
+    "engagement_estimate": "15034+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861422"
+  },
+  {
+    "id": "宠物_202603291339480023",
+    "client": {
+      "industry": "宠物",
+      "brand": "小佩",
+      "products": [
+        "小佩宠物监控"
+      ],
+      "priority": 4
+    },
+    "title": "《小佩宠物监控借势猫粮成分解析：好物推荐内容创作》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "猫粮成分解析",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "小佩宠物监控",
+    "engagement_estimate": "36451+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861430"
+  },
+  {
+    "id": "宠物_202603291339480024",
+    "client": {
+      "industry": "宠物",
+      "brand": "麦富迪",
+      "products": [
+        "麦富迪猫粮"
+      ],
+      "priority": 4
+    },
+    "title": "《麦富迪猫粮与猫咪玩具分享的碰撞》",
+    "platform": "B站",
+    "angle": "情感共鸣",
+    "hot_topic": "猫咪玩具分享",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "麦富迪猫粮",
+    "engagement_estimate": "43891+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861438"
+  },
+  {
+    "id": "宠物_202603291339480025",
+    "client": {
+      "industry": "宠物",
+      "brand": "麦富迪",
+      "products": [
+        "麦富迪狗粮"
+      ],
+      "priority": 3
+    },
+    "title": "《麦富迪狗粮与宠物清洁好物的碰撞》",
+    "platform": "抖音",
+    "angle": "好物推荐",
+    "hot_topic": "宠物清洁好物",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "麦富迪狗粮",
+    "engagement_estimate": "34663+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861445"
+  },
+  {
+    "id": "宠物_202603291339480026",
+    "client": {
+      "industry": "宠物",
+      "brand": "网易严选",
+      "products": [
+        "网易严选狗粮"
+      ],
+      "priority": 3
+    },
+    "title": "《网易严选狗粮借势猫爬架测评：故事叙述内容创作》",
+    "platform": "小红书",
+    "angle": "故事叙述",
+    "hot_topic": "猫爬架测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "网易严选狗粮",
+    "engagement_estimate": "38040+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861453"
+  },
+  {
+    "id": "宠物_202603291339480027",
+    "client": {
+      "industry": "宠物",
+      "brand": "麦富迪",
+      "products": [
+        "麦富迪狗粮"
+      ],
+      "priority": 5
+    },
+    "title": "《麦富迪狗粮与宠物出行装备的碰撞》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "宠物出行装备",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "麦富迪狗粮",
+    "engagement_estimate": "33800+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861461"
+  },
+  {
+    "id": "宠物_202603291339480028",
+    "client": {
+      "industry": "宠物",
+      "brand": "麦富迪",
+      "products": [
+        "麦富迪猫粮"
+      ],
+      "priority": 4
+    },
+    "title": "《麦富迪猫粮借势狗粮品牌测评：专家解读内容创作》",
+    "platform": "微博",
+    "angle": "专家解读",
+    "hot_topic": "狗粮品牌测评",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "麦富迪猫粮",
+    "engagement_estimate": "31179+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861469"
+  },
+  {
+    "id": "宠物_202603291339480029",
+    "client": {
+      "industry": "宠物",
+      "brand": "霍曼",
+      "products": [
+        "霍曼宠物饮水机"
+      ],
+      "priority": 3
+    },
+    "title": "《霍曼宠物饮水机借势宠物窝推荐：情感共鸣内容创作》",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "宠物窝推荐",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "霍曼宠物饮水机",
+    "engagement_estimate": "23295+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861476"
+  },
+  {
+    "id": "宠物_202603291339480030",
+    "client": {
+      "industry": "宠物",
+      "brand": "小佩",
+      "products": [
+        "小佩宠物监控"
+      ],
+      "priority": 4
+    },
+    "title": "《小佩宠物监控借势猫咪玩具分享：痛点解决内容创作》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "猫咪玩具分享",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小佩宠物监控",
+    "engagement_estimate": "22460+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861484"
+  },
+  {
+    "id": "健康_202603291339480001",
+    "client": {
+      "industry": "健康",
+      "brand": "Swisse",
+      "products": [
+        "Swisse护肝片"
+      ],
+      "priority": 4
+    },
+    "title": "《Swisse护肝片借势膳食补充剂：对比测评内容创作》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "膳食补充剂",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Swisse护肝片",
+    "engagement_estimate": "20042+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861492"
+  },
+  {
+    "id": "健康_202603291339480002",
+    "client": {
+      "industry": "健康",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健钙片"
+      ],
+      "priority": 3
+    },
+    "title": "《汤臣倍健钙片与胶原蛋白测评的碰撞》",
+    "platform": "微信视频号",
+    "angle": "热点追踪",
+    "hot_topic": "胶原蛋白测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健钙片",
+    "engagement_estimate": "35990+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861501"
+  },
+  {
+    "id": "健康_202603291339480003",
+    "client": {
+      "industry": "健康",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健钙片"
+      ],
+      "priority": 5
+    },
+    "title": "《汤臣倍健×汤臣倍健钙片深度解读胶原蛋白测评》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "胶原蛋白测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健钙片",
+    "engagement_estimate": "26821+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861509"
+  },
+  {
+    "id": "健康_202603291339480004",
+    "client": {
+      "industry": "健康",
+      "brand": "同仁堂",
+      "products": [
+        "同仁堂阿胶糕"
+      ],
+      "priority": 3
+    },
+    "title": "《同仁堂阿胶糕借势胶原蛋白测评：痛点解决内容创作》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "胶原蛋白测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "同仁堂阿胶糕",
+    "engagement_estimate": "43183+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861517"
+  },
+  {
+    "id": "健康_202603291339480005",
+    "client": {
+      "industry": "健康",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健维C"
+      ],
+      "priority": 5
+    },
+    "title": "《汤臣倍健维C借势护眼保健品：痛点解决内容创作》",
+    "platform": "微信视频号",
+    "angle": "痛点解决",
+    "hot_topic": "护眼保健品",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健维C",
+    "engagement_estimate": "27112+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861524"
+  },
+  {
+    "id": "健康_202603291339480006",
+    "client": {
+      "industry": "健康",
+      "brand": "Swisse",
+      "products": [
+        "Swisse葡萄籽"
+      ],
+      "priority": 3
+    },
+    "title": "《Swisse葡萄籽借势女性保养品：专家解读内容创作》",
+    "platform": "抖音",
+    "angle": "专家解读",
+    "hot_topic": "女性保养品",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Swisse葡萄籽",
+    "engagement_estimate": "38823+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861532"
+  },
+  {
+    "id": "健康_202603291339480007",
+    "client": {
+      "industry": "健康",
+      "brand": "养生堂",
+      "products": [
+        "养生堂天然VE"
+      ],
+      "priority": 5
+    },
+    "title": "《养生堂养生堂天然VE遇上免疫力提升》",
+    "platform": "抖音",
+    "angle": "好物推荐",
+    "hot_topic": "免疫力提升",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "养生堂天然VE",
+    "engagement_estimate": "23986+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861540"
+  },
+  {
+    "id": "健康_202603291339480008",
+    "client": {
+      "industry": "健康",
+      "brand": "Swisse",
+      "products": [
+        "Swisse胶原蛋白"
+      ],
+      "priority": 4
+    },
+    "title": "《SwisseSwisse胶原蛋白遇上熬夜补救方案》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "熬夜补救方案",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Swisse胶原蛋白",
+    "engagement_estimate": "18129+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861548"
+  },
+  {
+    "id": "健康_202603291339480009",
+    "client": {
+      "industry": "健康",
+      "brand": "FANCL",
+      "products": [
+        "FANCL胶原蛋白"
+      ],
+      "priority": 5
+    },
+    "title": "《FANCLFANCL胶原蛋白遇上熬夜补救方案》",
+    "platform": "知乎",
+    "angle": "对比测评",
+    "hot_topic": "熬夜补救方案",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "FANCL胶原蛋白",
+    "engagement_estimate": "39870+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861556"
+  },
+  {
+    "id": "健康_202603291339480010",
+    "client": {
+      "industry": "健康",
+      "brand": "Swisse",
+      "products": [
+        "Swisse胶原蛋白"
+      ],
+      "priority": 5
+    },
+    "title": "《Swisse胶原蛋白借势免疫力提升：热点追踪内容创作》",
+    "platform": "微信视频号",
+    "angle": "热点追踪",
+    "hot_topic": "免疫力提升",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Swisse胶原蛋白",
+    "engagement_estimate": "43415+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861564"
+  },
+  {
+    "id": "健康_202603291339480011",
+    "client": {
+      "industry": "健康",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健维C"
+      ],
+      "priority": 4
+    },
+    "title": "《汤臣倍健汤臣倍健维C遇上女性保养品》",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "女性保养品",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健维C",
+    "engagement_estimate": "18963+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861572"
+  },
+  {
+    "id": "健康_202603291339480012",
+    "client": {
+      "industry": "健康",
+      "brand": "Swisse",
+      "products": [
+        "Swisse胶原蛋白"
+      ],
+      "priority": 3
+    },
+    "title": "《Swisse胶原蛋白借势膳食补充剂：好物推荐内容创作》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "膳食补充剂",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Swisse胶原蛋白",
+    "engagement_estimate": "35357+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861580"
+  },
+  {
+    "id": "健康_202603291339480013",
+    "client": {
+      "industry": "健康",
+      "brand": "养生堂",
+      "products": [
+        "养生堂蜂胶"
+      ],
+      "priority": 3
+    },
+    "title": "《养生堂蜂胶借势女性保养品：对比测评内容创作》",
+    "platform": "抖音",
+    "angle": "对比测评",
+    "hot_topic": "女性保养品",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "养生堂蜂胶",
+    "engagement_estimate": "44988+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861587"
+  },
+  {
+    "id": "健康_202603291339480014",
+    "client": {
+      "industry": "健康",
+      "brand": "FANCL",
+      "products": [
+        "FANCL护眼片"
+      ],
+      "priority": 3
+    },
+    "title": "《FANCL护眼片借势免疫力提升：情感共鸣内容创作》",
+    "platform": "B站",
+    "angle": "情感共鸣",
+    "hot_topic": "免疫力提升",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "FANCL护眼片",
+    "engagement_estimate": "23497+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861597"
+  },
+  {
+    "id": "健康_202603291339480015",
+    "client": {
+      "industry": "健康",
+      "brand": "养生堂",
+      "products": [
+        "养生堂口服液"
+      ],
+      "priority": 5
+    },
+    "title": "《养生堂养生堂口服液遇上膳食补充剂》",
+    "platform": "抖音",
+    "angle": "好物推荐",
+    "hot_topic": "膳食补充剂",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "养生堂口服液",
+    "engagement_estimate": "28935+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861605"
+  },
+  {
+    "id": "健康_202603291339480016",
+    "client": {
+      "industry": "健康",
+      "brand": "养生堂",
+      "products": [
+        "养生堂口服液"
+      ],
+      "priority": 3
+    },
+    "title": "《养生堂养生堂口服液遇上免疫力提升》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "免疫力提升",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "养生堂口服液",
+    "engagement_estimate": "41527+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861612"
+  },
+  {
+    "id": "健康_202603291339480017",
+    "client": {
+      "industry": "健康",
+      "brand": "Swisse",
+      "products": [
+        "Swisse葡萄籽"
+      ],
+      "priority": 5
+    },
+    "title": "《Swisse葡萄籽借势熬夜补救方案：好物推荐内容创作》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "熬夜补救方案",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Swisse葡萄籽",
+    "engagement_estimate": "41539+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861620"
+  },
+  {
+    "id": "健康_202603291339480018",
+    "client": {
+      "industry": "健康",
+      "brand": "养生堂",
+      "products": [
+        "养生堂天然VE"
+      ],
+      "priority": 3
+    },
+    "title": "《养生堂天然VE借势胶原蛋白测评：对比测评内容创作》",
+    "platform": "知乎",
+    "angle": "对比测评",
+    "hot_topic": "胶原蛋白测评",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "养生堂天然VE",
+    "engagement_estimate": "32833+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861628"
+  },
+  {
+    "id": "健康_202603291339480019",
+    "client": {
+      "industry": "健康",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健维C"
+      ],
+      "priority": 4
+    },
+    "title": "《汤臣倍健维C与免疫力提升的碰撞》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "免疫力提升",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健维C",
+    "engagement_estimate": "19164+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861636"
+  },
+  {
+    "id": "健康_202603291339480020",
+    "client": {
+      "industry": "健康",
+      "brand": "FANCL",
+      "products": [
+        "FANCL护眼片"
+      ],
+      "priority": 4
+    },
+    "title": "《FANCL护眼片与护眼保健品的碰撞》",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "护眼保健品",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "FANCL护眼片",
+    "engagement_estimate": "34681+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861644"
+  },
+  {
+    "id": "健康_202603291339480021",
+    "client": {
+      "industry": "健康",
+      "brand": "FANCL",
+      "products": [
+        "FANCL胶原蛋白"
+      ],
+      "priority": 3
+    },
+    "title": "《FANCL胶原蛋白与熬夜补救方案的碰撞》",
+    "platform": "知乎",
+    "angle": "情感共鸣",
+    "hot_topic": "熬夜补救方案",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "FANCL胶原蛋白",
+    "engagement_estimate": "30926+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861651"
+  },
+  {
+    "id": "健康_202603291339480022",
+    "client": {
+      "industry": "健康",
+      "brand": "Swisse",
+      "products": [
+        "Swisse护肝片"
+      ],
+      "priority": 4
+    },
+    "title": "《Swisse护肝片与熬夜补救方案的碰撞》",
+    "platform": "小红书",
+    "angle": "限时优惠",
+    "hot_topic": "熬夜补救方案",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "Swisse护肝片",
+    "engagement_estimate": "47138+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861659"
+  },
+  {
+    "id": "健康_202603291339480023",
+    "client": {
+      "industry": "健康",
+      "brand": "Swisse",
+      "products": [
+        "Swisse葡萄籽"
+      ],
+      "priority": 5
+    },
+    "title": "《Swisse葡萄籽与熬夜补救方案的碰撞》",
+    "platform": "微博",
+    "angle": "实用科普",
+    "hot_topic": "熬夜补救方案",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "Swisse葡萄籽",
+    "engagement_estimate": "48293+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861667"
+  },
+  {
+    "id": "健康_202603291339480024",
+    "client": {
+      "industry": "健康",
+      "brand": "养生堂",
+      "products": [
+        "养生堂口服液"
+      ],
+      "priority": 4
+    },
+    "title": "《养生堂口服液与免疫力提升的碰撞》",
+    "platform": "微信视频号",
+    "angle": "实用科普",
+    "hot_topic": "免疫力提升",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 快速上升",
+    "product": "养生堂口服液",
+    "engagement_estimate": "15678+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861674"
+  },
+  {
+    "id": "健康_202603291339480025",
+    "client": {
+      "industry": "健康",
+      "brand": "Swisse",
+      "products": [
+        "Swisse护肝片"
+      ],
+      "priority": 4
+    },
+    "title": "《SwisseSwisse护肝片遇上维生素怎么补》",
+    "platform": "微博",
+    "angle": "对比测评",
+    "hot_topic": "维生素怎么补",
+    "heat": "热搜前十",
+    "trend": "🔥 稳步增长",
+    "product": "Swisse护肝片",
+    "engagement_estimate": "25461+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:39:48.861682"
   }
 ]
