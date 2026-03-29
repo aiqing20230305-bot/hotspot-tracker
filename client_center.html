@@ -146,6 +146,29 @@
             .filter-row { grid-template-columns: 1fr; }
             .client-header { padding: 16px; }
             .idea-item { padding: 16px; }
+            
+            /* 移动端选题卡片优化 */
+            .prediction-section {
+                flex-direction: column;
+                gap: 8px;
+            }
+            .prediction-engagement,
+            .prediction-success,
+            .prediction-risk,
+            .prediction-score {
+                width: 100%;
+                justify-content: space-between;
+            }
+            
+            /* 导出按钮移动端优化 */
+            .export-section {
+                flex-wrap: wrap;
+            }
+            .export-btn {
+                flex: 1;
+                min-width: 140px;
+                justify-content: center;
+            }
         }
         @media (max-width: 480px) {
             .logo { font-size: 16px; }
@@ -155,6 +178,17 @@
             .stat-card .number { font-size: 22px; }
             .client-name { font-size: 16px; }
             .idea-title { font-size: 14px; }
+            
+            /* 移动端更新时间优化 */
+            .update-time {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+            .refresh-btn {
+                width: 100%;
+                justify-content: center;
+            }
         }
         @media (hover: none) and (pointer: coarse) {
             .filter-btn, .nav-tab, .platform-tag, .idea-count-btn, .client-header, .export-btn {
@@ -182,9 +216,58 @@
             padding: 6px 16px; 
             border-radius: 20px; 
             font-size: 14px;
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
             margin-top: 12px;
         }
+        .refresh-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .refresh-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        .refresh-btn.loading .icon {
+            animation: spin 1s linear infinite;
+        }
+        
+        /* 数据刷新提示 */
+        .refresh-toast {
+            position: fixed;
+            top: 80px;
+            right: 24px;
+            background: white;
+            padding: 16px 24px;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            z-index: 2000;
+            transform: translateX(400px);
+            opacity: 0;
+            transition: all 0.3s ease;
+            border-left: 4px solid var(--primary);
+        }
+        .refresh-toast.show {
+            transform: translateX(0);
+            opacity: 1;
+        }
+        .refresh-toast.success { border-left-color: var(--success); }
+        .refresh-toast.error { border-left-color: var(--error); }
+        .refresh-toast .icon { font-size: 20px; }
+        .refresh-toast .message { font-weight: 500; font-size: 14px; }
+        .refresh-toast .time { font-size: 12px; color: var(--gray-600); margin-top: 2px; }
         /* 统计卡片 */
         .stats-grid {
             display: grid;
@@ -411,6 +494,25 @@
             background: var(--primary);
             width: 0%;
             transition: width 0.3s;
+        }
+        
+        /* 移动端优化 - Toast位置调整 */
+        @media (max-width: 768px) {
+            .export-toast {
+                left: 16px;
+                right: 16px;
+                bottom: 16px;
+            }
+            .refresh-toast {
+                left: 16px;
+                right: 16px;
+                top: auto;
+                bottom: 16px;
+                transform: translateY(100px);
+            }
+            .refresh-toast.show {
+                transform: translateY(0);
+            }
         }
         
         /* ========== 搜索和筛选功能 ========== */
@@ -852,7 +954,13 @@
         <div class="page-header">
             <h1>👥 客户选题中心</h1>
             <p>🤖 基于热点追踪自动生成的客户选题 | 🎯 每个客户10+条精选选题 | 📊 智能效果预估</p>
-            <div class="update-time" id="updateTime">📅 数据更新时间：加载中...</div>
+            <div class="update-time" id="updateTime">
+                <span class="time-text">📅 数据更新时间：加载中...</span>
+                <button class="refresh-btn" id="refreshBtn" onclick="refreshData()">
+                    <span class="icon">🔄</span>
+                    <span>刷新</span>
+                </button>
+            </div>
         </div>
         
         <!-- 统计卡片 -->
@@ -1054,6 +1162,59 @@
         let allIdeas = [];
         let clientData = {};
         let currentPredictionFilter = '';
+        
+        // 显示刷新提示
+        function showRefreshToast(message, type = 'success') {
+            const existing = document.querySelector('.refresh-toast');
+            if (existing) existing.remove();
+            
+            const toast = document.createElement('div');
+            toast.className = `refresh-toast ${type}`;
+            
+            const icon = type === 'success' ? '✅' : type === 'error' ? '❌' : '⏳';
+            const time = new Date().toLocaleTimeString('zh-CN');
+            
+            toast.innerHTML = `
+                <span class="icon">${icon}</span>
+                <div>
+                    <div class="message">${message}</div>
+                    <div class="time">${time}</div>
+                </div>
+            `;
+            
+            document.body.appendChild(toast);
+            
+            // 触发动画
+            setTimeout(() => toast.classList.add('show'), 10);
+            
+            // 自动隐藏
+            setTimeout(() => {
+                toast.classList.remove('show');
+                setTimeout(() => toast.remove(), 300);
+            }, 3000);
+        }
+        
+        // 刷新数据
+        async function refreshData() {
+            const btn = document.getElementById('refreshBtn');
+            btn.classList.add('loading');
+            btn.disabled = true;
+            
+            showRefreshToast('正在刷新数据...', 'loading');
+            
+            try {
+                const response = await fetch('client_ideas.json?t=' + Date.now());
+                const data = await response.json();
+                renderClients(data);
+                showRefreshToast(`数据刷新成功！共 ${data.length} 条选题`, 'success');
+            } catch (error) {
+                console.error('刷新失败:', error);
+                showRefreshToast('数据刷新失败，请重试', 'error');
+            } finally {
+                btn.classList.remove('loading');
+                btn.disabled = false;
+            }
+        }
         
         // 展开/收起客户选题
         function toggleClient(header) {
@@ -1624,8 +1785,10 @@
             
             // 更新时间
             const updateTime = allIdeas[0]?.created_at || new Date().toISOString();
-            document.getElementById('updateTime').textContent = 
-                '📅 数据更新时间：' + new Date(updateTime).toLocaleString('zh-CN');
+            const timeText = document.querySelector('#updateTime .time-text');
+            if (timeText) {
+                timeText.textContent = '📅 数据更新时间：' + new Date(updateTime).toLocaleString('zh-CN');
+            }
             
             // 渲染客户卡片
             renderFilteredClients(allIdeas);

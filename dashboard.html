@@ -229,7 +229,57 @@
             margin-top: 12px;
             font-size: 12px;
             opacity: 0.7;
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
         }
+        .refresh-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 12px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .refresh-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        .refresh-btn.loading .icon {
+            animation: spin 1s linear infinite;
+        }
+        
+        /* 数据刷新提示 */
+        .refresh-toast {
+            position: fixed;
+            top: 80px;
+            right: 24px;
+            background: white;
+            padding: 16px 24px;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            z-index: 2000;
+            transform: translateX(400px);
+            opacity: 0;
+            transition: all 0.3s ease;
+            border-left: 4px solid var(--primary);
+        }
+        .refresh-toast.show {
+            transform: translateX(0);
+            opacity: 1;
+        }
+        .refresh-toast.success { border-left-color: var(--success); }
+        .refresh-toast.error { border-left-color: var(--error); }
+        .refresh-toast .icon { font-size: 20px; }
+        .refresh-toast .message { font-weight: 500; font-size: 14px; }
+        .refresh-toast .time { font-size: 12px; color: var(--gray-600); margin-top: 2px; }
 
         /* 统计卡片 */
         .stats-grid {
@@ -693,7 +743,13 @@
         <div class="page-header animate-in">
             <h1>📊 数据看板</h1>
             <p>内容运营效果数据可视化</p>
-            <div class="update-time" id="updateTime"></div>
+            <div class="update-time" id="updateTime">
+                <span class="time-text">数据更新时间: 加载中...</span>
+                <button class="refresh-btn" id="refreshBtn" onclick="refreshDashboard()">
+                    <span class="icon">🔄</span>
+                    <span>刷新数据</span>
+                </button>
+            </div>
         </div>
 
         <!-- 统计卡片 -->
@@ -873,8 +929,11 @@
 
             // 更新页面时间
             const now = new Date();
-            document.getElementById('updateTime').textContent =
-                `数据更新时间: ${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')} ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+            const timeText = document.querySelector('#updateTime .time-text');
+            if (timeText) {
+                timeText.textContent = 
+                    `数据更新时间: ${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')} ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+            }
 
             // ============ 统计卡片 ============
             // 基础数据

@@ -83,8 +83,29 @@
             padding: 6px 16px; 
             border-radius: 20px; 
             font-size: 14px;
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
             margin-top: 12px;
+        }
+        .refresh-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .refresh-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        .refresh-btn.loading .icon {
+            animation: spin 1s linear infinite;
         }
         /* 统计卡片 */
         .stats-grid {
@@ -357,6 +378,7 @@
             gap: 8px;
             margin-bottom: 20px;
             flex-wrap: wrap;
+            align-items: center;
         }
         .filter-btn {
             padding: 8px 16px;
@@ -372,6 +394,48 @@
             border-color: var(--primary);
             background: var(--primary);
             color: white;
+        }
+        
+        /* 排序和筛选工具栏 */
+        .sort-toolbar {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+            align-items: center;
+            background: white;
+            padding: 16px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+        }
+        .sort-label {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-600);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .sort-select {
+            padding: 8px 14px;
+            border: 2px solid var(--gray-200);
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            background: white;
+            transition: all 0.2s;
+        }
+        .sort-select:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        .filter-count {
+            margin-left: auto;
+            font-size: 13px;
+            color: var(--gray-600);
+            background: var(--gray-50);
+            padding: 6px 12px;
+            border-radius: 6px;
         }
         /* ========== 响应式布局 ========== */
         .hamburger { display: none; }
@@ -584,7 +648,13 @@
         <div class="page-header">
             <h1>🔥 热点追踪</h1>
             <p>🤖 实时热点监控 | 📊 抖音/微博/小红书热搜 | 🎯 可借势客户分析</p>
-            <div class="update-time" id="updateTime">📅 更新时间：加载中...</div>
+            <div class="update-time" id="updateTime">
+                <span>📅 更新时间：加载中...</span>
+                <button class="refresh-btn" id="refreshBtn" onclick="refreshData()">
+                    <span class="icon">🔄</span>
+                    <span>刷新</span>
+                </button>
+            </div>
         </div>
         
         <!-- 统计卡片 -->
@@ -627,6 +697,8 @@
     <script>
         let allTopics = [];
         let currentFilter = 'all';
+        let currentSort = 'default';
+        let lastUpdateTime = null;
         
         // 平台颜色映射
         const PLATFORM_CLASS = {
@@ -669,10 +741,116 @@
             renderTopics();
         }
         
+        // 排序热点
+        function sortTopics() {
+            currentSort = document.getElementById('sortSelect').value;
+            renderTopics();
+        }
+        
+        // 显示刷新提示
+        function showRefreshToast(message, type = 'success') {
+            const existing = document.querySelector('.refresh-toast');
+            if (existing) existing.remove();
+            
+            const toast = document.createElement('div');
+            toast.className = `refresh-toast ${type}`;
+            
+            const icon = type === 'success' ? '✅' : type === 'error' ? '❌' : '⏳';
+            const time = new Date().toLocaleTimeString('zh-CN');
+            
+            toast.innerHTML = `
+                <span class="icon">${icon}</span>
+                <div>
+                    <div class="message">${message}</div>
+                    <div class="time">${time}</div>
+                </div>
+            `;
+            
+            document.body.appendChild(toast);
+            
+            // 触发动画
+            setTimeout(() => toast.classList.add('show'), 10);
+            
+            // 自动隐藏
+            setTimeout(() => {
+                toast.classList.remove('show');
+                setTimeout(() => toast.remove(), 300);
+            }, 3000);
+        }
+        
+        // 刷新数据
+        async function refreshData() {
+            const btn = document.getElementById('refreshBtn');
+            btn.classList.add('loading');
+            btn.disabled = true;
+            
+            showRefreshToast('正在刷新数据...', 'loading');
+            
+            try {
+                const [topics, ideas] = await Promise.all([
+                    fetch('hot_topics.json?t=' + Date.now()).then(r => r.json()).catch(() => []),
+                    fetch('client_ideas.json?t=' + Date.now()).then(r => r.json()).catch(() => [])
+                ]);
+                
+                allTopics = topics;
+                lastUpdateTime = new Date();
+                
+                // 更新统计
+                updateStats(topics, ideas);
+                
+                // 更新时间显示
+                document.querySelector('#updateTime span:first-child').textContent = 
+                    '📅 更新时间：' + lastUpdateTime.toLocaleString('zh-CN');
+                
+                // 重新渲染
+                renderTopics();
+                
+                showRefreshToast(`数据刷新成功！共 ${topics.length} 条热点`, 'success');
+            } catch (error) {
+                console.error('刷新数据失败:', error);
+                showRefreshToast('数据刷新失败，请重试', 'error');
+            } finally {
+                btn.classList.remove('loading');
+                btn.disabled = false;
+            }
+        }
+        
+        // 更新统计数据
+        function updateStats(topics, ideas) {
+            const platforms = new Set(topics.map(t => t.platform));
+            const clients = new Set();
+            topics.forEach(t => { if (t.c) t.c.forEach(c => clients.add(c)); });
+            
+            document.getElementById('topicCount').textContent = topics.length;
+            document.getElementById('platformCount').textContent = platforms.size;
+            document.getElementById('ideaCount').textContent = ideas.length;
+            document.getElementById('clientCount').textContent = clients.size;
+        }
+        
         // 渲染热点列表
         function renderTopics() {
             const container = document.getElementById('hotList');
-            const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => t.platform === currentFilter);
+            let topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => t.platform === currentFilter);
+            
+            // 排序
+            if (currentSort === 'heat-desc') {
+                topics = [...topics].sort((a, b) => {
+                    const heatA = parseInt(a.heat?.replace(/[^0-9]/g, '')) || 0;
+                    const heatB = parseInt(b.heat?.replace(/[^0-9]/g, '')) || 0;
+                    return heatB - heatA;
+                });
+            } else if (currentSort === 'heat-asc') {
+                topics = [...topics].sort((a, b) => {
+                    const heatA = parseInt(a.heat?.replace(/[^0-9]/g, '')) || 0;
+                    const heatB = parseInt(b.heat?.replace(/[^0-9]/g, '')) || 0;
+                    return heatA - heatB;
+                });
+            } else if (currentSort === 'platform') {
+                topics = [...topics].sort((a, b) => (a.platform || '').localeCompare(b.platform || ''));
+            }
+            
+            // 更新计数
+            document.getElementById('filterCount').textContent = `共 ${topics.length} 条热点`;
             
             if (topics.length === 0) {
                 container.innerHTML = '<div class="loading">暂无热点数据</div>';
@@ -748,21 +926,14 @@
                 fetch('client_ideas.json?t=' + Date.now()).then(r => r.json()).catch(() => [])
             ]).then(([topics, ideas]) => {
                 allTopics = topics;
+                lastUpdateTime = new Date();
                 
                 // 更新统计
-                const platforms = new Set(topics.map(t => t.platform));
-                const clients = new Set();
-                topics.forEach(t => { if (t.c) t.c.forEach(c => clients.add(c)); });
-                
-                document.getElementById('topicCount').textContent = topics.length;
-                document.getElementById('platformCount').textContent = platforms.size;
-                document.getElementById('ideaCount').textContent = ideas.length;
-                document.getElementById('clientCount').textContent = clients.size;
+                updateStats(topics, ideas);
                 
                 // 更新时间
-                const now = new Date();
-                document.getElementById('updateTime').textContent = 
-                    '📅 更新时间：' + now.toLocaleString('zh-CN');
+                document.querySelector('#updateTime span:first-child').textContent = 
+                    '📅 更新时间：' + lastUpdateTime.toLocaleString('zh-CN');
                 
                 renderTopics();
             }).catch(error => {
