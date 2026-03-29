@@ -7740,5 +7740,1745 @@
     "engagement_estimate": "29252+",
     "status": "pending",
     "created_at": "2026-03-29T06:50:00.000000"
+  },
+  {
+    "id": "3C数码_202603290907001",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《荣耀耳机×美团App被曝后台删除用户照片: 这个组合太绝了》",
+    "platform": "B站",
+    "angle": "挑战赛",
+    "hot_topic": "美团App被曝后台删除用户照片",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "荣耀耳机",
+    "engagement_estimate": "22098+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575189"
+  },
+  {
+    "id": "3C数码_202603290907002",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《荣耀手机的王者荣耀新赛季3月28日上线实测报告》",
+    "platform": "微博",
+    "angle": "场景化种草",
+    "hot_topic": "王者荣耀新赛季3月28日上线",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀手机",
+    "engagement_estimate": "27550+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575199"
+  },
+  {
+    "id": "3C数码_202603290907003",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《荣耀耳机的大疆起诉影石Insta360实测报告》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "大疆起诉影石Insta360",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "荣耀耳机",
+    "engagement_estimate": "18206+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575205"
+  },
+  {
+    "id": "3C数码_202603290907004",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《荣耀耳机的2026开年热梗「夯爆了」持续刷屏实测报告》",
+    "platform": "抖音",
+    "angle": "专业科普",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀耳机",
+    "engagement_estimate": "44220+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575210"
+  },
+  {
+    "id": "3C数码_202603290907005",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《罗技摄像头被全网疯抢，只因美团App被曝后台删除用户照片》",
+    "platform": "小红书",
+    "angle": "专业科普",
+    "hot_topic": "美团App被曝后台删除用户照片",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "罗技摄像头",
+    "engagement_estimate": "18704+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575216"
+  },
+  {
+    "id": "3C数码_202603290907006",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《罗技键鼠的王者荣耀新赛季3月28日上线实测报告》",
+    "platform": "微博",
+    "angle": "新品开箱",
+    "hot_topic": "王者荣耀新赛季3月28日上线",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技键鼠",
+    "engagement_estimate": "26367+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575220"
+  },
+  {
+    "id": "3C数码_202603290907007",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《罗技摄像头助力大疆起诉影石Insta360》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "大疆起诉影石Insta360",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "罗技摄像头",
+    "engagement_estimate": "36715+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575224"
+  },
+  {
+    "id": "3C数码_202603290907008",
+    "client": {
+      "industry": "3C数码",
+      "brand": "罗技",
+      "products": [
+        "罗技键鼠",
+        "罗技摄像头",
+        "罗技音箱"
+      ],
+      "priority": 4
+    },
+    "title": "《罗技键鼠×2026开年热梗「夯爆了」持续刷屏: 这个组合太绝了》",
+    "platform": "微博",
+    "angle": "挑战赛",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技键鼠",
+    "engagement_estimate": "28755+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575228"
+  },
+  {
+    "id": "3C数码_202603290907009",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《小米智能家居遇上了美团App被曝后台删除用户照片》",
+    "platform": "微博",
+    "angle": "场景化种草",
+    "hot_topic": "美团App被曝后台删除用户照片",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "小米智能家居",
+    "engagement_estimate": "46083+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575234"
+  },
+  {
+    "id": "3C数码_202603290907010",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《小米手机的王者荣耀新赛季3月28日上线实测报告》",
+    "platform": "抖音",
+    "angle": "场景化种草",
+    "hot_topic": "王者荣耀新赛季3月28日上线",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米手机",
+    "engagement_estimate": "14394+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575238"
+  },
+  {
+    "id": "3C数码_202603290907011",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《小米智能家居的大疆起诉影石Insta360实测报告》",
+    "platform": "微博",
+    "angle": "新品开箱",
+    "hot_topic": "大疆起诉影石Insta360",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "小米智能家居",
+    "engagement_estimate": "24202+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575243"
+  },
+  {
+    "id": "3C数码_202603290907012",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《小米平板×2026开年热梗「夯爆了」持续刷屏: 这个组合太绝了》",
+    "platform": "小红书",
+    "angle": "创意玩法",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米平板",
+    "engagement_estimate": "46463+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575247"
+  },
+  {
+    "id": "3C数码_202603290907013",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《我用索尼电视挑战美团App被曝后台删除用户照片》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "美团App被曝后台删除用户照片",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "索尼电视",
+    "engagement_estimate": "43488+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575252"
+  },
+  {
+    "id": "3C数码_202603290907014",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《索尼耳机助力大疆起诉影石Insta360》",
+    "platform": "微博",
+    "angle": "避坑指南",
+    "hot_topic": "大疆起诉影石Insta360",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "索尼耳机",
+    "engagement_estimate": "22054+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575256"
+  },
+  {
+    "id": "3C数码_202603290907015",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《索尼耳机被全网疯抢，只因2026开年热梗「夯爆了」持续刷屏》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼耳机",
+    "engagement_estimate": "23836+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575259"
+  },
+  {
+    "id": "3C数码_202603290907016",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《索尼耳机的「活人感」成网络热词真我风潮实测报告》",
+    "platform": "微博",
+    "angle": "专业科普",
+    "hot_topic": "「活人感」成网络热词真我风潮",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "索尼耳机",
+    "engagement_estimate": "16563+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575263"
+  },
+  {
+    "id": "快消_202603290907017",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《我用AHC眼霜挑战2026开年热梗「夯爆了」持续刷屏》",
+    "platform": "B站",
+    "angle": "创意玩法",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC眼霜",
+    "engagement_estimate": "20303+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575269"
+  },
+  {
+    "id": "快消_202603290907018",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《AHC水乳遇上了「活人感」成网络热词真我风潮》",
+    "platform": "抖音",
+    "angle": "测评对比",
+    "hot_topic": "「活人感」成网络热词真我风潮",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "AHC水乳",
+    "engagement_estimate": "20354+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575273"
+  },
+  {
+    "id": "快消_202603290907019",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《AHC眼霜遇上了清明五一假期出行预订提前升温》",
+    "platform": "微博",
+    "angle": "创意玩法",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "AHC眼霜",
+    "engagement_estimate": "8309+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575276"
+  },
+  {
+    "id": "快消_202603290907020",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《AHC防晒被全网疯抢，只因抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "抖音",
+    "angle": "避坑指南",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC防晒",
+    "engagement_estimate": "15036+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575280"
+  },
+  {
+    "id": "快消_202603290907021",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《我用多芬沐浴露挑战《逐玉》大结局烂尾引全网吐槽》",
+    "platform": "B站",
+    "angle": "专业科普",
+    "hot_topic": "《逐玉》大结局烂尾引全网吐槽",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续关注",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "15211+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575285"
+  },
+  {
+    "id": "快消_202603290907022",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬洗发水助力2026开年热梗「夯爆了」持续刷屏》",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬洗发水",
+    "engagement_estimate": "47701+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575289"
+  },
+  {
+    "id": "快消_202603290907023",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬沐浴露遇上了「活人感」成网络热词真我风潮》",
+    "platform": "B站",
+    "angle": "新品开箱",
+    "hot_topic": "「活人感」成网络热词真我风潮",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "43893+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575292"
+  },
+  {
+    "id": "快消_202603290907024",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬身体乳×清明五一假期出行预订提前升温: 这个组合太绝了》",
+    "platform": "B站",
+    "angle": "创意玩法",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬身体乳",
+    "engagement_estimate": "48990+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575296"
+  },
+  {
+    "id": "快消_202603290907025",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露",
+        "力士香皂"
+      ],
+      "priority": 4
+    },
+    "title": "《力士沐浴露遇上了2026开年热梗「夯爆了」持续刷屏》",
+    "platform": "抖音",
+    "angle": "挑战赛",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士沐浴露",
+    "engagement_estimate": "20269+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575301"
+  },
+  {
+    "id": "快消_202603290907026",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露",
+        "力士香皂"
+      ],
+      "priority": 4
+    },
+    "title": "《我用力士洗发水挑战「活人感」成网络热词真我风潮》",
+    "platform": "小红书",
+    "angle": "专业科普",
+    "hot_topic": "「活人感」成网络热词真我风潮",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "力士洗发水",
+    "engagement_estimate": "17758+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575305"
+  },
+  {
+    "id": "快消_202603290907027",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露",
+        "力士香皂"
+      ],
+      "priority": 4
+    },
+    "title": "《力士香皂助力清明五一假期出行预订提前升温》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "力士香皂",
+    "engagement_estimate": "22590+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575308"
+  },
+  {
+    "id": "快消_202603290907028",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露",
+        "力士香皂"
+      ],
+      "priority": 4
+    },
+    "title": "《力士沐浴露助力抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "B站",
+    "angle": "热点借势",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士沐浴露",
+    "engagement_estimate": "45922+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575312"
+  },
+  {
+    "id": "快消_202603290907029",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬去屑套装"
+      ],
+      "priority": 3
+    },
+    "title": "《清扬去屑套装被全网疯抢，只因「活人感」成网络热词真我风潮》",
+    "platform": "B站",
+    "angle": "测评对比",
+    "hot_topic": "「活人感」成网络热词真我风潮",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬去屑套装",
+    "engagement_estimate": "30217+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575317"
+  },
+  {
+    "id": "快消_202603290907030",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬去屑套装"
+      ],
+      "priority": 3
+    },
+    "title": "《清扬去屑套装被全网疯抢，只因清明五一假期出行预订提前升温》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬去屑套装",
+    "engagement_estimate": "29546+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575320"
+  },
+  {
+    "id": "快消_202603290907031",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬去屑套装"
+      ],
+      "priority": 3
+    },
+    "title": "《清扬去屑套装遇上了抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "微博",
+    "angle": "新品开箱",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬去屑套装",
+    "engagement_estimate": "29018+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575324"
+  },
+  {
+    "id": "快消_202603290907032",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 4
+    },
+    "title": "《玉兰油面霜助力《逐玉》大结局烂尾引全网吐槽》",
+    "platform": "小红书",
+    "angle": "避坑指南",
+    "hot_topic": "《逐玉》大结局烂尾引全网吐槽",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续关注",
+    "product": "玉兰油面霜",
+    "engagement_estimate": "33006+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575329"
+  },
+  {
+    "id": "快消_202603290907033",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 4
+    },
+    "title": "《玉兰油精华助力2026开年热梗「夯爆了」持续刷屏》",
+    "platform": "B站",
+    "angle": "测评对比",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油精华",
+    "engagement_estimate": "30692+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575332"
+  },
+  {
+    "id": "快消_202603290907034",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 4
+    },
+    "title": "《玉兰油防晒的「活人感」成网络热词真我风潮实测报告》",
+    "platform": "小红书",
+    "angle": "创意玩法",
+    "hot_topic": "「活人感」成网络热词真我风潮",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "玉兰油防晒",
+    "engagement_estimate": "30188+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575336"
+  },
+  {
+    "id": "快消_202603290907035",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 4
+    },
+    "title": "《玉兰油精华被全网疯抢，只因清明五一假期出行预订提前升温》",
+    "platform": "小红书",
+    "angle": "挑战赛",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "玉兰油精华",
+    "engagement_estimate": "27961+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575339"
+  },
+  {
+    "id": "快消_202603290907036",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液",
+        "舒适柔顺剂"
+      ],
+      "priority": 3
+    },
+    "title": "《舒适洗衣液×清明五一假期出行预订提前升温: 这个组合太绝了》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "25557+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575344"
+  },
+  {
+    "id": "快消_202603290907037",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液",
+        "舒适柔顺剂"
+      ],
+      "priority": 3
+    },
+    "title": "《舒适洗衣液被全网疯抢，只因抖音净水器碧云泉G7S登销量榜首》",
+    "platform": "小红书",
+    "angle": "热点借势",
+    "hot_topic": "抖音净水器碧云泉G7S登销量榜首",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "49425+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575348"
+  },
+  {
+    "id": "快消_202603290907038",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液",
+        "舒适柔顺剂"
+      ],
+      "priority": 3
+    },
+    "title": "《舒适柔顺剂遇上了抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "B站",
+    "angle": "创意玩法",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适柔顺剂",
+    "engagement_estimate": "29868+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575351"
+  },
+  {
+    "id": "保健品_202603290907039",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油",
+        "益生菌"
+      ],
+      "priority": 5
+    },
+    "title": "《益生菌×清明五一假期出行预订提前升温: 这个组合太绝了》",
+    "platform": "微博",
+    "angle": "测评对比",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "益生菌",
+    "engagement_estimate": "47288+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575357"
+  },
+  {
+    "id": "保健品_202603290907040",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油",
+        "益生菌"
+      ],
+      "priority": 5
+    },
+    "title": "《鱼油助力抖音电商蓝莓成交额同比增159%》",
+    "platform": "B站",
+    "angle": "情感故事",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "鱼油",
+    "engagement_estimate": "22439+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575360"
+  },
+  {
+    "id": "保健品_202603290907041",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油",
+        "益生菌"
+      ],
+      "priority": 5
+    },
+    "title": "《鱼油的抖音「这届年轻人真的在用心生活」刷屏实测报告》",
+    "platform": "小红书",
+    "angle": "新品开箱",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "鱼油",
+    "engagement_estimate": "24275+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575364"
+  },
+  {
+    "id": "保健品_202603290907042",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油",
+        "益生菌"
+      ],
+      "priority": 5
+    },
+    "title": "《蛋白粉×养老金融话题登上抖音热搜: 这个组合太绝了》",
+    "platform": "B站",
+    "angle": "专业科普",
+    "hot_topic": "养老金融话题登上抖音热搜",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "蛋白粉",
+    "engagement_estimate": "10602+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575367"
+  },
+  {
+    "id": "保健品_202603290907043",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存银片"
+      ],
+      "priority": 3
+    },
+    "title": "《善存银片的清明五一假期出行预订提前升温实测报告》",
+    "platform": "抖音",
+    "angle": "避坑指南",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "善存银片",
+    "engagement_estimate": "36410+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575374"
+  },
+  {
+    "id": "保健品_202603290907044",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存银片"
+      ],
+      "priority": 3
+    },
+    "title": "《我用善存多维片挑战抖音电商蓝莓成交额同比增159%》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存多维片",
+    "engagement_estimate": "39842+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575378"
+  },
+  {
+    "id": "保健品_202603290907045",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存银片"
+      ],
+      "priority": 3
+    },
+    "title": "《善存银片遇上了抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "小红书",
+    "angle": "新品开箱",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存银片",
+    "engagement_estimate": "28283+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575381"
+  },
+  {
+    "id": "保健品_202603290907046",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存多维片",
+        "善存银片"
+      ],
+      "priority": 3
+    },
+    "title": "《善存银片被全网疯抢，只因养老金融话题登上抖音热搜》",
+    "platform": "抖音",
+    "angle": "专业科普",
+    "hot_topic": "养老金融话题登上抖音热搜",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "善存银片",
+    "engagement_estimate": "48709+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575385"
+  },
+  {
+    "id": "家庭清洁_202603290907047",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂",
+        "HC消毒液"
+      ],
+      "priority": 3
+    },
+    "title": "《HC消毒液遇上了清明五一假期出行预订提前升温》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "HC消毒液",
+    "engagement_estimate": "19946+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575390"
+  },
+  {
+    "id": "家庭清洁_202603290907048",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂",
+        "HC消毒液"
+      ],
+      "priority": 3
+    },
+    "title": "《HC消毒液遇上了抖音净水器碧云泉G7S登销量榜首》",
+    "platform": "微博",
+    "angle": "情感故事",
+    "hot_topic": "抖音净水器碧云泉G7S登销量榜首",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "HC消毒液",
+    "engagement_estimate": "14774+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575393"
+  },
+  {
+    "id": "家庭清洁_202603290907049",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂",
+        "HC消毒液"
+      ],
+      "priority": 3
+    },
+    "title": "《HC清洁剂遇上了抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "微博",
+    "angle": "使用教程",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC清洁剂",
+    "engagement_estimate": "17664+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575397"
+  },
+  {
+    "id": "家庭清洁_202603290907050",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁",
+        "威猛先生浴室清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《威猛先生厨房清洁的清明五一假期出行预订提前升温实测报告》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "威猛先生厨房清洁",
+    "engagement_estimate": "33924+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575402"
+  },
+  {
+    "id": "家庭清洁_202603290907051",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁",
+        "威猛先生浴室清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《威猛先生浴室清洁被全网疯抢，只因抖音净水器碧云泉G7S登销量榜首》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "抖音净水器碧云泉G7S登销量榜首",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "威猛先生浴室清洁",
+    "engagement_estimate": "49059+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575407"
+  },
+  {
+    "id": "家庭清洁_202603290907052",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁",
+        "威猛先生浴室清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《威猛先生浴室清洁×抖音「这届年轻人真的在用心生活」刷屏: 这个组合太绝了》",
+    "platform": "微博",
+    "angle": "测评对比",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生浴室清洁",
+    "engagement_estimate": "19832+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575411"
+  },
+  {
+    "id": "宠物食品_202603290907053",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物零食"
+      ],
+      "priority": 4
+    },
+    "title": "《我用猫粮挑战清明五一假期出行预订提前升温》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "猫粮",
+    "engagement_estimate": "46819+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575416"
+  },
+  {
+    "id": "宠物食品_202603290907054",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物零食"
+      ],
+      "priority": 4
+    },
+    "title": "《宠物零食的抖音电商蓝莓成交额同比增159%实测报告》",
+    "platform": "小红书",
+    "angle": "创意玩法",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "宠物零食",
+    "engagement_estimate": "30367+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575420"
+  },
+  {
+    "id": "宠物食品_202603290907055",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物零食"
+      ],
+      "priority": 4
+    },
+    "title": "《狗粮的抖音「这届年轻人真的在用心生活」刷屏实测报告》",
+    "platform": "微博",
+    "angle": "测评对比",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "狗粮",
+    "engagement_estimate": "16210+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575423"
+  },
+  {
+    "id": "宠物食品_202603290907056",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "希宝",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物零食"
+      ],
+      "priority": 4
+    },
+    "title": "《猫粮的抖音萌宠版滑步视频萌翻全网实测报告》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "抖音萌宠版滑步视频萌翻全网",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "猫粮",
+    "engagement_estimate": "46254+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575427"
+  },
+  {
+    "id": "宠物食品_202603290907057",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮",
+        "皇家处方粮"
+      ],
+      "priority": 4
+    },
+    "title": "《我用皇家猫粮挑战清明五一假期出行预订提前升温》",
+    "platform": "抖音",
+    "angle": "场景化种草",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "皇家猫粮",
+    "engagement_estimate": "16806+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575432"
+  },
+  {
+    "id": "宠物食品_202603290907058",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮",
+        "皇家处方粮"
+      ],
+      "priority": 4
+    },
+    "title": "《皇家猫粮×抖音电商蓝莓成交额同比增159%: 这个组合太绝了》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家猫粮",
+    "engagement_estimate": "16326+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575435"
+  },
+  {
+    "id": "宠物食品_202603290907059",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮",
+        "皇家处方粮"
+      ],
+      "priority": 4
+    },
+    "title": "《皇家猫粮被全网疯抢，只因抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家猫粮",
+    "engagement_estimate": "12301+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575439"
+  },
+  {
+    "id": "宠物食品_202603290907060",
+    "client": {
+      "industry": "宠物食品",
+      "brand": "皇家",
+      "products": [
+        "皇家猫粮",
+        "皇家狗粮",
+        "皇家处方粮"
+      ],
+      "priority": 4
+    },
+    "title": "《皇家猫粮×抖音萌宠版滑步视频萌翻全网: 这个组合太绝了》",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "抖音萌宠版滑步视频萌翻全网",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "皇家猫粮",
+    "engagement_estimate": "42564+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575442"
+  },
+  {
+    "id": "食品饮料_202603290907061",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶",
+        "燕麦冰淇淋"
+      ],
+      "priority": 4
+    },
+    "title": "《咖啡燕麦奶遇上了colorwalk色彩漫步成春季出游顶流》",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡燕麦奶",
+    "engagement_estimate": "9807+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575448"
+  },
+  {
+    "id": "食品饮料_202603290907062",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶",
+        "燕麦冰淇淋"
+      ],
+      "priority": 4
+    },
+    "title": "《咖啡燕麦奶助力清明五一假期出行预订提前升温》",
+    "platform": "抖音",
+    "angle": "情感故事",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡燕麦奶",
+    "engagement_estimate": "18055+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575451"
+  },
+  {
+    "id": "食品饮料_202603290907063",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶",
+        "燕麦冰淇淋"
+      ],
+      "priority": 4
+    },
+    "title": "《我用燕麦冰淇淋挑战抖音电商蓝莓成交额同比增159%》",
+    "platform": "B站",
+    "angle": "热点借势",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "燕麦冰淇淋",
+    "engagement_estimate": "12094+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575455"
+  },
+  {
+    "id": "食品饮料_202603290907064",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶",
+        "燕麦冰淇淋"
+      ],
+      "priority": 4
+    },
+    "title": "《燕麦奶助力抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "燕麦奶",
+    "engagement_estimate": "20857+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575458"
+  },
+  {
+    "id": "食品饮料_202603290907065",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威纯生",
+        "百威超级"
+      ],
+      "priority": 3
+    },
+    "title": "《百威超级遇上了2026开年热梗「夯爆了」持续刷屏》",
+    "platform": "微博",
+    "angle": "挑战赛",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威超级",
+    "engagement_estimate": "36413+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575464"
+  },
+  {
+    "id": "食品饮料_202603290907066",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威纯生",
+        "百威超级"
+      ],
+      "priority": 3
+    },
+    "title": "《百威啤酒助力清明五一假期出行预订提前升温》",
+    "platform": "B站",
+    "angle": "新品开箱",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "百威啤酒",
+    "engagement_estimate": "20936+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575468"
+  },
+  {
+    "id": "食品饮料_202603290907067",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威纯生",
+        "百威超级"
+      ],
+      "priority": 3
+    },
+    "title": "《百威纯生助力抖音电商蓝莓成交额同比增159%》",
+    "platform": "微博",
+    "angle": "避坑指南",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威纯生",
+    "engagement_estimate": "19888+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575471"
+  },
+  {
+    "id": "食品饮料_202603290907068",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威纯生",
+        "百威超级"
+      ],
+      "priority": 3
+    },
+    "title": "《百威啤酒被全网疯抢，只因抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "B站",
+    "angle": "情感故事",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威啤酒",
+    "engagement_estimate": "33425+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575475"
+  },
+  {
+    "id": "食品饮料_202603290907069",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水",
+        "燃茶"
+      ],
+      "priority": 4
+    },
+    "title": "《我用燃茶挑战colorwalk色彩漫步成春季出游顶流》",
+    "platform": "B站",
+    "angle": "测评对比",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "燃茶",
+    "engagement_estimate": "28013+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575480"
+  },
+  {
+    "id": "食品饮料_202603290907070",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水",
+        "燃茶"
+      ],
+      "priority": 4
+    },
+    "title": "《气泡水助力清明五一假期出行预订提前升温》",
+    "platform": "小红书",
+    "angle": "场景化种草",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "engagement_estimate": "22020+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575483"
+  },
+  {
+    "id": "食品饮料_202603290907071",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水",
+        "燃茶"
+      ],
+      "priority": 4
+    },
+    "title": "《外星人电解质水的抖音电商蓝莓成交额同比增159%实测报告》",
+    "platform": "微博",
+    "angle": "新品开箱",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "外星人电解质水",
+    "engagement_estimate": "44845+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575487"
+  },
+  {
+    "id": "食品饮料_202603290907072",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水",
+        "燃茶"
+      ],
+      "priority": 4
+    },
+    "title": "《我用燃茶挑战抖音「这届年轻人真的在用心生活」刷屏》",
+    "platform": "抖音",
+    "angle": "创意玩法",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "燃茶",
+    "engagement_estimate": "44570+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575490"
+  },
+  {
+    "id": "食品饮料_202603290907073",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "矿泉水",
+        "东方树叶",
+        "茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《矿泉水被全网疯抢，只因colorwalk色彩漫步成春季出游顶流》",
+    "platform": "抖音",
+    "angle": "测评对比",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "矿泉水",
+    "engagement_estimate": "48588+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575495"
+  },
+  {
+    "id": "食品饮料_202603290907074",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "矿泉水",
+        "东方树叶",
+        "茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《东方树叶遇上了清明五一假期出行预订提前升温》",
+    "platform": "抖音",
+    "angle": "创意玩法",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "东方树叶",
+    "engagement_estimate": "49298+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575498"
+  },
+  {
+    "id": "食品饮料_202603290907075",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "矿泉水",
+        "东方树叶",
+        "茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《茶π被全网疯抢，只因抖音电商蓝莓成交额同比增159%》",
+    "platform": "小红书",
+    "angle": "测评对比",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "茶π",
+    "engagement_estimate": "13565+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575502"
+  },
+  {
+    "id": "食品饮料_202603290907076",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "矿泉水",
+        "东方树叶",
+        "茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《矿泉水的抖音「这届年轻人真的在用心生活」刷屏实测报告》",
+    "platform": "抖音",
+    "angle": "使用教程",
+    "hot_topic": "抖音「这届年轻人真的在用心生活」刷屏",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "矿泉水",
+    "engagement_estimate": "31828+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:07:29.575507"
   }
 ]
