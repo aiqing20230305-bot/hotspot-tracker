@@ -11646,5 +11646,1975 @@
     "engagement_estimate": "待评估",
     "status": "pending",
     "created_at": "2026-03-29T10:52:44.903370"
+  },
+  {
+    "id": "饮品_20260329130436631",
+    "client": {
+      "industry": "饮品",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 4
+    },
+    "title": "《百威借势华人神探李昌钰去世：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "华人神探李昌钰去世",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续关注",
+    "product": "百威啤酒",
+    "engagement_estimate": "5000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436930",
+    "client": {
+      "industry": "饮品",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮"
+      ],
+      "priority": 4
+    },
+    "title": "《农夫山泉借势华人神探李昌钰去世：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "华人神探李昌钰去世",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续关注",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "5000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436215",
+    "client": {
+      "industry": "饮品",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮"
+      ],
+      "priority": 4
+    },
+    "title": "《农夫山泉借势小红书K12教育平衡术话题火爆：知识分享内容创作》",
+    "platform": "小红书",
+    "angle": "知识分享",
+    "hot_topic": "小红书K12教育平衡术话题火爆",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "5000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436578",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势第二届REDGALA小红花奖揭晓：科技科普内容创作》",
+    "platform": "小红书",
+    "angle": "科技科普",
+    "hot_topic": "第二届REDGALA小红花奖揭晓",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "5000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436580",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势第二届REDGALA小红花奖揭晓：趣味体验内容创作》",
+    "platform": "小红书",
+    "angle": "趣味体验",
+    "hot_topic": "第二届REDGALA小红花奖揭晓",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "5000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436741",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势小红书探店打卡攻略：痛点解决内容创作》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "小红书探店打卡攻略",
+    "heat": "3560万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "358000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436189",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势小红书探店打卡攻略：生活方式内容创作》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "小红书探店打卡攻略",
+    "heat": "3560万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "358000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436791",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势小红书买手经济：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "小红书买手经济",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "236000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436266",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势小红书买手经济：品牌关联内容创作》",
+    "platform": "小红书",
+    "angle": "品牌关联",
+    "hot_topic": "小红书买手经济",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "236000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436677",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势小红书爆款笔记公式：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "小红书爆款笔记公式",
+    "heat": "2890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "291000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436830",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势小红书爆款笔记公式：品牌关联内容创作》",
+    "platform": "小红书",
+    "angle": "品牌关联",
+    "hot_topic": "小红书爆款笔记公式",
+    "heat": "2890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "291000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436469",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势抖音图文玩法回归：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "抖音图文玩法回归",
+    "heat": "1680万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "170000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436943",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势抖音图文玩法回归：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "抖音图文玩法回归",
+    "heat": "1680万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "170000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436281",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势抖音直播带货新玩法：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "抖音直播带货新玩法",
+    "heat": "2560万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "258000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436884",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势抖音直播带货新玩法：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "抖音直播带货新玩法",
+    "heat": "2560万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "258000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436591",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势抖音短剧新热潮：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "抖音短剧新热潮",
+    "heat": "4120万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "414000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436054",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势抖音短剧新热潮：趣味互动内容创作》",
+    "platform": "抖音",
+    "angle": "趣味互动",
+    "hot_topic": "抖音短剧新热潮",
+    "heat": "4120万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "414000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436562",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势抖音本地生活服务：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "抖音本地生活服务",
+    "heat": "1890万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "191000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436609",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势抖音本地生活服务：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "抖音本地生活服务",
+    "heat": "1890万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "191000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436764",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势抖音AI特效使用教程：科技科普内容创作》",
+    "platform": "抖音",
+    "angle": "科技科普",
+    "hot_topic": "抖音AI特效使用教程",
+    "heat": "3450万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "347000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436503",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势抖音AI特效使用教程：趣味体验内容创作》",
+    "platform": "抖音",
+    "angle": "趣味体验",
+    "hot_topic": "抖音AI特效使用教程",
+    "heat": "3450万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "347000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436711",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势情绪价值消费趋势：消费趋势内容创作》",
+    "platform": "小红书",
+    "angle": "消费趋势",
+    "hot_topic": "情绪价值消费趋势",
+    "heat": "2680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "270000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436417",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势情绪价值消费趋势：品牌推荐内容创作》",
+    "platform": "小红书",
+    "angle": "品牌推荐",
+    "hot_topic": "情绪价值消费趋势",
+    "heat": "2680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "270000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436025",
+    "client": {
+      "industry": "饮品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶"
+      ],
+      "priority": 4
+    },
+    "title": "《OATLY借势可持续消费理念：消费趋势内容创作》",
+    "platform": "小红书",
+    "angle": "消费趋势",
+    "hot_topic": "可持续消费理念",
+    "heat": "1120万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "114000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436094",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势可持续消费理念：品牌推荐内容创作》",
+    "platform": "小红书",
+    "angle": "品牌推荐",
+    "hot_topic": "可持续消费理念",
+    "heat": "1120万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "114000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436085",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势极简主义生活方式：痛点解决内容创作》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "180000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436863",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势极简主义生活方式：生活方式内容创作》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "180000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436732",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势新消费品牌崛起：消费趋势内容创作》",
+    "platform": "小红书",
+    "angle": "消费趋势",
+    "hot_topic": "新消费品牌崛起",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "236000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436556",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势智能办公设备推荐：科技科普内容创作》",
+    "platform": "抖音",
+    "angle": "科技科普",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "100000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436448",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势智能办公设备推荐：趣味体验内容创作》",
+    "platform": "抖音",
+    "angle": "趣味体验",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "100000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436663",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势颈椎保护指南：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "颈椎保护指南",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "191000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436392",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势颈椎保护指南：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "颈椎保护指南",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "191000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436395",
+    "client": {
+      "industry": "饮品",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮"
+      ],
+      "priority": 4
+    },
+    "title": "《农夫山泉借势办公室养生好物：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "办公室养生好物",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "158000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436181",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势副业赚钱新方式：职场共鸣内容创作》",
+    "platform": "抖音",
+    "angle": "职场共鸣",
+    "hot_topic": "副业赚钱新方式",
+    "heat": "2780万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "280000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436535",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势副业赚钱新方式：效率提升内容创作》",
+    "platform": "抖音",
+    "angle": "效率提升",
+    "hot_topic": "副业赚钱新方式",
+    "heat": "2780万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "280000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436409",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势职场反内卷生活方式：职场共鸣内容创作》",
+    "platform": "小红书",
+    "angle": "职场共鸣",
+    "hot_topic": "职场反内卷生活方式",
+    "heat": "3200万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "322000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436682",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势AI生成图片版权争议：科技科普内容创作》",
+    "platform": "抖音",
+    "angle": "科技科普",
+    "hot_topic": "AI生成图片版权争议",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "191000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436147",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势AI生成图片版权争议：趣味体验内容创作》",
+    "platform": "抖音",
+    "angle": "趣味体验",
+    "hot_topic": "AI生成图片版权争议",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "191000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436519",
+    "client": {
+      "industry": "饮品",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 4
+    },
+    "title": "《百威借势周末电影之夜零食：食谱教程内容创作》",
+    "platform": "小红书",
+    "angle": "食谱教程",
+    "hot_topic": "周末电影之夜零食",
+    "heat": "840万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "百威啤酒",
+    "engagement_estimate": "86000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436926",
+    "client": {
+      "industry": "饮品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶"
+      ],
+      "priority": 4
+    },
+    "title": "《OATLY借势周末电影之夜零食：探店打卡内容创作》",
+    "platform": "小红书",
+    "angle": "探店打卡",
+    "hot_topic": "周末电影之夜零食",
+    "heat": "840万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "86000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436142",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势AI写作工具使用教程：科技科普内容创作》",
+    "platform": "小红书",
+    "angle": "科技科普",
+    "hot_topic": "AI写作工具使用教程",
+    "heat": "2450万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "247000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436463",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势AI写作工具使用教程：趣味体验内容创作》",
+    "platform": "小红书",
+    "angle": "趣味体验",
+    "hot_topic": "AI写作工具使用教程",
+    "heat": "2450万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "247000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436087",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势春季过敏自救指南：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "春季过敏自救指南",
+    "heat": "1670万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "169000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436598",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士沐浴露",
+        "力士洗发水"
+      ],
+      "priority": 4
+    },
+    "title": "《力士借势春季过敏自救指南：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "春季过敏自救指南",
+    "heat": "1670万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "力士沐浴露",
+    "engagement_estimate": "169000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436039",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势春季露营装备特惠：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "春季露营装备特惠",
+    "heat": "1340万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "136000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436082",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势春季露营装备特惠：品牌关联内容创作》",
+    "platform": "小红书",
+    "angle": "品牌关联",
+    "hot_topic": "春季露营装备特惠",
+    "heat": "1340万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "136000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436968",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势春日换季衣橱整理：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "春日换季衣橱整理",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "100000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436270",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势春日换季衣橱整理：品牌关联内容创作》",
+    "platform": "小红书",
+    "angle": "品牌关联",
+    "hot_topic": "春日换季衣橱整理",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "100000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436159",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势妇女节礼物后续分享：痛点解决内容创作》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "妇女节礼物后续分享",
+    "heat": "890万",
+    "trend": "🔥 略有热度",
+    "product": "清扬洗发水",
+    "engagement_estimate": "91000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436537",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势妇女节礼物后续分享：生活方式内容创作》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "妇女节礼物后续分享",
+    "heat": "890万",
+    "trend": "🔥 略有热度",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "91000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436026",
+    "client": {
+      "industry": "饮品",
+      "brand": "百威",
+      "products": [
+        "百威啤酒"
+      ],
+      "priority": 4
+    },
+    "title": "《百威借势周末低成本约会方案：目的地推荐内容创作》",
+    "platform": "抖音",
+    "angle": "目的地推荐",
+    "hot_topic": "周末低成本约会方案",
+    "heat": "1450万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威啤酒",
+    "engagement_estimate": "147000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436676",
+    "client": {
+      "industry": "饮品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶"
+      ],
+      "priority": 4
+    },
+    "title": "《OATLY借势周末低成本约会方案：出行攻略内容创作》",
+    "platform": "抖音",
+    "angle": "出行攻略",
+    "hot_topic": "周末低成本约会方案",
+    "heat": "1450万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "147000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436172",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势五一酒店预订指南：目的地推荐内容创作》",
+    "platform": "抖音",
+    "angle": "目的地推荐",
+    "hot_topic": "五一酒店预订指南",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "158000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436238",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势五一酒店预订指南：出行攻略内容创作》",
+    "platform": "抖音",
+    "angle": "出行攻略",
+    "hot_topic": "五一酒店预订指南",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "158000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436139",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势新手爸妈育儿指南：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "新手爸妈育儿指南",
+    "heat": "1320万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "134000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436197",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势新手爸妈育儿指南：品牌关联内容创作》",
+    "platform": "小红书",
+    "angle": "品牌关联",
+    "hot_topic": "新手爸妈育儿指南",
+    "heat": "1320万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "134000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436358",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势五一假期拼假攻略：目的地推荐内容创作》",
+    "platform": "小红书",
+    "angle": "目的地推荐",
+    "hot_topic": "五一假期拼假攻略",
+    "heat": "2890万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "291000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436884",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势五一假期拼假攻略：出行攻略内容创作》",
+    "platform": "小红书",
+    "angle": "出行攻略",
+    "hot_topic": "五一假期拼假攻略",
+    "heat": "2890万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "291000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436252",
+    "client": {
+      "industry": "饮品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶"
+      ],
+      "priority": 4
+    },
+    "title": "《OATLY借势春季限定奶茶新品：食谱教程内容创作》",
+    "platform": "小红书",
+    "angle": "食谱教程",
+    "hot_topic": "春季限定奶茶新品",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "191000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436502",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势春季限定奶茶新品：探店打卡内容创作》",
+    "platform": "小红书",
+    "angle": "探店打卡",
+    "hot_topic": "春季限定奶茶新品",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "191000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436333",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势清明节高速出行攻略：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "清明节高速出行攻略",
+    "heat": "1120万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "114000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436209",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势清明节高速出行攻略：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "清明节高速出行攻略",
+    "heat": "1120万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "114000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436189",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势Switch游戏新发型：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "Switch游戏新发型",
+    "heat": "650万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "67000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436329",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势Switch游戏新发型：品牌关联内容创作》",
+    "platform": "小红书",
+    "angle": "品牌关联",
+    "hot_topic": "Switch游戏新发型",
+    "heat": "650万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "67000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436403",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势清明节祭祀用品选购：痛点解决内容创作》",
+    "platform": "抖音",
+    "angle": "痛点解决",
+    "hot_topic": "清明节祭祀用品选购",
+    "heat": "760万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "78000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436381",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势清明节祭祀用品选购：生活方式内容创作》",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "清明节祭祀用品选购",
+    "heat": "760万",
+    "trend": "🔥🔥 稳定上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "78000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436197",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势猫咪春日护理攻略：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "猫咪春日护理攻略",
+    "heat": "1150万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "117000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436577",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势猫咪春日护理攻略：品牌关联内容创作》",
+    "platform": "小红书",
+    "angle": "品牌关联",
+    "hot_topic": "猫咪春日护理攻略",
+    "heat": "1150万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "117000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436091",
+    "client": {
+      "industry": "饮品",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮"
+      ],
+      "priority": 4
+    },
+    "title": "《农夫山泉借势春茶采摘体验游：目的地推荐内容创作》",
+    "platform": "小红书",
+    "angle": "目的地推荐",
+    "hot_topic": "春茶采摘体验游",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "100000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436204",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势春季减脂计划打卡：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "春季减脂计划打卡",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "236000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436184",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势春季减脂计划打卡：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "春季减脂计划打卡",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "236000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436487",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势春季衣橱换季指南：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "春季衣橱换季指南",
+    "heat": "2180万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "220000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436648",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势春季衣橱换季指南：品牌关联内容创作》",
+    "platform": "小红书",
+    "angle": "品牌关联",
+    "hot_topic": "春季衣橱换季指南",
+    "heat": "2180万",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "220000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436997",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势办公室午休好物清单：话题借势内容创作》",
+    "platform": "小红书",
+    "angle": "话题借势",
+    "hot_topic": "办公室午休好物清单",
+    "heat": "780万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "80000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436653",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势办公室午休好物清单：品牌关联内容创作》",
+    "platform": "小红书",
+    "angle": "品牌关联",
+    "hot_topic": "办公室午休好物清单",
+    "heat": "780万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "80000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436174",
+    "client": {
+      "industry": "饮品",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮"
+      ],
+      "priority": 4
+    },
+    "title": "《农夫山泉借势清明节青团做法：食谱教程内容创作》",
+    "platform": "小红书",
+    "angle": "食谱教程",
+    "hot_topic": "清明节青团做法",
+    "heat": "1340万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "136000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436511",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势儿童春季长高指南：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "儿童春季长高指南",
+    "heat": "1560万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "158000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436350",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势儿童春季长高指南：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "儿童春季长高指南",
+    "heat": "1560万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "158000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436189",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势春季减脂计划：话题借势内容创作》",
+    "platform": "抖音",
+    "angle": "话题借势",
+    "hot_topic": "春季减脂计划",
+    "heat": "3200万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "322000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436203",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势春季减脂计划：品牌关联内容创作》",
+    "platform": "抖音",
+    "angle": "品牌关联",
+    "hot_topic": "春季减脂计划",
+    "heat": "3200万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "322000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436192",
+    "client": {
+      "industry": "饮品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶"
+      ],
+      "priority": 4
+    },
+    "title": "《OATLY借势周末露营穿搭指南：目的地推荐内容创作》",
+    "platform": "小红书",
+    "angle": "目的地推荐",
+    "hot_topic": "周末露营穿搭指南",
+    "heat": "1680万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "170000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436450",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势周末露营穿搭指南：出行攻略内容创作》",
+    "platform": "小红书",
+    "angle": "出行攻略",
+    "hot_topic": "周末露营穿搭指南",
+    "heat": "1680万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "170000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436992",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬沐浴露"
+      ],
+      "priority": 4
+    },
+    "title": "《清扬借势春季过敏防护指南：科普解读内容创作》",
+    "platform": "抖音",
+    "angle": "科普解读",
+    "hot_topic": "春季过敏防护指南",
+    "heat": "1680万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "170000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "快消_20260329130436907",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬借势春季过敏防护指南：健康提醒内容创作》",
+    "platform": "抖音",
+    "angle": "健康提醒",
+    "hot_topic": "春季过敏防护指南",
+    "heat": "1680万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "170000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436571",
+    "client": {
+      "industry": "饮品",
+      "brand": "OATLY",
+      "products": [
+        "OATLY燕麦奶"
+      ],
+      "priority": 4
+    },
+    "title": "《OATLY借势春季养生食谱大全：食谱教程内容创作》",
+    "platform": "小红书",
+    "angle": "食谱教程",
+    "hot_topic": "春季养生食谱大全",
+    "heat": "2450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "247000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436414",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势春季养生食谱大全：探店打卡内容创作》",
+    "platform": "小红书",
+    "angle": "探店打卡",
+    "hot_topic": "春季养生食谱大全",
+    "heat": "2450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "247000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436828",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势春游装备采购清单：目的地推荐内容创作》",
+    "platform": "抖音",
+    "angle": "目的地推荐",
+    "hot_topic": "春游装备采购清单",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "191000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436791",
+    "client": {
+      "industry": "饮品",
+      "brand": "元气森林",
+      "products": [
+        "元气森林气泡水"
+      ],
+      "priority": 4
+    },
+    "title": "《元气森林借势清明踏青好去处：目的地推荐内容创作》",
+    "platform": "小红书",
+    "angle": "目的地推荐",
+    "hot_topic": "清明踏青好去处",
+    "heat": "3560万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "358000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
+  },
+  {
+    "id": "饮品_20260329130436132",
+    "client": {
+      "industry": "饮品",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮"
+      ],
+      "priority": 4
+    },
+    "title": "《农夫山泉借势清明踏青好去处：出行攻略内容创作》",
+    "platform": "小红书",
+    "angle": "出行攻略",
+    "hot_topic": "清明踏青好去处",
+    "heat": "3560万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "358000+",
+    "status": "pending",
+    "created_at": "2026-03-29T13:04:36.908954"
   }
 ]
