@@ -1,6 +1,5 @@
 {
   "generated_at": "2026-03-29T19:45:00",
-  "system_status": "healthy",
   "daily_output": {
     "hot_topics": 100,
     "topics_generated": 2342,
@@ -11,38 +10,32 @@
     {
       "client": "荣耀中国",
       "industry": "3C数码",
-      "status": "active",
-      "last_update": "2026-03-29"
+      "status": "active"
     },
     {
       "client": "AHC",
       "industry": "快消",
-      "status": "active",
-      "last_update": "2026-03-29"
+      "status": "active"
     },
     {
       "client": "HC",
       "industry": "家庭清洁",
-      "status": "active",
-      "last_update": "2026-03-29"
+      "status": "active"
     },
     {
       "client": "汤臣倍健",
       "industry": "保健品",
-      "status": "active",
-      "last_update": "2026-03-29"
+      "status": "active"
     },
     {
       "client": "传应",
       "industry": "电池",
-      "status": "active",
-      "last_update": "2026-03-29"
+      "status": "active"
     },
     {
       "client": "通用磨坊",
       "industry": "宠物食品",
-      "status": "active",
-      "last_update": "2026-03-29"
+      "status": "active"
     }
   ],
   "hotspot_success": [
@@ -62,60 +55,31 @@
       "trend": "up"
     }
   ],
-  "content_trend": [
-    {
-      "industry": "3C数码",
-      "engagement": 15600,
-      "change": 12.5
-    },
-    {
-      "industry": "快消",
-      "engagement": 12300,
-      "change": 8.3
-    },
-    {
-      "industry": "家庭清洁",
-      "engagement": 9800,
-      "change": 5.2
-    }
-  ],
   "methodology_effect": [
     {
-      "method": "热点借势",
-      "effectiveness": 0.88
+      "methodology": "热点借势",
+      "success_rate": 88,
+      "times_used": 520
     },
     {
-      "method": "场景植入",
-      "effectiveness": 0.82
+      "methodology": "场景植入",
+      "success_rate": 82,
+      "times_used": 380
     },
     {
-      "method": "产品测评",
-      "effectiveness": 0.85
+      "methodology": "产品测评",
+      "success_rate": 85,
+      "times_used": 450
     },
     {
-      "method": "教程分享",
-      "effectiveness": 0.76
+      "methodology": "教程分享",
+      "success_rate": 76,
+      "times_used": 290
     },
     {
-      "method": "KOL联动",
-      "effectiveness": 0.91
-    }
-  ],
-  "platform_comparison": [
-    {
-      "platform": "抖音",
-      "avg_likes": 8500,
-      "avg_shares": 1200
-    },
-    {
-      "platform": "小红书",
-      "avg_likes": 6200,
-      "avg_shares": 800
-    },
-    {
-      "platform": "微博",
-      "avg_likes": 4200,
-      "avg_shares": 350
+      "methodology": "KOL联动",
+      "success_rate": 91,
+      "times_used": 180
     }
   ]
 }
