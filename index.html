@@ -741,9 +741,9 @@
             renderTopics();
         }
         
-        // 排序热点
-        function sortTopics() {
-            currentSort = document.getElementById('sortSelect').value;
+        // 排序热点（保留接口，暂无UI）
+        function sortTopics(sortValue) {
+            currentSort = sortValue || 'default';
             renderTopics();
         }
         
@@ -849,8 +849,11 @@
                 topics = [...topics].sort((a, b) => (a.platform || '').localeCompare(b.platform || ''));
             }
             
-            // 更新计数
-            document.getElementById('filterCount').textContent = `共 ${topics.length} 条热点`;
+            // 更新计数（如果存在）
+            const filterCountEl = document.getElementById('filterCount');
+            if (filterCountEl) {
+                filterCountEl.textContent = `共 ${topics.length} 条热点`;
+            }
             
             if (topics.length === 0) {
                 container.innerHTML = '<div class="loading">暂无热点数据</div>';

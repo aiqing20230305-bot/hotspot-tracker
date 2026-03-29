@@ -304,8 +304,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;backgrou
 .estimate-loading{display:none;align-items:center;justify-content:center;gap:8px;padding:30px;color:var(--gray-500);font-size:13px}
 .estimate-loading.show{display:flex}
 .estimate-loading .mini-spinner{width:18px;height:18px;border:2px solid var(--gray-200);border-top-color:var(--primary);border-radius:50%;animation:spin .6s linear infinite}
+/* Hamburger Menu */
+.hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;min-width:48px;min-height:48px;justify-content:center;align-items:center}
+.hamburger span{width:24px;height:2px;background:var(--gray-600);border-radius:2px;transition:all .3s}
+.hamburger.active span:nth-child(1){transform:rotate(45deg) translate(5px,5px)}
+.hamburger.active span:nth-child(2){opacity:0}
+.hamburger.active span:nth-child(3){transform:rotate(-45deg) translate(5px,-5px)}
 /* Responsive */
-@media(max-width:768px){.nav-tabs{display:none}.page-header{padding:24px}.page-header h1{font-size:22px}.main-container{padding:70px 16px 32px}.dist-row{grid-template-columns:50px 1fr 40px}.dist-avg{display:none}.estimate-results{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:768px){.nav-tabs{display:none;position:fixed;top:60px;left:0;right:0;background:white;flex-direction:column;padding:16px;box-shadow:0 4px 20px rgba(0,0,0,0.15);gap:4px;z-index:99}.nav-tabs.show{display:flex}.nav-tab{padding:12px 16px;font-size:15px;width:100%;justify-content:flex-start}.hamburger{display:flex}.page-header{padding:24px}.page-header h1{font-size:22px}.main-container{padding:70px 16px 32px}.dist-row{grid-template-columns:50px 1fr 40px}.dist-avg{display:none}.estimate-results{grid-template-columns:repeat(2,1fr)}}
 @keyframes fadeInUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
 .animate-in{animation:fadeInUp .4s ease-out forwards}
 </style>
@@ -316,16 +322,20 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;backgrou
 <nav class="navbar">
 <div class="nav-container">
 <div class="logo">📊 特赞内容运营平台</div>
-<div class="nav-tabs">
-<a href="index.html" class="nav-tab">🏠 首页</a>
-<a href="dashboard.html" class="nav-tab">📊 数据看板</a>
-<a href="hot_topics.html" class="nav-tab">🔥 热点追踪</a>
-<a href="trend_prediction.html" class="nav-tab active">📈 趋势预测</a>
-<a href="low_fan_hits.html" class="nav-tab">⭐ 低粉爆款</a>
-<a href="script_generator.html" class="nav-tab">✍️ 脚本生成</a>
-<a href="sku_library.html" class="nav-tab">📦 SKU库</a>
-<a href="platform.html" class="nav-tab">🔧 平台配置</a>
-<a href="client_center.html" class="nav-tab">👥 客户中心</a>
+<div class="nav-tabs" id="navTabs">
+<a href="platform.html" class="nav-tab">首页</a>
+<a href="index.html" class="nav-tab">热点追踪</a>
+<a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
+<a href="client_center.html" class="nav-tab">客户选题</a>
+<a href="sku_library.html" class="nav-tab">SKU场景</a>
+<a href="competitor_analysis.html" class="nav-tab">竞品分析</a>
+<a href="dashboard.html" class="nav-tab">数据看板</a>
+<a href="script_generator.html" class="nav-tab">脚本生成</a>
+</div>
+<div class="hamburger" id="hamburger" onclick="toggleMenu()">
+<span></span>
+<span></span>
+<span></span>
 </div>
 </div>
 </nav>
@@ -601,6 +611,20 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;backgrou
 
 <!-- ===== JavaScript ===== -->
 <script>
+// 移动端菜单切换
+function toggleMenu() {
+    const navTabs = document.getElementById('navTabs');
+    const hamburger = document.getElementById('hamburger');
+    navTabs.classList.toggle('show');
+    hamburger.classList.toggle('active');
+}
+document.querySelectorAll('.nav-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+        document.getElementById('navTabs').classList.remove('show');
+        document.getElementById('hamburger').classList.remove('active');
+    });
+});
+
 // 数据加载和渲染逻辑
 const trends = [];
 const categories = ['科技','美妆','母婴','健身','美食','旅游','教育','汽车','宠物','家居'];
