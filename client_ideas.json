@@ -1,5 +1,1265 @@
 [
   {
+    "id": "荣耀_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了！荣耀AI手机实测效果太强",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478835"
+  },
+  {
+    "id": "荣耀_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk色彩漫步，荣耀手机拍照太出片",
+    "platform": "小红书",
+    "angle": "场景植入",
+    "hot_topic": "colorwalk色彩漫步成2026春季顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478840"
+  },
+  {
+    "id": "荣耀_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "反网红穿搭？荣耀手机记录真实自我",
+    "platform": "B站",
+    "angle": "效果对比",
+    "hot_topic": "反网红穿搭笔记上涨320%",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478843"
+  },
+  {
+    "id": "罗技_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "罗技",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "罗技危机后如何选鼠标？游戏玩家真实建议",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "罗技狗式侮辱营销惹怒消费者",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478845"
+  },
+  {
+    "id": "罗技_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "罗技",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "大疆起诉影石，罗技键盘鼠标还是稳的",
+    "platform": "小红书",
+    "angle": "场景植入",
+    "hot_topic": "大疆起诉影石Insta360",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478847"
+  },
+  {
+    "id": "罗技_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "罗技",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感拉满，罗技办公日常分享",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478849"
+  },
+  {
+    "id": "小米_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了！小米SU7春季出游实测",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478851"
+  },
+  {
+    "id": "小米_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk漫步，小米14 Ultra记录春日色彩",
+    "platform": "小红书",
+    "angle": "场景植入",
+    "hot_topic": "colorwalk色彩漫步成2026春季顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478852"
+  },
+  {
+    "id": "小米_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "小红书估值3500亿，小米生态链也是顶流",
+    "platform": "B站",
+    "angle": "科技热点",
+    "hot_topic": "小红书期权一年四连涨",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478854"
+  },
+  {
+    "id": "索尼_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "索尼",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "大疆起诉影石，索尼相机还是影像王者",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "大疆起诉影石Insta360",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478856"
+  },
+  {
+    "id": "索尼_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "索尼",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春日拍摄，索尼相机色彩太夯了",
+    "platform": "小红书",
+    "angle": "场景植入",
+    "hot_topic": "colorwalk色彩漫步成2026春季顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478858"
+  },
+  {
+    "id": "索尼_20260330T064103",
+    "client": {
+      "industry": "科技",
+      "brand": "索尼",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "反网红穿搭博主都在用索尼相机记录真实",
+    "platform": "B站",
+    "angle": "效果对比",
+    "hot_topic": "反网红穿搭笔记上涨320%",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478859"
+  },
+  {
+    "id": "AHC_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季过敏高发期，AHC修护水乳救了我",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478862"
+  },
+  {
+    "id": "AHC_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "反网红穿搭也要有好皮肤，AHC小蓝瓶实测",
+    "platform": "小红书",
+    "angle": "场景植入",
+    "hot_topic": "反网红穿搭笔记上涨320%",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478863"
+  },
+  {
+    "id": "AHC_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感护肤，AHC让你素颜也自信",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478865"
+  },
+  {
+    "id": "多芬_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "反网红穿搭从真实沐浴开始，多芬滋养肌肤",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "反网红穿搭笔记上涨320%",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478867"
+  },
+  {
+    "id": "多芬_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季护肤攻略，多芬身体乳让皮肤夯爆了",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478869"
+  },
+  {
+    "id": "多芬_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感女生都在用的多芬沐浴露",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478871"
+  },
+  {
+    "id": "力士_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季头发养护，力士洗发水让发丝有光泽",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478872"
+  },
+  {
+    "id": "力士_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "反网红穿搭也要有顺滑秀发",
+    "platform": "小红书",
+    "angle": "场景植入",
+    "hot_topic": "反网红穿搭笔记上涨320%",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478874"
+  },
+  {
+    "id": "力士_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感发型不需要复杂造型，力士就够了",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478876"
+  },
+  {
+    "id": "清扬_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "清扬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季头皮护理，清扬去屑洗发水实测",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478878"
+  },
+  {
+    "id": "清扬_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "清扬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的去屑效果，清扬让你自信满满",
+    "platform": "小红书",
+    "angle": "效果对比",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478879"
+  },
+  {
+    "id": "清扬_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "清扬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感不油腻，清扬男士清爽一整天",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478881"
+  },
+  {
+    "id": "玉兰油_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季护肤刚需，玉兰油大红瓶修护敏感肌",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478883"
+  },
+  {
+    "id": "玉兰油_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "反网红穿搭也要有年轻肌肤，玉兰油抗老实测",
+    "platform": "小红书",
+    "angle": "效果对比",
+    "hot_topic": "反网红穿搭笔记上涨320%",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478884"
+  },
+  {
+    "id": "玉兰油_20260330T064103",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感护肤，玉兰油让肌肤自然发光",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478886"
+  },
+  {
+    "id": "汤臣倍健_20260330T064103",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季养生指南，汤臣倍健蛋白粉提升免疫力",
+    "platform": "抖音",
+    "angle": "科普知识",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478888"
+  },
+  {
+    "id": "汤臣倍健_20260330T064103",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的健康状态，汤臣倍健维C实测",
+    "platform": "小红书",
+    "angle": "产品推荐",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478890"
+  },
+  {
+    "id": "汤臣倍健_20260330T064103",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绩效相亲也要有好身体，汤臣倍健护肝片",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "绩效相亲成网络热梗",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478891"
+  },
+  {
+    "id": "善存_20260330T064103",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季补充维生素，善存多维片日常必备",
+    "platform": "抖音",
+    "angle": "科普知识",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478894"
+  },
+  {
+    "id": "善存_20260330T064103",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的精力，善存让你每天元气满满",
+    "platform": "小红书",
+    "angle": "产品推荐",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478895"
+  },
+  {
+    "id": "善存_20260330T064103",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "颈椎自危？善存钙片帮你护颈椎",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "颈椎自危成网络热梗",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478897"
+  },
+  {
+    "id": "HC_20260330T064103",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季大扫除，HC清洁剂让家焕然一新",
+    "platform": "抖音",
+    "angle": "清洁教程",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478899"
+  },
+  {
+    "id": "HC_20260330T064103",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的清洁效果，HC除菌喷雾实测",
+    "platform": "小红书",
+    "angle": "效果展示",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478901"
+  },
+  {
+    "id": "HC_20260330T064103",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk漫步回家，HC清洁家居好帮手",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "colorwalk色彩漫步成2026春季顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478902"
+  },
+  {
+    "id": "威猛先生_20260330T064103",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季厨房清洁，威猛先生油污净一喷搞定",
+    "platform": "抖音",
+    "angle": "清洁教程",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478904"
+  },
+  {
+    "id": "威猛先生_20260330T064103",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的去油效果，威猛先生实测",
+    "platform": "小红书",
+    "angle": "效果展示",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478906"
+  },
+  {
+    "id": "威猛先生_20260330T064103",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感厨房清洁，威猛先生让家务变轻松",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478908"
+  },
+  {
+    "id": "舒适_20260330T064103",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季男士护肤，舒适剃须刀让脸更干净",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478910"
+  },
+  {
+    "id": "舒适_20260330T064103",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的剃须体验，舒适手动剃须刀实测",
+    "platform": "小红书",
+    "angle": "效果对比",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478911"
+  },
+  {
+    "id": "舒适_20260330T064103",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感男士，舒适剃须刀打造清爽形象",
+    "platform": "B站",
+    "angle": "使用教程",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478913"
+  },
+  {
+    "id": "希宝_20260330T064103",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk带上猫咪，希宝罐头户外野餐",
+    "platform": "抖音",
+    "angle": "萌宠日常",
+    "hot_topic": "colorwalk色彩漫步成2026春季顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478915"
+  },
+  {
+    "id": "希宝_20260330T064103",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的猫咪反应，希宝湿粮开罐实测",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478916"
+  },
+  {
+    "id": "希宝_20260330T064103",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感猫咪喂养，希宝罐头让毛孩子更健康",
+    "platform": "B站",
+    "angle": "喂养攻略",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478918"
+  },
+  {
+    "id": "皇家_20260330T064103",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "春季猫咪换毛期，皇家猫粮滋养毛发",
+    "platform": "抖音",
+    "angle": "科普知识",
+    "hot_topic": "春季过敏高发期来了",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478920"
+  },
+  {
+    "id": "皇家_20260330T064103",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的猫咪状态，皇家猫粮实测",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478922"
+  },
+  {
+    "id": "皇家_20260330T064103",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感养猫，皇家猫粮让爱宠更健康",
+    "platform": "B站",
+    "angle": "喂养攻略",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478923"
+  },
+  {
+    "id": "OATLY_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春日出游，OATLY燕麦奶野餐必备",
+    "platform": "抖音",
+    "angle": "场景植入",
+    "hot_topic": "colorwalk色彩漫步成2026春季顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478928"
+  },
+  {
+    "id": "OATLY_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的咖啡搭配，OATLY燕麦奶实测",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478930"
+  },
+  {
+    "id": "OATLY_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感早餐，OATLY燕麦奶开启美好一天",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478931"
+  },
+  {
+    "id": "百威_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季派对，百威啤酒畅饮时刻",
+    "platform": "抖音",
+    "angle": "场景植入",
+    "hot_topic": "colorwalk色彩漫步成2026春季顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478933"
+  },
+  {
+    "id": "百威_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的聚会体验，百威啤酒实测",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478935"
+  },
+  {
+    "id": "百威_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感社交，百威啤酒让聚会更轻松",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478937"
+  },
+  {
+    "id": "元气森林_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春日漫步，元气森林气泡水清爽随行",
+    "platform": "抖音",
+    "angle": "场景植入",
+    "hot_topic": "colorwalk色彩漫步成2026春季顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478939"
+  },
+  {
+    "id": "元气森林_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的口感，元气森林气泡水实测",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478940"
+  },
+  {
+    "id": "元气森林_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感饮品，元气森林让生活更轻松",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478942"
+  },
+  {
+    "id": "农夫山泉_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk户外补水，农夫山泉随身携带",
+    "platform": "抖音",
+    "angle": "场景植入",
+    "hot_topic": "colorwalk色彩漫步成2026春季顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478944"
+  },
+  {
+    "id": "农夫山泉_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "夯爆了的纯净口感，农夫山泉实测",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478945"
+  },
+  {
+    "id": "农夫山泉_20260330T064103",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感饮水习惯，农夫山泉让健康更简单",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "活人感成网络热词",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T06:41:03.478947"
+  },
+  {
     "id": "3C数码_20260330052809",
     "client": {
       "industry": "3C数码",
