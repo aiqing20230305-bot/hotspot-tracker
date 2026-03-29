@@ -4495,5 +4495,1585 @@
     "engagement_estimate": "63909+",
     "status": "pending",
     "created_at": "2026-03-29T13:39:11.179910"
+  },
+  {
+    "id": "荣耀_20260329174138_0_0",
+    "client": {
+      "brand": "荣耀",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：荣耀如何借势极简主义生活方式爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "荣耀产品线",
+    "engagement_estimate": "30000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.635927"
+  },
+  {
+    "id": "荣耀_20260329174138_0_1",
+    "client": {
+      "brand": "荣耀",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：荣耀如何借势新消费品牌崛起爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "新消费品牌崛起",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "荣耀产品线",
+    "engagement_estimate": "30500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.635941"
+  },
+  {
+    "id": "荣耀_20260329174138_0_2",
+    "client": {
+      "brand": "荣耀",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：荣耀如何借势智能办公设备推荐爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "荣耀产品线",
+    "engagement_estimate": "31000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.635949"
+  },
+  {
+    "id": "罗技_20260329174138_1_0",
+    "client": {
+      "brand": "罗技",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：罗技如何借势新消费品牌崛起爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "新消费品牌崛起",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "罗技产品线",
+    "engagement_estimate": "31000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.635957"
+  },
+  {
+    "id": "罗技_20260329174138_1_1",
+    "client": {
+      "brand": "罗技",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：罗技如何借势智能办公设备推荐爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "罗技产品线",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.635963"
+  },
+  {
+    "id": "罗技_20260329174138_1_2",
+    "client": {
+      "brand": "罗技",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：罗技如何借势颈椎保护指南爆火》",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "颈椎保护指南",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "罗技产品线",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.635969"
+  },
+  {
+    "id": "罗技_20260329174138_1_3",
+    "client": {
+      "brand": "罗技",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：罗技如何借势办公室养生好物爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "办公室养生好物",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "罗技产品线",
+    "engagement_estimate": "32500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.635975"
+  },
+  {
+    "id": "小米_20260329174138_2_0",
+    "client": {
+      "brand": "小米",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：小米如何借势智能办公设备推荐爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "小米产品线",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.635995"
+  },
+  {
+    "id": "小米_20260329174138_2_1",
+    "client": {
+      "brand": "小米",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：小米如何借势颈椎保护指南爆火》",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "颈椎保护指南",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "小米产品线",
+    "engagement_estimate": "32500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636002"
+  },
+  {
+    "id": "小米_20260329174138_2_2",
+    "client": {
+      "brand": "小米",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：小米如何借势办公室养生好物爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "办公室养生好物",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "小米产品线",
+    "engagement_estimate": "33000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636008"
+  },
+  {
+    "id": "小米_20260329174138_2_3",
+    "client": {
+      "brand": "小米",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：小米如何借势清明节假期出行预订量创历史新高爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "清明节假期出行预订量创历史新高",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米产品线",
+    "engagement_estimate": "33500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636014"
+  },
+  {
+    "id": "小米_20260329174138_2_4",
+    "client": {
+      "brand": "小米",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：小米如何借势AI助手普及率突破70%成生活必需爆火》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "AI助手普及率突破70%成生活必需",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "小米产品线",
+    "engagement_estimate": "34000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636020"
+  },
+  {
+    "id": "索尼_20260329174138_3_0",
+    "client": {
+      "brand": "索尼",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：索尼如何借势颈椎保护指南爆火》",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "颈椎保护指南",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "索尼产品线",
+    "engagement_estimate": "33000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636026"
+  },
+  {
+    "id": "索尼_20260329174138_3_1",
+    "client": {
+      "brand": "索尼",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：索尼如何借势办公室养生好物爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "办公室养生好物",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "索尼产品线",
+    "engagement_estimate": "33500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636032"
+  },
+  {
+    "id": "索尼_20260329174138_3_2",
+    "client": {
+      "brand": "索尼",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：索尼如何借势清明节假期出行预订量创历史新高爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "清明节假期出行预订量创历史新高",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼产品线",
+    "engagement_estimate": "34000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636038"
+  },
+  {
+    "id": "AHC_20260329174138_4_0",
+    "client": {
+      "brand": "AHC",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：AHC如何借势办公室养生好物爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "办公室养生好物",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "AHC产品线",
+    "engagement_estimate": "34000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636045"
+  },
+  {
+    "id": "AHC_20260329174138_4_1",
+    "client": {
+      "brand": "AHC",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：AHC如何借势清明节假期出行预订量创历史新高爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "清明节假期出行预订量创历史新高",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC产品线",
+    "engagement_estimate": "34500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636052"
+  },
+  {
+    "id": "AHC_20260329174138_4_2",
+    "client": {
+      "brand": "AHC",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：AHC如何借势AI助手普及率突破70%成生活必需爆火》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "AI助手普及率突破70%成生活必需",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "AHC产品线",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636058"
+  },
+  {
+    "id": "AHC_20260329174138_4_3",
+    "client": {
+      "brand": "AHC",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：AHC如何借势春季护肤产品销量激增200%爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC产品线",
+    "engagement_estimate": "35500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636064"
+  },
+  {
+    "id": "多芬_20260329174138_5_0",
+    "client": {
+      "brand": "多芬",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：多芬如何借势清明节假期出行预订量创历史新高爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "清明节假期出行预订量创历史新高",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬产品线",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636070"
+  },
+  {
+    "id": "多芬_20260329174138_5_1",
+    "client": {
+      "brand": "多芬",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：多芬如何借势AI助手普及率突破70%成生活必需爆火》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "AI助手普及率突破70%成生活必需",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬产品线",
+    "engagement_estimate": "35500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636089"
+  },
+  {
+    "id": "多芬_20260329174138_5_2",
+    "client": {
+      "brand": "多芬",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：多芬如何借势春季护肤产品销量激增200%爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬产品线",
+    "engagement_estimate": "36000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636095"
+  },
+  {
+    "id": "多芬_20260329174138_5_3",
+    "client": {
+      "brand": "多芬",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：多芬如何借势健身APP用户数突破5亿大关爆火》",
+    "platform": "抖音/B站",
+    "angle": "创意借势",
+    "hot_topic": "健身APP用户数突破5亿大关",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬产品线",
+    "engagement_estimate": "36500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636105"
+  },
+  {
+    "id": "多芬_20260329174138_5_4",
+    "client": {
+      "brand": "多芬",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：多芬如何借势新能源汽车充电桩覆盖率提升至85%爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "新能源汽车充电桩覆盖率提升至85%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬产品线",
+    "engagement_estimate": "37000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636111"
+  },
+  {
+    "id": "力士_20260329174138_6_0",
+    "client": {
+      "brand": "力士",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：力士如何借势AI助手普及率突破70%成生活必需爆火》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "AI助手普及率突破70%成生活必需",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "力士产品线",
+    "engagement_estimate": "36000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636117"
+  },
+  {
+    "id": "力士_20260329174138_6_1",
+    "client": {
+      "brand": "力士",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：力士如何借势春季护肤产品销量激增200%爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士产品线",
+    "engagement_estimate": "36500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636123"
+  },
+  {
+    "id": "力士_20260329174138_6_2",
+    "client": {
+      "brand": "力士",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：力士如何借势健身APP用户数突破5亿大关爆火》",
+    "platform": "抖音/B站",
+    "angle": "创意借势",
+    "hot_topic": "健身APP用户数突破5亿大关",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "力士产品线",
+    "engagement_estimate": "37000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636129"
+  },
+  {
+    "id": "清扬_20260329174138_7_0",
+    "client": {
+      "brand": "清扬",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：清扬如何借势春季护肤产品销量激增200%爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬产品线",
+    "engagement_estimate": "37000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636135"
+  },
+  {
+    "id": "清扬_20260329174138_7_1",
+    "client": {
+      "brand": "清扬",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：清扬如何借势健身APP用户数突破5亿大关爆火》",
+    "platform": "抖音/B站",
+    "angle": "创意借势",
+    "hot_topic": "健身APP用户数突破5亿大关",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "清扬产品线",
+    "engagement_estimate": "37500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636141"
+  },
+  {
+    "id": "清扬_20260329174138_7_2",
+    "client": {
+      "brand": "清扬",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：清扬如何借势新能源汽车充电桩覆盖率提升至85%爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "新能源汽车充电桩覆盖率提升至85%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬产品线",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636147"
+  },
+  {
+    "id": "清扬_20260329174138_7_3",
+    "client": {
+      "brand": "清扬",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：清扬如何借势极简主义生活方式爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "清扬产品线",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636152"
+  },
+  {
+    "id": "玉兰油_20260329174138_8_0",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：玉兰油如何借势健身APP用户数突破5亿大关爆火》",
+    "platform": "抖音/B站",
+    "angle": "创意借势",
+    "hot_topic": "健身APP用户数突破5亿大关",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "玉兰油产品线",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636158"
+  },
+  {
+    "id": "玉兰油_20260329174138_8_1",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：玉兰油如何借势新能源汽车充电桩覆盖率提升至85%爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "新能源汽车充电桩覆盖率提升至85%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 持续上升",
+    "product": "玉兰油产品线",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636164"
+  },
+  {
+    "id": "玉兰油_20260329174138_8_2",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：玉兰油如何借势极简主义生活方式爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "玉兰油产品线",
+    "engagement_estimate": "39000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636210"
+  },
+  {
+    "id": "玉兰油_20260329174138_8_3",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：玉兰油如何借势新消费品牌崛起爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "新消费品牌崛起",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "玉兰油产品线",
+    "engagement_estimate": "39500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636216"
+  },
+  {
+    "id": "玉兰油_20260329174138_8_4",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：玉兰油如何借势智能办公设备推荐爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "玉兰油产品线",
+    "engagement_estimate": "40000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636221"
+  },
+  {
+    "id": "汤臣倍健_20260329174138_9_0",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：汤臣倍健如何借势新能源汽车充电桩覆盖率提升至85%爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "新能源汽车充电桩覆盖率提升至85%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 持续上升",
+    "product": "汤臣倍健产品线",
+    "engagement_estimate": "39000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636227"
+  },
+  {
+    "id": "汤臣倍健_20260329174138_9_1",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：汤臣倍健如何借势极简主义生活方式爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "汤臣倍健产品线",
+    "engagement_estimate": "39500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636233"
+  },
+  {
+    "id": "汤臣倍健_20260329174138_9_2",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：汤臣倍健如何借势新消费品牌崛起爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "新消费品牌崛起",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "汤臣倍健产品线",
+    "engagement_estimate": "40000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636239"
+  },
+  {
+    "id": "善存_20260329174138_10_0",
+    "client": {
+      "brand": "善存",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：善存如何借势极简主义生活方式爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "善存产品线",
+    "engagement_estimate": "40000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636257"
+  },
+  {
+    "id": "善存_20260329174138_10_1",
+    "client": {
+      "brand": "善存",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：善存如何借势新消费品牌崛起爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "新消费品牌崛起",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "善存产品线",
+    "engagement_estimate": "40500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636263"
+  },
+  {
+    "id": "善存_20260329174138_10_2",
+    "client": {
+      "brand": "善存",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：善存如何借势智能办公设备推荐爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "善存产品线",
+    "engagement_estimate": "41000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636269"
+  },
+  {
+    "id": "善存_20260329174138_10_3",
+    "client": {
+      "brand": "善存",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：善存如何借势颈椎保护指南爆火》",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "颈椎保护指南",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "善存产品线",
+    "engagement_estimate": "41500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636275"
+  },
+  {
+    "id": "HC_20260329174138_11_0",
+    "client": {
+      "brand": "HC",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：HC如何借势新消费品牌崛起爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "新消费品牌崛起",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "HC产品线",
+    "engagement_estimate": "41000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636281"
+  },
+  {
+    "id": "HC_20260329174138_11_1",
+    "client": {
+      "brand": "HC",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：HC如何借势智能办公设备推荐爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "HC产品线",
+    "engagement_estimate": "41500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636287"
+  },
+  {
+    "id": "HC_20260329174138_11_2",
+    "client": {
+      "brand": "HC",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：HC如何借势颈椎保护指南爆火》",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "颈椎保护指南",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "HC产品线",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636293"
+  },
+  {
+    "id": "HC_20260329174138_11_3",
+    "client": {
+      "brand": "HC",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：HC如何借势办公室养生好物爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "办公室养生好物",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "HC产品线",
+    "engagement_estimate": "42500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636299"
+  },
+  {
+    "id": "HC_20260329174138_11_4",
+    "client": {
+      "brand": "HC",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：HC如何借势清明节假期出行预订量创历史新高爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "清明节假期出行预订量创历史新高",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC产品线",
+    "engagement_estimate": "43000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636305"
+  },
+  {
+    "id": "威猛先生_20260329174138_12_0",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：威猛先生如何借势智能办公设备推荐爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "威猛先生产品线",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636311"
+  },
+  {
+    "id": "威猛先生_20260329174138_12_1",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：威猛先生如何借势颈椎保护指南爆火》",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "颈椎保护指南",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "威猛先生产品线",
+    "engagement_estimate": "42500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636317"
+  },
+  {
+    "id": "威猛先生_20260329174138_12_2",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：威猛先生如何借势办公室养生好物爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "办公室养生好物",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "威猛先生产品线",
+    "engagement_estimate": "43000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636322"
+  },
+  {
+    "id": "舒适_20260329174138_13_0",
+    "client": {
+      "brand": "舒适",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：舒适如何借势颈椎保护指南爆火》",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "颈椎保护指南",
+    "heat": "1890万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适产品线",
+    "engagement_estimate": "43000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636328"
+  },
+  {
+    "id": "舒适_20260329174138_13_1",
+    "client": {
+      "brand": "舒适",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：舒适如何借势办公室养生好物爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "办公室养生好物",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "舒适产品线",
+    "engagement_estimate": "43500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636334"
+  },
+  {
+    "id": "舒适_20260329174138_13_2",
+    "client": {
+      "brand": "舒适",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：舒适如何借势清明节假期出行预订量创历史新高爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "清明节假期出行预订量创历史新高",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适产品线",
+    "engagement_estimate": "44000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636340"
+  },
+  {
+    "id": "舒适_20260329174138_13_3",
+    "client": {
+      "brand": "舒适",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：舒适如何借势AI助手普及率突破70%成生活必需爆火》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "AI助手普及率突破70%成生活必需",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适产品线",
+    "engagement_estimate": "44500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636346"
+  },
+  {
+    "id": "希宝_20260329174138_14_0",
+    "client": {
+      "brand": "希宝",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：希宝如何借势办公室养生好物爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "办公室养生好物",
+    "heat": "1560万",
+    "trend": "🔥🔥 持续上升",
+    "product": "希宝产品线",
+    "engagement_estimate": "44000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636352"
+  },
+  {
+    "id": "希宝_20260329174138_14_1",
+    "client": {
+      "brand": "希宝",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：希宝如何借势清明节假期出行预订量创历史新高爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "清明节假期出行预订量创历史新高",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝产品线",
+    "engagement_estimate": "44500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636358"
+  },
+  {
+    "id": "希宝_20260329174138_14_2",
+    "client": {
+      "brand": "希宝",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：希宝如何借势AI助手普及率突破70%成生活必需爆火》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "AI助手普及率突破70%成生活必需",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "希宝产品线",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636363"
+  },
+  {
+    "id": "希宝_20260329174138_14_3",
+    "client": {
+      "brand": "希宝",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：希宝如何借势春季护肤产品销量激增200%爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝产品线",
+    "engagement_estimate": "45500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636369"
+  },
+  {
+    "id": "希宝_20260329174138_14_4",
+    "client": {
+      "brand": "希宝",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：希宝如何借势健身APP用户数突破5亿大关爆火》",
+    "platform": "抖音/B站",
+    "angle": "创意借势",
+    "hot_topic": "健身APP用户数突破5亿大关",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "希宝产品线",
+    "engagement_estimate": "46000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636375"
+  },
+  {
+    "id": "皇家_20260329174138_15_0",
+    "client": {
+      "brand": "皇家",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：皇家如何借势清明节假期出行预订量创历史新高爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "清明节假期出行预订量创历史新高",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家产品线",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636407"
+  },
+  {
+    "id": "皇家_20260329174138_15_1",
+    "client": {
+      "brand": "皇家",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：皇家如何借势AI助手普及率突破70%成生活必需爆火》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "AI助手普及率突破70%成生活必需",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "皇家产品线",
+    "engagement_estimate": "45500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636413"
+  },
+  {
+    "id": "皇家_20260329174138_15_2",
+    "client": {
+      "brand": "皇家",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：皇家如何借势春季护肤产品销量激增200%爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家产品线",
+    "engagement_estimate": "46000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636419"
+  },
+  {
+    "id": "OATLY_20260329174138_16_0",
+    "client": {
+      "brand": "OATLY",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：OATLY如何借势AI助手普及率突破70%成生活必需爆火》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "AI助手普及率突破70%成生活必需",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "OATLY产品线",
+    "engagement_estimate": "46000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636425"
+  },
+  {
+    "id": "OATLY_20260329174138_16_1",
+    "client": {
+      "brand": "OATLY",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：OATLY如何借势春季护肤产品销量激增200%爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY产品线",
+    "engagement_estimate": "46500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636431"
+  },
+  {
+    "id": "OATLY_20260329174138_16_2",
+    "client": {
+      "brand": "OATLY",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：OATLY如何借势健身APP用户数突破5亿大关爆火》",
+    "platform": "抖音/B站",
+    "angle": "创意借势",
+    "hot_topic": "健身APP用户数突破5亿大关",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "OATLY产品线",
+    "engagement_estimate": "47000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636437"
+  },
+  {
+    "id": "OATLY_20260329174138_16_3",
+    "client": {
+      "brand": "OATLY",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：OATLY如何借势新能源汽车充电桩覆盖率提升至85%爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "新能源汽车充电桩覆盖率提升至85%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 持续上升",
+    "product": "OATLY产品线",
+    "engagement_estimate": "47500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636448"
+  },
+  {
+    "id": "百威_20260329174138_17_0",
+    "client": {
+      "brand": "百威",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：百威如何借势春季护肤产品销量激增200%爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威产品线",
+    "engagement_estimate": "47000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636455"
+  },
+  {
+    "id": "百威_20260329174138_17_1",
+    "client": {
+      "brand": "百威",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：百威如何借势健身APP用户数突破5亿大关爆火》",
+    "platform": "抖音/B站",
+    "angle": "创意借势",
+    "hot_topic": "健身APP用户数突破5亿大关",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "百威产品线",
+    "engagement_estimate": "47500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636461"
+  },
+  {
+    "id": "百威_20260329174138_17_2",
+    "client": {
+      "brand": "百威",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：百威如何借势新能源汽车充电桩覆盖率提升至85%爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "新能源汽车充电桩覆盖率提升至85%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 持续上升",
+    "product": "百威产品线",
+    "engagement_estimate": "48000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636471"
+  },
+  {
+    "id": "百威_20260329174138_17_3",
+    "client": {
+      "brand": "百威",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：百威如何借势极简主义生活方式爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "百威产品线",
+    "engagement_estimate": "48500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636477"
+  },
+  {
+    "id": "百威_20260329174138_17_4",
+    "client": {
+      "brand": "百威",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：百威如何借势新消费品牌崛起爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "新消费品牌崛起",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "百威产品线",
+    "engagement_estimate": "49000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636483"
+  },
+  {
+    "id": "元气森林_20260329174138_18_0",
+    "client": {
+      "brand": "元气森林",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：元气森林如何借势健身APP用户数突破5亿大关爆火》",
+    "platform": "抖音/B站",
+    "angle": "创意借势",
+    "hot_topic": "健身APP用户数突破5亿大关",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林产品线",
+    "engagement_estimate": "48000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636489"
+  },
+  {
+    "id": "元气森林_20260329174138_18_1",
+    "client": {
+      "brand": "元气森林",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：元气森林如何借势新能源汽车充电桩覆盖率提升至85%爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "新能源汽车充电桩覆盖率提升至85%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 持续上升",
+    "product": "元气森林产品线",
+    "engagement_estimate": "48500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636495"
+  },
+  {
+    "id": "元气森林_20260329174138_18_2",
+    "client": {
+      "brand": "元气森林",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：元气森林如何借势极简主义生活方式爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "元气森林产品线",
+    "engagement_estimate": "49000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636501"
+  },
+  {
+    "id": "农夫山泉_20260329174138_19_0",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：农夫山泉如何借势新能源汽车充电桩覆盖率提升至85%爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "新能源汽车充电桩覆盖率提升至85%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 持续上升",
+    "product": "农夫山泉产品线",
+    "engagement_estimate": "49000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636511"
+  },
+  {
+    "id": "农夫山泉_20260329174138_19_1",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：农夫山泉如何借势极简主义生活方式爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "极简主义生活方式",
+    "heat": "1780万",
+    "trend": "🔥🔥 持续上升",
+    "product": "农夫山泉产品线",
+    "engagement_estimate": "49500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636517"
+  },
+  {
+    "id": "农夫山泉_20260329174138_19_2",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：农夫山泉如何借势新消费品牌崛起爆火》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "新消费品牌崛起",
+    "heat": "2340万",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "农夫山泉产品线",
+    "engagement_estimate": "50000+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636523"
+  },
+  {
+    "id": "农夫山泉_20260329174138_19_3",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "综合",
+      "products": [
+        "产品线"
+      ]
+    },
+    "title": "《创意借势视角：农夫山泉如何借势智能办公设备推荐爆火》",
+    "platform": "微博",
+    "angle": "创意借势",
+    "hot_topic": "智能办公设备推荐",
+    "heat": "980万",
+    "trend": "🔥🔥 小幅上升",
+    "product": "农夫山泉产品线",
+    "engagement_estimate": "50500+",
+    "status": "pending",
+    "created_at": "2026-03-29T17:41:38.636529"
   }
 ]
