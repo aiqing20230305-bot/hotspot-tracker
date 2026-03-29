@@ -1,222 +1,121 @@
 {
-  "generated_at": "2026-03-26T23:41:44.667518",
+  "generated_at": "2026-03-29T19:45:00",
+  "system_status": "healthy",
   "daily_output": {
-    "date": "20260326",
-    "total_ideas": 36,
-    "completed": 12,
-    "in_progress": 8,
-    "pending": 16,
-    "by_platform": {
-      "抖音": {
-        "total": 15,
-        "completed": 6,
-        "engagement_avg": 15600
-      },
-      "小红书": {
-        "total": 17,
-        "completed": 5,
-        "engagement_avg": 8900
-      },
-      "B站": {
-        "total": 4,
-        "completed": 1,
-        "engagement_avg": 5200
-      }
-    },
-    "by_priority": {
-      "high": {
-        "total": 15,
-        "completed": 8,
-        "rate": 53
-      },
-      "medium": {
-        "total": 12,
-        "completed": 3,
-        "rate": 25
-      },
-      "low": {
-        "total": 9,
-        "completed": 1,
-        "rate": 11
-      }
-    }
+    "hot_topics": 100,
+    "topics_generated": 2342,
+    "low_fan_hits": 50,
+    "recommendations": 150
   },
   "client_performance": [
     {
-      "rank": 1,
-      "client": "快消-AHC",
-      "ideas": 6,
-      "completed": 4,
-      "avg_engagement": 23500,
-      "trend": "up"
+      "client": "荣耀中国",
+      "industry": "3C数码",
+      "status": "active",
+      "last_update": "2026-03-29"
     },
     {
-      "rank": 2,
-      "client": "3C数码-荣耀",
-      "ideas": 6,
-      "completed": 3,
-      "avg_engagement": 18600,
-      "trend": "up"
+      "client": "AHC",
+      "industry": "快消",
+      "status": "active",
+      "last_update": "2026-03-29"
     },
     {
-      "rank": 3,
-      "client": "保健品-汤臣倍健",
-      "ideas": 6,
-      "completed": 3,
-      "avg_engagement": 15200,
-      "trend": "stable"
+      "client": "HC",
+      "industry": "家庭清洁",
+      "status": "active",
+      "last_update": "2026-03-29"
     },
     {
-      "rank": 4,
-      "client": "家庭清洁-HC",
-      "ideas": 3,
-      "completed": 1,
-      "avg_engagement": 12300,
-      "trend": "up"
+      "client": "汤臣倍健",
+      "industry": "保健品",
+      "status": "active",
+      "last_update": "2026-03-29"
     },
     {
-      "rank": 5,
-      "client": "宠物食品-希宝",
-      "ideas": 3,
-      "completed": 1,
-      "avg_engagement": 9800,
-      "trend": "down"
+      "client": "传应",
+      "industry": "电池",
+      "status": "active",
+      "last_update": "2026-03-29"
     },
     {
-      "rank": 6,
-      "client": "食品饮料-家乐",
-      "ideas": 3,
-      "completed": 0,
-      "avg_engagement": 0,
-      "trend": "stable"
+      "client": "通用磨坊",
+      "industry": "宠物食品",
+      "status": "active",
+      "last_update": "2026-03-29"
     }
   ],
   "hotspot_success": [
     {
-      "hot_topic": "春日粉彩妆容公式",
-      "times_used": 8,
-      "avg_engagement": 28000,
-      "success_rate": 85
+      "platform": "抖音",
+      "success_rate": 0.85,
+      "trend": "up"
     },
     {
-      "hot_topic": "中国机器狼群",
-      "times_used": 5,
-      "avg_engagement": 22000,
-      "success_rate": 78
+      "platform": "微博",
+      "success_rate": 0.78,
+      "trend": "stable"
     },
     {
-      "hot_topic": "春季护肤攻略",
-      "times_used": 12,
-      "avg_engagement": 19500,
-      "success_rate": 72
-    },
-    {
-      "hot_topic": "春日穿搭OOTD",
-      "times_used": 10,
-      "avg_engagement": 18200,
-      "success_rate": 68
-    },
-    {
-      "hot_topic": "春季养生食谱",
-      "times_used": 6,
-      "avg_engagement": 15600,
-      "success_rate": 65
+      "platform": "小红书",
+      "success_rate": 0.92,
+      "trend": "up"
     }
   ],
   "content_trend": [
     {
-      "date": "03-20",
-      "ideas_generated": 35,
-      "ideas_completed": 8,
-      "avg_engagement": 12425
+      "industry": "3C数码",
+      "engagement": 15600,
+      "change": 12.5
     },
     {
-      "date": "03-21",
-      "ideas_generated": 39,
-      "ideas_completed": 11,
-      "avg_engagement": 13057
+      "industry": "快消",
+      "engagement": 12300,
+      "change": 8.3
     },
     {
-      "date": "03-22",
-      "ideas_generated": 37,
-      "ideas_completed": 13,
-      "avg_engagement": 13823
-    },
-    {
-      "date": "03-23",
-      "ideas_generated": 44,
-      "ideas_completed": 14,
-      "avg_engagement": 13588
-    },
-    {
-      "date": "03-24",
-      "ideas_generated": 41,
-      "ideas_completed": 15,
-      "avg_engagement": 15893
-    },
-    {
-      "date": "03-25",
-      "ideas_generated": 46,
-      "ideas_completed": 14,
-      "avg_engagement": 15666
-    },
-    {
-      "date": "03-26",
-      "ideas_generated": 48,
-      "ideas_completed": 15,
-      "avg_engagement": 16766
+      "industry": "家庭清洁",
+      "engagement": 9800,
+      "change": 5.2
     }
   ],
   "methodology_effect": [
     {
-      "methodology": "反差对比",
-      "times_used": 15,
-      "avg_engagement": 28500,
-      "success_rate": 82
+      "method": "热点借势",
+      "effectiveness": 0.88
     },
     {
-      "methodology": "痛点共鸣",
-      "times_used": 18,
-      "avg_engagement": 24600,
-      "success_rate": 78
+      "method": "场景植入",
+      "effectiveness": 0.82
     },
     {
-      "methodology": "情绪价值",
-      "times_used": 12,
-      "avg_engagement": 21800,
-      "success_rate": 75
+      "method": "产品测评",
+      "effectiveness": 0.85
     },
     {
-      "methodology": "干货教学",
-      "times_used": 10,
-      "avg_engagement": 19500,
-      "success_rate": 68
+      "method": "教程分享",
+      "effectiveness": 0.76
     },
     {
-      "methodology": "热点借势",
-      "times_used": 8,
-      "avg_engagement": 17200,
-      "success_rate": 72
+      "method": "KOL联动",
+      "effectiveness": 0.91
     }
   ],
   "platform_comparison": [
     {
       "platform": "抖音",
-      "avg_engagement": 15600,
-      "avg_completion_rate": 42,
-      "best_time": "12:00-14:00, 18:00-22:00"
+      "avg_likes": 8500,
+      "avg_shares": 1200
     },
     {
       "platform": "小红书",
-      "avg_engagement": 8900,
-      "avg_completion_rate": 35,
-      "best_time": "10:00-12:00, 20:00-22:00"
+      "avg_likes": 6200,
+      "avg_shares": 800
     },
     {
-      "platform": "B站",
-      "avg_engagement": 5200,
-      "avg_completion_rate": 28,
-      "best_time": "19:00-22:00"
+      "platform": "微博",
+      "avg_likes": 4200,
+      "avg_shares": 350
     }
   ]
 }
