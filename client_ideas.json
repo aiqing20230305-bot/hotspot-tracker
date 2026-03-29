@@ -10740,5 +10740,110 @@
     "engagement_estimate": "163414+",
     "status": "pending",
     "created_at": "2026-03-29T09:51:56.980545"
+  },
+  {
+    "id": "auto_20260329105244_0",
+    "client": {
+      "industry": "通用",
+      "brand": "品牌",
+      "products": [
+        "产品"
+      ],
+      "priority": 2
+    },
+    "title": "《燃油附加费上调囤购机票深度解读》",
+    "platform": "微博",
+    "angle": "热点分析",
+    "hot_topic": "燃油附加费上调囤购机票",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "通用",
+    "engagement_estimate": "待评估",
+    "status": "pending",
+    "created_at": "2026-03-29T10:52:44.903351"
+  },
+  {
+    "id": "auto_20260329105244_1",
+    "client": {
+      "industry": "通用",
+      "brand": "品牌",
+      "products": [
+        "产品"
+      ],
+      "priority": 2
+    },
+    "title": "《曼城1.9亿重建中场截胡曼联深度解读》",
+    "platform": "微博",
+    "angle": "热点分析",
+    "hot_topic": "曼城1.9亿重建中场截胡曼联",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "通用",
+    "engagement_estimate": "待评估",
+    "status": "pending",
+    "created_at": "2026-03-29T10:52:44.903358"
+  },
+  {
+    "id": "auto_20260329105244_2",
+    "client": {
+      "industry": "通用",
+      "brand": "品牌",
+      "products": [
+        "产品"
+      ],
+      "priority": 2
+    },
+    "title": "《2026年中国网络媒体论坛在郑州召开深度解读》",
+    "platform": "微博",
+    "angle": "热点分析",
+    "hot_topic": "2026年中国网络媒体论坛在郑州召开",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "通用",
+    "engagement_estimate": "待评估",
+    "status": "pending",
+    "created_at": "2026-03-29T10:52:44.903363"
+  },
+  {
+    "id": "auto_20260329105244_3",
+    "client": {
+      "industry": "通用",
+      "brand": "品牌",
+      "products": [
+        "产品"
+      ],
+      "priority": 2
+    },
+    "title": "《马杜罗妇关押地如同人间炼狱深度解读》",
+    "platform": "微博",
+    "angle": "热点分析",
+    "hot_topic": "马杜罗妇关押地如同人间炼狱",
+    "heat": "833937",
+    "trend": "🔥🔥 持续关注",
+    "product": "通用",
+    "engagement_estimate": "待评估",
+    "status": "pending",
+    "created_at": "2026-03-29T10:52:44.903367"
+  },
+  {
+    "id": "auto_20260329105244_4",
+    "client": {
+      "industry": "通用",
+      "brand": "品牌",
+      "products": [
+        "产品"
+      ],
+      "priority": 2
+    },
+    "title": "《游客因拍照设备太专业被景区驱赶深度解读》",
+    "platform": "微博",
+    "angle": "热点分析",
+    "hot_topic": "游客因拍照设备太专业被景区驱赶",
+    "heat": "1118102",
+    "trend": "🔥🔥 快速上升",
+    "product": "通用",
+    "engagement_estimate": "待评估",
+    "status": "pending",
+    "created_at": "2026-03-29T10:52:44.903370"
   }
 ]
