@@ -253,6 +253,46 @@
             animation: spin 1s linear infinite;
         }
         
+        /* 刷新提示toast */
+        .refresh-toast {
+            position: fixed;
+            top: 80px;
+            right: 24px;
+            background: white;
+            padding: 16px 24px;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            z-index: 2000;
+            transform: translateX(400px);
+            opacity: 0;
+            transition: all 0.3s ease;
+            border-left: 4px solid var(--primary);
+        }
+        .refresh-toast.show {
+            transform: translateX(0);
+            opacity: 1;
+        }
+        .refresh-toast.success { border-left-color: var(--success); }
+        .refresh-toast.error { border-left-color: var(--error); }
+        .refresh-toast .icon { font-size: 20px; }
+        .refresh-toast .message { font-weight: 500; font-size: 14px; }
+        .refresh-toast .time { font-size: 12px; color: var(--gray-600); margin-top: 2px; }
+        @media (max-width: 768px) {
+            .refresh-toast {
+                left: 16px;
+                right: 16px;
+                top: auto;
+                bottom: 16px;
+                transform: translateY(100px);
+            }
+            .refresh-toast.show {
+                transform: translateY(0);
+            }
+        }
+        
         /* 数据刷新提示 */
         .refresh-toast {
             position: fixed;
@@ -1015,6 +1055,7 @@
                     <span class="icon">🔄</span>
                     <span>刷新数据</span>
                 </button>
+                <span id="hotTopicsCount" style="font-size:12px;opacity:0.8;"></span>
             </div>
         </div>
 
@@ -1233,6 +1274,45 @@
             });
         });
         
+        // 刷新提示toast
+        function showRefreshToast(message, type = 'success') {
+            const existing = document.querySelector('.refresh-toast');
+            if (existing) existing.remove();
+            
+            const toast = document.createElement('div');
+            toast.className = `refresh-toast ${type}`;
+            const icon = type === 'success' ? '✅' : type === 'error' ? '❌' : '⏳';
+            const time = new Date().toLocaleTimeString('zh-CN');
+            toast.innerHTML = `
+                <span class="icon">${icon}</span>
+                <div>
+                    <div class="message">${message}</div>
+                    <div class="time">${time}</div>
+                </div>
+            `;
+            document.body.appendChild(toast);
+            setTimeout(() => toast.classList.add('show'), 10);
+            setTimeout(() => {
+                toast.classList.remove('show');
+                setTimeout(() => toast.remove(), 300);
+            }, 3000);
+        }
+        
+        // 刷新仪表盘（强制刷新）
+        async function refreshDashboard() {
+            const btn = document.getElementById('refreshBtn');
+            if (btn) { btn.classList.add('loading'); btn.disabled = true; }
+            showRefreshToast('正在刷新数据...', 'loading');
+            try {
+                await initDashboard();
+                showRefreshToast('数据刷新成功！', 'success');
+            } catch (e) {
+                showRefreshToast('刷新失败：' + e.message, 'error');
+            } finally {
+                if (btn) { btn.classList.remove('loading'); btn.disabled = false; }
+            }
+        }
+        
         // ============ 数据加载 ============
         async function loadJSON(path) {
             try {
@@ -1313,6 +1393,10 @@
             document.getElementById('statAvgEngagement').textContent = avgEngagement > 0 ? (avgEngagement >= 1000 ? (avgEngagement/1000).toFixed(1)+'k' : avgEngagement) : '--';
             document.getElementById('statTodayNew').textContent = todayNew || '--';
             document.getElementById('trendTotalIdeas').textContent = `选题 ${totalIdeas}`;
+            
+            // 页面头部热点数
+            const htcEl = document.getElementById('hotTopicsCount');
+            if (htcEl) htcEl.textContent = `🔥 热点 ${hotTopicsCount} | SKU ${skuCount}`;
 
             // ============ 近7天趋势图 ============
             renderTrendChart(dashboardData);
