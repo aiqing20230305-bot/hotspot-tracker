@@ -1,5 +1,806 @@
 [
   {
+    "id": "快消_202603291122371152",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬沐浴露借势今年蚊子可能：痛点解决内容创作》",
+    "platform": "小红书",
+    "angle": "痛点解决",
+    "hot_topic": "今年蚊子可能迎来史诗级加强",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "32824+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724339"
+  },
+  {
+    "id": "快消_202603291122371153",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露",
+        "力士香皂"
+      ],
+      "priority": 4
+    },
+    "title": "《力士洗发水借势今年蚊子可能：实用科普内容创作》",
+    "platform": "抖音",
+    "angle": "实用科普",
+    "hot_topic": "今年蚊子可能迎来史诗级加强",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士洗发水",
+    "engagement_estimate": "32961+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724349"
+  },
+  {
+    "id": "快消_202603291122371154",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬去屑套装"
+      ],
+      "priority": 3
+    },
+    "title": "《清扬洗发水借势今年蚊子可能：好物推荐内容创作》",
+    "platform": "微博",
+    "angle": "好物推荐",
+    "hot_topic": "今年蚊子可能迎来史诗级加强",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "33098+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724355"
+  },
+  {
+    "id": "家庭清洁_202603291122371155",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "HC",
+      "products": [
+        "HC清洁剂",
+        "HC消毒液"
+      ],
+      "priority": 3
+    },
+    "title": "《HC清洁剂借势今年蚊子可能：对比测评内容创作》",
+    "platform": "B站",
+    "angle": "对比测评",
+    "hot_topic": "今年蚊子可能迎来史诗级加强",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC清洁剂",
+    "engagement_estimate": "33235+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724360"
+  },
+  {
+    "id": "家庭清洁_202603291122371156",
+    "client": {
+      "industry": "家庭清洁",
+      "brand": "威猛先生",
+      "products": [
+        "威猛先生厨房清洁",
+        "威猛先生浴室清洁"
+      ],
+      "priority": 3
+    },
+    "title": "《威猛先生厨房清洁借势今年蚊子可能：痛点解决内容创作》",
+    "platform": "视频号",
+    "angle": "痛点解决",
+    "hot_topic": "今年蚊子可能迎来史诗级加强",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生厨房清洁",
+    "engagement_estimate": "33372+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724364"
+  },
+  {
+    "id": "快消_202603291122371157",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液",
+        "舒适柔顺剂"
+      ],
+      "priority": 3
+    },
+    "title": "《舒适洗衣液借势今年蚊子可能：实用科普内容创作》",
+    "platform": "小红书",
+    "angle": "实用科普",
+    "hot_topic": "今年蚊子可能迎来史诗级加强",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "33509+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724368"
+  },
+  {
+    "id": "食品饮料_202603291122371158",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶",
+        "燕麦冰淇淋"
+      ],
+      "priority": 4
+    },
+    "title": "《燕麦奶借势世上顶好顶好的老：生活态度内容创作》",
+    "platform": "抖音",
+    "angle": "生活态度",
+    "hot_topic": "世上顶好顶好的老太婆走了感动全网",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "燕麦奶",
+    "engagement_estimate": "33646+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724376"
+  },
+  {
+    "id": "食品饮料_202603291122371159",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威纯生",
+        "百威超级"
+      ],
+      "priority": 3
+    },
+    "title": "《百威啤酒借势世上顶好顶好的老：品牌故事内容创作》",
+    "platform": "微博",
+    "angle": "品牌故事",
+    "hot_topic": "世上顶好顶好的老太婆走了感动全网",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威啤酒",
+    "engagement_estimate": "33783+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724379"
+  },
+  {
+    "id": "食品饮料_202603291122371160",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水",
+        "燃茶"
+      ],
+      "priority": 4
+    },
+    "title": "《气泡水借势世上顶好顶好的老：情感共鸣内容创作》",
+    "platform": "B站",
+    "angle": "情感共鸣",
+    "hot_topic": "世上顶好顶好的老太婆走了感动全网",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "气泡水",
+    "engagement_estimate": "33920+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724383"
+  },
+  {
+    "id": "食品饮料_202603291122371161",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "矿泉水",
+        "东方树叶",
+        "茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《矿泉水借势世上顶好顶好的老：品牌温情内容创作》",
+    "platform": "视频号",
+    "angle": "品牌温情",
+    "hot_topic": "世上顶好顶好的老太婆走了感动全网",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "矿泉水",
+    "engagement_estimate": "34057+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724386"
+  },
+  {
+    "id": "3C数码_202603291122371162",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《荣耀手机借势迪丽热巴自嘲高度：趣味互动内容创作》",
+    "platform": "小红书",
+    "angle": "趣味互动",
+    "hot_topic": "迪丽热巴自嘲高度近视成全网热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "荣耀手机",
+    "engagement_estimate": "34194+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724391"
+  },
+  {
+    "id": "3C数码_202603291122371163",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《小米手机借势迪丽热巴自嘲高度：话题讨论内容创作》",
+    "platform": "抖音",
+    "angle": "话题讨论",
+    "hot_topic": "迪丽热巴自嘲高度近视成全网热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "小米手机",
+    "engagement_estimate": "34331+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724394"
+  },
+  {
+    "id": "3C数码_202603291122371164",
+    "client": {
+      "industry": "3C数码",
+      "brand": "索尼",
+      "products": [
+        "索尼耳机",
+        "索尼相机",
+        "索尼电视"
+      ],
+      "priority": 4
+    },
+    "title": "《索尼耳机借势迪丽热巴自嘲高度：热点借势内容创作》",
+    "platform": "微博",
+    "angle": "热点借势",
+    "hot_topic": "迪丽热巴自嘲高度近视成全网热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "索尼耳机",
+    "engagement_estimate": "34468+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724398"
+  },
+  {
+    "id": "快消_202603291122371165",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《AHC水乳借势迪丽热巴自嘲高度：明星同款内容创作》",
+    "platform": "B站",
+    "angle": "明星同款",
+    "hot_topic": "迪丽热巴自嘲高度近视成全网热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "AHC水乳",
+    "engagement_estimate": "34605+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724401"
+  },
+  {
+    "id": "快消_202603291122371166",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬沐浴露借势迪丽热巴自嘲高度：趣味互动内容创作》",
+    "platform": "视频号",
+    "angle": "趣味互动",
+    "hot_topic": "迪丽热巴自嘲高度近视成全网热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "34742+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724405"
+  },
+  {
+    "id": "快消_202603291122371167",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 4
+    },
+    "title": "《玉兰油面霜借势迪丽热巴自嘲高度：话题讨论内容创作》",
+    "platform": "小红书",
+    "angle": "话题讨论",
+    "hot_topic": "迪丽热巴自嘲高度近视成全网热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "玉兰油面霜",
+    "engagement_estimate": "34879+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724408"
+  },
+  {
+    "id": "3C数码_202603291122371168",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《荣耀手机借势地球一小时：公益联动内容创作》",
+    "platform": "抖音",
+    "angle": "公益联动",
+    "hot_topic": "地球一小时迎来20周年",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "荣耀手机",
+    "engagement_estimate": "35016+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724414"
+  },
+  {
+    "id": "3C数码_202603291122371169",
+    "client": {
+      "industry": "3C数码",
+      "brand": "小米",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居"
+      ],
+      "priority": 5
+    },
+    "title": "《小米手机借势地球一小时：可持续发展内容创作》",
+    "platform": "微博",
+    "angle": "可持续发展",
+    "hot_topic": "地球一小时迎来20周年",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "小米手机",
+    "engagement_estimate": "35153+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724418"
+  },
+  {
+    "id": "食品饮料_202603291122371170",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶",
+        "燕麦冰淇淋"
+      ],
+      "priority": 4
+    },
+    "title": "《燕麦奶借势地球一小时：绿色生活内容创作》",
+    "platform": "B站",
+    "angle": "绿色生活",
+    "hot_topic": "地球一小时迎来20周年",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "engagement_estimate": "35290+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724423"
+  },
+  {
+    "id": "食品饮料_202603291122371171",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水",
+        "燃茶"
+      ],
+      "priority": 4
+    },
+    "title": "《气泡水借势地球一小时：品牌责任内容创作》",
+    "platform": "视频号",
+    "angle": "品牌责任",
+    "hot_topic": "地球一小时迎来20周年",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "engagement_estimate": "35427+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724429"
+  },
+  {
+    "id": "食品饮料_202603291122371172",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "矿泉水",
+        "东方树叶",
+        "茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《矿泉水借势地球一小时：公益联动内容创作》",
+    "platform": "小红书",
+    "angle": "公益联动",
+    "hot_topic": "地球一小时迎来20周年",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "engagement_estimate": "35564+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724433"
+  },
+  {
+    "id": "快消_202603291122371173",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬去屑套装"
+      ],
+      "priority": 3
+    },
+    "title": "《清扬洗发水借势挖野菜：户外搭配内容创作》",
+    "platform": "抖音",
+    "angle": "户外搭配",
+    "hot_topic": "挖野菜成春季户外社交新趋势",
+    "heat": "阅读量半百万+",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "清扬洗发水",
+    "engagement_estimate": "35701+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724438"
+  },
+  {
+    "id": "快消_202603291122371174",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适洗衣液",
+        "舒适柔顺剂"
+      ],
+      "priority": 3
+    },
+    "title": "《舒适洗衣液借势挖野菜：美食教程内容创作》",
+    "platform": "微博",
+    "angle": "美食教程",
+    "hot_topic": "挖野菜成春季户外社交新趋势",
+    "heat": "阅读量半百万+",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "舒适洗衣液",
+    "engagement_estimate": "35838+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724442"
+  },
+  {
+    "id": "食品饮料_202603291122371175",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶",
+        "燕麦冰淇淋"
+      ],
+      "priority": 4
+    },
+    "title": "《燕麦奶借势挖野菜：春季限定内容创作》",
+    "platform": "B站",
+    "angle": "春季限定",
+    "hot_topic": "挖野菜成春季户外社交新趋势",
+    "heat": "阅读量半百万+",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "燕麦奶",
+    "engagement_estimate": "35975+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724446"
+  },
+  {
+    "id": "食品饮料_202603291122371176",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "气泡水",
+        "外星人电解质水",
+        "燃茶"
+      ],
+      "priority": 4
+    },
+    "title": "《气泡水借势挖野菜：场景种草内容创作》",
+    "platform": "视频号",
+    "angle": "场景种草",
+    "hot_topic": "挖野菜成春季户外社交新趋势",
+    "heat": "阅读量半百万+",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "气泡水",
+    "engagement_estimate": "36112+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724449"
+  },
+  {
+    "id": "食品饮料_202603291122371177",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "矿泉水",
+        "东方树叶",
+        "茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《矿泉水借势挖野菜：户外搭配内容创作》",
+    "platform": "小红书",
+    "angle": "户外搭配",
+    "hot_topic": "挖野菜成春季户外社交新趋势",
+    "heat": "阅读量半百万+",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "矿泉水",
+    "engagement_estimate": "36249+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724453"
+  },
+  {
+    "id": "3C数码_202603291122371178",
+    "client": {
+      "industry": "3C数码",
+      "brand": "荣耀",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀耳机",
+        "荣耀手表"
+      ],
+      "priority": 5
+    },
+    "title": "《荣耀手机借势莫言入住小红书持：品牌调性内容创作》",
+    "platform": "抖音",
+    "angle": "品牌调性",
+    "hot_topic": "莫言入住小红书持续爆红",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "荣耀手机",
+    "engagement_estimate": "36386+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724456"
+  },
+  {
+    "id": "食品饮料_202603291122371179",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "products": [
+        "燕麦奶",
+        "咖啡燕麦奶",
+        "燕麦冰淇淋"
+      ],
+      "priority": 4
+    },
+    "title": "《燕麦奶借势莫言入住小红书持：深度内容内容创作》",
+    "platform": "微博",
+    "angle": "深度内容",
+    "hot_topic": "莫言入住小红书持续爆红",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "engagement_estimate": "36523+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724462"
+  },
+  {
+    "id": "食品饮料_202603291122371180",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "products": [
+        "百威啤酒",
+        "百威纯生",
+        "百威超级"
+      ],
+      "priority": 3
+    },
+    "title": "《百威啤酒借势莫言入住小红书持：文化联名内容创作》",
+    "platform": "B站",
+    "angle": "文化联名",
+    "hot_topic": "莫言入住小红书持续爆红",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "百威啤酒",
+    "engagement_estimate": "36660+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724465"
+  },
+  {
+    "id": "食品饮料_202603291122371181",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "矿泉水",
+        "东方树叶",
+        "茶π"
+      ],
+      "priority": 4
+    },
+    "title": "《矿泉水借势莫言入住小红书持：内容共创内容创作》",
+    "platform": "视频号",
+    "angle": "内容共创",
+    "hot_topic": "莫言入住小红书持续爆红",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "矿泉水",
+    "engagement_estimate": "36797+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724469"
+  },
+  {
+    "id": "快消_202603291122371182",
+    "client": {
+      "industry": "快消",
+      "brand": "AHC",
+      "products": [
+        "AHC水乳",
+        "AHC防晒",
+        "AHC眼霜"
+      ],
+      "priority": 5
+    },
+    "title": "《AHC水乳借势2026洗面奶排：成分科普内容创作》",
+    "platform": "小红书",
+    "angle": "成分科普",
+    "hot_topic": "2026洗面奶排行榜引发护肤热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC水乳",
+    "engagement_estimate": "36934+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724473"
+  },
+  {
+    "id": "快消_202603291122371183",
+    "client": {
+      "industry": "快消",
+      "brand": "多芬",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬身体乳"
+      ],
+      "priority": 4
+    },
+    "title": "《多芬沐浴露借势2026洗面奶排：使用对比内容创作》",
+    "platform": "抖音",
+    "angle": "使用对比",
+    "hot_topic": "2026洗面奶排行榜引发护肤热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "37071+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724476"
+  },
+  {
+    "id": "快消_202603291122371184",
+    "client": {
+      "industry": "快消",
+      "brand": "力士",
+      "products": [
+        "力士洗发水",
+        "力士沐浴露",
+        "力士香皂"
+      ],
+      "priority": 4
+    },
+    "title": "《力士洗发水借势2026洗面奶排：专业测评内容创作》",
+    "platform": "微博",
+    "angle": "专业测评",
+    "hot_topic": "2026洗面奶排行榜引发护肤热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士洗发水",
+    "engagement_estimate": "37208+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724480"
+  },
+  {
+    "id": "快消_202603291122371185",
+    "client": {
+      "industry": "快消",
+      "brand": "清扬",
+      "products": [
+        "清扬洗发水",
+        "清扬去屑套装"
+      ],
+      "priority": 3
+    },
+    "title": "《清扬洗发水借势2026洗面奶排：排行榜借势内容创作》",
+    "platform": "B站",
+    "angle": "排行榜借势",
+    "hot_topic": "2026洗面奶排行榜引发护肤热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "engagement_estimate": "37345+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724486"
+  },
+  {
+    "id": "快消_202603291122371186",
+    "client": {
+      "industry": "快消",
+      "brand": "玉兰油",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精华",
+        "玉兰油防晒"
+      ],
+      "priority": 4
+    },
+    "title": "《玉兰油面霜借势2026洗面奶排：成分科普内容创作》",
+    "platform": "视频号",
+    "angle": "成分科普",
+    "hot_topic": "2026洗面奶排行榜引发护肤热议",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油面霜",
+    "engagement_estimate": "37482+",
+    "status": "pending",
+    "created_at": "2026-03-29T11:22:37.724489"
+  },
+  {
     "id": "快消_202603281303",
     "client": {
       "industry": "快消",
