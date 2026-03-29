@@ -9480,5 +9480,1265 @@
     "engagement_estimate": "31828+",
     "status": "pending",
     "created_at": "2026-03-29T09:07:29.575507"
+  },
+  {
+    "id": "快消_202603290951_415",
+    "client": {
+      "industry": "快消",
+      "brand": "蓝月亮",
+      "products": [
+        "蓝月亮产品"
+      ],
+      "priority": 2
+    },
+    "title": "《colorwalk色彩漫步成春季出游顶流：蓝月亮产品深度评测》",
+    "platform": "小红书",
+    "angle": "性价比分析",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "蓝月亮产品",
+    "engagement_estimate": "488785+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980122"
+  },
+  {
+    "id": "保健品_202603290951_416",
+    "client": {
+      "industry": "保健品",
+      "brand": "黄金搭档",
+      "products": [
+        "黄金搭档产品"
+      ],
+      "priority": 5
+    },
+    "title": "《colorwalk色彩漫步成春季出游顶流：黄金搭档产品深度评测》",
+    "platform": "小红书",
+    "angle": "使用体验",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "黄金搭档产品",
+    "engagement_estimate": "279411+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980137"
+  },
+  {
+    "id": "食品饮料_202603290951_417",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉产品"
+      ],
+      "priority": 3
+    },
+    "title": "《colorwalk色彩漫步成春季出游顶流：农夫山泉产品深度评测》",
+    "platform": "小红书",
+    "angle": "性价比分析",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉产品",
+    "engagement_estimate": "457112+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980146"
+  },
+  {
+    "id": "快消_202603290951_418",
+    "client": {
+      "industry": "快消",
+      "brand": "立白",
+      "products": [
+        "立白产品"
+      ],
+      "priority": 3
+    },
+    "title": "《小红书期权四连涨估值3500亿：立白产品深度评测》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "小红书期权四连涨估值3500亿",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "立白产品",
+    "engagement_estimate": "75555+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980156"
+  },
+  {
+    "id": "保健品_202603290951_419",
+    "client": {
+      "industry": "保健品",
+      "brand": "黄金搭档",
+      "products": [
+        "黄金搭档产品"
+      ],
+      "priority": 3
+    },
+    "title": "《小红书期权四连涨估值3500亿：黄金搭档产品深度评测》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "小红书期权四连涨估值3500亿",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "黄金搭档产品",
+    "engagement_estimate": "415943+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980163"
+  },
+  {
+    "id": "食品饮料_202603290951_420",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉产品"
+      ],
+      "priority": 3
+    },
+    "title": "《小红书期权四连涨估值3500亿：农夫山泉产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "小红书期权四连涨估值3500亿",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "农夫山泉产品",
+    "engagement_estimate": "34756+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980170"
+  },
+  {
+    "id": "快消_202603290951_421",
+    "client": {
+      "industry": "快消",
+      "brand": "蓝月亮",
+      "products": [
+        "蓝月亮产品"
+      ],
+      "priority": 4
+    },
+    "title": "《《逐玉》大结局烂尾引全网吐槽：蓝月亮产品深度评测》",
+    "platform": "微博",
+    "angle": "使用体验",
+    "hot_topic": "《逐玉》大结局烂尾引全网吐槽",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续关注",
+    "product": "蓝月亮产品",
+    "engagement_estimate": "254411+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980177"
+  },
+  {
+    "id": "保健品_202603290951_422",
+    "client": {
+      "industry": "保健品",
+      "brand": "黄金搭档",
+      "products": [
+        "黄金搭档产品"
+      ],
+      "priority": 4
+    },
+    "title": "《《逐玉》大结局烂尾引全网吐槽：黄金搭档产品深度评测》",
+    "platform": "微博",
+    "angle": "使用体验",
+    "hot_topic": "《逐玉》大结局烂尾引全网吐槽",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续关注",
+    "product": "黄金搭档产品",
+    "engagement_estimate": "496520+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980184"
+  },
+  {
+    "id": "食品饮料_202603290951_423",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林产品"
+      ],
+      "priority": 3
+    },
+    "title": "《《逐玉》大结局烂尾引全网吐槽：元气森林产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "《逐玉》大结局烂尾引全网吐槽",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续关注",
+    "product": "元气森林产品",
+    "engagement_estimate": "27860+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980191"
+  },
+  {
+    "id": "快消_202603290951_424",
+    "client": {
+      "industry": "快消",
+      "brand": "立白",
+      "products": [
+        "立白产品"
+      ],
+      "priority": 2
+    },
+    "title": "《美团App被曝后台删除用户照片：立白产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "美团App被曝后台删除用户照片",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "立白产品",
+    "engagement_estimate": "76702+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980198"
+  },
+  {
+    "id": "保健品_202603290951_425",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存产品"
+      ],
+      "priority": 2
+    },
+    "title": "《美团App被曝后台删除用户照片：善存产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "美团App被曝后台删除用户照片",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "善存产品",
+    "engagement_estimate": "46825+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980204"
+  },
+  {
+    "id": "食品饮料_202603290951_426",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉产品"
+      ],
+      "priority": 4
+    },
+    "title": "《美团App被曝后台删除用户照片：农夫山泉产品深度评测》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "美团App被曝后台删除用户照片",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "农夫山泉产品",
+    "engagement_estimate": "16671+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980211"
+  },
+  {
+    "id": "快消_202603290951_427",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适产品"
+      ],
+      "priority": 3
+    },
+    "title": "《王者荣耀新赛季3月28日上线：舒适产品深度评测》",
+    "platform": "抖音",
+    "angle": "创意应用",
+    "hot_topic": "王者荣耀新赛季3月28日上线",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适产品",
+    "engagement_estimate": "260290+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980218"
+  },
+  {
+    "id": "保健品_202603290951_428",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健产品"
+      ],
+      "priority": 2
+    },
+    "title": "《王者荣耀新赛季3月28日上线：汤臣倍健产品深度评测》",
+    "platform": "抖音",
+    "angle": "使用体验",
+    "hot_topic": "王者荣耀新赛季3月28日上线",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健产品",
+    "engagement_estimate": "97054+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980227"
+  },
+  {
+    "id": "食品饮料_202603290951_429",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "伊利",
+      "products": [
+        "伊利产品"
+      ],
+      "priority": 5
+    },
+    "title": "《王者荣耀新赛季3月28日上线：伊利产品深度评测》",
+    "platform": "抖音",
+    "angle": "性价比分析",
+    "hot_topic": "王者荣耀新赛季3月28日上线",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "伊利产品",
+    "engagement_estimate": "495397+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980233"
+  },
+  {
+    "id": "快消_202603290951_430",
+    "client": {
+      "industry": "快消",
+      "brand": "蓝月亮",
+      "products": [
+        "蓝月亮产品"
+      ],
+      "priority": 5
+    },
+    "title": "《大疆起诉影石Insta360：蓝月亮产品深度评测》",
+    "platform": "抖音",
+    "angle": "性价比分析",
+    "hot_topic": "大疆起诉影石Insta360",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "蓝月亮产品",
+    "engagement_estimate": "231047+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980241"
+  },
+  {
+    "id": "保健品_202603290951_431",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健产品"
+      ],
+      "priority": 2
+    },
+    "title": "《大疆起诉影石Insta360：汤臣倍健产品深度评测》",
+    "platform": "抖音",
+    "angle": "创意应用",
+    "hot_topic": "大疆起诉影石Insta360",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "汤臣倍健产品",
+    "engagement_estimate": "382666+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980250"
+  },
+  {
+    "id": "食品饮料_202603290951_432",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林产品"
+      ],
+      "priority": 5
+    },
+    "title": "《大疆起诉影石Insta360：元气森林产品深度评测》",
+    "platform": "抖音",
+    "angle": "对比评测",
+    "hot_topic": "大疆起诉影石Insta360",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "元气森林产品",
+    "engagement_estimate": "204738+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980256"
+  },
+  {
+    "id": "快消_202603290951_433",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适产品"
+      ],
+      "priority": 5
+    },
+    "title": "《2026开年热梗「夯爆了」持续刷屏：舒适产品深度评测》",
+    "platform": "全平台",
+    "angle": "性价比分析",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适产品",
+    "engagement_estimate": "476207+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980263"
+  },
+  {
+    "id": "保健品_202603290951_434",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存产品"
+      ],
+      "priority": 4
+    },
+    "title": "《2026开年热梗「夯爆了」持续刷屏：善存产品深度评测》",
+    "platform": "全平台",
+    "angle": "使用体验",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存产品",
+    "engagement_estimate": "110138+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980270"
+  },
+  {
+    "id": "食品饮料_202603290951_435",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉产品"
+      ],
+      "priority": 5
+    },
+    "title": "《2026开年热梗「夯爆了」持续刷屏：农夫山泉产品深度评测》",
+    "platform": "全平台",
+    "angle": "创意应用",
+    "hot_topic": "2026开年热梗「夯爆了」持续刷屏",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉产品",
+    "engagement_estimate": "378874+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980278"
+  },
+  {
+    "id": "快消_202603290951_436",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适产品"
+      ],
+      "priority": 2
+    },
+    "title": "《「活人感」成网络热词真我风潮：舒适产品深度评测》",
+    "platform": "全平台",
+    "angle": "使用体验",
+    "hot_topic": "「活人感」成网络热词真我风潮",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "舒适产品",
+    "engagement_estimate": "34489+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980285"
+  },
+  {
+    "id": "保健品_202603290951_437",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健产品"
+      ],
+      "priority": 2
+    },
+    "title": "《「活人感」成网络热词真我风潮：汤臣倍健产品深度评测》",
+    "platform": "全平台",
+    "angle": "对比评测",
+    "hot_topic": "「活人感」成网络热词真我风潮",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "汤臣倍健产品",
+    "engagement_estimate": "220556+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980292"
+  },
+  {
+    "id": "食品饮料_202603290951_438",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "伊利",
+      "products": [
+        "伊利产品"
+      ],
+      "priority": 4
+    },
+    "title": "《「活人感」成网络热词真我风潮：伊利产品深度评测》",
+    "platform": "全平台",
+    "angle": "性价比分析",
+    "hot_topic": "「活人感」成网络热词真我风潮",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "伊利产品",
+    "engagement_estimate": "379372+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980298"
+  },
+  {
+    "id": "快消_202603290951_439",
+    "client": {
+      "industry": "快消",
+      "brand": "立白",
+      "products": [
+        "立白产品"
+      ],
+      "priority": 3
+    },
+    "title": "《清明五一假期出行预订提前升温：立白产品深度评测》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "立白产品",
+    "engagement_estimate": "85597+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980305"
+  },
+  {
+    "id": "保健品_202603290951_440",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存产品"
+      ],
+      "priority": 1
+    },
+    "title": "《清明五一假期出行预订提前升温：善存产品深度评测》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "善存产品",
+    "engagement_estimate": "373346+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980311"
+  },
+  {
+    "id": "食品饮料_202603290951_441",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林产品"
+      ],
+      "priority": 2
+    },
+    "title": "《清明五一假期出行预订提前升温：元气森林产品深度评测》",
+    "platform": "微博",
+    "angle": "使用体验",
+    "hot_topic": "清明五一假期出行预订提前升温",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
+    "product": "元气森林产品",
+    "engagement_estimate": "439315+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980318"
+  },
+  {
+    "id": "快消_202603290951_442",
+    "client": {
+      "industry": "快消",
+      "brand": "蓝月亮",
+      "products": [
+        "蓝月亮产品"
+      ],
+      "priority": 1
+    },
+    "title": "《抖音电商蓝莓成交额同比增159%：蓝月亮产品深度评测》",
+    "platform": "抖音",
+    "angle": "对比评测",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "蓝月亮产品",
+    "engagement_estimate": "96729+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980325"
+  },
+  {
+    "id": "保健品_202603290951_443",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健产品"
+      ],
+      "priority": 1
+    },
+    "title": "《抖音电商蓝莓成交额同比增159%：汤臣倍健产品深度评测》",
+    "platform": "抖音",
+    "angle": "使用体验",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健产品",
+    "engagement_estimate": "20355+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980332"
+  },
+  {
+    "id": "食品饮料_202603290951_444",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉产品"
+      ],
+      "priority": 5
+    },
+    "title": "《抖音电商蓝莓成交额同比增159%：农夫山泉产品深度评测》",
+    "platform": "抖音",
+    "angle": "性价比分析",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉产品",
+    "engagement_estimate": "408485+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980338"
+  },
+  {
+    "id": "快消_202603290951_445",
+    "client": {
+      "industry": "快消",
+      "brand": "蓝月亮",
+      "products": [
+        "蓝月亮产品"
+      ],
+      "priority": 2
+    },
+    "title": "《抖音净水器碧云泉G7S登销量榜首：蓝月亮产品深度评测》",
+    "platform": "抖音",
+    "angle": "对比评测",
+    "hot_topic": "抖音净水器碧云泉G7S登销量榜首",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "蓝月亮产品",
+    "engagement_estimate": "331212+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980345"
+  },
+  {
+    "id": "保健品_202603290951_446",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存产品"
+      ],
+      "priority": 1
+    },
+    "title": "《抖音净水器碧云泉G7S登销量榜首：善存产品深度评测》",
+    "platform": "抖音",
+    "angle": "创意应用",
+    "hot_topic": "抖音净水器碧云泉G7S登销量榜首",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "善存产品",
+    "engagement_estimate": "69178+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980351"
+  },
+  {
+    "id": "食品饮料_202603290951_447",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林产品"
+      ],
+      "priority": 5
+    },
+    "title": "《抖音净水器碧云泉G7S登销量榜首：元气森林产品深度评测》",
+    "platform": "抖音",
+    "angle": "使用体验",
+    "hot_topic": "抖音净水器碧云泉G7S登销量榜首",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林产品",
+    "engagement_estimate": "206849+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980358"
+  },
+  {
+    "id": "快消_202603290951_448",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适产品"
+      ],
+      "priority": 1
+    },
+    "title": "《2026新榜内容节探讨AI驱动内容行业变化：舒适产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "2026新榜内容节探讨AI驱动内容行业变化",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "舒适产品",
+    "engagement_estimate": "110031+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980365"
+  },
+  {
+    "id": "保健品_202603290951_449",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健产品"
+      ],
+      "priority": 5
+    },
+    "title": "《2026新榜内容节探讨AI驱动内容行业变化：汤臣倍健产品深度评测》",
+    "platform": "微博",
+    "angle": "创意应用",
+    "hot_topic": "2026新榜内容节探讨AI驱动内容行业变化",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "汤臣倍健产品",
+    "engagement_estimate": "40097+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980376"
+  },
+  {
+    "id": "食品饮料_202603290951_450",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林产品"
+      ],
+      "priority": 1
+    },
+    "title": "《2026新榜内容节探讨AI驱动内容行业变化：元气森林产品深度评测》",
+    "platform": "微博",
+    "angle": "使用体验",
+    "hot_topic": "2026新榜内容节探讨AI驱动内容行业变化",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "元气森林产品",
+    "engagement_estimate": "310316+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980382"
+  },
+  {
+    "id": "快消_202603290951_451",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适产品"
+      ],
+      "priority": 5
+    },
+    "title": "《第45届北京青少年科技创新大赛：舒适产品深度评测》",
+    "platform": "微博",
+    "angle": "创意应用",
+    "hot_topic": "第45届北京青少年科技创新大赛",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "舒适产品",
+    "engagement_estimate": "56322+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980389"
+  },
+  {
+    "id": "保健品_202603290951_452",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健产品"
+      ],
+      "priority": 5
+    },
+    "title": "《第45届北京青少年科技创新大赛：汤臣倍健产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "第45届北京青少年科技创新大赛",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "汤臣倍健产品",
+    "engagement_estimate": "43055+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980396"
+  },
+  {
+    "id": "食品饮料_202603290951_453",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉产品"
+      ],
+      "priority": 1
+    },
+    "title": "《第45届北京青少年科技创新大赛：农夫山泉产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "第45届北京青少年科技创新大赛",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "农夫山泉产品",
+    "engagement_estimate": "226438+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980402"
+  },
+  {
+    "id": "快消_202603290951_454",
+    "client": {
+      "industry": "快消",
+      "brand": "立白",
+      "products": [
+        "立白产品"
+      ],
+      "priority": 5
+    },
+    "title": "《宠物用品红黑榜成消费热点：立白产品深度评测》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "宠物用品红黑榜成消费热点",
+    "heat": "547万+",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "立白产品",
+    "engagement_estimate": "96695+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980409"
+  },
+  {
+    "id": "保健品_202603290951_455",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "products": [
+        "善存产品"
+      ],
+      "priority": 4
+    },
+    "title": "《宠物用品红黑榜成消费热点：善存产品深度评测》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "宠物用品红黑榜成消费热点",
+    "heat": "547万+",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "善存产品",
+    "engagement_estimate": "163018+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980416"
+  },
+  {
+    "id": "食品饮料_202603290951_456",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林产品"
+      ],
+      "priority": 3
+    },
+    "title": "《宠物用品红黑榜成消费热点：元气森林产品深度评测》",
+    "platform": "小红书",
+    "angle": "对比评测",
+    "hot_topic": "宠物用品红黑榜成消费热点",
+    "heat": "547万+",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林产品",
+    "engagement_estimate": "227920+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980423"
+  },
+  {
+    "id": "快消_202603290951_457",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适产品"
+      ],
+      "priority": 5
+    },
+    "title": "《全球股债金三杀投资者无处可躲：舒适产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "全球股债金三杀投资者无处可躲",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "舒适产品",
+    "engagement_estimate": "414765+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980429"
+  },
+  {
+    "id": "保健品_202603290951_458",
+    "client": {
+      "industry": "保健品",
+      "brand": "黄金搭档",
+      "products": [
+        "黄金搭档产品"
+      ],
+      "priority": 2
+    },
+    "title": "《全球股债金三杀投资者无处可躲：黄金搭档产品深度评测》",
+    "platform": "微博",
+    "angle": "对比评测",
+    "hot_topic": "全球股债金三杀投资者无处可躲",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "黄金搭档产品",
+    "engagement_estimate": "495922+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980436"
+  },
+  {
+    "id": "食品饮料_202603290951_459",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林产品"
+      ],
+      "priority": 4
+    },
+    "title": "《全球股债金三杀投资者无处可躲：元气森林产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "全球股债金三杀投资者无处可躲",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "元气森林产品",
+    "engagement_estimate": "324212+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980442"
+  },
+  {
+    "id": "快消_202603290951_460",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适产品"
+      ],
+      "priority": 2
+    },
+    "title": "《张帅组合伤退无缘迈阿密决赛：舒适产品深度评测》",
+    "platform": "微博",
+    "angle": "创意应用",
+    "hot_topic": "张帅组合伤退无缘迈阿密决赛",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "舒适产品",
+    "engagement_estimate": "387422+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980449"
+  },
+  {
+    "id": "保健品_202603290951_461",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健产品"
+      ],
+      "priority": 5
+    },
+    "title": "《张帅组合伤退无缘迈阿密决赛：汤臣倍健产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "张帅组合伤退无缘迈阿密决赛",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "汤臣倍健产品",
+    "engagement_estimate": "204546+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980455"
+  },
+  {
+    "id": "食品饮料_202603290951_462",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林产品"
+      ],
+      "priority": 5
+    },
+    "title": "《张帅组合伤退无缘迈阿密决赛：元气森林产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "张帅组合伤退无缘迈阿密决赛",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "元气森林产品",
+    "engagement_estimate": "356640+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980462"
+  },
+  {
+    "id": "快消_202603290951_463",
+    "client": {
+      "industry": "快消",
+      "brand": "立白",
+      "products": [
+        "立白产品"
+      ],
+      "priority": 5
+    },
+    "title": "《萨巴伦卡冲击阳光双冠王：立白产品深度评测》",
+    "platform": "微博",
+    "angle": "创意应用",
+    "hot_topic": "萨巴伦卡冲击阳光双冠王",
+    "heat": "高热",
+    "trend": "🔥🔥🔥",
+    "product": "立白产品",
+    "engagement_estimate": "284463+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980469"
+  },
+  {
+    "id": "保健品_202603290951_464",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健产品"
+      ],
+      "priority": 4
+    },
+    "title": "《萨巴伦卡冲击阳光双冠王：汤臣倍健产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "萨巴伦卡冲击阳光双冠王",
+    "heat": "高热",
+    "trend": "🔥🔥🔥",
+    "product": "汤臣倍健产品",
+    "engagement_estimate": "368471+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980475"
+  },
+  {
+    "id": "食品饮料_202603290951_465",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "伊利",
+      "products": [
+        "伊利产品"
+      ],
+      "priority": 4
+    },
+    "title": "《萨巴伦卡冲击阳光双冠王：伊利产品深度评测》",
+    "platform": "微博",
+    "angle": "创意应用",
+    "hot_topic": "萨巴伦卡冲击阳光双冠王",
+    "heat": "高热",
+    "trend": "🔥🔥🔥",
+    "product": "伊利产品",
+    "engagement_estimate": "396888+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980482"
+  },
+  {
+    "id": "快消_202603290951_466",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适产品"
+      ],
+      "priority": 2
+    },
+    "title": "《王者荣耀新赛季上线：舒适产品深度评测》",
+    "platform": "抖音",
+    "angle": "使用体验",
+    "hot_topic": "王者荣耀新赛季上线",
+    "heat": "40万+",
+    "trend": "🔥🔥🔥",
+    "product": "舒适产品",
+    "engagement_estimate": "88382+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980489"
+  },
+  {
+    "id": "保健品_202603290951_467",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "products": [
+        "汤臣倍健产品"
+      ],
+      "priority": 1
+    },
+    "title": "《王者荣耀新赛季上线：汤臣倍健产品深度评测》",
+    "platform": "抖音",
+    "angle": "创意应用",
+    "hot_topic": "王者荣耀新赛季上线",
+    "heat": "40万+",
+    "trend": "🔥🔥🔥",
+    "product": "汤臣倍健产品",
+    "engagement_estimate": "234595+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980496"
+  },
+  {
+    "id": "食品饮料_202603290951_468",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "products": [
+        "元气森林产品"
+      ],
+      "priority": 5
+    },
+    "title": "《王者荣耀新赛季上线：元气森林产品深度评测》",
+    "platform": "抖音",
+    "angle": "性价比分析",
+    "hot_topic": "王者荣耀新赛季上线",
+    "heat": "40万+",
+    "trend": "🔥🔥🔥",
+    "product": "元气森林产品",
+    "engagement_estimate": "78298+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980504"
+  },
+  {
+    "id": "快消_202603290951_469",
+    "client": {
+      "industry": "快消",
+      "brand": "立白",
+      "products": [
+        "立白产品"
+      ],
+      "priority": 4
+    },
+    "title": "《上海市民文化节全城启动：立白产品深度评测》",
+    "platform": "微博",
+    "angle": "性价比分析",
+    "hot_topic": "上海市民文化节全城启动",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "立白产品",
+    "engagement_estimate": "86627+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980511"
+  },
+  {
+    "id": "保健品_202603290951_470",
+    "client": {
+      "industry": "保健品",
+      "brand": "黄金搭档",
+      "products": [
+        "黄金搭档产品"
+      ],
+      "priority": 2
+    },
+    "title": "《上海市民文化节全城启动：黄金搭档产品深度评测》",
+    "platform": "微博",
+    "angle": "创意应用",
+    "hot_topic": "上海市民文化节全城启动",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "黄金搭档产品",
+    "engagement_estimate": "61091+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980519"
+  },
+  {
+    "id": "食品饮料_202603290951_471",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "伊利",
+      "products": [
+        "伊利产品"
+      ],
+      "priority": 1
+    },
+    "title": "《上海市民文化节全城启动：伊利产品深度评测》",
+    "platform": "微博",
+    "angle": "使用体验",
+    "hot_topic": "上海市民文化节全城启动",
+    "heat": "高热",
+    "trend": "🔥🔥",
+    "product": "伊利产品",
+    "engagement_estimate": "199156+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980525"
+  },
+  {
+    "id": "快消_202603290951_472",
+    "client": {
+      "industry": "快消",
+      "brand": "舒适",
+      "products": [
+        "舒适产品"
+      ],
+      "priority": 1
+    },
+    "title": "《抖音电商蓝莓成交额同比增159%：舒适产品深度评测》",
+    "platform": "抖音",
+    "angle": "创意应用",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适产品",
+    "engagement_estimate": "378885+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980532"
+  },
+  {
+    "id": "保健品_202603290951_473",
+    "client": {
+      "industry": "保健品",
+      "brand": "黄金搭档",
+      "products": [
+        "黄金搭档产品"
+      ],
+      "priority": 3
+    },
+    "title": "《抖音电商蓝莓成交额同比增159%：黄金搭档产品深度评测》",
+    "platform": "抖音",
+    "angle": "性价比分析",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "黄金搭档产品",
+    "engagement_estimate": "497288+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980539"
+  },
+  {
+    "id": "食品饮料_202603290951_474",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "products": [
+        "农夫山泉产品"
+      ],
+      "priority": 1
+    },
+    "title": "《抖音电商蓝莓成交额同比增159%：农夫山泉产品深度评测》",
+    "platform": "抖音",
+    "angle": "使用体验",
+    "hot_topic": "抖音电商蓝莓成交额同比增159%",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉产品",
+    "engagement_estimate": "163414+",
+    "status": "pending",
+    "created_at": "2026-03-29T09:51:56.980545"
   }
 ]
