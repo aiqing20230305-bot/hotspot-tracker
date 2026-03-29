@@ -112,4 +112,14 @@ new_ideas = [
 
     # 百威
     {"id":"YL_202603291323066","client":{"industry":"食品饮料","brand":"百威","products":["百威啤酒","百威纯生","百威超级"],"priority":3},"title":"百威啤酒借势清明踏青：户外聚会搭档","platform":"小红书","angle":"场景营销","hot_topic":"清明踏青好去处","heat":"3560万","trend":"爆发式增长","product":"百威啤酒","engagement_estimate":"28760+","status":"pending","created_at":now},
-    {"id":"YL_202603291323067","client":{"industry":"食品饮料","brand":"百威","products":["百威啤酒","百威纯生","百威超级"],"priority":3},"title":"百威纯生借势陈牧驰陈冰结婚：明星婚宴用酒话题","platform":"微博","angle":"热点借势","hot_topic":"陈牧驰陈冰发文宣布结婚生子","heat":"热搜第一","
+    {"id":"YL_202603291323067","client":{"industry":"食品饮料","brand":"百威","products":["百威啤酒","百威纯生","百威超级"],"priority":3},"title":"百威纯生借势陈牧驰陈冰结婚：明星婚宴用酒话题","platform":"微博","angle":"热点借势","hot_topic":"陈牧驰陈冰发文宣布结婚生子","heat":"热搜第一","trend":"爆发式增长","product":"百威纯生","engagement_estimate":"25340+","status":"pending","created_at":now},
+]
+
+# 追加新选题到ideas
+ideas.extend(new_ideas)
+
+# 保存更新后的选题
+with open(f'{BASE}/client_ideas.json', 'w', encoding='utf-8') as f:
+    json.dump(ideas, f, ensure_ascii=False, indent=2)
+
+print(f"✅ 新增 {len(new_ideas)} 条选题，总计 {len(ideas)} 条")
