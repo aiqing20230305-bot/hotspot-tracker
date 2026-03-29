@@ -5414,5 +5414,2527 @@
     },
     "heat_score": 84,
     "created": "2026-03-29"
+  },
+  {
+    "id": "scene_204",
+    "industry": "食品饮料",
+    "platform": "抖音",
+    "scene_type": "试吃测评",
+    "user_profile": {
+      "age": "18-24",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "食品饮料场景下的试吃测评需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "试吃测评推荐",
+      "美食"
+    ],
+    "paired_skus": [
+      "零食"
+    ],
+    "metrics": {
+      "views_est": 400641,
+      "engagement_rate": 0.045
+    },
+    "heat_score": 6.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_205",
+    "industry": "食品饮料",
+    "platform": "小红书",
+    "scene_type": "美食打卡",
+    "user_profile": {
+      "age": "25-34",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "食品饮料场景下的美食打卡需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "美食打卡推荐",
+      "吃货"
+    ],
+    "paired_skus": [
+      "饮料"
+    ],
+    "metrics": {
+      "views_est": 103420,
+      "engagement_rate": 0.023
+    },
+    "heat_score": 6.6,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_206",
+    "industry": "食品饮料",
+    "platform": "微博",
+    "scene_type": "健康饮食",
+    "user_profile": {
+      "age": "35-44",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "食品饮料场景下的健康饮食需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "健康饮食推荐",
+      "健康"
+    ],
+    "paired_skus": [
+      "牛奶"
+    ],
+    "metrics": {
+      "views_est": 288846,
+      "engagement_rate": 0.041
+    },
+    "heat_score": 6.6,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_207",
+    "industry": "食品饮料",
+    "platform": "B站",
+    "scene_type": "零食推荐",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "食品饮料场景下的零食推荐需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "零食推荐推荐",
+      "营养"
+    ],
+    "paired_skus": [
+      "咖啡"
+    ],
+    "metrics": {
+      "views_est": 35921,
+      "engagement_rate": 0.045
+    },
+    "heat_score": 9.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_208",
+    "industry": "食品饮料",
+    "platform": "快手",
+    "scene_type": "饮品测评",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "食品饮料场景下的饮品测评需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "饮品测评推荐",
+      "美味"
+    ],
+    "paired_skus": [
+      "茶饮"
+    ],
+    "metrics": {
+      "views_est": 485915,
+      "engagement_rate": 0.074
+    },
+    "heat_score": 8.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_209",
+    "industry": "食品饮料",
+    "platform": "视频号",
+    "scene_type": "早餐分享",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "食品饮料场景下的早餐分享需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "早餐分享推荐",
+      "推荐"
+    ],
+    "paired_skus": [
+      "酸奶"
+    ],
+    "metrics": {
+      "views_est": 12141,
+      "engagement_rate": 0.035
+    },
+    "heat_score": 6.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_210",
+    "industry": "食品饮料",
+    "platform": "抖音",
+    "scene_type": "夜宵推荐",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "食品饮料场景下的夜宵推荐需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "夜宵推荐推荐",
+      "打卡"
+    ],
+    "paired_skus": [
+      "果汁"
+    ],
+    "metrics": {
+      "views_est": 94765,
+      "engagement_rate": 0.066
+    },
+    "heat_score": 7.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_211",
+    "industry": "食品饮料",
+    "platform": "小红书",
+    "scene_type": "节日美食",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "食品饮料场景下的节日美食需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "节日美食推荐",
+      "测评"
+    ],
+    "paired_skus": [
+      "坚果"
+    ],
+    "metrics": {
+      "views_est": 142439,
+      "engagement_rate": 0.076
+    },
+    "heat_score": 7.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_212",
+    "industry": "食品饮料",
+    "platform": "微博",
+    "scene_type": "试吃测评",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "食品饮料场景下的试吃测评需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "试吃测评推荐",
+      "美食"
+    ],
+    "paired_skus": [
+      "饼干"
+    ],
+    "metrics": {
+      "views_est": 19874,
+      "engagement_rate": 0.026
+    },
+    "heat_score": 7.9,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_213",
+    "industry": "食品饮料",
+    "platform": "B站",
+    "scene_type": "美食打卡",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "食品饮料场景下的美食打卡需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "美食打卡推荐",
+      "吃货"
+    ],
+    "paired_skus": [
+      "巧克力"
+    ],
+    "metrics": {
+      "views_est": 246769,
+      "engagement_rate": 0.03
+    },
+    "heat_score": 7.6,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_214",
+    "industry": "食品饮料",
+    "platform": "快手",
+    "scene_type": "健康饮食",
+    "user_profile": {
+      "age": "29岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "食品饮料场景下的健康饮食需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "健康饮食推荐",
+      "健康"
+    ],
+    "paired_skus": [
+      "零食"
+    ],
+    "metrics": {
+      "views_est": 228421,
+      "engagement_rate": 0.036
+    },
+    "heat_score": 9.0,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_215",
+    "industry": "食品饮料",
+    "platform": "视频号",
+    "scene_type": "零食推荐",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "食品饮料场景下的零食推荐需求",
+    "trigger_keywords": [
+      "食品饮料好物",
+      "零食推荐推荐",
+      "营养"
+    ],
+    "paired_skus": [
+      "饮料"
+    ],
+    "metrics": {
+      "views_est": 407650,
+      "engagement_rate": 0.027
+    },
+    "heat_score": 6.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_216",
+    "industry": "美妆护肤",
+    "platform": "抖音",
+    "scene_type": "护肤心得",
+    "user_profile": {
+      "age": "18-24",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "美妆护肤场景下的护肤心得需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "护肤心得推荐",
+      "美妆"
+    ],
+    "paired_skus": [
+      "面膜"
+    ],
+    "metrics": {
+      "views_est": 26047,
+      "engagement_rate": 0.026
+    },
+    "heat_score": 8.8,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_217",
+    "industry": "美妆护肤",
+    "platform": "小红书",
+    "scene_type": "彩妆教程",
+    "user_profile": {
+      "age": "25-34",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "美妆护肤场景下的彩妆教程需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "彩妆教程推荐",
+      "护肤"
+    ],
+    "paired_skus": [
+      "精华"
+    ],
+    "metrics": {
+      "views_est": 341643,
+      "engagement_rate": 0.033
+    },
+    "heat_score": 7.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_218",
+    "industry": "美妆护肤",
+    "platform": "微博",
+    "scene_type": "产品测评",
+    "user_profile": {
+      "age": "35-44",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "美妆护肤场景下的产品测评需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "产品测评推荐",
+      "妆容"
+    ],
+    "paired_skus": [
+      "面霜"
+    ],
+    "metrics": {
+      "views_est": 239496,
+      "engagement_rate": 0.054
+    },
+    "heat_score": 8.1,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_219",
+    "industry": "美妆护肤",
+    "platform": "B站",
+    "scene_type": "美妆分享",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "美妆护肤场景下的美妆分享需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "美妆分享推荐",
+      "保养"
+    ],
+    "paired_skus": [
+      "防晒"
+    ],
+    "metrics": {
+      "views_est": 103553,
+      "engagement_rate": 0.053
+    },
+    "heat_score": 7.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_220",
+    "industry": "美妆护肤",
+    "platform": "快手",
+    "scene_type": "护肤日常",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "美妆护肤场景下的护肤日常需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "护肤日常推荐",
+      "测评"
+    ],
+    "paired_skus": [
+      "粉底"
+    ],
+    "metrics": {
+      "views_est": 78179,
+      "engagement_rate": 0.029
+    },
+    "heat_score": 8.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_221",
+    "industry": "美妆护肤",
+    "platform": "视频号",
+    "scene_type": "防晒指南",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "美妆护肤场景下的防晒指南需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "防晒指南推荐",
+      "种草"
+    ],
+    "paired_skus": [
+      "口红"
+    ],
+    "metrics": {
+      "views_est": 383019,
+      "engagement_rate": 0.079
+    },
+    "heat_score": 8.0,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_222",
+    "industry": "美妆护肤",
+    "platform": "抖音",
+    "scene_type": "抗衰保养",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "美妆护肤场景下的抗衰保养需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "抗衰保养推荐",
+      "推荐"
+    ],
+    "paired_skus": [
+      "眼影"
+    ],
+    "metrics": {
+      "views_est": 387969,
+      "engagement_rate": 0.079
+    },
+    "heat_score": 7.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_223",
+    "industry": "美妆护肤",
+    "platform": "小红书",
+    "scene_type": "敏感肌护理",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "美妆护肤场景下的敏感肌护理需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "敏感肌护理推荐",
+      "教程"
+    ],
+    "paired_skus": [
+      "卸妆水"
+    ],
+    "metrics": {
+      "views_est": 454256,
+      "engagement_rate": 0.044
+    },
+    "heat_score": 9.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_224",
+    "industry": "美妆护肤",
+    "platform": "微博",
+    "scene_type": "护肤心得",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "美妆护肤场景下的护肤心得需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "护肤心得推荐",
+      "美妆"
+    ],
+    "paired_skus": [
+      "洗面奶"
+    ],
+    "metrics": {
+      "views_est": 355046,
+      "engagement_rate": 0.033
+    },
+    "heat_score": 8.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_225",
+    "industry": "美妆护肤",
+    "platform": "B站",
+    "scene_type": "彩妆教程",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "美妆护肤场景下的彩妆教程需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "彩妆教程推荐",
+      "护肤"
+    ],
+    "paired_skus": [
+      "爽肤水"
+    ],
+    "metrics": {
+      "views_est": 161790,
+      "engagement_rate": 0.074
+    },
+    "heat_score": 7.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_226",
+    "industry": "美妆护肤",
+    "platform": "快手",
+    "scene_type": "产品测评",
+    "user_profile": {
+      "age": "29岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "美妆护肤场景下的产品测评需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "产品测评推荐",
+      "妆容"
+    ],
+    "paired_skus": [
+      "面膜"
+    ],
+    "metrics": {
+      "views_est": 264688,
+      "engagement_rate": 0.05
+    },
+    "heat_score": 8.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_227",
+    "industry": "美妆护肤",
+    "platform": "视频号",
+    "scene_type": "美妆分享",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "美妆护肤场景下的美妆分享需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "美妆分享推荐",
+      "保养"
+    ],
+    "paired_skus": [
+      "精华"
+    ],
+    "metrics": {
+      "views_est": 135749,
+      "engagement_rate": 0.05
+    },
+    "heat_score": 6.9,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_228",
+    "industry": "美妆护肤",
+    "platform": "抖音",
+    "scene_type": "护肤日常",
+    "user_profile": {
+      "age": "31岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "美妆护肤场景下的护肤日常需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "护肤日常推荐",
+      "测评"
+    ],
+    "paired_skus": [
+      "面霜"
+    ],
+    "metrics": {
+      "views_est": 218506,
+      "engagement_rate": 0.035
+    },
+    "heat_score": 7.1,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_229",
+    "industry": "美妆护肤",
+    "platform": "小红书",
+    "scene_type": "防晒指南",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "美妆护肤场景下的防晒指南需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "防晒指南推荐",
+      "种草"
+    ],
+    "paired_skus": [
+      "防晒"
+    ],
+    "metrics": {
+      "views_est": 40954,
+      "engagement_rate": 0.065
+    },
+    "heat_score": 6.9,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_230",
+    "industry": "美妆护肤",
+    "platform": "微博",
+    "scene_type": "抗衰保养",
+    "user_profile": {
+      "age": "33岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "美妆护肤场景下的抗衰保养需求",
+    "trigger_keywords": [
+      "美妆护肤好物",
+      "抗衰保养推荐",
+      "推荐"
+    ],
+    "paired_skus": [
+      "粉底"
+    ],
+    "metrics": {
+      "views_est": 389091,
+      "engagement_rate": 0.048
+    },
+    "heat_score": 7.8,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_231",
+    "industry": "母婴育儿",
+    "platform": "抖音",
+    "scene_type": "宝宝护理",
+    "user_profile": {
+      "age": "18-24",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "母婴育儿场景下的宝宝护理需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "宝宝护理推荐",
+      "母婴"
+    ],
+    "paired_skus": [
+      "奶粉"
+    ],
+    "metrics": {
+      "views_est": 28003,
+      "engagement_rate": 0.071
+    },
+    "heat_score": 7.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_232",
+    "industry": "母婴育儿",
+    "platform": "小红书",
+    "scene_type": "孕期知识",
+    "user_profile": {
+      "age": "25-34",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "母婴育儿场景下的孕期知识需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "孕期知识推荐",
+      "育儿"
+    ],
+    "paired_skus": [
+      "纸尿裤"
+    ],
+    "metrics": {
+      "views_est": 317492,
+      "engagement_rate": 0.067
+    },
+    "heat_score": 8.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_233",
+    "industry": "母婴育儿",
+    "platform": "微博",
+    "scene_type": "亲子互动",
+    "user_profile": {
+      "age": "35-44",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "母婴育儿场景下的亲子互动需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "亲子互动推荐",
+      "宝宝"
+    ],
+    "paired_skus": [
+      "婴儿车"
+    ],
+    "metrics": {
+      "views_est": 137492,
+      "engagement_rate": 0.039
+    },
+    "heat_score": 8.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_234",
+    "industry": "母婴育儿",
+    "platform": "B站",
+    "scene_type": "育儿经验",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "母婴育儿场景下的育儿经验需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "育儿经验推荐",
+      "孕期"
+    ],
+    "paired_skus": [
+      "婴儿床"
+    ],
+    "metrics": {
+      "views_est": 359304,
+      "engagement_rate": 0.03
+    },
+    "heat_score": 9.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_235",
+    "industry": "母婴育儿",
+    "platform": "快手",
+    "scene_type": "辅食添加",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "母婴育儿场景下的辅食添加需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "辅食添加推荐",
+      "亲子"
+    ],
+    "paired_skus": [
+      "玩具"
+    ],
+    "metrics": {
+      "views_est": 22235,
+      "engagement_rate": 0.058
+    },
+    "heat_score": 8.8,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_236",
+    "industry": "母婴育儿",
+    "platform": "视频号",
+    "scene_type": "早教启蒙",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "母婴育儿场景下的早教启蒙需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "早教启蒙推荐",
+      "护理"
+    ],
+    "paired_skus": [
+      "奶瓶"
+    ],
+    "metrics": {
+      "views_est": 110967,
+      "engagement_rate": 0.066
+    },
+    "heat_score": 7.6,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_237",
+    "industry": "母婴育儿",
+    "platform": "抖音",
+    "scene_type": "妈妈日常",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "母婴育儿场景下的妈妈日常需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "妈妈日常推荐",
+      "成长"
+    ],
+    "paired_skus": [
+      "辅食"
+    ],
+    "metrics": {
+      "views_est": 469892,
+      "engagement_rate": 0.053
+    },
+    "heat_score": 6.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_238",
+    "industry": "母婴育儿",
+    "platform": "小红书",
+    "scene_type": "孕期营养",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "母婴育儿场景下的孕期营养需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "孕期营养推荐",
+      "健康"
+    ],
+    "paired_skus": [
+      "洗护用品"
+    ],
+    "metrics": {
+      "views_est": 299760,
+      "engagement_rate": 0.068
+    },
+    "heat_score": 8.8,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_239",
+    "industry": "母婴育儿",
+    "platform": "微博",
+    "scene_type": "宝宝护理",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "母婴育儿场景下的宝宝护理需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "宝宝护理推荐",
+      "母婴"
+    ],
+    "paired_skus": [
+      "安全座椅"
+    ],
+    "metrics": {
+      "views_est": 312349,
+      "engagement_rate": 0.033
+    },
+    "heat_score": 6.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_240",
+    "industry": "母婴育儿",
+    "platform": "B站",
+    "scene_type": "孕期知识",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "母婴育儿场景下的孕期知识需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "孕期知识推荐",
+      "育儿"
+    ],
+    "paired_skus": [
+      "童装"
+    ],
+    "metrics": {
+      "views_est": 186603,
+      "engagement_rate": 0.044
+    },
+    "heat_score": 6.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_241",
+    "industry": "母婴育儿",
+    "platform": "快手",
+    "scene_type": "亲子互动",
+    "user_profile": {
+      "age": "29岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "母婴育儿场景下的亲子互动需求",
+    "trigger_keywords": [
+      "母婴育儿好物",
+      "亲子互动推荐",
+      "宝宝"
+    ],
+    "paired_skus": [
+      "奶粉"
+    ],
+    "metrics": {
+      "views_est": 205553,
+      "engagement_rate": 0.047
+    },
+    "heat_score": 7.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_242",
+    "industry": "3C数码",
+    "platform": "抖音",
+    "scene_type": "新品开箱",
+    "user_profile": {
+      "age": "18-24",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "3C数码场景下的新品开箱需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "新品开箱推荐",
+      "数码"
+    ],
+    "paired_skus": [
+      "手机"
+    ],
+    "metrics": {
+      "views_est": 57008,
+      "engagement_rate": 0.034
+    },
+    "heat_score": 7.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_243",
+    "industry": "3C数码",
+    "platform": "小红书",
+    "scene_type": "技术解析",
+    "user_profile": {
+      "age": "25-34",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "3C数码场景下的技术解析需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "技术解析推荐",
+      "科技"
+    ],
+    "paired_skus": [
+      "平板"
+    ],
+    "metrics": {
+      "views_est": 374935,
+      "engagement_rate": 0.072
+    },
+    "heat_score": 8.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_244",
+    "industry": "3C数码",
+    "platform": "微博",
+    "scene_type": "游戏体验",
+    "user_profile": {
+      "age": "35-44",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "3C数码场景下的游戏体验需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "游戏体验推荐",
+      "测评"
+    ],
+    "paired_skus": [
+      "耳机"
+    ],
+    "metrics": {
+      "views_est": 390739,
+      "engagement_rate": 0.068
+    },
+    "heat_score": 6.6,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_245",
+    "industry": "3C数码",
+    "platform": "B站",
+    "scene_type": "办公效率",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "3C数码场景下的办公效率需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "办公效率推荐",
+      "开箱"
+    ],
+    "paired_skus": [
+      "键盘"
+    ],
+    "metrics": {
+      "views_est": 179293,
+      "engagement_rate": 0.053
+    },
+    "heat_score": 7.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_246",
+    "industry": "3C数码",
+    "platform": "快手",
+    "scene_type": "摄影技巧",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "3C数码场景下的摄影技巧需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "摄影技巧推荐",
+      "推荐"
+    ],
+    "paired_skus": [
+      "鼠标"
+    ],
+    "metrics": {
+      "views_est": 243918,
+      "engagement_rate": 0.069
+    },
+    "heat_score": 6.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_247",
+    "industry": "3C数码",
+    "platform": "视频号",
+    "scene_type": "配件推荐",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "3C数码场景下的配件推荐需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "配件推荐推荐",
+      "体验"
+    ],
+    "paired_skus": [
+      "显示器"
+    ],
+    "metrics": {
+      "views_est": 158312,
+      "engagement_rate": 0.037
+    },
+    "heat_score": 9.0,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_248",
+    "industry": "3C数码",
+    "platform": "抖音",
+    "scene_type": "智能设备",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "3C数码场景下的智能设备需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "智能设备推荐",
+      "智能"
+    ],
+    "paired_skus": [
+      "摄像头"
+    ],
+    "metrics": {
+      "views_est": 223771,
+      "engagement_rate": 0.029
+    },
+    "heat_score": 8.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_249",
+    "industry": "3C数码",
+    "platform": "小红书",
+    "scene_type": "性价比对比",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "3C数码场景下的性价比对比需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "性价比对比推荐",
+      "性价比"
+    ],
+    "paired_skus": [
+      "充电宝"
+    ],
+    "metrics": {
+      "views_est": 148665,
+      "engagement_rate": 0.037
+    },
+    "heat_score": 8.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_250",
+    "industry": "3C数码",
+    "platform": "微博",
+    "scene_type": "新品开箱",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "3C数码场景下的新品开箱需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "新品开箱推荐",
+      "数码"
+    ],
+    "paired_skus": [
+      "数据线"
+    ],
+    "metrics": {
+      "views_est": 189419,
+      "engagement_rate": 0.051
+    },
+    "heat_score": 8.1,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_251",
+    "industry": "3C数码",
+    "platform": "B站",
+    "scene_type": "技术解析",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "3C数码场景下的技术解析需求",
+    "trigger_keywords": [
+      "3C数码好物",
+      "技术解析推荐",
+      "科技"
+    ],
+    "paired_skus": [
+      "音箱"
+    ],
+    "metrics": {
+      "views_est": 381333,
+      "engagement_rate": 0.043
+    },
+    "heat_score": 8.9,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_252",
+    "industry": "家居日用",
+    "platform": "抖音",
+    "scene_type": "居家好物",
+    "user_profile": {
+      "age": "18-24",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "家居日用场景下的居家好物需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "居家好物推荐",
+      "家居"
+    ],
+    "paired_skus": [
+      "收纳盒"
+    ],
+    "metrics": {
+      "views_est": 130017,
+      "engagement_rate": 0.073
+    },
+    "heat_score": 6.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_253",
+    "industry": "家居日用",
+    "platform": "小红书",
+    "scene_type": "生活妙招",
+    "user_profile": {
+      "age": "25-34",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "家居日用场景下的生活妙招需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "生活妙招推荐",
+      "生活"
+    ],
+    "paired_skus": [
+      "置物架"
+    ],
+    "metrics": {
+      "views_est": 325516,
+      "engagement_rate": 0.072
+    },
+    "heat_score": 8.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_254",
+    "industry": "家居日用",
+    "platform": "微博",
+    "scene_type": "空间利用",
+    "user_profile": {
+      "age": "35-44",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "家居日用场景下的空间利用需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "空间利用推荐",
+      "实用"
+    ],
+    "paired_skus": [
+      "垃圾桶"
+    ],
+    "metrics": {
+      "views_est": 69821,
+      "engagement_rate": 0.067
+    },
+    "heat_score": 6.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_255",
+    "industry": "家居日用",
+    "platform": "B站",
+    "scene_type": "家居布置",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "家居日用场景下的家居布置需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "家居布置推荐",
+      "收纳"
+    ],
+    "paired_skus": [
+      "清洁用品"
+    ],
+    "metrics": {
+      "views_est": 63440,
+      "engagement_rate": 0.028
+    },
+    "heat_score": 8.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_256",
+    "industry": "家居日用",
+    "platform": "快手",
+    "scene_type": "厨房神器",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "家居日用场景下的厨房神器需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "厨房神器推荐",
+      "布置"
+    ],
+    "paired_skus": [
+      "厨具"
+    ],
+    "metrics": {
+      "views_est": 229968,
+      "engagement_rate": 0.051
+    },
+    "heat_score": 7.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_257",
+    "industry": "家居日用",
+    "platform": "视频号",
+    "scene_type": "卫浴好物",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "家居日用场景下的卫浴好物需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "卫浴好物推荐",
+      "好物"
+    ],
+    "paired_skus": [
+      "卫浴用品"
+    ],
+    "metrics": {
+      "views_est": 291974,
+      "engagement_rate": 0.065
+    },
+    "heat_score": 8.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_258",
+    "industry": "家居日用",
+    "platform": "抖音",
+    "scene_type": "收纳整理",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "家居日用场景下的收纳整理需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "收纳整理推荐",
+      "神器"
+    ],
+    "paired_skus": [
+      "床品"
+    ],
+    "metrics": {
+      "views_est": 105948,
+      "engagement_rate": 0.071
+    },
+    "heat_score": 8.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_259",
+    "industry": "家居日用",
+    "platform": "小红书",
+    "scene_type": "智能家居",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "家居日用场景下的智能家居需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "智能家居推荐",
+      "推荐"
+    ],
+    "paired_skus": [
+      "窗帘"
+    ],
+    "metrics": {
+      "views_est": 366858,
+      "engagement_rate": 0.027
+    },
+    "heat_score": 8.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_260",
+    "industry": "家居日用",
+    "platform": "微博",
+    "scene_type": "居家好物",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "家居日用场景下的居家好物需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "居家好物推荐",
+      "家居"
+    ],
+    "paired_skus": [
+      "地毯"
+    ],
+    "metrics": {
+      "views_est": 153430,
+      "engagement_rate": 0.023
+    },
+    "heat_score": 9.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_261",
+    "industry": "家居日用",
+    "platform": "B站",
+    "scene_type": "生活妙招",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "家居日用场景下的生活妙招需求",
+    "trigger_keywords": [
+      "家居日用好物",
+      "生活妙招推荐",
+      "生活"
+    ],
+    "paired_skus": [
+      "灯具"
+    ],
+    "metrics": {
+      "views_est": 481345,
+      "engagement_rate": 0.064
+    },
+    "heat_score": 8.1,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_262",
+    "industry": "服饰穿搭",
+    "platform": "抖音",
+    "scene_type": "穿搭灵感",
+    "user_profile": {
+      "age": "18-24",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "服饰穿搭场景下的穿搭灵感需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "穿搭灵感推荐",
+      "穿搭"
+    ],
+    "paired_skus": [
+      "T恤"
+    ],
+    "metrics": {
+      "views_est": 85092,
+      "engagement_rate": 0.067
+    },
+    "heat_score": 8.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_263",
+    "industry": "服饰穿搭",
+    "platform": "小红书",
+    "scene_type": "季节穿搭",
+    "user_profile": {
+      "age": "25-34",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "服饰穿搭场景下的季节穿搭需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "季节穿搭推荐",
+      "时尚"
+    ],
+    "paired_skus": [
+      "牛仔裤"
+    ],
+    "metrics": {
+      "views_est": 240427,
+      "engagement_rate": 0.079
+    },
+    "heat_score": 6.8,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_264",
+    "industry": "服饰穿搭",
+    "platform": "微博",
+    "scene_type": "风格塑造",
+    "user_profile": {
+      "age": "35-44",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "服饰穿搭场景下的风格塑造需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "风格塑造推荐",
+      "搭配"
+    ],
+    "paired_skus": [
+      "连衣裙"
+    ],
+    "metrics": {
+      "views_est": 181396,
+      "engagement_rate": 0.061
+    },
+    "heat_score": 8.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_265",
+    "industry": "服饰穿搭",
+    "platform": "B站",
+    "scene_type": "穿搭技巧",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "服饰穿搭场景下的穿搭技巧需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "穿搭技巧推荐",
+      "风格"
+    ],
+    "paired_skus": [
+      "外套"
+    ],
+    "metrics": {
+      "views_est": 357543,
+      "engagement_rate": 0.057
+    },
+    "heat_score": 7.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_266",
+    "industry": "服饰穿搭",
+    "platform": "快手",
+    "scene_type": "平价穿搭",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "服饰穿搭场景下的平价穿搭需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "平价穿搭推荐",
+      "潮流"
+    ],
+    "paired_skus": [
+      "毛衣"
+    ],
+    "metrics": {
+      "views_est": 464980,
+      "engagement_rate": 0.026
+    },
+    "heat_score": 8.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_267",
+    "industry": "服饰穿搭",
+    "platform": "视频号",
+    "scene_type": "职场穿搭",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "服饰穿搭场景下的职场穿搭需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "职场穿搭推荐",
+      "推荐"
+    ],
+    "paired_skus": [
+      "衬衫"
+    ],
+    "metrics": {
+      "views_est": 452944,
+      "engagement_rate": 0.027
+    },
+    "heat_score": 7.0,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_268",
+    "industry": "服饰穿搭",
+    "platform": "抖音",
+    "scene_type": "约会穿搭",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "服饰穿搭场景下的约会穿搭需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "约会穿搭推荐",
+      "灵感"
+    ],
+    "paired_skus": [
+      "运动服"
+    ],
+    "metrics": {
+      "views_est": 19539,
+      "engagement_rate": 0.045
+    },
+    "heat_score": 7.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_269",
+    "industry": "服饰穿搭",
+    "platform": "小红书",
+    "scene_type": "运动穿搭",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "服饰穿搭场景下的运动穿搭需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "运动穿搭推荐",
+      "技巧"
+    ],
+    "paired_skus": [
+      "内衣"
+    ],
+    "metrics": {
+      "views_est": 47742,
+      "engagement_rate": 0.036
+    },
+    "heat_score": 7.6,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_270",
+    "industry": "服饰穿搭",
+    "platform": "微博",
+    "scene_type": "穿搭灵感",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "服饰穿搭场景下的穿搭灵感需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "穿搭灵感推荐",
+      "穿搭"
+    ],
+    "paired_skus": [
+      "袜子"
+    ],
+    "metrics": {
+      "views_est": 323305,
+      "engagement_rate": 0.025
+    },
+    "heat_score": 6.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_271",
+    "industry": "服饰穿搭",
+    "platform": "B站",
+    "scene_type": "季节穿搭",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "服饰穿搭场景下的季节穿搭需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "季节穿搭推荐",
+      "时尚"
+    ],
+    "paired_skus": [
+      "配饰"
+    ],
+    "metrics": {
+      "views_est": 154123,
+      "engagement_rate": 0.058
+    },
+    "heat_score": 8.0,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_272",
+    "industry": "服饰穿搭",
+    "platform": "快手",
+    "scene_type": "风格塑造",
+    "user_profile": {
+      "age": "29岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "服饰穿搭场景下的风格塑造需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "风格塑造推荐",
+      "搭配"
+    ],
+    "paired_skus": [
+      "T恤"
+    ],
+    "metrics": {
+      "views_est": 311625,
+      "engagement_rate": 0.071
+    },
+    "heat_score": 6.1,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_273",
+    "industry": "服饰穿搭",
+    "platform": "视频号",
+    "scene_type": "穿搭技巧",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "服饰穿搭场景下的穿搭技巧需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "穿搭技巧推荐",
+      "风格"
+    ],
+    "paired_skus": [
+      "牛仔裤"
+    ],
+    "metrics": {
+      "views_est": 446855,
+      "engagement_rate": 0.048
+    },
+    "heat_score": 8.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_274",
+    "industry": "服饰穿搭",
+    "platform": "抖音",
+    "scene_type": "平价穿搭",
+    "user_profile": {
+      "age": "31岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "服饰穿搭场景下的平价穿搭需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "平价穿搭推荐",
+      "潮流"
+    ],
+    "paired_skus": [
+      "连衣裙"
+    ],
+    "metrics": {
+      "views_est": 48093,
+      "engagement_rate": 0.077
+    },
+    "heat_score": 8.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_275",
+    "industry": "服饰穿搭",
+    "platform": "小红书",
+    "scene_type": "职场穿搭",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "服饰穿搭场景下的职场穿搭需求",
+    "trigger_keywords": [
+      "服饰穿搭好物",
+      "职场穿搭推荐",
+      "推荐"
+    ],
+    "paired_skus": [
+      "外套"
+    ],
+    "metrics": {
+      "views_est": 486526,
+      "engagement_rate": 0.069
+    },
+    "heat_score": 7.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_276",
+    "industry": "宠物用品",
+    "platform": "抖音",
+    "scene_type": "宠物日常",
+    "user_profile": {
+      "age": "18-24",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "宠物用品场景下的宠物日常需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物日常推荐",
+      "宠物"
+    ],
+    "paired_skus": [
+      "猫粮"
+    ],
+    "metrics": {
+      "views_est": 228185,
+      "engagement_rate": 0.063
+    },
+    "heat_score": 8.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_277",
+    "industry": "宠物用品",
+    "platform": "小红书",
+    "scene_type": "宠物护理",
+    "user_profile": {
+      "age": "25-34",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "宠物用品场景下的宠物护理需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物护理推荐",
+      "萌宠"
+    ],
+    "paired_skus": [
+      "狗粮"
+    ],
+    "metrics": {
+      "views_est": 486410,
+      "engagement_rate": 0.03
+    },
+    "heat_score": 7.6,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_278",
+    "industry": "宠物用品",
+    "platform": "微博",
+    "scene_type": "宠物训练",
+    "user_profile": {
+      "age": "35-44",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "宠物用品场景下的宠物训练需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物训练推荐",
+      "护理"
+    ],
+    "paired_skus": [
+      "宠物零食"
+    ],
+    "metrics": {
+      "views_est": 430641,
+      "engagement_rate": 0.043
+    },
+    "heat_score": 6.1,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_279",
+    "industry": "宠物用品",
+    "platform": "B站",
+    "scene_type": "宠物健康",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "宠物用品场景下的宠物健康需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物健康推荐",
+      "训练"
+    ],
+    "paired_skus": [
+      "猫砂"
+    ],
+    "metrics": {
+      "views_est": 230898,
+      "engagement_rate": 0.057
+    },
+    "heat_score": 6.0,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_280",
+    "industry": "宠物用品",
+    "platform": "快手",
+    "scene_type": "宠物美食",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "宠物用品场景下的宠物美食需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物美食推荐",
+      "健康"
+    ],
+    "paired_skus": [
+      "宠物玩具"
+    ],
+    "metrics": {
+      "views_est": 458590,
+      "engagement_rate": 0.022
+    },
+    "heat_score": 6.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_281",
+    "industry": "宠物用品",
+    "platform": "视频号",
+    "scene_type": "宠物玩具",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "宠物用品场景下的宠物玩具需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物玩具推荐",
+      "美食"
+    ],
+    "paired_skus": [
+      "宠物窝"
+    ],
+    "metrics": {
+      "views_est": 62143,
+      "engagement_rate": 0.026
+    },
+    "heat_score": 6.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_282",
+    "industry": "宠物用品",
+    "platform": "抖音",
+    "scene_type": "萌宠日常",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "宠物用品场景下的萌宠日常需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "萌宠日常推荐",
+      "玩具"
+    ],
+    "paired_skus": [
+      "牵引绳"
+    ],
+    "metrics": {
+      "views_est": 214372,
+      "engagement_rate": 0.061
+    },
+    "heat_score": 7.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_283",
+    "industry": "宠物用品",
+    "platform": "小红书",
+    "scene_type": "宠物出行",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "宠物用品场景下的宠物出行需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物出行推荐",
+      "日常"
+    ],
+    "paired_skus": [
+      "宠物洗护"
+    ],
+    "metrics": {
+      "views_est": 162050,
+      "engagement_rate": 0.023
+    },
+    "heat_score": 7.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_284",
+    "industry": "宠物用品",
+    "platform": "微博",
+    "scene_type": "宠物日常",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "宠物用品场景下的宠物日常需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物日常推荐",
+      "宠物"
+    ],
+    "paired_skus": [
+      "宠物服装"
+    ],
+    "metrics": {
+      "views_est": 228532,
+      "engagement_rate": 0.039
+    },
+    "heat_score": 7.9,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_285",
+    "industry": "宠物用品",
+    "platform": "B站",
+    "scene_type": "宠物护理",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "宠物用品场景下的宠物护理需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物护理推荐",
+      "萌宠"
+    ],
+    "paired_skus": [
+      "宠物医疗"
+    ],
+    "metrics": {
+      "views_est": 171566,
+      "engagement_rate": 0.048
+    },
+    "heat_score": 6.1,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_286",
+    "industry": "宠物用品",
+    "platform": "快手",
+    "scene_type": "宠物训练",
+    "user_profile": {
+      "age": "29岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "宠物用品场景下的宠物训练需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物训练推荐",
+      "护理"
+    ],
+    "paired_skus": [
+      "猫粮"
+    ],
+    "metrics": {
+      "views_est": 312811,
+      "engagement_rate": 0.038
+    },
+    "heat_score": 8.2,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_287",
+    "industry": "宠物用品",
+    "platform": "视频号",
+    "scene_type": "宠物健康",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "宠物用品场景下的宠物健康需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物健康推荐",
+      "训练"
+    ],
+    "paired_skus": [
+      "狗粮"
+    ],
+    "metrics": {
+      "views_est": 447983,
+      "engagement_rate": 0.026
+    },
+    "heat_score": 6.8,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_288",
+    "industry": "宠物用品",
+    "platform": "抖音",
+    "scene_type": "宠物美食",
+    "user_profile": {
+      "age": "31岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "宠物用品场景下的宠物美食需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物美食推荐",
+      "健康"
+    ],
+    "paired_skus": [
+      "宠物零食"
+    ],
+    "metrics": {
+      "views_est": 163777,
+      "engagement_rate": 0.048
+    },
+    "heat_score": 9.0,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_289",
+    "industry": "宠物用品",
+    "platform": "小红书",
+    "scene_type": "宠物玩具",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "宠物用品场景下的宠物玩具需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物玩具推荐",
+      "美食"
+    ],
+    "paired_skus": [
+      "猫砂"
+    ],
+    "metrics": {
+      "views_est": 52662,
+      "engagement_rate": 0.032
+    },
+    "heat_score": 7.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_290",
+    "industry": "宠物用品",
+    "platform": "微博",
+    "scene_type": "萌宠日常",
+    "user_profile": {
+      "age": "33岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "宠物用品场景下的萌宠日常需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "萌宠日常推荐",
+      "玩具"
+    ],
+    "paired_skus": [
+      "宠物玩具"
+    ],
+    "metrics": {
+      "views_est": 343574,
+      "engagement_rate": 0.038
+    },
+    "heat_score": 9.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_291",
+    "industry": "宠物用品",
+    "platform": "B站",
+    "scene_type": "宠物出行",
+    "user_profile": {
+      "age": "34岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "宠物用品场景下的宠物出行需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物出行推荐",
+      "日常"
+    ],
+    "paired_skus": [
+      "宠物窝"
+    ],
+    "metrics": {
+      "views_est": 398582,
+      "engagement_rate": 0.023
+    },
+    "heat_score": 6.7,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_292",
+    "industry": "宠物用品",
+    "platform": "快手",
+    "scene_type": "宠物日常",
+    "user_profile": {
+      "age": "35岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "宠物用品场景下的宠物日常需求",
+    "trigger_keywords": [
+      "宠物用品好物",
+      "宠物日常推荐",
+      "宠物"
+    ],
+    "paired_skus": [
+      "牵引绳"
+    ],
+    "metrics": {
+      "views_est": 164516,
+      "engagement_rate": 0.069
+    },
+    "heat_score": 7.1,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_293",
+    "industry": "健身运动",
+    "platform": "抖音",
+    "scene_type": "减脂塑形",
+    "user_profile": {
+      "age": "18-24",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "健身运动场景下的减脂塑形需求",
+    "trigger_keywords": [
+      "健身运动好物",
+      "减脂塑形推荐",
+      "健身"
+    ],
+    "paired_skus": [
+      "瑜伽垫"
+    ],
+    "metrics": {
+      "views_est": 157352,
+      "engagement_rate": 0.043
+    },
+    "heat_score": 7.5,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_294",
+    "industry": "健身运动",
+    "platform": "小红书",
+    "scene_type": "增肌训练",
+    "user_profile": {
+      "age": "25-34",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "健身运动场景下的增肌训练需求",
+    "trigger_keywords": [
+      "健身运动好物",
+      "增肌训练推荐",
+      "运动"
+    ],
+    "paired_skus": [
+      "哑铃"
+    ],
+    "metrics": {
+      "views_est": 449254,
+      "engagement_rate": 0.063
+    },
+    "heat_score": 6.8,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_295",
+    "industry": "健身运动",
+    "platform": "微博",
+    "scene_type": "运动装备",
+    "user_profile": {
+      "age": "35-44",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "健身运动场景下的运动装备需求",
+    "trigger_keywords": [
+      "健身运动好物",
+      "运动装备推荐",
+      "减脂"
+    ],
+    "paired_skus": [
+      "跳绳"
+    ],
+    "metrics": {
+      "views_est": 122543,
+      "engagement_rate": 0.038
+    },
+    "heat_score": 7.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_296",
+    "industry": "健身运动",
+    "platform": "B站",
+    "scene_type": "健身计划",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "健身运动场景下的健身计划需求",
+    "trigger_keywords": [
+      "健身运动好物",
+      "健身计划推荐",
+      "增肌"
+    ],
+    "paired_skus": [
+      "跑步机"
+    ],
+    "metrics": {
+      "views_est": 427638,
+      "engagement_rate": 0.063
+    },
+    "heat_score": 6.6,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_297",
+    "industry": "健身运动",
+    "platform": "快手",
+    "scene_type": "瑜伽练习",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "男",
+      "interest": "种草"
+    },
+    "scenario": "健身运动场景下的瑜伽练习需求",
+    "trigger_keywords": [
+      "健身运动好物",
+      "瑜伽练习推荐",
+      "打卡"
+    ],
+    "paired_skus": [
+      "健身服"
+    ],
+    "metrics": {
+      "views_est": 183113,
+      "engagement_rate": 0.035
+    },
+    "heat_score": 9.3,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_298",
+    "industry": "健身运动",
+    "platform": "视频号",
+    "scene_type": "跑步打卡",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "测评"
+    },
+    "scenario": "健身运动场景下的跑步打卡需求",
+    "trigger_keywords": [
+      "健身运动好物",
+      "跑步打卡推荐",
+      "训练"
+    ],
+    "paired_skus": [
+      "蛋白粉"
+    ],
+    "metrics": {
+      "views_est": 441756,
+      "engagement_rate": 0.025
+    },
+    "heat_score": 7.4,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_299",
+    "industry": "健身运动",
+    "platform": "抖音",
+    "scene_type": "居家健身",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "通用",
+      "interest": "教程"
+    },
+    "scenario": "健身运动场景下的居家健身需求",
+    "trigger_keywords": [
+      "健身运动好物",
+      "居家健身推荐",
+      "装备"
+    ],
+    "paired_skus": [
+      "运动鞋"
+    ],
+    "metrics": {
+      "views_est": 414278,
+      "engagement_rate": 0.078
+    },
+    "heat_score": 6.8,
+    "created": "2026-03-30"
+  },
+  {
+    "id": "scene_300",
+    "industry": "健身运动",
+    "platform": "小红书",
+    "scene_type": "运动饮食",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "好物分享"
+    },
+    "scenario": "健身运动场景下的运动饮食需求",
+    "trigger_keywords": [
+      "健身运动好物",
+      "运动饮食推荐",
+      "计划"
+    ],
+    "paired_skus": [
+      "运动手表"
+    ],
+    "metrics": {
+      "views_est": 160407,
+      "engagement_rate": 0.027
+    },
+    "heat_score": 9.0,
+    "created": "2026-03-30"
   }
 ]

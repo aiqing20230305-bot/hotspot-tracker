@@ -1,4462 +1,842 @@
 [
   {
-    "id": "荣耀_202603300006001",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ]
-    },
-    "title": "《创意借势视角：荣耀手机如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
+    "id": "荣耀_202603300111001",
+    "client": {"brand": "荣耀", "industry": "3C数码", "products": ["荣耀手机", "荣耀平板", "荣耀手表"]},
+    "title": "《创意借势视角：荣耀手机如何借势DeepSeek服务器故障热点打造稳定体验标杆》",
     "platform": "全平台",
     "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
+    "hot_topic": "DeepSeek服务器故障崩了登微博热搜第一",
     "heat": "热搜第一",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "荣耀手机",
-    "engagement_estimate": "35200+",
+    "engagement_estimate": "52000+",
     "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "荣耀_202603300006002",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ]
-    },
-    "title": "《趋势分析视角：荣耀平板如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
+    "id": "荣耀_202603300111002",
+    "client": {"brand": "荣耀", "industry": "3C数码", "products": ["荣耀手机", "荣耀平板", "荣耀手表"]},
+    "title": "《趋势分析视角：荣耀平板如何借势马云谈AI变革话题展现智能终端优势》",
     "platform": "全平台",
     "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "马云谈AI变革登抖音热搜榜第一",
+    "heat": "1190万+",
+    "trend": "🔥🔥🔥 爆发式增长",
     "product": "荣耀平板",
-    "engagement_estimate": "35400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "荣耀_202603300006003",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ]
-    },
-    "title": "《用户故事视角：荣耀手表如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "荣耀手表",
-    "engagement_estimate": "35600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "荣耀_202603300006004",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ]
-    },
-    "title": "《生活方式视角：荣耀手机如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "荣耀手机",
-    "engagement_estimate": "35800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "罗技_202603300006005",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《创意借势视角：罗技鼠标如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "罗技鼠标",
-    "engagement_estimate": "36000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "罗技_202603300006006",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《趋势分析视角：罗技键盘如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "罗技键盘",
-    "engagement_estimate": "36200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "罗技_202603300006007",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《用户故事视角：罗技耳机如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "罗技耳机",
-    "engagement_estimate": "36400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "罗技_202603300006008",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《生活方式视角：罗技鼠标如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "罗技鼠标",
-    "engagement_estimate": "36600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "小米_202603300006009",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ]
-    },
-    "title": "《创意借势视角：小米手机如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "小米手机",
-    "engagement_estimate": "36800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "小米_202603300006010",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ]
-    },
-    "title": "《趋势分析视角：小米平板如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "小米平板",
-    "engagement_estimate": "37000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "小米_202603300006011",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ]
-    },
-    "title": "《用户故事视角：小米手环如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "小米手环",
-    "engagement_estimate": "37200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "小米_202603300006012",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ]
-    },
-    "title": "《生活方式视角：小米手机如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "小米手机",
-    "engagement_estimate": "37400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "索尼_202603300006013",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《创意借势视角：索尼相机如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "索尼相机",
-    "engagement_estimate": "37600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "索尼_202603300006014",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《趋势分析视角：索尼耳机如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "索尼耳机",
-    "engagement_estimate": "37800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "索尼_202603300006015",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《用户故事视角：索尼游戏机如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "索尼游戏机",
-    "engagement_estimate": "38000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "索尼_202603300006016",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《生活方式视角：索尼相机如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "索尼相机",
-    "engagement_estimate": "38200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "AHC_202603300006017",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《创意借势视角：AHC面膜如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "AHC面膜",
-    "engagement_estimate": "38400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "AHC_202603300006018",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《趋势分析视角：AHC精华如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "AHC精华",
-    "engagement_estimate": "38600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "AHC_202603300006019",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《用户故事视角：AHC眼霜如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "AHC眼霜",
-    "engagement_estimate": "38800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "AHC_202603300006020",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《生活方式视角：AHC面膜如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "AHC面膜",
-    "engagement_estimate": "39000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "多芬_202603300006021",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ]
-    },
-    "title": "《创意借势视角：多芬洗面奶如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "多芬洗面奶",
-    "engagement_estimate": "39200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "多芬_202603300006022",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ]
-    },
-    "title": "《趋势分析视角：多芬护肤霜如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "多芬护肤霜",
-    "engagement_estimate": "39400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "多芬_202603300006023",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ]
-    },
-    "title": "《用户故事视角：多芬唇膏如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "多芬唇膏",
-    "engagement_estimate": "39600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "多芬_202603300006024",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ]
-    },
-    "title": "《生活方式视角：多芬洗面奶如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "多芬洗面奶",
-    "engagement_estimate": "39800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "力士_202603300006025",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ]
-    },
-    "title": "《创意借势视角：力士香皂如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "力士香皂",
-    "engagement_estimate": "40000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "力士_202603300006026",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ]
-    },
-    "title": "《趋势分析视角：力士沐浴露如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "力士沐浴露",
-    "engagement_estimate": "40200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "力士_202603300006027",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ]
-    },
-    "title": "《用户故事视角：力士护肤品如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "力士护肤品",
-    "engagement_estimate": "40400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "力士_202603300006028",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ]
-    },
-    "title": "《生活方式视角：力士香皂如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "力士香皂",
-    "engagement_estimate": "40600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "清扬_202603300006029",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ]
-    },
-    "title": "《创意借势视角：清扬洗发水如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "清扬洗发水",
-    "engagement_estimate": "40800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "清扬_202603300006030",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ]
-    },
-    "title": "《趋势分析视角：清扬护发素如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "清扬护发素",
-    "engagement_estimate": "41000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "清扬_202603300006031",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ]
-    },
-    "title": "《用户故事视角：清扬头皮护理如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "清扬头皮护理",
-    "engagement_estimate": "41200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "清扬_202603300006032",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ]
-    },
-    "title": "《生活方式视角：清扬洗发水如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "清扬洗发水",
-    "engagement_estimate": "41400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "玉兰油_202603300006033",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ]
-    },
-    "title": "《创意借势视角：玉兰油面霜如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "玉兰油面霜",
-    "engagement_estimate": "41600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "玉兰油_202603300006034",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ]
-    },
-    "title": "《趋势分析视角：玉兰油精油如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "玉兰油精油",
-    "engagement_estimate": "41800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "玉兰油_202603300006035",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ]
-    },
-    "title": "《用户故事视角：玉兰油眼霜如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "玉兰油眼霜",
-    "engagement_estimate": "42000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "玉兰油_202603300006036",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ]
-    },
-    "title": "《生活方式视角：玉兰油面霜如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "玉兰油面霜",
-    "engagement_estimate": "42200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "汤臣倍健_202603300006037",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ]
-    },
-    "title": "《创意借势视角：汤臣倍健维生素如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "汤臣倍健维生素",
-    "engagement_estimate": "42400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "汤臣倍健_202603300006038",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ]
-    },
-    "title": "《趋势分析视角：汤臣倍健钙片如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "汤臣倍健钙片",
-    "engagement_estimate": "42600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "汤臣倍健_202603300006039",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ]
-    },
-    "title": "《用户故事视角：汤臣倍健蛋白粉如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "汤臣倍健蛋白粉",
-    "engagement_estimate": "42800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "汤臣倍健_202603300006040",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ]
-    },
-    "title": "《生活方式视角：汤臣倍健维生素如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "汤臣倍健维生素",
-    "engagement_estimate": "43000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "善存_202603300006041",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ]
-    },
-    "title": "《创意借势视角：善存维生素如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "善存维生素",
-    "engagement_estimate": "43200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "善存_202603300006042",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ]
-    },
-    "title": "《趋势分析视角：善存矿物质如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "善存矿物质",
-    "engagement_estimate": "43400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "善存_202603300006043",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ]
-    },
-    "title": "《用户故事视角：善存复合营养如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "善存复合营养",
-    "engagement_estimate": "43600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "善存_202603300006044",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ]
-    },
-    "title": "《生活方式视角：善存维生素如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "善存维生素",
-    "engagement_estimate": "43800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "HC_202603300006045",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ]
-    },
-    "title": "《创意借势视角：HC面膜如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "HC面膜",
-    "engagement_estimate": "44000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "HC_202603300006046",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ]
-    },
-    "title": "《趋势分析视角：HC精华液如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "HC精华液",
-    "engagement_estimate": "44200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "HC_202603300006047",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ]
-    },
-    "title": "《用户故事视角：HC护肤套装如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "HC护肤套装",
-    "engagement_estimate": "44400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "HC_202603300006048",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ]
-    },
-    "title": "《生活方式视角：HC面膜如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "HC面膜",
-    "engagement_estimate": "44600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "威猛先生_202603300006049",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ]
-    },
-    "title": "《创意借势视角：威猛先生清洁剂如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "威猛先生清洁剂",
-    "engagement_estimate": "44800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "威猛先生_202603300006050",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ]
-    },
-    "title": "《趋势分析视角：威猛先生消毒液如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "威猛先生消毒液",
-    "engagement_estimate": "45000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "威猛先生_202603300006051",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ]
-    },
-    "title": "《用户故事视角：威猛先生洗涤剂如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "威猛先生洗涤剂",
-    "engagement_estimate": "45200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "威猛先生_202603300006052",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ]
-    },
-    "title": "《生活方式视角：威猛先生清洁剂如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "威猛先生清洁剂",
-    "engagement_estimate": "45400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "舒适_202603300006053",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ]
-    },
-    "title": "《创意借势视角：舒适纸巾如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "舒适纸巾",
-    "engagement_estimate": "45600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "舒适_202603300006054",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ]
-    },
-    "title": "《趋势分析视角：舒适卷纸如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "舒适卷纸",
-    "engagement_estimate": "45800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "舒适_202603300006055",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ]
-    },
-    "title": "《用户故事视角：舒适湿巾如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "舒适湿巾",
-    "engagement_estimate": "46000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "舒适_202603300006056",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ]
-    },
-    "title": "《生活方式视角：舒适纸巾如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "舒适纸巾",
-    "engagement_estimate": "46200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "希宝_202603300006057",
-    "client": {
-      "brand": "希宝",
-      "industry": "母婴",
-      "products": [
-        "希宝奶粉",
-        "希宝纸尿裤",
-        "希宝婴儿护肤"
-      ]
-    },
-    "title": "《创意借势视角：希宝奶粉如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "希宝奶粉",
-    "engagement_estimate": "46400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "希宝_202603300006058",
-    "client": {
-      "brand": "希宝",
-      "industry": "母婴",
-      "products": [
-        "希宝奶粉",
-        "希宝纸尿裤",
-        "希宝婴儿护肤"
-      ]
-    },
-    "title": "《趋势分析视角：希宝纸尿裤如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "希宝纸尿裤",
-    "engagement_estimate": "46600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "希宝_202603300006059",
-    "client": {
-      "brand": "希宝",
-      "industry": "母婴",
-      "products": [
-        "希宝奶粉",
-        "希宝纸尿裤",
-        "希宝婴儿护肤"
-      ]
-    },
-    "title": "《用户故事视角：希宝婴儿护肤如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "希宝婴儿护肤",
-    "engagement_estimate": "46800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "希宝_202603300006060",
-    "client": {
-      "brand": "希宝",
-      "industry": "母婴",
-      "products": [
-        "希宝奶粉",
-        "希宝纸尿裤",
-        "希宝婴儿护肤"
-      ]
-    },
-    "title": "《生活方式视角：希宝奶粉如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "希宝奶粉",
-    "engagement_estimate": "47000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "皇家_202603300006061",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物",
-      "products": [
-        "皇家狗粮",
-        "皇家猫粮",
-        "皇家宠物零食"
-      ]
-    },
-    "title": "《创意借势视角：皇家狗粮如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "皇家狗粮",
-    "engagement_estimate": "47200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "皇家_202603300006062",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物",
-      "products": [
-        "皇家狗粮",
-        "皇家猫粮",
-        "皇家宠物零食"
-      ]
-    },
-    "title": "《趋势分析视角：皇家猫粮如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "皇家猫粮",
-    "engagement_estimate": "47400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "皇家_202603300006063",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物",
-      "products": [
-        "皇家狗粮",
-        "皇家猫粮",
-        "皇家宠物零食"
-      ]
-    },
-    "title": "《用户故事视角：皇家宠物零食如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "皇家宠物零食",
-    "engagement_estimate": "47600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "皇家_202603300006064",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物",
-      "products": [
-        "皇家狗粮",
-        "皇家猫粮",
-        "皇家宠物零食"
-      ]
-    },
-    "title": "《生活方式视角：皇家狗粮如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "皇家狗粮",
-    "engagement_estimate": "47800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "OATLY_202603300006065",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品",
-      "products": [
-        "OATLY燕麦奶",
-        "OATLY冰淇淋",
-        "OATLY酸奶"
-      ]
-    },
-    "title": "《创意借势视角：OATLY燕麦奶如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "OATLY燕麦奶",
     "engagement_estimate": "48000+",
     "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "OATLY_202603300006066",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品",
-      "products": [
-        "OATLY燕麦奶",
-        "OATLY冰淇淋",
-        "OATLY酸奶"
-      ]
-    },
-    "title": "《趋势分析视角：OATLY冰淇淋如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
+    "id": "荣耀_202603300111003",
+    "client": {"brand": "荣耀", "industry": "3C数码", "products": ["荣耀手机", "荣耀平板", "荣耀手表"]},
+    "title": "《科技科普视角：荣耀手表如何借势苏翊鸣世界杯夺冠展现运动科技魅力》",
     "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "OATLY冰淇淋",
-    "engagement_estimate": "48200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "OATLY_202603300006067",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品",
-      "products": [
-        "OATLY燕麦奶",
-        "OATLY冰淇淋",
-        "OATLY酸奶"
-      ]
-    },
-    "title": "《用户故事视角：OATLY酸奶如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "OATLY酸奶",
-    "engagement_estimate": "48400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "OATLY_202603300006068",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品",
-      "products": [
-        "OATLY燕麦奶",
-        "OATLY冰淇淋",
-        "OATLY酸奶"
-      ]
-    },
-    "title": "《生活方式视角：OATLY燕麦奶如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "OATLY燕麦奶",
-    "engagement_estimate": "48600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "百威_202603300006069",
-    "client": {
-      "brand": "百威",
-      "industry": "饮品",
-      "products": [
-        "百威啤酒",
-        "百威无醇啤酒",
-        "百威精酿"
-      ]
-    },
-    "title": "《创意借势视角：百威啤酒如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
+    "angle": "科技科普",
+    "hot_topic": "苏翊鸣加冕单板滑雪世界杯坡障赛季总冠军",
+    "heat": "热搜前十",
     "trend": "🔥🔥🔥 爆发式增长",
-    "product": "百威啤酒",
-    "engagement_estimate": "48800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "百威_202603300006070",
-    "client": {
-      "brand": "百威",
-      "industry": "饮品",
-      "products": [
-        "百威啤酒",
-        "百威无醇啤酒",
-        "百威精酿"
-      ]
-    },
-    "title": "《趋势分析视角：百威无醇啤酒如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "百威无醇啤酒",
-    "engagement_estimate": "49000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "百威_202603300006071",
-    "client": {
-      "brand": "百威",
-      "industry": "饮品",
-      "products": [
-        "百威啤酒",
-        "百威无醇啤酒",
-        "百威精酿"
-      ]
-    },
-    "title": "《用户故事视角：百威精酿如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "百威精酿",
-    "engagement_estimate": "49200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "百威_202603300006072",
-    "client": {
-      "brand": "百威",
-      "industry": "饮品",
-      "products": [
-        "百威啤酒",
-        "百威无醇啤酒",
-        "百威精酿"
-      ]
-    },
-    "title": "《生活方式视角：百威啤酒如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "百威啤酒",
-    "engagement_estimate": "49400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "元气森林_202603300006073",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "元气森林气泡水",
-        "元气森林茶饮",
-        "元气森林果汁"
-      ]
-    },
-    "title": "《创意借势视角：元气森林气泡水如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "元气森林气泡水",
-    "engagement_estimate": "49600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "元气森林_202603300006074",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "元气森林气泡水",
-        "元气森林茶饮",
-        "元气森林果汁"
-      ]
-    },
-    "title": "《趋势分析视角：元气森林茶饮如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "元气森林茶饮",
-    "engagement_estimate": "49800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "元气森林_202603300006075",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "元气森林气泡水",
-        "元气森林茶饮",
-        "元气森林果汁"
-      ]
-    },
-    "title": "《用户故事视角：元气森林果汁如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "元气森林果汁",
-    "engagement_estimate": "50000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "元气森林_202603300006076",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "元气森林气泡水",
-        "元气森林茶饮",
-        "元气森林果汁"
-      ]
-    },
-    "title": "《生活方式视角：元气森林气泡水如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "元气森林气泡水",
-    "engagement_estimate": "50200+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "农夫山泉_202603300006077",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "农夫山泉矿泉水",
-        "农夫山泉茶饮",
-        "农夫山泉果汁"
-      ]
-    },
-    "title": "《创意借势视角：农夫山泉矿泉水如何借势DeepSeek疑似服务器故障崩了登微博热搜爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "DeepSeek疑似服务器故障崩了登微博热搜",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "农夫山泉矿泉水",
-    "engagement_estimate": "50400+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "农夫山泉_202603300006078",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "农夫山泉矿泉水",
-        "农夫山泉茶饮",
-        "农夫山泉果汁"
-      ]
-    },
-    "title": "《趋势分析视角：农夫山泉茶饮如何借势工信部明确推动AI手机普及 AI手机引领技术创新爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "工信部明确推动AI手机普及 AI手机引领技术创新",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "农夫山泉茶饮",
-    "engagement_estimate": "50600+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "农夫山泉_202603300006079",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "农夫山泉矿泉水",
-        "农夫山泉茶饮",
-        "农夫山泉果汁"
-      ]
-    },
-    "title": "《用户故事视角：农夫山泉果汁如何借势跟着人大代表来做操全身都通了爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "跟着人大代表来做操全身都通了",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "农夫山泉果汁",
-    "engagement_estimate": "50800+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "农夫山泉_202603300006080",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "农夫山泉矿泉水",
-        "农夫山泉茶饮",
-        "农夫山泉果汁"
-      ]
-    },
-    "title": "《生活方式视角：农夫山泉矿泉水如何借势专家建议建立新就业群体专项年金爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "专家建议建立新就业群体专项年金",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 稳步上升",
-    "product": "农夫山泉矿泉水",
-    "engagement_estimate": "51000+",
-    "status": "pending",
-    "created_at": "2026-03-30T00:06:00.000000"
-  },
-  {
-    "id": "3C数码_20260329163959_0_0",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ]
-    },
-    "title": "《创意借势视角：荣耀手机如何借势陈牧驰陈冰官宣结婚生子爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "荣耀手机",
-    "engagement_estimate": "40000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761169"
-  },
-  {
-    "id": "3C数码_20260329163959_0_1",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ]
-    },
-    "title": "《趋势分析视角：荣耀平板如何借势张子萱硬凹少女感翻车遭抵制爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "荣耀平板",
-    "engagement_estimate": "50000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761175"
-  },
-  {
-    "id": "3C数码_20260329163959_0_2",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ]
-    },
-    "title": "《用户故事视角：荣耀手表如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
     "product": "荣耀手表",
-    "engagement_estimate": "60000+",
+    "engagement_estimate": "55000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761179"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "3C数码_20260329163959_1_0",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《趋势分析视角：罗技鼠标如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "罗技_202603300111004",
+    "client": {"brand": "罗技", "industry": "3C数码", "products": ["罗技鼠标", "罗技键盘", "罗技耳机"]},
+    "title": "《产品评测视角：罗技鼠标如何借势夯爆了热词展现电竞装备顶流体验》",
     "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
+    "angle": "产品评测",
+    "hot_topic": "夯爆了成2026开年顶流热词",
+    "heat": "50亿+",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "罗技鼠标",
-    "engagement_estimate": "50000+",
+    "engagement_estimate": "46000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761182"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "3C数码_20260329163959_1_1",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《用户故事视角：罗技键盘如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "罗技_202603300111005",
+    "client": {"brand": "罗技", "industry": "3C数码", "products": ["罗技鼠标", "罗技键盘", "罗技耳机"]},
+    "title": "《创意借势视角：罗技耳机如何借势Daeny加入iG热点触达电竞用户》",
     "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "罗技键盘",
-    "engagement_estimate": "70000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761185"
-  },
-  {
-    "id": "3C数码_20260329163959_1_2",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《生活方式视角：罗技耳机如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
+    "angle": "创意借势",
+    "hot_topic": "Daeny回应加入iG登抖音热搜",
+    "heat": "1070万+",
+    "trend": "🔥🔥🔥 快速上升",
     "product": "罗技耳机",
-    "engagement_estimate": "90000+",
+    "engagement_estimate": "58000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761187"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "3C数码_20260329163959_2_0",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ]
-    },
-    "title": "《用户故事视角：小米手机如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "罗技_202603300111006",
+    "client": {"brand": "罗技", "industry": "3C数码", "products": ["罗技鼠标", "罗技键盘", "罗技耳机"]},
+    "title": "《用户故事视角：罗技键盘如何借势活人感热词展现真实办公体验》",
     "platform": "全平台",
     "angle": "用户故事",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "小米手机",
-    "engagement_estimate": "60000+",
+    "hot_topic": "活人感成2026网络热词真诚特质受追捧",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "罗技键盘",
+    "engagement_estimate": "42000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761190"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "3C数码_20260329163959_2_1",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ]
-    },
-    "title": "《生活方式视角：小米平板如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "小米_202603300111007",
+    "client": {"brand": "小米", "industry": "3C数码", "products": ["小米手机", "小米平板", "小米手环"]},
+    "title": "《趋势分析视角：小米手机如何借势AI助手普及率70%话题展现AI能力》",
     "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "小米平板",
-    "engagement_estimate": "90000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761192"
-  },
-  {
-    "id": "3C数码_20260329163959_2_2",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ]
-    },
-    "title": "《科技科普视角：小米手环如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
+    "angle": "趋势分析",
+    "hot_topic": "AI助手普及率突破70%成生活必需",
+    "heat": "高热",
     "trend": "🔥🔥🔥 持续上升",
-    "product": "小米手环",
-    "engagement_estimate": "120000+",
+    "product": "小米手机",
+    "engagement_estimate": "51000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761195"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "3C数码_20260329163959_3_0",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《生活方式视角：索尼相机如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "小米_202603300111008",
+    "client": {"brand": "小米", "industry": "3C数码", "products": ["小米手机", "小米平板", "小米手环"]},
+    "title": "《创意借势视角：小米手环如何借势苏翊鸣夺冠展现运动健康科技》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "苏翊鸣加冕单板滑雪世界杯坡障赛季总冠军",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米手环",
+    "engagement_estimate": "49000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "小米_202603300111009",
+    "client": {"brand": "小米", "industry": "3C数码", "products": ["小米手机", "小米平板", "小米手环"]},
+    "title": "《生活方式视角：小米平板如何借势春季踏青野餐热点打造出游神器》",
     "platform": "全平台",
     "angle": "生活方式",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "小米平板",
+    "engagement_estimate": "44000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "索尼_202603300111010",
+    "client": {"brand": "索尼", "industry": "3C数码", "products": ["索尼相机", "索尼耳机", "索尼游戏机"]},
+    "title": "《创意借势视角：索尼相机如何借势colorwalk色彩漫步热点展现影像魅力》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "索尼相机",
-    "engagement_estimate": "70000+",
+    "engagement_estimate": "56000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761197"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "3C数码_20260329163959_3_1",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《科技科普视角：索尼耳机如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "索尼_202603300111011",
+    "client": {"brand": "索尼", "industry": "3C数码", "products": ["索尼相机", "索尼耳机", "索尼游戏机"]},
+    "title": "《用户故事视角：索尼耳机如何借势雪山救狐刷屏热点展现创作力量》",
     "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "索尼耳机",
-    "engagement_estimate": "110000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761200"
-  },
-  {
-    "id": "3C数码_20260329163959_3_2",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《创意借势视角：索尼游戏机如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
+    "angle": "用户故事",
+    "hot_topic": "雪山救狐刷屏折射新大众文艺旺盛生命力",
     "heat": "热搜前三",
     "trend": "🔥🔥🔥 持续上升",
-    "product": "索尼游戏机",
-    "engagement_estimate": "150000+",
+    "product": "索尼耳机",
+    "engagement_estimate": "47000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761202"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "美妆_20260329163959_4_0",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《科技科普视角：AHC面膜如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "索尼_202603300111012",
+    "client": {"brand": "索尼", "industry": "3C数码", "products": ["索尼相机", "索尼耳机", "索尼游戏机"]},
+    "title": "《趋势分析视角：索尼游戏机如何借势吃谷二次元热点触达Z世代》",
     "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
+    "angle": "趋势分析",
+    "hot_topic": "吃谷成为二次元重要特殊语言登小红书热榜",
+    "heat": "12万+获赞",
+    "trend": "🔥🔥 持续上升",
+    "product": "索尼游戏机",
+    "engagement_estimate": "53000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "AHC_202603300111013",
+    "client": {"brand": "AHC", "industry": "美妆", "products": ["AHC面膜", "AHC精华", "AHC眼霜"]},
+    "title": "《创意借势视角：AHC面膜如何借势妆前双胞胎妆后您哪位热点展现变美魔力》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "妆前双胞胎妆后您哪位登抖音热点榜",
+    "heat": "1109万+",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "AHC面膜",
-    "engagement_estimate": "80000+",
+    "engagement_estimate": "61000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761205"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "美妆_20260329163959_4_1",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《创意借势视角：AHC精华如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "AHC_202603300111014",
+    "client": {"brand": "AHC", "industry": "美妆", "products": ["AHC面膜", "AHC精华", "AHC眼霜"]},
+    "title": "《趋势分析视角：AHC精华如何借势春季护肤销量激增200%话题展现换季刚需》",
     "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
+    "angle": "趋势分析",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "AHC精华",
-    "engagement_estimate": "130000+",
+    "engagement_estimate": "57000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761207"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "美妆_20260329163959_4_2",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《趋势分析视角：AHC眼霜如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "AHC眼霜",
-    "engagement_estimate": "180000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761209"
-  },
-  {
-    "id": "护肤_20260329163959_5_0",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ]
-    },
-    "title": "《创意借势视角：多芬洗面奶如何借势陈牧驰陈冰官宣结婚生子爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "多芬洗面奶",
-    "engagement_estimate": "90000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761212"
-  },
-  {
-    "id": "护肤_20260329163959_5_1",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ]
-    },
-    "title": "《趋势分析视角：多芬护肤霜如何借势张子萱硬凹少女感翻车遭抵制爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "多芬护肤霜",
-    "engagement_estimate": "150000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761214"
-  },
-  {
-    "id": "护肤_20260329163959_5_2",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ]
-    },
-    "title": "《用户故事视角：多芬唇膏如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "多芬唇膏",
-    "engagement_estimate": "210000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761217"
-  },
-  {
-    "id": "护肤_20260329163959_6_0",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ]
-    },
-    "title": "《趋势分析视角：力士香皂如何借势陈牧驰陈冰官宣结婚生子爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "力士香皂",
-    "engagement_estimate": "100000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761219"
-  },
-  {
-    "id": "护肤_20260329163959_6_1",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ]
-    },
-    "title": "《用户故事视角：力士沐浴露如何借势张子萱硬凹少女感翻车遭抵制爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "力士沐浴露",
-    "engagement_estimate": "170000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761221"
-  },
-  {
-    "id": "护肤_20260329163959_6_2",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ]
-    },
-    "title": "《生活方式视角：力士护肤品如何借势吴京记忆海绵脸引发健康担忧爆火》",
+    "id": "AHC_202603300111015",
+    "client": {"brand": "AHC", "industry": "美妆", "products": ["AHC面膜", "AHC精华", "AHC眼霜"]},
+    "title": "《生活方式视角：AHC眼霜如何借势《逐玉》10.2亿浏览量热点触达追剧用户》",
     "platform": "全平台",
     "angle": "生活方式",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "力士护肤品",
-    "engagement_estimate": "240000+",
+    "hot_topic": "《逐玉》浏览量10.2亿登小红书话题榜冠军",
+    "heat": "10.2亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC眼霜",
+    "engagement_estimate": "54000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761224"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "护肤_20260329163959_7_0",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ]
-    },
-    "title": "《用户故事视角：清扬洗发水如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "多芬_202603300111016",
+    "client": {"brand": "多芬", "industry": "护肤", "products": ["多芬洗面奶", "多芬护肤霜", "多芬唇膏"]},
+    "title": "《创意借势视角：多芬洗面奶如何借势活人感热词展现真实护肤理念》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "活人感成2026网络热词真诚特质受追捧",
+    "heat": "20亿+",
+    "trend": "🔥🔥 持续上升",
+    "product": "多芬洗面奶",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "多芬_202603300111017",
+    "client": {"brand": "多芬", "industry": "护肤", "products": ["多芬洗面奶", "多芬护肤霜", "多芬唇膏"]},
+    "title": "《趋势分析视角：多芬护肤霜如何借势春天需要一点粉彩热点展现春日护肤》",
+    "platform": "全平台",
+    "angle": "趋势分析",
+    "hot_topic": "春天需要一点粉彩登抖音热点榜",
+    "heat": "1047万+",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "多芬护肤霜",
+    "engagement_estimate": "43000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "多芬_202603300111018",
+    "client": {"brand": "多芬", "industry": "护肤", "products": ["多芬洗面奶", "多芬护肤霜", "多芬唇膏"]},
+    "title": "《用户故事视角：多芬唇膏如何借势《成何体统》9.1亿浏览量热点触达古偶用户》",
     "platform": "全平台",
     "angle": "用户故事",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
+    "hot_topic": "《成何体统》浏览量9.1亿登小红书话题榜",
+    "heat": "9.1亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬唇膏",
+    "engagement_estimate": "41000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "力士_202603300111019",
+    "client": {"brand": "力士", "industry": "护肤", "products": ["力士香皂", "力士沐浴露", "力士护肤品"]},
+    "title": "《创意借势视角：力士沐浴露如何借势春季踏青野餐热点展现出游必备》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "力士沐浴露",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "力士_202603300111020",
+    "client": {"brand": "力士", "industry": "护肤", "products": ["力士香皂", "力士沐浴露", "力士护肤品"]},
+    "title": "《趋势分析视角：力士香皂如何借势夯爆了热词展现洗护顶流体验》",
+    "platform": "全平台",
+    "angle": "趋势分析",
+    "hot_topic": "夯爆了成2026开年顶流热词",
+    "heat": "50亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士香皂",
+    "engagement_estimate": "36000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "力士_202603300111021",
+    "client": {"brand": "力士", "industry": "护肤", "products": ["力士香皂", "力士沐浴露", "力士护肤品"]},
+    "title": "《生活方式视角：力士护肤品如何借势这届年轻人用心生活热点展现精致生活》",
+    "platform": "全平台",
+    "angle": "生活方式",
+    "hot_topic": "这届年轻人真的在用心生活",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥",
+    "product": "力士护肤品",
+    "engagement_estimate": "34000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "清扬_202603300111022",
+    "client": {"brand": "清扬", "industry": "护肤", "products": ["清扬洗发水", "清扬护发素", "清扬头皮护理"]},
+    "title": "《创意借势视角：清扬洗发水如何借势今年蚊子史诗级加强热点展现清爽防汗》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "今年蚊子可能迎来史诗级加强",
     "heat": "热搜第一",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "清扬洗发水",
-    "engagement_estimate": "110000+",
+    "engagement_estimate": "39000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761226"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "护肤_20260329163959_7_1",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ]
-    },
-    "title": "《生活方式视角：清扬护发素如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "清扬_202603300111023",
+    "client": {"brand": "清扬", "industry": "护肤", "products": ["清扬洗发水", "清扬护发素", "清扬头皮护理"]},
+    "title": "《趋势分析视角：清扬护发素如何借势春季护肤销量激增话题展现春日护发》",
     "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
+    "angle": "趋势分析",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "清扬护发素",
-    "engagement_estimate": "190000+",
+    "engagement_estimate": "37000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761228"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "护肤_20260329163959_7_2",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ]
-    },
-    "title": "《科技科普视角：清扬头皮护理如何借势吴京记忆海绵脸引发健康担忧爆火》",
+    "id": "清扬_202603300111024",
+    "client": {"brand": "清扬", "industry": "护肤", "products": ["清扬洗发水", "清扬护发素", "清扬头皮护理"]},
+    "title": "《用户故事视角：清扬头皮护理如何借势回南天除湿攻略热点展现清爽体验》",
     "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
+    "angle": "用户故事",
+    "hot_topic": "回南天除湿攻略全网刷屏",
+    "heat": "110万+",
+    "trend": "🔥🔥🔥",
     "product": "清扬头皮护理",
-    "engagement_estimate": "270000+",
+    "engagement_estimate": "35000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761231"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "美妆_20260329163959_8_0",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ]
-    },
-    "title": "《生活方式视角：玉兰油面霜如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "玉兰油_202603300111025",
+    "client": {"brand": "玉兰油", "industry": "美妆", "products": ["玉兰油面霜", "玉兰油精油", "玉兰油眼霜"]},
+    "title": "《创意借势视角：玉兰油面霜如何借势妆前双胞胎妆后热点展现变美奇迹》",
     "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
+    "angle": "创意借势",
+    "hot_topic": "妆前双胞胎妆后您哪位登抖音热点榜",
+    "heat": "1109万+",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "玉兰油面霜",
-    "engagement_estimate": "120000+",
+    "engagement_estimate": "62000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761233"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "美妆_20260329163959_8_1",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ]
-    },
-    "title": "《科技科普视角：玉兰油精油如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "玉兰油_202603300111026",
+    "client": {"brand": "玉兰油", "industry": "美妆", "products": ["玉兰油面霜", "玉兰油精油", "玉兰油眼霜"]},
+    "title": "《趋势分析视角：玉兰油精油如何借势春季护肤销量激增话题展现换季护肤刚需》",
     "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
+    "angle": "趋势分析",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "玉兰油精油",
-    "engagement_estimate": "210000+",
+    "engagement_estimate": "58000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761236"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "美妆_20260329163959_8_2",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ]
-    },
-    "title": "《创意借势视角：玉兰油眼霜如何借势吴京记忆海绵脸引发健康担忧爆火》",
+    "id": "玉兰油_202603300111027",
+    "client": {"brand": "玉兰油", "industry": "美妆", "products": ["玉兰油面霜", "玉兰油精油", "玉兰油眼霜"]},
+    "title": "《生活方式视角：玉兰油眼霜如何借势《纯真年代的爱情》9.6亿浏览量热点触达年代剧用户》",
     "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
+    "angle": "生活方式",
+    "hot_topic": "《纯真年代的爱情》浏览量9.6亿成小红书热门",
+    "heat": "9.6亿+",
     "trend": "🔥🔥🔥 持续上升",
     "product": "玉兰油眼霜",
-    "engagement_estimate": "300000+",
+    "engagement_estimate": "55000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761238"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "保健_20260329163959_9_0",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ]
-    },
-    "title": "《科技科普视角：汤臣倍健维生素如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "汤臣倍健_202603300111028",
+    "client": {"brand": "汤臣倍健", "industry": "保健", "products": ["汤臣倍健维生素", "汤臣倍健钙片", "汤臣倍健蛋白粉"]},
+    "title": "《创意借势视角：汤臣倍健维生素如何借势苏翊鸣夺冠热点展现运动营养支持》",
     "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
+    "angle": "创意借势",
+    "hot_topic": "苏翊鸣加冕单板滑雪世界杯坡障赛季总冠军",
+    "heat": "热搜前十",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "汤臣倍健维生素",
-    "engagement_estimate": "130000+",
+    "engagement_estimate": "48000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761241"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "保健_20260329163959_9_1",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ]
-    },
-    "title": "《创意借势视角：汤臣倍健钙片如何借势张子萱硬凹少女感翻车遭抵制爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "汤臣倍健钙片",
-    "engagement_estimate": "230000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761243"
-  },
-  {
-    "id": "保健_20260329163959_9_2",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ]
-    },
-    "title": "《趋势分析视角：汤臣倍健蛋白粉如何借势吴京记忆海绵脸引发健康担忧爆火》",
+    "id": "汤臣倍健_202603300111029",
+    "client": {"brand": "汤臣倍健", "industry": "保健", "products": ["汤臣倍健维生素", "汤臣倍健钙片", "汤臣倍健蛋白粉"]},
+    "title": "《趋势分析视角：汤臣倍健钙片如何借势春季减肥黄金期话题展现健康减重支持》",
     "platform": "全平台",
     "angle": "趋势分析",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
+    "hot_topic": "春季减肥黄金期来了",
+    "heat": "高热",
     "trend": "🔥🔥🔥 持续上升",
-    "product": "汤臣倍健蛋白粉",
-    "engagement_estimate": "330000+",
+    "product": "汤臣倍健钙片",
+    "engagement_estimate": "46000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761245"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "保健_20260329163959_10_0",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ]
-    },
-    "title": "《创意借势视角：善存维生素如何借势陈牧驰陈冰官宣结婚生子爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "善存维生素",
-    "engagement_estimate": "140000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761248"
-  },
-  {
-    "id": "保健_20260329163959_10_1",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ]
-    },
-    "title": "《趋势分析视角：善存矿物质如何借势张子萱硬凹少女感翻车遭抵制爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "善存矿物质",
-    "engagement_estimate": "250000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761250"
-  },
-  {
-    "id": "保健_20260329163959_10_2",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ]
-    },
-    "title": "《用户故事视角：善存复合营养如何借势吴京记忆海绵脸引发健康担忧爆火》",
+    "id": "汤臣倍健_202603300111030",
+    "client": {"brand": "汤臣倍健", "industry": "保健", "products": ["汤臣倍健维生素", "汤臣倍健钙片", "汤臣倍健蛋白粉"]},
+    "title": "《用户故事视角：汤臣倍健蛋白粉如何借势上海交大毕业典礼热点触达高知人群》",
     "platform": "全平台",
     "angle": "用户故事",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "善存复合营养",
-    "engagement_estimate": "360000+",
+    "hot_topic": "上海交大举行2026年研究生毕业典礼",
+    "heat": "热搜前十",
+    "trend": "🔥🔥 持续上升",
+    "product": "汤臣倍健蛋白粉",
+    "engagement_estimate": "44000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761252"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "护肤_20260329163959_11_0",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ]
-    },
-    "title": "《趋势分析视角：HC面膜如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "善存_202603300111031",
+    "client": {"brand": "善存", "industry": "保健", "products": ["善存维生素", "善存矿物质", "善存复合营养"]},
+    "title": "《创意借势视角：善存维生素如何借势乒乓球世界杯热点展现运动营养支持》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "国际乒联单打世界杯开赛王楚钦孙颖莎参赛",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "善存维生素",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "善存_202603300111032",
+    "client": {"brand": "善存", "industry": "保健", "products": ["善存维生素", "善存矿物质", "善存复合营养"]},
+    "title": "《趋势分析视角：善存矿物质如何借势泰康养老金融热搜话题触达中老年人群》",
     "platform": "全平台",
     "angle": "趋势分析",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
+    "hot_topic": "泰康步步高E款登抖音热搜养老金融受关注",
+    "heat": "热搜榜",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存矿物质",
+    "engagement_estimate": "40000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "善存_202603300111033",
+    "client": {"brand": "善存", "industry": "保健", "products": ["善存维生素", "善存矿物质", "善存复合营养"]},
+    "title": "《生活方式视角：善存复合营养如何借势跟着人大代表做操热点展现健康生活》",
+    "platform": "全平台",
+    "angle": "生活方式",
+    "hot_topic": "跟着人大代表来做操全身都通了",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存复合营养",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "HC_202603300111034",
+    "client": {"brand": "HC", "industry": "护肤", "products": ["HC面膜", "HC精华液", "HC护肤套装"]},
+    "title": "《创意借势视角：HC面膜如何借势妆前双胞胎妆后热点展现护肤变美效果》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "妆前双胞胎妆后您哪位登抖音热点榜",
+    "heat": "1109万+",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "HC面膜",
-    "engagement_estimate": "150000+",
+    "engagement_estimate": "36000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761257"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "护肤_20260329163959_11_1",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ]
-    },
-    "title": "《用户故事视角：HC精华液如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "HC_202603300111035",
+    "client": {"brand": "HC", "industry": "护肤", "products": ["HC面膜", "HC精华液", "HC护肤套装"]},
+    "title": "《趋势分析视角：HC精华液如何借势春季护肤销量激增话题展现换季护肤优势》",
     "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
+    "angle": "趋势分析",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "HC精华液",
-    "engagement_estimate": "270000+",
+    "engagement_estimate": "34000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761259"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "护肤_20260329163959_11_2",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ]
-    },
-    "title": "《生活方式视角：HC护肤套装如何借势吴京记忆海绵脸引发健康担忧爆火》",
+    "id": "HC_202603300111036",
+    "client": {"brand": "HC", "industry": "护肤", "products": ["HC面膜", "HC精华液", "HC护肤套装"]},
+    "title": "《用户故事视角：HC护肤套装如何借势回南天除湿攻略热点展现清爽护肤体验》",
     "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
+    "angle": "用户故事",
+    "hot_topic": "回南天除湿攻略全网刷屏",
+    "heat": "110万+",
+    "trend": "🔥🔥🔥",
     "product": "HC护肤套装",
-    "engagement_estimate": "390000+",
+    "engagement_estimate": "32000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761261"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "清洁_20260329163959_12_0",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ]
-    },
-    "title": "《用户故事视角：威猛先生清洁剂如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "威猛先生_202603300111037",
+    "client": {"brand": "威猛先生", "industry": "清洁", "products": ["威猛先生清洁剂", "威猛先生消毒液", "威猛先生洗涤剂"]},
+    "title": "《创意借势视角：威猛先生清洁剂如何借势回南天除湿攻略热点展现清洁除湿效果》",
     "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
+    "angle": "创意借势",
+    "hot_topic": "回南天除湿攻略全网刷屏",
+    "heat": "110万+",
+    "trend": "🔥🔥🔥",
     "product": "威猛先生清洁剂",
-    "engagement_estimate": "160000+",
+    "engagement_estimate": "33000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761264"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "清洁_20260329163959_12_1",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ]
-    },
-    "title": "《生活方式视角：威猛先生消毒液如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "威猛先生_202603300111038",
+    "client": {"brand": "威猛先生", "industry": "清洁", "products": ["威猛先生清洁剂", "威猛先生消毒液", "威猛先生洗涤剂"]},
+    "title": "《趋势分析视角：威猛先生消毒液如何借势春季踏青野餐热点展现出游清洁必备》",
     "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
+    "angle": "趋势分析",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
     "product": "威猛先生消毒液",
-    "engagement_estimate": "290000+",
+    "engagement_estimate": "31000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761266"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "清洁_20260329163959_12_2",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ]
-    },
-    "title": "《科技科普视角：威猛先生洗涤剂如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "威猛先生洗涤剂",
-    "engagement_estimate": "420000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761268"
-  },
-  {
-    "id": "日用_20260329163959_13_0",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ]
-    },
-    "title": "《生活方式视角：舒适纸巾如何借势陈牧驰陈冰官宣结婚生子爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "舒适纸巾",
-    "engagement_estimate": "170000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761271"
-  },
-  {
-    "id": "日用_20260329163959_13_1",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ]
-    },
-    "title": "《科技科普视角：舒适卷纸如何借势张子萱硬凹少女感翻车遭抵制爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "舒适卷纸",
-    "engagement_estimate": "310000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761273"
-  },
-  {
-    "id": "日用_20260329163959_13_2",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ]
-    },
-    "title": "《创意借势视角：舒适湿巾如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "舒适湿巾",
-    "engagement_estimate": "450000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761276"
-  },
-  {
-    "id": "母婴_20260329163959_14_0",
-    "client": {
-      "brand": "希宝",
-      "industry": "母婴",
-      "products": [
-        "希宝奶粉",
-        "希宝纸尿裤",
-        "希宝婴儿护肤"
-      ]
-    },
-    "title": "《科技科普视角：希宝奶粉如何借势陈牧驰陈冰官宣结婚生子爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "希宝奶粉",
-    "engagement_estimate": "180000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761278"
-  },
-  {
-    "id": "母婴_20260329163959_14_1",
-    "client": {
-      "brand": "希宝",
-      "industry": "母婴",
-      "products": [
-        "希宝奶粉",
-        "希宝纸尿裤",
-        "希宝婴儿护肤"
-      ]
-    },
-    "title": "《创意借势视角：希宝纸尿裤如何借势张子萱硬凹少女感翻车遭抵制爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "希宝纸尿裤",
-    "engagement_estimate": "330000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761280"
-  },
-  {
-    "id": "母婴_20260329163959_14_2",
-    "client": {
-      "brand": "希宝",
-      "industry": "母婴",
-      "products": [
-        "希宝奶粉",
-        "希宝纸尿裤",
-        "希宝婴儿护肤"
-      ]
-    },
-    "title": "《趋势分析视角：希宝婴儿护肤如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "希宝婴儿护肤",
-    "engagement_estimate": "480000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761284"
-  },
-  {
-    "id": "宠物_20260329163959_15_0",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物",
-      "products": [
-        "皇家狗粮",
-        "皇家猫粮",
-        "皇家宠物零食"
-      ]
-    },
-    "title": "《创意借势视角：皇家狗粮如何借势陈牧驰陈冰官宣结婚生子爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "皇家狗粮",
-    "engagement_estimate": "190000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761287"
-  },
-  {
-    "id": "宠物_20260329163959_15_1",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物",
-      "products": [
-        "皇家狗粮",
-        "皇家猫粮",
-        "皇家宠物零食"
-      ]
-    },
-    "title": "《趋势分析视角：皇家猫粮如何借势张子萱硬凹少女感翻车遭抵制爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "皇家猫粮",
-    "engagement_estimate": "350000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761289"
-  },
-  {
-    "id": "宠物_20260329163959_15_2",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物",
-      "products": [
-        "皇家狗粮",
-        "皇家猫粮",
-        "皇家宠物零食"
-      ]
-    },
-    "title": "《用户故事视角：皇家宠物零食如何借势吴京记忆海绵脸引发健康担忧爆火》",
+    "id": "威猛先生_202603300111039",
+    "client": {"brand": "威猛先生", "industry": "清洁", "products": ["威猛先生清洁剂", "威猛先生消毒液", "威猛先生洗涤剂"]},
+    "title": "《用户故事视角：威猛先生洗涤剂如何借势今年蚊子史诗级加强热点展现清洁驱蚊效果》",
     "platform": "全平台",
     "angle": "用户故事",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
+    "hot_topic": "今年蚊子可能迎来史诗级加强",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生洗涤剂",
+    "engagement_estimate": "29000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "舒适_202603300111040",
+    "client": {"brand": "舒适", "industry": "日用", "products": ["舒适纸巾", "舒适卷纸", "舒适湿巾"]},
+    "title": "《创意借势视角：舒适纸巾如何借势春季踏青野餐热点展现出游必备》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "舒适纸巾",
+    "engagement_estimate": "28000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "舒适_202603300111041",
+    "client": {"brand": "舒适", "industry": "日用", "products": ["舒适纸巾", "舒适卷纸", "舒适湿巾"]},
+    "title": "《趋势分析视角：舒适湿巾如何借势colorwalk色彩漫步热点展现出游携带便利》",
+    "platform": "全平台",
+    "angle": "趋势分析",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适湿巾",
+    "engagement_estimate": "26000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "舒适_202603300111042",
+    "client": {"brand": "舒适", "industry": "日用", "products": ["舒适纸巾", "舒适卷纸", "舒适湿巾"]},
+    "title": "《用户故事视角：舒适卷纸如何借势这届年轻人用心生活热点展现品质生活》",
+    "platform": "全平台",
+    "angle": "用户故事",
+    "hot_topic": "这届年轻人真的在用心生活",
+    "heat": "50万+",
+    "trend": "🔥🔥🔥",
+    "product": "舒适卷纸",
+    "engagement_estimate": "24000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "希宝_202603300111043",
+    "client": {"brand": "希宝", "industry": "母婴", "products": ["希宝奶粉", "希宝纸尿裤", "希宝婴儿护肤"]},
+    "title": "《创意借势视角：希宝奶粉如何借势《纯真年代的爱情》热点触达宝妈人群》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "《纯真年代的爱情》浏览量9.6亿成小红书热门",
+    "heat": "9.6亿+",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "希宝奶粉",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "希宝_202603300111044",
+    "client": {"brand": "希宝", "industry": "母婴", "products": ["希宝奶粉", "希宝纸尿裤", "希宝婴儿护肤"]},
+    "title": "《趋势分析视角：希宝纸尿裤如何借势春季踏青野餐热点展现带娃出游必备》",
+    "platform": "全平台",
+    "angle": "趋势分析",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "希宝纸尿裤",
+    "engagement_estimate": "30000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "希宝_202603300111045",
+    "client": {"brand": "希宝", "industry": "母婴", "products": ["希宝奶粉", "希宝纸尿裤", "希宝婴儿护肤"]},
+    "title": "《生活方式视角：希宝婴儿护肤如何借势春季护肤销量激增话题展现宝宝护肤刚需》",
+    "platform": "全平台",
+    "angle": "生活方式",
+    "hot_topic": "春季护肤产品销量激增200%",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝婴儿护肤",
+    "engagement_estimate": "28000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "皇家_202603300111046",
+    "client": {"brand": "皇家", "industry": "宠物", "products": ["皇家狗粮", "皇家猫粮", "皇家宠物零食"]},
+    "title": "《创意借势视角：皇家狗粮如何借势世界宠物博览会热点展现专业宠物营养》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "世界宠物博览会南京开幕",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "皇家狗粮",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "皇家_202603300111047",
+    "client": {"brand": "皇家", "industry": "宠物", "products": ["皇家狗粮", "皇家猫粮", "皇家宠物零食"]},
+    "title": "《趋势分析视角：皇家猫粮如何借势宠物用品红黑榜热点展现品质口碑》",
+    "platform": "全平台",
+    "angle": "趋势分析",
+    "hot_topic": "宠物用品红黑榜成消费热点",
+    "heat": "547万+",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "皇家猫粮",
+    "engagement_estimate": "33000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "皇家_202603300111048",
+    "client": {"brand": "皇家", "industry": "宠物", "products": ["皇家狗粮", "皇家猫粮", "皇家宠物零食"]},
+    "title": "《用户故事视角：皇家宠物零食如何借势春季踏青野餐热点展现带宠出游必备》",
+    "platform": "全平台",
+    "angle": "用户故事",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
     "trend": "🔥🔥🔥 持续上升",
     "product": "皇家宠物零食",
-    "engagement_estimate": "510000+",
+    "engagement_estimate": "31000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761292"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "食品_20260329163959_16_0",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品",
-      "products": [
-        "OATLY燕麦奶",
-        "OATLY冰淇淋",
-        "OATLY酸奶"
-      ]
-    },
-    "title": "《趋势分析视角：OATLY燕麦奶如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "OATLY_202603300111049",
+    "client": {"brand": "OATLY", "industry": "食品", "products": ["OATLY燕麦奶", "OATLY冰淇淋", "OATLY酸奶"]},
+    "title": "《创意借势视角：OATLY燕麦奶如何借势春季踏青野餐热点展现健康饮品选择》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "41000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "OATLY_202603300111050",
+    "client": {"brand": "OATLY", "industry": "食品", "products": ["OATLY燕麦奶", "OATLY冰淇淋", "OATLY酸奶"]},
+    "title": "《趋势分析视角：OATLY酸奶如何借势春季减肥黄金期话题展现健康减脂饮品》",
     "platform": "全平台",
     "angle": "趋势分析",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "OATLY燕麦奶",
-    "engagement_estimate": "200000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761294"
-  },
-  {
-    "id": "食品_20260329163959_16_1",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品",
-      "products": [
-        "OATLY燕麦奶",
-        "OATLY冰淇淋",
-        "OATLY酸奶"
-      ]
-    },
-    "title": "《用户故事视角：OATLY冰淇淋如何借势张子萱硬凹少女感翻车遭抵制爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "OATLY冰淇淋",
-    "engagement_estimate": "370000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761297"
-  },
-  {
-    "id": "食品_20260329163959_16_2",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品",
-      "products": [
-        "OATLY燕麦奶",
-        "OATLY冰淇淋",
-        "OATLY酸奶"
-      ]
-    },
-    "title": "《生活方式视角：OATLY酸奶如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
+    "hot_topic": "春季减肥黄金期来了",
+    "heat": "高热",
     "trend": "🔥🔥🔥 持续上升",
     "product": "OATLY酸奶",
-    "engagement_estimate": "540000+",
+    "engagement_estimate": "39000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761299"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "饮品_20260329163959_17_0",
-    "client": {
-      "brand": "百威",
-      "industry": "饮品",
-      "products": [
-        "百威啤酒",
-        "百威无醇啤酒",
-        "百威精酿"
-      ]
-    },
-    "title": "《用户故事视角：百威啤酒如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "OATLY_202603300111051",
+    "client": {"brand": "OATLY", "industry": "食品", "products": ["OATLY燕麦奶", "OATLY冰淇淋", "OATLY酸奶"]},
+    "title": "《生活方式视角：OATLY冰淇淋如何借势colorwalk色彩漫步热点展现春日出游美味》",
     "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
+    "angle": "生活方式",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY冰淇淋",
+    "engagement_estimate": "37000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "百威_202603300111052",
+    "client": {"brand": "百威", "industry": "饮品", "products": ["百威啤酒", "百威无醇啤酒", "百威精酿"]},
+    "title": "《创意借势视角：百威啤酒如何借势热刺3:4切尔西热点触达英超球迷》",
+    "platform": "全平台",
+    "angle": "创意借势",
+    "hot_topic": "热刺3:4切尔西登抖音热搜",
+    "heat": "高热",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "百威啤酒",
-    "engagement_estimate": "210000+",
+    "engagement_estimate": "45000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761301"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "饮品_20260329163959_17_1",
-    "client": {
-      "brand": "百威",
-      "industry": "饮品",
-      "products": [
-        "百威啤酒",
-        "百威无醇啤酒",
-        "百威精酿"
-      ]
-    },
-    "title": "《生活方式视角：百威无醇啤酒如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "百威_202603300111053",
+    "client": {"brand": "百威", "industry": "饮品", "products": ["百威啤酒", "百威无醇啤酒", "百威精酿"]},
+    "title": "《趋势分析视角：百威精酿如何借势春季踏青野餐热点展现户外聚会饮品》",
     "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "百威无醇啤酒",
-    "engagement_estimate": "390000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761304"
-  },
-  {
-    "id": "饮品_20260329163959_17_2",
-    "client": {
-      "brand": "百威",
-      "industry": "饮品",
-      "products": [
-        "百威啤酒",
-        "百威无醇啤酒",
-        "百威精酿"
-      ]
-    },
-    "title": "《科技科普视角：百威精酿如何借势吴京记忆海绵脸引发健康担忧爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
+    "angle": "趋势分析",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
     "trend": "🔥🔥🔥 持续上升",
     "product": "百威精酿",
-    "engagement_estimate": "570000+",
+    "engagement_estimate": "43000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761306"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "饮品_20260329163959_18_0",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "元气森林气泡水",
-        "元气森林茶饮",
-        "元气森林果汁"
-      ]
-    },
-    "title": "《生活方式视角：元气森林气泡水如何借势陈牧驰陈冰官宣结婚生子爆火》",
+    "id": "百威_202603300111054",
+    "client": {"brand": "百威", "industry": "饮品", "products": ["百威啤酒", "百威无醇啤酒", "百威精酿"]},
+    "title": "《用户故事视角：百威无醇啤酒如何借势国足2:0胜利热点展现观赛饮品选择》",
     "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
+    "angle": "用户故事",
+    "hot_topic": "国足2:0库拉索登抖音热搜榜",
+    "heat": "1110万+",
     "trend": "🔥🔥🔥 爆发式增长",
-    "product": "元气森林气泡水",
-    "engagement_estimate": "220000+",
+    "product": "百威无醇啤酒",
+    "engagement_estimate": "41000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761309"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "饮品_20260329163959_18_1",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "元气森林气泡水",
-        "元气森林茶饮",
-        "元气森林果汁"
-      ]
-    },
-    "title": "《科技科普视角：元气森林茶饮如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "元气森林_202603300111055",
+    "client": {"brand": "元气森林", "industry": "饮品", "products": ["元气森林气泡水", "元气森林茶饮", "元气森林果汁"]},
+    "title": "《创意借势视角：元气森林气泡水如何借势春季踏青野餐热点展现健康出游饮品》",
     "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
+    "angle": "创意借势",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "47000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "元气森林_202603300111056",
+    "client": {"brand": "元气森林", "industry": "饮品", "products": ["元气森林气泡水", "元气森林茶饮", "元气森林果汁"]},
+    "title": "《趋势分析视角：元气森林茶饮如何借势清明假期出行预订热点展现旅途饮品》",
+    "platform": "全平台",
+    "angle": "趋势分析",
+    "hot_topic": "清明节假期出行预订量创历史新高",
+    "heat": "热搜前十",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "元气森林茶饮",
-    "engagement_estimate": "410000+",
+    "engagement_estimate": "45000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761311"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "饮品_20260329163959_18_2",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "元气森林气泡水",
-        "元气森林茶饮",
-        "元气森林果汁"
-      ]
-    },
-    "title": "《创意借势视角：元气森林果汁如何借势吴京记忆海绵脸引发健康担忧爆火》",
+    "id": "元气森林_202603300111057",
+    "client": {"brand": "元气森林", "industry": "饮品", "products": ["元气森林气泡水", "元气森林茶饮", "元气森林果汁"]},
+    "title": "《生活方式视角：元气森林果汁如何借势苏翊鸣夺冠热点展现运动健康饮品》",
+    "platform": "全平台",
+    "angle": "生活方式",
+    "hot_topic": "苏翊鸣加冕单板滑雪世界杯坡障赛季总冠军",
+    "heat": "热搜前十",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林果汁",
+    "engagement_estimate": "43000+",
+    "status": "pending",
+    "created_at": "2026-03-30T01:11:00.000000"
+  },
+  {
+    "id": "农夫山泉_202603300111058",
+    "client": {"brand": "农夫山泉", "industry": "饮品", "products": ["农夫山泉矿泉水", "农夫山泉茶饮", "农夫山泉果汁"]},
+    "title": "《创意借势视角：农夫山泉矿泉水如何借势colorwalk色彩漫步热点展现出游必备》",
     "platform": "全平台",
     "angle": "创意借势",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "元气森林果汁",
-    "engagement_estimate": "600000+",
-    "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761313"
-  },
-  {
-    "id": "饮品_20260329163959_19_0",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "农夫山泉矿泉水",
-        "农夫山泉茶饮",
-        "农夫山泉果汁"
-      ]
-    },
-    "title": "《科技科普视角：农夫山泉矿泉水如何借势陈牧驰陈冰官宣结婚生子爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "陈牧驰陈冰官宣结婚生子",
-    "heat": "热搜第一",
+    "hot_topic": "colorwalk色彩漫步成春季出游顶流",
+    "heat": "4.63亿+",
     "trend": "🔥🔥🔥 爆发式增长",
     "product": "农夫山泉矿泉水",
-    "engagement_estimate": "230000+",
+    "engagement_estimate": "49000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761316"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "饮品_20260329163959_19_1",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "农夫山泉矿泉水",
-        "农夫山泉茶饮",
-        "农夫山泉果汁"
-      ]
-    },
-    "title": "《创意借势视角：农夫山泉茶饮如何借势张子萱硬凹少女感翻车遭抵制爆火》",
+    "id": "农夫山泉_202603300111059",
+    "client": {"brand": "农夫山泉", "industry": "饮品", "products": ["农夫山泉矿泉水", "农夫山泉茶饮", "农夫山泉果汁"]},
+    "title": "《趋势分析视角：农夫山泉茶饮如何借势春季踏青野餐热点展现健康饮品选择》",
     "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "张子萱硬凹少女感翻车遭抵制",
-    "heat": "2亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
+    "angle": "趋势分析",
+    "hot_topic": "春季踏青野餐成顶流",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 持续上升",
     "product": "农夫山泉茶饮",
-    "engagement_estimate": "430000+",
+    "engagement_estimate": "47000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761318"
+    "created_at": "2026-03-30T01:11:00.000000"
   },
   {
-    "id": "饮品_20260329163959_19_2",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "农夫山泉矿泉水",
-        "农夫山泉茶饮",
-        "农夫山泉果汁"
-      ]
-    },
-    "title": "《趋势分析视角：农夫山泉果汁如何借势吴京记忆海绵脸引发健康担忧爆火》",
+    "id": "农夫山泉_202603300111060",
+    "client": {"brand": "农夫山泉", "industry": "饮品", "products": ["农夫山泉矿泉水", "农夫山泉茶饮", "农夫山泉果汁"]},
+    "title": "《生活方式视角：农夫山泉果汁如何借势地球一小时20周年热点展现环保理念》",
     "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "吴京记忆海绵脸引发健康担忧",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 持续上升",
+    "angle": "生活方式",
+    "hot_topic": "地球一小时迎来20周年",
+    "heat": "高热",
+    "trend": "🔥🔥 持续上升",
     "product": "农夫山泉果汁",
-    "engagement_estimate": "630000+",
+    "engagement_estimate": "45000+",
     "status": "pending",
-    "created_at": "2026-03-29T16:39:59.761320"
-  },
-  {
-    "id": "3C数码_202603291537301",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ],
-      "priority": 1
-    },
-    "title": "《创意借势视角：荣耀手表如何借势汪小菲二胎得子大耳垂引关注爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "汪小菲二胎得子大耳垂引关注",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "荣耀手表",
-    "engagement_estimate": "50372+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496005"
-  },
-  {
-    "id": "3C数码_202603291537302",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ],
-      "priority": 2
-    },
-    "title": "《趋势分析视角：荣耀手机如何借势《白日提灯》开播预约破674万创纪录爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "《白日提灯》开播预约破674万创纪录",
-    "heat": "50亿+播放",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "荣耀手机",
-    "engagement_estimate": "37339+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496018"
-  },
-  {
-    "id": "3C数码_202603291537303",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表"
-      ],
-      "priority": 3
-    },
-    "title": "《创意借势视角：荣耀平板如何借势何穗雎晓雯产后同框状态惊艳爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "何穗雎晓雯产后同框状态惊艳",
-    "heat": "热搜前五",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "荣耀平板",
-    "engagement_estimate": "92795+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496028"
-  },
-  {
-    "id": "3C数码_202603291537304",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ],
-      "priority": 1
-    },
-    "title": "《创意借势视角：罗技耳机如何借势猪价跌破5元创历史新低养殖业承压爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "猪价跌破5元创历史新低养殖业承压",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "罗技耳机",
-    "engagement_estimate": "96479+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496036"
-  },
-  {
-    "id": "3C数码_202603291537305",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ],
-      "priority": 1
-    },
-    "title": "《生活方式视角：罗技键盘如何借势宠物陪伴话题引发共鸣爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "宠物陪伴话题引发共鸣",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "罗技键盘",
-    "engagement_estimate": "43609+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496044"
-  },
-  {
-    "id": "3C数码_202603291537306",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ],
-      "priority": 2
-    },
-    "title": "《趋势分析视角：罗技耳机如何借势哪吒2票房突破160亿持续领跑全球爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "哪吒2票房突破160亿持续领跑全球",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "罗技耳机",
-    "engagement_estimate": "75025+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496051"
-  },
-  {
-    "id": "3C数码_202603291537307",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ],
-      "priority": 3
-    },
-    "title": "《科技科普视角：罗技耳机如何借势小红书全面封禁AI托管账号治理内容爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "小红书全面封禁AI托管账号治理内容",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "罗技耳机",
-    "engagement_estimate": "38329+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496058"
-  },
-  {
-    "id": "3C数码_202603291537308",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ],
-      "priority": 2
-    },
-    "title": "《产品评测视角：罗技耳机如何借势《白日提灯》开播预约破674万创纪录爆火》",
-    "platform": "全平台",
-    "angle": "产品评测",
-    "hot_topic": "《白日提灯》开播预约破674万创纪录",
-    "heat": "50亿+播放",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "罗技耳机",
-    "engagement_estimate": "37860+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496065"
-  },
-  {
-    "id": "3C数码_202603291537309",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ],
-      "priority": 3
-    },
-    "title": "《创意借势视角：小米平板如何借势全国洗头日除夕习俗冲热搜第一爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "全国洗头日除夕习俗冲热搜第一",
-    "heat": "12亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "小米平板",
-    "engagement_estimate": "80318+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496073"
-  },
-  {
-    "id": "3C数码_2026032915373010",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ],
-      "priority": 1
-    },
-    "title": "《用户故事视角：小米手机如何借势家居收纳整理成生活必需爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "家居收纳整理成生活必需",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "小米手机",
-    "engagement_estimate": "40037+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496081"
-  },
-  {
-    "id": "3C数码_2026032915373011",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ],
-      "priority": 2
-    },
-    "title": "《趋势分析视角：小米手机如何借势小红书AI治理开放日探讨真实内容爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "小红书AI治理开放日探讨真实内容",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "小米手机",
-    "engagement_estimate": "98344+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496088"
-  },
-  {
-    "id": "3C数码_2026032915373012",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环"
-      ],
-      "priority": 3
-    },
-    "title": "《用户故事视角：小米手环如何借势2026上海市民文化节全城启动爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "2026上海市民文化节全城启动",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "小米手环",
-    "engagement_estimate": "65726+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496094"
-  },
-  {
-    "id": "3C数码_2026032915373013",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ],
-      "priority": 1
-    },
-    "title": "《创意借势视角：索尼耳机如何借势AI绘画工具爆火创意社区爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "AI绘画工具爆火创意社区",
-    "heat": "热搜前五",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "索尼耳机",
-    "engagement_estimate": "54350+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496102"
-  },
-  {
-    "id": "3C数码_2026032915373014",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ],
-      "priority": 3
-    },
-    "title": "《科技科普视角：索尼游戏机如何借势全国洗头日除夕习俗冲热搜第一爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "全国洗头日除夕习俗冲热搜第一",
-    "heat": "12亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "索尼游戏机",
-    "engagement_estimate": "50494+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496109"
-  },
-  {
-    "id": "3C数码_2026032915373015",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ],
-      "priority": 3
-    },
-    "title": "《生活方式视角：索尼游戏机如何借势祝绪丹虞书欣同场零互动引热议爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "祝绪丹虞书欣同场零互动引热议",
-    "heat": "热搜前二十",
-    "trend": "🔥🔥 持续上升",
-    "product": "索尼游戏机",
-    "engagement_estimate": "73363+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496116"
-  },
-  {
-    "id": "3C数码_2026032915373016",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ],
-      "priority": 3
-    },
-    "title": "《用户故事视角：索尼耳机如何借势拼豆成全民潮流话题浏览超30亿爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "拼豆成全民潮流话题浏览超30亿",
-    "heat": "30.3亿+浏览",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "索尼耳机",
-    "engagement_estimate": "57021+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496123"
-  },
-  {
-    "id": "美妆_2026032915373017",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ],
-      "priority": 2
-    },
-    "title": "《用户故事视角：AHC眼霜如何借势汪小菲二胎得子大耳垂引关注爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "汪小菲二胎得子大耳垂引关注",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "AHC眼霜",
-    "engagement_estimate": "41303+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496131"
-  },
-  {
-    "id": "美妆_2026032915373018",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ],
-      "priority": 3
-    },
-    "title": "《生活方式视角：AHC面膜如何借势《白日提灯》开播预约破674万创纪录爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "《白日提灯》开播预约破674万创纪录",
-    "heat": "50亿+播放",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "AHC面膜",
-    "engagement_estimate": "32191+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496138"
-  },
-  {
-    "id": "美妆_2026032915373019",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ],
-      "priority": 3
-    },
-    "title": "《趋势分析视角：AHC眼霜如何借势猪价跌破5元创历史新低养殖业承压爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "猪价跌破5元创历史新低养殖业承压",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "AHC眼霜",
-    "engagement_estimate": "91678+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496145"
-  },
-  {
-    "id": "美妆_2026032915373020",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ],
-      "priority": 3
-    },
-    "title": "《生活方式视角：AHC面膜如何借势春季护肤焕新季话题热议爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "春季护肤焕新季话题热议",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "AHC面膜",
-    "engagement_estimate": "19783+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496152"
-  },
-  {
-    "id": "美妆_2026032915373021",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ],
-      "priority": 2
-    },
-    "title": "《趋势分析视角：AHC精华如何借势汪小菲二胎得子大耳垂引关注爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "汪小菲二胎得子大耳垂引关注",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "AHC精华",
-    "engagement_estimate": "85440+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496160"
-  },
-  {
-    "id": "护肤_2026032915373022",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ],
-      "priority": 3
-    },
-    "title": "《趋势分析视角：多芬洗面奶如何借势祝绪丹虞书欣同场零互动引热议爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "祝绪丹虞书欣同场零互动引热议",
-    "heat": "热搜前二十",
-    "trend": "🔥🔥 持续上升",
-    "product": "多芬洗面奶",
-    "engagement_estimate": "44093+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496167"
-  },
-  {
-    "id": "护肤_2026032915373023",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ],
-      "priority": 3
-    },
-    "title": "《生活方式视角：多芬洗面奶如何借势何穗雎晓雯产后同框状态惊艳爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "何穗雎晓雯产后同框状态惊艳",
-    "heat": "热搜前五",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "多芬洗面奶",
-    "engagement_estimate": "90851+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496174"
-  },
-  {
-    "id": "护肤_2026032915373024",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬唇膏"
-      ],
-      "priority": 2
-    },
-    "title": "《趋势分析视角：多芬唇膏如何借势健身博主分享减脂餐单爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "健身博主分享减脂餐单",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "多芬唇膏",
-    "engagement_estimate": "15892+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496181"
-  },
-  {
-    "id": "护肤_2026032915373025",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ],
-      "priority": 2
-    },
-    "title": "《用户故事视角：力士香皂如何借势猪价跌破5元创历史新低养殖业承压爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "猪价跌破5元创历史新低养殖业承压",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "力士香皂",
-    "engagement_estimate": "51932+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496189"
-  },
-  {
-    "id": "护肤_2026032915373026",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ],
-      "priority": 1
-    },
-    "title": "《科技科普视角：力士香皂如何借势何穗雎晓雯产后同框状态惊艳爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "何穗雎晓雯产后同框状态惊艳",
-    "heat": "热搜前五",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "力士香皂",
-    "engagement_estimate": "43726+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496196"
-  },
-  {
-    "id": "护肤_2026032915373027",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ],
-      "priority": 1
-    },
-    "title": "《趋势分析视角：力士护肤品如何借势何穗雎晓雯产后同框状态惊艳爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "何穗雎晓雯产后同框状态惊艳",
-    "heat": "热搜前五",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "力士护肤品",
-    "engagement_estimate": "83791+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496203"
-  },
-  {
-    "id": "护肤_2026032915373028",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ],
-      "priority": 1
-    },
-    "title": "《趋势分析视角：力士沐浴露如何借势宠物陪伴话题引发共鸣爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "宠物陪伴话题引发共鸣",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "力士沐浴露",
-    "engagement_estimate": "52776+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496269"
-  },
-  {
-    "id": "护肤_2026032915373029",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ],
-      "priority": 3
-    },
-    "title": "《创意借势视角：力士沐浴露如何借势全国洗头日除夕习俗冲热搜第一爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "全国洗头日除夕习俗冲热搜第一",
-    "heat": "12亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "力士沐浴露",
-    "engagement_estimate": "42886+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496282"
-  },
-  {
-    "id": "护肤_2026032915373030",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ],
-      "priority": 1
-    },
-    "title": "《用户故事视角：清扬头皮护理如何借势猪价跌破5元创历史新低养殖业承压爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "猪价跌破5元创历史新低养殖业承压",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "清扬头皮护理",
-    "engagement_estimate": "18112+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496290"
-  },
-  {
-    "id": "护肤_2026032915373031",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ],
-      "priority": 3
-    },
-    "title": "《创意借势视角：清扬头皮护理如何借势哪吒2票房突破160亿持续领跑全球爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "哪吒2票房突破160亿持续领跑全球",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "清扬头皮护理",
-    "engagement_estimate": "50431+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496297"
-  },
-  {
-    "id": "护肤_2026032915373032",
-    "client": {
-      "brand": "清扬",
-      "industry": "护肤",
-      "products": [
-        "清扬洗发水",
-        "清扬护发素",
-        "清扬头皮护理"
-      ],
-      "priority": 1
-    },
-    "title": "《产品评测视角：清扬护发素如何借势全球最懒国家一年200天假期爆火》",
-    "platform": "全平台",
-    "angle": "产品评测",
-    "hot_topic": "全球最懒国家一年200天假期",
-    "heat": "255.4万+",
-    "trend": "🔥🔥🔥",
-    "product": "清扬护发素",
-    "engagement_estimate": "16028+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496304"
-  },
-  {
-    "id": "美妆_2026032915373033",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ],
-      "priority": 3
-    },
-    "title": "《用户故事视角：玉兰油精油如何借势《白日提灯》开播预约破674万创纪录爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "《白日提灯》开播预约破674万创纪录",
-    "heat": "50亿+播放",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "玉兰油精油",
-    "engagement_estimate": "39544+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496311"
-  },
-  {
-    "id": "美妆_2026032915373034",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ],
-      "priority": 3
-    },
-    "title": "《用户故事视角：玉兰油眼霜如何借势家居收纳整理成生活必需爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "家居收纳整理成生活必需",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "玉兰油眼霜",
-    "engagement_estimate": "80064+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496318"
-  },
-  {
-    "id": "美妆_2026032915373035",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ],
-      "priority": 1
-    },
-    "title": "《趋势分析视角：玉兰油面霜如何借势健身博主分享减脂餐单爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "健身博主分享减脂餐单",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "玉兰油面霜",
-    "engagement_estimate": "66078+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496325"
-  },
-  {
-    "id": "美妆_2026032915373036",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ],
-      "priority": 2
-    },
-    "title": "《生活方式视角：玉兰油精油如何借势全国洗头日除夕习俗冲热搜第一爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "全国洗头日除夕习俗冲热搜第一",
-    "heat": "12亿+阅读",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "玉兰油精油",
-    "engagement_estimate": "57404+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496332"
-  },
-  {
-    "id": "美妆_2026032915373037",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆",
-      "products": [
-        "玉兰油面霜",
-        "玉兰油精油",
-        "玉兰油眼霜"
-      ],
-      "priority": 3
-    },
-    "title": "《创意借势视角：玉兰油面霜如何借势全球最懒国家一年200天假期爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "全球最懒国家一年200天假期",
-    "heat": "255.4万+",
-    "trend": "🔥🔥🔥",
-    "product": "玉兰油面霜",
-    "engagement_estimate": "41954+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496339"
-  },
-  {
-    "id": "保健_2026032915373038",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ],
-      "priority": 2
-    },
-    "title": "《生活方式视角：汤臣倍健维生素如何借势AI绘画工具爆火创意社区爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "AI绘画工具爆火创意社区",
-    "heat": "热搜前五",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "汤臣倍健维生素",
-    "engagement_estimate": "69165+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496347"
-  },
-  {
-    "id": "保健_2026032915373039",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ],
-      "priority": 1
-    },
-    "title": "《趋势分析视角：汤臣倍健维生素如何借势小红书全面封禁AI托管账号治理内容爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "小红书全面封禁AI托管账号治理内容",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "汤臣倍健维生素",
-    "engagement_estimate": "78696+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496354"
-  },
-  {
-    "id": "保健_2026032915373040",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ],
-      "priority": 3
-    },
-    "title": "《用户故事视角：汤臣倍健钙片如何借势猪价跌破5元创历史新低养殖业承压爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "猪价跌破5元创历史新低养殖业承压",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "汤臣倍健钙片",
-    "engagement_estimate": "33998+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496360"
-  },
-  {
-    "id": "保健_2026032915373041",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ],
-      "priority": 2
-    },
-    "title": "《科技科普视角：汤臣倍健蛋白粉如何借势猪价跌破5元创历史新低养殖业承压爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "猪价跌破5元创历史新低养殖业承压",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "汤臣倍健蛋白粉",
-    "engagement_estimate": "82615+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496367"
-  },
-  {
-    "id": "保健_2026032915373042",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健",
-      "products": [
-        "汤臣倍健维生素",
-        "汤臣倍健钙片",
-        "汤臣倍健蛋白粉"
-      ],
-      "priority": 1
-    },
-    "title": "《科技科普视角：汤臣倍健钙片如何借势2026上海市民文化节全城启动爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "2026上海市民文化节全城启动",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "汤臣倍健钙片",
-    "engagement_estimate": "77983+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496374"
-  },
-  {
-    "id": "保健_2026032915373043",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ],
-      "priority": 2
-    },
-    "title": "《科技科普视角：善存复合营养如何借势猪价跌破5元创历史新低养殖业承压爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "猪价跌破5元创历史新低养殖业承压",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "善存复合营养",
-    "engagement_estimate": "70045+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496385"
-  },
-  {
-    "id": "保健_2026032915373044",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ],
-      "priority": 3
-    },
-    "title": "《用户故事视角：善存复合营养如何借势拼豆成全民潮流话题浏览超30亿爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "拼豆成全民潮流话题浏览超30亿",
-    "heat": "30.3亿+浏览",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "善存复合营养",
-    "engagement_estimate": "66051+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496391"
-  },
-  {
-    "id": "保健_2026032915373045",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养"
-      ],
-      "priority": 2
-    },
-    "title": "《趋势分析视角：善存维生素如何借势猪价跌破5元创历史新低养殖业承压爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "猪价跌破5元创历史新低养殖业承压",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "善存维生素",
-    "engagement_estimate": "99315+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496398"
-  },
-  {
-    "id": "护肤_2026032915373046",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ],
-      "priority": 2
-    },
-    "title": "《产品评测视角：HC面膜如何借势华为Pura X发布鸿蒙系统新机爆火》",
-    "platform": "全平台",
-    "angle": "产品评测",
-    "hot_topic": "华为Pura X发布鸿蒙系统新机",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "HC面膜",
-    "engagement_estimate": "12858+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496406"
-  },
-  {
-    "id": "护肤_2026032915373047",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ],
-      "priority": 2
-    },
-    "title": "《科技科普视角：HC护肤套装如何借势全球最懒国家一年200天假期爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "全球最懒国家一年200天假期",
-    "heat": "255.4万+",
-    "trend": "🔥🔥🔥",
-    "product": "HC护肤套装",
-    "engagement_estimate": "24934+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496412"
-  },
-  {
-    "id": "护肤_2026032915373048",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ],
-      "priority": 3
-    },
-    "title": "《科技科普视角：HC护肤套装如何借势西安4月20日开通直飞维也纳航线爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "西安4月20日开通直飞维也纳航线",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "HC护肤套装",
-    "engagement_estimate": "84098+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496419"
-  },
-  {
-    "id": "护肤_2026032915373049",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ],
-      "priority": 3
-    },
-    "title": "《用户故事视角：HC面膜如何借势《白日提灯》开播预约破674万创纪录爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "《白日提灯》开播预约破674万创纪录",
-    "heat": "50亿+播放",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "HC面膜",
-    "engagement_estimate": "82340+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496426"
-  },
-  {
-    "id": "护肤_2026032915373050",
-    "client": {
-      "brand": "HC",
-      "industry": "护肤",
-      "products": [
-        "HC面膜",
-        "HC精华液",
-        "HC护肤套装"
-      ],
-      "priority": 3
-    },
-    "title": "《创意借势视角：HC护肤套装如何借势宠物陪伴话题引发共鸣爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "宠物陪伴话题引发共鸣",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "HC护肤套装",
-    "engagement_estimate": "50217+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496433"
-  },
-  {
-    "id": "清洁_2026032915373051",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ],
-      "priority": 1
-    },
-    "title": "《生活方式视角：威猛先生清洁剂如何借势《白日提灯》开播预约破674万创纪录爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "《白日提灯》开播预约破674万创纪录",
-    "heat": "50亿+播放",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "威猛先生清洁剂",
-    "engagement_estimate": "33298+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496441"
-  },
-  {
-    "id": "清洁_2026032915373052",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ],
-      "priority": 1
-    },
-    "title": "《科技科普视角：威猛先生洗涤剂如何借势西安4月20日开通直飞维也纳航线爆火》",
-    "platform": "全平台",
-    "angle": "科技科普",
-    "hot_topic": "西安4月20日开通直飞维也纳航线",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "威猛先生洗涤剂",
-    "engagement_estimate": "68903+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496448"
-  },
-  {
-    "id": "清洁_2026032915373053",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ],
-      "priority": 1
-    },
-    "title": "《生活方式视角：威猛先生消毒液如何借势小红书AI治理开放日探讨真实内容爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "小红书AI治理开放日探讨真实内容",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "威猛先生消毒液",
-    "engagement_estimate": "54137+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496455"
-  },
-  {
-    "id": "清洁_2026032915373054",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ],
-      "priority": 1
-    },
-    "title": "《用户故事视角：威猛先生洗涤剂如何借势华为Pura X发布鸿蒙系统新机爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "华为Pura X发布鸿蒙系统新机",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "威猛先生洗涤剂",
-    "engagement_estimate": "54855+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496462"
-  },
-  {
-    "id": "清洁_2026032915373055",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "清洁",
-      "products": [
-        "威猛先生清洁剂",
-        "威猛先生消毒液",
-        "威猛先生洗涤剂"
-      ],
-      "priority": 2
-    },
-    "title": "《创意借势视角：威猛先生消毒液如何借势AI绘画工具爆火创意社区爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "AI绘画工具爆火创意社区",
-    "heat": "热搜前五",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "威猛先生消毒液",
-    "engagement_estimate": "51947+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496468"
-  },
-  {
-    "id": "日用_2026032915373056",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ],
-      "priority": 3
-    },
-    "title": "《趋势分析视角：舒适卷纸如何借势家居收纳整理成生活必需爆火》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "家居收纳整理成生活必需",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "舒适卷纸",
-    "engagement_estimate": "81355+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496476"
-  },
-  {
-    "id": "日用_2026032915373057",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ],
-      "priority": 3
-    },
-    "title": "《生活方式视角：舒适卷纸如何借势家居收纳整理成生活必需爆火》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "家居收纳整理成生活必需",
-    "heat": "热搜前十",
-    "trend": "🔥🔥 持续上升",
-    "product": "舒适卷纸",
-    "engagement_estimate": "15776+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496483"
-  },
-  {
-    "id": "日用_2026032915373058",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ],
-      "priority": 2
-    },
-    "title": "《用户故事视角：舒适湿巾如何借势西安4月20日开通直飞维也纳航线爆火》",
-    "platform": "全平台",
-    "angle": "用户故事",
-    "hot_topic": "西安4月20日开通直飞维也纳航线",
-    "heat": "高热",
-    "trend": "🔥🔥 持续上升",
-    "product": "舒适湿巾",
-    "engagement_estimate": "91948+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496490"
-  },
-  {
-    "id": "日用_2026032915373059",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾"
-      ],
-      "priority": 2
-    },
-    "title": "《创意借势视角：舒适卷纸如何借势何穗雎晓雯产后同框状态惊艳爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "何穗雎晓雯产后同框状态惊艳",
-    "heat": "热搜前五",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "舒适卷纸",
-    "engagement_estimate": "89878+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496497"
-  },
-  {
-    "id": "母婴_2026032915373060",
-    "client": {
-      "brand": "希宝",
-      "industry": "母婴",
-      "products": [
-        "希宝奶粉",
-        "希宝纸尿裤",
-        "希宝婴儿护肤"
-      ],
-      "priority": 3
-    },
-    "title": "《创意借势视角：希宝纸尿裤如何借势何穗雎晓雯产后同框状态惊艳爆火》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "何穗雎晓雯产后同框状态惊艳",
-    "heat": "热搜前五",
-    "trend": "🔥🔥🔥 持续上升",
-    "product": "希宝纸尿裤",
-    "engagement_estimate": "20672+",
-    "status": "pending",
-    "created_at": "2026-03-29T15:37:30.496505"
+    "created_at": "2026-03-30T01:11:00.000000"
   }
 ]

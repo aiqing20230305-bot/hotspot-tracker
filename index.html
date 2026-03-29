@@ -107,6 +107,108 @@
         .refresh-btn.loading .icon {
             animation: spin 1s linear infinite;
         }
+        /* 导出按钮样式 */
+        .export-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .export-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        .export-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        .export-btn .spinner {
+            width: 14px;
+            height: 14px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-top-color: white;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        /* 导出提示样式 */
+        .export-toast {
+            position: fixed;
+            top: 80px;
+            right: 24px;
+            background: white;
+            padding: 16px 24px;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            z-index: 2000;
+            transform: translateX(400px);
+            opacity: 0;
+            transition: all 0.3s ease;
+            border-left: 4px solid var(--primary);
+        }
+        .export-toast.show {
+            transform: translateX(0);
+            opacity: 1;
+        }
+        .export-toast.success { border-left-color: var(--success); }
+        .export-toast.error { border-left-color: var(--error); }
+        .export-toast .icon { font-size: 20px; }
+        .export-toast .message { font-weight: 500; font-size: 14px; }
+        .export-toast .time { font-size: 12px; color: var(--gray-600); margin-top: 2px; }
+        /* 导出下拉菜单 */
+        .export-dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .export-dropdown-content {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background: white;
+            min-width: 140px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+            border-radius: 8px;
+            z-index: 100;
+            overflow: hidden;
+            margin-top: 4px;
+        }
+        .export-dropdown:hover .export-dropdown-content {
+            display: block;
+        }
+        .export-dropdown-item {
+            padding: 10px 16px;
+            color: var(--gray-800);
+            font-size: 13px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: background 0.2s;
+        }
+        .export-dropdown-item:hover {
+            background: var(--gray-50);
+        }
+        @media (max-width: 768px) {
+            .export-toast {
+                left: 16px;
+                right: 16px;
+                top: auto;
+                bottom: 16px;
+                transform: translateY(100px);
+            }
+            .export-toast.show {
+                transform: translateY(0);
+            }
+        }
         /* 统计卡片 */
         .stats-grid {
             display: grid;
@@ -654,6 +756,20 @@
                     <span class="icon">🔄</span>
                     <span>刷新</span>
                 </button>
+                <div class="export-dropdown">
+                    <button class="export-btn" id="exportBtn">
+                        <span>📥</span>
+                        <span>导出数据</span>
+                    </button>
+                    <div class="export-dropdown-content">
+                        <div class="export-dropdown-item" onclick="exportToCSV()">
+                            <span>📊</span> 导出 CSV
+                        </div>
+                        <div class="export-dropdown-item" onclick="exportToJSON()">
+                            <span>📋</span> 导出 JSON
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         
