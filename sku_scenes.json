@@ -1688,5 +1688,3731 @@
     },
     "heat_score": 8.5,
     "created": "2026-03-29"
+  },
+  {
+    "id": "scene_066",
+    "industry": "医疗健康",
+    "platform": "快手",
+    "scene_type": "日常防护",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "男",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户日常防护时需要口罩的场景",
+    "trigger_keywords": [
+      "口罩",
+      "日常防护",
+      "医疗健康",
+      "必备"
+    ],
+    "paired_skus": [
+      "口罩"
+    ],
+    "metrics": {
+      "views_est": 73838,
+      "engagement_rate": 5.9
+    },
+    "heat_score": 86,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_067",
+    "industry": "医疗健康",
+    "platform": "小红书",
+    "scene_type": "健康管理",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "不限",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户健康管理时需要口罩的场景",
+    "trigger_keywords": [
+      "口罩",
+      "健康管理",
+      "医疗健康",
+      "推荐"
+    ],
+    "paired_skus": [
+      "口罩"
+    ],
+    "metrics": {
+      "views_est": 50810,
+      "engagement_rate": 5.2
+    },
+    "heat_score": 86,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_068",
+    "industry": "医疗健康",
+    "platform": "视频号",
+    "scene_type": "养生保健",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "男",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户养生保健时需要口罩的场景",
+    "trigger_keywords": [
+      "口罩",
+      "养生保健",
+      "医疗健康",
+      "推荐"
+    ],
+    "paired_skus": [
+      "口罩"
+    ],
+    "metrics": {
+      "views_est": 122503,
+      "engagement_rate": 4.7
+    },
+    "heat_score": 87,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_069",
+    "industry": "医疗健康",
+    "platform": "微博",
+    "scene_type": "日常防护",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "女",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户日常防护时需要消毒液的场景",
+    "trigger_keywords": [
+      "消毒液",
+      "日常防护",
+      "医疗健康",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "消毒液"
+    ],
+    "metrics": {
+      "views_est": 67676,
+      "engagement_rate": 3.8
+    },
+    "heat_score": 64,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_070",
+    "industry": "医疗健康",
+    "platform": "抖音",
+    "scene_type": "健康管理",
+    "user_profile": {
+      "age": "44岁",
+      "gender": "不限",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户健康管理时需要消毒液的场景",
+    "trigger_keywords": [
+      "消毒液",
+      "健康管理",
+      "医疗健康",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "消毒液"
+    ],
+    "metrics": {
+      "views_est": 391935,
+      "engagement_rate": 2.4
+    },
+    "heat_score": 95,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_071",
+    "industry": "医疗健康",
+    "platform": "视频号",
+    "scene_type": "养生保健",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "不限",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户养生保健时需要消毒液的场景",
+    "trigger_keywords": [
+      "消毒液",
+      "养生保健",
+      "医疗健康",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "消毒液"
+    ],
+    "metrics": {
+      "views_est": 229088,
+      "engagement_rate": 6.7
+    },
+    "heat_score": 78,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_072",
+    "industry": "医疗健康",
+    "platform": "微博",
+    "scene_type": "日常防护",
+    "user_profile": {
+      "age": "44岁",
+      "gender": "男",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户日常防护时需要体温计的场景",
+    "trigger_keywords": [
+      "体温计",
+      "日常防护",
+      "医疗健康",
+      "神器"
+    ],
+    "paired_skus": [
+      "体温计"
+    ],
+    "metrics": {
+      "views_est": 190496,
+      "engagement_rate": 4.2
+    },
+    "heat_score": 64,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_073",
+    "industry": "医疗健康",
+    "platform": "快手",
+    "scene_type": "健康管理",
+    "user_profile": {
+      "age": "34岁",
+      "gender": "男",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户健康管理时需要体温计的场景",
+    "trigger_keywords": [
+      "体温计",
+      "健康管理",
+      "医疗健康",
+      "推荐"
+    ],
+    "paired_skus": [
+      "体温计"
+    ],
+    "metrics": {
+      "views_est": 265118,
+      "engagement_rate": 6.8
+    },
+    "heat_score": 70,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_074",
+    "industry": "医疗健康",
+    "platform": "快手",
+    "scene_type": "养生保健",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "不限",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户养生保健时需要体温计的场景",
+    "trigger_keywords": [
+      "体温计",
+      "养生保健",
+      "医疗健康",
+      "神器"
+    ],
+    "paired_skus": [
+      "体温计"
+    ],
+    "metrics": {
+      "views_est": 455546,
+      "engagement_rate": 4.8
+    },
+    "heat_score": 89,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_075",
+    "industry": "医疗健康",
+    "platform": "B站",
+    "scene_type": "日常防护",
+    "user_profile": {
+      "age": "21岁",
+      "gender": "女",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户日常防护时需要保健品的场景",
+    "trigger_keywords": [
+      "保健品",
+      "日常防护",
+      "医疗健康",
+      "必备"
+    ],
+    "paired_skus": [
+      "保健品"
+    ],
+    "metrics": {
+      "views_est": 264511,
+      "engagement_rate": 4.1
+    },
+    "heat_score": 66,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_076",
+    "industry": "医疗健康",
+    "platform": "B站",
+    "scene_type": "健康管理",
+    "user_profile": {
+      "age": "24岁",
+      "gender": "不限",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户健康管理时需要保健品的场景",
+    "trigger_keywords": [
+      "保健品",
+      "健康管理",
+      "医疗健康",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "保健品"
+    ],
+    "metrics": {
+      "views_est": 312899,
+      "engagement_rate": 3.8
+    },
+    "heat_score": 74,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_077",
+    "industry": "医疗健康",
+    "platform": "微博",
+    "scene_type": "养生保健",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "不限",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户养生保健时需要保健品的场景",
+    "trigger_keywords": [
+      "保健品",
+      "养生保健",
+      "医疗健康",
+      "必备"
+    ],
+    "paired_skus": [
+      "保健品"
+    ],
+    "metrics": {
+      "views_est": 135155,
+      "engagement_rate": 2.9
+    },
+    "heat_score": 69,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_078",
+    "industry": "医疗健康",
+    "platform": "快手",
+    "scene_type": "日常防护",
+    "user_profile": {
+      "age": "19岁",
+      "gender": "女",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户日常防护时需要维生素的场景",
+    "trigger_keywords": [
+      "维生素",
+      "日常防护",
+      "医疗健康",
+      "必备"
+    ],
+    "paired_skus": [
+      "维生素"
+    ],
+    "metrics": {
+      "views_est": 97293,
+      "engagement_rate": 5.8
+    },
+    "heat_score": 72,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_079",
+    "industry": "医疗健康",
+    "platform": "小红书",
+    "scene_type": "健康管理",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "女",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户健康管理时需要维生素的场景",
+    "trigger_keywords": [
+      "维生素",
+      "健康管理",
+      "医疗健康",
+      "必备"
+    ],
+    "paired_skus": [
+      "维生素"
+    ],
+    "metrics": {
+      "views_est": 373300,
+      "engagement_rate": 4.8
+    },
+    "heat_score": 90,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_080",
+    "industry": "医疗健康",
+    "platform": "视频号",
+    "scene_type": "养生保健",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "男",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户养生保健时需要维生素的场景",
+    "trigger_keywords": [
+      "维生素",
+      "养生保健",
+      "医疗健康",
+      "推荐"
+    ],
+    "paired_skus": [
+      "维生素"
+    ],
+    "metrics": {
+      "views_est": 490473,
+      "engagement_rate": 7.1
+    },
+    "heat_score": 84,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_081",
+    "industry": "医疗健康",
+    "platform": "视频号",
+    "scene_type": "日常防护",
+    "user_profile": {
+      "age": "43岁",
+      "gender": "男",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户日常防护时需要蛋白粉的场景",
+    "trigger_keywords": [
+      "蛋白粉",
+      "日常防护",
+      "医疗健康",
+      "推荐"
+    ],
+    "paired_skus": [
+      "蛋白粉"
+    ],
+    "metrics": {
+      "views_est": 292924,
+      "engagement_rate": 2.9
+    },
+    "heat_score": 78,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_082",
+    "industry": "医疗健康",
+    "platform": "抖音",
+    "scene_type": "健康管理",
+    "user_profile": {
+      "age": "33岁",
+      "gender": "男",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户健康管理时需要蛋白粉的场景",
+    "trigger_keywords": [
+      "蛋白粉",
+      "健康管理",
+      "医疗健康",
+      "必备"
+    ],
+    "paired_skus": [
+      "蛋白粉"
+    ],
+    "metrics": {
+      "views_est": 218562,
+      "engagement_rate": 6.7
+    },
+    "heat_score": 69,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_083",
+    "industry": "医疗健康",
+    "platform": "微博",
+    "scene_type": "养生保健",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "男",
+      "interest": "医疗健康"
+    },
+    "scenario": "用户养生保健时需要蛋白粉的场景",
+    "trigger_keywords": [
+      "蛋白粉",
+      "养生保健",
+      "医疗健康",
+      "推荐"
+    ],
+    "paired_skus": [
+      "蛋白粉"
+    ],
+    "metrics": {
+      "views_est": 481498,
+      "engagement_rate": 5.3
+    },
+    "heat_score": 73,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_084",
+    "industry": "珠宝配饰",
+    "platform": "抖音",
+    "scene_type": "时尚搭配",
+    "user_profile": {
+      "age": "39岁",
+      "gender": "女",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户时尚搭配时需要项链的场景",
+    "trigger_keywords": [
+      "项链",
+      "时尚搭配",
+      "珠宝配饰",
+      "必备"
+    ],
+    "paired_skus": [
+      "项链"
+    ],
+    "metrics": {
+      "views_est": 96160,
+      "engagement_rate": 5.3
+    },
+    "heat_score": 77,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_085",
+    "industry": "珠宝配饰",
+    "platform": "快手",
+    "scene_type": "送礼场景",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户送礼场景时需要项链的场景",
+    "trigger_keywords": [
+      "项链",
+      "送礼场景",
+      "珠宝配饰",
+      "推荐"
+    ],
+    "paired_skus": [
+      "项链"
+    ],
+    "metrics": {
+      "views_est": 392178,
+      "engagement_rate": 4.1
+    },
+    "heat_score": 60,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_086",
+    "industry": "珠宝配饰",
+    "platform": "小红书",
+    "scene_type": "收藏投资",
+    "user_profile": {
+      "age": "29岁",
+      "gender": "女",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户收藏投资时需要项链的场景",
+    "trigger_keywords": [
+      "项链",
+      "收藏投资",
+      "珠宝配饰",
+      "必备"
+    ],
+    "paired_skus": [
+      "项链"
+    ],
+    "metrics": {
+      "views_est": 265053,
+      "engagement_rate": 2.1
+    },
+    "heat_score": 68,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_087",
+    "industry": "珠宝配饰",
+    "platform": "小红书",
+    "scene_type": "时尚搭配",
+    "user_profile": {
+      "age": "39岁",
+      "gender": "男",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户时尚搭配时需要耳环的场景",
+    "trigger_keywords": [
+      "耳环",
+      "时尚搭配",
+      "珠宝配饰",
+      "神器"
+    ],
+    "paired_skus": [
+      "耳环"
+    ],
+    "metrics": {
+      "views_est": 328038,
+      "engagement_rate": 3.7
+    },
+    "heat_score": 84,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_088",
+    "industry": "珠宝配饰",
+    "platform": "快手",
+    "scene_type": "送礼场景",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "男",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户送礼场景时需要耳环的场景",
+    "trigger_keywords": [
+      "耳环",
+      "送礼场景",
+      "珠宝配饰",
+      "神器"
+    ],
+    "paired_skus": [
+      "耳环"
+    ],
+    "metrics": {
+      "views_est": 376964,
+      "engagement_rate": 2.9
+    },
+    "heat_score": 61,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_089",
+    "industry": "珠宝配饰",
+    "platform": "快手",
+    "scene_type": "收藏投资",
+    "user_profile": {
+      "age": "23岁",
+      "gender": "女",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户收藏投资时需要耳环的场景",
+    "trigger_keywords": [
+      "耳环",
+      "收藏投资",
+      "珠宝配饰",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "耳环"
+    ],
+    "metrics": {
+      "views_est": 233490,
+      "engagement_rate": 7.5
+    },
+    "heat_score": 74,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_090",
+    "industry": "珠宝配饰",
+    "platform": "小红书",
+    "scene_type": "时尚搭配",
+    "user_profile": {
+      "age": "37岁",
+      "gender": "不限",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户时尚搭配时需要手链的场景",
+    "trigger_keywords": [
+      "手链",
+      "时尚搭配",
+      "珠宝配饰",
+      "神器"
+    ],
+    "paired_skus": [
+      "手链"
+    ],
+    "metrics": {
+      "views_est": 430905,
+      "engagement_rate": 7.7
+    },
+    "heat_score": 83,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_091",
+    "industry": "珠宝配饰",
+    "platform": "微博",
+    "scene_type": "送礼场景",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户送礼场景时需要手链的场景",
+    "trigger_keywords": [
+      "手链",
+      "送礼场景",
+      "珠宝配饰",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "手链"
+    ],
+    "metrics": {
+      "views_est": 495841,
+      "engagement_rate": 5.9
+    },
+    "heat_score": 77,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_092",
+    "industry": "珠宝配饰",
+    "platform": "视频号",
+    "scene_type": "收藏投资",
+    "user_profile": {
+      "age": "21岁",
+      "gender": "女",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户收藏投资时需要手链的场景",
+    "trigger_keywords": [
+      "手链",
+      "收藏投资",
+      "珠宝配饰",
+      "神器"
+    ],
+    "paired_skus": [
+      "手链"
+    ],
+    "metrics": {
+      "views_est": 381205,
+      "engagement_rate": 3.1
+    },
+    "heat_score": 91,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_093",
+    "industry": "珠宝配饰",
+    "platform": "抖音",
+    "scene_type": "时尚搭配",
+    "user_profile": {
+      "age": "21岁",
+      "gender": "男",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户时尚搭配时需要戒指的场景",
+    "trigger_keywords": [
+      "戒指",
+      "时尚搭配",
+      "珠宝配饰",
+      "必备"
+    ],
+    "paired_skus": [
+      "戒指"
+    ],
+    "metrics": {
+      "views_est": 279163,
+      "engagement_rate": 4.8
+    },
+    "heat_score": 93,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_094",
+    "industry": "珠宝配饰",
+    "platform": "微博",
+    "scene_type": "送礼场景",
+    "user_profile": {
+      "age": "31岁",
+      "gender": "男",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户送礼场景时需要戒指的场景",
+    "trigger_keywords": [
+      "戒指",
+      "送礼场景",
+      "珠宝配饰",
+      "神器"
+    ],
+    "paired_skus": [
+      "戒指"
+    ],
+    "metrics": {
+      "views_est": 490359,
+      "engagement_rate": 3.3
+    },
+    "heat_score": 90,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_095",
+    "industry": "珠宝配饰",
+    "platform": "微博",
+    "scene_type": "收藏投资",
+    "user_profile": {
+      "age": "23岁",
+      "gender": "男",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户收藏投资时需要戒指的场景",
+    "trigger_keywords": [
+      "戒指",
+      "收藏投资",
+      "珠宝配饰",
+      "推荐"
+    ],
+    "paired_skus": [
+      "戒指"
+    ],
+    "metrics": {
+      "views_est": 475629,
+      "engagement_rate": 2.5
+    },
+    "heat_score": 95,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_096",
+    "industry": "珠宝配饰",
+    "platform": "快手",
+    "scene_type": "时尚搭配",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "不限",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户时尚搭配时需要手表的场景",
+    "trigger_keywords": [
+      "手表",
+      "时尚搭配",
+      "珠宝配饰",
+      "神器"
+    ],
+    "paired_skus": [
+      "手表"
+    ],
+    "metrics": {
+      "views_est": 265592,
+      "engagement_rate": 6.1
+    },
+    "heat_score": 89,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_097",
+    "industry": "珠宝配饰",
+    "platform": "微博",
+    "scene_type": "送礼场景",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户送礼场景时需要手表的场景",
+    "trigger_keywords": [
+      "手表",
+      "送礼场景",
+      "珠宝配饰",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "手表"
+    ],
+    "metrics": {
+      "views_est": 199051,
+      "engagement_rate": 5.9
+    },
+    "heat_score": 87,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_098",
+    "industry": "珠宝配饰",
+    "platform": "B站",
+    "scene_type": "收藏投资",
+    "user_profile": {
+      "age": "35岁",
+      "gender": "女",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户收藏投资时需要手表的场景",
+    "trigger_keywords": [
+      "手表",
+      "收藏投资",
+      "珠宝配饰",
+      "必备"
+    ],
+    "paired_skus": [
+      "手表"
+    ],
+    "metrics": {
+      "views_est": 209927,
+      "engagement_rate": 4.5
+    },
+    "heat_score": 92,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_099",
+    "industry": "珠宝配饰",
+    "platform": "B站",
+    "scene_type": "时尚搭配",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户时尚搭配时需要墨镜的场景",
+    "trigger_keywords": [
+      "墨镜",
+      "时尚搭配",
+      "珠宝配饰",
+      "推荐"
+    ],
+    "paired_skus": [
+      "墨镜"
+    ],
+    "metrics": {
+      "views_est": 460736,
+      "engagement_rate": 6.7
+    },
+    "heat_score": 77,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_100",
+    "industry": "珠宝配饰",
+    "platform": "抖音",
+    "scene_type": "送礼场景",
+    "user_profile": {
+      "age": "41岁",
+      "gender": "不限",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户送礼场景时需要墨镜的场景",
+    "trigger_keywords": [
+      "墨镜",
+      "送礼场景",
+      "珠宝配饰",
+      "必备"
+    ],
+    "paired_skus": [
+      "墨镜"
+    ],
+    "metrics": {
+      "views_est": 208663,
+      "engagement_rate": 3.5
+    },
+    "heat_score": 66,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_101",
+    "industry": "珠宝配饰",
+    "platform": "抖音",
+    "scene_type": "收藏投资",
+    "user_profile": {
+      "age": "36岁",
+      "gender": "男",
+      "interest": "珠宝配饰"
+    },
+    "scenario": "用户收藏投资时需要墨镜的场景",
+    "trigger_keywords": [
+      "墨镜",
+      "收藏投资",
+      "珠宝配饰",
+      "神器"
+    ],
+    "paired_skus": [
+      "墨镜"
+    ],
+    "metrics": {
+      "views_est": 438200,
+      "engagement_rate": 6.7
+    },
+    "heat_score": 94,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_102",
+    "industry": "户外旅行",
+    "platform": "视频号",
+    "scene_type": "出行装备",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "女",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户出行装备时需要登山包的场景",
+    "trigger_keywords": [
+      "登山包",
+      "出行装备",
+      "户外旅行",
+      "推荐"
+    ],
+    "paired_skus": [
+      "登山包"
+    ],
+    "metrics": {
+      "views_est": 307969,
+      "engagement_rate": 3.8
+    },
+    "heat_score": 88,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_103",
+    "industry": "户外旅行",
+    "platform": "抖音",
+    "scene_type": "旅途记录",
+    "user_profile": {
+      "age": "33岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户旅途记录时需要登山包的场景",
+    "trigger_keywords": [
+      "登山包",
+      "旅途记录",
+      "户外旅行",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "登山包"
+    ],
+    "metrics": {
+      "views_est": 92015,
+      "engagement_rate": 2.7
+    },
+    "heat_score": 86,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_104",
+    "industry": "户外旅行",
+    "platform": "小红书",
+    "scene_type": "极限挑战",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户极限挑战时需要登山包的场景",
+    "trigger_keywords": [
+      "登山包",
+      "极限挑战",
+      "户外旅行",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "登山包"
+    ],
+    "metrics": {
+      "views_est": 222053,
+      "engagement_rate": 6.4
+    },
+    "heat_score": 72,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_105",
+    "industry": "户外旅行",
+    "platform": "小红书",
+    "scene_type": "出行装备",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户出行装备时需要帐篷的场景",
+    "trigger_keywords": [
+      "帐篷",
+      "出行装备",
+      "户外旅行",
+      "必备"
+    ],
+    "paired_skus": [
+      "帐篷"
+    ],
+    "metrics": {
+      "views_est": 126441,
+      "engagement_rate": 6.3
+    },
+    "heat_score": 89,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_106",
+    "industry": "户外旅行",
+    "platform": "B站",
+    "scene_type": "旅途记录",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "不限",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户旅途记录时需要帐篷的场景",
+    "trigger_keywords": [
+      "帐篷",
+      "旅途记录",
+      "户外旅行",
+      "必备"
+    ],
+    "paired_skus": [
+      "帐篷"
+    ],
+    "metrics": {
+      "views_est": 57776,
+      "engagement_rate": 6.5
+    },
+    "heat_score": 60,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_107",
+    "industry": "户外旅行",
+    "platform": "B站",
+    "scene_type": "极限挑战",
+    "user_profile": {
+      "age": "37岁",
+      "gender": "女",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户极限挑战时需要帐篷的场景",
+    "trigger_keywords": [
+      "帐篷",
+      "极限挑战",
+      "户外旅行",
+      "推荐"
+    ],
+    "paired_skus": [
+      "帐篷"
+    ],
+    "metrics": {
+      "views_est": 300998,
+      "engagement_rate": 6.9
+    },
+    "heat_score": 72,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_108",
+    "industry": "户外旅行",
+    "platform": "小红书",
+    "scene_type": "出行装备",
+    "user_profile": {
+      "age": "44岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户出行装备时需要睡袋的场景",
+    "trigger_keywords": [
+      "睡袋",
+      "出行装备",
+      "户外旅行",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "睡袋"
+    ],
+    "metrics": {
+      "views_est": 156573,
+      "engagement_rate": 7.6
+    },
+    "heat_score": 87,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_109",
+    "industry": "户外旅行",
+    "platform": "小红书",
+    "scene_type": "旅途记录",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "女",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户旅途记录时需要睡袋的场景",
+    "trigger_keywords": [
+      "睡袋",
+      "旅途记录",
+      "户外旅行",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "睡袋"
+    ],
+    "metrics": {
+      "views_est": 130246,
+      "engagement_rate": 2.5
+    },
+    "heat_score": 91,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_110",
+    "industry": "户外旅行",
+    "platform": "微博",
+    "scene_type": "极限挑战",
+    "user_profile": {
+      "age": "24岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户极限挑战时需要睡袋的场景",
+    "trigger_keywords": [
+      "睡袋",
+      "极限挑战",
+      "户外旅行",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "睡袋"
+    ],
+    "metrics": {
+      "views_est": 340533,
+      "engagement_rate": 7.1
+    },
+    "heat_score": 85,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_111",
+    "industry": "户外旅行",
+    "platform": "微博",
+    "scene_type": "出行装备",
+    "user_profile": {
+      "age": "44岁",
+      "gender": "女",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户出行装备时需要防晒霜的场景",
+    "trigger_keywords": [
+      "防晒霜",
+      "出行装备",
+      "户外旅行",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "防晒霜"
+    ],
+    "metrics": {
+      "views_est": 139941,
+      "engagement_rate": 4.1
+    },
+    "heat_score": 74,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_112",
+    "industry": "户外旅行",
+    "platform": "抖音",
+    "scene_type": "旅途记录",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "女",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户旅途记录时需要防晒霜的场景",
+    "trigger_keywords": [
+      "防晒霜",
+      "旅途记录",
+      "户外旅行",
+      "推荐"
+    ],
+    "paired_skus": [
+      "防晒霜"
+    ],
+    "metrics": {
+      "views_est": 274944,
+      "engagement_rate": 4.5
+    },
+    "heat_score": 92,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_113",
+    "industry": "户外旅行",
+    "platform": "抖音",
+    "scene_type": "极限挑战",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "不限",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户极限挑战时需要防晒霜的场景",
+    "trigger_keywords": [
+      "防晒霜",
+      "极限挑战",
+      "户外旅行",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "防晒霜"
+    ],
+    "metrics": {
+      "views_est": 443994,
+      "engagement_rate": 6.8
+    },
+    "heat_score": 68,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_114",
+    "industry": "户外旅行",
+    "platform": "B站",
+    "scene_type": "出行装备",
+    "user_profile": {
+      "age": "42岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户出行装备时需要运动相机的场景",
+    "trigger_keywords": [
+      "运动相机",
+      "出行装备",
+      "户外旅行",
+      "必备"
+    ],
+    "paired_skus": [
+      "运动相机"
+    ],
+    "metrics": {
+      "views_est": 242012,
+      "engagement_rate": 5.6
+    },
+    "heat_score": 86,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_115",
+    "industry": "户外旅行",
+    "platform": "快手",
+    "scene_type": "旅途记录",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户旅途记录时需要运动相机的场景",
+    "trigger_keywords": [
+      "运动相机",
+      "旅途记录",
+      "户外旅行",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "运动相机"
+    ],
+    "metrics": {
+      "views_est": 319660,
+      "engagement_rate": 7.9
+    },
+    "heat_score": 85,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_116",
+    "industry": "户外旅行",
+    "platform": "B站",
+    "scene_type": "极限挑战",
+    "user_profile": {
+      "age": "41岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户极限挑战时需要运动相机的场景",
+    "trigger_keywords": [
+      "运动相机",
+      "极限挑战",
+      "户外旅行",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "运动相机"
+    ],
+    "metrics": {
+      "views_est": 155550,
+      "engagement_rate": 6.6
+    },
+    "heat_score": 60,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_117",
+    "industry": "户外旅行",
+    "platform": "视频号",
+    "scene_type": "出行装备",
+    "user_profile": {
+      "age": "19岁",
+      "gender": "女",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户出行装备时需要登山鞋的场景",
+    "trigger_keywords": [
+      "登山鞋",
+      "出行装备",
+      "户外旅行",
+      "神器"
+    ],
+    "paired_skus": [
+      "登山鞋"
+    ],
+    "metrics": {
+      "views_est": 321461,
+      "engagement_rate": 5.8
+    },
+    "heat_score": 87,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_118",
+    "industry": "户外旅行",
+    "platform": "微博",
+    "scene_type": "旅途记录",
+    "user_profile": {
+      "age": "34岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户旅途记录时需要登山鞋的场景",
+    "trigger_keywords": [
+      "登山鞋",
+      "旅途记录",
+      "户外旅行",
+      "必备"
+    ],
+    "paired_skus": [
+      "登山鞋"
+    ],
+    "metrics": {
+      "views_est": 346201,
+      "engagement_rate": 2.1
+    },
+    "heat_score": 73,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_119",
+    "industry": "户外旅行",
+    "platform": "微博",
+    "scene_type": "极限挑战",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "男",
+      "interest": "户外旅行"
+    },
+    "scenario": "用户极限挑战时需要登山鞋的场景",
+    "trigger_keywords": [
+      "登山鞋",
+      "极限挑战",
+      "户外旅行",
+      "推荐"
+    ],
+    "paired_skus": [
+      "登山鞋"
+    ],
+    "metrics": {
+      "views_est": 447132,
+      "engagement_rate": 2.0
+    },
+    "heat_score": 70,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_120",
+    "industry": "图书教育",
+    "platform": "快手",
+    "scene_type": "学习场景",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户学习场景时需要绘本的场景",
+    "trigger_keywords": [
+      "绘本",
+      "学习场景",
+      "图书教育",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "绘本"
+    ],
+    "metrics": {
+      "views_est": 148296,
+      "engagement_rate": 3.5
+    },
+    "heat_score": 78,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_121",
+    "industry": "图书教育",
+    "platform": "快手",
+    "scene_type": "亲子阅读",
+    "user_profile": {
+      "age": "31岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户亲子阅读时需要绘本的场景",
+    "trigger_keywords": [
+      "绘本",
+      "亲子阅读",
+      "图书教育",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "绘本"
+    ],
+    "metrics": {
+      "views_est": 428920,
+      "engagement_rate": 4.3
+    },
+    "heat_score": 76,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_122",
+    "industry": "图书教育",
+    "platform": "快手",
+    "scene_type": "知识获取",
+    "user_profile": {
+      "age": "33岁",
+      "gender": "男",
+      "interest": "图书教育"
+    },
+    "scenario": "用户知识获取时需要绘本的场景",
+    "trigger_keywords": [
+      "绘本",
+      "知识获取",
+      "图书教育",
+      "推荐"
+    ],
+    "paired_skus": [
+      "绘本"
+    ],
+    "metrics": {
+      "views_est": 408607,
+      "engagement_rate": 5.2
+    },
+    "heat_score": 90,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_123",
+    "industry": "图书教育",
+    "platform": "抖音",
+    "scene_type": "学习场景",
+    "user_profile": {
+      "age": "37岁",
+      "gender": "男",
+      "interest": "图书教育"
+    },
+    "scenario": "用户学习场景时需要教辅书的场景",
+    "trigger_keywords": [
+      "教辅书",
+      "学习场景",
+      "图书教育",
+      "神器"
+    ],
+    "paired_skus": [
+      "教辅书"
+    ],
+    "metrics": {
+      "views_est": 408013,
+      "engagement_rate": 3.2
+    },
+    "heat_score": 76,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_124",
+    "industry": "图书教育",
+    "platform": "微博",
+    "scene_type": "亲子阅读",
+    "user_profile": {
+      "age": "36岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户亲子阅读时需要教辅书的场景",
+    "trigger_keywords": [
+      "教辅书",
+      "亲子阅读",
+      "图书教育",
+      "神器"
+    ],
+    "paired_skus": [
+      "教辅书"
+    ],
+    "metrics": {
+      "views_est": 262156,
+      "engagement_rate": 2.8
+    },
+    "heat_score": 94,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_125",
+    "industry": "图书教育",
+    "platform": "快手",
+    "scene_type": "知识获取",
+    "user_profile": {
+      "age": "29岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户知识获取时需要教辅书的场景",
+    "trigger_keywords": [
+      "教辅书",
+      "知识获取",
+      "图书教育",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "教辅书"
+    ],
+    "metrics": {
+      "views_est": 425563,
+      "engagement_rate": 3.3
+    },
+    "heat_score": 79,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_126",
+    "industry": "图书教育",
+    "platform": "B站",
+    "scene_type": "学习场景",
+    "user_profile": {
+      "age": "40岁",
+      "gender": "男",
+      "interest": "图书教育"
+    },
+    "scenario": "用户学习场景时需要有声书的场景",
+    "trigger_keywords": [
+      "有声书",
+      "学习场景",
+      "图书教育",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "有声书"
+    ],
+    "metrics": {
+      "views_est": 226202,
+      "engagement_rate": 2.9
+    },
+    "heat_score": 85,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_127",
+    "industry": "图书教育",
+    "platform": "微博",
+    "scene_type": "亲子阅读",
+    "user_profile": {
+      "age": "21岁",
+      "gender": "男",
+      "interest": "图书教育"
+    },
+    "scenario": "用户亲子阅读时需要有声书的场景",
+    "trigger_keywords": [
+      "有声书",
+      "亲子阅读",
+      "图书教育",
+      "神器"
+    ],
+    "paired_skus": [
+      "有声书"
+    ],
+    "metrics": {
+      "views_est": 187023,
+      "engagement_rate": 7.6
+    },
+    "heat_score": 93,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_128",
+    "industry": "图书教育",
+    "platform": "快手",
+    "scene_type": "知识获取",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户知识获取时需要有声书的场景",
+    "trigger_keywords": [
+      "有声书",
+      "知识获取",
+      "图书教育",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "有声书"
+    ],
+    "metrics": {
+      "views_est": 293776,
+      "engagement_rate": 5.8
+    },
+    "heat_score": 73,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_129",
+    "industry": "图书教育",
+    "platform": "小红书",
+    "scene_type": "学习场景",
+    "user_profile": {
+      "age": "45岁",
+      "gender": "男",
+      "interest": "图书教育"
+    },
+    "scenario": "用户学习场景时需要文具的场景",
+    "trigger_keywords": [
+      "文具",
+      "学习场景",
+      "图书教育",
+      "必备"
+    ],
+    "paired_skus": [
+      "文具"
+    ],
+    "metrics": {
+      "views_est": 261009,
+      "engagement_rate": 4.3
+    },
+    "heat_score": 81,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_130",
+    "industry": "图书教育",
+    "platform": "视频号",
+    "scene_type": "亲子阅读",
+    "user_profile": {
+      "age": "39岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户亲子阅读时需要文具的场景",
+    "trigger_keywords": [
+      "文具",
+      "亲子阅读",
+      "图书教育",
+      "推荐"
+    ],
+    "paired_skus": [
+      "文具"
+    ],
+    "metrics": {
+      "views_est": 159891,
+      "engagement_rate": 6.3
+    },
+    "heat_score": 84,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_131",
+    "industry": "图书教育",
+    "platform": "小红书",
+    "scene_type": "知识获取",
+    "user_profile": {
+      "age": "35岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户知识获取时需要文具的场景",
+    "trigger_keywords": [
+      "文具",
+      "知识获取",
+      "图书教育",
+      "推荐"
+    ],
+    "paired_skus": [
+      "文具"
+    ],
+    "metrics": {
+      "views_est": 269602,
+      "engagement_rate": 6.5
+    },
+    "heat_score": 95,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_132",
+    "industry": "图书教育",
+    "platform": "快手",
+    "scene_type": "学习场景",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "图书教育"
+    },
+    "scenario": "用户学习场景时需要书架的场景",
+    "trigger_keywords": [
+      "书架",
+      "学习场景",
+      "图书教育",
+      "推荐"
+    ],
+    "paired_skus": [
+      "书架"
+    ],
+    "metrics": {
+      "views_est": 199482,
+      "engagement_rate": 5.0
+    },
+    "heat_score": 73,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_133",
+    "industry": "图书教育",
+    "platform": "视频号",
+    "scene_type": "亲子阅读",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "图书教育"
+    },
+    "scenario": "用户亲子阅读时需要书架的场景",
+    "trigger_keywords": [
+      "书架",
+      "亲子阅读",
+      "图书教育",
+      "推荐"
+    ],
+    "paired_skus": [
+      "书架"
+    ],
+    "metrics": {
+      "views_est": 144012,
+      "engagement_rate": 3.4
+    },
+    "heat_score": 62,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_134",
+    "industry": "图书教育",
+    "platform": "微博",
+    "scene_type": "知识获取",
+    "user_profile": {
+      "age": "24岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户知识获取时需要书架的场景",
+    "trigger_keywords": [
+      "书架",
+      "知识获取",
+      "图书教育",
+      "必备"
+    ],
+    "paired_skus": [
+      "书架"
+    ],
+    "metrics": {
+      "views_est": 309146,
+      "engagement_rate": 5.7
+    },
+    "heat_score": 65,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_135",
+    "industry": "图书教育",
+    "platform": "快手",
+    "scene_type": "学习场景",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户学习场景时需要学习机的场景",
+    "trigger_keywords": [
+      "学习机",
+      "学习场景",
+      "图书教育",
+      "推荐"
+    ],
+    "paired_skus": [
+      "学习机"
+    ],
+    "metrics": {
+      "views_est": 330378,
+      "engagement_rate": 2.7
+    },
+    "heat_score": 61,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_136",
+    "industry": "图书教育",
+    "platform": "快手",
+    "scene_type": "亲子阅读",
+    "user_profile": {
+      "age": "37岁",
+      "gender": "男",
+      "interest": "图书教育"
+    },
+    "scenario": "用户亲子阅读时需要学习机的场景",
+    "trigger_keywords": [
+      "学习机",
+      "亲子阅读",
+      "图书教育",
+      "推荐"
+    ],
+    "paired_skus": [
+      "学习机"
+    ],
+    "metrics": {
+      "views_est": 322343,
+      "engagement_rate": 5.4
+    },
+    "heat_score": 94,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_137",
+    "industry": "图书教育",
+    "platform": "小红书",
+    "scene_type": "知识获取",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "女",
+      "interest": "图书教育"
+    },
+    "scenario": "用户知识获取时需要学习机的场景",
+    "trigger_keywords": [
+      "学习机",
+      "知识获取",
+      "图书教育",
+      "必备"
+    ],
+    "paired_skus": [
+      "学习机"
+    ],
+    "metrics": {
+      "views_est": 395673,
+      "engagement_rate": 5.0
+    },
+    "heat_score": 73,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_138",
+    "industry": "汽车用品",
+    "platform": "小红书",
+    "scene_type": "驾驶场景",
+    "user_profile": {
+      "age": "24岁",
+      "gender": "女",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户驾驶场景时需要行车记录仪的场景",
+    "trigger_keywords": [
+      "行车记录仪",
+      "驾驶场景",
+      "汽车用品",
+      "必备"
+    ],
+    "paired_skus": [
+      "行车记录仪"
+    ],
+    "metrics": {
+      "views_est": 426599,
+      "engagement_rate": 5.2
+    },
+    "heat_score": 92,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_139",
+    "industry": "汽车用品",
+    "platform": "抖音",
+    "scene_type": "保养维护",
+    "user_profile": {
+      "age": "36岁",
+      "gender": "不限",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户保养维护时需要行车记录仪的场景",
+    "trigger_keywords": [
+      "行车记录仪",
+      "保养维护",
+      "汽车用品",
+      "推荐"
+    ],
+    "paired_skus": [
+      "行车记录仪"
+    ],
+    "metrics": {
+      "views_est": 91507,
+      "engagement_rate": 5.8
+    },
+    "heat_score": 86,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_140",
+    "industry": "汽车用品",
+    "platform": "小红书",
+    "scene_type": "车内装饰",
+    "user_profile": {
+      "age": "29岁",
+      "gender": "不限",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户车内装饰时需要行车记录仪的场景",
+    "trigger_keywords": [
+      "行车记录仪",
+      "车内装饰",
+      "汽车用品",
+      "推荐"
+    ],
+    "paired_skus": [
+      "行车记录仪"
+    ],
+    "metrics": {
+      "views_est": 345298,
+      "engagement_rate": 7.5
+    },
+    "heat_score": 77,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_141",
+    "industry": "汽车用品",
+    "platform": "B站",
+    "scene_type": "驾驶场景",
+    "user_profile": {
+      "age": "42岁",
+      "gender": "女",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户驾驶场景时需要车载支架的场景",
+    "trigger_keywords": [
+      "车载支架",
+      "驾驶场景",
+      "汽车用品",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "车载支架"
+    ],
+    "metrics": {
+      "views_est": 58060,
+      "engagement_rate": 4.2
+    },
+    "heat_score": 80,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_142",
+    "industry": "汽车用品",
+    "platform": "视频号",
+    "scene_type": "保养维护",
+    "user_profile": {
+      "age": "43岁",
+      "gender": "女",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户保养维护时需要车载支架的场景",
+    "trigger_keywords": [
+      "车载支架",
+      "保养维护",
+      "汽车用品",
+      "神器"
+    ],
+    "paired_skus": [
+      "车载支架"
+    ],
+    "metrics": {
+      "views_est": 369808,
+      "engagement_rate": 7.2
+    },
+    "heat_score": 70,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_143",
+    "industry": "汽车用品",
+    "platform": "快手",
+    "scene_type": "车内装饰",
+    "user_profile": {
+      "age": "39岁",
+      "gender": "男",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户车内装饰时需要车载支架的场景",
+    "trigger_keywords": [
+      "车载支架",
+      "车内装饰",
+      "汽车用品",
+      "神器"
+    ],
+    "paired_skus": [
+      "车载支架"
+    ],
+    "metrics": {
+      "views_est": 178247,
+      "engagement_rate": 4.4
+    },
+    "heat_score": 91,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_144",
+    "industry": "汽车用品",
+    "platform": "视频号",
+    "scene_type": "驾驶场景",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "不限",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户驾驶场景时需要车载充电器的场景",
+    "trigger_keywords": [
+      "车载充电器",
+      "驾驶场景",
+      "汽车用品",
+      "必备"
+    ],
+    "paired_skus": [
+      "车载充电器"
+    ],
+    "metrics": {
+      "views_est": 74900,
+      "engagement_rate": 3.5
+    },
+    "heat_score": 66,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_145",
+    "industry": "汽车用品",
+    "platform": "视频号",
+    "scene_type": "保养维护",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "男",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户保养维护时需要车载充电器的场景",
+    "trigger_keywords": [
+      "车载充电器",
+      "保养维护",
+      "汽车用品",
+      "必备"
+    ],
+    "paired_skus": [
+      "车载充电器"
+    ],
+    "metrics": {
+      "views_est": 114909,
+      "engagement_rate": 5.0
+    },
+    "heat_score": 76,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_146",
+    "industry": "汽车用品",
+    "platform": "微博",
+    "scene_type": "车内装饰",
+    "user_profile": {
+      "age": "19岁",
+      "gender": "男",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户车内装饰时需要车载充电器的场景",
+    "trigger_keywords": [
+      "车载充电器",
+      "车内装饰",
+      "汽车用品",
+      "必备"
+    ],
+    "paired_skus": [
+      "车载充电器"
+    ],
+    "metrics": {
+      "views_est": 134483,
+      "engagement_rate": 7.5
+    },
+    "heat_score": 85,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_147",
+    "industry": "汽车用品",
+    "platform": "快手",
+    "scene_type": "驾驶场景",
+    "user_profile": {
+      "age": "34岁",
+      "gender": "男",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户驾驶场景时需要汽车脚垫的场景",
+    "trigger_keywords": [
+      "汽车脚垫",
+      "驾驶场景",
+      "汽车用品",
+      "必备"
+    ],
+    "paired_skus": [
+      "汽车脚垫"
+    ],
+    "metrics": {
+      "views_est": 462647,
+      "engagement_rate": 3.3
+    },
+    "heat_score": 77,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_148",
+    "industry": "汽车用品",
+    "platform": "微博",
+    "scene_type": "保养维护",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "不限",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户保养维护时需要汽车脚垫的场景",
+    "trigger_keywords": [
+      "汽车脚垫",
+      "保养维护",
+      "汽车用品",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "汽车脚垫"
+    ],
+    "metrics": {
+      "views_est": 63903,
+      "engagement_rate": 4.6
+    },
+    "heat_score": 62,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_149",
+    "industry": "汽车用品",
+    "platform": "抖音",
+    "scene_type": "车内装饰",
+    "user_profile": {
+      "age": "36岁",
+      "gender": "不限",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户车内装饰时需要汽车脚垫的场景",
+    "trigger_keywords": [
+      "汽车脚垫",
+      "车内装饰",
+      "汽车用品",
+      "神器"
+    ],
+    "paired_skus": [
+      "汽车脚垫"
+    ],
+    "metrics": {
+      "views_est": 177120,
+      "engagement_rate": 6.4
+    },
+    "heat_score": 63,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_150",
+    "industry": "汽车用品",
+    "platform": "B站",
+    "scene_type": "驾驶场景",
+    "user_profile": {
+      "age": "42岁",
+      "gender": "女",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户驾驶场景时需要香水的场景",
+    "trigger_keywords": [
+      "香水",
+      "驾驶场景",
+      "汽车用品",
+      "推荐"
+    ],
+    "paired_skus": [
+      "香水"
+    ],
+    "metrics": {
+      "views_est": 349041,
+      "engagement_rate": 5.4
+    },
+    "heat_score": 93,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_151",
+    "industry": "汽车用品",
+    "platform": "微博",
+    "scene_type": "保养维护",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "不限",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户保养维护时需要香水的场景",
+    "trigger_keywords": [
+      "香水",
+      "保养维护",
+      "汽车用品",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "香水"
+    ],
+    "metrics": {
+      "views_est": 420865,
+      "engagement_rate": 6.3
+    },
+    "heat_score": 65,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_152",
+    "industry": "汽车用品",
+    "platform": "微博",
+    "scene_type": "车内装饰",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户车内装饰时需要香水的场景",
+    "trigger_keywords": [
+      "香水",
+      "车内装饰",
+      "汽车用品",
+      "必备"
+    ],
+    "paired_skus": [
+      "香水"
+    ],
+    "metrics": {
+      "views_est": 231705,
+      "engagement_rate": 3.7
+    },
+    "heat_score": 86,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_153",
+    "industry": "汽车用品",
+    "platform": "小红书",
+    "scene_type": "驾驶场景",
+    "user_profile": {
+      "age": "45岁",
+      "gender": "男",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户驾驶场景时需要洗车液的场景",
+    "trigger_keywords": [
+      "洗车液",
+      "驾驶场景",
+      "汽车用品",
+      "推荐"
+    ],
+    "paired_skus": [
+      "洗车液"
+    ],
+    "metrics": {
+      "views_est": 83283,
+      "engagement_rate": 3.2
+    },
+    "heat_score": 89,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_154",
+    "industry": "汽车用品",
+    "platform": "B站",
+    "scene_type": "保养维护",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "女",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户保养维护时需要洗车液的场景",
+    "trigger_keywords": [
+      "洗车液",
+      "保养维护",
+      "汽车用品",
+      "必备"
+    ],
+    "paired_skus": [
+      "洗车液"
+    ],
+    "metrics": {
+      "views_est": 380940,
+      "engagement_rate": 6.8
+    },
+    "heat_score": 78,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_155",
+    "industry": "汽车用品",
+    "platform": "视频号",
+    "scene_type": "车内装饰",
+    "user_profile": {
+      "age": "31岁",
+      "gender": "女",
+      "interest": "汽车用品"
+    },
+    "scenario": "用户车内装饰时需要洗车液的场景",
+    "trigger_keywords": [
+      "洗车液",
+      "车内装饰",
+      "汽车用品",
+      "推荐"
+    ],
+    "paired_skus": [
+      "洗车液"
+    ],
+    "metrics": {
+      "views_est": 425702,
+      "engagement_rate": 6.1
+    },
+    "heat_score": 74,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_156",
+    "industry": "办公文具",
+    "platform": "小红书",
+    "scene_type": "办公场景",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "办公文具"
+    },
+    "scenario": "用户办公场景时需要笔记本的场景",
+    "trigger_keywords": [
+      "笔记本",
+      "办公场景",
+      "办公文具",
+      "必备"
+    ],
+    "paired_skus": [
+      "笔记本"
+    ],
+    "metrics": {
+      "views_est": 419643,
+      "engagement_rate": 3.5
+    },
+    "heat_score": 73,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_157",
+    "industry": "办公文具",
+    "platform": "B站",
+    "scene_type": "学习用品",
+    "user_profile": {
+      "age": "38岁",
+      "gender": "女",
+      "interest": "办公文具"
+    },
+    "scenario": "用户学习用品时需要笔记本的场景",
+    "trigger_keywords": [
+      "笔记本",
+      "学习用品",
+      "办公文具",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "笔记本"
+    ],
+    "metrics": {
+      "views_est": 214847,
+      "engagement_rate": 2.3
+    },
+    "heat_score": 86,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_158",
+    "industry": "办公文具",
+    "platform": "小红书",
+    "scene_type": "效率工具",
+    "user_profile": {
+      "age": "21岁",
+      "gender": "不限",
+      "interest": "办公文具"
+    },
+    "scenario": "用户效率工具时需要笔记本的场景",
+    "trigger_keywords": [
+      "笔记本",
+      "效率工具",
+      "办公文具",
+      "推荐"
+    ],
+    "paired_skus": [
+      "笔记本"
+    ],
+    "metrics": {
+      "views_est": 276951,
+      "engagement_rate": 7.3
+    },
+    "heat_score": 68,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_159",
+    "industry": "办公文具",
+    "platform": "快手",
+    "scene_type": "办公场景",
+    "user_profile": {
+      "age": "41岁",
+      "gender": "女",
+      "interest": "办公文具"
+    },
+    "scenario": "用户办公场景时需要钢笔的场景",
+    "trigger_keywords": [
+      "钢笔",
+      "办公场景",
+      "办公文具",
+      "神器"
+    ],
+    "paired_skus": [
+      "钢笔"
+    ],
+    "metrics": {
+      "views_est": 245837,
+      "engagement_rate": 4.0
+    },
+    "heat_score": 81,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_160",
+    "industry": "办公文具",
+    "platform": "抖音",
+    "scene_type": "学习用品",
+    "user_profile": {
+      "age": "39岁",
+      "gender": "女",
+      "interest": "办公文具"
+    },
+    "scenario": "用户学习用品时需要钢笔的场景",
+    "trigger_keywords": [
+      "钢笔",
+      "学习用品",
+      "办公文具",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "钢笔"
+    ],
+    "metrics": {
+      "views_est": 137026,
+      "engagement_rate": 3.5
+    },
+    "heat_score": 63,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_161",
+    "industry": "办公文具",
+    "platform": "小红书",
+    "scene_type": "效率工具",
+    "user_profile": {
+      "age": "42岁",
+      "gender": "女",
+      "interest": "办公文具"
+    },
+    "scenario": "用户效率工具时需要钢笔的场景",
+    "trigger_keywords": [
+      "钢笔",
+      "效率工具",
+      "办公文具",
+      "推荐"
+    ],
+    "paired_skus": [
+      "钢笔"
+    ],
+    "metrics": {
+      "views_est": 326806,
+      "engagement_rate": 8.0
+    },
+    "heat_score": 79,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_162",
+    "industry": "办公文具",
+    "platform": "抖音",
+    "scene_type": "办公场景",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "男",
+      "interest": "办公文具"
+    },
+    "scenario": "用户办公场景时需要文件夹的场景",
+    "trigger_keywords": [
+      "文件夹",
+      "办公场景",
+      "办公文具",
+      "推荐"
+    ],
+    "paired_skus": [
+      "文件夹"
+    ],
+    "metrics": {
+      "views_est": 437736,
+      "engagement_rate": 3.6
+    },
+    "heat_score": 62,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_163",
+    "industry": "办公文具",
+    "platform": "抖音",
+    "scene_type": "学习用品",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "女",
+      "interest": "办公文具"
+    },
+    "scenario": "用户学习用品时需要文件夹的场景",
+    "trigger_keywords": [
+      "文件夹",
+      "学习用品",
+      "办公文具",
+      "神器"
+    ],
+    "paired_skus": [
+      "文件夹"
+    ],
+    "metrics": {
+      "views_est": 343240,
+      "engagement_rate": 3.6
+    },
+    "heat_score": 62,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_164",
+    "industry": "办公文具",
+    "platform": "小红书",
+    "scene_type": "效率工具",
+    "user_profile": {
+      "age": "24岁",
+      "gender": "女",
+      "interest": "办公文具"
+    },
+    "scenario": "用户效率工具时需要文件夹的场景",
+    "trigger_keywords": [
+      "文件夹",
+      "效率工具",
+      "办公文具",
+      "必备"
+    ],
+    "paired_skus": [
+      "文件夹"
+    ],
+    "metrics": {
+      "views_est": 365845,
+      "engagement_rate": 5.4
+    },
+    "heat_score": 62,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_165",
+    "industry": "办公文具",
+    "platform": "抖音",
+    "scene_type": "办公场景",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "不限",
+      "interest": "办公文具"
+    },
+    "scenario": "用户办公场景时需要打印机的场景",
+    "trigger_keywords": [
+      "打印机",
+      "办公场景",
+      "办公文具",
+      "推荐"
+    ],
+    "paired_skus": [
+      "打印机"
+    ],
+    "metrics": {
+      "views_est": 54829,
+      "engagement_rate": 3.6
+    },
+    "heat_score": 70,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_166",
+    "industry": "办公文具",
+    "platform": "微博",
+    "scene_type": "学习用品",
+    "user_profile": {
+      "age": "35岁",
+      "gender": "男",
+      "interest": "办公文具"
+    },
+    "scenario": "用户学习用品时需要打印机的场景",
+    "trigger_keywords": [
+      "打印机",
+      "学习用品",
+      "办公文具",
+      "推荐"
+    ],
+    "paired_skus": [
+      "打印机"
+    ],
+    "metrics": {
+      "views_est": 396587,
+      "engagement_rate": 7.8
+    },
+    "heat_score": 64,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_167",
+    "industry": "办公文具",
+    "platform": "B站",
+    "scene_type": "效率工具",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "女",
+      "interest": "办公文具"
+    },
+    "scenario": "用户效率工具时需要打印机的场景",
+    "trigger_keywords": [
+      "打印机",
+      "效率工具",
+      "办公文具",
+      "推荐"
+    ],
+    "paired_skus": [
+      "打印机"
+    ],
+    "metrics": {
+      "views_est": 116488,
+      "engagement_rate": 7.1
+    },
+    "heat_score": 77,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_168",
+    "industry": "办公文具",
+    "platform": "B站",
+    "scene_type": "办公场景",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "不限",
+      "interest": "办公文具"
+    },
+    "scenario": "用户办公场景时需要办公桌的场景",
+    "trigger_keywords": [
+      "办公桌",
+      "办公场景",
+      "办公文具",
+      "神器"
+    ],
+    "paired_skus": [
+      "办公桌"
+    ],
+    "metrics": {
+      "views_est": 408696,
+      "engagement_rate": 2.9
+    },
+    "heat_score": 87,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_169",
+    "industry": "办公文具",
+    "platform": "微博",
+    "scene_type": "学习用品",
+    "user_profile": {
+      "age": "20岁",
+      "gender": "男",
+      "interest": "办公文具"
+    },
+    "scenario": "用户学习用品时需要办公桌的场景",
+    "trigger_keywords": [
+      "办公桌",
+      "学习用品",
+      "办公文具",
+      "神器"
+    ],
+    "paired_skus": [
+      "办公桌"
+    ],
+    "metrics": {
+      "views_est": 478019,
+      "engagement_rate": 6.0
+    },
+    "heat_score": 90,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_170",
+    "industry": "办公文具",
+    "platform": "B站",
+    "scene_type": "效率工具",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "男",
+      "interest": "办公文具"
+    },
+    "scenario": "用户效率工具时需要办公桌的场景",
+    "trigger_keywords": [
+      "办公桌",
+      "效率工具",
+      "办公文具",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "办公桌"
+    ],
+    "metrics": {
+      "views_est": 480023,
+      "engagement_rate": 3.6
+    },
+    "heat_score": 69,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_171",
+    "industry": "办公文具",
+    "platform": "微博",
+    "scene_type": "办公场景",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "女",
+      "interest": "办公文具"
+    },
+    "scenario": "用户办公场景时需要人体工学椅的场景",
+    "trigger_keywords": [
+      "人体工学椅",
+      "办公场景",
+      "办公文具",
+      "推荐"
+    ],
+    "paired_skus": [
+      "人体工学椅"
+    ],
+    "metrics": {
+      "views_est": 139778,
+      "engagement_rate": 7.2
+    },
+    "heat_score": 73,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_172",
+    "industry": "办公文具",
+    "platform": "小红书",
+    "scene_type": "学习用品",
+    "user_profile": {
+      "age": "39岁",
+      "gender": "不限",
+      "interest": "办公文具"
+    },
+    "scenario": "用户学习用品时需要人体工学椅的场景",
+    "trigger_keywords": [
+      "人体工学椅",
+      "学习用品",
+      "办公文具",
+      "神器"
+    ],
+    "paired_skus": [
+      "人体工学椅"
+    ],
+    "metrics": {
+      "views_est": 427723,
+      "engagement_rate": 5.4
+    },
+    "heat_score": 74,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_173",
+    "industry": "办公文具",
+    "platform": "微博",
+    "scene_type": "效率工具",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "女",
+      "interest": "办公文具"
+    },
+    "scenario": "用户效率工具时需要人体工学椅的场景",
+    "trigger_keywords": [
+      "人体工学椅",
+      "效率工具",
+      "办公文具",
+      "推荐"
+    ],
+    "paired_skus": [
+      "人体工学椅"
+    ],
+    "metrics": {
+      "views_est": 74220,
+      "engagement_rate": 5.7
+    },
+    "heat_score": 75,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_174",
+    "industry": "虚拟充值",
+    "platform": "B站",
+    "scene_type": "会员权益",
+    "user_profile": {
+      "age": "38岁",
+      "gender": "女",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户会员权益时需要视频会员的场景",
+    "trigger_keywords": [
+      "视频会员",
+      "会员权益",
+      "虚拟充值",
+      "推荐"
+    ],
+    "paired_skus": [
+      "视频会员"
+    ],
+    "metrics": {
+      "views_est": 326839,
+      "engagement_rate": 5.5
+    },
+    "heat_score": 95,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_175",
+    "industry": "虚拟充值",
+    "platform": "快手",
+    "scene_type": "礼品赠送",
+    "user_profile": {
+      "age": "43岁",
+      "gender": "女",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户礼品赠送时需要视频会员的场景",
+    "trigger_keywords": [
+      "视频会员",
+      "礼品赠送",
+      "虚拟充值",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "视频会员"
+    ],
+    "metrics": {
+      "views_est": 405946,
+      "engagement_rate": 7.5
+    },
+    "heat_score": 90,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_176",
+    "industry": "虚拟充值",
+    "platform": "快手",
+    "scene_type": "消费优惠",
+    "user_profile": {
+      "age": "27岁",
+      "gender": "男",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户消费优惠时需要视频会员的场景",
+    "trigger_keywords": [
+      "视频会员",
+      "消费优惠",
+      "虚拟充值",
+      "必备"
+    ],
+    "paired_skus": [
+      "视频会员"
+    ],
+    "metrics": {
+      "views_est": 225170,
+      "engagement_rate": 7.3
+    },
+    "heat_score": 95,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_177",
+    "industry": "虚拟充值",
+    "platform": "小红书",
+    "scene_type": "会员权益",
+    "user_profile": {
+      "age": "31岁",
+      "gender": "女",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户会员权益时需要音乐会员的场景",
+    "trigger_keywords": [
+      "音乐会员",
+      "会员权益",
+      "虚拟充值",
+      "推荐"
+    ],
+    "paired_skus": [
+      "音乐会员"
+    ],
+    "metrics": {
+      "views_est": 185128,
+      "engagement_rate": 7.4
+    },
+    "heat_score": 77,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_178",
+    "industry": "虚拟充值",
+    "platform": "微博",
+    "scene_type": "礼品赠送",
+    "user_profile": {
+      "age": "25岁",
+      "gender": "不限",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户礼品赠送时需要音乐会员的场景",
+    "trigger_keywords": [
+      "音乐会员",
+      "礼品赠送",
+      "虚拟充值",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "音乐会员"
+    ],
+    "metrics": {
+      "views_est": 427077,
+      "engagement_rate": 4.2
+    },
+    "heat_score": 95,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_179",
+    "industry": "虚拟充值",
+    "platform": "抖音",
+    "scene_type": "消费优惠",
+    "user_profile": {
+      "age": "35岁",
+      "gender": "不限",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户消费优惠时需要音乐会员的场景",
+    "trigger_keywords": [
+      "音乐会员",
+      "消费优惠",
+      "虚拟充值",
+      "神器"
+    ],
+    "paired_skus": [
+      "音乐会员"
+    ],
+    "metrics": {
+      "views_est": 481824,
+      "engagement_rate": 5.7
+    },
+    "heat_score": 89,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_180",
+    "industry": "虚拟充值",
+    "platform": "视频号",
+    "scene_type": "会员权益",
+    "user_profile": {
+      "age": "41岁",
+      "gender": "男",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户会员权益时需要游戏点卡的场景",
+    "trigger_keywords": [
+      "游戏点卡",
+      "会员权益",
+      "虚拟充值",
+      "推荐"
+    ],
+    "paired_skus": [
+      "游戏点卡"
+    ],
+    "metrics": {
+      "views_est": 478101,
+      "engagement_rate": 2.8
+    },
+    "heat_score": 61,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_181",
+    "industry": "虚拟充值",
+    "platform": "快手",
+    "scene_type": "礼品赠送",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "女",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户礼品赠送时需要游戏点卡的场景",
+    "trigger_keywords": [
+      "游戏点卡",
+      "礼品赠送",
+      "虚拟充值",
+      "神器"
+    ],
+    "paired_skus": [
+      "游戏点卡"
+    ],
+    "metrics": {
+      "views_est": 156690,
+      "engagement_rate": 2.9
+    },
+    "heat_score": 63,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_182",
+    "industry": "虚拟充值",
+    "platform": "视频号",
+    "scene_type": "消费优惠",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "女",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户消费优惠时需要游戏点卡的场景",
+    "trigger_keywords": [
+      "游戏点卡",
+      "消费优惠",
+      "虚拟充值",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "游戏点卡"
+    ],
+    "metrics": {
+      "views_est": 432245,
+      "engagement_rate": 3.9
+    },
+    "heat_score": 80,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_183",
+    "industry": "虚拟充值",
+    "platform": "快手",
+    "scene_type": "会员权益",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "女",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户会员权益时需要外卖券的场景",
+    "trigger_keywords": [
+      "外卖券",
+      "会员权益",
+      "虚拟充值",
+      "神器"
+    ],
+    "paired_skus": [
+      "外卖券"
+    ],
+    "metrics": {
+      "views_est": 206663,
+      "engagement_rate": 7.3
+    },
+    "heat_score": 85,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_184",
+    "industry": "虚拟充值",
+    "platform": "快手",
+    "scene_type": "礼品赠送",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "女",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户礼品赠送时需要外卖券的场景",
+    "trigger_keywords": [
+      "外卖券",
+      "礼品赠送",
+      "虚拟充值",
+      "神器"
+    ],
+    "paired_skus": [
+      "外卖券"
+    ],
+    "metrics": {
+      "views_est": 223849,
+      "engagement_rate": 2.2
+    },
+    "heat_score": 74,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_185",
+    "industry": "虚拟充值",
+    "platform": "快手",
+    "scene_type": "消费优惠",
+    "user_profile": {
+      "age": "31岁",
+      "gender": "不限",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户消费优惠时需要外卖券的场景",
+    "trigger_keywords": [
+      "外卖券",
+      "消费优惠",
+      "虚拟充值",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "外卖券"
+    ],
+    "metrics": {
+      "views_est": 291930,
+      "engagement_rate": 4.6
+    },
+    "heat_score": 86,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_186",
+    "industry": "虚拟充值",
+    "platform": "视频号",
+    "scene_type": "会员权益",
+    "user_profile": {
+      "age": "22岁",
+      "gender": "男",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户会员权益时需要购物卡的场景",
+    "trigger_keywords": [
+      "购物卡",
+      "会员权益",
+      "虚拟充值",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "购物卡"
+    ],
+    "metrics": {
+      "views_est": 192719,
+      "engagement_rate": 5.8
+    },
+    "heat_score": 65,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_187",
+    "industry": "虚拟充值",
+    "platform": "B站",
+    "scene_type": "礼品赠送",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "男",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户礼品赠送时需要购物卡的场景",
+    "trigger_keywords": [
+      "购物卡",
+      "礼品赠送",
+      "虚拟充值",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "购物卡"
+    ],
+    "metrics": {
+      "views_est": 497837,
+      "engagement_rate": 6.7
+    },
+    "heat_score": 74,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_188",
+    "industry": "虚拟充值",
+    "platform": "微博",
+    "scene_type": "消费优惠",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "男",
+      "interest": "虚拟充值"
+    },
+    "scenario": "用户消费优惠时需要购物卡的场景",
+    "trigger_keywords": [
+      "购物卡",
+      "消费优惠",
+      "虚拟充值",
+      "必备"
+    ],
+    "paired_skus": [
+      "购物卡"
+    ],
+    "metrics": {
+      "views_est": 266024,
+      "engagement_rate": 2.5
+    },
+    "heat_score": 61,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_189",
+    "industry": "家电数码",
+    "platform": "B站",
+    "scene_type": "智能家居",
+    "user_profile": {
+      "age": "44岁",
+      "gender": "女",
+      "interest": "家电数码"
+    },
+    "scenario": "用户智能家居时需要扫地机器人的场景",
+    "trigger_keywords": [
+      "扫地机器人",
+      "智能家居",
+      "家电数码",
+      "必备"
+    ],
+    "paired_skus": [
+      "扫地机器人"
+    ],
+    "metrics": {
+      "views_est": 322129,
+      "engagement_rate": 2.8
+    },
+    "heat_score": 63,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_190",
+    "industry": "家电数码",
+    "platform": "抖音",
+    "scene_type": "数码体验",
+    "user_profile": {
+      "age": "38岁",
+      "gender": "女",
+      "interest": "家电数码"
+    },
+    "scenario": "用户数码体验时需要扫地机器人的场景",
+    "trigger_keywords": [
+      "扫地机器人",
+      "数码体验",
+      "家电数码",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "扫地机器人"
+    ],
+    "metrics": {
+      "views_est": 439975,
+      "engagement_rate": 3.6
+    },
+    "heat_score": 78,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_191",
+    "industry": "家电数码",
+    "platform": "抖音",
+    "scene_type": "生活品质",
+    "user_profile": {
+      "age": "26岁",
+      "gender": "不限",
+      "interest": "家电数码"
+    },
+    "scenario": "用户生活品质时需要扫地机器人的场景",
+    "trigger_keywords": [
+      "扫地机器人",
+      "生活品质",
+      "家电数码",
+      "推荐"
+    ],
+    "paired_skus": [
+      "扫地机器人"
+    ],
+    "metrics": {
+      "views_est": 292730,
+      "engagement_rate": 6.7
+    },
+    "heat_score": 72,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_192",
+    "industry": "家电数码",
+    "platform": "小红书",
+    "scene_type": "智能家居",
+    "user_profile": {
+      "age": "37岁",
+      "gender": "女",
+      "interest": "家电数码"
+    },
+    "scenario": "用户智能家居时需要空气净化器的场景",
+    "trigger_keywords": [
+      "空气净化器",
+      "智能家居",
+      "家电数码",
+      "推荐"
+    ],
+    "paired_skus": [
+      "空气净化器"
+    ],
+    "metrics": {
+      "views_est": 57859,
+      "engagement_rate": 7.9
+    },
+    "heat_score": 75,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_193",
+    "industry": "家电数码",
+    "platform": "抖音",
+    "scene_type": "数码体验",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "不限",
+      "interest": "家电数码"
+    },
+    "scenario": "用户数码体验时需要空气净化器的场景",
+    "trigger_keywords": [
+      "空气净化器",
+      "数码体验",
+      "家电数码",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "空气净化器"
+    ],
+    "metrics": {
+      "views_est": 139257,
+      "engagement_rate": 6.3
+    },
+    "heat_score": 71,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_194",
+    "industry": "家电数码",
+    "platform": "视频号",
+    "scene_type": "生活品质",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "男",
+      "interest": "家电数码"
+    },
+    "scenario": "用户生活品质时需要空气净化器的场景",
+    "trigger_keywords": [
+      "空气净化器",
+      "生活品质",
+      "家电数码",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "空气净化器"
+    ],
+    "metrics": {
+      "views_est": 213646,
+      "engagement_rate": 3.1
+    },
+    "heat_score": 74,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_195",
+    "industry": "家电数码",
+    "platform": "微博",
+    "scene_type": "智能家居",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "男",
+      "interest": "家电数码"
+    },
+    "scenario": "用户智能家居时需要投影仪的场景",
+    "trigger_keywords": [
+      "投影仪",
+      "智能家居",
+      "家电数码",
+      "宝藏"
+    ],
+    "paired_skus": [
+      "投影仪"
+    ],
+    "metrics": {
+      "views_est": 283306,
+      "engagement_rate": 4.7
+    },
+    "heat_score": 67,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_196",
+    "industry": "家电数码",
+    "platform": "快手",
+    "scene_type": "数码体验",
+    "user_profile": {
+      "age": "32岁",
+      "gender": "不限",
+      "interest": "家电数码"
+    },
+    "scenario": "用户数码体验时需要投影仪的场景",
+    "trigger_keywords": [
+      "投影仪",
+      "数码体验",
+      "家电数码",
+      "推荐"
+    ],
+    "paired_skus": [
+      "投影仪"
+    ],
+    "metrics": {
+      "views_est": 203015,
+      "engagement_rate": 7.6
+    },
+    "heat_score": 69,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_197",
+    "industry": "家电数码",
+    "platform": "快手",
+    "scene_type": "生活品质",
+    "user_profile": {
+      "age": "28岁",
+      "gender": "不限",
+      "interest": "家电数码"
+    },
+    "scenario": "用户生活品质时需要投影仪的场景",
+    "trigger_keywords": [
+      "投影仪",
+      "生活品质",
+      "家电数码",
+      "神器"
+    ],
+    "paired_skus": [
+      "投影仪"
+    ],
+    "metrics": {
+      "views_est": 218611,
+      "engagement_rate": 2.1
+    },
+    "heat_score": 80,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_198",
+    "industry": "家电数码",
+    "platform": "小红书",
+    "scene_type": "智能家居",
+    "user_profile": {
+      "age": "41岁",
+      "gender": "女",
+      "interest": "家电数码"
+    },
+    "scenario": "用户智能家居时需要蓝牙耳机的场景",
+    "trigger_keywords": [
+      "蓝牙耳机",
+      "智能家居",
+      "家电数码",
+      "推荐"
+    ],
+    "paired_skus": [
+      "蓝牙耳机"
+    ],
+    "metrics": {
+      "views_est": 243668,
+      "engagement_rate": 4.8
+    },
+    "heat_score": 62,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_199",
+    "industry": "家电数码",
+    "platform": "视频号",
+    "scene_type": "数码体验",
+    "user_profile": {
+      "age": "42岁",
+      "gender": "不限",
+      "interest": "家电数码"
+    },
+    "scenario": "用户数码体验时需要蓝牙耳机的场景",
+    "trigger_keywords": [
+      "蓝牙耳机",
+      "数码体验",
+      "家电数码",
+      "推荐"
+    ],
+    "paired_skus": [
+      "蓝牙耳机"
+    ],
+    "metrics": {
+      "views_est": 63984,
+      "engagement_rate": 5.6
+    },
+    "heat_score": 90,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_200",
+    "industry": "家电数码",
+    "platform": "抖音",
+    "scene_type": "生活品质",
+    "user_profile": {
+      "age": "33岁",
+      "gender": "男",
+      "interest": "家电数码"
+    },
+    "scenario": "用户生活品质时需要蓝牙耳机的场景",
+    "trigger_keywords": [
+      "蓝牙耳机",
+      "生活品质",
+      "家电数码",
+      "推荐"
+    ],
+    "paired_skus": [
+      "蓝牙耳机"
+    ],
+    "metrics": {
+      "views_est": 438633,
+      "engagement_rate": 2.8
+    },
+    "heat_score": 95,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_201",
+    "industry": "家电数码",
+    "platform": "抖音",
+    "scene_type": "智能家居",
+    "user_profile": {
+      "age": "44岁",
+      "gender": "男",
+      "interest": "家电数码"
+    },
+    "scenario": "用户智能家居时需要降噪耳机的场景",
+    "trigger_keywords": [
+      "降噪耳机",
+      "智能家居",
+      "家电数码",
+      "必备"
+    ],
+    "paired_skus": [
+      "降噪耳机"
+    ],
+    "metrics": {
+      "views_est": 218044,
+      "engagement_rate": 2.5
+    },
+    "heat_score": 70,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_202",
+    "industry": "家电数码",
+    "platform": "小红书",
+    "scene_type": "数码体验",
+    "user_profile": {
+      "age": "18岁",
+      "gender": "不限",
+      "interest": "家电数码"
+    },
+    "scenario": "用户数码体验时需要降噪耳机的场景",
+    "trigger_keywords": [
+      "降噪耳机",
+      "数码体验",
+      "家电数码",
+      "神器"
+    ],
+    "paired_skus": [
+      "降噪耳机"
+    ],
+    "metrics": {
+      "views_est": 103372,
+      "engagement_rate": 2.1
+    },
+    "heat_score": 73,
+    "created": "2026-03-29"
+  },
+  {
+    "id": "scene_203",
+    "industry": "家电数码",
+    "platform": "视频号",
+    "scene_type": "生活品质",
+    "user_profile": {
+      "age": "30岁",
+      "gender": "男",
+      "interest": "家电数码"
+    },
+    "scenario": "用户生活品质时需要降噪耳机的场景",
+    "trigger_keywords": [
+      "降噪耳机",
+      "生活品质",
+      "家电数码",
+      "推荐"
+    ],
+    "paired_skus": [
+      "降噪耳机"
+    ],
+    "metrics": {
+      "views_est": 157011,
+      "engagement_rate": 3.5
+    },
+    "heat_score": 84,
+    "created": "2026-03-29"
   }
 ]
