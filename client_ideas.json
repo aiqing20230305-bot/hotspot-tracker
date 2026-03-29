@@ -1195,5 +1195,1463 @@
     "engagement_estimate": "7,273+",
     "status": "pending",
     "created_at": "2026-03-30T05:28:09.926697"
+  },
+  {
+    "id": "荣耀_20260330T053335",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - 荣耀》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "荣耀_20260330T053335",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《孙俪新剧开播... - 荣耀》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "孙俪新剧开播",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "荣耀_20260330T053335",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《AI大模型降价潮来袭 国产大模型加速商业化... - 荣耀》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "AI大模型降价潮来袭 国产大模型加速商业化",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "罗技_20260330T053335",
+    "client": {
+      "industry": "科技",
+      "brand": "罗技",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《AI大模型降价潮来袭 国产大模型加速商业化... - 罗技》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "AI大模型降价潮来袭 国产大模型加速商业化",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "小米_20260330T053335",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - 小米》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "小米_20260330T053335",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《孙俪新剧开播... - 小米》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "孙俪新剧开播",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "小米_20260330T053335",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《AI大模型降价潮来袭 国产大模型加速商业化... - 小米》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "AI大模型降价潮来袭 国产大模型加速商业化",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "索尼_20260330T053335",
+    "client": {
+      "industry": "科技",
+      "brand": "索尼",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《AI大模型降价潮来袭 国产大模型加速商业化... - 索尼》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "AI大模型降价潮来袭 国产大模型加速商业化",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "AHC_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《乘风2026姐姐阵容官宣... - AHC》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "乘风2026姐姐阵容官宣",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "AHC_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《张子萱硬凹少女感翻车... - AHC》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "张子萱硬凹少女感翻车",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "AHC_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《杨颖咖位降级事件... - AHC》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "杨颖咖位降级事件",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "AHC_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《春季过敏高发期来了 敏感肌护肤需求激增... - AHC》",
+    "platform": "抖音",
+    "angle": "效果对比",
+    "hot_topic": "春季过敏高发期来了 敏感肌护肤需求激增",
+    "script_type": "视频脚本",
+    "engagement_estimate": "25000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "AHC_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《刘亦菲新剧《ahara》预告曝光 神仙姐姐状态引热... - AHC》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "刘亦菲新剧《ahara》预告曝光 神仙姐姐状态引热议",
+    "script_type": "图文脚本",
+    "engagement_estimate": "30000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "多芬_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《乘风2026姐姐阵容官宣... - 多芬》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "乘风2026姐姐阵容官宣",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "多芬_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《杨颖咖位降级事件... - 多芬》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "杨颖咖位降级事件",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "多芬_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《春季过敏高发期来了 敏感肌护肤需求激增... - 多芬》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "春季过敏高发期来了 敏感肌护肤需求激增",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "多芬_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《刘亦菲新剧《ahara》预告曝光 神仙姐姐状态引热... - 多芬》",
+    "platform": "抖音",
+    "angle": "效果对比",
+    "hot_topic": "刘亦菲新剧《ahara》预告曝光 神仙姐姐状态引热议",
+    "script_type": "视频脚本",
+    "engagement_estimate": "25000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "力士_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《春季过敏高发期来了 敏感肌护肤需求激增... - 力士》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏高发期来了 敏感肌护肤需求激增",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "力士_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《刘亦菲新剧《ahara》预告曝光 神仙姐姐状态引热... - 力士》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "刘亦菲新剧《ahara》预告曝光 神仙姐姐状态引热议",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "清扬_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "清扬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《春季过敏高发期来了 敏感肌护肤需求激增... - 清扬》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏高发期来了 敏感肌护肤需求激增",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "玉兰油_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《乘风2026姐姐阵容官宣... - 玉兰油》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "乘风2026姐姐阵容官宣",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "玉兰油_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《张子萱硬凹少女感翻车... - 玉兰油》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "张子萱硬凹少女感翻车",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "玉兰油_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《杨颖咖位降级事件... - 玉兰油》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "杨颖咖位降级事件",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "玉兰油_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《春季过敏高发期来了 敏感肌护肤需求激增... - 玉兰油》",
+    "platform": "抖音",
+    "angle": "效果对比",
+    "hot_topic": "春季过敏高发期来了 敏感肌护肤需求激增",
+    "script_type": "视频脚本",
+    "engagement_estimate": "25000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "玉兰油_20260330T053335",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《刘亦菲新剧《ahara》预告曝光 神仙姐姐状态引热... - 玉兰油》",
+    "platform": "小红书",
+    "angle": "好物推荐",
+    "hot_topic": "刘亦菲新剧《ahara》预告曝光 神仙姐姐状态引热议",
+    "script_type": "图文脚本",
+    "engagement_estimate": "30000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "汤臣倍健_20260330T053335",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - 汤臣倍健》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "汤臣倍健_20260330T053335",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《乘风2026姐姐阵容官宣... - 汤臣倍健》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "乘风2026姐姐阵容官宣",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "汤臣倍健_20260330T053335",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《孙俪新剧开播... - 汤臣倍健》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "孙俪新剧开播",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "善存_20260330T053335",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - 善存》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "善存_20260330T053335",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《乘风2026姐姐阵容官宣... - 善存》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "乘风2026姐姐阵容官宣",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "善存_20260330T053335",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《孙俪新剧开播... - 善存》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "孙俪新剧开播",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "HC_20260330T053335",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - HC》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "HC_20260330T053335",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《乘风2026姐姐阵容官宣... - HC》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "乘风2026姐姐阵容官宣",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "HC_20260330T053335",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《孙俪新剧开播... - HC》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "孙俪新剧开播",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "威猛先生_20260330T053335",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - 威猛先生》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "威猛先生_20260330T053335",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《乘风2026姐姐阵容官宣... - 威猛先生》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "乘风2026姐姐阵容官宣",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "威猛先生_20260330T053335",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《孙俪新剧开播... - 威猛先生》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "孙俪新剧开播",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "舒适_20260330T053335",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - 舒适》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "舒适_20260330T053335",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《乘风2026姐姐阵容官宣... - 舒适》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "乘风2026姐姐阵容官宣",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "舒适_20260330T053335",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《孙俪新剧开播... - 舒适》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "孙俪新剧开播",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "希宝_20260330T053335",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《清明小长假周边游攻略登顶 短途旅行成主流... - 希宝》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "清明小长假周边游攻略登顶 短途旅行成主流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "皇家_20260330T053335",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - 皇家》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "皇家_20260330T053335",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《乘风2026姐姐阵容官宣... - 皇家》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "乘风2026姐姐阵容官宣",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "皇家_20260330T053335",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《孙俪新剧开播... - 皇家》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "孙俪新剧开播",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "OATLY_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - OATLY》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "OATLY_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《清明小长假周边游攻略登顶 短途旅行成主流... - OATLY》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "清明小长假周边游攻略登顶 短途旅行成主流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "OATLY_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《樱花季限定美食刷屏 春季打卡成流量密码... - OATLY》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "樱花季限定美食刷屏 春季打卡成流量密码",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "百威_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《清明小长假周边游攻略登顶 短途旅行成主流... - 百威》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "清明小长假周边游攻略登顶 短途旅行成主流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "百威_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《樱花季限定美食刷屏 春季打卡成流量密码... - 百威》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "樱花季限定美食刷屏 春季打卡成流量密码",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "元气森林_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《夯爆了成2026开年顶流... - 元气森林》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "夯爆了成2026开年顶流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "元气森林_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《清明小长假周边游攻略登顶 短途旅行成主流... - 元气森林》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "清明小长假周边游攻略登顶 短途旅行成主流",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "元气森林_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《樱花季限定美食刷屏 春季打卡成流量密码... - 元气森林》",
+    "platform": "B站",
+    "angle": "场景植入",
+    "hot_topic": "樱花季限定美食刷屏 春季打卡成流量密码",
+    "script_type": "图文脚本",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "农夫山泉_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《清明小长假周边游攻略登顶 短途旅行成主流... - 农夫山泉》",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "清明小长假周边游攻略登顶 短途旅行成主流",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "农夫山泉_20260330T053335",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 4,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ],
+      "content_angles": [
+        "产品测评",
+        "使用教程",
+        "场景植入",
+        "效果对比"
+      ]
+    },
+    "title": "《樱花季限定美食刷屏 春季打卡成流量密码... - 农夫山泉》",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "樱花季限定美食刷屏 春季打卡成流量密码",
+    "script_type": "图文脚本",
+    "engagement_estimate": "15000+",
+    "status": "pending",
+    "created_at": "2026-03-30T05:33:35"
   }
 ]
