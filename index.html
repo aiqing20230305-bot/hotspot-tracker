@@ -457,6 +457,425 @@
         .stat-card .trend.down{background:var(--error-50,#FEE2E2);color:#DC2626}
         .stat-card .icon{font-size:20px;margin-bottom:8px}
         
+        /* ========== 今日数据概览 ========== */
+        .overview-section {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 24px;
+            margin-bottom: 24px;
+            display: none;
+        }
+        .overview-section.loaded { display: block; }
+        .overview-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .overview-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .overview-subtitle {
+            font-size: 12px;
+            color: var(--text-secondary);
+            margin-top: 2px;
+        }
+        .overview-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        @media (max-width: 640px) {
+            .overview-grid { grid-template-columns: 1fr; }
+        }
+        .overview-chart-box {
+            background: var(--gray-50);
+            border-radius: 12px;
+            padding: 16px;
+            border: 1px solid var(--border-color);
+        }
+        [data-theme="dark"] .overview-chart-box {
+            background: rgba(99,102,241,0.05);
+        }
+        .overview-chart-label {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 14px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        /* 水平条形图 */
+        .hbar-list { display: flex; flex-direction: column; gap: 10px; }
+        .hbar-item { display: flex; align-items: center; gap: 10px; }
+        .hbar-name {
+            font-size: 12px;
+            color: var(--text-secondary);
+            width: 60px;
+            flex-shrink: 0;
+            text-align: right;
+        }
+        .hbar-track {
+            flex: 1;
+            height: 10px;
+            background: var(--gray-200);
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        [data-theme="dark"] .hbar-track { background: rgba(255,255,255,0.1); }
+        .hbar-fill {
+            height: 100%;
+            border-radius: 5px;
+            transition: width 0.8s cubic-bezier(0.34,1.56,0.64,1);
+            width: 0;
+        }
+        .hbar-fill.color-douyin { background: linear-gradient(90deg, #1C1C1D, #555); }
+        .hbar-fill.color-weibo { background: linear-gradient(90deg, #FF6600, #FF9944); }
+        .hbar-fill.color-xhs { background: linear-gradient(90deg, #FF2442, #FF6680); }
+        .hbar-fill.color-other { background: linear-gradient(90deg, #6366F1, #818CF8); }
+        .hbar-count {
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--text-primary);
+            width: 36px;
+            text-align: right;
+            flex-shrink: 0;
+        }
+        /* 热度类型分布 - 气泡图 */
+        .type-bubbles {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            align-items: center;
+        }
+        .type-bubble {
+            border-radius: 20px;
+            padding: 4px 12px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: default;
+            transition: transform 0.2s;
+            white-space: nowrap;
+        }
+        .type-bubble:hover { transform: scale(1.08); }
+        /* 热度趋势折线图 */
+        .trend-sparkline {
+            width: 100%;
+            height: 80px;
+            position: relative;
+            overflow: hidden;
+        }
+        .trend-sparkline svg {
+            width: 100%;
+            height: 100%;
+        }
+        /* 今日热度 Top 5 迷你排行 */
+        .top5-list { display: flex; flex-direction: column; gap: 8px; }
+        .top5-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 8px 10px;
+            background: var(--bg-card);
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+        .top5-item:hover {
+            border-color: var(--primary-light);
+            box-shadow: 0 2px 8px rgba(99,102,241,0.12);
+            transform: translateX(3px);
+        }
+        .top5-rank {
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            background: var(--gray-200);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: 800;
+            color: var(--gray-600);
+            flex-shrink: 0;
+        }
+        .top5-rank.r1 { background: #FEF3C7; color: #D97706; }
+        .top5-rank.r2 { background: #F3F4F6; color: #6B7280; }
+        .top5-rank.r3 { background: #FEF3C7; color: #B45309; }
+        [data-theme="dark"] .top5-rank { background: #374151; color: #9CA3AF; }
+        [data-theme="dark"] .top5-rank.r1 { background: #78350f; color: #fbbf24; }
+        .top5-title {
+            flex: 1;
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-primary);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .top5-heat {
+            font-size: 11px;
+            color: var(--error);
+            font-weight: 600;
+            flex-shrink: 0;
+        }
+
+        /* ========== 智能推荐板块 ========== */
+        .smart-rec-section {
+            background: linear-gradient(135deg, #EEF2FF 0%, #F5F3FF 50%, #EDE9FE 100%);
+            border-radius: var(--radius);
+            padding: 24px;
+            margin-bottom: 24px;
+            border: 1px solid rgba(99,102,241,0.2);
+            display: none;
+            position: relative;
+            overflow: hidden;
+        }
+        [data-theme="dark"] .smart-rec-section {
+            background: linear-gradient(135deg, #1e1b4b 0%, #1e1b4b 50%, #2e1065 100%);
+            border-color: rgba(99,102,241,0.3);
+        }
+        .smart-rec-section.loaded { display: block; }
+        .smart-rec-section::before {
+            content: '🤖';
+            position: absolute;
+            right: 24px;
+            top: 20px;
+            font-size: 48px;
+            opacity: 0.08;
+            pointer-events: none;
+        }
+        .smart-rec-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            margin-bottom: 16px;
+            gap: 12px;
+        }
+        .smart-rec-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--primary-dark);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        [data-theme="dark"] .smart-rec-title { color: #a5b4fc; }
+        .smart-rec-desc {
+            font-size: 12px;
+            color: var(--text-secondary);
+            margin-top: 4px;
+            line-height: 1.5;
+        }
+        .smart-rec-rules {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+        .rule-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            border: 1px solid;
+        }
+        .rule-badge.industry { background: rgba(16,185,129,0.1); color: #059669; border-color: rgba(16,185,129,0.3); }
+        .rule-badge.platform { background: rgba(28,28,29,0.08); color: #1C1C1D; border-color: rgba(28,28,29,0.2); }
+        .rule-badge.angle { background: rgba(245,158,11,0.1); color: #D97706; border-color: rgba(245,158,11,0.3); }
+        [data-theme="dark"] .rule-badge.platform { background: rgba(255,255,255,0.1); color: #e5e7eb; border-color: rgba(255,255,255,0.2); }
+        .smart-rec-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 12px;
+        }
+        .smart-rec-card {
+            background: var(--bg-card);
+            border-radius: 12px;
+            padding: 16px;
+            border: 2px solid transparent;
+            box-shadow: 0 2px 8px rgba(99,102,241,0.08);
+            transition: all 0.3s;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+        .smart-rec-card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--primary), var(--primary-light));
+        }
+        .smart-rec-card:hover {
+            border-color: var(--primary-light);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 24px rgba(99,102,241,0.2);
+        }
+        .smart-rec-card-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        .smart-rec-score {
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: #fff;
+            border-radius: 8px;
+            padding: 4px 8px;
+            font-size: 13px;
+            font-weight: 800;
+            flex-shrink: 0;
+            min-width: 40px;
+            text-align: center;
+        }
+        .smart-rec-card-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-primary);
+            line-height: 1.4;
+            flex: 1;
+        }
+        .smart-rec-card-meta {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+            margin-bottom: 10px;
+        }
+        .smart-rec-tag {
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        .smart-rec-tag.platform { background: #1C1C1D; color: #fff; }
+        .smart-rec-tag.industry { background: rgba(16,185,129,0.15); color: #059669; }
+        .smart-rec-tag.angle { background: rgba(245,158,11,0.15); color: #D97706; }
+        .smart-rec-reason {
+            font-size: 12px;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            padding: 8px 10px;
+            background: var(--gray-50);
+            border-radius: 8px;
+            border-left: 3px solid var(--primary-light);
+        }
+        [data-theme="dark"] .smart-rec-reason { background: rgba(99,102,241,0.08); }
+        .smart-rec-empty {
+            text-align: center;
+            padding: 32px;
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+        .smart-rec-refresh {
+            background: rgba(99,102,241,0.1);
+            border: 1px solid rgba(99,102,241,0.3);
+            color: var(--primary);
+            padding: 6px 14px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 600;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+        .smart-rec-refresh:hover {
+            background: var(--primary);
+            color: #fff;
+        }
+
+        /* ========== 热点趋势图表（全局） ========== */
+        .trend-chart-section {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 24px;
+            margin-bottom: 24px;
+            display: none;
+        }
+        .trend-chart-section.loaded { display: block; }
+        .trend-chart-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .trend-chart-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .trend-tabs {
+            display: flex;
+            gap: 4px;
+            background: var(--gray-100);
+            padding: 3px;
+            border-radius: 8px;
+        }
+        [data-theme="dark"] .trend-tabs { background: rgba(255,255,255,0.08); }
+        .trend-tab {
+            padding: 5px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            color: var(--text-secondary);
+            transition: all 0.2s;
+            border: none;
+            background: transparent;
+        }
+        .trend-tab.active {
+            background: var(--bg-card);
+            color: var(--primary);
+            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        }
+        .trend-chart-canvas {
+            width: 100%;
+            height: 160px;
+            position: relative;
+            overflow: hidden;
+        }
+        .trend-chart-canvas svg {
+            width: 100%;
+            height: 100%;
+            overflow: visible;
+        }
+        .trend-legend {
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+            margin-top: 12px;
+        }
+        .trend-legend-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+        .trend-legend-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+
         /* 排序和筛选工具栏 */
         .sort-toolbar {
             display: flex;
@@ -636,6 +1055,68 @@
             </div>
         </div>
         
+        <!-- 今日数据概览 -->
+        <div class="overview-section" id="overviewSection">
+            <div class="overview-header">
+                <div>
+                    <div class="overview-title">📊 今日数据概览</div>
+                    <div class="overview-subtitle" id="overviewSubtitle">基于实时热点数据的快速统计</div>
+                </div>
+            </div>
+            <div class="overview-grid">
+                <!-- 左列：平台分布 + 热度 Top5 -->
+                <div style="display:flex;flex-direction:column;gap:16px;">
+                    <div class="overview-chart-box">
+                        <div class="overview-chart-label">📡 平台分布</div>
+                        <div class="hbar-list" id="platformDistChart"></div>
+                    </div>
+                    <div class="overview-chart-box">
+                        <div class="overview-chart-label">🔥 热度排行 Top 5</div>
+                        <div class="top5-list" id="top5List"></div>
+                    </div>
+                </div>
+                <!-- 右列：内容类型分布 + 近期趋势 -->
+                <div style="display:flex;flex-direction:column;gap:16px;">
+                    <div class="overview-chart-box">
+                        <div class="overview-chart-label">📂 内容类型分布</div>
+                        <div class="type-bubbles" id="typeDistChart"></div>
+                    </div>
+                    <div class="overview-chart-box">
+                        <div class="overview-chart-label">📈 24小时热度趋势</div>
+                        <div class="trend-sparkline" id="heatSparkline"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 热点趋势图表 -->
+        <div class="trend-chart-section" id="trendChartSection">
+            <div class="trend-chart-header">
+                <div class="trend-chart-title">📈 热点趋势分析</div>
+                <div class="trend-tabs" id="trendTabs">
+                    <button class="trend-tab active" data-view="heat" onclick="switchTrendView('heat')">热度趋势</button>
+                    <button class="trend-tab" data-view="type" onclick="switchTrendView('type')">类型分布</button>
+                </div>
+            </div>
+            <div class="trend-chart-canvas" id="trendChartCanvas"></div>
+            <div class="trend-legend" id="trendLegend"></div>
+        </div>
+
+        <!-- 智能推荐板块 -->
+        <div class="smart-rec-section" id="smartRecSection">
+            <div class="smart-rec-header">
+                <div>
+                    <div class="smart-rec-title">🤖 智能选题推荐</div>
+                    <div class="smart-rec-desc">基于历史内容表现数据，自动筛选高潜力选题</div>
+                </div>
+                <button class="smart-rec-refresh" onclick="renderSmartRecommendations()">🔄 重新推荐</button>
+            </div>
+            <div class="smart-rec-rules" id="smartRecRules"></div>
+            <div class="smart-rec-cards" id="smartRecCards">
+                <div class="smart-rec-empty">⏳ 正在分析热点数据生成推荐...</div>
+            </div>
+        </div>
+
         <!-- 平台筛选 -->
         <div class="filter-bar">
             <button class="filter-btn active" onclick="filterByPlatform('all')">全部平台</button>
