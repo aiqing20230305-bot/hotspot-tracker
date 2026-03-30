@@ -195,9 +195,9 @@
         .hot-item:hover .expand-icon{color:var(--primary)}
         .hot-item.expanded .expand-icon{transform:rotate(180deg);color:var(--primary)}
         /* 热点详情弹窗 - 优化版 */
-        .hot-detail{max-height:0;overflow:hidden;transition:max-height 0.4s cubic-bezier(0.4,0,0.2,1),padding 0.4s cubic-bezier(0.4,0,0.2,1),opacity 0.3s ease;background:var(--hover-bg);padding:0 20px;opacity:0}
-        .hot-item.expanded .hot-detail{max-height:600px;padding:20px;opacity:1;animation:slideDown 0.4s ease-out}
-        @keyframes slideDown{from{opacity:0;transform:translateY(-10px)}to{opacity:1;transform:translateY(0)}}
+        .hot-detail{max-height:0;overflow:hidden;transition:max-height 0.5s cubic-bezier(0.4,0,0.2,1),padding 0.5s cubic-bezier(0.4,0,0.2,1),opacity 0.4s ease,transform 0.4s ease;background:var(--hover-bg);padding:0 20px;opacity:0;transform:scaleY(0.95);transform-origin:top}
+        .hot-item.expanded .hot-detail{max-height:1200px;padding:20px;opacity:1;transform:scaleY(1);animation:slideDown 0.5s cubic-bezier(0.34,1.56,0.64,1)}
+        @keyframes slideDown{from{opacity:0;transform:translateY(-15px) scaleY(0.9)}to{opacity:1;transform:translateY(0) scaleY(1)}}
         .detail-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-bottom:16px}
         .detail-card{background:var(--bg-card);padding:14px 16px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.04);border:1px solid var(--border-color);transition:transform 0.2s,box-shadow 0.2s}
         .detail-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(99,102,241,0.1)}
@@ -213,6 +213,62 @@
         .client-tag{background:linear-gradient(135deg,#EEF2FF,#E0E7FF);color:var(--primary-dark);padding:6px 14px;border-radius:20px;font-size:13px;font-weight:500;box-shadow:0 2px 6px rgba(99,102,241,0.15);transition:all 0.2s;border:1px solid rgba(99,102,241,0.2)}
         [data-theme="dark"] .client-tag{background:linear-gradient(135deg,#312e81,#3730a3);color:#c7d2fe}
         .client-tag:hover{transform:translateY(-1px) scale(1.02);box-shadow:0 4px 10px rgba(99,102,241,0.25);background:linear-gradient(135deg,#E0E7FF,#C7D2FE)}
+        
+        /* Mini 可视化图表区 */
+        .mini-chart-section{margin:16px 0;padding:16px;background:var(--bg-card);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.04);border:1px solid var(--border-color)}
+        .mini-chart-title{font-size:13px;font-weight:600;color:var(--text-secondary);margin-bottom:12px;display:flex;align-items:center;gap:6px}
+        .mini-chart-title::before{content:'📊';font-size:14px}
+        .mini-chart-container{display:flex;align-items:flex-end;gap:8px;height:100px;padding:10px 12px;background:linear-gradient(180deg,transparent 0%,var(--gray-50) 100%);border-radius:8px;position:relative}
+        [data-theme="dark"] .mini-chart-container{background:linear-gradient(180deg,transparent 0%,rgba(99,102,241,0.05) 100%)}
+        .chart-bar-wrapper{flex:1;display:flex;flex-direction:column;align-items:center;gap:6px}
+        .chart-bar{width:100%;border-radius:6px 6px 2px 2px;transition:height 0.6s cubic-bezier(0.34,1.56,0.64,1);position:relative;min-height:4px}
+        .chart-bar::after{content:attr(data-value);position:absolute;top:-20px;left:50%;transform:translateX(-50%);font-size:11px;font-weight:600;color:var(--text-primary);opacity:0;transition:opacity 0.3s}
+        .chart-bar-wrapper:hover .chart-bar::after{opacity:1}
+        .chart-bar-wrapper:hover .chart-bar{filter:brightness(1.1);transform:scaleY(1.05)}
+        .chart-bar.bar-1{background:linear-gradient(180deg,#818CF8 0%,#6366F1 100%)}
+        .chart-bar.bar-2{background:linear-gradient(180deg,#A78BFA 0%,#8B5CF6 100%)}
+        .chart-bar.bar-3{background:linear-gradient(180deg,#C4B5FD 0%,#A78BFA 100%)}
+        .chart-bar.bar-4{background:linear-gradient(180deg,#DDD6FE 0%,#C4B5FD 100%)}
+        .chart-bar.bar-5{background:linear-gradient(180deg,#EDE9FE 0%,#DDD6FE 100%)}
+        [data-theme="dark"] .chart-bar.bar-5{background:linear-gradient(180deg,#4C1D95 0%,#5B21B6 100%)}
+        .chart-label{font-size:10px;color:var(--text-secondary);text-align:center;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+        
+        /* 相关选题推荐 */
+        .related-topics{margin-top:16px;padding:16px;background:var(--bg-card);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.04);border:1px solid var(--border-color)}
+        .related-title{font-size:13px;font-weight:600;color:var(--text-secondary);margin-bottom:12px;display:flex;align-items:center;gap:6px}
+        .related-title::before{content:'💡';font-size:14px}
+        .related-cards{display:flex;gap:10px;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch}
+        .related-card{min-width:140px;padding:12px;background:linear-gradient(135deg,var(--gray-50) 0%,var(--gray-100) 100%);border-radius:10px;border:1px solid var(--border-color);cursor:pointer;transition:all 0.2s;flex-shrink:0}
+        [data-theme="dark"] .related-card{background:linear-gradient(135deg,rgba(99,102,241,0.08) 0%,rgba(99,102,241,0.12) 100%)}
+        .related-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(99,102,241,0.15);border-color:var(--primary-light)}
+        .related-card-title{font-size:12px;font-weight:600;color:var(--text-primary);margin-bottom:6px;line-height:1.4}
+        .related-card-meta{font-size:10px;color:var(--text-secondary);display:flex;align-items:center;gap:4px}
+        .related-card-heat{color:var(--error);font-weight:600}
+        
+        /* 生成内容脚本按钮 */
+        .script-btn-section{margin-top:16px;display:flex;gap:10px;flex-wrap:wrap}
+        .script-btn{display:inline-flex;align-items:center;gap:6px;padding:10px 20px;background:linear-gradient(135deg,var(--primary) 0%,var(--primary-dark) 100%);color:#fff;border:none;border-radius:10px;font-size:14px;font-weight:600;cursor:pointer;transition:all 0.3s;box-shadow:0 4px 12px rgba(99,102,241,0.3)}
+        .script-btn:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(99,102,241,0.4)}
+        .script-btn:active{transform:translateY(0)}
+        .script-btn.secondary{background:var(--bg-card);color:var(--primary);border:2px solid var(--primary);box-shadow:none}
+        .script-btn.secondary:hover{background:var(--primary);color:#fff}
+        
+        /* 脚本弹窗 */
+        .script-popup{position:fixed;top:80px;left:50%;transform:translateX(-50%) translateY(-20px);width:90%;max-width:700px;background:var(--bg-card);border-radius:16px;box-shadow:0 20px 60px rgba(0,0,0,0.2);z-index:2000;opacity:0;visibility:hidden;transition:all 0.4s cubic-bezier(0.34,1.56,0.64,1);border:2px solid var(--primary-light)}
+        .script-popup.show{opacity:1;visibility:visible;transform:translateX(-50%) translateY(0)}
+        .script-popup-header{padding:16px 20px;border-bottom:1px solid var(--border-color);display:flex;align-items:center;justify-content:space-between}
+        .script-popup-title{font-size:16px;font-weight:700;color:var(--text-primary);display:flex;align-items:center;gap:8px}
+        .script-popup-close{width:32px;height:32px;border-radius:8px;border:none;background:var(--gray-100);color:var(--text-secondary);cursor:pointer;font-size:18px;transition:all 0.2s;display:flex;align-items:center;justify-content:center}
+        [data-theme="dark"] .script-popup-close{background:rgba(255,255,255,0.1)}
+        .script-popup-close:hover{background:var(--error);color:#fff}
+        .script-popup-body{padding:20px;max-height:400px;overflow-y:auto}
+        .script-content{font-size:13px;line-height:1.8;color:var(--text-primary);white-space:pre-wrap;font-family:inherit}
+        .script-section{margin-bottom:16px;padding:12px;background:var(--gray-50);border-radius:8px;border-left:3px solid var(--primary)}
+        [data-theme="dark"] .script-section{background:rgba(99,102,241,0.08)}
+        .script-section-title{font-size:12px;font-weight:700;color:var(--primary);margin-bottom:8px}
+        .script-popup-footer{padding:12px 20px;border-top:1px solid var(--border-color);display:flex;gap:10px;justify-content:flex-end}
+        .script-popup-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.3);backdrop-filter:blur(4px);z-index:1999;opacity:0;visibility:hidden;transition:all 0.3s}
+        .script-popup-overlay.show{opacity:1;visibility:visible}
         /* 热点详情 - 移动端适配 */
         @media (max-width: 768px) {
             .detail-grid {
@@ -229,6 +285,35 @@
             .client-tag {
                 padding: 5px 12px;
                 font-size: 12px;
+            }
+            .mini-chart-container {
+                height: 80px;
+                gap: 6px;
+            }
+            .chart-label {
+                font-size: 9px;
+            }
+            .related-cards {
+                gap: 8px;
+            }
+            .related-card {
+                min-width: 120px;
+                padding: 10px;
+            }
+            .related-card-title {
+                font-size: 11px;
+            }
+            .script-btn {
+                padding: 8px 16px;
+                font-size: 13px;
+            }
+            .script-popup {
+                top: 70px;
+                width: 95%;
+            }
+            .script-popup-body {
+                max-height: 300px;
+                padding: 16px;
             }
         }
         @media (max-width: 480px) {
@@ -818,6 +903,29 @@
             if (countEl) countEl.textContent = count;
         }
         
+        // 相关选题 mock 数据
+        const RELATED_TOPICS_MOCK = [
+            { title: '春季穿搭分享', heat: '89.2万', platform: '小红书' },
+            { title: '好物推荐清单', heat: '76.8万', platform: '抖音' },
+            { title: '生活小妙招', heat: '65.3万', platform: '微博' },
+            { title: '美食探店日记', heat: '58.9万', platform: '小红书' },
+            { title: '健身打卡记录', heat: '45.2万', platform: '抖音' }
+        ];
+        
+        // Mini 图表 mock 数据生成
+        function generateChartData(topicTitle) {
+            // 基于标题生成伪随机数据，让不同热点显示不同数据
+            const seed = topicTitle.split('').reduce((a, c) => a + c.charCodeAt(0), 0);
+            const items = [
+                { label: '视频', value: 60 + (seed % 40) },
+                { label: '图文', value: 40 + ((seed * 2) % 50) },
+                { label: '话题', value: 50 + ((seed * 3) % 45) },
+                { label: '直播', value: 30 + ((seed * 4) % 35) },
+                { label: '评论', value: 45 + ((seed * 5) % 40) }
+            ];
+            return items;
+        }
+        
         // 渲染热点列表（懒加载）
         function renderTopics() {
             const container = document.getElementById('hotList');
@@ -850,6 +958,8 @@
                 const rankClass = index < 3 ? `top${index + 1}` : '';
                 const platformClass = PLATFORM_CLASS[topic.platform] || '';
                 const trend = topic.trend || '🔥 稳定';
+                const chartData = generateChartData(topic.title);
+                const relatedTopics = RELATED_TOPICS_MOCK.slice(0, 3 + (index % 3));
                 
                 html += `
                 <div class="hot-item lazy-hidden" data-index="${index}" role="button" tabindex="0" aria-expanded="false">
@@ -884,12 +994,27 @@
                                 <div class="detail-value">${topic.time || '全天'}</div>
                             </div>
                         </div>
+                        
+                        <!-- Mini 可视化图表区 -->
+                        <div class="mini-chart-section">
+                            <div class="mini-chart-title">相关内容热度对比</div>
+                            <div class="mini-chart-container">
+                                ${chartData.map((item, i) => `
+                                    <div class="chart-bar-wrapper">
+                                        <div class="chart-bar bar-${i + 1}" style="height: ${item.value}%" data-value="${item.value}"></div>
+                                        <div class="chart-label">${item.label}</div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        </div>
+                        
                         ${topic.logic ? `
                         <div class="logic-box">
                             <div class="logic-title">🧠 热点背后逻辑</div>
                             <div class="logic-content">${topic.logic}</div>
                         </div>
                         ` : ''}
+                        
                         ${topic.c && topic.c.length > 0 ? `
                         <div>
                             <div class="detail-label" style="margin-bottom: 8px;">💡 可借势客户</div>
@@ -898,6 +1023,34 @@
                             </div>
                         </div>
                         ` : ''}
+                        
+                        <!-- 相关选题推荐 -->
+                        <div class="related-topics">
+                            <div class="related-title">相关选题推荐</div>
+                            <div class="related-cards">
+                                ${relatedTopics.map(related => `
+                                    <div class="related-card">
+                                        <div class="related-card-title">${related.title}</div>
+                                        <div class="related-card-meta">
+                                            <span>${related.platform}</span>
+                                            <span class="related-card-heat">🔥 ${related.heat}</span>
+                                        </div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        </div>
+                        
+                        <!-- 生成内容脚本按钮 -->
+                        <div class="script-btn-section">
+                            <button class="script-btn" onclick="showScriptPopup('${topic.title.replace(/'/g, "\\'")}', '${topic.platform}')">
+                                <span>📝</span>
+                                <span>生成内容脚本</span>
+                            </button>
+                            <button class="script-btn secondary" onclick="copyToClipboard('${topic.title.replace(/'/g, "\\'")}')">
+                                <span>📋</span>
+                                <span>复制标题</span>
+                            </button>
+                        </div>
                     </div>
                 </div>
                 `;
@@ -967,6 +1120,140 @@
         
         // 加载数据
         document.addEventListener('DOMContentLoaded', loadData);
+        
+        // ========== 脚本弹窗功能 ==========
+        function showScriptPopup(title, platform) {
+            // 创建弹窗（如果不存在）
+            let popup = document.getElementById('scriptPopup');
+            let overlay = document.getElementById('scriptPopupOverlay');
+            
+            if (!popup) {
+                popup = document.createElement('div');
+                popup.id = 'scriptPopup';
+                popup.className = 'script-popup';
+                popup.innerHTML = `
+                    <div class="script-popup-header">
+                        <div class="script-popup-title">
+                            <span>📝</span>
+                            <span>内容脚本模板</span>
+                        </div>
+                        <button class="script-popup-close" onclick="closeScriptPopup()">×</button>
+                    </div>
+                    <div class="script-popup-body">
+                        <div class="script-content" id="scriptContent"></div>
+                    </div>
+                    <div class="script-popup-footer">
+                        <button class="script-btn secondary" onclick="copyScriptContent()">
+                            <span>📋</span>
+                            <span>复制脚本</span>
+                        </button>
+                        <button class="script-btn" onclick="closeScriptPopup()">
+                            <span>✓</span>
+                            <span>完成</span>
+                        </button>
+                    </div>
+                `;
+                document.body.appendChild(popup);
+                
+                overlay = document.createElement('div');
+                overlay.id = 'scriptPopupOverlay';
+                overlay.className = 'script-popup-overlay';
+                overlay.onclick = closeScriptPopup;
+                document.body.appendChild(overlay);
+            }
+            
+            // 生成脚本内容
+            const now = new Date();
+            const dateStr = now.toLocaleDateString('zh-CN');
+            const timeStr = now.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
+            
+            const scriptContent = `
+<div class="script-section">
+    <div class="script-section-title">📌 热点选题</div>
+    <div>${title}</div>
+</div>
+<div class="script-section">
+    <div class="script-section-title">📍 目标平台</div>
+    <div>${platform}</div>
+</div>
+<div class="script-section">
+    <div class="script-section-title">🎯 内容定位</div>
+    <div>• 目标受众：${platform === '抖音' ? '18-35岁年轻用户' : platform === '小红书' ? '20-40岁女性用户' : '全年龄段用户'}
+• 内容调性：轻松有趣、贴近生活
+• 核心价值：信息增量 + 情感共鸣</div>
+</div>
+<div class="script-section">
+    <div class="script-section-title">📝 脚本大纲</div>
+    <div>【开头 Hook】（3-5秒）
+- 用反转/悬念/痛点切入
+- 例："你还在...吗？这个方法让我..."
+
+【核心内容】（15-30秒）
+- 分点阐述，每个要点配画面
+- 每点一句话，简洁有力
+
+【互动引导】（3-5秒）
+- 提问/投票/引导评论
+- 例："你怎么看？评论区告诉我"
+
+【结尾升华】（3-5秒）
+- 总结金句/行动号召
+- 引导关注/点赞/收藏</div>
+</div>
+<div class="script-section">
+    <div class="script-section-title">💡 拍摄建议</div>
+    <div>• 时长建议：${platform === '抖音' ? '30-60秒' : platform === '小红书' ? '1-3分钟' : '1-2分钟'}
+• 发布时间：${platform === '抖音' ? '18:00-22:00' : platform === '小红书' ? '12:00、18:00、21:00' : '12:00、20:00'}
+• 话题标签：#${title.slice(0, 10)} #热点追踪 #今日热点</div>
+</div>
+<div class="script-section">
+    <div class="script-section-title">📅 生成信息</div>
+    <div>生成时间：${dateStr} ${timeStr}
+脚本状态：待优化 · 建议根据实际内容调整</div>
+</div>`;
+            
+            document.getElementById('scriptContent').innerHTML = scriptContent;
+            
+            // 显示弹窗
+            setTimeout(() => {
+                popup.classList.add('show');
+                overlay.classList.add('show');
+            }, 10);
+        }
+        
+        function closeScriptPopup() {
+            const popup = document.getElementById('scriptPopup');
+            const overlay = document.getElementById('scriptPopupOverlay');
+            if (popup) popup.classList.remove('show');
+            if (overlay) overlay.classList.remove('show');
+        }
+        
+        function copyScriptContent() {
+            const content = document.getElementById('scriptContent');
+            if (content) {
+                const text = content.innerText;
+                navigator.clipboard.writeText(text).then(() => {
+                    showRefreshToast('脚本已复制到剪贴板！', 'success');
+                }).catch(() => {
+                    showRefreshToast('复制失败，请手动复制', 'error');
+                });
+            }
+        }
+        
+        function copyToClipboard(title) {
+            navigator.clipboard.writeText(title).then(() => {
+                showRefreshToast('标题已复制！', 'success');
+            }).catch(() => {
+                showRefreshToast('复制失败', 'error');
+            });
+        }
+        
+        // ESC 键关闭弹窗
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeScriptPopup();
+            }
+        });
         
     </script>
 </body>
