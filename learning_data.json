@@ -1,58 +1,68 @@
 {
   "version": "1.0",
   "created_at": "2026-03-26T20:07:16.195747",
-  "updated_at": "2026-03-26T20:07:16.197486",
+  "updated_at": "2026-03-30T21:43:03.725115",
   "industry_performance": {
     "3C数码": {
-      "count": 2,
-      "total_score": 17.4,
+      "count": 4,
+      "total_score": 34.8,
       "avg_score": 8.7,
       "scores": [
+        9.45,
+        7.95,
         9.45,
         7.95
       ]
     },
     "快消": {
-      "count": 1,
-      "total_score": 9.4,
+      "count": 2,
+      "total_score": 18.8,
       "avg_score": 9.4,
       "scores": [
+        9.4,
         9.4
       ]
     },
     "保健品": {
-      "count": 1,
-      "total_score": 8.777777777777777,
+      "count": 2,
+      "total_score": 17.555555555555554,
       "avg_score": 8.777777777777777,
       "scores": [
+        8.777777777777777,
         8.777777777777777
       ]
     },
     "家庭清洁": {
-      "count": 1,
-      "total_score": 10.416666666666668,
+      "count": 2,
+      "total_score": 20.833333333333336,
       "avg_score": 10.416666666666668,
       "scores": [
+        10.416666666666668,
         10.416666666666668
       ]
     }
   },
   "platform_performance": {
     "抖音": {
-      "count": 3,
-      "total_score": 28.644444444444442,
-      "avg_score": 9.548148148148147,
+      "count": 6,
+      "total_score": 57.28888888888889,
+      "avg_score": 9.54814814814815,
       "scores": [
+        9.45,
+        8.777777777777777,
+        10.416666666666668,
         9.45,
         8.777777777777777,
         10.416666666666668
       ]
     },
     "小红书": {
-      "count": 2,
-      "total_score": 17.35,
+      "count": 4,
+      "total_score": 34.7,
       "avg_score": 8.675,
       "scores": [
+        9.4,
+        7.95,
         9.4,
         7.95
       ]
@@ -60,88 +70,132 @@
   },
   "angle_performance": {
     "产品测评": {
-      "count": 1,
-      "total_score": 9.45,
+      "count": 2,
+      "total_score": 18.9,
       "avg_score": 9.45,
       "scores": [
+        9.45,
         9.45
       ]
     },
     "使用教程": {
-      "count": 1,
-      "total_score": 9.4,
+      "count": 2,
+      "total_score": 18.8,
       "avg_score": 9.4,
       "scores": [
+        9.4,
         9.4
       ]
     },
     "科普知识": {
-      "count": 1,
-      "total_score": 8.777777777777777,
+      "count": 2,
+      "total_score": 17.555555555555554,
       "avg_score": 8.777777777777777,
       "scores": [
+        8.777777777777777,
         8.777777777777777
       ]
     },
     "效果展示": {
-      "count": 1,
-      "total_score": 10.416666666666668,
+      "count": 2,
+      "total_score": 20.833333333333336,
       "avg_score": 10.416666666666668,
       "scores": [
+        10.416666666666668,
         10.416666666666668
       ]
     },
     "选购指南": {
-      "count": 1,
-      "total_score": 7.95,
+      "count": 2,
+      "total_score": 15.9,
       "avg_score": 7.95,
       "scores": [
+        7.95,
         7.95
       ]
     }
   },
   "hot_topic_performance": {
     "华为千元新机": {
-      "count": 1,
-      "total_score": 9.45,
+      "count": 2,
+      "total_score": 18.9,
       "avg_score": 9.45,
       "scores": [
+        9.45,
         9.45
       ]
     },
     "春季护肤攻略": {
-      "count": 1,
-      "total_score": 9.4,
+      "count": 2,
+      "total_score": 18.8,
       "avg_score": 9.4,
       "scores": [
+        9.4,
         9.4
       ]
     },
     "春季养生食谱": {
-      "count": 1,
-      "total_score": 8.777777777777777,
+      "count": 2,
+      "total_score": 17.555555555555554,
       "avg_score": 8.777777777777777,
       "scores": [
+        8.777777777777777,
         8.777777777777777
       ]
     },
     "春日穿搭OOTD": {
-      "count": 1,
-      "total_score": 10.416666666666668,
+      "count": 2,
+      "total_score": 20.833333333333336,
       "avg_score": 10.416666666666668,
       "scores": [
+        10.416666666666668,
         10.416666666666668
       ]
     },
     "春季数码好物": {
-      "count": 1,
-      "total_score": 7.95,
+      "count": 2,
+      "total_score": 15.9,
       "avg_score": 7.95,
       "scores": [
+        7.95,
         7.95
       ]
     }
   },
   "time_performance": {},
-  "optimization_rules": []
+  "optimization_rules": [
+    {
+      "rule_id": "rule_001",
+      "type": "industry_priority",
+      "condition": "行业 == 家庭清洁",
+      "action": "优先选择此行业选题",
+      "score_boost": 1.04,
+      "confidence": 0.85
+    },
+    {
+      "rule_id": "rule_002",
+      "type": "platform_priority",
+      "condition": "平台 == 抖音",
+      "action": "优先在此平台发布",
+      "score_boost": 0.95,
+      "confidence": 0.82
+    },
+    {
+      "rule_id": "rule_003",
+      "type": "angle_priority",
+      "condition": "内容角度 == 效果展示",
+      "action": "推荐使用此内容角度",
+      "score_boost": 1.04,
+      "confidence": 0.8
+    }
+  ],
+  "brand_performance": {},
+  "product_performance": {},
+  "summary": {
+    "total_feedback_analyzed": 5,
+    "top_performing_industry": "家庭清洁",
+    "top_performing_platform": "抖音",
+    "top_performing_angle": "效果展示",
+    "avg_engagement_all": 9.19888888888889
+  }
 }
