@@ -47951,7 +47951,8 @@
     "product": "力士护肤品",
     "engagement_estimate": "45000+",
     "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158340"
+    "created_at": "2026-03-30T12:32:35.158340",
+    "hot_topic_id": 1334
   },
   {
     "id": "清扬_20260330123235_1",
@@ -47973,7 +47974,8 @@
     "product": "清扬洗发水",
     "engagement_estimate": "35000+",
     "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158342"
+    "created_at": "2026-03-30T12:32:35.158342",
+    "hot_topic_id": 1332
   },
   {
     "id": "清扬_20260330123235_2",
@@ -47995,7 +47997,8 @@
     "product": "清扬护发素",
     "engagement_estimate": "40000+",
     "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158344"
+    "created_at": "2026-03-30T12:32:35.158344",
+    "hot_topic_id": 1333
   },
   {
     "id": "清扬_20260330123235_3",
@@ -48017,7 +48020,8 @@
     "product": "清扬头皮护理",
     "engagement_estimate": "45000+",
     "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158346"
+    "created_at": "2026-03-30T12:32:35.158346",
+    "hot_topic_id": 1334
   },
   {
     "id": "玉兰油_20260330123235_1",
@@ -48039,7 +48043,8 @@
     "product": "玉兰油面霜",
     "engagement_estimate": "35000+",
     "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158349"
+    "created_at": "2026-03-30T12:32:35.158349",
+    "hot_topic_id": 1332
   },
   {
     "id": "玉兰油_20260330123235_2",
@@ -48061,7 +48066,8 @@
     "product": "玉兰油精油",
     "engagement_estimate": "40000+",
     "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158351"
+    "created_at": "2026-03-30T12:32:35.158351",
+    "hot_topic_id": 1333
   },
   {
     "id": "玉兰油_20260330123235_3",
@@ -48083,6 +48089,7 @@
     "product": "玉兰油眼霜",
     "engagement_estimate": "45000+",
     "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158353"
+    "created_at": "2026-03-30T12:32:35.158353",
+    "hot_topic_id": 1334
   }
 ]

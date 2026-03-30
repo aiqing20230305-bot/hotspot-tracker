@@ -109,7 +109,7 @@
         }
         .nav-tab:hover { background: var(--primary-50); color: var(--primary); }
         .nav-tab.active { background: var(--primary-50); color: var(--primary); font-weight: 600; }
-        
+
         /* 汉堡菜单 */
         .hamburger {
             display: none;
@@ -138,7 +138,7 @@
         .hamburger.active span:nth-child(3) {
             transform: rotate(-45deg) translate(5px, -5px);
         }
-        
+
         /* 移动端适配 */
         @media (max-width: 768px) {
             .navbar { padding: 0 16px; }
@@ -252,7 +252,7 @@
         .refresh-btn.loading .icon {
             animation: spin 1s linear infinite;
         }
-        
+
         /* 刷新提示toast */
         .refresh-toast {
             position: fixed;
@@ -293,34 +293,6 @@
             }
         }
         
-        /* 数据刷新提示 */
-        .refresh-toast {
-            position: fixed;
-            top: 80px;
-            right: 24px;
-            background: white;
-            padding: 16px 24px;
-            border-radius: 12px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            z-index: 2000;
-            transform: translateX(400px);
-            opacity: 0;
-            transition: all 0.3s ease;
-            border-left: 4px solid var(--primary);
-        }
-        .refresh-toast.show {
-            transform: translateX(0);
-            opacity: 1;
-        }
-        .refresh-toast.success { border-left-color: var(--success); }
-        .refresh-toast.error { border-left-color: var(--error); }
-        .refresh-toast .icon { font-size: 20px; }
-        .refresh-toast .message { font-weight: 500; font-size: 14px; }
-        .refresh-toast .time { font-size: 12px; color: var(--gray-600); margin-top: 2px; }
-
         /* 统计卡片 */
         .stats-grid {
             display: grid;
@@ -1266,19 +1238,19 @@
             navTabs.classList.toggle('show');
             hamburger.classList.toggle('active');
         }
-        
+
         document.querySelectorAll('.nav-tab').forEach(tab => {
             tab.addEventListener('click', () => {
                 document.getElementById('navTabs').classList.remove('show');
                 document.getElementById('hamburger').classList.remove('active');
             });
         });
-        
+
         // 刷新提示toast
         function showRefreshToast(message, type = 'success') {
             const existing = document.querySelector('.refresh-toast');
             if (existing) existing.remove();
-            
+
             const toast = document.createElement('div');
             toast.className = `refresh-toast ${type}`;
             const icon = type === 'success' ? '✅' : type === 'error' ? '❌' : '⏳';
@@ -1297,7 +1269,7 @@
                 setTimeout(() => toast.remove(), 300);
             }, 3000);
         }
-        
+
         // 刷新仪表盘（强制刷新）
         async function refreshDashboard() {
             const btn = document.getElementById('refreshBtn');
@@ -1312,7 +1284,7 @@
                 if (btn) { btn.classList.remove('loading'); btn.disabled = false; }
             }
         }
-        
+
         // ============ 数据加载 ============
         async function loadJSON(path) {
             try {
@@ -1337,7 +1309,7 @@
             const now = new Date();
             const timeText = document.querySelector('#updateTime .time-text');
             if (timeText) {
-                timeText.textContent = 
+                timeText.textContent =
                     `数据更新时间: ${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')} ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
             }
 
@@ -1393,7 +1365,7 @@
             document.getElementById('statAvgEngagement').textContent = avgEngagement > 0 ? (avgEngagement >= 1000 ? (avgEngagement/1000).toFixed(1)+'k' : avgEngagement) : '--';
             document.getElementById('statTodayNew').textContent = todayNew || '--';
             document.getElementById('trendTotalIdeas').textContent = `选题 ${totalIdeas}`;
-            
+
             // 页面头部热点数
             const htcEl = document.getElementById('hotTopicsCount');
             if (htcEl) htcEl.textContent = `🔥 热点 ${hotTopicsCount} | SKU ${skuCount}`;

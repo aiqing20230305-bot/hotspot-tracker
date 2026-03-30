@@ -139,8 +139,34 @@
             overflow: hidden;
             margin-top: 4px;
         }
-        .export-dropdown:hover .export-dropdown-content {
+        .export-dropdown:hover .export-dropdown-content,
+        .export-dropdown.open .export-dropdown-content {
             display: block;
+        }
+        .export-dropdown-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            min-height: 44px;
+        }
+        .export-dropdown-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        .export-dropdown-btn .spinner {
+            width: 14px;
+            height: 14px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-top-color: white;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
         }
         .export-dropdown-item {
             padding: 10px 16px;
@@ -555,16 +581,16 @@
                     <span>刷新</span>
                 </button>
                 <span class="cache-indicator" id="cacheIndicator" style="display:none;">📦 缓存数据</span>
-                <div class="export-dropdown">
-                    <button class="export-btn" id="exportBtn">
+                <div class="export-dropdown" id="exportDropdown">
+                    <button class="export-btn" id="exportBtn" onclick="toggleExportDropdown(event)" aria-haspopup="true" aria-expanded="false">
                         <span>📥</span>
                         <span>导出数据</span>
                     </button>
-                    <div class="export-dropdown-content">
-                        <div class="export-dropdown-item" onclick="exportToCSV()">
+                    <div class="export-dropdown-content" role="menu">
+                        <div class="export-dropdown-item" onclick="exportToCSV(); toggleExportDropdown()" role="menuitem">
                             <span>📊</span> 导出 CSV
                         </div>
-                        <div class="export-dropdown-item" onclick="exportToJSON()">
+                        <div class="export-dropdown-item" onclick="exportToJSON(); toggleExportDropdown()" role="menuitem">
                             <span>📋</span> 导出 JSON
                         </div>
                     </div>
@@ -700,6 +726,38 @@
                 document.getElementById('navTabs').classList.remove('show');
                 document.getElementById('hamburger').classList.remove('active');
             });
+        });
+        
+        // 导出下拉菜单切换
+        function toggleExportDropdown(event) {
+            if (event) event.stopPropagation();
+            const dropdown = document.getElementById('exportDropdown');
+            if (!dropdown) return;
+            const isOpen = dropdown.classList.toggle('open');
+            const btn = document.getElementById('exportBtn');
+            if (btn) btn.setAttribute('aria-expanded', isOpen);
+        }
+        
+        // 点击空白处关闭导出菜单
+        document.addEventListener('click', (e) => {
+            const dropdown = document.getElementById('exportDropdown');
+            if (dropdown && !dropdown.contains(e.target)) {
+                dropdown.classList.remove('open');
+                const btn = document.getElementById('exportBtn');
+                if (btn) btn.setAttribute('aria-expanded', 'false');
+            }
+        });
+        
+        // ESC 键关闭导出菜单
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                const dropdown = document.getElementById('exportDropdown');
+                if (dropdown && dropdown.classList.contains('open')) {
+                    dropdown.classList.remove('open');
+                    const btn = document.getElementById('exportBtn');
+                    if (btn) btn.setAttribute('aria-expanded', 'false');
+                }
+            }
         });
         
         // 展开/收起热点（点击header区域，不影响detail内容交互）
@@ -1087,27 +1145,64 @@
             items.forEach(item => lazyObserver.observe(item));
         }
         
-        // 导出功能
+        // 导出功能（增强版：带时间戳、BOM支持、完整字段）
         function exportToCSV() {
             const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => t.platform === currentFilter);
             if (!topics.length) { showRefreshToast('无数据可导出', 'error'); return; }
             
-            const headers = ['排名', '标题', '平台', '热度', '趋势', '类型', '受众', '最佳时间', '可借势客户'];
+            // 增强字段：包含更多有用信息
+            const headers = ['排名', '标题', '平台', '热度值', '热度显示', '趋势', '类型', '受众', '最佳时间', '可借势客户', '链接'];
             const rows = topics.map((t, i) => [
-                i+1, t.title||'', t.platform||'', t.heat||'',
-                t.trend||'', t.type||'', t.aud||'',
-                t.time||'', (t.c||[]).join('; ')
+                i+1, 
+                t.title||'', 
+                t.platform||'', 
+                t.hot_value||t.heat?.replace(/[^0-9.]/g, '')||'', 
+                t.heat||'',
+                t.trend||'', 
+                t.type||'综合', 
+                t.aud||'全年龄段',
+                t.time||'全天', 
+                (t.c||[]).join('; '),
+                t.url||''
             ]);
             
-            const csv = [headers, ...rows].map(r => r.map(v => `"${String(v).replace(/"/g,'""')}"`).join(',')).join('\n');
-            downloadFile(csv, 'hot_topics_export.csv', 'text/csv;charset=utf-8');
-            showRefreshToast('CSV 导出成功！', 'success');
+            // 添加 BOM 确保 Excel 正确识别 UTF-8
+            const BOM = '\uFEFF';
+            const csv = BOM + [headers, ...rows].map(r => r.map(v => `"${String(v).replace(/"/g,'""')}"`).join(',')).join('\n');
+            
+            // 文件名带时间戳
+            const ts = new Date().toISOString().slice(0,19).replace(/[:-]/g,'').replace('T','_');
+            const filename = `hot_topics_${ts}.csv`;
+            downloadFile(csv, filename, 'text/csv;charset=utf-8');
+            showRefreshToast(`CSV 导出成功！共 ${topics.length} 条记录`, 'success');
         }
         
         function exportToJSON() {
             const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => t.platform === currentFilter);
-            downloadFile(JSON.stringify(topics, null, 2), 'hot_topics_export.json', 'application/json');
-            showRefreshToast('JSON 导出成功！', 'success');
+            if (!topics.length) { showRefreshToast('无数据可导出', 'error'); return; }
+            
+            // 构建完整的导出报告
+            const now = new Date();
+            const report = {
+                generated_at: now.toISOString(),
+                export_type: 'hot_topics',
+                total_count: topics.length,
+                platform_filter: currentFilter,
+                platform_summary: {},
+                data: topics
+            };
+            
+            // 统计各平台数量
+            topics.forEach(t => {
+                const p = t.platform || '未知';
+                report.platform_summary[p] = (report.platform_summary[p] || 0) + 1;
+            });
+            
+            // 文件名带时间戳
+            const ts = now.toISOString().slice(0,19).replace(/[:-]/g,'').replace('T','_');
+            const filename = `hot_topics_${ts}.json`;
+            downloadFile(JSON.stringify(report, null, 2), filename, 'application/json');
+            showRefreshToast(`JSON 导出成功！共 ${topics.length} 条记录`, 'success');
         }
         
         function downloadFile(content, filename, type) {

@@ -188,8 +188,156 @@ def generate_recommendations(analysis):
     
     return recommendations
 
+def export_to_csv(data_list, output_path=None):
+    """
+    将热点数据导出为 CSV 文件
+    data_list: 分析后的 all_items 列表
+    """
+    import csv
+    
+    if output_path is None:
+        output_path = f"hot_topics_export_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+    
+    fieldnames = [
+        'rank', 'platform', 'title', 'hot_value', 'heat', 'trend',
+        'type', 'aud', 'time', 'desc', 'label',
+        'industries', 'trends', 'url'
+    ]
+    
+    with open(output_path, 'w', newline='', encoding='utf-8-sig') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
+        writer.writeheader()
+        for row in data_list:
+            # 序列化列表字段
+            row = dict(row)
+            row['industries'] = '|'.join(row.get('industries', []) or [])
+            row['trends'] = '|'.join(row.get('trends', []) or [])
+            writer.writerow(row)
+    
+    print(f"✅ CSV 导出成功: {output_path}")
+    return output_path
+
+
+def export_to_json(data_list, output_path=None, include_analysis=True):
+    """
+    将热点数据导出为 JSON 文件
+    """
+    if output_path is None:
+        output_path = f"hot_topics_export_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+    
+    report = {
+        "generated_at": datetime.now().isoformat(),
+        "export_type": "hot_topics",
+        "total_count": len(data_list),
+        "data": data_list
+    }
+    
+    # 按平台统计
+    platform_counts = {}
+    for item in data_list:
+        p = item.get('platform', '未知')
+        platform_counts[p] = platform_counts.get(p, 0) + 1
+    report['platform_summary'] = platform_counts
+    
+    # 按行业统计
+    industry_counts = {}
+    for item in data_list:
+        for ind in item.get('industries', []) or []:
+            industry_counts[ind] = industry_counts.get(ind, 0) + 1
+    report['industry_summary'] = industry_counts
+    
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(report, f, ensure_ascii=False, indent=2)
+    
+    print(f"✅ JSON 导出成功: {output_path}")
+    return output_path
+
+
+def export_from_report(report_json_path, format='both'):
+    """
+    从已有的 JSON 报告文件中导出数据
+    支持格式: 'csv', 'json', 'both'
+    """
+    with open(report_json_path, 'r', encoding='utf-8') as f:
+        report = json.load(f)
+    
+    # 收集所有平台的热点数据
+    all_items = []
+    for platform_key, platform_data in report.get('platforms', {}).items():
+        for item in platform_data.get('data', []):
+            item = dict(item)
+            item['platform'] = platform_data.get('platform', platform_key)
+            all_items.append(item)
+    
+    # 应用分析结果中的行业标签
+    industry_hotspots = report.get('analysis', {}).get('industry_hotspots', {})
+    
+    results = []
+    for item in all_items:
+        title = item.get('title', '')
+        matched_industries = []
+        matched_trends = []
+        
+        # 匹配行业
+        for industry, items in industry_hotspots.items():
+            if any(t.get('title') == title for t in items):
+                matched_industries.append(industry)
+        
+        item['industries'] = matched_industries
+        item['trends'] = matched_trends
+        results.append(item)
+    
+    base_name = report_json_path.replace('.json', '')
+    
+    if format in ('csv', 'both'):
+        csv_path = f"{base_name}_export.csv"
+        export_to_csv(results, csv_path)
+    
+    if format in ('json', 'both'):
+        json_path = f"{base_name}_export.json"
+        export_to_json(results, json_path)
+    
+    return results
+
+
+def export_latest_report(format='both'):
+    """导出最新的报告文件"""
+    import glob
+    import os
+    
+    reports = sorted(glob.glob(os.path.join(os.path.dirname(__file__), 'report_*.json')))
+    if not reports:
+        print("❌ 未找到任何报告文件")
+        return None
+    
+    latest = reports[-1]
+    print(f"📁 发现最新报告: {latest}")
+    return export_from_report(latest, format)
+
+
 def main():
     """主函数"""
+    import sys
+    
+    # 解析命令行参数
+    if len(sys.argv) > 1:
+        cmd = sys.argv[1].lower()
+        
+        if cmd == '--export-csv':
+            export_latest_report('csv')
+            return
+        elif cmd == '--export-json':
+            export_latest_report('json')
+            return
+        elif cmd == '--export':
+            export_latest_report('both')
+            return
+        elif cmd == '--export-from' and len(sys.argv) > 2:
+            path = sys.argv[2]
+            fmt = sys.argv[3] if len(sys.argv) > 3 else 'both'
+            export_from_report(path, fmt)
+            return
+    
     print(f"🔍 开始抓取热点数据... {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
     # 抓取各平台数据
