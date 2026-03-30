@@ -1,451 +1,5 @@
 [
   {
-    "id": "荣耀_20260330123235_1",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表",
-        "荣耀折叠屏"
-      ]
-    },
-    "title": "《创意借势视角：荣耀手机如何借势罗技狗式侮辱营销惹怒消费者 品...》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "罗技狗式侮辱营销惹怒消费者 品牌危机公关成焦点",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "荣耀手机",
-    "engagement_estimate": "35000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158271"
-  },
-  {
-    "id": "荣耀_20260330123235_2",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表",
-        "荣耀折叠屏"
-      ]
-    },
-    "title": "《趋势分析视角：荣耀平板如何借势QQ音乐巅峰之夜刘忻粉发绿瞳引...》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "QQ音乐巅峰之夜刘忻粉发绿瞳引爆红毯 女团合体封神",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "荣耀平板",
-    "engagement_estimate": "40000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158278"
-  },
-  {
-    "id": "荣耀_20260330123235_3",
-    "client": {
-      "brand": "荣耀",
-      "industry": "3C数码",
-      "products": [
-        "荣耀手机",
-        "荣耀平板",
-        "荣耀手表",
-        "荣耀折叠屏"
-      ]
-    },
-    "title": "《生活方式视角：荣耀手表如何借势逐玉40集收官豆瓣评分暴跌 观...》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "逐玉40集收官豆瓣评分暴跌 观众怒斥大结局离谱",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "荣耀手表",
-    "engagement_estimate": "45000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158282"
-  },
-  {
-    "id": "罗技_20260330123235_1",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《创意借势视角：罗技鼠标如何借势罗技狗式侮辱营销惹怒消费者 品...》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "罗技狗式侮辱营销惹怒消费者 品牌危机公关成焦点",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "罗技鼠标",
-    "engagement_estimate": "35000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158285"
-  },
-  {
-    "id": "罗技_20260330123235_2",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《趋势分析视角：罗技键盘如何借势QQ音乐巅峰之夜刘忻粉发绿瞳引...》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "QQ音乐巅峰之夜刘忻粉发绿瞳引爆红毯 女团合体封神",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "罗技键盘",
-    "engagement_estimate": "40000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158288"
-  },
-  {
-    "id": "罗技_20260330123235_3",
-    "client": {
-      "brand": "罗技",
-      "industry": "3C数码",
-      "products": [
-        "罗技鼠标",
-        "罗技键盘",
-        "罗技耳机"
-      ]
-    },
-    "title": "《生活方式视角：罗技耳机如何借势逐玉40集收官豆瓣评分暴跌 观...》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "逐玉40集收官豆瓣评分暴跌 观众怒斥大结局离谱",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "罗技耳机",
-    "engagement_estimate": "45000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158290"
-  },
-  {
-    "id": "小米_20260330123235_1",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环",
-        "小米智能家居"
-      ]
-    },
-    "title": "《创意借势视角：小米手机如何借势罗技狗式侮辱营销惹怒消费者 品...》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "罗技狗式侮辱营销惹怒消费者 品牌危机公关成焦点",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "小米手机",
-    "engagement_estimate": "35000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158293"
-  },
-  {
-    "id": "小米_20260330123235_2",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环",
-        "小米智能家居"
-      ]
-    },
-    "title": "《趋势分析视角：小米平板如何借势QQ音乐巅峰之夜刘忻粉发绿瞳引...》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "QQ音乐巅峰之夜刘忻粉发绿瞳引爆红毯 女团合体封神",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "小米平板",
-    "engagement_estimate": "40000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158295"
-  },
-  {
-    "id": "小米_20260330123235_3",
-    "client": {
-      "brand": "小米",
-      "industry": "3C数码",
-      "products": [
-        "小米手机",
-        "小米平板",
-        "小米手环",
-        "小米智能家居"
-      ]
-    },
-    "title": "《生活方式视角：小米手环如何借势逐玉40集收官豆瓣评分暴跌 观...》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "逐玉40集收官豆瓣评分暴跌 观众怒斥大结局离谱",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "小米手环",
-    "engagement_estimate": "45000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158309"
-  },
-  {
-    "id": "索尼_20260330123235_1",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《创意借势视角：索尼相机如何借势罗技狗式侮辱营销惹怒消费者 品...》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "罗技狗式侮辱营销惹怒消费者 品牌危机公关成焦点",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "索尼相机",
-    "engagement_estimate": "35000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158311"
-  },
-  {
-    "id": "索尼_20260330123235_2",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《趋势分析视角：索尼耳机如何借势QQ音乐巅峰之夜刘忻粉发绿瞳引...》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "QQ音乐巅峰之夜刘忻粉发绿瞳引爆红毯 女团合体封神",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "索尼耳机",
-    "engagement_estimate": "40000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158314"
-  },
-  {
-    "id": "索尼_20260330123235_3",
-    "client": {
-      "brand": "索尼",
-      "industry": "3C数码",
-      "products": [
-        "索尼相机",
-        "索尼耳机",
-        "索尼游戏机"
-      ]
-    },
-    "title": "《生活方式视角：索尼游戏机如何借势逐玉40集收官豆瓣评分暴跌 观...》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "逐玉40集收官豆瓣评分暴跌 观众怒斥大结局离谱",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "索尼游戏机",
-    "engagement_estimate": "45000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158316"
-  },
-  {
-    "id": "AHC_20260330123235_1",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《创意借势视角：AHC面膜如何借势罗技狗式侮辱营销惹怒消费者 品...》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "罗技狗式侮辱营销惹怒消费者 品牌危机公关成焦点",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "AHC面膜",
-    "engagement_estimate": "35000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158319"
-  },
-  {
-    "id": "AHC_20260330123235_2",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《趋势分析视角：AHC精华如何借势QQ音乐巅峰之夜刘忻粉发绿瞳引...》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "QQ音乐巅峰之夜刘忻粉发绿瞳引爆红毯 女团合体封神",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "AHC精华",
-    "engagement_estimate": "40000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158321"
-  },
-  {
-    "id": "AHC_20260330123235_3",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆",
-      "products": [
-        "AHC面膜",
-        "AHC精华",
-        "AHC眼霜"
-      ]
-    },
-    "title": "《生活方式视角：AHC眼霜如何借势逐玉40集收官豆瓣评分暴跌 观...》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "逐玉40集收官豆瓣评分暴跌 观众怒斥大结局离谱",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "AHC眼霜",
-    "engagement_estimate": "45000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158323"
-  },
-  {
-    "id": "多芬_20260330123235_1",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬沐浴露"
-      ]
-    },
-    "title": "《创意借势视角：多芬洗面奶如何借势罗技狗式侮辱营销惹怒消费者 品...》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "罗技狗式侮辱营销惹怒消费者 品牌危机公关成焦点",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "多芬洗面奶",
-    "engagement_estimate": "35000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158325"
-  },
-  {
-    "id": "多芬_20260330123235_2",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬沐浴露"
-      ]
-    },
-    "title": "《趋势分析视角：多芬护肤霜如何借势QQ音乐巅峰之夜刘忻粉发绿瞳引...》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "QQ音乐巅峰之夜刘忻粉发绿瞳引爆红毯 女团合体封神",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "多芬护肤霜",
-    "engagement_estimate": "40000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158328"
-  },
-  {
-    "id": "多芬_20260330123235_3",
-    "client": {
-      "brand": "多芬",
-      "industry": "护肤",
-      "products": [
-        "多芬洗面奶",
-        "多芬护肤霜",
-        "多芬沐浴露"
-      ]
-    },
-    "title": "《生活方式视角：多芬沐浴露如何借势逐玉40集收官豆瓣评分暴跌 观...》",
-    "platform": "全平台",
-    "angle": "生活方式",
-    "hot_topic": "逐玉40集收官豆瓣评分暴跌 观众怒斥大结局离谱",
-    "heat": "热搜第一",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "多芬沐浴露",
-    "engagement_estimate": "45000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158330"
-  },
-  {
-    "id": "力士_20260330123235_1",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ]
-    },
-    "title": "《创意借势视角：力士香皂如何借势罗技狗式侮辱营销惹怒消费者 品...》",
-    "platform": "全平台",
-    "angle": "创意借势",
-    "hot_topic": "罗技狗式侮辱营销惹怒消费者 品牌危机公关成焦点",
-    "heat": "热搜前三",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "力士香皂",
-    "engagement_estimate": "35000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158332"
-  },
-  {
-    "id": "力士_20260330123235_2",
-    "client": {
-      "brand": "力士",
-      "industry": "护肤",
-      "products": [
-        "力士香皂",
-        "力士沐浴露",
-        "力士护肤品"
-      ]
-    },
-    "title": "《趋势分析视角：力士沐浴露如何借势QQ音乐巅峰之夜刘忻粉发绿瞳引...》",
-    "platform": "全平台",
-    "angle": "趋势分析",
-    "hot_topic": "QQ音乐巅峰之夜刘忻粉发绿瞳引爆红毯 女团合体封神",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 快速上升",
-    "product": "力士沐浴露",
-    "engagement_estimate": "40000+",
-    "status": "pending",
-    "created_at": "2026-03-30T12:32:35.158334"
-  },
-  {
     "id": "力士_20260330123235_3",
     "client": {
       "brand": "力士",
@@ -4969,5 +4523,457 @@
     "engagement_estimate": "20000+",
     "status": "pending",
     "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "荣耀_20260330125438_1",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏"
+      ]
+    },
+    "title": "《当AI崩了，荣耀手机的本地AI从不掉线》",
+    "platform": "小红书/抖音",
+    "angle": "产品对比",
+    "hot_topic": "DeepSeek崩了 服务中断超12小时引爆热搜",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀手机",
+    "engagement_estimate": "40000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284500"
+  },
+  {
+    "id": "荣耀_20260330125438_2",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏"
+      ]
+    },
+    "title": "《DeepSeek宕机12小时，荣耀端侧AI稳如磐石》",
+    "platform": "微博/抖音",
+    "angle": "借势营销",
+    "hot_topic": "DeepSeek崩了 服务中断超12小时引爆热搜",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀手机",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284507"
+  },
+  {
+    "id": "小米_20260330125438_3",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居",
+        "小米电视"
+      ]
+    },
+    "title": "《AI服务崩了怎么办？小米端侧AI让你不依赖云端》",
+    "platform": "抖音/小红书",
+    "angle": "产品教育",
+    "hot_topic": "DeepSeek崩了 服务中断超12小时引爆热搜",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米手机",
+    "engagement_estimate": "30000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284512"
+  },
+  {
+    "id": "索尼_20260330125438_4",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼电视",
+        "索尼游戏机"
+      ]
+    },
+    "title": "《AI崩了，但索尼相机的AI对焦从不崩》",
+    "platform": "微博/小红书",
+    "angle": "借势营销",
+    "hot_topic": "DeepSeek崩了 服务中断超12小时引爆热搜",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼相机",
+    "engagement_estimate": "25000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284515"
+  },
+  {
+    "id": "荣耀_20260330125438_5",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏"
+      ]
+    },
+    "title": "《6G时代来临，荣耀折叠屏已为未来做好准备》",
+    "platform": "微博/抖音",
+    "angle": "趋势借势",
+    "hot_topic": "6G网要来了 空天地一体化通信引发全民热议",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 持续高热",
+    "product": "荣耀折叠屏",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284518"
+  },
+  {
+    "id": "小米_20260330125438_6",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米智能家居",
+        "小米电视"
+      ]
+    },
+    "title": "《6G要来了！小米手机如何迎接下一代通信时代》",
+    "platform": "微博/B站",
+    "angle": "趋势分析",
+    "hot_topic": "6G网要来了 空天地一体化通信引发全民热议",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 持续高热",
+    "product": "小米手机",
+    "engagement_estimate": "30000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284521"
+  },
+  {
+    "id": "索尼_20260330125438_7",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼电视",
+        "索尼游戏机"
+      ]
+    },
+    "title": "《6G时代的影像革命：索尼相机如何拥抱超高速传输》",
+    "platform": "微博/小红书",
+    "angle": "趋势借势",
+    "hot_topic": "6G网要来了 空天地一体化通信引发全民热议",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 持续高热",
+    "product": "索尼相机",
+    "engagement_estimate": "20000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284523"
+  },
+  {
+    "id": "AHC_20260330125438_8",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆护肤",
+      "products": [
+        "AHC眼霜",
+        "AHC面霜",
+        "AHC精华",
+        "AHC防晒"
+      ]
+    },
+    "title": "《colorwalk春日色彩漫步，AHC防晒让你美丽出发》",
+    "platform": "小红书",
+    "angle": "场景营销",
+    "hot_topic": "colorwalk色彩漫步 小红书曝光4.6亿成春季最火生活趋势",
+    "heat": "高热",
+    "trend": "🔥🔥 稳步上升",
+    "product": "AHC防晒",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284527"
+  },
+  {
+    "id": "AHC_20260330125438_9",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆护肤",
+      "products": [
+        "AHC眼霜",
+        "AHC面霜",
+        "AHC精华",
+        "AHC防晒"
+      ]
+    },
+    "title": "《选一个颜色出门，AHC陪你走过春天每一步》",
+    "platform": "小红书/抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "colorwalk色彩漫步 小红书曝光4.6亿成春季最火生活趋势",
+    "heat": "高热",
+    "trend": "🔥🔥 稳步上升",
+    "product": "AHC精华",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284530"
+  },
+  {
+    "id": "多芬_20260330125438_10",
+    "client": {
+      "brand": "多芬",
+      "industry": "个护",
+      "products": [
+        "多芬沐浴露",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬身体乳"
+      ]
+    },
+    "title": "《colorwalk漫步归来，多芬沐浴露洗去一天的色彩与疲惫》",
+    "platform": "小红书",
+    "angle": "场景营销",
+    "hot_topic": "colorwalk色彩漫步 小红书曝光4.6亿成春季最火生活趋势",
+    "heat": "高热",
+    "trend": "🔥🔥 稳步上升",
+    "product": "多芬沐浴露",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284533"
+  },
+  {
+    "id": "OATLY_20260330125438_11",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品饮料",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY咖啡大师",
+        "OATLY冰淇淋"
+      ]
+    },
+    "title": "《colorwalk出发前，来一杯OATLY燕麦奶补充能量》",
+    "platform": "小红书/抖音",
+    "angle": "场景营销",
+    "hot_topic": "colorwalk色彩漫步 小红书曝光4.6亿成春季最火生活趋势",
+    "heat": "高热",
+    "trend": "🔥🔥 稳步上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "40000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284535"
+  },
+  {
+    "id": "农夫山泉_20260330125438_12",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉东方树叶",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《colorwalk漫步中，农夫山泉是你最好的色彩伴侣》",
+    "platform": "小红书/抖音",
+    "angle": "场景营销",
+    "hot_topic": "colorwalk色彩漫步 小红书曝光4.6亿成春季最火生活趋势",
+    "heat": "高热",
+    "trend": "🔥🔥 稳步上升",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284538"
+  },
+  {
+    "id": "元气森林_20260330125438_13",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶",
+        "元气森林外星人"
+      ]
+    },
+    "title": "《夯爆了！元气森林新品上市，活人感满满》",
+    "platform": "抖音/微博",
+    "angle": "热梗借势",
+    "hot_topic": "2026网络热梗 夯爆了活人感打一针就好了全网流行",
+    "heat": "持续热门",
+    "trend": "🔥🔥 稳步上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "50000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284544"
+  },
+  {
+    "id": "百威_20260330125438_14",
+    "client": {
+      "brand": "百威",
+      "industry": "食品饮料",
+      "products": [
+        "百威啤酒",
+        "百威纯生",
+        "百威超级"
+      ]
+    },
+    "title": "《活人感拉满！百威陪你度过每一个真实的夜晚》",
+    "platform": "抖音/微博",
+    "angle": "热梗借势",
+    "hot_topic": "2026网络热梗 夯爆了活人感打一针就好了全网流行",
+    "heat": "持续热门",
+    "trend": "🔥🔥 稳步上升",
+    "product": "百威啤酒",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284546"
+  },
+  {
+    "id": "OATLY_20260330125438_15",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品饮料",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY咖啡大师",
+        "OATLY冰淇淋"
+      ]
+    },
+    "title": "《夯爆了！OATLY燕麦奶让你的早晨活人感十足》",
+    "platform": "小红书/抖音",
+    "angle": "热梗借势",
+    "hot_topic": "2026网络热梗 夯爆了活人感打一针就好了全网流行",
+    "heat": "持续热门",
+    "trend": "🔥🔥 稳步上升",
+    "product": "OATLY燕麦奶",
+    "engagement_estimate": "40000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284549"
+  },
+  {
+    "id": "元气森林_20260330125438_16",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶",
+        "元气森林外星人"
+      ]
+    },
+    "title": "《版权是底线，元气森林每一款产品都是原创配方》",
+    "platform": "微博/抖音",
+    "angle": "品牌价值观",
+    "hot_topic": "李荣浩四连问怼单依纯 版权侵权成2026最炸娱乐圈大瓜",
+    "heat": "热搜前五",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "30000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284552"
+  },
+  {
+    "id": "农夫山泉_20260330125438_17",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉东方树叶",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《尊重原创，农夫山泉每一滴水都来自真实水源》",
+    "platform": "微博",
+    "angle": "品牌价值观",
+    "hot_topic": "李荣浩四连问怼单依纯 版权侵权成2026最炸娱乐圈大瓜",
+    "heat": "热搜前五",
+    "trend": "🔥🔥🔥 快速上升",
+    "product": "农夫山泉矿泉水",
+    "engagement_estimate": "25000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284555"
+  },
+  {
+    "id": "百威_20260330125438_18",
+    "client": {
+      "brand": "百威",
+      "industry": "食品饮料",
+      "products": [
+        "百威啤酒",
+        "百威纯生",
+        "百威超级"
+      ]
+    },
+    "title": "《洛克王国世界开服，百威陪你通宵打怪》",
+    "platform": "抖音/微博",
+    "angle": "游戏场景",
+    "hot_topic": "洛克王国世界首日1500万新进 畅销榜登顶全网热搜",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威啤酒",
+    "engagement_estimate": "40000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284558"
+  },
+  {
+    "id": "元气森林_20260330125438_19",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶",
+        "元气森林外星人"
+      ]
+    },
+    "title": "《打游戏不喝酒，元气森林气泡水才是玩家标配》",
+    "platform": "抖音/B站",
+    "angle": "游戏场景",
+    "hot_topic": "洛克王国世界首日1500万新进 畅销榜登顶全网热搜",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林气泡水",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284560"
+  },
+  {
+    "id": "希宝_20260330125438_20",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物",
+      "products": [
+        "希宝猫粮",
+        "希宝湿粮",
+        "希宝零食"
+      ]
+    },
+    "title": "《洛克王国里的精灵，和希宝猫咪一样可爱》",
+    "platform": "小红书/抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "洛克王国世界首日1500万新进 畅销榜登顶全网热搜",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝猫粮",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-03-30T12:54:38.284563"
   }
 ]
