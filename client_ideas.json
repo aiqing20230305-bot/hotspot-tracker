@@ -3913,5 +3913,2105 @@
     "engagement_estimate": "15000+",
     "status": "pending",
     "created_at": "2026-03-30T05:33:35"
+  },
+  {
+    "id": "荣耀_20260330T105129_0",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 荣耀借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582138"
+  },
+  {
+    "id": "荣耀_20260330T105129_1",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 荣耀借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582149"
+  },
+  {
+    "id": "荣耀_20260330T105129_2",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 荣耀借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582156"
+  },
+  {
+    "id": "荣耀_20260330T105129_3",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 荣耀借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582161"
+  },
+  {
+    "id": "荣耀_20260330T105129_4",
+    "client": {
+      "industry": "科技",
+      "brand": "荣耀",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 荣耀借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582167"
+  },
+  {
+    "id": "罗技_20260330T105129_0",
+    "client": {
+      "industry": "科技",
+      "brand": "罗技",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 罗技借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582173"
+  },
+  {
+    "id": "罗技_20260330T105129_1",
+    "client": {
+      "industry": "科技",
+      "brand": "罗技",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 罗技借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582178"
+  },
+  {
+    "id": "罗技_20260330T105129_2",
+    "client": {
+      "industry": "科技",
+      "brand": "罗技",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 罗技借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582183"
+  },
+  {
+    "id": "罗技_20260330T105129_3",
+    "client": {
+      "industry": "科技",
+      "brand": "罗技",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 罗技借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582188"
+  },
+  {
+    "id": "罗技_20260330T105129_4",
+    "client": {
+      "industry": "科技",
+      "brand": "罗技",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 罗技借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582193"
+  },
+  {
+    "id": "小米_20260330T105129_0",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 小米借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582198"
+  },
+  {
+    "id": "小米_20260330T105129_1",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 小米借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582203"
+  },
+  {
+    "id": "小米_20260330T105129_2",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 小米借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582209"
+  },
+  {
+    "id": "小米_20260330T105129_3",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 小米借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582213"
+  },
+  {
+    "id": "小米_20260330T105129_4",
+    "client": {
+      "industry": "科技",
+      "brand": "小米",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 小米借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582218"
+  },
+  {
+    "id": "索尼_20260330T105129_0",
+    "client": {
+      "industry": "科技",
+      "brand": "索尼",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 索尼借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582223"
+  },
+  {
+    "id": "索尼_20260330T105129_1",
+    "client": {
+      "industry": "科技",
+      "brand": "索尼",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 索尼借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582228"
+  },
+  {
+    "id": "索尼_20260330T105129_2",
+    "client": {
+      "industry": "科技",
+      "brand": "索尼",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 索尼借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582233"
+  },
+  {
+    "id": "索尼_20260330T105129_3",
+    "client": {
+      "industry": "科技",
+      "brand": "索尼",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 索尼借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582238"
+  },
+  {
+    "id": "索尼_20260330T105129_4",
+    "client": {
+      "industry": "科技",
+      "brand": "索尼",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 索尼借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582243"
+  },
+  {
+    "id": "AHC_20260330T105129_0",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - AHC借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582251"
+  },
+  {
+    "id": "AHC_20260330T105129_1",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - AHC借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582257"
+  },
+  {
+    "id": "AHC_20260330T105129_2",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - AHC借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582262"
+  },
+  {
+    "id": "AHC_20260330T105129_3",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - AHC借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582267"
+  },
+  {
+    "id": "AHC_20260330T105129_4",
+    "client": {
+      "industry": "美妆",
+      "brand": "AHC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - AHC借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582272"
+  },
+  {
+    "id": "多芬_20260330T105129_0",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 多芬借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582278"
+  },
+  {
+    "id": "多芬_20260330T105129_1",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 多芬借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582283"
+  },
+  {
+    "id": "多芬_20260330T105129_2",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 多芬借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582288"
+  },
+  {
+    "id": "多芬_20260330T105129_3",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 多芬借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582293"
+  },
+  {
+    "id": "多芬_20260330T105129_4",
+    "client": {
+      "industry": "美妆",
+      "brand": "多芬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 多芬借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582298"
+  },
+  {
+    "id": "力士_20260330T105129_0",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 力士借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582303"
+  },
+  {
+    "id": "力士_20260330T105129_1",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 力士借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582308"
+  },
+  {
+    "id": "力士_20260330T105129_2",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 力士借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582313"
+  },
+  {
+    "id": "力士_20260330T105129_3",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 力士借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582318"
+  },
+  {
+    "id": "力士_20260330T105129_4",
+    "client": {
+      "industry": "美妆",
+      "brand": "力士",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 力士借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582323"
+  },
+  {
+    "id": "清扬_20260330T105129_0",
+    "client": {
+      "industry": "美妆",
+      "brand": "清扬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 清扬借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582329"
+  },
+  {
+    "id": "清扬_20260330T105129_1",
+    "client": {
+      "industry": "美妆",
+      "brand": "清扬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 清扬借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582334"
+  },
+  {
+    "id": "清扬_20260330T105129_2",
+    "client": {
+      "industry": "美妆",
+      "brand": "清扬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 清扬借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582339"
+  },
+  {
+    "id": "清扬_20260330T105129_3",
+    "client": {
+      "industry": "美妆",
+      "brand": "清扬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 清扬借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582344"
+  },
+  {
+    "id": "清扬_20260330T105129_4",
+    "client": {
+      "industry": "美妆",
+      "brand": "清扬",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 清扬借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582349"
+  },
+  {
+    "id": "玉兰油_20260330T105129_0",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 玉兰油借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582354"
+  },
+  {
+    "id": "玉兰油_20260330T105129_1",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 玉兰油借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582359"
+  },
+  {
+    "id": "玉兰油_20260330T105129_2",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 玉兰油借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582364"
+  },
+  {
+    "id": "玉兰油_20260330T105129_3",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 玉兰油借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582369"
+  },
+  {
+    "id": "玉兰油_20260330T105129_4",
+    "client": {
+      "industry": "美妆",
+      "brand": "玉兰油",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 玉兰油借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582374"
+  },
+  {
+    "id": "汤臣倍健_20260330T105129_0",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 汤臣倍健借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582379"
+  },
+  {
+    "id": "汤臣倍健_20260330T105129_1",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 汤臣倍健借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582384"
+  },
+  {
+    "id": "汤臣倍健_20260330T105129_2",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 汤臣倍健借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582390"
+  },
+  {
+    "id": "汤臣倍健_20260330T105129_3",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 汤臣倍健借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582463"
+  },
+  {
+    "id": "汤臣倍健_20260330T105129_4",
+    "client": {
+      "industry": "保健品",
+      "brand": "汤臣倍健",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 汤臣倍健借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582469"
+  },
+  {
+    "id": "善存_20260330T105129_0",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 善存借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582475"
+  },
+  {
+    "id": "善存_20260330T105129_1",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 善存借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582480"
+  },
+  {
+    "id": "善存_20260330T105129_2",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 善存借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582485"
+  },
+  {
+    "id": "善存_20260330T105129_3",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 善存借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582490"
+  },
+  {
+    "id": "善存_20260330T105129_4",
+    "client": {
+      "industry": "保健品",
+      "brand": "善存",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 善存借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582495"
+  },
+  {
+    "id": "HC_20260330T105129_0",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - HC借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582501"
+  },
+  {
+    "id": "HC_20260330T105129_1",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - HC借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582508"
+  },
+  {
+    "id": "HC_20260330T105129_2",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - HC借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582514"
+  },
+  {
+    "id": "HC_20260330T105129_3",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - HC借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582519"
+  },
+  {
+    "id": "HC_20260330T105129_4",
+    "client": {
+      "industry": "家居",
+      "brand": "HC",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - HC借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582524"
+  },
+  {
+    "id": "威猛先生_20260330T105129_0",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 威猛先生借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582529"
+  },
+  {
+    "id": "威猛先生_20260330T105129_1",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 威猛先生借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582534"
+  },
+  {
+    "id": "威猛先生_20260330T105129_2",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 威猛先生借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582539"
+  },
+  {
+    "id": "威猛先生_20260330T105129_3",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 威猛先生借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582546"
+  },
+  {
+    "id": "威猛先生_20260330T105129_4",
+    "client": {
+      "industry": "家居",
+      "brand": "威猛先生",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 威猛先生借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582551"
+  },
+  {
+    "id": "舒适_20260330T105129_0",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 舒适借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582557"
+  },
+  {
+    "id": "舒适_20260330T105129_1",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 舒适借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582563"
+  },
+  {
+    "id": "舒适_20260330T105129_2",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 舒适借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582567"
+  },
+  {
+    "id": "舒适_20260330T105129_3",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 舒适借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582572"
+  },
+  {
+    "id": "舒适_20260330T105129_4",
+    "client": {
+      "industry": "家居",
+      "brand": "舒适",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 舒适借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582577"
+  },
+  {
+    "id": "希宝_20260330T105129_0",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 希宝借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582583"
+  },
+  {
+    "id": "希宝_20260330T105129_1",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 希宝借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582588"
+  },
+  {
+    "id": "希宝_20260330T105129_2",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 希宝借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582593"
+  },
+  {
+    "id": "希宝_20260330T105129_3",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 希宝借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582599"
+  },
+  {
+    "id": "希宝_20260330T105129_4",
+    "client": {
+      "industry": "宠物",
+      "brand": "希宝",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 希宝借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582604"
+  },
+  {
+    "id": "皇家_20260330T105129_0",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 皇家借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582609"
+  },
+  {
+    "id": "皇家_20260330T105129_1",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 皇家借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582614"
+  },
+  {
+    "id": "皇家_20260330T105129_2",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 皇家借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582620"
+  },
+  {
+    "id": "皇家_20260330T105129_3",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 皇家借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582625"
+  },
+  {
+    "id": "皇家_20260330T105129_4",
+    "client": {
+      "industry": "宠物",
+      "brand": "皇家",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 皇家借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582630"
+  },
+  {
+    "id": "OATLY_20260330T105129_0",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - OATLY借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582636"
+  },
+  {
+    "id": "OATLY_20260330T105129_1",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - OATLY借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582641"
+  },
+  {
+    "id": "OATLY_20260330T105129_2",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - OATLY借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582647"
+  },
+  {
+    "id": "OATLY_20260330T105129_3",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - OATLY借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582652"
+  },
+  {
+    "id": "OATLY_20260330T105129_4",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "OATLY",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - OATLY借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582658"
+  },
+  {
+    "id": "百威_20260330T105129_0",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 百威借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582663"
+  },
+  {
+    "id": "百威_20260330T105129_1",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 百威借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582669"
+  },
+  {
+    "id": "百威_20260330T105129_2",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 百威借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582674"
+  },
+  {
+    "id": "百威_20260330T105129_3",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 百威借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582678"
+  },
+  {
+    "id": "百威_20260330T105129_4",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "百威",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 百威借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582683"
+  },
+  {
+    "id": "元气森林_20260330T105129_0",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 元气森林借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582689"
+  },
+  {
+    "id": "元气森林_20260330T105129_1",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 元气森林借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582694"
+  },
+  {
+    "id": "元气森林_20260330T105129_2",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 元气森林借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582699"
+  },
+  {
+    "id": "元气森林_20260330T105129_3",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 元气森林借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582704"
+  },
+  {
+    "id": "元气森林_20260330T105129_4",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "元气森林",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 元气森林借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582709"
+  },
+  {
+    "id": "农夫山泉_20260330T105129_0",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "逐玉40集收官 - 农夫山泉借势绫波丽3月30日生日",
+    "platform": "抖音",
+    "angle": "古装剧结局热议",
+    "hot_topic": "逐玉40集收官",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582715"
+  },
+  {
+    "id": "农夫山泉_20260330T105129_1",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "绫波丽3月30日生日 - 农夫山泉借势colorwalk春季出游",
+    "platform": "抖音",
+    "angle": "EVA周年纪念",
+    "hot_topic": "绫波丽3月30日生日",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582720"
+  },
+  {
+    "id": "农夫山泉_20260330T105129_2",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "colorwalk春季出游 - 农夫山泉借势活人感真我风潮",
+    "platform": "小红书",
+    "angle": "春日色彩打卡",
+    "hot_topic": "colorwalk春季出游",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582725"
+  },
+  {
+    "id": "农夫山泉_20260330T105129_3",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "活人感真我风潮 - 农夫山泉借势清明假期出行",
+    "platform": "B站",
+    "angle": "真实自我表达",
+    "hot_topic": "活人感真我风潮",
+    "script_type": "图文脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582734"
+  },
+  {
+    "id": "农夫山泉_20260330T105129_4",
+    "client": {
+      "industry": "食品饮料",
+      "brand": "农夫山泉",
+      "priority": 5,
+      "platforms": [
+        "抖音",
+        "小红书",
+        "B站"
+      ]
+    },
+    "title": "清明假期出行 - 农夫山泉借势逐玉40集收官",
+    "platform": "抖音",
+    "angle": "周边游攻略",
+    "hot_topic": "清明假期出行",
+    "script_type": "视频脚本",
+    "engagement_estimate": "10000+",
+    "status": "pending",
+    "created_at": "2026-03-30T10:51:29.582740"
   }
 ]
