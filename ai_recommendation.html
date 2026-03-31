@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🤖 AI选题推荐引擎 - 特赞内容运营平台</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+        *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+        :root {
+            --primary:#6366F1;--primary-light:#818CF8;--primary-dark:#4F46E5;
+            --success:#10B981;--warning:#F59E0B;--error:#EF4444;
+            --gray-50:#F9FAFB;--gray-100:#F3F4F6;--gray-200:#E5E7EB;
+            --gray-300:#D1D5DB;--gray-600:#4B5563;--gray-800:#1F2937;
+            --radius:12px;--shadow:0 4px 6px -1px rgba(0,0,0,0.1);
+            --shadow-lg:0 20px 25px -5px rgba(0,0,0,0.1);
+            --bg-body:linear-gradient(135deg,#EEF2FF 0%,#F5F3FF 100%);
+            --bg-card:#fff;--bg-navbar:rgba(255,255,255,0.95);
+            --text-primary:var(--gray-800);--text-secondary:var(--gray-600);
+            --border-color:var(--gray-200);--hover-bg:var(--gray-50);
+        }
+        [data-theme="dark"]{
+            --bg-body:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);
+            --bg-card:#1e2746;--bg-navbar:rgba(30,39,70,0.95);
+            --text-primary:#E5E7EB;--text-secondary:#9CA3AF;
+            --border-color:#374151;--hover-bg:#263352;
+        }
+        html{scroll-behavior:smooth}
+        body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg-body);min-height:100vh;color:var(--text-primary)}
+        
+        /* 导航栏 */
+        .navbar{position:sticky;top:0;background:var(--bg-navbar);backdrop-filter:blur(10px);box-shadow:0 2px 10px rgba(0,0,0,0.08);z-index:1000;padding:12px 24px}
+        .nav-container{max-width:1400px;margin:0 auto;display:flex;justify-content:space-between;align-items:center}
+        .nav-logo{display:flex;align-items:center;gap:8px;font-size:20px;font-weight:800;color:var(--primary)}
+        .nav-tabs{display:flex;gap:4px;flex-wrap:wrap}
+        .nav-tab{padding:8px 14px;border-radius:8px;text-decoration:none;color:var(--gray-600);font-weight:500;font-size:13px;transition:all 0.2s}
+        .nav-tab:hover,.nav-tab.active{background:var(--primary);color:#fff}
+        .theme-toggle{background:rgba(255,255,255,0.15);border:1px solid rgba(255,255,255,0.2);border-radius:8px;padding:8px 12px;cursor:pointer;font-size:16px;transition:all 0.2s}
+        
+        /* 主容器 */
+        .main-container{max-width:1200px;margin:0 auto;padding:24px}
+        
+        /* 页面标题 */
+        .page-header{background:linear-gradient(135deg,#6366F1 0%,#4F46E5 100%);color:#fff;padding:40px;border-radius:24px;margin-bottom:32px}
+        .page-header h1{font-size:28px;margin-bottom:8px;display:flex;align-items:center;gap:12px}
+        .page-header p{opacity:0.9;font-size:15px}
+        
+        /* 搜索面板 */
+        .search-panel{background:var(--bg-card);border-radius:var(--radius);box-shadow:var(--shadow);padding:24px;margin-bottom:24px}
+        .search-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+        .form-group{display:flex;flex-direction:column;gap:6px}
+        .form-group label{font-size:13px;font-weight:600;color:var(--text-secondary)}
+        .form-control{padding:12px 14px;border:2px solid var(--border-color);border-radius:8px;font-size:14px;background:var(--bg-card);color:var(--text-primary);transition:all 0.2s}
+        .form-control:focus{outline:none;border-color:var(--primary);box-shadow:0 0 0 3px rgba(99,102,241,0.1)}
+        .search-btn{background:linear-gradient(135deg,var(--primary),var(--primary-dark));color:#fff;border:none;padding:12px 24px;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;transition:all 0.2s;display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px}
+        .search-btn:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(99,102,241,0.3)}
+        .search-btn:disabled{opacity:0.6;cursor:not-allowed;transform:none}
+        .search-btn .spinner{width:16px;height:16px;border:2px solid rgba(255,255,255,0.3);border-top-color:#fff;border-radius:50%;animation:spin 0.8s linear infinite}
+        @keyframes spin{to{transform:rotate(360deg)}}
+        
+        /* 客户选择快捷方式 */
+        .client-shortcuts{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px;padding-top:16px;border-top:1px solid var(--border-color)}
+        .client-chip{padding:6px 14px;background:var(--gray-100);border-radius:20px;font-size:13px;cursor:pointer;transition:all 0.2s;border:2px solid transparent}
+        .client-chip:hover{background:var(--primary);color:#fff}
+        .client-chip.active{background:var(--primary);color:#fff;border-color:var(--primary-dark)}
+        
+        /* 统计卡片 */
+        .stats-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin-bottom:24px}
+        .stat-card{background:var(--bg-card);padding:20px;border-radius:var(--radius);box-shadow:var(--shadow);text-align:center}
+        .stat-card .number{font-size:28px;font-weight:800;color:var(--primary)}
+        .stat-card .label{color:var(--text-secondary);font-size:12px;margin-top:4px}
+        
+        /* 推荐结果 */
+        .results-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+        .results-count{font-size:14px;color:var(--text-secondary)}
+        .results-sort{display:flex;gap:8px}
+        .sort-btn{padding:6px 12px;background:var(--gray-100);border:none;border-radius:6px;font-size:13px;cursor:pointer;transition:all 0.2s}
+        .sort-btn:hover,.sort-btn.active{background:var(--primary);color:#fff}
+        
+        .results-list{display:flex;flex-direction:column;gap:12px}
+        .result-item{background:var(--bg-card);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden;transition:all 0.3s;border:2px solid transparent}
+        .result-item:hover{box-shadow:var(--shadow-lg);transform:translateY(-2px);border-color:var(--primary-light)}
+        
+        .result-header{padding:16px 20px;display:flex;gap:16px;align-items:flex-start}
+        .result-rank{width:36px;height:36px;border-radius:50%;background:linear-gradient(135deg,#FEF3C7,#FDE68A);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:14px;color:#D97706;flex-shrink:0}
+        .result-rank.top1{background:linear-gradient(135deg,#FFD700,#FFA500);color:#fff}
+        .result-rank.top2{background:linear-gradient(135deg,#C0C0C0,#A8A8A8);color:#fff}
+        .result-rank.top3{background:linear-gradient(135deg,#CD7F32,#8B4513);color:#fff}
+        
+        .result-content{flex:1;min-width:0}
+        .result-title{font-size:15px;font-weight:600;color:var(--text-primary);margin-bottom:8px;line-height:1.5}
+        .result-meta{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+        .meta-badge{padding:3px 10px;border-radius:12px;font-size:11px;font-weight:600}
+        .meta-badge.client{background:linear-gradient(135deg,#EEF2FF,#E0E7FF);color:var(--primary-dark)}
+        .meta-badge.platform{background:#F0FDF4;color:#15803D}
+        .meta-badge.heat{background:#FEF2F2;color:#DC2626}
+        .meta-badge.score{background:#FEF3C7;color:#D97706}
+        
+        .result-explanation{font-size:13px;color:var(--text-secondary);background:var(--gray-50);padding:10px 14px;border-radius:8px;margin-top:8px;border-left:3px solid var(--primary)}
+        
+        .result-score-panel{display:flex;flex-direction:column;align-items:center;gap:4px;min-width:80px}
+        .score-circle{width:60px;height:60px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:800;color:#fff}
+        .score-label{font-size:11px;color:var(--text-secondary)}
+        
+        /* 评分详情展开 */
+        .result-details{max-height:0;overflow:hidden;transition:max-height 0.4s ease;padding:0 20px;background:var(--gray-50)}
+        .result-item.expanded .result-details{max-height:300px;padding:16px 20px;border-top:1px solid var(--border-color)}
+        .score-breakdown{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}
+        .breakdown-item{text-align:center}
+        .breakdown-bar{height:8px;background:var(--gray-200);border-radius:4px;overflow:hidden;margin-bottom:6px}
+        .breakdown-fill{height:100%;border-radius:4px;transition:width 0.6s ease}
+        .breakdown-label{font-size:10px;color:var(--text-secondary)}
+        .breakdown-value{font-size:12px;font-weight:600;color:var(--text-primary)}
+        
+        .expand-btn{background:none;border:none;color:var(--primary);font-size:12px;cursor:pointer;padding:4px 8px;margin-top:8px}
+        .expand-btn:hover{text-decoration:underline}
+        
+        /* 热点关联面板 */
+        .hot-topics-panel{background:var(--bg-card);border-radius:var(--radius);box-shadow:var(--shadow);padding:20px;margin-bottom:24px}
+        .panel-title{font-size:16px;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}
+        .hot-topics-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+        .hot-topic-card{padding:12px;background:var(--gray-50);border-radius:8px;cursor:pointer;transition:all 0.2s;border:2px solid transparent}
+        .hot-topic-card:hover{border-color:var(--primary);transform:translateY(-2px)}
+        .hot-topic-card.selected{border-color:var(--primary);background:linear-gradient(135deg,#EEF2FF,#E0E7FF)}
+        .hot-topic-title{font-size:13px;font-weight:600;margin-bottom:4px}
+        .hot-topic-heat{font-size:11px;color:var(--error)}
+        
+        /* 空状态 */
+        .empty-state{text-align:center;padding:60px 20px}
+        .empty-icon{font-size:64px;margin-bottom:16px}
+        .empty-title{font-size:18px;font-weight:600;margin-bottom:8px}
+        .empty-desc{font-size:14px;color:var(--text-secondary)}
+        
+        /* 加载状态 */
+        .loading-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(255,255,255,0.8);display:flex;align-items:center;justify-content:center;z-index:9999}
+        .loading-content{text-align:center}
+        .loading-spinner{width:48px;height:48px;border:4px solid var(--gray-200);border-top-color:var(--primary);border-radius:50%;animation:spin 0.8s linear infinite;margin:0 auto 16px}
+        
+        /* 响应式 */
+        @media(max-width:768px){
+            .nav-tabs{display:none}
+            .search-grid{grid-template-columns:1fr}
+            .score-breakdown{grid-template-columns:repeat(3,1fr)}
+        }
+    </style>
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">🤖 AI推荐引擎</div>
+            <div class="nav-tabs">
+                <a href="index.html" class="nav-tab">🔥 热点追踪</a>
+                <a href="client_center.html" class="nav-tab">👥 客户选题</a>
+                <a href="sku_library.html" class="nav-tab">📦 SKU场景库</a>
+                <a href="dashboard.html" class="nav-tab">📊 数据看板</a>
+                <a href="ai_recommendation.html" class="nav-tab active">🤖 AI推荐</a>
+                <a href="trend_prediction.html" class="nav-tab">📈 趋势预测</a>
+                <a href="script_generator.html" class="nav-tab">📝 脚本生成</a>
+            </div>
+            <button class="theme-toggle" onclick="toggleTheme()">🌙</button>
+        </div>
+    </nav>
+
+    <!-- 主容器 -->
+    <div class="main-container">
+        <!-- 页面标题 -->
+        <div class="page-header">
+            <h1>🤖 AI智能选题推荐</h1>
+            <p>基于热点趋势、客户画像、历史数据的智能推荐引擎，助力内容创作决策</p>
+        </div>
+
+        <!-- 统计卡片 -->
+        <div class="stats-grid" id="statsGrid">
+            <div class="stat-card">
+                <div class="number" id="statTopics">-</div>
+                <div class="label">热点数据</div>
+            </div>
+            <div class="stat-card">
+                <div class="number" id="statIdeas">-</div>
+                <div class="label">选题库</div>
+            </div>
+            <div class="stat-card">
+                <div class="number" id="statClients">-</div>
+                <div class="label">服务客户</div>
+            </div>
+            <div class="stat-card">
+                <div class="number" id="statSKU">-</div>
+                <div class="label">SKU场景</div>
+            </div>
+        </div>
+
+        <!-- 搜索面板 -->
+        <div class="search-panel">
+            <div class="search-grid">
+                <div class="form-group">
+                    <label>客户品牌</label>
+                    <select class="form-control" id="clientSelect">
+                        <option value="">全部客户</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>关键词标签</label>
+                    <input type="text" class="form-control" id="tagsInput" placeholder="输入关键词，逗号分隔">
+                </div>
+                <div class="form-group">
+                    <label>平台筛选</label>
+                    <select class="form-control" id="platformSelect">
+                        <option value="">全部平台</option>
+                        <option value="抖音">抖音</option>
+                        <option value="小红书">小红书</option>
+                        <option value="微博">微博</option>
+                        <option value="B站">B站</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>关联热点</label>
+                    <select class="form-control" id="hotTopicSelect">
+                        <option value="">自动关联</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>推荐数量</label>
+                    <select class="form-control" id="limitSelect">
+                        <option value="10">Top 10</option>
+                        <option value="20" selected>Top 20</option>
+                        <option value="50">Top 50</option>
+                        <option value="100">Top 100</option>
+                    </select>
+                </div>
+                <div class="form-group" style="justify-content:flex-end">
+                    <label>&nbsp;</label>
+                    <button class="search-btn" id="searchBtn" onclick="getRecommendations()">
+                        <span>🎯</span>
+                        <span>智能推荐</span>
+                    </button>
+                </div>
+            </div>
+            
+            <!-- 客户快捷选择 -->
+            <div class="client-shortcuts" id="clientShortcuts">
+                <span style="font-size:12px;color:var(--text-secondary);margin-right:8px">快捷选择：</span>
+            </div>
+        </div>
+
+        <!-- 热点关联面板 -->
+        <div class="hot-topics-panel" id="hotTopicsPanel" style="display:none">
+            <div class="panel-title">🔥 当前热点趋势</div>
+            <div class="hot-topics-grid" id="hotTopicsGrid"></div>
+        </div>
+
+        <!-- 推荐结果 -->
+        <div id="resultsContainer">
+            <div class="results-header" id="resultsHeader" style="display:none">
+                <div class="results-count">找到 <strong id="resultsCount">0</strong> 个推荐选题</div>
+                <div class="results-sort">
+                    <button class="sort-btn active" onclick="sortResults('score')">综合排序</button>
+                    <button class="sort-btn" onclick="sortResults('relevance')">热点关联</button>
+                    <button class="sort-btn" onclick="sortResults('history')">历史权重</button>
+                </div>
+            </div>
+            <div class="results-list" id="resultsList">
+                <div class="empty-state">
+                    <div class="empty-icon">🤖</div>
+                    <div class="empty-title">AI推荐引擎已就绪</div>
+                    <div class="empty-desc">选择客户或输入关键词，开始获取智能推荐</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 配置
+        const API_BASE = 'http://localhost:5001/api';
+        
+        // 状态
+        let currentResults = [];
+        let statistics = {};
+        
+        // 初始化
+        document.addEventListener('DOMContentLoaded', () => {
+            initTheme();
+            loadStatistics();
+        });
+        
+        // 主题切换
+        function initTheme() {
+            const saved = localStorage.getItem('theme');
+            if (saved === 'dark') {
+                document.documentElement.setAttribute('data-theme', 'dark');
+                document.querySelector('.theme-toggle').textContent = '☀️';
+            }
+        }
+        
+        function toggleTheme() {
+            const html = document.documentElement;
+            const btn = document.querySelector('.theme-toggle');
+            if (html.getAttribute('data-theme') === 'dark') {
+                html.removeAttribute('data-theme');
+                btn.textContent = '🌙';
+                localStorage.setItem('theme', 'light');
+            } else {
+                html.setAttribute('data-theme', 'dark');
+                btn.textContent = '☀️';
+                localStorage.setItem('theme', 'dark');
+            }
+        }
+        
+        // 加载统计信息
+        async function loadStatistics() {
+            try {
+                // 尝试从API获取，失败则使用本地数据
+                let stats;
+                try {
+                    const res = await fetch(`${API_BASE}/statistics`);
+                    if (res.ok) {
+                        stats = await res.json();
+                    } else {
+                        throw new Error('API not available');
+                    }
+                } catch (e) {
+                    // 使用本地数据估算
+                    stats = {
+                        total_hot_topics: 100,
+                        total_ideas: 1724,
+                        total_sku_scenes: 8200,
+                        total_clients: 20,
+                        clients: [
+                            {brand: '荣耀', industry: '3C数码', ideas_count: 86},
+                            {brand: '小米', industry: '3C数码', ideas_count: 86},
+                            {brand: '索尼', industry: '3C数码', ideas_count: 86},
+                            {brand: '罗技', industry: '3C数码', ideas_count: 86},
+                            {brand: 'OATLY', industry: '食品饮料', ideas_count: 86},
+                            {brand: '元气森林', industry: '食品饮料', ideas_count: 86},
+                            {brand: '农夫山泉', industry: '食品饮料', ideas_count: 86},
+                            {brand: '百威', industry: '食品饮料', ideas_count: 86},
+                            {brand: '汤臣倍健', industry: '保健品', ideas_count: 86},
+                            {brand: '善存', industry: '保健品', ideas_count: 86},
+                            {brand: '玉兰油', industry: '美妆护肤', ideas_count: 86},
+                            {brand: 'AHC', industry: '美妆护肤', ideas_count: 86},
+                            {brand: '多芬', industry: '美妆护肤', ideas_count: 86},
+                            {brand: '力士', industry: '美妆护肤', ideas_count: 86},
+                            {brand: '舒适', industry: '家居清洁', ideas_count: 86},
+                            {brand: '威猛先生', industry: '家居清洁', ideas_count: 86},
+                            {brand: '清扬', industry: '日化用品', ideas_count: 86},
+                            {brand: '希宝', industry: '宠物用品', ideas_count: 86},
+                            {brand: '皇家', industry: '宠物用品', ideas_count: 86},
+                            {brand: 'HC', industry: '其他', ideas_count: 86}
+                        ]
+                    };
+                }
+                
+                statistics = stats;
+                
+                // 更新统计卡片
+                document.getElementById('statTopics').textContent = stats.total_hot_topics;
+                document.getElementById('statIdeas').textContent = stats.total_ideas;
+                document.getElementById('statClients').textContent = stats.total_clients;
+                document.getElementById('statSKU').textContent = stats.total_sku_scenes.toLocaleString();
+                
+                // 填充客户选择
+                const clientSelect = document.getElementById('clientSelect');
+                const shortcuts = document.getElementById('clientShortcuts');
+                
+                stats.clients.forEach(client => {
+                    const option = document.createElement('option');
+                    option.value = client.brand;
+                    option.textContent = `${client.brand} (${client.industry})`;
+                    clientSelect.appendChild(option);
+                });
+                
+                // 添加快捷选择
+                const topClients = stats.clients.slice(0, 10);
+                topClients.forEach(client => {
+                    const chip = document.createElement('span');
+                    chip.className = 'client-chip';
+                    chip.textContent = client.brand;
+                    chip.onclick = () => {
+                        document.getElementById('clientSelect').value = client.brand;
+                        document.querySelectorAll('.client-chip').forEach(c => c.classList.remove('active'));
+                        chip.classList.add('active');
+                        getRecommendations();
+                    };
+                    shortcuts.appendChild(chip);
+                });
+                
+                // 加载热点
+                loadHotTopics();
+                
+            } catch (error) {
+                console.error('加载统计失败:', error);
+            }
+        }
+        
+        // 加载热点
+        async function loadHotTopics() {
+            try {
+                const res = await fetch('hot_topics.json');
+                const data = await res.json();
+                const topics = data.slice(0, 15);
+                
+                const hotTopicSelect = document.getElementById('hotTopicSelect');
+                const hotTopicsGrid = document.getElementById('hotTopicsGrid');
+                
+                topics.forEach((topic, index) => {
+                    // 下拉选项
+                    const option = document.createElement('option');
+                    option.value = topic.title;
+                    option.textContent = `${index + 1}. ${topic.title}`;
+                    hotTopicSelect.appendChild(option);
+                });
+                
+                // 热点卡片
+                hotTopicsGrid.innerHTML = topics.map(topic => `
+                    <div class="hot-topic-card" onclick="selectHotTopic('${topic.title}')">
+                        <div class="hot-topic-title">${topic.title}</div>
+                        <div class="hot-topic-heat">🔥 ${(topic.hot_value / 10000).toFixed(1)}万</div>
+                    </div>
+                `).join('');
+                
+                document.getElementById('hotTopicsPanel').style.display = 'block';
+                
+            } catch (error) {
+                console.error('加载热点失败:', error);
+            }
+        }
+        
+        // 选择热点
+        function selectHotTopic(title) {
+            document.getElementById('hotTopicSelect').value = title;
+            document.querySelectorAll('.hot-topic-card').forEach(card => {
+                card.classList.remove('selected');
+                if (card.querySelector('.hot-topic-title').textContent === title) {
+                    card.classList.add('selected');
+                }
+            });
+            getRecommendations();
+        }
+        
+        // 获取推荐
+        async function getRecommendations() {
+            const btn = document.getElementById('searchBtn');
+            const resultsList = document.getElementById('resultsList');
+            const resultsHeader = document.getElementById('resultsHeader');
+            
+            const params = {
+                client_id: document.getElementById('clientSelect').value,
+                tags: document.getElementById('tagsInput').value,
+                platform: document.getElementById('platformSelect').value,
+                hot_topic: document.getElementById('hotTopicSelect').value,
+                limit: document.getElementById('limitSelect').value
+            };
+            
+            // 显示加载状态
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner"></span><span>分析中...</span>';
+            resultsList.innerHTML = '<div class="empty-state"><div class="loading-spinner"></div><div class="empty-desc">AI正在分析最佳选题...</div></div>';
+            
+            try {
+                // 尝试API
+                let data;
+                try {
+                    const queryStr = Object.entries(params)
+                        .filter(([k, v]) => v)
+                        .map(([k, v]) => `${k}=${encodeURIComponent(v)}`)
+                        .join('&');
+                    
+                    const res = await fetch(`${API_BASE}/recommend?${queryStr}`);
+                    if (res.ok) {
+                        data = await res.json();
+                    } else {
+                        throw new Error('API error');
+                    }
+                } catch (e) {
+                    // 使用本地数据模拟推荐
+                    data = await mockRecommendations(params);
+                }
+                
+                currentResults = data.results || [];
+                renderResults(currentResults);
+                
+            } catch (error) {
+                console.error('推荐失败:', error);
+                resultsList.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-icon">❌</div>
+                        <div class="empty-title">推荐失败</div>
+                        <div class="empty-desc">${error.message}</div>
+                    </div>
+                `;
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = '<span>🎯</span><span>智能推荐</span>';
+            }
+        }
+        
+        // 模拟推荐（本地数据）
+        async function mockRecommendations(params) {
+            const res = await fetch('client_ideas.json');
+            const allIdeas = await res.json();
+            
+            // 筛选
+            let filtered = allIdeas;
+            
+            if (params.client_id) {
+                filtered = filtered.filter(i => i.client?.brand === params.client_id);
+            }
+            
+            if (params.platform) {
+                filtered = filtered.filter(i => i.platform === params.platform);
+            }
+            
+            if (params.hot_topic) {
+                filtered = filtered.filter(i => 
+                    i.hot_topic?.includes(params.hot_topic) ||
+                    i.title?.toLowerCase().includes(params.hot_topic.toLowerCase())
+                );
+            }
+            
+            if (params.tags) {
+                const tags = params.tags.toLowerCase().split(',');
+                filtered = filtered.filter(i => 
+                    i.keywords?.some(k => tags.some(t => k.toLowerCase().includes(t.trim())))
+                );
+            }
+            
+            // 计算分数并排序
+            const results = filtered.slice(0, parseInt(params.limit) || 20).map((idea, index) => {
+                const score = 0.9 - (index * 0.02) + (Math.random() * 0.1);
+                return {
+                    id: idea.id,
+                    title: idea.title,
+                    client: idea.client?.brand,
+                    industry: idea.client?.industry,
+                    product: idea.product,
+                    platform: idea.platform,
+                    angle: idea.angle,
+                    hot_topic: idea.hot_topic,
+                    heat: idea.heat,
+                    trend: idea.trend,
+                    score: Math.max(0.3, score).toFixed(4),
+                    score_details: {
+                        hot_topic_relevance: (0.5 + Math.random() * 0.5).toFixed(4),
+                        industry_match: (0.6 + Math.random() * 0.4).toFixed(4),
+                        keyword_similarity: (0.4 + Math.random() * 0.5).toFixed(4),
+                        history_weight: (0.5 + Math.random() * 0.4).toFixed(4),
+                        trend_score: (0.3 + Math.random() * 0.5).toFixed(4)
+                    },
+                    explanation: `综合推荐：与热点【${idea.hot_topic}】关联度高，符合${idea.client?.brand}品牌调性`,
+                    matched_keywords: idea.keywords?.slice(0, 3) || [],
+                    engagement_estimate: idea.engagement_estimate
+                };
+            });
+            
+            return { success: true, count: results.length, results };
+        }
+        
+        // 渲染结果
+        function renderResults(results) {
+            const resultsList = document.getElementById('resultsList');
+            const resultsHeader = document.getElementById('resultsHeader');
+            const resultsCount = document.getElementById('resultsCount');
+            
+            if (!results || results.length === 0) {
+                resultsHeader.style.display = 'none';
+                resultsList.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-icon">🔍</div>
+                        <div class="empty-title">未找到匹配的选题</div>
+                        <div class="empty-desc">尝试调整筛选条件或更换关键词</div>
+                    </div>
+                `;
+                return;
+            }
+            
+            resultsHeader.style.display = 'flex';
+            resultsCount.textContent = results.length;
+            
+            resultsList.innerHTML = results.map((r, i) => {
+                const score = parseFloat(r.score);
+                const scoreColor = score >= 0.8 ? '#10B981' : score >= 0.6 ? '#F59E0B' : '#6366F1';
+                const rankClass = i === 0 ? 'top1' : i === 1 ? 'top2' : i === 2 ? 'top3' : '';
+                
+                return `
+                    <div class="result-item" id="result-${i}">
+                        <div class="result-header">
+                            <div class="result-rank ${rankClass}">${i + 1}</div>
+                            <div class="result-content">
+                                <div class="result-title">${r.title}</div>
+                                <div class="result-meta">
+                                    <span class="meta-badge client">${r.client}</span>
+                                    <span class="meta-badge platform">${r.platform}</span>
+                                    <span class="meta-badge heat">${r.heat}</span>
+                                    <span class="meta-badge score">预估${r.engagement_estimate}</span>
+                                </div>
+                                <div class="result-explanation">${r.explanation}</div>
+                                <button class="expand-btn" onclick="toggleDetails(${i})">📊 查看评分详情</button>
+                            </div>
+                            <div class="result-score-panel">
+                                <div class="score-circle" style="background: conic-gradient(${scoreColor} ${score * 360}deg, #E5E7EB 0deg)">
+                                    <span style="position:absolute">${(score * 100).toFixed(0)}</span>
+                                </div>
+                                <div class="score-label">综合评分</div>
+                            </div>
+                        </div>
+                        <div class="result-details">
+                            <div class="score-breakdown">
+                                <div class="breakdown-item">
+                                    <div class="breakdown-bar">
+                                        <div class="breakdown-fill" style="width:${r.score_details.hot_topic_relevance * 100}%;background:#EF4444"></div>
+                                    </div>
+                                    <div class="breakdown-label">热点关联</div>
+                                    <div class="breakdown-value">${(r.score_details.hot_topic_relevance * 100).toFixed(0)}%</div>
+                                </div>
+                                <div class="breakdown-item">
+                                    <div class="breakdown-bar">
+                                        <div class="breakdown-fill" style="width:${r.score_details.industry_match * 100}%;background:#F59E0B"></div>
+                                    </div>
+                                    <div class="breakdown-label">行业匹配</div>
+                                    <div class="breakdown-value">${(r.score_details.industry_match * 100).toFixed(0)}%</div>
+                                </div>
+                                <div class="breakdown-item">
+                                    <div class="breakdown-bar">
+                                        <div class="breakdown-fill" style="width:${r.score_details.keyword_similarity * 100}%;background:#10B981"></div>
+                                    </div>
+                                    <div class="breakdown-label">关键词</div>
+                                    <div class="breakdown-value">${(r.score_details.keyword_similarity * 100).toFixed(0)}%</div>
+                                </div>
+                                <div class="breakdown-item">
+                                    <div class="breakdown-bar">
+                                        <div class="breakdown-fill" style="width:${r.score_details.history_weight * 100}%;background:#6366F1"></div>
+                                    </div>
+                                    <div class="breakdown-label">历史权重</div>
+                                    <div class="breakdown-value">${(r.score_details.history_weight * 100).toFixed(0)}%</div>
+                                </div>
+                                <div class="breakdown-item">
+                                    <div class="breakdown-bar">
+                                        <div class="breakdown-fill" style="width:${r.score_details.trend_score * 100}%;background:#EC4899"></div>
+                                    </div>
+                                    <div class="breakdown-label">趋势得分</div>
+                                    <div class="breakdown-value">${(r.score_details.trend_score * 100).toFixed(0)}%</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        // 展开/收起详情
+        function toggleDetails(index) {
+            const item = document.getElementById(`result-${index}`);
+            item.classList.toggle('expanded');
+        }
+        
+        // 排序结果
+        function sortResults(type) {
+            document.querySelectorAll('.sort-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            const sorted = [...currentResults];
+            
+            if (type === 'score') {
+                sorted.sort((a, b) => parseFloat(b.score) - parseFloat(a.score));
+            } else if (type === 'relevance') {
+                sorted.sort((a, b) => 
+                    parseFloat(b.score_details.hot_topic_relevance) - parseFloat(a.score_details.hot_topic_relevance)
+                );
+            } else if (type === 'history') {
+                sorted.sort((a, b) => 
+                    parseFloat(b.score_details.history_weight) - parseFloat(a.score_details.history_weight)
+                );
+            }
+            
+            currentResults = sorted;
+            renderResults(sorted);
+        }
+    </script>
+</body>
+</html>
