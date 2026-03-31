@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-04-01T04:49:00.308439",
+  "summary": {
+    "total": 20,
+    "fresh": 9,
+    "ok": 1,
+    "stale": 3,
+    "expired": 7,
+    "missing": 0
+  },
+  "stale_files": [
+    {
+      "category": "低粉爆款",
+      "file": "low_fan_hits_data.json",
+      "age": "78h"
+    },
+    {
+      "category": "SKU数据",
+      "file": "sku_scenarios.json",
+      "age": "94h"
+    },
+    {
+      "category": "客户数据",
+      "file": "dashboard_data.json",
+      "age": "56h"
+    }
+  ],
+  "expired_files": [
+    {
+      "category": "内容反馈",
+      "file": "content_feedback.json",
+      "age": "5.4d"
+    },
+    {
+      "category": "小红书数据",
+      "file": "xiaohongshu_*.json (6 files)",
+      "age": "5.4-5.7d"
+    }
+  ],
+  "fresh_files": [
+    "hot_topics.json",
+    "hot_topics_cleaned.json",
+    "hot_topics_new.json",
+    "sku_scenes.json",
+    "sku_recovery_report.json",
+    "client_ideas.json",
+    "duplicates_found.json",
+    "report_20260331_212116.json",
+    "competitor_analysis_20260401_044741.json"
+  ],
+  "recommendations": [
+    "【紧急】运行 xiaohongshu_enhanced.py 或 xiaohongshu_detailed 抓取器更新小红书数据（已过期5+天）",
+    "【重要】运行 low_fan_hit_fetcher.py 更新低粉爆款数据（已过期78h）",
+    "【建议】更新 dashboard_data.json（已过期56h）",
+    "【建议】更新 sku_scenarios.json（已过期94h）",
+    "【低优】content_feedback.json 需要用户交互产生新反馈，非主动数据源"
+  ]
+}
