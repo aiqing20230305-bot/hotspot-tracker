@@ -1,107 +1,28 @@
 {
-  "generated_at": "2026-03-31T17:58:10.866025",
-  "original_count": 98,
-  "cleaned_count": 90,
-  "duplicates_removed": 8,
-  "exceeded_limit_removed": 0,
-  "category_distribution": {
-    "其他": 57,
-    "娱乐": 8,
-    "数码": 4,
-    "社会": 4,
-    "国际": 3,
-    "生活": 3,
-    "财经": 3,
-    "汽车": 3,
-    "体育": 2,
-    "航天": 2,
-    "游戏": 2,
-    "服装": 1
-  },
-  "platform_distribution": {
-    "douyin": 46,
-    "weibo": 44
-  },
+  "timestamp": "2026-04-01T00:35:00",
+  "original_count": 23,
+  "deduped_count": 19,
+  "duplicates_removed": 4,
   "duplicates": [
     {
-      "original": "月鳞绮纪定档0401",
-      "duplicate": "冰湖重生定档0408",
-      "similarity": 0.64,
-      "action": "removed_duplicate",
-      "platform_original": "douyin",
-      "platform_duplicate": "douyin",
-      "heat_original": 7805363,
-      "heat_duplicate": 7726807
+      "title": "赛博对账",
+      "hot_value": 580000,
+      "platform": "全网"
     },
     {
-      "original": "电影寒战1994定档五一",
-      "duplicate": "电影消失的人定档五一",
-      "similarity": 0.62,
-      "action": "removed_duplicate",
-      "platform_original": "douyin",
-      "platform_duplicate": "douyin",
-      "heat_original": 7735100,
-      "heat_duplicate": 7701098
+      "title": "活人感",
+      "hot_value": 600000,
+      "platform": "全网"
     },
     {
-      "original": "国足vs喀麦隆",
-      "duplicate": "国足vs喀麦隆",
-      "similarity": 1.0,
-      "action": "removed_duplicate",
-      "platform_original": "douyin",
-      "platform_duplicate": "weibo",
-      "heat_original": 12103040,
-      "heat_duplicate": 214203
+      "title": "夯爆了",
+      "hot_value": 620000,
+      "platform": "全网"
     },
     {
-      "original": "月鳞绮纪定档0401",
-      "duplicate": "马嘉祺月鳞绮纪OST",
-      "similarity": 0.63,
-      "action": "removed_duplicate",
-      "platform_original": "douyin",
-      "platform_duplicate": "weibo",
-      "heat_original": 7805363,
-      "heat_duplicate": 140305
-    },
-    {
-      "original": "月鳞绮纪定档0401",
-      "duplicate": "冰湖重生月鳞绮纪对打",
-      "similarity": 0.63,
-      "action": "removed_duplicate",
-      "platform_original": "douyin",
-      "platform_duplicate": "weibo",
-      "heat_original": 7805363,
-      "heat_duplicate": 137723
-    },
-    {
-      "original": "国足vs喀麦隆",
-      "duplicate": "国足落后喀麦隆",
-      "similarity": 0.78,
-      "action": "removed_duplicate",
-      "platform_original": "douyin",
-      "platform_duplicate": "weibo",
-      "heat_original": 12103040,
-      "heat_duplicate": 122522
-    },
-    {
-      "original": "月鳞绮纪定档0401",
-      "duplicate": "月鳞绮纪定档",
-      "similarity": 0.63,
-      "action": "removed_duplicate",
-      "platform_original": "douyin",
-      "platform_duplicate": "weibo",
-      "heat_original": 7805363,
-      "heat_duplicate": 121433
-    },
-    {
-      "original": "白日提灯第八集剧情太夯了",
-      "duplicate": "白日提灯第8集30分5秒",
-      "similarity": 0.67,
-      "action": "removed_duplicate",
-      "platform_original": "douyin",
-      "platform_duplicate": "weibo",
-      "heat_original": 7722673,
-      "heat_duplicate": 85744
+      "title": "瑞幸紫椰子",
+      "hot_value": 1095335,
+      "platform": "微博"
     }
   ]
 }
