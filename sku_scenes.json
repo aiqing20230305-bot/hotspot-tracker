@@ -23,7 +23,8 @@
       "engagement_rate": 0.077
     },
     "heat_score": 7.8,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_002",
@@ -49,7 +50,8 @@
       "engagement_rate": 0.067
     },
     "heat_score": 7.6,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_003",
@@ -75,7 +77,8 @@
       "engagement_rate": 0.049
     },
     "heat_score": 7.7,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_004",
@@ -101,7 +104,8 @@
       "engagement_rate": 0.022
     },
     "heat_score": 6.0,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_005",
@@ -127,7 +131,8 @@
       "engagement_rate": 0.05
     },
     "heat_score": 7.9,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_006",
@@ -153,7 +158,8 @@
       "engagement_rate": 0.028
     },
     "heat_score": 6.8,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_007",
@@ -179,7 +185,8 @@
       "engagement_rate": 0.07
     },
     "heat_score": 8.9,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_008",
@@ -205,7 +212,8 @@
       "engagement_rate": 0.051
     },
     "heat_score": 8.9,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_009",
@@ -231,7 +239,8 @@
       "engagement_rate": 0.049
     },
     "heat_score": 6.3,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_010",
@@ -257,7 +266,8 @@
       "engagement_rate": 0.031
     },
     "heat_score": 9.4,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_011",
@@ -283,7 +293,8 @@
       "engagement_rate": 0.078
     },
     "heat_score": 9.2,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_012",
@@ -309,7 +320,8 @@
       "engagement_rate": 0.072
     },
     "heat_score": 9.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_013",
@@ -335,7 +347,8 @@
       "engagement_rate": 0.029
     },
     "heat_score": 7.9,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_014",
@@ -361,7 +374,8 @@
       "engagement_rate": 0.056
     },
     "heat_score": 9.3,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_015",
@@ -387,7 +401,8 @@
       "engagement_rate": 0.036
     },
     "heat_score": 8.2,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_016",
@@ -413,7 +428,8 @@
       "engagement_rate": 0.02
     },
     "heat_score": 7.4,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_017",
@@ -439,7 +455,8 @@
       "engagement_rate": 0.064
     },
     "heat_score": 8.9,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_018",
@@ -465,7 +482,8 @@
       "engagement_rate": 0.06
     },
     "heat_score": 6.4,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_019",
@@ -491,7 +509,8 @@
       "engagement_rate": 0.042
     },
     "heat_score": 9.2,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_020",
@@ -517,7 +536,8 @@
       "engagement_rate": 0.038
     },
     "heat_score": 7.7,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_021",
@@ -543,7 +563,8 @@
       "engagement_rate": 0.031
     },
     "heat_score": 8.5,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_022",
@@ -569,7 +590,8 @@
       "engagement_rate": 0.057
     },
     "heat_score": 6.5,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_023",
@@ -595,7 +617,8 @@
       "engagement_rate": 0.065
     },
     "heat_score": 7.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_024",
@@ -621,7 +644,8 @@
       "engagement_rate": 0.023
     },
     "heat_score": 7.8,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_025",
@@ -647,7 +671,8 @@
       "engagement_rate": 0.028
     },
     "heat_score": 7.9,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_026",
@@ -673,7 +698,8 @@
       "engagement_rate": 0.034
     },
     "heat_score": 6.6,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_027",
@@ -699,7 +725,8 @@
       "engagement_rate": 0.041
     },
     "heat_score": 8.8,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_028",
@@ -725,7 +752,8 @@
       "engagement_rate": 0.08
     },
     "heat_score": 9.5,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_029",
@@ -751,7 +779,8 @@
       "engagement_rate": 0.034
     },
     "heat_score": 9.2,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_030",
@@ -777,7 +806,8 @@
       "engagement_rate": 0.033
     },
     "heat_score": 8.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_031",
@@ -803,7 +833,8 @@
       "engagement_rate": 0.061
     },
     "heat_score": 7.6,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_032",
@@ -829,7 +860,8 @@
       "engagement_rate": 0.052
     },
     "heat_score": 8.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_033",
@@ -855,7 +887,8 @@
       "engagement_rate": 0.062
     },
     "heat_score": 6.5,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_034",
@@ -881,7 +914,8 @@
       "engagement_rate": 0.064
     },
     "heat_score": 8.3,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_035",
@@ -907,7 +941,8 @@
       "engagement_rate": 0.046
     },
     "heat_score": 9.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_036",
@@ -933,7 +968,8 @@
       "engagement_rate": 0.031
     },
     "heat_score": 7.9,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_037",
@@ -959,7 +995,8 @@
       "engagement_rate": 0.025
     },
     "heat_score": 7.0,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_038",
@@ -985,7 +1022,8 @@
       "engagement_rate": 0.048
     },
     "heat_score": 6.0,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_039",
@@ -1011,7 +1049,8 @@
       "engagement_rate": 0.033
     },
     "heat_score": 6.2,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_040",
@@ -1037,7 +1076,8 @@
       "engagement_rate": 0.046
     },
     "heat_score": 7.9,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_041",
@@ -1063,7 +1103,8 @@
       "engagement_rate": 0.067
     },
     "heat_score": 8.3,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_042",
@@ -1089,7 +1130,8 @@
       "engagement_rate": 0.05
     },
     "heat_score": 9.3,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_043",
@@ -1115,7 +1157,8 @@
       "engagement_rate": 0.077
     },
     "heat_score": 8.0,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_044",
@@ -1141,7 +1184,8 @@
       "engagement_rate": 0.036
     },
     "heat_score": 8.5,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_045",
@@ -1167,7 +1211,8 @@
       "engagement_rate": 0.07
     },
     "heat_score": 7.5,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_046",
@@ -1193,7 +1238,8 @@
       "engagement_rate": 0.042
     },
     "heat_score": 8.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_047",
@@ -1219,7 +1265,8 @@
       "engagement_rate": 0.076
     },
     "heat_score": 6.3,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_048",
@@ -1245,7 +1292,8 @@
       "engagement_rate": 0.072
     },
     "heat_score": 6.6,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_049",
@@ -1271,7 +1319,8 @@
       "engagement_rate": 0.049
     },
     "heat_score": 7.0,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_050",
@@ -1297,7 +1346,8 @@
       "engagement_rate": 0.074
     },
     "heat_score": 9.4,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_051",
@@ -1323,7 +1373,8 @@
       "engagement_rate": 0.062
     },
     "heat_score": 8.8,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_052",
@@ -1349,7 +1400,8 @@
       "engagement_rate": 0.025
     },
     "heat_score": 9.3,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_053",
@@ -1375,7 +1427,8 @@
       "engagement_rate": 0.027
     },
     "heat_score": 8.5,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_054",
@@ -1401,7 +1454,8 @@
       "engagement_rate": 0.064
     },
     "heat_score": 8.3,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_055",
@@ -1427,7 +1481,8 @@
       "engagement_rate": 0.042
     },
     "heat_score": 7.5,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_056",
@@ -1453,7 +1508,8 @@
       "engagement_rate": 0.024
     },
     "heat_score": 8.4,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_057",
@@ -1479,7 +1535,8 @@
       "engagement_rate": 0.052
     },
     "heat_score": 7.4,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_058",
@@ -1505,7 +1562,8 @@
       "engagement_rate": 0.077
     },
     "heat_score": 8.2,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "测评类"
   },
   {
     "id": "scene_059",
@@ -1531,7 +1589,8 @@
       "engagement_rate": 0.03
     },
     "heat_score": 9.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_060",
@@ -1557,7 +1616,8 @@
       "engagement_rate": 0.023
     },
     "heat_score": 6.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_061",
@@ -1583,7 +1643,8 @@
       "engagement_rate": 0.07
     },
     "heat_score": 9.3,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_062",
@@ -1609,7 +1670,8 @@
       "engagement_rate": 0.074
     },
     "heat_score": 7.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "使用类"
   },
   {
     "id": "scene_063",
@@ -1635,7 +1697,8 @@
       "engagement_rate": 0.068
     },
     "heat_score": 9.1,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_064",
@@ -1661,7 +1724,8 @@
       "engagement_rate": 0.039
     },
     "heat_score": 7.6,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_065",
@@ -1687,7 +1751,8 @@
       "engagement_rate": 0.027
     },
     "heat_score": 8.5,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_066",
@@ -1714,7 +1779,8 @@
       "engagement_rate": 5.9
     },
     "heat_score": 86,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_067",
@@ -1741,7 +1807,8 @@
       "engagement_rate": 5.2
     },
     "heat_score": 86,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_068",
@@ -1768,7 +1835,8 @@
       "engagement_rate": 4.7
     },
     "heat_score": 87,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_069",
@@ -1795,7 +1863,8 @@
       "engagement_rate": 3.8
     },
     "heat_score": 64,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_070",
@@ -1822,7 +1891,8 @@
       "engagement_rate": 2.4
     },
     "heat_score": 95,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_071",
@@ -1849,7 +1919,8 @@
       "engagement_rate": 6.7
     },
     "heat_score": 78,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_072",
@@ -1876,7 +1947,8 @@
       "engagement_rate": 4.2
     },
     "heat_score": 64,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_073",
@@ -1903,7 +1975,8 @@
       "engagement_rate": 6.8
     },
     "heat_score": 70,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_074",
@@ -1930,7 +2003,8 @@
       "engagement_rate": 4.8
     },
     "heat_score": 89,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_075",
@@ -1957,7 +2031,8 @@
       "engagement_rate": 4.1
     },
     "heat_score": 66,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_076",
@@ -1984,7 +2059,8 @@
       "engagement_rate": 3.8
     },
     "heat_score": 74,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_077",
@@ -2011,7 +2087,8 @@
       "engagement_rate": 2.9
     },
     "heat_score": 69,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_078",
@@ -2038,7 +2115,8 @@
       "engagement_rate": 5.8
     },
     "heat_score": 72,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_079",
@@ -2065,7 +2143,8 @@
       "engagement_rate": 4.8
     },
     "heat_score": 90,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_080",
@@ -2092,7 +2171,8 @@
       "engagement_rate": 7.1
     },
     "heat_score": 84,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_081",
@@ -2119,7 +2199,8 @@
       "engagement_rate": 2.9
     },
     "heat_score": 78,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_082",
@@ -2146,7 +2227,8 @@
       "engagement_rate": 6.7
     },
     "heat_score": 69,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_083",
@@ -2173,7 +2255,8 @@
       "engagement_rate": 5.3
     },
     "heat_score": 73,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_084",
@@ -2200,7 +2283,8 @@
       "engagement_rate": 5.3
     },
     "heat_score": 77,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_085",
@@ -2227,7 +2311,8 @@
       "engagement_rate": 4.1
     },
     "heat_score": 60,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_086",
@@ -2254,7 +2339,8 @@
       "engagement_rate": 2.1
     },
     "heat_score": 68,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_087",
@@ -2281,7 +2367,8 @@
       "engagement_rate": 3.7
     },
     "heat_score": 84,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_088",
@@ -2308,7 +2395,8 @@
       "engagement_rate": 2.9
     },
     "heat_score": 61,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_089",
@@ -2335,7 +2423,8 @@
       "engagement_rate": 7.5
     },
     "heat_score": 74,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_090",
@@ -2362,7 +2451,8 @@
       "engagement_rate": 7.7
     },
     "heat_score": 83,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_091",
@@ -2389,7 +2479,8 @@
       "engagement_rate": 5.9
     },
     "heat_score": 77,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_092",
@@ -2416,7 +2507,8 @@
       "engagement_rate": 3.1
     },
     "heat_score": 91,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_093",
@@ -2443,7 +2535,8 @@
       "engagement_rate": 4.8
     },
     "heat_score": 93,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_094",
@@ -2470,7 +2563,8 @@
       "engagement_rate": 3.3
     },
     "heat_score": 90,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_095",
@@ -2497,7 +2591,8 @@
       "engagement_rate": 2.5
     },
     "heat_score": 95,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_096",
@@ -2524,7 +2619,8 @@
       "engagement_rate": 6.1
     },
     "heat_score": 89,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_097",
@@ -2551,7 +2647,8 @@
       "engagement_rate": 5.9
     },
     "heat_score": 87,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_098",
@@ -2578,7 +2675,8 @@
       "engagement_rate": 4.5
     },
     "heat_score": 92,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_099",
@@ -2605,7 +2703,8 @@
       "engagement_rate": 6.7
     },
     "heat_score": 77,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_100",
@@ -2632,7 +2731,8 @@
       "engagement_rate": 3.5
     },
     "heat_score": 66,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_101",
@@ -2659,7 +2759,8 @@
       "engagement_rate": 6.7
     },
     "heat_score": 94,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_102",
@@ -2686,7 +2787,8 @@
       "engagement_rate": 3.8
     },
     "heat_score": 88,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_103",
@@ -2713,7 +2815,8 @@
       "engagement_rate": 2.7
     },
     "heat_score": 86,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_104",
@@ -2740,7 +2843,8 @@
       "engagement_rate": 6.4
     },
     "heat_score": 72,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_105",
@@ -2767,7 +2871,8 @@
       "engagement_rate": 6.3
     },
     "heat_score": 89,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_106",
@@ -2794,7 +2899,8 @@
       "engagement_rate": 6.5
     },
     "heat_score": 60,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_107",
@@ -2821,7 +2927,8 @@
       "engagement_rate": 6.9
     },
     "heat_score": 72,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_108",
@@ -2848,7 +2955,8 @@
       "engagement_rate": 7.6
     },
     "heat_score": 87,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_109",
@@ -2875,7 +2983,8 @@
       "engagement_rate": 2.5
     },
     "heat_score": 91,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_110",
@@ -2902,7 +3011,8 @@
       "engagement_rate": 7.1
     },
     "heat_score": 85,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_111",
@@ -2929,7 +3039,8 @@
       "engagement_rate": 4.1
     },
     "heat_score": 74,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_112",
@@ -2956,7 +3067,8 @@
       "engagement_rate": 4.5
     },
     "heat_score": 92,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_113",
@@ -2983,7 +3095,8 @@
       "engagement_rate": 6.8
     },
     "heat_score": 68,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_114",
@@ -3010,7 +3123,8 @@
       "engagement_rate": 5.6
     },
     "heat_score": 86,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_115",
@@ -3037,7 +3151,8 @@
       "engagement_rate": 7.9
     },
     "heat_score": 85,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_116",
@@ -3064,7 +3179,8 @@
       "engagement_rate": 6.6
     },
     "heat_score": 60,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_117",
@@ -3091,7 +3207,8 @@
       "engagement_rate": 5.8
     },
     "heat_score": 87,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_118",
@@ -3118,7 +3235,8 @@
       "engagement_rate": 2.1
     },
     "heat_score": 73,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_119",
@@ -3145,7 +3263,8 @@
       "engagement_rate": 2.0
     },
     "heat_score": 70,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "趣味类"
   },
   {
     "id": "scene_120",
@@ -3172,7 +3291,8 @@
       "engagement_rate": 3.5
     },
     "heat_score": 78,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_121",
@@ -3199,7 +3319,8 @@
       "engagement_rate": 4.3
     },
     "heat_score": 76,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_122",
@@ -3226,7 +3347,8 @@
       "engagement_rate": 5.2
     },
     "heat_score": 90,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_123",
@@ -3253,7 +3375,8 @@
       "engagement_rate": 3.2
     },
     "heat_score": 76,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_124",
@@ -3280,7 +3403,8 @@
       "engagement_rate": 2.8
     },
     "heat_score": 94,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_125",
@@ -3307,7 +3431,8 @@
       "engagement_rate": 3.3
     },
     "heat_score": 79,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_126",
@@ -3334,7 +3459,8 @@
       "engagement_rate": 2.9
     },
     "heat_score": 85,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_127",
@@ -3361,7 +3487,8 @@
       "engagement_rate": 7.6
     },
     "heat_score": 93,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_128",
@@ -3388,7 +3515,8 @@
       "engagement_rate": 5.8
     },
     "heat_score": 73,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_129",
@@ -3415,7 +3543,8 @@
       "engagement_rate": 4.3
     },
     "heat_score": 81,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_130",
@@ -3442,7 +3571,8 @@
       "engagement_rate": 6.3
     },
     "heat_score": 84,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_131",
@@ -3469,7 +3599,8 @@
       "engagement_rate": 6.5
     },
     "heat_score": 95,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_132",
@@ -3496,7 +3627,8 @@
       "engagement_rate": 5.0
     },
     "heat_score": 73,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_133",
@@ -3523,7 +3655,8 @@
       "engagement_rate": 3.4
     },
     "heat_score": 62,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_134",
@@ -3550,7 +3683,8 @@
       "engagement_rate": 5.7
     },
     "heat_score": 65,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_135",
@@ -3577,7 +3711,8 @@
       "engagement_rate": 2.7
     },
     "heat_score": 61,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_136",
@@ -3604,7 +3739,8 @@
       "engagement_rate": 5.4
     },
     "heat_score": 94,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_137",
@@ -3631,7 +3767,8 @@
       "engagement_rate": 5.0
     },
     "heat_score": 73,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_138",
@@ -3658,7 +3795,8 @@
       "engagement_rate": 5.2
     },
     "heat_score": 92,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_139",
@@ -3685,7 +3823,8 @@
       "engagement_rate": 5.8
     },
     "heat_score": 86,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_140",
@@ -3712,7 +3851,8 @@
       "engagement_rate": 7.5
     },
     "heat_score": 77,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_141",
@@ -3739,7 +3879,8 @@
       "engagement_rate": 4.2
     },
     "heat_score": 80,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_142",
@@ -3766,7 +3907,8 @@
       "engagement_rate": 7.2
     },
     "heat_score": 70,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_143",
@@ -3793,7 +3935,8 @@
       "engagement_rate": 4.4
     },
     "heat_score": 91,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_144",
@@ -3820,7 +3963,8 @@
       "engagement_rate": 3.5
     },
     "heat_score": 66,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_145",
@@ -3847,7 +3991,8 @@
       "engagement_rate": 5.0
     },
     "heat_score": 76,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_146",
@@ -3874,7 +4019,8 @@
       "engagement_rate": 7.5
     },
     "heat_score": 85,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_147",
@@ -3901,7 +4047,8 @@
       "engagement_rate": 3.3
     },
     "heat_score": 77,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_148",
@@ -3928,7 +4075,8 @@
       "engagement_rate": 4.6
     },
     "heat_score": 62,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_149",
@@ -3955,7 +4103,8 @@
       "engagement_rate": 6.4
     },
     "heat_score": 63,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_150",
@@ -3982,7 +4131,8 @@
       "engagement_rate": 5.4
     },
     "heat_score": 93,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_151",
@@ -4009,7 +4159,8 @@
       "engagement_rate": 6.3
     },
     "heat_score": 65,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_152",
@@ -4036,7 +4187,8 @@
       "engagement_rate": 3.7
     },
     "heat_score": 86,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_153",
@@ -4063,7 +4215,8 @@
       "engagement_rate": 3.2
     },
     "heat_score": 89,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_154",
@@ -4090,7 +4243,8 @@
       "engagement_rate": 6.8
     },
     "heat_score": 78,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_155",
@@ -4117,7 +4271,8 @@
       "engagement_rate": 6.1
     },
     "heat_score": 74,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_156",
@@ -4144,7 +4299,8 @@
       "engagement_rate": 3.5
     },
     "heat_score": 73,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_157",
@@ -4171,7 +4327,8 @@
       "engagement_rate": 2.3
     },
     "heat_score": 86,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_158",
@@ -4198,7 +4355,8 @@
       "engagement_rate": 7.3
     },
     "heat_score": 68,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_159",
@@ -4225,7 +4383,8 @@
       "engagement_rate": 4.0
     },
     "heat_score": 81,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_160",
@@ -4252,7 +4411,8 @@
       "engagement_rate": 3.5
     },
     "heat_score": 63,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_161",
@@ -4279,7 +4439,8 @@
       "engagement_rate": 8.0
     },
     "heat_score": 79,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_162",
@@ -4306,7 +4467,8 @@
       "engagement_rate": 3.6
     },
     "heat_score": 62,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_163",
@@ -4333,7 +4495,8 @@
       "engagement_rate": 3.6
     },
     "heat_score": 62,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_164",
@@ -4360,7 +4523,8 @@
       "engagement_rate": 5.4
     },
     "heat_score": 62,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_165",
@@ -4387,7 +4551,8 @@
       "engagement_rate": 3.6
     },
     "heat_score": 70,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_166",
@@ -4414,7 +4579,8 @@
       "engagement_rate": 7.8
     },
     "heat_score": 64,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_167",
@@ -4441,7 +4607,8 @@
       "engagement_rate": 7.1
     },
     "heat_score": 77,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_168",
@@ -4468,7 +4635,8 @@
       "engagement_rate": 2.9
     },
     "heat_score": 87,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_169",
@@ -4495,7 +4663,8 @@
       "engagement_rate": 6.0
     },
     "heat_score": 90,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_170",
@@ -4522,7 +4691,8 @@
       "engagement_rate": 3.6
     },
     "heat_score": 69,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_171",
@@ -4549,7 +4719,8 @@
       "engagement_rate": 7.2
     },
     "heat_score": 73,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_172",
@@ -4576,7 +4747,8 @@
       "engagement_rate": 5.4
     },
     "heat_score": 74,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_173",
@@ -4603,7 +4775,8 @@
       "engagement_rate": 5.7
     },
     "heat_score": 75,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_174",
@@ -4630,7 +4803,8 @@
       "engagement_rate": 5.5
     },
     "heat_score": 95,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_175",
@@ -4657,7 +4831,8 @@
       "engagement_rate": 7.5
     },
     "heat_score": 90,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_176",
@@ -4684,7 +4859,8 @@
       "engagement_rate": 7.3
     },
     "heat_score": 95,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_177",
@@ -4711,7 +4887,8 @@
       "engagement_rate": 7.4
     },
     "heat_score": 77,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_178",
@@ -4738,7 +4915,8 @@
       "engagement_rate": 4.2
     },
     "heat_score": 95,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_179",
@@ -4765,7 +4943,8 @@
       "engagement_rate": 5.7
     },
     "heat_score": 89,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_180",
@@ -4792,7 +4971,8 @@
       "engagement_rate": 2.8
     },
     "heat_score": 61,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_181",
@@ -4819,7 +4999,8 @@
       "engagement_rate": 2.9
     },
     "heat_score": 63,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_182",
@@ -4846,7 +5027,8 @@
       "engagement_rate": 3.9
     },
     "heat_score": 80,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_183",
@@ -4873,7 +5055,8 @@
       "engagement_rate": 7.3
     },
     "heat_score": 85,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_184",
@@ -4900,7 +5083,8 @@
       "engagement_rate": 2.2
     },
     "heat_score": 74,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_185",
@@ -4927,7 +5111,8 @@
       "engagement_rate": 4.6
     },
     "heat_score": 86,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_186",
@@ -4954,7 +5139,8 @@
       "engagement_rate": 5.8
     },
     "heat_score": 65,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_187",
@@ -4981,7 +5167,8 @@
       "engagement_rate": 6.7
     },
     "heat_score": 74,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "情感类"
   },
   {
     "id": "scene_188",
@@ -5008,7 +5195,8 @@
       "engagement_rate": 2.5
     },
     "heat_score": 61,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_189",
@@ -5035,7 +5223,8 @@
       "engagement_rate": 2.8
     },
     "heat_score": 63,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_190",
@@ -5062,7 +5251,8 @@
       "engagement_rate": 3.6
     },
     "heat_score": 78,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_191",
@@ -5089,7 +5279,8 @@
       "engagement_rate": 6.7
     },
     "heat_score": 72,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_192",
@@ -5116,7 +5307,8 @@
       "engagement_rate": 7.9
     },
     "heat_score": 75,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_193",
@@ -5143,7 +5335,8 @@
       "engagement_rate": 6.3
     },
     "heat_score": 71,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_194",
@@ -5170,7 +5363,8 @@
       "engagement_rate": 3.1
     },
     "heat_score": 74,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_195",
@@ -5197,7 +5391,8 @@
       "engagement_rate": 4.7
     },
     "heat_score": 67,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_196",
@@ -5224,7 +5419,8 @@
       "engagement_rate": 7.6
     },
     "heat_score": 69,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_197",
@@ -5251,7 +5447,8 @@
       "engagement_rate": 2.1
     },
     "heat_score": 80,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_198",
@@ -5278,7 +5475,8 @@
       "engagement_rate": 4.8
     },
     "heat_score": 62,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_199",
@@ -5305,7 +5503,8 @@
       "engagement_rate": 5.6
     },
     "heat_score": 90,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_200",
@@ -5332,7 +5531,8 @@
       "engagement_rate": 2.8
     },
     "heat_score": 95,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_201",
@@ -5359,7 +5559,8 @@
       "engagement_rate": 2.5
     },
     "heat_score": 70,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "生活类"
   },
   {
     "id": "scene_202",
@@ -5386,7 +5587,8 @@
       "engagement_rate": 2.1
     },
     "heat_score": 73,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_203",
@@ -5413,7 +5615,8 @@
       "engagement_rate": 3.5
     },
     "heat_score": 84,
-    "created": "2026-03-29"
+    "created": "2026-03-29",
+    "category": "展示类"
   },
   {
     "id": "scene_204",
@@ -5439,7 +5642,8 @@
       "engagement_rate": 0.045
     },
     "heat_score": 6.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_205",
@@ -5465,7 +5669,8 @@
       "engagement_rate": 0.023
     },
     "heat_score": 6.6,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_206",
@@ -5491,7 +5696,8 @@
       "engagement_rate": 0.041
     },
     "heat_score": 6.6,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_207",
@@ -5517,7 +5723,8 @@
       "engagement_rate": 0.045
     },
     "heat_score": 9.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_208",
@@ -5543,7 +5750,8 @@
       "engagement_rate": 0.074
     },
     "heat_score": 8.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_209",
@@ -5569,7 +5777,8 @@
       "engagement_rate": 0.035
     },
     "heat_score": 6.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_210",
@@ -5595,7 +5804,8 @@
       "engagement_rate": 0.066
     },
     "heat_score": 7.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_211",
@@ -5621,7 +5831,8 @@
       "engagement_rate": 0.076
     },
     "heat_score": 7.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_212",
@@ -5647,7 +5858,8 @@
       "engagement_rate": 0.026
     },
     "heat_score": 7.9,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_213",
@@ -5673,7 +5885,8 @@
       "engagement_rate": 0.03
     },
     "heat_score": 7.6,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_214",
@@ -5699,7 +5912,8 @@
       "engagement_rate": 0.036
     },
     "heat_score": 9.0,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_215",
@@ -5725,7 +5939,8 @@
       "engagement_rate": 0.027
     },
     "heat_score": 6.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_216",
@@ -5751,7 +5966,8 @@
       "engagement_rate": 0.026
     },
     "heat_score": 8.8,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_217",
@@ -5777,7 +5993,8 @@
       "engagement_rate": 0.033
     },
     "heat_score": 7.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_218",
@@ -5803,7 +6020,8 @@
       "engagement_rate": 0.054
     },
     "heat_score": 8.1,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_219",
@@ -5829,7 +6047,8 @@
       "engagement_rate": 0.053
     },
     "heat_score": 7.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_220",
@@ -5855,7 +6074,8 @@
       "engagement_rate": 0.029
     },
     "heat_score": 8.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "生活类"
   },
   {
     "id": "scene_221",
@@ -5881,7 +6101,8 @@
       "engagement_rate": 0.079
     },
     "heat_score": 8.0,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_222",
@@ -5907,7 +6128,8 @@
       "engagement_rate": 0.079
     },
     "heat_score": 7.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_223",
@@ -5933,7 +6155,8 @@
       "engagement_rate": 0.044
     },
     "heat_score": 9.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_224",
@@ -5959,7 +6182,8 @@
       "engagement_rate": 0.033
     },
     "heat_score": 8.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_225",
@@ -5985,7 +6209,8 @@
       "engagement_rate": 0.074
     },
     "heat_score": 7.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_226",
@@ -6011,7 +6236,8 @@
       "engagement_rate": 0.05
     },
     "heat_score": 8.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_227",
@@ -6037,7 +6263,8 @@
       "engagement_rate": 0.05
     },
     "heat_score": 6.9,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_228",
@@ -6063,7 +6290,8 @@
       "engagement_rate": 0.035
     },
     "heat_score": 7.1,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "生活类"
   },
   {
     "id": "scene_229",
@@ -6089,7 +6317,8 @@
       "engagement_rate": 0.065
     },
     "heat_score": 6.9,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_230",
@@ -6115,7 +6344,8 @@
       "engagement_rate": 0.048
     },
     "heat_score": 7.8,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_231",
@@ -6141,7 +6371,8 @@
       "engagement_rate": 0.071
     },
     "heat_score": 7.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_232",
@@ -6167,7 +6398,8 @@
       "engagement_rate": 0.067
     },
     "heat_score": 8.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_233",
@@ -6193,7 +6425,8 @@
       "engagement_rate": 0.039
     },
     "heat_score": 8.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_234",
@@ -6219,7 +6452,8 @@
       "engagement_rate": 0.03
     },
     "heat_score": 9.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_235",
@@ -6245,7 +6479,8 @@
       "engagement_rate": 0.058
     },
     "heat_score": 8.8,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_236",
@@ -6271,7 +6506,8 @@
       "engagement_rate": 0.066
     },
     "heat_score": 7.6,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_237",
@@ -6297,7 +6533,8 @@
       "engagement_rate": 0.053
     },
     "heat_score": 6.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_238",
@@ -6323,7 +6560,8 @@
       "engagement_rate": 0.068
     },
     "heat_score": 8.8,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_239",
@@ -6349,7 +6587,8 @@
       "engagement_rate": 0.033
     },
     "heat_score": 6.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_240",
@@ -6375,7 +6614,8 @@
       "engagement_rate": 0.044
     },
     "heat_score": 6.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_241",
@@ -6401,7 +6641,8 @@
       "engagement_rate": 0.047
     },
     "heat_score": 7.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "情感类"
   },
   {
     "id": "scene_242",
@@ -6427,7 +6668,8 @@
       "engagement_rate": 0.034
     },
     "heat_score": 7.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_243",
@@ -6453,7 +6695,8 @@
       "engagement_rate": 0.072
     },
     "heat_score": 8.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_244",
@@ -6479,7 +6722,8 @@
       "engagement_rate": 0.068
     },
     "heat_score": 6.6,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_245",
@@ -6505,7 +6749,8 @@
       "engagement_rate": 0.053
     },
     "heat_score": 7.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_246",
@@ -6531,7 +6776,8 @@
       "engagement_rate": 0.069
     },
     "heat_score": 6.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_247",
@@ -6557,7 +6803,8 @@
       "engagement_rate": 0.037
     },
     "heat_score": 9.0,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_248",
@@ -6583,7 +6830,8 @@
       "engagement_rate": 0.029
     },
     "heat_score": 8.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_249",
@@ -6609,7 +6857,8 @@
       "engagement_rate": 0.037
     },
     "heat_score": 8.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_250",
@@ -6635,7 +6884,8 @@
       "engagement_rate": 0.051
     },
     "heat_score": 8.1,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_251",
@@ -6661,7 +6911,8 @@
       "engagement_rate": 0.043
     },
     "heat_score": 8.9,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "测评类"
   },
   {
     "id": "scene_252",
@@ -6687,7 +6938,8 @@
       "engagement_rate": 0.073
     },
     "heat_score": 6.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_253",
@@ -6713,7 +6965,8 @@
       "engagement_rate": 0.072
     },
     "heat_score": 8.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_254",
@@ -6739,7 +6992,8 @@
       "engagement_rate": 0.067
     },
     "heat_score": 6.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_255",
@@ -6765,7 +7019,8 @@
       "engagement_rate": 0.028
     },
     "heat_score": 8.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_256",
@@ -6791,7 +7046,8 @@
       "engagement_rate": 0.051
     },
     "heat_score": 7.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_257",
@@ -6817,7 +7073,8 @@
       "engagement_rate": 0.065
     },
     "heat_score": 8.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_258",
@@ -6843,7 +7100,8 @@
       "engagement_rate": 0.071
     },
     "heat_score": 8.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_259",
@@ -6869,7 +7127,8 @@
       "engagement_rate": 0.027
     },
     "heat_score": 8.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "生活类"
   },
   {
     "id": "scene_260",
@@ -6895,7 +7154,8 @@
       "engagement_rate": 0.023
     },
     "heat_score": 9.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_261",
@@ -6921,7 +7181,8 @@
       "engagement_rate": 0.064
     },
     "heat_score": 8.1,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_262",
@@ -6947,7 +7208,8 @@
       "engagement_rate": 0.067
     },
     "heat_score": 8.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_263",
@@ -6973,7 +7235,8 @@
       "engagement_rate": 0.079
     },
     "heat_score": 6.8,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_264",
@@ -6999,7 +7262,8 @@
       "engagement_rate": 0.061
     },
     "heat_score": 8.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_265",
@@ -7025,7 +7289,8 @@
       "engagement_rate": 0.057
     },
     "heat_score": 7.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_266",
@@ -7051,7 +7316,8 @@
       "engagement_rate": 0.026
     },
     "heat_score": 8.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_267",
@@ -7077,7 +7343,8 @@
       "engagement_rate": 0.027
     },
     "heat_score": 7.0,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_268",
@@ -7103,7 +7370,8 @@
       "engagement_rate": 0.045
     },
     "heat_score": 7.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_269",
@@ -7129,7 +7397,8 @@
       "engagement_rate": 0.036
     },
     "heat_score": 7.6,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_270",
@@ -7155,7 +7424,8 @@
       "engagement_rate": 0.025
     },
     "heat_score": 6.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "展示类"
   },
   {
     "id": "scene_271",
@@ -7181,7 +7451,8 @@
       "engagement_rate": 0.058
     },
     "heat_score": 8.0,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_272",
@@ -7207,7 +7478,8 @@
       "engagement_rate": 0.071
     },
     "heat_score": 6.1,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_273",
@@ -7233,7 +7505,8 @@
       "engagement_rate": 0.048
     },
     "heat_score": 8.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_274",
@@ -7259,7 +7532,8 @@
       "engagement_rate": 0.077
     },
     "heat_score": 8.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_275",
@@ -7285,7 +7559,8 @@
       "engagement_rate": 0.069
     },
     "heat_score": 7.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_276",
@@ -7311,7 +7586,8 @@
       "engagement_rate": 0.063
     },
     "heat_score": 8.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_277",
@@ -7337,7 +7613,8 @@
       "engagement_rate": 0.03
     },
     "heat_score": 7.6,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_278",
@@ -7363,7 +7640,8 @@
       "engagement_rate": 0.043
     },
     "heat_score": 6.1,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_279",
@@ -7389,7 +7667,8 @@
       "engagement_rate": 0.057
     },
     "heat_score": 6.0,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "生活类"
   },
   {
     "id": "scene_280",
@@ -7415,7 +7694,8 @@
       "engagement_rate": 0.022
     },
     "heat_score": 6.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_281",
@@ -7441,7 +7721,8 @@
       "engagement_rate": 0.026
     },
     "heat_score": 6.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_282",
@@ -7467,7 +7748,8 @@
       "engagement_rate": 0.061
     },
     "heat_score": 7.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_283",
@@ -7493,7 +7775,8 @@
       "engagement_rate": 0.023
     },
     "heat_score": 7.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "生活类"
   },
   {
     "id": "scene_284",
@@ -7519,7 +7802,8 @@
       "engagement_rate": 0.039
     },
     "heat_score": 7.9,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_285",
@@ -7545,7 +7829,8 @@
       "engagement_rate": 0.048
     },
     "heat_score": 6.1,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_286",
@@ -7571,7 +7856,8 @@
       "engagement_rate": 0.038
     },
     "heat_score": 8.2,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_287",
@@ -7597,7 +7883,8 @@
       "engagement_rate": 0.026
     },
     "heat_score": 6.8,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "生活类"
   },
   {
     "id": "scene_288",
@@ -7623,7 +7910,8 @@
       "engagement_rate": 0.048
     },
     "heat_score": 9.0,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_289",
@@ -7649,7 +7937,8 @@
       "engagement_rate": 0.032
     },
     "heat_score": 7.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_290",
@@ -7675,7 +7964,8 @@
       "engagement_rate": 0.038
     },
     "heat_score": 9.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_291",
@@ -7701,7 +7991,8 @@
       "engagement_rate": 0.023
     },
     "heat_score": 6.7,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "生活类"
   },
   {
     "id": "scene_292",
@@ -7727,7 +8018,8 @@
       "engagement_rate": 0.069
     },
     "heat_score": 7.1,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_293",
@@ -7753,7 +8045,8 @@
       "engagement_rate": 0.043
     },
     "heat_score": 7.5,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_294",
@@ -7779,7 +8072,8 @@
       "engagement_rate": 0.063
     },
     "heat_score": 6.8,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_295",
@@ -7805,7 +8099,8 @@
       "engagement_rate": 0.038
     },
     "heat_score": 7.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "生活类"
   },
   {
     "id": "scene_296",
@@ -7831,7 +8126,8 @@
       "engagement_rate": 0.063
     },
     "heat_score": 6.6,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_297",
@@ -7857,7 +8153,8 @@
       "engagement_rate": 0.035
     },
     "heat_score": 9.3,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_298",
@@ -7883,7 +8180,8 @@
       "engagement_rate": 0.025
     },
     "heat_score": 7.4,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "趣味类"
   },
   {
     "id": "scene_299",
@@ -7909,7 +8207,8 @@
       "engagement_rate": 0.078
     },
     "heat_score": 6.8,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   },
   {
     "id": "scene_300",
@@ -7935,6 +8234,7 @@
       "engagement_rate": 0.027
     },
     "heat_score": 9.0,
-    "created": "2026-03-30"
+    "created": "2026-03-30",
+    "category": "使用类"
   }
 ]
