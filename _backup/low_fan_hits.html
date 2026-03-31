@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💎 低粉爆款榜 - 特赞内容运营平台</title>
+    <style>
+        :root {
+            --primary: #6366F1;
+            --primary-light: #818CF8;
+            --primary-dark: #4F46E5;
+            --success: #10B981;
+            --warning: #F59E0B;
+            --error: #EF4444;
+            --gray-50: #F9FAFB;
+            --gray-100: #F3F4F6;
+            --gray-200: #E5E7EB;
+            --gray-300: #D1D5DB;
+            --gray-600: #4B5563;
+            --gray-800: #1F2937;
+            --radius: 12px;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            --shadow-lg: 0 20px 25px -5px rgba(0,0,0,0.1);
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #EEF2FF 0%, #F5F3FF 100%);
+            min-height: 100vh;
+            color: var(--gray-800);
+        }
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: rgba(255,255,255,0.95);
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            z-index: 1000;
+            padding: 12px 24px;
+        }
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            font-size: 20px;
+            font-weight: 800;
+            color: var(--primary);
+            text-decoration: none;
+        }
+        .nav-tabs { display: flex; gap: 8px; }
+        .nav-tab {
+            padding: 8px 16px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: var(--gray-600);
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        .nav-tab:hover, .nav-tab.active {
+            background: var(--primary);
+            color: white;
+        }
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            padding: 8px;
+            min-width: 48px;
+            min-height: 48px;
+            justify-content: center;
+            align-items: center;
+        }
+        .hamburger span {
+            width: 24px;
+            height: 2px;
+            background: var(--gray-600);
+            border-radius: 2px;
+            transition: all 0.3s;
+        }
+        .hamburger.active span:nth-child(1) { transform: rotate(45deg) translate(5px, 5px); }
+        .hamburger.active span:nth-child(2) { opacity: 0; }
+        .hamburger.active span:nth-child(3) { transform: rotate(-45deg) translate(5px, -5px); }
+        
+        @media (max-width: 1024px) { .nav-tab { padding: 6px 10px; font-size: 13px; } }
+        @media (max-width: 768px) {
+            .navbar { padding: 12px 16px; }
+            .nav-tabs {
+                display: none;
+                position: fixed;
+                top: 60px;
+                left: 0;
+                right: 0;
+                background: white;
+                flex-direction: column;
+                padding: 16px;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+                gap: 4px;
+                z-index: 999;
+            }
+            .nav-tabs.show { display: flex; }
+            .hamburger { display: flex; }
+            .nav-tab { padding: 12px 16px; font-size: 15px; width: 100%; text-align: left; min-height: 48px; }
+            .main-container { padding: 80px 16px 24px; }
+            .page-header { padding: 24px 20px; border-radius: 16px; }
+            .page-header h1 { font-size: 24px; }
+            .filter-section { flex-direction: column; }
+            .filter-group { width: 100%; }
+            .filter-select { width: 100%; }
+            .sort-group { width: 100%; display: flex; }
+            .sort-btn { flex: 1; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+            .stat-card { padding: 16px; }
+            .stat-number { font-size: 26px; }
+            .content-grid { grid-template-columns: 1fr; }
+            .hit-item { flex-direction: column; gap: 12px; }
+            .hit-stats { text-align: left; width: 100%; display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+            .hit-rank { width: 36px; height: 36px; font-size: 14px; }
+            .hit-actions { margin-top: 8px; }
+            .detail-content { width: 95%; max-height: 85vh; }
+            .sidebar { order: 2; }
+            .result-count { margin-left: 0; margin-top: 8px; }
+        }
+        @media (max-width: 480px) {
+            .logo { font-size: 16px; }
+            .page-header h1 { font-size: 20px; }
+            .stats-grid { gap: 10px; }
+            .stat-card { padding: 14px 12px; }
+            .stat-number { font-size: 22px; }
+            .hit-title { font-size: 14px; }
+            .hit-meta { gap: 6px; }
+            .hit-tag { font-size: 11px; padding: 2px 6px; }
+        }
+        @media (hover: none) and (pointer: coarse) {
+            .filter-btn, .nav-tab, .hit-btn, .sort-btn, select { min-height: 44px; }
+        }
+        
+        .main-container { max-width: 1400px; margin: 0 auto; padding: 80px 24px 40px; }
+        .page-header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 24px;
+            margin-bottom: 24px;
+        }
+        .page-header h1 { font-size: 32px; margin-bottom: 8px; }
+        .page-header p { opacity: 0.9; }
+        .update-time {
+            background: rgba(255,255,255,0.2);
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            display: inline-block;
+            margin-top: 12px;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+        .stat-card {
+            background: white;
+            padding: 24px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .stat-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
+        .stat-number { font-size: 32px; font-weight: 800; color: var(--primary); }
+        .stat-label { font-size: 14px; color: var(--gray-600); margin-top: 4px; }
+        .filter-section {
+            background: white;
+            padding: 20px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            margin-bottom: 24px;
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+            align-items: flex-end;
+        }
+        .filter-group { display: flex; flex-direction: column; gap: 6px; }
+        .filter-label { font-size: 13px; font-weight: 600; color: var(--gray-600); }
+        .filter-select {
+            padding: 10px 16px;
+            border: 2px solid var(--gray-200);
+            border-radius: 8px;
+            font-size: 14px;
+            background: white;
+            cursor: pointer;
+            min-width: 140px;
+            transition: border-color 0.2s;
+        }
+        .filter-select:focus { outline: none; border-color: var(--primary); }
+        .sort-group { display: flex; gap: 8px; }
+        .sort-btn {
+            padding: 10px 16px;
+            border: 2px solid var(--gray-200);
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+        .sort-btn:hover { border-color: var(--primary); color: var(--primary); }
+        .sort-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
+        .result-count { margin-left: auto; font-size: 14px; color: var(--gray-600); padding: 10px 0; }
+        .reset-btn {
+            padding: 10px 20px;
+            background: var(--gray-100);
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--gray-600);
+            transition: all 0.2s;
+        }
+        .reset-btn:hover { background: var(--gray-200); }
+        .content-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 24px; }
+        @media (max-width: 1024px) { .content-grid { grid-template-columns: 1fr; } }
+        .card { background: white; border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+        .card-header {
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--gray-200);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .card-title { font-size: 18px; font-weight: 700; }
+        .card-body { padding: 16px 24px; }
+        .hit-list { padding: 0; }
+        .hit-item {
+            display: flex;
+            gap: 16px;
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--gray-100);
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+        .hit-item:hover { background: var(--gray-50); }
+        .hit-item:last-child { border-bottom: none; }
+        .hit-rank {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 800;
+            font-size: 16px;
+            flex-shrink: 0;
+        }
+        .hit-rank.top1 { background: linear-gradient(135deg, #FFD700, #FFA500); color: white; box-shadow: 0 4px 12px rgba(255, 215, 0, 0.4); }
+        .hit-rank.top2 { background: linear-gradient(135deg, #C0C0C0, #A0A0A0); color: white; }
+        .hit-rank.top3 { background: linear-gradient(135deg, #CD7F32, #B87333); color: white; }
+        .hit-rank.normal { background: var(--gray-100); color: var(--gray-600); }
+        .hit-content { flex: 1; min-width: 0; }
+        .hit-title {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            line-height: 1.5;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+        .hit-meta { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+        .hit-tag { font-size: 12px; padding: 2px 8px; border-radius: 4px; font-weight: 500; }
+        .hit-tag.platform-douyin { background: #1C1C1C; color: white; }
+        .hit-tag.platform-xiaohongshu { background: #FF2442; color: white; }
+        .hit-tag.category { background: var(--gray-100); color: var(--gray-600); }
+        .hit-tag.fans { background: #E0F2FE; color: #0369A1; }
+        .hit-methodology {
+            font-size: 13px;
+            color: var(--primary);
+            background: #EEF2FF;
+            padding: 6px 12px;
+            border-radius: 6px;
+            display: inline-block;
+            margin-bottom: 8px;
+        }
+        .hit-why {
+            font-size: 13px;
+            color: var(--gray-600);
+            line-height: 1.6;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+        .hit-stats { text-align: right; min-width: 100px; }
+        .hit-likes { font-size: 20px; font-weight: 800; color: var(--error); }
+        .hit-engagement { font-size: 12px; color: var(--gray-500); margin-top: 4px; }
+        .hit-actions { margin-top: 12px; }
+        .hit-btn {
+            padding: 6px 12px;
+            border: 1px solid var(--primary);
+            background: white;
+            color: var(--primary);
+            border-radius: 6px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .hit-btn:hover { background: var(--primary); color: white; }
+        .sidebar-card { margin-bottom: 24px; }
+        .category-item, .method-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid var(--gray-100);
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .category-item:hover, .method-item:hover {
+            background: var(--gray-50);
+            margin: 0 -24px;
+            padding: 12px 24px;
+        }
+        .category-item:last-child, .method-item:last-child { border-bottom: none; }
+        .category-name, .method-name { font-weight: 500; }
+        .category-count, .method-count {
+            font-size: 14px;
+            color: var(--gray-600);
+            background: var(--gray-100);
+            padding: 2px 10px;
+            border-radius: 12px;
+        }
+        .detail-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 2000;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        .detail-modal.active { display: flex; }
+        .detail-content {
+            background: white;
+            width: 90%;
+            max-width: 700px;
+            max-height: 80vh;
+            border-radius: var(--radius);
+            overflow: hidden;
+            box-shadow: var(--shadow-lg);
+        }
+        .detail-header {
+            background: var(--primary);
+            color: white;
+            padding: 20px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .detail-body { padding: 24px; overflow-y: auto; max-height: 60vh; }
+        .close-btn {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 28px;
+            cursor: pointer;
+            line-height: 1;
+            padding: 0 8px;
+        }
+        .loading { text-align: center; padding: 40px; color: var(--gray-600); }
+        .detail-section { margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid var(--gray-100); }
+        .detail-section:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+        .detail-label { font-weight: 600; color: var(--gray-800); margin-bottom: 4px; }
+        .detail-value { color: var(--gray-600); line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="platform.html" class="logo">🎯 特赞内容运营平台</a>
+            <div class="nav-tabs" id="navTabs">
+                <a href="platform.html" class="nav-tab">首页</a>
+                <a href="index.html" class="nav-tab">热点追踪</a>
+                <a href="low_fan_hits.html" class="nav-tab active">低粉爆款</a>
+                <a href="client_center.html" class="nav-tab">客户选题</a>
+                <a href="sku_library.html" class="nav-tab">SKU场景</a>
+                <a href="competitor_analysis.html" class="nav-tab">竞品分析</a>
+                <a href="dashboard.html" class="nav-tab">数据看板</a>
+                <a href="script_generator.html" class="nav-tab">脚本生成</a>
+            </div>
+            <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="main-container">
+        <div class="page-header">
+            <h1>💎 低粉爆款榜</h1>
+            <p>粉丝少但点赞高的爆款内容，纯内容驱动更值得借鉴</p>
+            <div class="update-time" id="updateTime">数据更新时间：加载中...</div>
+        </div>
+        
+        <div class="stats-grid" id="statsGrid">
+            <div class="stat-card">
+                <div class="stat-number" id="statTotal">-</div>
+                <div class="stat-label">爆款总数</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="statAvgFans">-</div>
+                <div class="stat-label">平均粉丝数</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="statAvgLikes">-</div>
+                <div class="stat-label">平均点赞数</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="statAvgEngagement">-</div>
+                <div class="stat-label">平均互动率</div>
+            </div>
+        </div>
+        
+        <div class="filter-section">
+            <div class="filter-group">
+                <label class="filter-label">平台</label>
+                <select class="filter-select" id="filterPlatform" onchange="applyFilters()">
+                    <option value="">全部平台</option>
+                    <option value="抖音">抖音</option>
+                    <option value="小红书">小红书</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">品类</label>
+                <select class="filter-select" id="filterCategory" onchange="applyFilters()">
+                    <option value="">全部分类</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">方法论</label>
+                <select class="filter-select" id="filterMethodology" onchange="applyFilters()">
+                    <option value="">全部方法</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">排序方式</label>
+                <div class="sort-group">
+                    <button class="sort-btn active" data-sort="likes" onclick="setSort('likes')">点赞数</button>
+                    <button class="sort-btn" data-sort="engagement" onclick="setSort('engagement')">互动率</button>
+                    <button class="sort-btn" data-sort="fans" onclick="setSort('fans')">粉丝数</button>
+                </div>
+            </div>
+            <button class="reset-btn" onclick="resetFilters()">重置筛选</button>
+            <div class="result-count" id="resultCount">显示 0 条结果</div>
+        </div>
+        
+        <div class="content-grid">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">🔥 低粉爆款榜</div>
+                </div>
+                <div class="hit-list" id="hitList">
+                    <div class="loading">加载中...</div>
+                </div>
+            </div>
+            
+            <div class="sidebar">
+                <div class="card sidebar-card">
+                    <div class="card-header">
+                        <div class="card-title">📊 分类分布</div>
+                    </div>
+                    <div class="card-body" id="categoryStats"></div>
+                </div>
+                
+                <div class="card sidebar-card">
+                    <div class="card-header">
+                        <div class="card-title">🧠 方法论分布</div>
+                    </div>
+                    <div class="card-body" id="methodologyStats"></div>
+                </div>
+                
+                <div class="card sidebar-card">
+                    <div class="card-header">
+                        <div class="card-title">💡 使用指南</div>
+                    </div>
+                    <div class="card-body">
+                        <p style="font-size: 13px; line-height: 1.8; color: var(--gray-600);">
+                            <strong>什么是低粉爆款？</strong><br>
+                            粉丝数少（通常&lt;1万）但点赞数高（10万+）的内容，说明是纯内容驱动，而非粉丝效应。<br><br>
+                            <strong>为什么值得借鉴？</strong><br>
+                            低粉账号没有粉丝基础，爆款完全依靠内容质量，方法论更可复制。<br><br>
+                            <strong>如何使用？</strong><br>
+                            1. 点击侧边栏分类快速筛选<br>
+                            2. 查看爆款标题和文案技巧<br>
+                            3. 学习标注的方法论<br>
+                            4. 点击"生成脚本"创作内容
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="detail-modal" id="detailModal">
+        <div class="detail-content">
+            <div class="detail-header">
+                <h3>📄 爆款详情</h3>
+                <button class="close-btn" onclick="closeDetail()">&times;</button>
+            </div>
+            <div class="detail-body" id="detailBody"></div>
+        </div>
+    </div>
+    
+    <script>
+        let allData = [];
+        let filteredData = [];
+        let currentSort = 'likes';
+        
+        function toggleMenu() {
+            document.getElementById('navTabs').classList.toggle('show');
+            document.getElementById('hamburger').classList.toggle('active');
+        }
+        
+        document.querySelectorAll('.nav-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.getElementById('navTabs').classList.remove('show');
+                document.getElementById('hamburger').classList.remove('active');
+            });
+        });
+        
+        function formatNumber(num) {
+            if (num >= 10000) return (num / 10000).toFixed(1) + '万';
+            return num.toLocaleString();
+        }
+        
+        function calcEngagement(item) {
+            return ((item.like_count + item.comment_count + item.share_count) / item.fan_count).toFixed(1);
+        }
+        
+        function loadData() {
+            fetch('low_fan_hits_data.json')
+                .then(res => res.json())
+                .then(data => {
+                    allData = data;
+                    filteredData = [...allData];
+                    initFilters();
+                    updateStats();
+                    renderHitList();
+                    renderStats();
+                    updateUpdateTime();
+                })
+                .catch(err => {
+                    console.error('加载数据失败:', err);
+                    document.getElementById('hitList').innerHTML = '<div class="loading">加载失败，请刷新重试</div>';
+                });
+        }
+        
+        function initFilters() {
+            const categories = [...new Set(allData.map(d => d.category).filter(Boolean))].sort();
+            const methodologies = [...new Set(allData.map(d => d.methodology).filter(Boolean))].sort();
+            
+            const catSelect = document.getElementById('filterCategory');
+            categories.forEach(cat => {
+                const opt = document.createElement('option');
+                opt.value = cat;
+                opt.textContent = cat;
+                catSelect.appendChild(opt);
+            });
+            
+            const methodSelect = document.getElementById('filterMethodology');
+            methodologies.forEach(method => {
+                const opt = document.createElement('option');
+                opt.value = method;
+                opt.textContent = method;
+                methodSelect.appendChild(opt);
+            });
+        }
+        
+        function updateStats() {
+            document.getElementById('statTotal').textContent = allData.length;
+            
+            const avgFans = allData.reduce((sum, d) => sum + d.fan_count, 0) / allData.length;
+            document.getElementById('statAvgFans').textContent = formatNumber(avgFans);
+            
+            const avgLikes = allData.reduce((sum, d) => sum + d.like_count, 0) / allData.length;
+            document.getElementById('statAvgLikes').textContent = formatNumber(avgLikes);
+            
+            const avgEngagement = allData.reduce((sum, d) => sum + parseFloat(calcEngagement(d)), 0) / allData.length;
+            document.getElementById('statAvgEngagement').textContent = avgEngagement.toFixed(1);
+        }
+        
+        function updateUpdateTime() {
+            if (allData.length > 0 && allData[0].publish_date) {
+                const date = allData[0].publish_date;
+                const formatted = date.substring(0, 4) + '-' + date.substring(4, 6) + '-' + date.substring(6, 8);
+                document.getElementById('updateTime').textContent = '数据更新时间：' + formatted;
+            }
+        }
+        
+        function applyFilters() {
+            const platform = document.getElementById('filterPlatform').value;
+            const category = document.getElementById('filterCategory').value;
+            const methodology = document.getElementById('filterMethodology').value;
+            
+            filteredData = allData.filter(d => {
+                if (platform && d.platform !== platform) return false;
+                if (category && d.category !== category) return false;
+                if (methodology && d.methodology !== methodology) return false;
+                return true;
+            });
+            
+            sortData();
+            renderHitList();
+            document.getElementById('resultCount').textContent = `显示 ${filteredData.length} 条结果`;
+        }
+        
+        function sortData() {
+            filteredData.sort((a, b) => {
+                if (currentSort === 'likes') return b.like_count - a.like_count;
+                if (currentSort === 'engagement') return parseFloat(calcEngagement(b)) - parseFloat(calcEngagement(a));
+                if (currentSort === 'fans') return a.fan_count - b.fan_count;
+                return 0;
+            });
+        }
+        
+        function setSort(sort) {
+            currentSort = sort;
+            document.querySelectorAll('.sort-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.sort === sort);
+            });
+            sortData();
+            renderHitList();
+        }
+        
+        function resetFilters() {
+            document.getElementById('filterPlatform').value = '';
+            document.getElementById('filterCategory').value = '';
+            document.getElementById('filterMethodology').value = '';
+            currentSort = 'likes';
+            document.querySelectorAll('.sort-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.sort === 'likes');
+            });
+            filteredData = [...allData];
+            sortData();
+            renderHitList();
+            document.getElementById('resultCount').textContent = `显示 ${filteredData.length} 条结果`;
+        }
+        
+        function renderHitList() {
+            const container = document.getElementById('hitList');
+            if (filteredData.length === 0) {
+                container.innerHTML = '<div class="loading">暂无符合条件的数据</div>';
+                return;
+            }
+            
+            let html = '';
+            filteredData.forEach((item, index) => {
+                const rank = index + 1;
+                const rankClass = rank === 1 ? 'top1' : rank === 2 ? 'top2' : rank === 3 ? 'top3' : 'normal';
+                const platformClass = item.platform === '抖音' ? 'platform-douyin' : 'platform-xiaohongshu';
+                const engagement = calcEngagement(item);
+                
+                html += `
+                    <div class="hit-item" onclick="showDetail(${index})">
+                        <div class="hit-rank ${rankClass}">${rank}</div>
+                        <div class="hit-content">
+                            <div class="hit-title">${item.content_title}</div>
+                            <div class="hit-meta">
+                                <span class="hit-tag ${platformClass}">${item.platform}</span>
+                                <span class="hit-tag category">${item.category || '未分类'}</span>
+                                <span class="hit-tag fans">${formatNumber(item.fan_count)}粉</span>
+                            </div>
+                            <div class="hit-methodology">📚 ${item.methodology || '未标注'}</div>
+                            <div class="hit-why">💡 ${item.why_it_works || '暂无分析'}</div>
+                        </div>
+                        <div class="hit-stats">
+                            <div class="hit-likes">${formatNumber(item.like_count)}</div>
+                            <div class="hit-engagement">互动率 ${engagement}</div>
+                            <div class="hit-actions">
+                                <button class="hit-btn" onclick="event.stopPropagation(); generateScript('${item.content_title.replace(/'/g, "\\'")}')">生成脚本</button>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            });
+            container.innerHTML = html;
+            document.getElementById('resultCount').textContent = `显示 ${filteredData.length} 条结果`;
+        }
+        
+        function renderStats() {
+            const categoryStats = {};
+            const methodStats = {};
+            
+            allData.forEach(d => {
+                if (d.category) categoryStats[d.category] = (categoryStats[d.category] || 0) + 1;
+                if (d.methodology) methodStats[d.methodology] = (methodStats[d.methodology] || 0) + 1;
+            });
+            
+            const catContainer = document.getElementById('categoryStats');
+            let catHtml = '';
+            Object.entries(categoryStats).sort((a, b) => b[1] - a[1]).forEach(([cat, count]) => {
+                catHtml += `<div class="category-item" onclick="filterByCategory('${cat}')">
+                    <span class="category-name">${cat}</span>
+                    <span class="category-count">${count}条</span>
+                </div>`;
+            });
+            catContainer.innerHTML = catHtml;
+            
+            const methodContainer = document.getElementById('methodologyStats');
+            let methodHtml = '';
+            Object.entries(methodStats).sort((a, b) => b[1] - a[1]).forEach(([method, count]) => {
+                methodHtml += `<div class="method-item" onclick="filterByMethodology('${method.replace(/'/g, "\\'")}')">
+                    <span class="method-name">${method}</span>
+                    <span class="method-count">${count}条</span>
+                </div>`;
+            });
+            methodContainer.innerHTML = methodHtml;
+        }
+        
+        function filterByCategory(cat) {
+            document.getElementById('filterCategory').value = cat;
+            applyFilters();
+        }
+        
+        function filterByMethodology(method) {
+            document.getElementById('filterMethodology').value = method;
+            applyFilters();
+        }
+        
+        function showDetail(index) {
+            const item = filteredData[index];
+            const engagement = calcEngagement(item);
+            
+            const body = document.getElementById('detailBody');
+            body.innerHTML = `
+                <div class="detail-section">
+                    <div class="detail-label">标题</div>
+                    <div class="detail-value" style="font-size: 18px; font-weight: 600; color: var(--gray-800);">${item.content_title}</div>
+                </div>
+                <div class="detail-section">
+                    <div class="detail-label">账号信息</div>
+                    <div class="detail-value">${item.account_name} | ${item.platform} | ${formatNumber(item.fan_count)} 粉丝</div>
+                </div>
+                <div class="detail-section">
+                    <div class="detail-label">分类</div>
+                    <div class="detail-value">${item.category || '未分类'}</div>
+                </div>
+                <div class="detail-section">
+                    <div class="detail-label">互动数据</div>
+                    <div class="detail-value">
+                        ❤️ ${formatNumber(item.like_count)} 点赞 &nbsp;|&nbsp;
+                        💬 ${formatNumber(item.comment_count)} 评论 &nbsp;|&nbsp;
+                        🔄 ${formatNumber(item.share_count)} 分享 &nbsp;|&nbsp;
+                        📊 互动率 ${engagement}
+                    </div>
+                </div>
+                <div class="detail-section">
+                    <div class="detail-label">📚 方法论</div>
+                    <div class="detail-value" style="background: #EEF2FF; padding: 12px; border-radius: 8px;">${item.methodology || '未标注'}</div>
+                </div>
+                <div class="detail-section">
+                    <div class="detail-label">💡 为什么能火</div>
+                    <div class="detail-value" style="background: #FEF3C7; padding: 12px; border-radius: 8px;">${item.why_it_works || '暂无分析'}</div>
+                </div>
+                ${item.content_url ? `<div class="detail-section">
+                    <div class="detail-label">链接</div>
+                    <div class="detail-value"><a href="${item.content_url}" target="_blank" style="color: var(--primary);">查看原内容</a></div>
+                </div>` : ''}
+            `;
+            
+            document.getElementById('detailModal').classList.add('active');
+        }
+        
+        function closeDetail() {
+            document.getElementById('detailModal').classList.remove('active');
+        }
+        
+        function generateScript(title) {
+            alert(`正在生成脚本：${title}\n\n将结合内容运营方法论生成专业脚本...`);
+        }
+        
+        document.getElementById('detailModal').addEventListener('click', function(e) {
+            if (e.target === this) closeDetail();
+        });
+        
+        document.addEventListener('DOMContentLoaded', loadData);
+    </script>
+</body>
+</html>

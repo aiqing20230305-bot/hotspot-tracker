@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📰 内容运营日报 - 2026年3月26日</title>
+    <style>
+        :root {
+            --primary: #6366F1;
+            --primary-light: #818CF8;
+            --primary-dark: #4F46E5;
+            --primary-50: #EEF2FF;
+            --success: #10B981;
+            --warning: #F59E0B;
+            --error: #EF4444;
+            --gray-50: #F9FAFB;
+            --gray-100: #F3F4F6;
+            --gray-200: #E5E7EB;
+            --gray-300: #D1D5DB;
+            --gray-400: #9CA3AF;
+            --gray-500: #6B7280;
+            --gray-600: #4B5563;
+            --gray-700: #374151;
+            --gray-800: #1F2937;
+            --gray-900: #111827;
+            --radius: 12px;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            --shadow-lg: 0 20px 25px -5px rgba(0,0,0,0.1);
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, var(--primary-50) 0%, #F5F3FF 100%);
+            min-height: 100vh;
+            padding: 24px;
+            color: var(--gray-800);
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: var(--shadow-lg);
+            overflow: hidden;
+        }
+        
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 48px 32px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%; left: -50%;
+            width: 200%; height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 60%);
+            animation: pulse 8s ease-in-out infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 0.5; }
+            50% { transform: scale(1.1); opacity: 0.8; }
+        }
+        
+        .header h1 {
+            font-size: 36px;
+            font-weight: 800;
+            margin-bottom: 8px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .header p {
+            font-size: 18px;
+            opacity: 0.9;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .header-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255,255,255,0.2);
+            padding: 8px 16px;
+            border-radius: 9999px;
+            margin-top: 16px;
+            font-size: 14px;
+            backdrop-filter: blur(10px);
+        }
+        
+        /* Meta */
+        .meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            padding: 24px;
+            background: var(--gray-50);
+            border-bottom: 1px solid var(--gray-100);
+        }
+        
+        .meta-card {
+            background: white;
+            padding: 20px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            transition: all 0.3s;
+        }
+        
+        .meta-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+        }
+        
+        .meta-icon {
+            width: 48px; height: 48px;
+            border-radius: var(--radius);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            flex-shrink: 0;
+        }
+        
+        .meta-icon.primary { background: var(--primary-50); }
+        
+        .meta-label {
+            font-size: 14px;
+            color: var(--gray-500);
+        }
+        
+        .meta-value {
+            font-size: 18px;
+            font-weight: 600;
+            color: var(--gray-900);
+        }
+        
+        /* Content */
+        .content { padding: 32px; }
+        
+        /* Section */
+        .section { margin-bottom: 48px; }
+        
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+        
+        .section-icon {
+            width: 40px; height: 40px;
+            border-radius: var(--radius);
+            background: var(--primary-50);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--gray-900);
+        }
+        
+        .section-subtitle {
+            font-size: 14px;
+            color: var(--gray-500);
+        }
+        
+        /* Platform Cards */
+        .platform-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 24px;
+        }
+        
+        .platform-card {
+            background: white;
+            border: 1px solid var(--gray-200);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s;
+        }
+        
+        .platform-card:hover {
+            border-color: var(--primary);
+            box-shadow: var(--shadow-lg);
+            transform: translateY(-4px);
+        }
+        
+        .platform-header {
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom: 1px solid var(--gray-100);
+        }
+        
+        .platform-name {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-weight: 600;
+            font-size: 18px;
+        }
+        
+        .platform-badge {
+            background: var(--primary-50);
+            color: var(--primary);
+            padding: 4px 12px;
+            border-radius: 9999px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        
+        .platform-list { padding: 16px; }
+        
+        .hot-item {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 12px;
+            border-radius: 8px;
+            transition: background 0.15s;
+        }
+        
+        .hot-item:hover { background: var(--gray-50); }
+        
+        .hot-rank {
+            width: 28px; height: 28px;
+            border-radius: 50%;
+            background: var(--gray-100);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 14px;
+            color: var(--gray-600);
+            flex-shrink: 0;
+        }
+        
+        .hot-rank.top { background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%); color: white; }
+        
+        .hot-info { flex: 1; min-width: 0; }
+        
+        .hot-title {
+            font-weight: 500;
+            font-size: 14px;
+            color: var(--gray-800);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        
+        .hot-heat { font-size: 12px; color: var(--gray-400); margin-top: 4px; }
+        
+        /* Industry Cards */
+        .industry-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 24px;
+        }
+        
+        .industry-card {
+            background: white;
+            border: 1px solid var(--gray-200);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s;
+        }
+        
+        .industry-card:hover {
+            border-color: var(--primary);
+            box-shadow: var(--shadow-lg);
+        }
+        
+        .industry-card.p1 { border-left: 4px solid var(--error); }
+        .industry-card.p2 { border-left: 4px solid var(--warning); }
+        .industry-card.p3 { border-left: 4px solid var(--success); }
+        
+        .industry-header {
+            padding: 20px;
+            background: var(--gray-50);
+            border-bottom: 1px solid var(--gray-100);
+        }
+        
+        .industry-title-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .industry-title {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 18px;
+            font-weight: 700;
+        }
+        
+        .industry-num {
+            width: 28px; height: 28px;
+            border-radius: 50%;
+            background: var(--primary);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: 700;
+        }
+        
+        .badge {
+            padding: 4px 12px;
+            border-radius: 9999px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        
+        .badge.high { background: #FEE2E2; color: var(--error); }
+        .badge.medium { background: #FEF3C7; color: var(--warning); }
+        
+        .card-body { padding: 20px; }
+        
+        .hot-topic-box {
+            background: white;
+            border: 1px solid var(--gray-200);
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 16px;
+        }
+        
+        .hot-topic-label {
+            font-size: 12px;
+            color: var(--gray-500);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+        
+        .hot-topic-title {
+            font-weight: 500;
+            color: var(--gray-800);
+        }
+        
+        .content-box {
+            background: var(--primary-50);
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 16px;
+        }
+        
+        .content-box-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .content-box pre {
+            font-family: monospace;
+            font-size: 12px;
+            line-height: 1.8;
+            color: var(--gray-700);
+            white-space: pre-wrap;
+        }
+        
+        .suggestion-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .suggestion-list li {
+            padding: 8px 0;
+            color: var(--gray-700);
+            font-size: 14px;
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+        }
+        
+        .suggestion-list li::before {
+            content: '✓';
+            color: var(--success);
+            font-weight: 700;
+        }
+        
+        /* Footer */
+        .footer {
+            background: var(--gray-50);
+            padding: 32px;
+            text-align: center;
+            border-top: 1px solid var(--gray-200);
+        }
+        
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+        
+        .footer-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid var(--gray-200);
+            border-radius: 9999px;
+            font-size: 14px;
+            color: var(--gray-600);
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        
+        .footer-link:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            body { padding: 16px; }
+            .header h1 { font-size: 24px; }
+            .content { padding: 16px; }
+            .platform-grid, .industry-grid { grid-template-columns: 1fr; }
+            .meta { grid-template-columns: 1fr 1fr; gap: 12px; padding: 16px; }
+            .meta-card { padding: 14px; }
+            .meta-value { font-size: 16px; }
+            .header { padding: 32px 24px; }
+            .header p { font-size: 16px; }
+            .section-title { font-size: 20px; }
+        }
+        @media (max-width: 480px) {
+            .header h1 { font-size: 20px; }
+            .meta { grid-template-columns: 1fr; }
+            .platform-name { font-size: 16px; }
+            .industry-title { font-size: 16px; }
+        }
+        @media (hover: none) and (pointer: coarse) {
+            .footer-link { min-height: 44px; }
+        }
+        
+        /* Animation */
+        .fade-in { animation: fadeIn 0.5s ease-out; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container fade-in">
+        <!-- Header -->
+        <header class="header">
+            <h1>📰 内容运营日报</h1>
+            <p>热点追踪 · 行业洞察 · 竞品分析</p>
+            <div class="header-badge">
+                <span>🕐</span>
+                <span>每日 09:30 自动更新</span>
+            </div>
+        </header>
+        
+        <!-- Meta -->
+        <section class="meta">
+            <div class="meta-card">
+                <div class="meta-icon primary">📅</div>
+                <div>
+                    <div class="meta-label">日报日期</div>
+                    <div class="meta-value">2026-03-26</div>
+                </div>
+            </div>
+            <div class="meta-card">
+                <div class="meta-icon primary">📡</div>
+                <div>
+                    <div class="meta-label">覆盖平台</div>
+                    <div class="meta-value">抖音 · 微博 · 小红书</div>
+                </div>
+            </div>
+            <div class="meta-card">
+                <div class="meta-icon primary">🎯</div>
+                <div>
+                    <div class="meta-label">覆盖行业</div>
+                    <div class="meta-value">9 大垂直领域</div>
+                </div>
+            </div>
+            <div class="meta-card">
+                <div class="meta-icon primary">⏰</div>
+                <div>
+                    <div class="meta-label">生成时间</div>
+                    <div class="meta-value">13:30</div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Content -->
+        <main class="content">
+            <!-- Platform Hot -->
+            <section class="section">
+                <div class="section-header">
+                    <div class="section-icon">🔥</div>
+                    <div>
+                        <h2 class="section-title">热点强度指数</h2>
+                        <p class="section-subtitle">各平台今日热点分布情况</p>
+                    </div>
+                </div>
+                
+                <div class="platform-grid">
+                    <!-- 抖音 -->
+                    <div class="platform-card">
+                        <div class="platform-header">
+                            <div class="platform-name">
+                                <span>📱</span>
+                                <span>抖音</span>
+                            </div>
+                            <span class="platform-badge">极高</span>
+                        </div>
+                        <div class="platform-list">
+                            <div class="hot-item">
+                                <span class="hot-rank top">1</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">传承里的中原文脉</div>
+                                    <div class="hot-heat">1211万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">2</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">花是春游出片关键词</div>
+                                    <div class="hot-heat">1121万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">3</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">人人都是粉彩生活家</div>
+                                    <div class="hot-heat">1077万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">4</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">CBA吉林队82:75辽宁队</div>
+                                    <div class="hot-heat">1019万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">5</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">最新一代机器狼集结</div>
+                                    <div class="hot-heat">908万热度</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- 微博 -->
+                    <div class="platform-card">
+                        <div class="platform-header">
+                            <div class="platform-name">
+                                <span>💬</span>
+                                <span>微博</span>
+                            </div>
+                            <span class="platform-badge">高</span>
+                        </div>
+                        <div class="platform-list">
+                            <div class="hot-item">
+                                <span class="hot-rank top">1</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">曝月鳞绮纪又撤档了</div>
+                                    <div class="hot-heat">108万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">2</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">小哥爬7楼送外卖看到牌匾瞬间愣住</div>
+                                    <div class="hot-heat">80万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">3</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">伊朗开出停战5个条件</div>
+                                    <div class="hot-heat">57万热度 · 沸</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">4</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">汪苏泷明日世界演唱会官宣</div>
+                                    <div class="hot-heat">40万热度</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">5</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">医院突增跑友检查心脏</div>
+                                    <div class="hot-heat">28万热度 · 新</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- 小红书 -->
+                    <div class="platform-card">
+                        <div class="platform-header">
+                            <div class="platform-name">
+                                <span>❤️</span>
+                                <span>小红书</span>
+                            </div>
+                            <span class="platform-badge">高</span>
+                        </div>
+                        <div class="platform-list">
+                            <div class="hot-item">
+                                <span class="hot-rank top">1</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">春日穿搭OOTD</div>
+                                    <div class="hot-heat">12.5万笔记 · 3.2亿浏览 · 服装</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">2</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">春季护肤攻略</div>
+                                    <div class="hot-heat">8.9万笔记 · 2.1亿浏览 · 美妆</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank top">3</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">春日妆容教程</div>
+                                    <div class="hot-heat">6.7万笔记 · 1.8亿浏览 · 美妆</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">4</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">春日减脂计划</div>
+                                    <div class="hot-heat">5.3万笔记 · 1.5亿浏览 · 大健康</div>
+                                </div>
+                            </div>
+                            <div class="hot-item">
+                                <span class="hot-rank">5</span>
+                                <div class="hot-info">
+                                    <div class="hot-title">春季养生食谱</div>
+                                    <div class="hot-heat">4.2万笔记 · 9800万浏览 · 食品</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- 小红书详细内容 -->
+            <section class="section">
+                <div class="section-header">
+                    <div class="section-icon">❤️</div>
+                    <div>
+                        <h2 class="section-title">小红书热点详情</h2>
+                        <p class="section-subtitle">TOP 10 热门话题及内容分析</p>
+                    </div>
+                </div>
+                
+                <div class="industry-grid">
+                    <!-- 春日穿搭 -->
+                    <div class="industry-card">
+                        <div class="industry-header">
+                            <div class="industry-title-row">
+                                <div class="industry-title">
+                                    <span class="industry-num">1</span>
+                                    <span>春日穿搭OOTD</span>
+                                </div>
+                                <span class="badge high">🔥 3.2亿浏览</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="hot-topic-box">
+                                <div class="hot-topic-label">📝 内容描述</div>
+                                <div class="hot-topic-title">分享春季日常穿搭，包括韩系温柔风、法式复古风、日系简约风等多种风格</div>
+                            </div>
+                            <div style="display: flex; gap: 16px; margin-bottom: 16px;">
+                                <div style="flex: 1; background: var(--gray-50); padding: 12px; border-radius: 8px; text-align: center;">
+                                    <div style="font-size: 20px; font-weight: 700; color: var(--primary);">12.5万</div>
+                                    <div style="font-size: 12px; color: var(--gray-500);">笔记数</div>
+                                </div>
+                                <div style="flex: 1; background: var(--gray-50); padding: 12px; border-radius: 8px; text-align: center;">
+                                    <div style="font-size: 20px; font-weight: 700; color: var(--primary);">3.2亿</div>
+                                    <div style="font-size: 12px; color: var(--gray-500);">浏览量</div>
+                                </div>
+                            </div>
+                            <div class="content-box-title">🏷️ 热门标签</div>
+                            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#春日穿搭</span>
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#OOTD</span>
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#韩系穿搭</span>
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#温柔风</span>
+                            </div>
+                            <div class="content-box-title">💡 内容机会</div>
+                            <ul class="suggestion-list">
+                                <li>素人穿搭分享，真实场景展示</li>
+                                <li>一衣多穿，提高单品利用率</li>
+                                <li>平价替代，学生党/打工人穿搭</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <!-- 春季护肤 -->
+                    <div class="industry-card">
+                        <div class="industry-header">
+                            <div class="industry-title-row">
+                                <div class="industry-title">
+                                    <span class="industry-num">2</span>
+                                    <span>春季护肤攻略</span>
+                                </div>
+                                <span class="badge high">🔥 2.1亿浏览</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="hot-topic-box">
+                                <div class="hot-topic-label">📝 内容描述</div>
+                                <div class="hot-topic-title">换季护肤重点：补水保湿、维稳修护、防晒抗老，推荐适合春季的护肤品</div>
+                            </div>
+                            <div style="display: flex; gap: 16px; margin-bottom: 16px;">
+                                <div style="flex: 1; background: var(--gray-50); padding: 12px; border-radius: 8px; text-align: center;">
+                                    <div style="font-size: 20px; font-weight: 700; color: var(--primary);">8.9万</div>
+                                    <div style="font-size: 12px; color: var(--gray-500);">笔记数</div>
+                                </div>
+                                <div style="flex: 1; background: var(--gray-50); padding: 12px; border-radius: 8px; text-align: center;">
+                                    <div style="font-size: 20px; font-weight: 700; color: var(--primary);">2.1亿</div>
+                                    <div style="font-size: 12px; color: var(--gray-500);">浏览量</div>
+                                </div>
+                            </div>
+                            <div class="content-box-title">🏷️ 热门标签</div>
+                            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#春季护肤</span>
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#换季护肤</span>
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#补水保湿</span>
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#维稳修护</span>
+                            </div>
+                            <div class="content-box-title">💡 内容机会</div>
+                            <ul class="suggestion-list">
+                                <li>成分科普，简化专业术语</li>
+                                <li>平价护肤品推荐，学生党友好</li>
+                                <li>敏感肌换季护理方案</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <!-- 春日妆容 -->
+                    <div class="industry-card">
+                        <div class="industry-header">
+                            <div class="industry-title-row">
+                                <div class="industry-title">
+                                    <span class="industry-num">3</span>
+                                    <span>春日妆容教程</span>
+                                </div>
+                                <span class="badge high">🔥 1.8亿浏览</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="hot-topic-box">
+                                <div class="hot-topic-label">📝 内容描述</div>
+                                <div class="hot-topic-title">粉嫩桃花妆、清透伪素颜、春日氛围感妆容详细教程</div>
+                            </div>
+                            <div style="display: flex; gap: 16px; margin-bottom: 16px;">
+                                <div style="flex: 1; background: var(--gray-50); padding: 12px; border-radius: 8px; text-align: center;">
+                                    <div style="font-size: 20px; font-weight: 700; color: var(--primary);">6.7万</div>
+                                    <div style="font-size: 12px; color: var(--gray-500);">笔记数</div>
+                                </div>
+                                <div style="flex: 1; background: var(--gray-50); padding: 12px; border-radius: 8px; text-align: center;">
+                                    <div style="font-size: 20px; font-weight: 700; color: var(--primary);">1.8亿</div>
+                                    <div style="font-size: 12px; color: var(--gray-500);">浏览量</div>
+                                </div>
+                            </div>
+                            <div class="content-box-title">🏷️ 热门标签</div>
+                            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#春日妆容</span>
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#桃花妆</span>
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#伪素颜</span>
+                                <span style="background: var(--primary-50); color: var(--primary); padding: 4px 12px; border-radius: 9999px; font-size: 12px;">#氛围感妆容</span>
+                            </div>
+                            <div class="content-box-title">💡 内容机会</div>
+                            <ul class="suggestion-list">
+                                <li>新手友好，步骤详细分解</li>
+                                <li>平价彩妆推荐，学生党适用</li>
+                                <li>不同场合妆容（约会/通勤/出游）</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Industry Hot -->
+            <section class="section">
+                <div class="section-header">
+                    <div class="section-icon">🎯</div>
+                    <div>
+                        <h2 class="section-title">行业热点速查</h2>
+                        <p class="section-subtitle">有直接热点的 4 个行业</p>
+                    </div>
+                </div>
+                
+                <div class="industry-grid">
+                    <!-- 大健康 -->
+                    <div class="industry-card p1">
+                        <div class="industry-header">
+                            <div class="industry-title-row">
+                                <div class="industry-title">
+                                    <span class="industry-num">1</span>
+                                    <span>大健康</span>
+                                </div>
+                                <span class="badge high">⭐⭐⭐⭐ 最高转化</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="hot-topic-box">
+                                <div class="hot-topic-label">🔥 热点话题</div>
+                                <div class="hot-topic-title">医院突增跑友检查心脏</div>
+                                <div class="hot-heat">28万热度 · 微博</div>
+                            </div>
+                            
+                            <div class="content-box">
+                                <div class="content-box-title">📝 内容方案</div>
+                                <pre>选题: "运动爱好者必知：心血管检查指南"
+形式: 科普短视频 (60-90秒) + 真实故事
+素人: 健身博主/普通上班族
+平台: 抖音 + 小红书
+转化: 体检套餐、保险产品</pre>
+                            </div>
+                            
+                            <div class="content-box-title">💡 发布建议</div>
+                            <ul class="suggestion-list">
+                                <li>抖音: 科普 + 真实案例 (30-60秒)</li>
+                                <li>小红书: 详细指南 + 养生建议</li>
+                                <li>微博: 话题讨论 + 专家观点</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <!-- 数码 -->
+                    <div class="industry-card p2">
+                        <div class="industry-header">
+                            <div class="industry-title-row">
+                                <div class="industry-title">
+                                    <span class="industry-num">2</span>
+                                    <span>数码</span>
+                                </div>
+                                <span class="badge medium">⭐⭐⭐ 高热度</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="hot-topic-box">
+                                <div class="hot-topic-label">🔥 热点话题</div>
+                                <div class="hot-topic-title">华为千元新机怎么选</div>
+                                <div class="hot-heat">767万热度 · 抖音</div>
+                            </div>
+                            
+                            <div class="content-box">
+                                <div class="content-box-title">📝 内容方案</div>
+                                <pre>选题: "千元手机对比：华为 vs 小米 vs 荣耀"
+形式: 开箱测评视频 (3-5分钟)
+素人: 粉丝1-10万的数码测评博主
+平台: 抖音 + 小红书
+转化: 产品链接、优惠券、返利</pre>
+                            </div>
+                            
+                            <div class="content-box-title">💡 发布建议</div>
+                            <ul class="suggestion-list">
+                                <li>抖音: 快速对比 + 真实体验</li>
+                                <li>小红书: 详细测评 + 购买指南</li>
+                                <li>直播: 带货直播间</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <!-- 服装 -->
+                    <div class="industry-card p3">
+                        <div class="industry-header">
+                            <div class="industry-title-row">
+                                <div class="industry-title">
+                                    <span class="industry-num">3</span>
+                                    <span>服装</span>
+                                </div>
+                                <span class="badge medium">⭐⭐⭐ 高互动</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="hot-topic-box">
+                                <div class="hot-topic-label">🔥 热点话题</div>
+                                <div class="hot-topic-title">情侣互买衣服挑战</div>
+                                <div class="hot-heat">764万热度 · 抖音</div>
+                            </div>
+                            
+                            <div class="content-box">
+                                <div class="content-box-title">📝 内容方案</div>
+                                <pre>选题: "情侣/闺蜜互买衣服挑战 - 春日版"
+形式: 挑战视频 (30-60秒)
+素人: 素人情侣/闺蜜组合
+平台: 抖音
+转化: 服装品牌合作、直播带货</pre>
+                            </div>
+                            
+                            <div class="content-box-title">💡 发布建议</div>
+                            <ul class="suggestion-list">
+                                <li>抖音: 挑战视频 + 真实反应</li>
+                                <li>小红书: 穿搭教程 + 搭配技巧</li>
+                                <li>发起挑战: 邀请素人参与</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <p style="color: var(--gray-500); margin-bottom: 16px;">
+                📰 内容运营日报 | 2026-03-26 13:30
+            </p>
+            <div class="footer-links">
+                <a href="https://aiqing20230305-bot.github.io/hotspot-tracker/daily_report.html" class="footer-link">
+                    🔗 查看完整报告
+                </a>
+                <a href="https://github.com/aiqing20230305-bot/hotspot-tracker" class="footer-link">
+                    📂 GitHub 仓库
+                </a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

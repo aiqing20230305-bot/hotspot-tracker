@@ -1,0 +1,1150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>✍️ AI脚本生成器 - 特赞内容运营平台</title>
+    <style>
+        :root {
+            --primary: #6366F1;
+            --primary-dark: #4F46E5;
+            --primary-50: #EEF2FF;
+            --success: #10B981;
+            --success-50: #D1FAE5;
+            --warning: #F59E0B;
+            --warning-50: #FEF3C7;
+            --error: #EF4444;
+            --error-50: #FEE2E2;
+            --gray-50: #F9FAFB;
+            --gray-100: #F3F4F6;
+            --gray-200: #E5E7EB;
+            --gray-300: #D1D5DB;
+            --gray-600: #6B7280;
+            --gray-700: #374151;
+            --gray-800: #1F2937;
+            --gray-900: #111827;
+            --radius: 12px;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #F5F3FF;
+            min-height: 100vh;
+            color: var(--gray-800);
+        }
+
+        /* 导航栏 */
+        .navbar {
+            background: white;
+            box-shadow: var(--shadow);
+            padding: 0 24px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 64px;
+        }
+        .logo {
+            font-size: 20px;
+            font-weight: 800;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .nav-tabs {
+            display: flex;
+            gap: 4px;
+            height: 64px;
+            align-items: center;
+        }
+        .nav-tab {
+            padding: 8px 14px;
+            border-radius: 8px;
+            color: var(--gray-600);
+            font-weight: 500;
+            font-size: 14px;
+            transition: all 0.2s;
+            text-decoration: none;
+        }
+        .nav-tab:hover { background: var(--primary-50); color: var(--primary); }
+        .nav-tab.active { background: var(--primary-50); color: var(--primary); font-weight: 600; }
+
+        /* 汉堡菜单 */
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            padding: 8px;
+            min-width: 48px;
+            min-height: 48px;
+            justify-content: center;
+            align-items: center;
+        }
+        .hamburger span {
+            width: 24px;
+            height: 2px;
+            background: var(--gray-600);
+            border-radius: 2px;
+            transition: all 0.3s;
+        }
+        .hamburger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+        }
+        .hamburger.active span:nth-child(2) { opacity: 0; }
+        .hamburger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -5px);
+        }
+        
+        /* 主容器 */
+        .main-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 24px;
+        }
+
+        /* 页面标题 */
+        .page-header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 36px 40px;
+            border-radius: 20px;
+            margin-bottom: 28px;
+            position: relative;
+            overflow: hidden;
+        }
+        .page-header::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 300px;
+            height: 300px;
+            background: rgba(255,255,255,0.06);
+            border-radius: 50%;
+        }
+        .page-header h1 {
+            font-size: 28px;
+            margin-bottom: 6px;
+        }
+        .page-header p { opacity: 0.85; font-size: 14px; }
+
+        /* 内容区域 */
+        .content-grid {
+            display: grid;
+            grid-template-columns: 400px 1fr;
+            gap: 24px;
+        }
+
+        /* 卡片样式 */
+        .card {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 24px;
+        }
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 20px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--gray-100);
+        }
+        .card-header h2 {
+            font-size: 18px;
+            color: var(--gray-800);
+        }
+        .card-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+        .card-icon.purple { background: var(--primary-50); }
+        .card-icon.green { background: var(--success-50); }
+
+        /* 表单样式 */
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--gray-700);
+            font-size: 14px;
+        }
+        .form-group label span {
+            color: var(--gray-600);
+            font-weight: 400;
+        }
+        .form-input, .form-select, .form-textarea {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid var(--gray-200);
+            border-radius: 10px;
+            font-size: 14px;
+            transition: all 0.2s;
+            font-family: inherit;
+        }
+        .form-input:focus, .form-select:focus, .form-textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+        }
+        .form-textarea {
+            min-height: 100px;
+            resize: vertical;
+        }
+
+        /* 按钮样式 */
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 12px 24px;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: none;
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+        }
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+        .btn-secondary {
+            background: var(--gray-100);
+            color: var(--gray-700);
+        }
+        .btn-secondary:hover {
+            background: var(--gray-200);
+        }
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+        .btn-success:hover {
+            background: #059669;
+        }
+        .btn-block { width: 100%; }
+
+        /* 生成按钮区域 */
+        .generate-actions {
+            display: flex;
+            gap: 12px;
+            margin-top: 24px;
+        }
+        .generate-actions .btn { flex: 1; }
+
+        /* 标签按钮 */
+        .tag-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .tag-btn {
+            padding: 8px 16px;
+            border: 2px solid var(--gray-200);
+            border-radius: 20px;
+            background: white;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+        }
+        .tag-btn:hover { border-color: var(--primary); color: var(--primary); }
+        .tag-btn.selected {
+            background: var(--primary-50);
+            border-color: var(--primary);
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        /* 脚本预览区 */
+        .script-tabs {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+        .script-tab {
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 500;
+            background: var(--gray-100);
+            color: var(--gray-600);
+            transition: all 0.2s;
+            border: none;
+        }
+        .script-tab:hover { background: var(--gray-200); }
+        .script-tab.active {
+            background: var(--primary);
+            color: white;
+        }
+
+        .script-preview {
+            background: var(--gray-50);
+            border: 2px dashed var(--gray-300);
+            border-radius: 12px;
+            padding: 24px;
+            min-height: 400px;
+            font-size: 14px;
+            line-height: 1.8;
+        }
+        .script-preview.empty {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: var(--gray-500);
+            text-align: center;
+        }
+        .script-preview .placeholder-icon {
+            font-size: 48px;
+            margin-bottom: 16px;
+            opacity: 0.5;
+        }
+
+        /* 脚本内容样式 */
+        .script-content {
+            white-space: pre-wrap;
+            font-family: inherit;
+        }
+        .script-content .scene {
+            background: white;
+            border-left: 4px solid var(--primary);
+            padding: 16px;
+            margin-bottom: 16px;
+            border-radius: 0 8px 8px 0;
+        }
+        .script-content .scene-label {
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 8px;
+        }
+        .script-content .scene-content {
+            color: var(--gray-700);
+        }
+        .script-content .para {
+            margin-bottom: 16px;
+            padding-left: 16px;
+            border-left: 3px solid var(--success);
+        }
+        .script-content .para-title {
+            font-weight: 600;
+            color: var(--success);
+            margin-bottom: 8px;
+        }
+
+        /* 脚本操作栏 */
+        .script-actions {
+            display: flex;
+            gap: 12px;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid var(--gray-200);
+        }
+
+        /* 提示框 */
+        .toast {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            background: var(--gray-800);
+            color: white;
+            padding: 16px 24px;
+            border-radius: 12px;
+            font-size: 14px;
+            font-weight: 500;
+            z-index: 1000;
+            transform: translateY(100px);
+            opacity: 0;
+            transition: all 0.3s;
+        }
+        .toast.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+        .toast.success { background: var(--success); }
+        .toast.error { background: var(--error); }
+
+        /* 客户管理弹窗 */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2000;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s;
+        }
+        .modal-overlay.show {
+            opacity: 1;
+            visibility: visible;
+        }
+        .modal {
+            background: white;
+            border-radius: 16px;
+            width: 90%;
+            max-width: 500px;
+            max-height: 80vh;
+            display: flex;
+            flex-direction: column;
+            transform: scale(0.9);
+            transition: all 0.3s;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        }
+        .modal-overlay.show .modal {
+            transform: scale(1);
+        }
+        .modal-header {
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--gray-100);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .modal-header h3 {
+            font-size: 18px;
+            color: var(--gray-800);
+        }
+        .modal-close {
+            width: 32px;
+            height: 32px;
+            border: none;
+            background: var(--gray-100);
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+        .modal-close:hover {
+            background: var(--gray-200);
+        }
+        .modal-body {
+            padding: 24px;
+            overflow-y: auto;
+            flex: 1;
+        }
+        .client-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+        .client-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 16px;
+            background: var(--gray-50);
+            border-radius: 10px;
+            transition: all 0.2s;
+        }
+        .client-item:hover {
+            background: var(--gray-100);
+        }
+        .client-item-info {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .client-item-avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            font-weight: 600;
+            color: white;
+        }
+        .client-item-name {
+            font-weight: 600;
+            color: var(--gray-800);
+        }
+        .client-item-industry {
+            font-size: 12px;
+            color: var(--gray-600);
+        }
+        .client-item-delete {
+            width: 28px;
+            height: 28px;
+            border: none;
+            background: transparent;
+            color: var(--gray-400);
+            cursor: pointer;
+            border-radius: 6px;
+            font-size: 16px;
+            transition: all 0.2s;
+        }
+        .client-item-delete:hover {
+            background: var(--error-50);
+            color: var(--error);
+        }
+        .add-client-form {
+            border-top: 1px solid var(--gray-200);
+            padding-top: 20px;
+        }
+        .add-client-form h4 {
+            font-size: 14px;
+            color: var(--gray-700);
+            margin-bottom: 16px;
+        }
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+        .form-group-inline {
+            margin-bottom: 16px;
+        }
+        .form-group-inline label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: var(--gray-700);
+            font-size: 13px;
+        }
+        .form-group-inline input, .form-group-inline select {
+            width: 100%;
+            padding: 10px 14px;
+            border: 2px solid var(--gray-200);
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+        .form-group-inline input:focus, .form-group-inline select:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        .btn-add {
+            width: 100%;
+            padding: 12px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        .btn-add:hover {
+            background: var(--primary-dark);
+        }
+        .empty-clients {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--gray-500);
+        }
+        .empty-clients-icon {
+            font-size: 48px;
+            margin-bottom: 12px;
+            opacity: 0.5;
+        }
+
+        /* 标签行 */
+        .label-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        .label-row label {
+            margin-bottom: 0;
+        }
+        .btn-link {
+            background: none;
+            border: none;
+            color: var(--primary);
+            font-size: 13px;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 6px;
+            transition: all 0.2s;
+        }
+        .btn-link:hover {
+            background: var(--primary-50);
+        }
+
+        /* 加载动画 */
+        .generating {
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 60px;
+        }
+        .generating.show { display: flex; }
+        .generating .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid var(--gray-200);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .generating p { margin-top: 16px; color: var(--gray-600); }
+
+        /* 响应式 */
+        @media (max-width: 1024px) {
+            .content-grid { grid-template-columns: 1fr; }
+        }
+        @media (max-width: 768px) {
+            .navbar { padding: 0 16px; }
+            .nav-tabs {
+                display: none;
+                position: fixed;
+                top: 64px;
+                left: 0;
+                right: 0;
+                background: white;
+                flex-direction: column;
+                padding: 16px;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+                gap: 4px;
+                height: auto;
+                z-index: 99;
+                border-top: 1px solid var(--gray-200);
+            }
+            .nav-tabs.show { display: flex; }
+            .hamburger { display: flex; }
+            .nav-tab {
+                padding: 12px 16px;
+                font-size: 15px;
+                width: 100%;
+                text-align: left;
+                min-height: 48px;
+            }
+            .main-container { padding: 16px; }
+            .page-header { padding: 24px 20px; border-radius: 16px; }
+            .page-header h1 { font-size: 24px; }
+            .card { padding: 20px; }
+            .tag-btn { min-height: 44px; padding: 10px 14px; }
+            .btn { min-height: 44px; }
+        }
+        @media (max-width: 480px) {
+            .logo { font-size: 16px; }
+            .page-header h1 { font-size: 20px; }
+        }
+        @media (hover: none) and (pointer: coarse) {
+            .nav-tab, .tag-btn, .btn, .script-tab { min-height: 44px; }
+        }
+    </style>
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">🎯 特赞内容运营平台</div>
+            <div class="nav-tabs" id="navTabs">
+                <a href="platform.html" class="nav-tab">首页</a>
+                <a href="index.html" class="nav-tab">热点追踪</a>
+                <a href="low_fan_hits.html" class="nav-tab">低粉爆款</a>
+                <a href="client_center.html" class="nav-tab">客户选题</a>
+                <a href="sku_library.html" class="nav-tab">SKU场景</a>
+                <a href="competitor_analysis.html" class="nav-tab">竞品分析</a>
+                <a href="dashboard.html" class="nav-tab">数据看板</a>
+                <a href="script_generator.html" class="nav-tab active">脚本生成</a>
+            </div>
+            <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-container">
+        <!-- 页面标题 -->
+        <div class="page-header">
+            <h1>✍️ AI脚本生成器</h1>
+            <p>🤖 基于热点追踪智能生成内容脚本 | 📝 支持视频脚本与图文脚本</p>
+        </div>
+
+        <div class="content-grid">
+            <!-- 左侧：输入区 -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-icon purple">📝</div>
+                    <h2>选题输入</h2>
+                </div>
+
+                <div class="form-group">
+                    <div class="label-row">
+                        <label>选择客户 <span>*</span></label>
+                        <button type="button" class="btn-link" id="manageClientBtn">⚙️ 管理客户</button>
+                    </div>
+                    <select class="form-select" id="clientSelect">
+                        <option value="">请选择客户</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>选择平台 <span>*</span></label>
+                    <select class="form-select" id="platformSelect">
+                        <option value="">请选择平台</option>
+                        <option value="抖音">🎵 抖音</option>
+                        <option value="微博">📱 微博</option>
+                        <option value="小红书">📕 小红书</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>热点关键词 <span>*</span></label>
+                    <input type="text" class="form-input" id="keywordInput" placeholder="例如：早C晚A、成分党、抗初老">
+                </div>
+
+                <div class="form-group">
+                    <label>内容角度</label>
+                    <div class="tag-buttons" id="angleButtons">
+                        <button class="tag-btn selected" data-value="产品测评">产品测评</button>
+                        <button class="tag-btn" data-value="教程教学">教程教学</button>
+                        <button class="tag-btn" data-value="日常分享">日常分享</button>
+                        <button class="tag-btn" data-value="热点借势">热点借势</button>
+                        <button class="tag-btn" data-value="品牌故事">品牌故事</button>
+                        <button class="tag-btn" data-value="成分解析">成分解析</button>
+                    </div>
+                </div>
+
+                <div class="generate-actions">
+                    <button class="btn btn-primary" id="generateBtn">
+                        ✨ 生成脚本
+                    </button>
+                    <button class="btn btn-secondary" id="resetBtn">
+                        🔄 重置
+                    </button>
+                </div>
+            </div>
+
+            <!-- 右侧：脚本预览区 -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-icon green">📋</div>
+                    <h2>脚本预览</h2>
+                </div>
+
+                <div class="script-tabs">
+                    <button class="script-tab active" data-type="video">🎬 视频脚本</button>
+                    <button class="script-tab" data-type="image">📝 图文脚本</button>
+                </div>
+
+                <!-- 空状态 -->
+                <div class="script-preview empty" id="emptyState">
+                    <div class="placeholder-icon">📄</div>
+                    <p>填写左侧选题信息<br>点击「生成脚本」开始创作</p>
+                </div>
+
+                <!-- 加载状态 -->
+                <div class="generating" id="generatingState">
+                    <div class="spinner"></div>
+                    <p>AI正在创作中...</p>
+                </div>
+
+                <!-- 脚本内容 -->
+                <div class="script-preview" id="scriptPreview" style="display: none;">
+                    <div class="script-content" id="scriptContent"></div>
+                </div>
+
+                <div class="script-actions" id="scriptActions" style="display: none;">
+                    <button class="btn btn-success" id="copyBtn">
+                        📋 复制脚本
+                    </button>
+                    <button class="btn btn-secondary" id="downloadBtn">
+                        💾 下载保存
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 提示框 -->
+    <div class="toast" id="toast"></div>
+
+    <script>
+        // 移动端菜单切换
+        function toggleMenu() {
+            const navTabs = document.getElementById('navTabs');
+            const hamburger = document.getElementById('hamburger');
+            navTabs.classList.toggle('show');
+            hamburger.classList.toggle('active');
+        }
+        
+        document.querySelectorAll('.nav-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.getElementById('navTabs').classList.remove('show');
+                document.getElementById('hamburger').classList.remove('active');
+            });
+        });
+        
+        // 状态管理
+        const state = {
+            client: '',
+            platform: '',
+            keyword: '',
+            angle: '产品测评',
+            scriptType: 'video',
+            generatedScript: null
+        };
+
+        // DOM元素
+        const elements = {
+            clientSelect: document.getElementById('clientSelect'),
+            platformSelect: document.getElementById('platformSelect'),
+            keywordInput: document.getElementById('keywordInput'),
+            angleButtons: document.getElementById('angleButtons'),
+            generateBtn: document.getElementById('generateBtn'),
+            resetBtn: document.getElementById('resetBtn'),
+            scriptTabs: document.querySelectorAll('.script-tab'),
+            emptyState: document.getElementById('emptyState'),
+            generatingState: document.getElementById('generatingState'),
+            scriptPreview: document.getElementById('scriptPreview'),
+            scriptContent: document.getElementById('scriptContent'),
+            scriptActions: document.getElementById('scriptActions'),
+            copyBtn: document.getElementById('copyBtn'),
+            downloadBtn: document.getElementById('downloadBtn'),
+            toast: document.getElementById('toast')
+        };
+
+        // 初始化
+        function init() {
+            // 客户选择
+            elements.clientSelect.addEventListener('change', (e) => {
+                state.client = e.target.value;
+            });
+
+            // 平台选择
+            elements.platformSelect.addEventListener('change', (e) => {
+                state.platform = e.target.value;
+            });
+
+            // 关键词输入
+            elements.keywordInput.addEventListener('input', (e) => {
+                state.keyword = e.target.value;
+            });
+
+            // 内容角度按钮
+            elements.angleButtons.querySelectorAll('.tag-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    elements.angleButtons.querySelectorAll('.tag-btn').forEach(b => b.classList.remove('selected'));
+                    btn.classList.add('selected');
+                    state.angle = btn.dataset.value;
+                });
+            });
+
+            // 脚本类型切换
+            elements.scriptTabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    elements.scriptTabs.forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    state.scriptType = tab.dataset.type;
+                    if (state.generatedScript) {
+                        renderScript();
+                    }
+                });
+            });
+
+            // 生成按钮
+            elements.generateBtn.addEventListener('click', generateScript);
+
+            // 重置按钮
+            elements.resetBtn.addEventListener('click', resetForm);
+
+            // 复制按钮
+            elements.copyBtn.addEventListener('click', copyScript);
+
+            // 下载按钮
+            elements.downloadBtn.addEventListener('click', downloadScript);
+        }
+
+        // 显示提示
+        function showToast(message, type = 'success') {
+            elements.toast.textContent = message;
+            elements.toast.className = `toast ${type}`;
+            elements.toast.classList.add('show');
+            setTimeout(() => {
+                elements.toast.classList.remove('show');
+            }, 3000);
+        }
+
+        // 验证表单
+        function validateForm() {
+            if (!state.client) {
+                showToast('请选择客户', 'error');
+                elements.clientSelect.focus();
+                return false;
+            }
+            if (!state.platform) {
+                showToast('请选择平台', 'error');
+                elements.platformSelect.focus();
+                return false;
+            }
+            if (!state.keyword.trim()) {
+                showToast('请输入热点关键词', 'error');
+                elements.keywordInput.focus();
+                return false;
+            }
+            return true;
+        }
+
+        // 生成脚本
+        async function generateScript() {
+            if (!validateForm()) return;
+
+            // 显示加载状态
+            elements.emptyState.style.display = 'none';
+            elements.scriptPreview.style.display = 'none';
+            elements.scriptActions.style.display = 'none';
+            elements.generatingState.classList.add('show');
+            elements.generateBtn.disabled = true;
+            elements.generateBtn.innerHTML = '⏳ 生成中...';
+
+            // 模拟AI生成延迟
+            await new Promise(resolve => setTimeout(resolve, 1500));
+
+            // 生成脚本内容
+            state.generatedScript = generateScriptContent();
+
+            // 渲染脚本
+            renderScript();
+
+            // 隐藏加载状态
+            elements.generatingState.classList.remove('show');
+            elements.generateBtn.disabled = false;
+            elements.generateBtn.innerHTML = '✨ 生成脚本';
+
+            showToast('脚本生成成功！');
+        }
+
+        // 生成脚本内容（模板拼接）
+        function generateScriptContent() {
+            const { client, platform, keyword, angle } = state;
+
+            // 视频脚本模板
+            const videoScript = `【${client} × ${platform} × ${keyword}】视频脚本
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📍 第1镜：开场Hook（0-3秒）
+━━━━━━━━━━━━━━━━━━━━━━━
+🎬 画面：特写镜头，快速切换
+📝 口播：「你知道吗？${keyword}才是今年最火的护肤概念！」
+💡 建议：配合节奏感强的BGM开头
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📍 第2镜：痛点引入（3-8秒）
+━━━━━━━━━━━━━━━━━━━━━━━
+🎬 画面：女生对着镜子皱眉，表情苦恼
+📝 口播：「是不是经常觉得护肤品用了没效果？皮肤问题反反复复？」
+💡 建议：配轻缓的背景音乐
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📍 第3镜：解决方案（8-20秒）
+━━━━━━━━━━━━━━━━━━━━━━━
+🎬 画面：${client}产品特写，简洁背景
+📝 口播：「今天给大家分享一个我的护肤秘诀——」
+        「${keyword}这个成分，真的绝了！」
+        「坚持用一段时间，皮肤状态肉眼可见地变好」
+💡 建议：产品展示要清晰，可配合字幕
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📍 第4镜：${angle}（20-45秒）
+━━━━━━━━━━━━━━━━━━━━━━━
+🎬 画面：使用过程真人演示
+📝 口播：详细讲解${angle}的要点和注意事项
+💡 建议：语速适中，重点地方放慢
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📍 第5镜：效果展示（45-55秒）
+━━━━━━━━━━━━━━━━━━━━━━━
+🎬 画面：使用前后对比（需真实对比图）
+📝 口播：「看看我坚持使用后的效果！」
+💡 建议：可加入用户评价截图
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📍 第6镜：引导互动（55-60秒）
+━━━━━━━━━━━━━━━━━━━━━━━
+🎬 画面：产品+评论区截图
+📝 口播：「想get同款吗？点击左下角链接！」
+        「评论区告诉我你最想改善什么肌肤问题～」
+💡 建议：置顶评论引导购买
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📌 脚本备注
+━━━━━━━━━━━━━━━━━━━━━━━
+⏱ 时长：建议45-60秒
+🎵 BGM：推荐轻快节奏型
+🏷 #话题：#${keyword} #${client} #护肤心得`;
+
+            // 图文脚本模板
+            const imageScript = `【${client} × ${platform} × ${keyword}】图文脚本
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📕 封面图
+━━━━━━━━━━━━━━━━━━━━━━━
+${angle === '产品测评' ? `标题文案：「${keyword}测评｜${client}这套真的可！」
+副标题：成分党必看！保姆级解析
+风格：干净简洁，产品居中，文字清晰` : 
+angle === '教程教学' ? `标题文案：「${keyword}的正确打开方式✅」
+副标题：手把手教你科学护肤
+风格：教程风，步骤清晰` :
+angle === '日常分享' ? `标题文案：「日常护肤Plog｜${keyword}好物分享」
+副标题：今日份护肤routine
+风格：生活化，有氛围感` :
+`标题文案：「${keyword}｜${client}新品初体验」
+副标题：真实使用分享
+风格：自然真实`}
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📝 正文内容
+━━━━━━━━━━━━━━━━━━━━━━━
+
+【开头引导】
+嗨~我是你们的护肤小能手🌸
+今天来聊聊最近超火的${keyword}！
+
+【产品介绍】
+入手了${client}的新品，用了一段时间后
+忍不住来跟你们分享我的真实感受~
+
+【核心内容】
+关于${keyword}，我想说：
+✓ 成分真的实打实
+✓ 使用感很舒服
+✓ 坚持用皮肤状态变好
+
+【${angle}要点】
+✧ 重点①：质地轻薄好吸收
+✧ 重点②：适合多种肤质
+✧ 重点③：性价比超高
+
+【使用建议】
+建议早晚各用一次
+搭配基础保湿产品效果更好哦~
+
+【结尾互动】
+你们有用过${client}家的产品吗？
+评论区聊聊你们的护肤心得吧！
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🏷 推荐话题标签
+━━━━━━━━━━━━━━━━━━━━━━━
+#${keyword} #${client} #护肤心得 #成分党
+#好物分享 #护肤日常 #种草 #素人改造
+#美妆护肤 #我的护肤日记 #平价好物`;
+
+            return { video: videoScript, image: imageScript };
+        }
+
+        // 渲染脚本
+        function renderScript() {
+            const content = state.generatedScript[state.scriptType];
+
+            elements.emptyState.style.display = 'none';
+            elements.scriptPreview.style.display = 'block';
+            elements.scriptActions.style.display = 'flex';
+
+            // 格式化显示
+            elements.scriptContent.innerHTML = content
+                .split('\n')
+                .map(line => {
+                    if (line.includes('━━━')) return '';
+                    if (line.startsWith('🎬')) return `<span style="color:#6366F1;font-weight:600">${line}</span>`;
+                    if (line.startsWith('📝')) return `<span style="color:#374151">${line}</span>`;
+                    if (line.startsWith('💡')) return `<span style="color:#F59E0B">${line}</span>`;
+                    if (line.startsWith('⏱')) return `<span style="color:#10B981">${line}</span>`;
+                    if (line.startsWith('✓') || line.startsWith('✧')) return `<span style="color:#10B981">${line}</span>`;
+                    if (line.startsWith('【') && line.endsWith('】')) return `<strong style="color:#6366F1;display:block;margin-top:12px">${line}</strong>`;
+                    if (line.startsWith('#')) return `<span style="color:#6366F1">${line}</span>`;
+                    return line || '<br>';
+                })
+                .join('\n');
+        }
+
+        // 重置表单
+        function resetForm() {
+            state.client = '';
+            state.platform = '';
+            state.keyword = '';
+            state.angle = '产品测评';
+            state.generatedScript = null;
+
+            elements.clientSelect.value = '';
+            elements.platformSelect.value = '';
+            elements.keywordInput.value = '';
+            elements.angleButtons.querySelectorAll('.tag-btn').forEach((btn, i) => {
+                btn.classList.toggle('selected', i === 0);
+            });
+
+            elements.emptyState.style.display = 'flex';
+            elements.scriptPreview.style.display = 'none';
+            elements.scriptActions.style.display = 'none';
+
+            showToast('已重置');
+        }
+
+        // 复制脚本
+        function copyScript() {
+            const content = state.generatedScript[state.scriptType];
+            navigator.clipboard.writeText(content).then(() => {
+                showToast('已复制到剪贴板！');
+            }).catch(() => {
+                showToast('复制失败，请手动复制', 'error');
+            });
+        }
+
+        // 下载脚本
+        function downloadScript() {
+            const content = state.generatedScript[state.scriptType];
+            const type = state.scriptType === 'video' ? '视频脚本' : '图文脚本';
+            const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${state.client}_${type}_${state.keyword}.txt`;
+            a.click();
+            URL.revokeObjectURL(url);
+            showToast('脚本已下载！');
+        }
+
+        // 启动
+        init();
+    </script>
+</body>
+</html>

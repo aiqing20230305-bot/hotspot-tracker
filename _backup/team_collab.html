@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>团队协作 - Hotspot Tracker</title>
+  <style>
+    :root { --bg: #0f0f1a; --surface: #1a1a2e; --surface2: #16213e; --accent: #6c5ce7; --accent2: #00cec9; --accent3: #fd79a8; --text: #fff; --text2: #a0a0b0; --border: #2d2d44; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+    .nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0 2rem; display: flex; align-items: center; gap: 2rem; height: 60px; position: sticky; top: 0; z-index: 100; }
+    .nav-logo { font-weight: 700; font-size: 1.1rem; color: var(--accent); }
+    .nav-links { display: flex; gap: 0.25rem; list-style: none; flex: 1; }
+    .nav-links a { color: var(--text2); text-decoration: none; padding: 0.5rem 0.85rem; border-radius: 8px; font-size: 0.85rem; transition: all 0.2s; }
+    .nav-links a:hover { background: var(--surface2); color: var(--text); }
+    .nav-links a.active { background: var(--accent); color: #fff; }
+    .main { max-width: 1400px; margin: 0 auto; padding: 2rem; }
+    .page-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; flex-wrap: wrap; gap: 1rem; }
+    .page-title { font-size: 1.75rem; font-weight: 700; }
+    .page-title span { font-size: 1rem; color: var(--text2); font-weight: 400; }
+    .btn { background: var(--accent); color: #fff; border: none; padding: 0.6rem 1.2rem; border-radius: 8px; font-size: 0.85rem; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 0.5rem; transition: all 0.2s; }
+    .btn:hover { transform: translateY(-1px); box-shadow: 0 4px 15px rgba(108,92,231,0.4); }
+    .grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-bottom: 2rem; }
+    .member-card { background: var(--surface); border-radius: 12px; padding: 1.25rem; border: 1px solid var(--border); }
+    .member-header { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; }
+    .member-avatar { width: 48px; height: 48px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 1.1rem; }
+    .member-info h3 { font-size: 1rem; margin-bottom: 0.25rem; }
+    .member-info p { font-size: 0.8rem; color: var(--text2); }
+    .member-stats { display: flex; gap: 1rem; }
+    .stat { text-align: center; flex: 1; }
+    .stat-value { font-size: 1.25rem; font-weight: 700; color: var(--accent2); }
+    .stat-label { font-size: 0.7rem; color: var(--text2); }
+    .kanban { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+    .kanban-col { background: var(--surface); border-radius: 12px; padding: 1rem; min-height: 400px; }
+    .kanban-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--border); }
+    .kanban-title { font-weight: 600; font-size: 0.95rem; }
+    .kanban-count { background: var(--surface2); padding: 0.2rem 0.6rem; border-radius: 6px; font-size: 0.75rem; color: var(--text2); }
+    .task-card { background: var(--surface2); border-radius: 8px; padding: 0.85rem; margin-bottom: 0.75rem; border: 1px solid var(--border); cursor: pointer; transition: all 0.2s; }
+    .task-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+    .task-title { font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem; }
+    .task-meta { display: flex; justify-content: space-between; align-items: center; font-size: 0.75rem; color: var(--text2); }
+    .task-priority { padding: 0.15rem 0.5rem; border-radius: 4px; font-size: 0.7rem; font-weight: 600; }
+    .priority-high { background: rgba(253,121,168,0.2); color: var(--accent3); }
+    .priority-medium { background: rgba(253,203,110,0.2); color: #fdcb6e; }
+    .priority-low { background: rgba(0,206,201,0.2); color: var(--accent2); }
+    .status-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; margin-right: 0.35rem; }
+    .status-online { background: #00b894; }
+    .status-offline { background: #636e72; }
+    .footer { text-align: center; padding: 2rem; color: var(--text2); font-size: 0.75rem; }
+    @media (max-width: 1024px) { .kanban { grid-template-columns: 1fr; } .nav-links { display: none; } }
+  </style>
+</head>
+<body>
+<nav class="nav">
+  <div class="nav-logo">Hotspot Tracker</div>
+  <ul class="nav-links">
+    <li><a href="platform.html">📊 首页</a></li>
+    <li><a href="index.html">🔥 热点追踪</a></li>
+    <li><a href="low_fan_hits.html">💎 低粉爆款</a></li>
+    <li><a href="client_center.html">👥 客户选题</a></li>
+    <li><a href="sku_library.html">📦 SKU场景</a></li>
+    <li><a href="dashboard.html">📈 数据看板</a></li>
+    <li><a href="script_generator.html">✍️ 脚本生成</a></li>
+    <li><a href="competitor_analysis.html">🏢 竞品分析</a></li>
+    <li><a href="trend_prediction.html">📉 趋势预测</a></li>
+    <li><a href="hot_alerts.html">🚨 热点警报</a></li>
+    <li><a href="content_calendar.html">📅 内容日历</a></li>
+    <li><a href="content_report.html">📋 内容报告</a></li>
+    <li><a href="kpi_tracker.html">🎯 KPI追踪</a></li>
+    <li><a href="creative_center.html">🎨 素材管理</a></li>
+    <li><a href="team_collab.html" class="active">👨‍💻 团队协作</a></li>
+  </ul>
+</nav>
+<div class="main">
+  <div class="page-header">
+    <h1 class="page-title">团队协作 <span>· 任务分配与进度追踪</span></h1>
+    <button class="btn" onclick="openAddModal()">➕ 添加任务</button>
+  </div>
+  <div class="grid-3">
+    <div class="member-card"><div class="member-header"><div class="member-avatar" style="background:linear-gradient(135deg,#6c5ce7,#a29bfe)">李</div><div class="member-info"><h3>李明 <span class="status-dot status-online"></span></h3><p>内容总监</p></div></div><div class="member-stats"><div class="stat"><div class="stat-value">8</div><div class="stat-label">进行中</div></div><div class="stat"><div class="stat-value">24</div><div class="stat-label">已完成</div></div><div class="stat"><div class="stat-value">92%</div><div class="stat-label">达成率</div></div></div></div>
+    <div class="member-card"><div class="member-header"><div class="member-avatar" style="background:linear-gradient(135deg,#00cec9,#81ecec)">张</div><div class="member-info"><h3>张雨 <span class="status-dot status-online"></span></h3><p>运营经理</p></div></div><div class="member-stats"><div class="stat"><div class="stat-value">5</div><div class="stat-label">进行中</div></div><div class="stat"><div class="stat-value">18</div><div class="stat-label">已完成</div></div><div class="stat"><div class="stat-value">88%</div><div class="stat-label">达成率</div></div></div></div>
+    <div class="member-card"><div class="member-header"><div class="member-avatar" style="background:linear-gradient(135deg,#fd79a8,#fdcb6e)">王</div><div class="member-info"><h3>王芳 <span class="status-dot status-offline"></span></h3><p>设计师</p></div></div><div class="member-stats"><div class="stat"><div class="stat-value">3</div><div class="stat-label">进行中</div></div><div class="stat"><div class="stat-value">15</div><div class="stat-label">已完成</div></div><div class="stat"><div class="stat-value">95%</div><div class="stat-label">达成率</div></div></div></div>
+    <div class="member-card"><div class="member-header"><div class="member-avatar" style="background:linear-gradient(135deg,#e17055,#fab1a0)">陈</div><div class="member-info"><h3>陈伟 <span class="status-dot status-online"></span></h3><p>数据分析师</p></div></div><div class="member-stats"><div class="stat"><div class="stat-value">4</div><div class="stat-label">进行中</div></div><div class="stat"><div class="stat-value">12</div><div class="stat-label">已完成</div></div><div class="stat"><div class="stat-value">85%</div><div class="stat-label">达成率</div></div></div></div>
+    <div class="member-card"><div class="member-header"><div class="member-avatar" style="background:linear-gradient(135deg,#0984e3,#74b9ff)">刘</div><div class="member-info"><h3>刘洋 <span class="status-dot status-offline"></span></h3><p>视频剪辑师</p></div></div><div class="member-stats"><div class="stat"><div class="stat-value">6</div><div class="stat-label">进行中</div></div><div class="stat"><div class="stat-value">20</div><div class="stat-label">已完成</div></div><div class="stat"><div class="stat-value">90%</div><div class="stat-label">达成率</div></div></div></div>
+  </div>
+  <div class="kanban">
+    <div class="kanban-col"><div class="kanban-header"><span class="kanban-title">📋 待办</span><span class="kanban-count">6</span></div>
+      <div class="task-card"><div class="task-title">荣耀新品发布内容策划</div><div class="task-meta"><span>👤 李明</span><span class="task-priority priority-high">高</span></div></div>
+      <div class="task-card"><div class="task-title">清扬洗发水热点借势</div><div class="task-meta"><span>👤 张雨</span><span class="task-priority priority-medium">中</span></div></div>
+      <div class="task-card"><div class="task-title">罗技键鼠测评视频</div><div class="task-meta"><span>👤 刘洋</span><span class="task-priority priority-high">高</span></div></div>
+      <div class="task-card"><div class="task-title">AHC护肤品种草笔记</div><div class="task-meta"><span>👤 王芳</span><span class="task-priority priority-low">低</span></div></div>
+      <div class="task-card"><div class="task-title">汤臣倍健转化分析</div><div class="task-meta"><span>👤 陈伟</span><span class="task-priority priority-medium">中</span></div></div>
+      <div class="task-card"><div class="task-title">OATLY咖啡营销方案</div><div class="task-meta"><span>👤 李明</span><span class="task-priority priority-low">低</span></div></div>
+    </div>
+    <div class="kanban-col"><div class="kanban-header"><span class="kanban-title">🔄 进行中</span><span class="kanban-count">5</span></div>
+      <div class="task-card"><div class="task-title">多芬沐浴露抖音脚本</div><div class="task-meta"><span>👤 刘洋</span><span class="task-priority priority-high">高</span></div></div>
+      <div class="task-card"><div class="task-title">低粉爆款数据复盘</div><div class="task-meta"><span>👤 陈伟</span><span class="task-priority priority-medium">中</span></div></div>
+      <div class="task-card"><div class="task-title">希宝猫粮小红书笔记</div><div class="task-meta"><span>👤 张雨</span><span class="task-priority priority-high">高</span></div></div>
+      <div class="task-card"><div class="task-title">HC清洁剂海报设计</div><div class="task-meta"><span>👤 王芳</span><span class="task-priority priority-low">低</span></div></div>
+      <div class="task-card"><div class="task-title">百威啤酒竞品分析</div><div class="task-meta"><span>👤 李明</span><span class="task-priority priority-medium">中</span></div></div>
+    </div>
+    <div class="kanban-col"><div class="kanban-header"><span class="kanban-title">✅ 已完成</span><span class="kanban-count">4</span></div>
+      <div class="task-card"><div class="task-title">力士洗发水微博话题</div><div class="task-meta"><span>👤 张雨</span><span class="task-priority priority-medium">中</span></div></div>
+      <div class="task-card"><div class="task-title">荣耀手机开箱视频</div><div class="task-meta"><span>👤 刘洋</span><span class="task-priority priority-high">高</span></div></div>
+      <div class="task-card"><div class="task-title">AHC防晒详情页</div><div class="task-meta"><span>👤 王芳</span><span class="task-priority priority-low">低</span></div></div>
+      <div class="task-card"><div class="task-title">3月热点周报</div><div class="task-meta"><span>👤 陈伟</span><span class="task-priority priority-medium">中</span></div></div>
+    </div>
+  </div>
+</div>
+<div class="footer">© 2026 特赞内容运营平台 · 团队协作模块</div>
+<script>
+function openAddModal(){alert('添加任务功能已准备就绪');}
+</script>
+</body>
+</html>
