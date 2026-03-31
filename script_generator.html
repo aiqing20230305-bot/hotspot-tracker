@@ -389,6 +389,220 @@
         .toast.success { background: var(--success); }
         .toast.error { background: var(--error); }
 
+        /* 客户管理弹窗 */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2000;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s;
+        }
+        .modal-overlay.show {
+            opacity: 1;
+            visibility: visible;
+        }
+        .modal {
+            background: white;
+            border-radius: 16px;
+            width: 90%;
+            max-width: 500px;
+            max-height: 80vh;
+            display: flex;
+            flex-direction: column;
+            transform: scale(0.9);
+            transition: all 0.3s;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        }
+        .modal-overlay.show .modal {
+            transform: scale(1);
+        }
+        .modal-header {
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--gray-100);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .modal-header h3 {
+            font-size: 18px;
+            color: var(--gray-800);
+        }
+        .modal-close {
+            width: 32px;
+            height: 32px;
+            border: none;
+            background: var(--gray-100);
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+        .modal-close:hover {
+            background: var(--gray-200);
+        }
+        .modal-body {
+            padding: 24px;
+            overflow-y: auto;
+            flex: 1;
+        }
+        .client-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+        .client-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 16px;
+            background: var(--gray-50);
+            border-radius: 10px;
+            transition: all 0.2s;
+        }
+        .client-item:hover {
+            background: var(--gray-100);
+        }
+        .client-item-info {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .client-item-avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            font-weight: 600;
+            color: white;
+        }
+        .client-item-name {
+            font-weight: 600;
+            color: var(--gray-800);
+        }
+        .client-item-industry {
+            font-size: 12px;
+            color: var(--gray-600);
+        }
+        .client-item-delete {
+            width: 28px;
+            height: 28px;
+            border: none;
+            background: transparent;
+            color: var(--gray-400);
+            cursor: pointer;
+            border-radius: 6px;
+            font-size: 16px;
+            transition: all 0.2s;
+        }
+        .client-item-delete:hover {
+            background: var(--error-50);
+            color: var(--error);
+        }
+        .add-client-form {
+            border-top: 1px solid var(--gray-200);
+            padding-top: 20px;
+        }
+        .add-client-form h4 {
+            font-size: 14px;
+            color: var(--gray-700);
+            margin-bottom: 16px;
+        }
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+        .form-group-inline {
+            margin-bottom: 16px;
+        }
+        .form-group-inline label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: var(--gray-700);
+            font-size: 13px;
+        }
+        .form-group-inline input, .form-group-inline select {
+            width: 100%;
+            padding: 10px 14px;
+            border: 2px solid var(--gray-200);
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+        .form-group-inline input:focus, .form-group-inline select:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        .btn-add {
+            width: 100%;
+            padding: 12px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        .btn-add:hover {
+            background: var(--primary-dark);
+        }
+        .empty-clients {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--gray-500);
+        }
+        .empty-clients-icon {
+            font-size: 48px;
+            margin-bottom: 12px;
+            opacity: 0.5;
+        }
+
+        /* 标签行 */
+        .label-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        .label-row label {
+            margin-bottom: 0;
+        }
+        .btn-link {
+            background: none;
+            border: none;
+            color: var(--primary);
+            font-size: 13px;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 6px;
+            transition: all 0.2s;
+        }
+        .btn-link:hover {
+            background: var(--primary-50);
+        }
+
         /* 加载动画 */
         .generating {
             display: none;
@@ -494,14 +708,12 @@
                 </div>
 
                 <div class="form-group">
-                    <label>选择客户 <span>*</span></label>
+                    <div class="label-row">
+                        <label>选择客户 <span>*</span></label>
+                        <button type="button" class="btn-link" id="manageClientBtn">⚙️ 管理客户</button>
+                    </div>
                     <select class="form-select" id="clientSelect">
                         <option value="">请选择客户</option>
-                        <option value="完美日记">完美日记</option>
-                        <option value="花西子">花西子</option>
-                        <option value="珀莱雅">珀莱雅</option>
-                        <option value="薇诺娜">薇诺娜</option>
-                        <option value="自然堂">自然堂</option>
                     </select>
                 </div>
 
