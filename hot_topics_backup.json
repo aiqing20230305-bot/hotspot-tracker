@@ -5,28 +5,12 @@
     "hot_value": 25000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_77469cb94e404452",
     "platform": "微博/抖音",
-    "industries": [
-      "体育",
-      "消费"
-    ],
-    "trends": [
-      "爆"
-    ],
+    "industries": ["体育", "消费"],
+    "trends": ["爆"],
     "type": "社会热点",
     "sentiment": "正面",
-    "keywords": [
-      "张雪机车",
-      "WSBK",
-      "东鹏特饮",
-      "红牛",
-      "中国制造",
-      "赛车"
-    ],
-    "c": [
-      "百威",
-      "元气森林",
-      "农夫山泉"
-    ],
+    "keywords": ["张雪机车", "WSBK", "东鹏特饮", "红牛", "中国制造", "赛车"],
+    "c": ["百威", "元气森林", "农夫山泉"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -35,23 +19,11 @@
     "hot_value": 12000000,
     "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qb8o.html",
     "platform": "微博",
-    "industries": [
-      "体育",
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["体育", "娱乐"],
+    "trends": ["热"],
     "type": "体育热点",
     "sentiment": "中性",
-    "keywords": [
-      "NBA",
-      "摆烂",
-      "奇才",
-      "爵士",
-      "肖华",
-      "选秀"
-    ],
+    "keywords": ["NBA", "摆烂", "奇才", "爵士", "肖华", "选秀"],
     "c": [],
     "created_at": "2026-04-01T06:52:00"
   },
@@ -61,28 +33,12 @@
     "hot_value": 8000000,
     "url": "https://new.qq.com/rain/a/20260331A088ZQ00",
     "platform": "全网",
-    "industries": [
-      "汽车",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["汽车", "科技"],
+    "trends": ["热"],
     "type": "商业新闻",
     "sentiment": "正面",
-    "keywords": [
-      "神行者",
-      "FREELANDER",
-      "奇瑞",
-      "捷豹路虎",
-      "豪华新能源",
-      "独立品牌"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
+    "keywords": ["神行者", "FREELANDER", "奇瑞", "捷豹路虎", "豪华新能源", "独立品牌"],
+    "c": ["小米", "荣耀", "索尼"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -91,27 +47,12 @@
     "hot_value": 3500000,
     "url": "https://new.qq.com/rain/a/20260331A06V5500",
     "platform": "微博/微信",
-    "industries": [
-      "体育",
-      "旅游"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["体育", "旅游"],
+    "trends": ["热"],
     "type": "活动热点",
     "sentiment": "正面",
-    "keywords": [
-      "乒乓球",
-      "嘉年华",
-      "上海",
-      "国际乒联百年",
-      "全民运动"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存",
-      "农夫山泉"
-    ],
+    "keywords": ["乒乓球", "嘉年华", "上海", "国际乒联百年", "全民运动"],
+    "c": ["汤臣倍健", "善存", "农夫山泉"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -120,30 +61,12 @@
     "hot_value": 3200000,
     "url": "http://cn.chinadaily.com.cn/a/202603/WS69ca3166a310942cc49a59c6.html",
     "platform": "小红书/抖音",
-    "industries": [
-      "旅游",
-      "生活"
-    ],
-    "trends": [
-      "爆"
-    ],
+    "industries": ["旅游", "生活"],
+    "trends": ["爆"],
     "type": "消费趋势",
     "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "春假",
-      "赏花",
-      "踏青",
-      "自驾游",
-      "租车"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY",
-      "元气森林",
-      "百威",
-      "希宝"
-    ],
+    "keywords": ["清明节", "春假", "赏花", "踏青", "自驾游", "租车"],
+    "c": ["农夫山泉", "OATLY", "元气森林", "百威", "希宝"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -152,21 +75,11 @@
     "hot_value": 2800000,
     "url": "https://www.toutiao.com/article/7622329985289683496/",
     "platform": "全网",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
-      "爆"
-    ],
+    "industries": ["社会"],
+    "trends": ["爆"],
     "type": "网络热梗",
     "sentiment": "负面",
-    "keywords": [
-      "打一针就好了",
-      "信达证券",
-      "左前明",
-      "性骚扰",
-      "职场"
-    ],
+    "keywords": ["打一针就好了", "信达证券", "左前明", "性骚扰", "职场"],
     "c": [],
     "created_at": "2026-04-01T06:52:00"
   },
@@ -176,25 +89,12 @@
     "hot_value": 463000000,
     "url": "https://www.sohu.com/a/1002806117_100257814",
     "platform": "小红书",
-    "industries": [
-      "旅游",
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["旅游", "生活"],
+    "trends": ["热"],
     "type": "消费趋势",
     "sentiment": "正面",
-    "keywords": [
-      "colorwalk",
-      "色彩漫步",
-      "春季出游",
-      "小红书"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林"
-    ],
+    "keywords": ["colorwalk", "色彩漫步", "春季出游", "小红书"],
+    "c": ["农夫山泉", "元气森林"],
     "created_at": "2026-04-01T03:28:00"
   },
   {
@@ -203,27 +103,12 @@
     "hot_value": 2200000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_60469cbf31b99052",
     "platform": "微博",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "娱乐热点",
     "sentiment": "中性",
-    "keywords": [
-      "姚晨",
-      "曹郁",
-      "离婚",
-      "母女合照",
-      "单身妈妈"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士",
-      "多芬"
-    ],
+    "keywords": ["姚晨", "曹郁", "离婚", "母女合照", "单身妈妈"],
+    "c": ["AHC", "玉兰油", "力士", "多芬"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -232,26 +117,12 @@
     "hot_value": 2000000,
     "url": "https://news.ifeng.com/c/8rlP98alN7G",
     "platform": "微博/抖音",
-    "industries": [
-      "教育",
-      "社会"
-    ],
-    "trends": [
-      "爆"
-    ],
+    "industries": ["教育", "社会"],
+    "trends": ["爆"],
     "type": "社会热点",
     "sentiment": "负面",
-    "keywords": [
-      "张雪峰",
-      "猝死",
-      "心脏骤停",
-      "过度劳累",
-      "苏州"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
+    "keywords": ["张雪峰", "猝死", "心脏骤停", "过度劳累", "苏州"],
+    "c": ["汤臣倍健", "善存"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -260,20 +131,11 @@
     "hot_value": 12125000,
     "url": "https://www.iesdouyin.com/share/billboard/",
     "platform": "抖音",
-    "industries": [
-      "社会",
-      "两岸"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["社会", "两岸"],
+    "trends": ["热"],
     "type": "社会热点",
     "sentiment": "正面",
-    "keywords": [
-      "郑丽文",
-      "访问大陆",
-      "两岸关系"
-    ],
+    "keywords": ["郑丽文", "访问大陆", "两岸关系"],
     "c": [],
     "created_at": "2026-04-01T03:28:00"
   },
@@ -283,20 +145,11 @@
     "hot_value": 12017000,
     "url": "https://www.iesdouyin.com/share/billboard/",
     "platform": "抖音",
-    "industries": [
-      "娱乐",
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐", "生活"],
+    "trends": ["热"],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": [
-      "郁金香",
-      "春天",
-      "打卡"
-    ],
+    "keywords": ["郁金香", "春天", "打卡"],
     "c": [],
     "created_at": "2026-04-01T03:28:00"
   },
@@ -306,25 +159,12 @@
     "hot_value": 1500000,
     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903uplw.html",
     "platform": "全网",
-    "industries": [
-      "汽车"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["汽车"],
+    "trends": ["新"],
     "type": "商业新闻",
     "sentiment": "中性",
-    "keywords": [
-      "通用汽车",
-      "电动车",
-      "停产",
-      "Factory ZERO",
-      "底特律"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
+    "keywords": ["通用汽车", "电动车", "停产", "Factory ZERO", "底特律"],
+    "c": ["小米", "荣耀"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -333,19 +173,11 @@
     "hot_value": 10170000,
     "url": "https://www.iesdouyin.com/share/billboard/",
     "platform": "抖音",
-    "industries": [
-      "教育"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["教育"],
+    "trends": ["热"],
     "type": "教育热点",
     "sentiment": "中性",
-    "keywords": [
-      "教育",
-      "学校",
-      "无菌"
-    ],
+    "keywords": ["教育", "学校", "无菌"],
     "c": [],
     "created_at": "2026-04-01T03:28:00"
   },
@@ -355,27 +187,12 @@
     "hot_value": 1200000,
     "url": "https://www.toutiao.com/article/7613000617992208942/",
     "platform": "微博/抖音",
-    "industries": [
-      "消费",
-      "体育"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["消费", "体育"],
+    "trends": ["热"],
     "type": "消费热点",
     "sentiment": "正面",
-    "keywords": [
-      "羽毛球",
-      "降价",
-      "运动",
-      "消费降级"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存",
-      "农夫山泉",
-      "百威"
-    ],
+    "keywords": ["羽毛球", "降价", "运动", "消费降级"],
+    "c": ["汤臣倍健", "善存", "农夫山泉", "百威"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -384,23 +201,12 @@
     "hot_value": 3875000,
     "url": "https://bz.feigua.cn/ranking/DailyHotVideoV2/0/1/0.html",
     "platform": "B站",
-    "industries": [
-      "游戏",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["游戏", "科技"],
+    "trends": ["热"],
     "type": "游戏热点",
     "sentiment": "正面",
-    "keywords": [
-      "棱镜2033",
-      "游戏",
-      "实机展示"
-    ],
-    "c": [
-      "索尼"
-    ],
+    "keywords": ["棱镜2033", "游戏", "实机展示"],
+    "c": ["索尼"],
     "created_at": "2026-04-01T03:28:00"
   },
   {
@@ -409,20 +215,11 @@
     "hot_value": 2800000,
     "url": "https://weibo.com",
     "platform": "全网",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "爆"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["爆"],
     "type": "节日热点",
     "sentiment": "正面",
-    "keywords": [
-      "愚人节",
-      "整蛊",
-      "4月1日",
-      "玩笑"
-    ],
+    "keywords": ["愚人节", "整蛊", "4月1日", "玩笑"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -432,24 +229,12 @@
     "hot_value": 2554000,
     "url": "https://bz.feigua.cn/ranking/DailyHotVideoV2/0/1/0.html",
     "platform": "B站",
-    "industries": [
-      "旅游",
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["旅游", "生活"],
+    "trends": ["热"],
     "type": "知识热点",
     "sentiment": "中性",
-    "keywords": [
-      "最懒国家",
-      "旅游",
-      "生活方式"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY"
-    ],
+    "keywords": ["最懒国家", "旅游", "生活方式"],
+    "c": ["农夫山泉", "OATLY"],
     "created_at": "2026-04-01T03:28:00"
   },
   {
@@ -458,26 +243,12 @@
     "hot_value": 1100000,
     "url": "https://weibo.com",
     "platform": "微博",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["新"],
     "type": "娱乐热点",
     "sentiment": "正面",
-    "keywords": [
-      "肖战",
-      "青岛",
-      "进组",
-      "拍戏",
-      "新剧"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士"
-    ],
+    "keywords": ["肖战", "青岛", "进组", "拍戏", "新剧"],
+    "c": ["AHC", "玉兰油", "力士"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -486,20 +257,11 @@
     "hot_value": 2200000,
     "url": "https://weibo.com",
     "platform": "微博",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
-      "爆"
-    ],
+    "industries": ["社会"],
+    "trends": ["爆"],
     "type": "社会热点",
     "sentiment": "正面",
-    "keywords": [
-      "梅姨",
-      "拐卖儿童",
-      "落网",
-      "张维平"
-    ],
+    "keywords": ["梅姨", "拐卖儿童", "落网", "张维平"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -509,21 +271,11 @@
     "hot_value": 1800000,
     "url": "https://douyin.com",
     "platform": "抖音",
-    "industries": [
-      "社会",
-      "医疗"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["社会", "医疗"],
+    "trends": ["热"],
     "type": "社会热点",
     "sentiment": "负面",
-    "keywords": [
-      "核磁共振",
-      "医疗事故",
-      "医院",
-      "医生停职"
-    ],
+    "keywords": ["核磁共振", "医疗事故", "医院", "医生停职"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -533,19 +285,11 @@
     "hot_value": 1800000,
     "url": "https://weibo.com",
     "platform": "全网",
-    "industries": [
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["生活"],
+    "trends": ["热"],
     "type": "节日热点",
     "sentiment": "正面",
-    "keywords": [
-      "四月",
-      "新月份",
-      "你好四月"
-    ],
+    "keywords": ["四月", "新月份", "你好四月"],
     "c": [],
     "created_at": "2026-04-01T00:23:00"
   },
@@ -555,26 +299,12 @@
     "hot_value": 900000,
     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903uphu.html",
     "platform": "全网",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["科技"],
+    "trends": ["新"],
     "type": "科技热点",
     "sentiment": "正面",
-    "keywords": [
-      "智能经济",
-      "人工智能",
-      "十五五规划",
-      "国家战略"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼",
-      "罗技"
-    ],
+    "keywords": ["智能经济", "人工智能", "十五五规划", "国家战略"],
+    "c": ["小米", "荣耀", "索尼", "罗技"],
     "created_at": "2026-04-01T06:52:00"
   },
   {
@@ -583,20 +313,11 @@
     "hot_value": 1500000,
     "url": "https://weibo.com",
     "platform": "微博",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "娱乐热点",
     "sentiment": "正面",
-    "keywords": [
-      "陶昕然",
-      "乘风2026",
-      "甄嬛传",
-      "安陵容"
-    ],
+    "keywords": ["陶昕然", "乘风2026", "甄嬛传", "安陵容"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -606,20 +327,11 @@
     "hot_value": 1500000,
     "url": "https://douyin.com",
     "platform": "抖音",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "爆"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["爆"],
     "type": "影视热点",
     "sentiment": "中性",
-    "keywords": [
-      "白日提灯",
-      "大结局",
-      "迪丽热巴",
-      "陈飞宇"
-    ],
+    "keywords": ["白日提灯", "大结局", "迪丽热巴", "陈飞宇"],
     "c": [],
     "created_at": "2026-04-01T00:23:00"
   },
@@ -629,24 +341,12 @@
     "hot_value": 1200000,
     "url": "https://weibo.com",
     "platform": "全网",
-    "industries": [
-      "消费"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["消费"],
+    "trends": ["热"],
     "type": "消费热点",
     "sentiment": "中性",
-    "keywords": [
-      "电动车",
-      "涨价",
-      "雅迪",
-      "九号",
-      "台铃"
-    ],
-    "c": [
-      "小米"
-    ],
+    "keywords": ["电动车", "涨价", "雅迪", "九号", "台铃"],
+    "c": ["小米"],
     "created_at": "2026-04-01T02:26:00"
   },
   {
@@ -655,20 +355,11 @@
     "hot_value": 1100000,
     "url": "https://weibo.com",
     "platform": "微博",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "娱乐热点",
     "sentiment": "中性",
-    "keywords": [
-      "单依纯",
-      "李白",
-      "李荣浩",
-      "版权侵权"
-    ],
+    "keywords": ["单依纯", "李白", "李荣浩", "版权侵权"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -678,20 +369,11 @@
     "hot_value": 980000,
     "url": "https://douyin.com",
     "platform": "抖音",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["新"],
     "type": "娱乐热点",
     "sentiment": "正面",
-    "keywords": [
-      "李健",
-      "版权",
-      "父亲写的散文诗",
-      "我是歌手"
-    ],
+    "keywords": ["李健", "版权", "父亲写的散文诗", "我是歌手"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -701,20 +383,11 @@
     "hot_value": 950000,
     "url": "https://weibo.com",
     "platform": "全网",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": [
-      "我要验牌",
-      "赌侠",
-      "热梗",
-      "50亿播放"
-    ],
+    "keywords": ["我要验牌", "赌侠", "热梗", "50亿播放"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -724,20 +397,11 @@
     "hot_value": 900000,
     "url": "https://www.toutiao.com/w/1859686933024780/",
     "platform": "全网",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": [
-      "养龙虾",
-      "奶绿波",
-      "我要验牌",
-      "叫声妈咪"
-    ],
+    "keywords": ["养龙虾", "奶绿波", "我要验牌", "叫声妈咪"],
     "c": [],
     "created_at": "2026-04-01T03:28:00"
   },
@@ -747,26 +411,12 @@
     "hot_value": 850000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_55269b5781796652",
     "platform": "全网",
-    "industries": [
-      "时尚"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["时尚"],
+    "trends": ["热"],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": [
-      "活人感",
-      "真实",
-      "自然",
-      "烟火气"
-    ],
-    "c": [
-      "AHC",
-      "多芬",
-      "力士",
-      "玉兰油"
-    ],
+    "keywords": ["活人感", "真实", "自然", "烟火气"],
+    "c": ["AHC", "多芬", "力士", "玉兰油"],
     "created_at": "2026-04-01T03:28:00"
   },
   {
@@ -776,17 +426,10 @@
     "url": "https://weibo.com",
     "platform": "全网",
     "industries": [],
-    "trends": [
-      "热"
-    ],
+    "trends": ["热"],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": [
-      "夯爆了",
-      "热词",
-      "夸赞",
-      "精彩"
-    ],
+    "keywords": ["夯爆了", "热词", "夸赞", "精彩"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -796,24 +439,12 @@
     "hot_value": 820000,
     "url": "https://www.toutiao.com/article/7616280367376400936/",
     "platform": "抖音",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["科技"],
+    "trends": ["热"],
     "type": "热点事件",
     "sentiment": "中性",
-    "keywords": [
-      "人脸验证",
-      "隐私安全",
-      "人脸识别"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
+    "keywords": ["人脸验证", "隐私安全", "人脸识别"],
+    "c": ["小米", "荣耀", "索尼"],
     "created_at": "2026-03-31T22:06:00"
   },
   {
@@ -823,17 +454,10 @@
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_55269b5781796652",
     "platform": "全网",
     "industries": [],
-    "trends": [
-      "热"
-    ],
+    "trends": ["热"],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": [
-      "夯爆了",
-      "热词",
-      "夸赞",
-      "精彩"
-    ],
+    "keywords": ["夯爆了", "热词", "夸赞", "精彩"],
     "c": [],
     "created_at": "2026-04-01T03:28:00"
   },
@@ -843,26 +467,12 @@
     "hot_value": 780000,
     "url": "https://xiaohongshu.com",
     "platform": "小红书",
-    "industries": [
-      "时尚"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["时尚"],
+    "trends": ["热"],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": [
-      "活人感",
-      "真实",
-      "自然",
-      "烟火气"
-    ],
-    "c": [
-      "AHC",
-      "多芬",
-      "力士",
-      "玉兰油"
-    ],
+    "keywords": ["活人感", "真实", "自然", "烟火气"],
+    "c": ["AHC", "多芬", "力士", "玉兰油"],
     "created_at": "2026-04-01T02:26:00"
   },
   {
@@ -871,25 +481,12 @@
     "hot_value": 780000,
     "url": "https://www.toutiao.com/article/7616280367376400936/",
     "platform": "抖音",
-    "industries": [
-      "食品"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["食品"],
+    "trends": ["热"],
     "type": "商业新闻",
     "sentiment": "中性",
-    "keywords": [
-      "华莱士",
-      "退市",
-      "快餐",
-      "塔斯汀"
-    ],
-    "c": [
-      "农夫山泉",
-      "百威",
-      "OATLY"
-    ],
+    "keywords": ["华莱士", "退市", "快餐", "塔斯汀"],
+    "c": ["农夫山泉", "百威", "OATLY"],
     "created_at": "2026-03-31T22:06:00"
   },
   {
@@ -899,16 +496,10 @@
     "url": "https://new.qq.com/rain/a/20260328A03OD700",
     "platform": "全网",
     "industries": [],
-    "trends": [
-      "新"
-    ],
+    "trends": ["新"],
     "type": "网络热梗",
     "sentiment": "中性",
-    "keywords": [
-      "赛博对账",
-      "理性讨论",
-      "事实核查"
-    ],
+    "keywords": ["赛博对账", "理性讨论", "事实核查"],
     "c": [],
     "created_at": "2026-04-01T03:28:00"
   },
@@ -918,25 +509,12 @@
     "hot_value": 750000,
     "url": "https://www.toutiao.com/w/1859686933024780/",
     "platform": "全网",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "爆"
-    ],
+    "industries": ["科技"],
+    "trends": ["爆"],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": [
-      "OpenClaw",
-      "养龙虾",
-      "AI智能体",
-      "自动化"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
+    "keywords": ["OpenClaw", "养龙虾", "AI智能体", "自动化"],
+    "c": ["小米", "荣耀", "索尼"],
     "created_at": "2026-03-31T22:06:00"
   },
   {
@@ -946,16 +524,10 @@
     "url": "https://weibo.com",
     "platform": "全网",
     "industries": [],
-    "trends": [
-      "新"
-    ],
+    "trends": ["新"],
     "type": "网络热梗",
     "sentiment": "中性",
-    "keywords": [
-      "赛博对账",
-      "理性讨论",
-      "事实核查"
-    ],
+    "keywords": ["赛博对账", "理性讨论", "事实核查"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -965,20 +537,11 @@
     "hot_value": 720000,
     "url": "https://douyin.com",
     "platform": "抖音",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "影视热点",
     "sentiment": "中性",
-    "keywords": [
-      "逐玉",
-      "张凌赫",
-      "田曦薇",
-      "大结局"
-    ],
+    "keywords": ["逐玉", "张凌赫", "田曦薇", "大结局"],
     "c": [],
     "created_at": "2026-04-01T00:23:00"
   },
@@ -988,21 +551,11 @@
     "hot_value": 720000,
     "url": "https://www.toutiao.com/article/7620327302823445018/",
     "platform": "小红书",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "影视热点",
     "sentiment": "正面",
-    "keywords": [
-      "逐玉",
-      "田曦薇",
-      "张凌赫",
-      "古装剧",
-      "甜虐CP"
-    ],
+    "keywords": ["逐玉", "田曦薇", "张凌赫", "古装剧", "甜虐CP"],
     "c": [],
     "created_at": "2026-03-31T22:06:00"
   },
@@ -1012,20 +565,11 @@
     "hot_value": 700000,
     "url": "https://xiaohongshu.com",
     "platform": "小红书",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "影视热点",
     "sentiment": "正面",
-    "keywords": [
-      "逐玉",
-      "田曦薇",
-      "张凌赫",
-      "古装剧"
-    ],
+    "keywords": ["逐玉", "田曦薇", "张凌赫", "古装剧"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1035,20 +579,11 @@
     "hot_value": 700000,
     "url": "https://www.toutiao.com/article/7620327302823445018/",
     "platform": "小红书",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "影视热点",
     "sentiment": "正面",
-    "keywords": [
-      "纯真年代的爱情",
-      "陈飞宇",
-      "孙千",
-      "父母爱情"
-    ],
+    "keywords": ["纯真年代的爱情", "陈飞宇", "孙千", "父母爱情"],
     "c": [],
     "created_at": "2026-03-31T22:06:00"
   },
@@ -1058,20 +593,11 @@
     "hot_value": 680000,
     "url": "https://xiaohongshu.com",
     "platform": "小红书",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "影视热点",
     "sentiment": "正面",
-    "keywords": [
-      "纯真年代的爱情",
-      "陈飞宇",
-      "孙千",
-      "父母爱情"
-    ],
+    "keywords": ["纯真年代的爱情", "陈飞宇", "孙千", "父母爱情"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1081,21 +607,11 @@
     "hot_value": 680000,
     "url": "https://www.toutiao.com/article/7620327302823445018/",
     "platform": "小红书",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "影视热点",
     "sentiment": "正面",
-    "keywords": [
-      "成何体统",
-      "丞磊",
-      "王楚然",
-      "古装剧",
-      "鱼蛋CP"
-    ],
+    "keywords": ["成何体统", "丞磊", "王楚然", "古装剧", "鱼蛋CP"],
     "c": [],
     "created_at": "2026-03-31T22:06:00"
   },
@@ -1105,20 +621,11 @@
     "hot_value": 650000,
     "url": "https://xiaohongshu.com",
     "platform": "小红书",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "影视热点",
     "sentiment": "正面",
-    "keywords": [
-      "成何体统",
-      "丞磊",
-      "王楚然",
-      "鱼蛋CP"
-    ],
+    "keywords": ["成何体统", "丞磊", "王楚然", "鱼蛋CP"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1128,20 +635,11 @@
     "hot_value": 620000,
     "url": "https://xiaohongshu.com",
     "platform": "小红书",
-    "industries": [
-      "二次元"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["二次元"],
+    "trends": ["新"],
     "type": "消费趋势",
     "sentiment": "正面",
-    "keywords": [
-      "吃谷",
-      "谷子",
-      "二次元",
-      "周边"
-    ],
+    "keywords": ["吃谷", "谷子", "二次元", "周边"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1151,20 +649,11 @@
     "hot_value": 600000,
     "url": "https://xiaohongshu.com",
     "platform": "小红书",
-    "industries": [
-      "时尚"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["时尚"],
+    "trends": ["新"],
     "type": "消费趋势",
     "sentiment": "正面",
-    "keywords": [
-      "反网红穿搭",
-      "真实自我",
-      "活人感",
-      "穿衣自由"
-    ],
+    "keywords": ["反网红穿搭", "真实自我", "活人感", "穿衣自由"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1174,20 +663,11 @@
     "hot_value": 580000,
     "url": "https://douyin.com",
     "platform": "抖音",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["热"],
     "type": "娱乐热点",
     "sentiment": "中性",
-    "keywords": [
-      "田曦薇",
-      "直播",
-      "造型",
-      "争议"
-    ],
+    "keywords": ["田曦薇", "直播", "造型", "争议"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1197,27 +677,12 @@
     "hot_value": 550000,
     "url": "https://weibo.com",
     "platform": "微博",
-    "industries": [
-      "食品",
-      "饮品"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["食品", "饮品"],
+    "trends": ["热"],
     "type": "消费热点",
     "sentiment": "负面",
-    "keywords": [
-      "瑞幸",
-      "紫椰子",
-      "食品安全",
-      "限量新品"
-    ],
-    "c": [
-      "元气森林",
-      "农夫山泉",
-      "OATLY",
-      "百威"
-    ],
+    "keywords": ["瑞幸", "紫椰子", "食品安全", "限量新品"],
+    "c": ["元气森林", "农夫山泉", "OATLY", "百威"],
     "created_at": "2026-04-01T02:26:00"
   },
   {
@@ -1227,17 +692,10 @@
     "url": "https://www.toutiao.com/w/1859686933024780/",
     "platform": "全网",
     "industries": [],
-    "trends": [
-      "新"
-    ],
+    "trends": ["新"],
     "type": "网络热梗",
     "sentiment": "中性",
-    "keywords": [
-      "奶绿波",
-      "堵车",
-      "明绿液",
-      "扎堆"
-    ],
+    "keywords": ["奶绿波", "堵车", "明绿液", "扎堆"],
     "c": [],
     "created_at": "2026-03-31T22:06:00"
   },
@@ -1247,19 +705,11 @@
     "hot_value": 520000,
     "url": "https://weibo.com",
     "platform": "微博",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["社会"],
+    "trends": ["热"],
     "type": "社会热点",
     "sentiment": "中性",
-    "keywords": [
-      "4月新规",
-      "政策",
-      "施行"
-    ],
+    "keywords": ["4月新规", "政策", "施行"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1269,20 +719,11 @@
     "hot_value": 480000,
     "url": "https://weibo.com",
     "platform": "微博",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["社会"],
+    "trends": ["新"],
     "type": "社会热点",
     "sentiment": "中性",
-    "keywords": [
-      "高速限速",
-      "谣言",
-      "辟谣",
-      "非整十限速"
-    ],
+    "keywords": ["高速限速", "谣言", "辟谣", "非整十限速"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1292,20 +733,11 @@
     "hot_value": 450000,
     "url": "https://xiaohongshu.com",
     "platform": "小红书",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["科技"],
+    "trends": ["新"],
     "type": "平台热点",
     "sentiment": "正面",
-    "keywords": [
-      "小红书",
-      "AI托管",
-      "封禁",
-      "真实性"
-    ],
+    "keywords": ["小红书", "AI托管", "封禁", "真实性"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1315,23 +747,12 @@
     "hot_value": 420000,
     "url": "https://douyin.com",
     "platform": "抖音",
-    "industries": [
-      "经济"
-    ],
-    "trends": [
-      "热"
-    ],
+    "industries": ["经济"],
+    "trends": ["热"],
     "type": "经济热点",
     "sentiment": "正面",
-    "keywords": [
-      "银发经济",
-      "30万亿",
-      "老龄化"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
+    "keywords": ["银发经济", "30万亿", "老龄化"],
+    "c": ["汤臣倍健", "善存"],
     "created_at": "2026-04-01T02:26:00"
   },
   {
@@ -1340,20 +761,11 @@
     "hot_value": 400000,
     "url": "https://douyin.com",
     "platform": "抖音",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["新"],
     "type": "娱乐热点",
     "sentiment": "正面",
-    "keywords": [
-      "陈瑶",
-      "浪姐",
-      "上班",
-      "青春女大"
-    ],
+    "keywords": ["陈瑶", "浪姐", "上班", "青春女大"],
     "c": [],
     "created_at": "2026-04-01T02:26:00"
   },
@@ -1363,22 +775,14 @@
     "hot_value": 890000,
     "url": "http://k.sina.com.cn/article_7879776328_1d5abd84806801ewl0.html",
     "platform": "微博",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "新"
-    ],
+    "industries": ["娱乐"],
+    "trends": ["新"],
     "type": "娱乐热点",
     "sentiment": "正面",
-    "keywords": [
-      "斓曦",
-      "孙俪",
-      "甄嬛传",
-      "危险关系",
-      "眉嬛姐妹情"
-    ],
+    "keywords": ["斓曦", "孙俪", "甄嬛传", "危险关系", "眉嬛姐妹情"],
     "c": [],
     "created_at": "2026-03-31T22:06:00"
-  }
-]
+  },
+  {
+    "rank": 57,
+    "title": "
