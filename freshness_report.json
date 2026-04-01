@@ -1,20 +1,129 @@
 {
-  "check_time": "2026-04-02T05:10:00.096100",
-  "status": "ok",
+  "check_time": "2026-04-02T06:16:21.808572",
+  "stale_threshold_hours": 24.0,
+  "summary": {
+    "total_datasets": 7,
+    "fresh": 3,
+    "warning": 3,
+    "stale": 1,
+    "missing": 0,
+    "error": 0,
+    "critical_stale": 0
+  },
   "datasets": {
     "hot_topics": {
-      "count": 97,
-      "latest_update": "2026-04-01T20:05:05",
-      "status": "ok"
+      "name": "hot_topics",
+      "description": "热点数据",
+      "path": "hot_topics.json",
+      "exists": true,
+      "status": "fresh",
+      "file_mtime": "2026-04-02T06:14:06.683037",
+      "record_timestamp": "2026-04-02T06:00:00",
+      "hours_since_update": 0.27,
+      "is_stale": false,
+      "content_changed": true,
+      "record_count": 103,
+      "critical": true,
+      "hours_since_file_update": 0.04
     },
     "client_ideas": {
-      "count": 1500,
-      "linked_to_hotspot": 1500,
-      "status": "ok"
+      "name": "client_ideas",
+      "description": "客户选题数据",
+      "path": "client_ideas.json",
+      "exists": true,
+      "status": "fresh",
+      "file_mtime": "2026-04-02T05:09:45.714264",
+      "record_timestamp": "2026-04-02T03:57:27.527135",
+      "hours_since_update": 2.32,
+      "is_stale": false,
+      "content_changed": true,
+      "record_count": 1500,
+      "critical": true,
+      "hours_since_file_update": 1.11
     },
     "sku_scenarios": {
-      "count": 5,
-      "status": "ok"
+      "name": "sku_scenarios",
+      "description": "SKU场景数据",
+      "path": "sku_scenarios.json",
+      "exists": true,
+      "status": "fresh",
+      "file_mtime": "2026-04-01T19:11:25.354590",
+      "record_timestamp": "2026-04-01T19:11:25.168735",
+      "hours_since_update": 11.08,
+      "is_stale": false,
+      "content_changed": true,
+      "record_count": 26880,
+      "critical": false,
+      "hours_since_file_update": 11.08
+    },
+    "sku_scenes": {
+      "name": "sku_scenes",
+      "description": "SKU场景精简数据",
+      "path": "sku_scenes.json",
+      "exists": true,
+      "status": "warning",
+      "file_mtime": "2026-04-01T07:02:50.448759",
+      "record_timestamp": "2026-04-01T07:02:50.447174",
+      "hours_since_update": 23.23,
+      "is_stale": false,
+      "content_changed": true,
+      "record_count": 5,
+      "critical": false,
+      "hours_since_file_update": 23.23
+    },
+    "low_fan_hits": {
+      "name": "low_fan_hits",
+      "description": "低粉爆款数据",
+      "path": "low_fan_hits_data.json",
+      "exists": true,
+      "status": "warning",
+      "file_mtime": "2026-04-01T07:02:03.351752",
+      "record_timestamp": "2026-04-01T07:01:59.635469",
+      "hours_since_update": 23.24,
+      "is_stale": false,
+      "content_changed": true,
+      "record_count": 8,
+      "critical": false,
+      "hours_since_file_update": 23.24
+    },
+    "learning_data": {
+      "name": "learning_data",
+      "description": "学习数据",
+      "path": "learning_data.json",
+      "exists": true,
+      "status": "stale",
+      "file_mtime": "2026-03-30T21:43:03.726424",
+      "record_timestamp": "2026-03-30T21:43:03.725115",
+      "hours_since_update": 56.56,
+      "is_stale": true,
+      "content_changed": true,
+      "record_count": 1,
+      "critical": false,
+      "hours_since_file_update": 56.56
+    },
+    "dashboard_data": {
+      "name": "dashboard_data",
+      "description": "仪表盘数据",
+      "path": "dashboard_data.json",
+      "exists": true,
+      "status": "warning",
+      "file_mtime": "2026-04-01T07:02:09.904178",
+      "record_timestamp": "2026-04-01T07:02:09.903631",
+      "hours_since_update": 23.24,
+      "is_stale": false,
+      "content_changed": true,
+      "record_count": 1,
+      "critical": false,
+      "hours_since_file_update": 23.24
     }
-  }
+  },
+  "alerts": [
+    {
+      "dataset": "learning_data",
+      "severity": "warning",
+      "message": "学习数据已超过56.6小时未更新",
+      "action": "请检查数据更新流程"
+    }
+  ],
+  "status": "ok"
 }
