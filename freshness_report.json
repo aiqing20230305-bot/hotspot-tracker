@@ -1,26 +1,20 @@
 {
-  "check_time": "2026-04-02T02:55:40.341580+08:00",
+  "check_time": "2026-04-02T05:10:00.096100",
   "status": "ok",
-  "data_freshness": {
+  "datasets": {
     "hot_topics": {
-      "latest_time": "2026-04-01T20:05:05+08:00",
-      "age_hours": 6.84,
-      "record_count": 97,
-      "fresh": true
+      "count": 97,
+      "latest_update": "2026-04-01T20:05:05",
+      "status": "ok"
     },
     "client_ideas": {
-      "latest_time": "2026-04-02T00:39:57.796915+08:00",
-      "age_hours": 2.26,
-      "record_count": 80,
-      "fresh": true
+      "count": 1500,
+      "linked_to_hotspot": 1500,
+      "status": "ok"
     },
     "sku_scenarios": {
-      "total_count": 26880,
-      "scenario_count": 26880,
-      "valid": true,
-      "issues": []
+      "count": 5,
+      "status": "ok"
     }
-  },
-  "actions_taken": [],
-  "recommendations": []
+  }
 }

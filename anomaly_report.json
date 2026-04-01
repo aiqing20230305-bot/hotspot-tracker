@@ -1,0 +1,17 @@
+{
+  "anomalies": [
+    {
+      "dataset": "hot_topics",
+      "index": 93,
+      "type": "标题过短",
+      "value": "愚人节",
+      "severity": "warning"
+    }
+  ],
+  "summary": {
+    "total_issues": 1,
+    "severity_counts": {
+      "warning": 1
+    }
+  }
+}
