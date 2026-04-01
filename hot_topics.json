@@ -1,9 +1,37 @@
 [
   {
     "rank": 1,
+    "title": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_value": 480000000,
+    "url": "https://www.toutiao.com/article/7615646502693749258/",
+    "platform": "微博/全网",
+    "industries": ["科技", "通信"],
+    "trends": ["爆"],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": ["6G", "通信技术", "4K电影", "空天地一体化", "数字经济"],
+    "c": ["小米", "荣耀", "索尼"],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 2,
+    "title": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
+    "hot_value": 320000000,
+    "url": "https://c.m.163.com/news/a/KPDSC92E05319YKA.html",
+    "platform": "抖音/微博",
+    "industries": ["体育", "消费"],
+    "trends": ["爆"],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": ["张雪机车", "WSBK", "东鹏特饮", "中国制造", "赛车", "涨粉"],
+    "c": ["百威", "元气森林", "农夫山泉"],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 3,
     "title": "colorwalk成为2026春季最火生活趋势",
     "hot_value": 463000000,
-    "url": "https://www.sohu.com/a/1002806117_100257814",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_27169c9e59946152",
     "platform": "小红书",
     "industries": ["旅游", "生活"],
     "trends": ["爆"],
@@ -11,52 +39,192 @@
     "sentiment": "正面",
     "keywords": ["colorwalk", "色彩漫步", "春季出游", "小红书"],
     "c": ["农夫山泉", "元气森林"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 2,
-    "title": "张雪机车WSBK夺冠 东鹏特饮5万赢麻了",
-    "hot_value": 28000000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_77469cb94e404452",
-    "platform": "微博/抖音",
-    "industries": ["体育", "消费"],
+    "rank": 4,
+    "title": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_value": 85000000,
+    "url": "https://www.toutiao.com/article/7623373554779750955/",
+    "platform": "微博/全网",
+    "industries": ["食品", "消费"],
     "trends": ["爆"],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": ["张雪机车", "WSBK", "东鹏特饮", "红牛", "中国制造", "赛车"],
-    "c": ["百威", "元气森林", "农夫山泉"],
-    "created_at": "2026-04-01T11:08:00"
+    "type": "消费热点",
+    "sentiment": "负面",
+    "keywords": ["瑞幸", "紫椰子", "食品安全", "消费者维权", "椰肉变色"],
+    "c": ["农夫山泉", "OATLY", "元气森林"],
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 3,
-    "title": "特朗普将发表全国讲话 伊朗战争或两三周内结束",
-    "hot_value": 12000000,
-    "url": "https://www.toutiao.com/article/7623576780888162822/",
-    "platform": "微博/抖音",
+    "rank": 5,
+    "title": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
+    "hot_value": 120000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_00469cc4c1d75852",
+    "platform": "微博/全网",
     "industries": ["国际", "社会"],
     "trends": ["爆"],
     "type": "国际热点",
     "sentiment": "中性",
-    "keywords": ["特朗普", "伊朗", "全国讲话", "中东局势", "撤军"],
+    "keywords": ["伊朗", "海军司令", "霍尔木兹海峡", "能源", "中东局势"],
     "c": ["小米", "荣耀", "索尼"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 4,
+    "rank": 6,
+    "title": "李湘携王诗龄现身韶山献花 瘦了20斤",
+    "hot_value": 68000000,
+    "url": "https://www.toutiao.com/article/7623130269016474112/",
+    "platform": "微博/抖音",
+    "industries": ["娱乐"],
+    "trends": ["爆"],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": ["李湘", "王诗龄", "韶山", "瘦身", "明星"],
+    "c": ["AHC", "玉兰油", "力士", "多芬"],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 7,
+    "title": "抖音小妹儿方言词被列入敏感词 东北网友炸锅",
+    "hot_value": 56000000,
+    "url": "https://www.toutiao.com/w/1856871697921224/",
+    "platform": "抖音/微博",
+    "industries": ["社会", "互联网"],
+    "trends": ["爆"],
+    "type": "社会热点",
+    "sentiment": "负面",
+    "keywords": ["抖音", "小妹儿", "方言", "敏感词", "地域歧视", "东北"],
+    "c": [],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 8,
+    "title": "我要验牌成2026最火网络热梗 播放量破50亿",
+    "hot_value": 50000000,
+    "url": "https://new.qq.com/rain/a/20260328A03OD700",
+    "platform": "B站/全网",
+    "industries": ["娱乐", "社会"],
+    "trends": ["爆"],
+    "type": "网络热梗",
+    "sentiment": "正面",
+    "keywords": ["我要验牌", "赌侠", "网络热梗", "二创", "官方借势"],
+    "c": [],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 9,
+    "title": "世界数据组织在北京成立 总部设于中国",
+    "hot_value": 45000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_00469cc4c1d75852",
+    "platform": "全网",
+    "industries": ["科技", "经济"],
+    "trends": ["新"],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": ["世界数据组织", "北京", "数据治理", "数字经济", "国际合作"],
+    "c": ["小米", "荣耀", "索尼", "罗技"],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 10,
+    "title": "鞠婧祎丝芭传媒纠纷再上热搜 税务局回应",
+    "hot_value": 42000000,
+    "url": "http://news.10jqka.com.cn/20260401/c675687275.shtml",
+    "platform": "微博/全网",
+    "industries": ["娱乐"],
+    "trends": ["爆"],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": ["鞠婧祎", "丝芭传媒", "合约纠纷", "税务", "明星"],
+    "c": ["AHC", "玉兰油", "力士"],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 11,
+    "title": "品牌收地球使用费上热搜 网友吵翻",
+    "hot_value": 38000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_34669cca7d917852",
+    "platform": "微博",
+    "industries": ["消费", "环保"],
+    "trends": ["热"],
+    "type": "消费热点",
+    "sentiment": "中性",
+    "keywords": ["地球使用费", "品牌营销", "环保", "热议"],
+    "c": ["农夫山泉", "OATLY", "元气森林"],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 12,
+    "title": "今年蚊子或迎史诗级加强 疾控部门紧急提醒",
+    "hot_value": 35000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_36269cc973816252",
+    "platform": "微博/全网",
+    "industries": ["生活", "健康"],
+    "trends": ["热"],
+    "type": "社会热点",
+    "sentiment": "负面",
+    "keywords": ["蚊子", "疾控", "健康提醒", "夏季", "防护"],
+    "c": ["威猛先生", "汤臣倍健"],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 13,
+    "title": "抖音女子网购18K项链火烧变黑 检测含铜70%",
+    "hot_value": 32000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_89569cc841c14552",
+    "platform": "抖音/全网",
+    "industries": ["消费", "电商"],
+    "trends": ["热"],
+    "type": "消费热点",
+    "sentiment": "负面",
+    "keywords": ["抖音电商", "假货", "18K金", "消费维权", "直播带货"],
+    "c": [],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 14,
+    "title": "澳洲优思益被曝光为纯国产 抖音天猫店铺暂停营业",
+    "hot_value": 28000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_98269cc93ba10452",
+    "platform": "微博/抖音",
+    "industries": ["消费", "健康"],
+    "trends": ["热"],
+    "type": "消费热点",
+    "sentiment": "负面",
+    "keywords": ["优思益", "保健品", "虚假宣传", "进口", "叶黄素"],
+    "c": ["汤臣倍健", "善存"],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 15,
+    "title": "抖音发布未来导演扶持计划 100亿流量池",
+    "hot_value": 25000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_08569cc83fa42152",
+    "platform": "抖音/全网",
+    "industries": ["科技", "娱乐"],
+    "trends": ["新"],
+    "type": "商业新闻",
+    "sentiment": "正面",
+    "keywords": ["抖音", "导演扶持计划", "创作者", "流量池", "内容产业"],
+    "c": ["索尼", "罗技"],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 16,
     "title": "物业费按平米收引热议 2026新规炸场",
     "hot_value": 20000000,
     "url": "https://www.toutiao.com/article/7617786005147353652/",
     "platform": "抖音/微博",
     "industries": ["社会", "房产"],
-    "trends": ["爆"],
+    "trends": ["热"],
     "type": "社会热点",
     "sentiment": "中性",
     "keywords": ["物业费", "按平米收", "业主", "新规", "公平"],
     "c": [],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 5,
+    "rank": 17,
     "title": "雅迪宣布4月1日起全品类产品涨价超300元",
     "hot_value": 18000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_53469cc5c4f31865",
@@ -67,38 +235,10 @@
     "sentiment": "中性",
     "keywords": ["雅迪", "电动车", "涨价", "300元", "调价"],
     "c": ["小米"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 6,
-    "title": "4月1日起全国严查后排未系安全带",
-    "hot_value": 9500000,
-    "url": "http://weibo.com/u/2934114502",
-    "platform": "微博",
-    "industries": ["社会", "交通"],
-    "trends": ["新"],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": ["安全带", "后排乘客", "交通法规", "执法"],
-    "c": [],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 7,
-    "title": "万物皆可郁金香",
-    "hot_value": 15000000,
-    "url": "https://www.iesdouyin.com/share/billboard/",
-    "platform": "抖音",
-    "industries": ["娱乐", "生活"],
-    "trends": ["热"],
-    "type": "网络热梗",
-    "sentiment": "正面",
-    "keywords": ["郁金香", "春天", "打卡"],
-    "c": [],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 8,
+    "rank": 18,
     "title": "2026北京郁金香文化节4月3日启幕",
     "hot_value": 9000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_88269cc563a73852",
@@ -109,24 +249,10 @@
     "sentiment": "正面",
     "keywords": ["郁金香", "北京", "文化节", "清明", "踏青"],
     "c": ["农夫山泉", "OATLY", "元气森林"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 9,
-    "title": "NBA反摆烂新方案 奇才爵士上演奥斯卡表演",
-    "hot_value": 14000000,
-    "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qb8o.html",
-    "platform": "微博",
-    "industries": ["体育", "娱乐"],
-    "trends": ["热"],
-    "type": "体育热点",
-    "sentiment": "中性",
-    "keywords": ["NBA", "摆烂", "奇才", "爵士", "肖华", "选秀"],
-    "c": [],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 10,
+    "rank": 19,
     "title": "神行者FREELANDER独立品牌全球首秀",
     "hot_value": 8500000,
     "url": "https://new.qq.com/rain/a/20260331A088ZQ00",
@@ -137,10 +263,52 @@
     "sentiment": "正面",
     "keywords": ["神行者", "FREELANDER", "奇瑞", "捷豹路虎", "豪华新能源", "独立品牌"],
     "c": ["小米", "荣耀", "索尼"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 11,
+    "rank": 20,
+    "title": "4月1日起全国严查后排未系安全带",
+    "hot_value": 9500000,
+    "url": "http://weibo.com/u/2934114502",
+    "platform": "微博",
+    "industries": ["社会", "交通"],
+    "trends": ["新"],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": ["安全带", "后排乘客", "交通法规", "执法"],
+    "c": [],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 21,
+    "title": "万物皆可郁金香",
+    "hot_value": 15000000,
+    "url": "https://www.iesdouyin.com/share/billboard/",
+    "platform": "抖音",
+    "industries": ["娱乐", "生活"],
+    "trends": ["热"],
+    "type": "网络热梗",
+    "sentiment": "正面",
+    "keywords": ["郁金香", "春天", "打卡"],
+    "c": [],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 22,
+    "title": "NBA反摆烂新方案 奇才爵士上演奥斯卡表演",
+    "hot_value": 14000000,
+    "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qb8o.html",
+    "platform": "微博",
+    "industries": ["体育", "娱乐"],
+    "trends": ["热"],
+    "type": "体育热点",
+    "sentiment": "中性",
+    "keywords": ["NBA", "摆烂", "奇才", "爵士", "肖华", "选秀"],
+    "c": [],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 23,
     "title": "两艘国产大型邮轮同框 爱达魔都号与花城号",
     "hot_value": 7200000,
     "url": "http://weibo.com/u/2149981442/",
@@ -151,10 +319,10 @@
     "sentiment": "正面",
     "keywords": ["国产邮轮", "爱达魔都号", "爱达花城号", "中国制造"],
     "c": ["小米", "荣耀", "索尼"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 12,
+    "rank": 24,
     "title": "斯诺克世界第一特鲁姆普与花滑女神马晓晴疑似分手",
     "hot_value": 6800000,
     "url": "https://www.sohu.com/a/1003375150_121909538",
@@ -165,10 +333,10 @@
     "sentiment": "中性",
     "keywords": ["特鲁姆普", "马晓晴", "斯诺克", "分手", "花滑"],
     "c": ["索尼", "罗技"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 13,
+    "rank": 25,
     "title": "美国星链卫星失联 太空探索技术公司调查中",
     "hot_value": 6000000,
     "url": "http://weibo.com/u/2149981442/",
@@ -179,10 +347,10 @@
     "sentiment": "中性",
     "keywords": ["星链", "卫星失联", "SpaceX", "马斯克"],
     "c": ["小米", "荣耀", "索尼", "罗技"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 14,
+    "rank": 26,
     "title": "2026LPL第二赛段赛程公布 4月4日开赛",
     "hot_value": 5500000,
     "url": "http://weibo.com/u/5756404150",
@@ -193,10 +361,10 @@
     "sentiment": "正面",
     "keywords": ["LPL", "英雄联盟", "电竞", "赛程"],
     "c": ["索尼", "罗技"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 15,
+    "rank": 27,
     "title": "张国荣逝世23周年 螺蛳粉哥发文纪念",
     "hot_value": 5000000,
     "url": "http://weibo.com/u/2688504554",
@@ -207,10 +375,10 @@
     "sentiment": "正面",
     "keywords": ["张国荣", "逝世23周年", "愚人节", "纪念"],
     "c": ["AHC", "玉兰油", "力士", "多芬"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 16,
+    "rank": 28,
     "title": "超级厄尔尼诺来袭 2026或成史上最热年",
     "hot_value": 5000000,
     "url": "https://finance.sina.com.cn/jjxw/2026-04-01/doc-inhsxvfm8772012.shtml",
@@ -221,10 +389,10 @@
     "sentiment": "负面",
     "keywords": ["厄尔尼诺", "全球变暖", "最热年", "气候", "极端天气"],
     "c": ["农夫山泉", "百威", "OATLY", "元气森林"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 17,
+    "rank": 29,
     "title": "B站首届AI创作大赛收官 8300份作品播放7亿 updream内测",
     "hot_value": 4200000,
     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903upvm.html",
@@ -235,10 +403,10 @@
     "sentiment": "正面",
     "keywords": ["B站", "AI创作", "updream", "AI动画", "创作者"],
     "c": ["小米", "索尼", "罗技"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 18,
+    "rank": 30,
     "title": "上海乒乓球嘉年华4月12日开幕",
     "hot_value": 3800000,
     "url": "https://new.qq.com/rain/a/20260331A06V5500",
@@ -249,10 +417,10 @@
     "sentiment": "正面",
     "keywords": ["乒乓球", "嘉年华", "上海", "国际乒联百年", "全民运动"],
     "c": ["汤臣倍健", "善存", "农夫山泉"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 19,
+    "rank": 31,
     "title": "清明春假黄金周 赏花踏青出行爆发",
     "hot_value": 3500000,
     "url": "http://cn.chinadaily.com.cn/a/202603/WS69ca3166a310942cc49a59c6.html",
@@ -263,10 +431,10 @@
     "sentiment": "正面",
     "keywords": ["清明节", "春假", "赏花", "踏青", "自驾游", "租车"],
     "c": ["农夫山泉", "OATLY", "元气森林", "百威", "希宝"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 20,
+    "rank": 32,
     "title": "小米SU7交付量突破10万台",
     "hot_value": 3600000,
     "url": "https://weibo.com",
@@ -277,10 +445,10 @@
     "sentiment": "正面",
     "keywords": ["小米SU7", "电动车", "交付", "雷军", "新能源"],
     "c": ["小米"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 21,
+    "rank": 33,
     "title": "打一针就好了成2026最火热梗",
     "hot_value": 3200000,
     "url": "https://www.toutiao.com/article/7622329985289683496/",
@@ -291,10 +459,10 @@
     "sentiment": "负面",
     "keywords": ["打一针就好了", "信达证券", "左前明", "性骚扰", "职场"],
     "c": [],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 22,
+    "rank": 34,
     "title": "愚人节",
     "hot_value": 3500000,
     "url": "https://weibo.com",
@@ -305,10 +473,10 @@
     "sentiment": "正面",
     "keywords": ["愚人节", "整蛊", "4月1日", "玩笑"],
     "c": [],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 23,
+    "rank": 35,
     "title": "《黑神话：悟空》DLC预告发布",
     "hot_value": 3200000,
     "url": "https://bilibili.com",
@@ -319,10 +487,10 @@
     "sentiment": "正面",
     "keywords": ["黑神话悟空", "DLC", "国产游戏", "游戏预告"],
     "c": ["索尼", "罗技"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 24,
+    "rank": 36,
     "title": "2026年进度条已过四分之一",
     "hot_value": 3000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_01669cc74ac12852",
@@ -333,10 +501,10 @@
     "sentiment": "正面",
     "keywords": ["2026年", "进度条", "四月", "时间"],
     "c": [],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 25,
+    "rank": 37,
     "title": "陶昕然乘风2026初舞台复刻冰嬉舞 孙俪连线提议",
     "hot_value": 2800000,
     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzm.html",
@@ -347,10 +515,10 @@
     "sentiment": "正面",
     "keywords": ["陶昕然", "乘风2026", "甄嬛传", "安陵容", "冰嬉舞"],
     "c": ["AHC", "玉兰油", "力士"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 26,
+    "rank": 38,
     "title": "梅姨落网",
     "hot_value": 2500000,
     "url": "https://weibo.com",
@@ -361,10 +529,10 @@
     "sentiment": "正面",
     "keywords": ["梅姨", "拐卖儿童", "落网", "张维平"],
     "c": [],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 27,
+    "rank": 39,
     "title": "张雪峰心源性猝死离世",
     "hot_value": 2200000,
     "url": "https://news.ifeng.com/c/8rlP98alN7G",
@@ -375,10 +543,10 @@
     "sentiment": "负面",
     "keywords": ["张雪峰", "猝死", "心脏骤停", "过度劳累", "苏州"],
     "c": ["汤臣倍健", "善存"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 28,
+    "rank": 40,
     "title": "姚晨官宣离婚后母女合照冲上热搜",
     "hot_value": 2400000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_60469cbf31b99052",
@@ -389,10 +557,10 @@
     "sentiment": "中性",
     "keywords": ["姚晨", "曹郁", "离婚", "母女合照", "单身妈妈"],
     "c": ["AHC", "玉兰油", "力士", "多芬"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 29,
+    "rank": 41,
     "title": "深圳美术馆清明假期正常开放",
     "hot_value": 3500000,
     "url": "http://weibo.com/u/2934114502",
@@ -403,10 +571,10 @@
     "sentiment": "正面",
     "keywords": ["深圳美术馆", "清明假期", "展览", "无需预约"],
     "c": ["农夫山泉", "OATLY"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 30,
+    "rank": 42,
     "title": "星座运势4月1日星运璀璨",
     "hot_value": 2800000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_19269cc6e7808652",
@@ -417,10 +585,10 @@
     "sentiment": "正面",
     "keywords": ["星座", "运势", "四月", "幸运"],
     "c": ["AHC", "玉兰油", "力士"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 31,
+    "rank": 43,
     "title": "职场星芒盛放 四大星座驭风破浪",
     "hot_value": 2400000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_20669cc724179152",
@@ -431,10 +599,10 @@
     "sentiment": "正面",
     "keywords": ["职场", "星座", "事业运", "奋斗"],
     "c": ["汤臣倍健", "善存"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 32,
+    "rank": 44,
     "title": "2026清明假期北京限行调整 高速免费3天",
     "hot_value": 2300000,
     "url": "http://bj.bendibao.com/news/2026331/381704.shtm",
@@ -445,10 +613,10 @@
     "sentiment": "中性",
     "keywords": ["清明节", "限行", "高速免费", "出行", "北京"],
     "c": ["农夫山泉", "OATLY", "元气森林", "希宝"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 33,
+    "rank": 45,
     "title": "黄晓明公司出品《我在废土世界扫垃圾》正式备案",
     "hot_value": 2000000,
     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzq.html",
@@ -459,10 +627,10 @@
     "sentiment": "正面",
     "keywords": ["黄晓明", "废土世界扫垃圾", "网文改编", "奇幻剧", "备案"],
     "c": ["AHC", "玉兰油", "力士", "多芬"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 34,
+    "rank": 46,
     "title": "Sora视频生成工具引发行业震动",
     "hot_value": 2000000,
     "url": "https://weibo.com",
@@ -473,10 +641,10 @@
     "sentiment": "正面",
     "keywords": ["Sora", "视频生成", "OpenAI", "AI视频", "内容创作"],
     "c": ["小米", "索尼"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 35,
+    "rank": 47,
     "title": "ChatGPT-5即将发布 AI界期待值拉满",
     "hot_value": 1800000,
     "url": "https://weibo.com",
@@ -487,10 +655,10 @@
     "sentiment": "正面",
     "keywords": ["ChatGPT", "GPT-5", "OpenAI", "人工智能", "大模型"],
     "c": ["小米", "荣耀", "索尼"],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 36,
+    "rank": 48,
     "title": "男子被遗忘在核磁共振床上一整夜",
     "hot_value": 2000000,
     "url": "https://douyin.com",
@@ -501,10 +669,10 @@
     "sentiment": "负面",
     "keywords": ["核磁共振", "医疗事故", "医院", "医生停职"],
     "c": [],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 37,
+    "rank": 49,
     "title": "四月你好",
     "hot_value": 2000000,
     "url": "https://weibo.com",
@@ -515,10 +683,10 @@
     "sentiment": "正面",
     "keywords": ["四月", "新月份", "你好四月"],
     "c": [],
-    "created_at": "2026-04-01T11:08:00"
+    "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 38,
+    "rank": 50,
     "title": "智能经济被确立为国家战略",
     "hot_value": 1000000,
     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903uphu.html",
@@ -528,189 +696,4 @@
     "type": "科技热点",
     "sentiment": "正面",
     "keywords": ["智能经济", "人工智能", "十五五规划", "国家战略"],
-    "c": ["小米", "荣耀", "索尼", "罗技"],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 39,
-    "title": "活人感成2026网络流行语",
-    "hot_value": 950000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_55269b5781796652",
-    "platform": "全网",
-    "industries": ["时尚"],
-    "trends": ["热"],
-    "type": "网络热梗",
-    "sentiment": "正面",
-    "keywords": ["活人感", "真实", "自然", "烟火气"],
-    "c": ["AHC", "多芬", "力士", "玉兰油"],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 40,
-    "title": "夯爆了成2026年度顶流热词",
-    "hot_value": 900000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_55269b5781796652",
-    "platform": "全网",
-    "industries": [],
-    "trends": ["热"],
-    "type": "网络热梗",
-    "sentiment": "正面",
-    "keywords": ["夯爆了", "热词", "夸赞", "精彩"],
-    "c": [],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 41,
-    "title": "预制菜进校园引争议 家长担忧食品安全",
-    "hot_value": 1000000,
-    "url": "https://weibo.com",
-    "platform": "微博",
-    "industries": ["食品", "教育"],
-    "trends": ["爆"],
-    "type": "社会热点",
-    "sentiment": "负面",
-    "keywords": ["预制菜", "校园", "食品安全", "家长", "营养餐"],
-    "c": [],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 42,
-    "title": "00后整顿职场成网络热梗",
-    "hot_value": 750000,
-    "url": "https://douyin.com",
-    "platform": "抖音/微博",
-    "industries": ["社会"],
-    "trends": ["爆"],
-    "type": "网络热梗",
-    "sentiment": "正面",
-    "keywords": ["00后", "整顿职场", "拒绝加班", "职场文化", "代际差异"],
-    "c": [],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 43,
-    "title": "脆皮打工人成网络热词",
-    "hot_value": 650000,
-    "url": "https://weibo.com",
-    "platform": "微博/抖音",
-    "industries": ["社会"],
-    "trends": ["爆"],
-    "type": "网络热梗",
-    "sentiment": "中性",
-    "keywords": ["脆皮打工人", "亚健康", "职场", "年轻人", "过劳"],
-    "c": ["汤臣倍健", "善存"],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 44,
-    "title": "羽毛球品牌降价 高价囤货亏了",
-    "hot_value": 1300000,
-    "url": "https://www.toutiao.com/article/7613000617992208942/",
-    "platform": "微博/抖音",
-    "industries": ["消费", "体育"],
-    "trends": ["热"],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": ["羽毛球", "降价", "运动", "消费降级"],
-    "c": ["汤臣倍健", "善存", "农夫山泉", "百威"],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 45,
-    "title": "汉服踏青成清明假期最火穿搭",
-    "hot_value": 580000,
-    "url": "https://xiaohongshu.com",
-    "platform": "小红书/抖音",
-    "industries": ["穿搭", "旅游"],
-    "trends": ["爆"],
-    "type": "消费趋势",
-    "sentiment": "正面",
-    "keywords": ["汉服", "踏青", "清明", "古风", "拍照打卡"],
-    "c": [],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 46,
-    "title": "短剧市场规模突破500亿",
-    "hot_value": 750000,
-    "url": "https://weibo.com",
-    "platform": "微博/抖音",
-    "industries": ["娱乐"],
-    "trends": ["热"],
-    "type": "商业新闻",
-    "sentiment": "正面",
-    "keywords": ["短剧", "市场规模", "微短剧", "竖屏剧", "内容产业"],
-    "c": [],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 47,
-    "title": "City Walk成为年轻人周末首选",
-    "hot_value": 500000,
-    "url": "https://xiaohongshu.com",
-    "platform": "小红书",
-    "industries": ["旅游", "生活"],
-    "trends": ["热"],
-    "type": "消费趋势",
-    "sentiment": "正面",
-    "keywords": ["City Walk", "城市漫步", "周末", "年轻人", "生活方式"],
-    "c": ["OATLY", "元气森林"],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 48,
-    "title": "松弛感穿搭成2026主流审美",
-    "hot_value": 500000,
-    "url": "https://xiaohongshu.com",
-    "platform": "小红书",
-    "industries": ["穿搭", "时尚"],
-    "trends": ["热"],
-    "type": "消费趋势",
-    "sentiment": "正面",
-    "keywords": ["松弛感", "穿搭", "时尚", "舒适", "不费力时髦"],
-    "c": ["AHC", "力士", "多芬"],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 49,
-    "title": "围炉煮茶成春季社交新方式",
-    "hot_value": 470000,
-    "url": "https://xiaohongshu.com",
-    "platform": "小红书",
-    "industries": ["生活", "美食"],
-    "trends": ["热"],
-    "type": "消费趋势",
-    "sentiment": "正面",
-    "keywords": ["围炉煮茶", "社交", "春季", "慢生活", "仪式感"],
-    "c": ["农夫山泉", "OATLY"],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 50,
-    "title": "大学生特种兵式旅游刷屏",
-    "hot_value": 680000,
-    "url": "https://douyin.com",
-    "platform": "抖音/小红书",
-    "industries": ["旅游"],
-    "trends": ["爆"],
-    "type": "消费趋势",
-    "sentiment": "正面",
-    "keywords": ["特种兵旅游", "大学生", "周末", "打卡", "高效旅行"],
-    "c": ["农夫山泉", "OATLY"],
-    "created_at": "2026-04-01T11:08:00"
-  },
-  {
-    "rank": 51,
-    "title": "宠物经济规模突破3000亿",
-    "hot_value": 530000,
-    "url": "https://weibo.com",
-    "platform": "微博/抖音",
-    "industries": ["经济", "生活"],
-    "trends": ["热"],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": ["宠物经济", "养宠", "猫狗", "宠物食品", "萌宠"],
-    "c": ["希宝", "皇家"],
-    "created_at": "2026-04-01T11:08:00"
-  }
-]
+    "c":
