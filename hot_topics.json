@@ -1,58 +1,5 @@
 [
   {
-    "rank": 10,
-    "title": "打一针就好了成2026最火热梗 职场性骚扰引热议",
-    "hot_value": 280000000,
-    "url": "https://www.toutiao.com/article/7622329985289683496/",
-    "platform": "全网",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "网络热梗",
-    "sentiment": "负面",
-    "keywords": [
-      "打一针就好了",
-      "信达证券",
-      "左前明",
-      "性骚扰",
-      "职场"
-    ],
-    "c": [],
-    "created_at": "2026-04-01T20:05:05"
-  },
-  {
-    "rank": 9,
-    "title": "B站首届AI创作大赛收官 8300份作品播放7亿",
-    "hot_value": 300000000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_64869cc861303652",
-    "platform": "B站/微博",
-    "industries": [
-      "科技",
-      "二次元"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "B站",
-      "AI创作",
-      "updream",
-      "AI动画",
-      "创作者"
-    ],
-    "c": [
-      "小米",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-01T20:05:05"
-  },
-  {
     "rank": 1,
     "title": "6G时代将至 1秒下载4K电影登顶热搜",
     "hot_value": 480000000,
@@ -199,63 +146,7 @@
     "created_at": "2026-04-01T17:41:00"
   },
   {
-    "rank": 1,
-    "title": "6G时代将至 1秒下载4K电影登顶热搜",
-    "hot_value": 480000000,
-    "url": "https://www.toutiao.com/article/7615646502693749258/",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "通信"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "6G",
-      "通信技术",
-      "4K电影",
-      "空天地一体化",
-      "数字经济"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 2,
-    "title": "colorwalk成为2026春季最火生活趋势",
-    "hot_value": 463000000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_27169c9e59946152",
-    "platform": "小红书",
-    "industries": [
-      "旅游",
-      "生活"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "消费趋势",
-    "sentiment": "正面",
-    "keywords": [
-      "colorwalk",
-      "色彩漫步",
-      "春季出游",
-      "小红书"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 3,
+    "rank": 6,
     "title": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
     "hot_value": 320000000,
     "url": "https://c.m.163.com/news/a/KPDSC92E05319YKA.html",
@@ -285,7 +176,60 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 4,
+    "rank": 7,
+    "title": "B站首届AI创作大赛收官 8300份作品播放7亿",
+    "hot_value": 300000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_64869cc861303652",
+    "platform": "B站/微博",
+    "industries": [
+      "科技",
+      "二次元"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "B站",
+      "AI创作",
+      "updream",
+      "AI动画",
+      "创作者"
+    ],
+    "c": [
+      "小米",
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T20:05:05"
+  },
+  {
+    "rank": 8,
+    "title": "打一针就好了成2026最火热梗 职场性骚扰引热议",
+    "hot_value": 280000000,
+    "url": "https://www.toutiao.com/article/7622329985289683496/",
+    "platform": "全网",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "网络热梗",
+    "sentiment": "负面",
+    "keywords": [
+      "打一针就好了",
+      "信达证券",
+      "左前明",
+      "性骚扰",
+      "职场"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T20:05:05"
+  },
+  {
+    "rank": 9,
     "title": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
     "hot_value": 120000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_00469cc4c1d75852",
@@ -314,7 +258,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 5,
+    "rank": 10,
     "title": "李荣浩回应抄袭风波 登热搜第一",
     "hot_value": 85000000,
     "url": "https://news.ycwb.com/ikimvkotkj/content_54041337.htm",
@@ -344,36 +288,7 @@
     "created_at": "2026-04-01T16:35:00"
   },
   {
-    "rank": 6,
-    "title": "瑞幸紫椰子事件 椰肉变色引消费者维权",
-    "hot_value": 85000000,
-    "url": "https://www.toutiao.com/article/7623373554779750955/",
-    "platform": "微博/全网",
-    "industries": [
-      "食品",
-      "消费"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "消费热点",
-    "sentiment": "负面",
-    "keywords": [
-      "瑞幸",
-      "紫椰子",
-      "食品安全",
-      "消费者维权",
-      "椰肉变色"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY",
-      "元气森林"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 7,
+    "rank": 11,
     "title": "郭敬明执导月鳞绮纪空降开播 融合聊斋山海经",
     "hot_value": 78000000,
     "url": "http://k.sina.com.cn/article_5328858693_13d5fee4502002cg9a.html",
@@ -401,7 +316,7 @@
     "created_at": "2026-04-01T16:35:00"
   },
   {
-    "rank": 8,
+    "rank": 12,
     "title": "李湘携王诗龄现身韶山献花 瘦了20斤",
     "hot_value": 68000000,
     "url": "https://www.toutiao.com/article/7623130269016474112/",
@@ -430,7 +345,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 9,
+    "rank": 13,
     "title": "乘风2026乌兰图雅萧蔷等33位女性嘉宾集结",
     "hot_value": 65000000,
     "url": "https://www.bjnews.com.cn/detail/1775006996129026.html",
@@ -460,7 +375,7 @@
     "created_at": "2026-04-01T16:35:00"
   },
   {
-    "rank": 10,
+    "rank": 14,
     "title": "抖音小妹儿方言词被列入敏感词 东北网友炸锅",
     "hot_value": 56000000,
     "url": "https://www.toutiao.com/w/1856871697921224/",
@@ -486,7 +401,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 11,
+    "rank": 15,
     "title": "我要验牌成2026最火网络热梗 播放量破50亿",
     "hot_value": 50000000,
     "url": "https://new.qq.com/rain/a/20260328A03OD700",
@@ -511,7 +426,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 12,
+    "rank": 16,
     "title": "世界数据组织在北京成立 总部设于中国",
     "hot_value": 45000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_00469cc4c1d75852",
@@ -541,7 +456,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 13,
+    "rank": 17,
     "title": "夯爆了成为2026开年热门词汇 形容场面震撼",
     "hot_value": 42000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_55269b5781796652",
@@ -565,7 +480,7 @@
     "created_at": "2026-04-01T16:35:00"
   },
   {
-    "rank": 14,
+    "rank": 18,
     "title": "鞠婧祎丝芭传媒纠纷再上热搜 税务局回应",
     "hot_value": 42000000,
     "url": "http://news.10jqka.com.cn/20260401/c675687275.shtml",
@@ -593,7 +508,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 15,
+    "rank": 19,
     "title": "活人感成2026流行词 指真实自然不刻意伪装",
     "hot_value": 38000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_55269b5781796652",
@@ -621,7 +536,7 @@
     "created_at": "2026-04-01T16:35:00"
   },
   {
-    "rank": 16,
+    "rank": 20,
     "title": "品牌收地球使用费上热搜 网友吵翻",
     "hot_value": 38000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_34669cca7d917852",
@@ -649,7 +564,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 17,
+    "rank": 21,
     "title": "今年蚊子或迎史诗级加强 疾控部门紧急提醒",
     "hot_value": 35000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_36269cc973816252",
@@ -677,7 +592,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 18,
+    "rank": 22,
     "title": "丙午年黄帝故里云拜祖平台上线 全球华人可网上拜祖",
     "hot_value": 32000000,
     "url": "http://www.sohu.com/a/1003818786_120575855",
@@ -705,7 +620,7 @@
     "created_at": "2026-04-01T16:35:00"
   },
   {
-    "rank": 19,
+    "rank": 23,
     "title": "抖音女子网购18K项链火烧变黑 检测含铜70%",
     "hot_value": 32000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_89569cc841c14552",
@@ -730,7 +645,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 20,
+    "rank": 24,
     "title": "2026美白精华怎么选 热门产品与成分参考指南",
     "hot_value": 28000000,
     "url": "http://k.sina.com.cn/article_7857141524_1d452771401901sjzy.html",
@@ -759,7 +674,7 @@
     "created_at": "2026-04-01T16:35:00"
   },
   {
-    "rank": 21,
+    "rank": 25,
     "title": "澳洲优思益被曝光为纯国产 抖音天猫店铺暂停营业",
     "hot_value": 28000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_98269cc93ba10452",
@@ -787,7 +702,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 22,
+    "rank": 26,
     "title": "射手座2026年4月运势 关系洗牌期动荡也是重启",
     "hot_value": 25000000,
     "url": "https://new.qq.com/rain/a/20260401A02C6400",
@@ -815,7 +730,7 @@
     "created_at": "2026-04-01T16:35:00"
   },
   {
-    "rank": 23,
+    "rank": 27,
     "title": "抖音发布未来导演扶持计划 100亿流量池",
     "hot_value": 25000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_08569cc83fa42152",
@@ -843,7 +758,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 24,
+    "rank": 28,
     "title": "4月1日起全国严查后排未系安全带 违规将处罚",
     "hot_value": 22000000,
     "url": "http://weibo.com/u/2253882770",
@@ -871,7 +786,7 @@
     "created_at": "2026-04-01T16:35:00"
   },
   {
-    "rank": 25,
+    "rank": 29,
     "title": "物业费按平米收引热议 2026新规炸场",
     "hot_value": 20000000,
     "url": "https://www.toutiao.com/article/7617786005147353652/",
@@ -896,7 +811,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 26,
+    "rank": 30,
     "title": "雅迪宣布4月1日起全品类产品涨价超300元",
     "hot_value": 18000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_53469cc5c4f31865",
@@ -923,7 +838,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 27,
+    "rank": 31,
     "title": "万物皆可郁金香",
     "hot_value": 15000000,
     "url": "https://www.iesdouyin.com/share/billboard/",
@@ -946,7 +861,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 28,
+    "rank": 32,
     "title": "NBA反摆烂新方案 奇才爵士上演奥斯卡表演",
     "hot_value": 14000000,
     "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qb8o.html",
@@ -972,7 +887,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 29,
+    "rank": 33,
     "title": "东鹏饮料怎么了",
     "hot_value": 12099984,
     "url": "https://www.douyin.com/search/%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E6%80%8E%E4%B9%88%E4%BA%86",
@@ -992,7 +907,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 30,
+    "rank": 34,
     "title": "四月第一天",
     "hot_value": 11823222,
     "url": "https://www.douyin.com/search/%E5%9B%9B%E6%9C%88%E7%AC%AC%E4%B8%80%E5%A4%A9",
@@ -1012,7 +927,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 31,
+    "rank": 35,
     "title": "四月起这些新规影响你我生活",
     "hot_value": 11450252,
     "url": "https://www.douyin.com/search/%E5%9B%9B%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB",
@@ -1032,7 +947,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 32,
+    "rank": 36,
     "title": "詹姆斯开场追帽米切尔",
     "hot_value": 11369921,
     "url": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%80%E5%9C%BA%E8%BF%BD%E5%B8%BD%E7%B1%B3%E5%88%87%E5%B0%94",
@@ -1052,7 +967,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 33,
+    "rank": 37,
     "title": "海空卫士王伟牺牲25周年",
     "hot_value": 10638730,
     "url": "https://www.douyin.com/search/%E6%B5%B7%E7%A9%BA%E5%8D%AB%E5%A3%AB%E7%8E%8B%E4%BC%9F%E7%89%BA%E7%89%B225%E5%91%A8%E5%B9%B4",
@@ -1072,7 +987,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 34,
+    "rank": 38,
     "title": "法国车手感谢张雪机车成就梦想",
     "hot_value": 10548155,
     "url": "https://www.douyin.com/search/%E6%B3%95%E5%9B%BD%E8%BD%A6%E6%89%8B%E6%84%9F%E8%B0%A2%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%88%90%E5%B0%B1%E6%A2%A6%E6%83%B3",
@@ -1092,7 +1007,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 35,
+    "rank": 39,
     "title": "4月1日起全国严查后排未系安全带",
     "hot_value": 9500000,
     "url": "http://weibo.com/u/2934114502",
@@ -1116,7 +1031,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 36,
+    "rank": 40,
     "title": "张雪：正在筹备达喀尔拉力赛",
     "hot_value": 9426656,
     "url": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%AA%EF%BC%9A%E6%AD%A3%E5%9C%A8%E7%AD%B9%E5%A4%87%E8%BE%BE%E5%96%80%E5%B0%94%E6%8B%89%E5%8A%9B%E8%B5%9B",
@@ -1136,7 +1051,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 37,
+    "rank": 41,
     "title": "安布罗西尼评意大利出局",
     "hot_value": 9300123,
     "url": "https://www.douyin.com/search/%E5%AE%89%E5%B8%83%E7%BD%97%E8%A5%BF%E5%B0%BC%E8%AF%84%E6%84%8F%E5%A4%A7%E5%88%A9%E5%87%BA%E5%B1%80",
@@ -1156,7 +1071,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 38,
+    "rank": 42,
     "title": "苑举正解读郑丽文将访问大陆",
     "hot_value": 9205073,
     "url": "https://www.douyin.com/search/%E8%8B%91%E4%B8%BE%E6%AD%A3%E8%A7%A3%E8%AF%BB%E9%83%91%E4%B8%BD%E6%96%87%E5%B0%86%E8%AE%BF%E9%97%AE%E5%A4%A7%E9%99%86",
@@ -1176,7 +1091,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 39,
+    "rank": 43,
     "title": "日本1:0英格兰",
     "hot_value": 9199254,
     "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC1%3A0%E8%8B%B1%E6%A0%BC%E5%85%B0",
@@ -1196,7 +1111,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 40,
+    "rank": 44,
     "title": "意大利连续3届无缘世界杯",
     "hot_value": 9151723,
     "url": "https://www.douyin.com/search/%E6%84%8F%E5%A4%A7%E5%88%A9%E8%BF%9E%E7%BB%AD3%E5%B1%8A%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF",
@@ -1216,7 +1131,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 41,
+    "rank": 45,
     "title": "全面开展国有馆藏文物盘库清点",
     "hot_value": 9129092,
     "url": "https://www.douyin.com/search/%E5%85%A8%E9%9D%A2%E5%BC%80%E5%B1%95%E5%9B%BD%E6%9C%89%E9%A6%86%E8%97%8F%E6%96%87%E7%89%A9%E7%9B%98%E5%BA%93%E6%B8%85%E7%82%B9",
@@ -1236,7 +1151,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 42,
+    "rank": 46,
     "title": "开拓者官宣易主",
     "hot_value": 9113742,
     "url": "https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85%E5%AE%98%E5%AE%A3%E6%98%93%E4%B8%BB",
@@ -1256,7 +1171,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 43,
+    "rank": 47,
     "title": "2026北京郁金香文化节4月3日启幕",
     "hot_value": 9000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_88269cc563a73852",
@@ -1285,7 +1200,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 44,
+    "rank": 48,
     "title": "神行者FREELANDER独立品牌全球首秀",
     "hot_value": 8500000,
     "url": "https://new.qq.com/rain/a/20260331A088ZQ00",
@@ -1315,7 +1230,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 45,
+    "rank": 49,
     "title": "伊朗愿在诉求满足下结束战争",
     "hot_value": 8109917,
     "url": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E6%84%BF%E5%9C%A8%E8%AF%89%E6%B1%82%E6%BB%A1%E8%B6%B3%E4%B8%8B%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89",
@@ -1335,7 +1250,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 46,
+    "rank": 50,
     "title": "先让自己乐起来",
     "hot_value": 7802841,
     "url": "https://www.douyin.com/search/%E5%85%88%E8%AE%A9%E8%87%AA%E5%B7%B1%E4%B9%90%E8%B5%B7%E6%9D%A5",
@@ -1355,7 +1270,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 47,
+    "rank": 51,
     "title": "张元英复仇摇杀死比赛",
     "hot_value": 7741742,
     "url": "https://www.douyin.com/search/%E5%BC%A0%E5%85%83%E8%8B%B1%E5%A4%8D%E4%BB%87%E6%91%87%E6%9D%80%E6%AD%BB%E6%AF%94%E8%B5%9B",
@@ -1375,7 +1290,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 48,
+    "rank": 52,
     "title": "陈妍希工作室发文",
     "hot_value": 7727750,
     "url": "https://www.douyin.com/search/%E9%99%88%E5%A6%8D%E5%B8%8C%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%96%87",
@@ -1395,7 +1310,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 49,
+    "rank": 53,
     "title": "月鳞绮纪OST听声识人",
     "hot_value": 7707151,
     "url": "https://www.douyin.com/search/%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AAOST%E5%90%AC%E5%A3%B0%E8%AF%86%E4%BA%BA",
@@ -1415,7 +1330,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 50,
+    "rank": 54,
     "title": "被土豆的普通话戳到笑点",
     "hot_value": 7701159,
     "url": "https://www.douyin.com/search/%E8%A2%AB%E5%9C%9F%E8%B1%86%E7%9A%84%E6%99%AE%E9%80%9A%E8%AF%9D%E6%88%B3%E5%88%B0%E7%AC%91%E7%82%B9",
@@ -1435,7 +1350,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 51,
+    "rank": 55,
     "title": "贺峻霖世界倒数第一忧郁的人",
     "hot_value": 7700420,
     "url": "https://www.douyin.com/search/%E8%B4%BA%E5%B3%BB%E9%9C%96%E4%B8%96%E7%95%8C%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%E5%BF%A7%E9%83%81%E7%9A%84%E4%BA%BA",
@@ -1455,7 +1370,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 52,
+    "rank": 56,
     "title": "美加墨世界杯48支参赛球队确定",
     "hot_value": 7700146,
     "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF48%E6%94%AF%E5%8F%82%E8%B5%9B%E7%90%83%E9%98%9F%E7%A1%AE%E5%AE%9A",
@@ -1475,7 +1390,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 53,
+    "rank": 57,
     "title": "五哈6定档0404",
     "hot_value": 7698278,
     "url": "https://www.douyin.com/search/%E4%BA%94%E5%93%886%E5%AE%9A%E6%A1%A30404",
@@ -1495,7 +1410,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 54,
+    "rank": 58,
     "title": "严浩翔新歌上线",
     "hot_value": 7691535,
     "url": "https://www.douyin.com/search/%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF",
@@ -1515,7 +1430,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 55,
+    "rank": 59,
     "title": "最是人间四月天",
     "hot_value": 7685972,
     "url": "https://www.douyin.com/search/%E6%9C%80%E6%98%AF%E4%BA%BA%E9%97%B4%E5%9B%9B%E6%9C%88%E5%A4%A9",
@@ -1535,7 +1450,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 56,
+    "rank": 60,
     "title": "逐玉造型指导回应造型争议",
     "hot_value": 7684045,
     "url": "https://www.douyin.com/search/%E9%80%90%E7%8E%89%E9%80%A0%E5%9E%8B%E6%8C%87%E5%AF%BC%E5%9B%9E%E5%BA%94%E9%80%A0%E5%9E%8B%E4%BA%89%E8%AE%AE",
@@ -1555,7 +1470,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 57,
+    "rank": 61,
     "title": "徐良把演唱会办成年会第一人",
     "hot_value": 7676341,
     "url": "https://www.douyin.com/search/%E5%BE%90%E8%89%AF%E6%8A%8A%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8A%9E%E6%88%90%E5%B9%B4%E4%BC%9A%E7%AC%AC%E4%B8%80%E4%BA%BA",
@@ -1575,7 +1490,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 58,
+    "rank": 62,
     "title": "CORTIS互相模仿太抽象了",
     "hot_value": 7668391,
     "url": "https://www.douyin.com/search/CORTIS%E4%BA%92%E7%9B%B8%E6%A8%A1%E4%BB%BF%E5%A4%AA%E6%8A%BD%E8%B1%A1%E4%BA%86",
@@ -1595,7 +1510,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 59,
+    "rank": 63,
     "title": "人生何止有终不似少年游",
     "hot_value": 7662659,
     "url": "https://www.douyin.com/search/%E4%BA%BA%E7%94%9F%E4%BD%95%E6%AD%A2%E6%9C%89%E7%BB%88%E4%B8%8D%E4%BC%BC%E5%B0%91%E5%B9%B4%E6%B8%B8",
@@ -1615,7 +1530,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 60,
+    "rank": 64,
     "title": "抖音荒野垂钓季",
     "hot_value": 7660461,
     "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E8%8D%92%E9%87%8E%E5%9E%82%E9%92%93%E5%AD%A3",
@@ -1635,7 +1550,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 61,
+    "rank": 65,
     "title": "乘风2026初舞台预测",
     "hot_value": 7657747,
     "url": "https://www.douyin.com/search/%E4%B9%98%E9%A3%8E2026%E5%88%9D%E8%88%9E%E5%8F%B0%E9%A2%84%E6%B5%8B",
@@ -1655,7 +1570,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 62,
+    "rank": 66,
     "title": "张国荣逝世23周年",
     "hot_value": 7656886,
     "url": "https://www.douyin.com/search/%E5%BC%A0%E5%9B%BD%E8%8D%A3%E9%80%9D%E4%B8%9623%E5%91%A8%E5%B9%B4",
@@ -1675,7 +1590,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 63,
+    "rank": 67,
     "title": "古天乐周润发首次合作",
     "hot_value": 7654762,
     "url": "https://www.douyin.com/search/%E5%8F%A4%E5%A4%A9%E4%B9%90%E5%91%A8%E6%B6%A6%E5%8F%91%E9%A6%96%E6%AC%A1%E5%90%88%E4%BD%9C",
@@ -1695,7 +1610,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 64,
+    "rank": 68,
     "title": "微胖女生也要做春日时髦精",
     "hot_value": 7644000,
     "url": "https://www.douyin.com/search/%E5%BE%AE%E8%83%96%E5%A5%B3%E7%94%9F%E4%B9%9F%E8%A6%81%E5%81%9A%E6%98%A5%E6%97%A5%E6%97%B6%E9%AB%A6%E7%B2%BE",
@@ -1715,7 +1630,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 65,
+    "rank": 69,
     "title": "一条娱评细品白日提灯里的细糠",
     "hot_value": 7641862,
     "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E5%A8%B1%E8%AF%84%E7%BB%86%E5%93%81%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E9%87%8C%E7%9A%84%E7%BB%86%E7%B3%A0",
@@ -1735,7 +1650,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 66,
+    "rank": 70,
     "title": "电影三心两意定档",
     "hot_value": 7629250,
     "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E4%B8%89%E5%BF%83%E4%B8%A4%E6%84%8F%E5%AE%9A%E6%A1%A3",
@@ -1755,7 +1670,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 67,
+    "rank": 71,
     "title": "家事法庭这波冲爷奶来的",
     "hot_value": 7627988,
     "url": "https://www.douyin.com/search/%E5%AE%B6%E4%BA%8B%E6%B3%95%E5%BA%AD%E8%BF%99%E6%B3%A2%E5%86%B2%E7%88%B7%E5%A5%B6%E6%9D%A5%E7%9A%84",
@@ -1775,7 +1690,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 68,
+    "rank": 72,
     "title": "冬去春来胜利庄庄纯爱初吻",
     "hot_value": 7627441,
     "url": "https://www.douyin.com/search/%E5%86%AC%E5%8E%BB%E6%98%A5%E6%9D%A5%E8%83%9C%E5%88%A9%E5%BA%84%E5%BA%84%E7%BA%AF%E7%88%B1%E5%88%9D%E5%90%BB",
@@ -1795,7 +1710,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 69,
+    "rank": 73,
     "title": "丁程鑫红发绿发都整上了",
     "hot_value": 7625828,
     "url": "https://www.douyin.com/search/%E4%B8%81%E7%A8%8B%E9%91%AB%E7%BA%A2%E5%8F%91%E7%BB%BF%E5%8F%91%E9%83%BD%E6%95%B4%E4%B8%8A%E4%BA%86",
@@ -1815,7 +1730,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 70,
+    "rank": 74,
     "title": "逐玉大结局的门是我关的",
     "hot_value": 7625331,
     "url": "https://www.douyin.com/search/%E9%80%90%E7%8E%89%E5%A4%A7%E7%BB%93%E5%B1%80%E7%9A%84%E9%97%A8%E6%98%AF%E6%88%91%E5%85%B3%E7%9A%84",
@@ -1835,7 +1750,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "title": "鸣潮绯雪达妮娅实机演示",
     "hot_value": 7623804,
     "url": "https://www.douyin.com/search/%E9%B8%A3%E6%BD%AE%E7%BB%AF%E9%9B%AA%E8%BE%BE%E5%A6%AE%E5%A8%85%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
@@ -1855,7 +1770,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 72,
+    "rank": 76,
     "title": "冬去春来楚老板帮冉冉解围",
     "hot_value": 7623516,
     "url": "https://www.douyin.com/search/%E5%86%AC%E5%8E%BB%E6%98%A5%E6%9D%A5%E6%A5%9A%E8%80%81%E6%9D%BF%E5%B8%AE%E5%86%89%E5%86%89%E8%A7%A3%E5%9B%B4",
@@ -1875,7 +1790,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 73,
+    "rank": 77,
     "title": "危险关系看得拳头硬了",
     "hot_value": 7622705,
     "url": "https://www.douyin.com/search/%E5%8D%B1%E9%99%A9%E5%85%B3%E7%B3%BB%E7%9C%8B%E5%BE%97%E6%8B%B3%E5%A4%B4%E7%A1%AC%E4%BA%86",
@@ -1895,7 +1810,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 74,
+    "rank": 78,
     "title": "孙俪新剧首播观后感",
     "hot_value": 7622626,
     "url": "https://www.douyin.com/search/%E5%AD%99%E4%BF%AA%E6%96%B0%E5%89%A7%E9%A6%96%E6%92%AD%E8%A7%82%E5%90%8E%E6%84%9F",
@@ -1915,7 +1830,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 75,
+    "rank": 79,
     "title": "白日提灯贺思慕残血反杀看爽了",
     "hot_value": 7621980,
     "url": "https://www.douyin.com/search/%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E8%B4%BA%E6%80%9D%E6%85%95%E6%AE%8B%E8%A1%80%E5%8F%8D%E6%9D%80%E7%9C%8B%E7%88%BD%E4%BA%86",
@@ -1935,7 +1850,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 76,
+    "rank": 80,
     "title": "吴克群帮果农摘草莓",
     "hot_value": 7615966,
     "url": "https://www.douyin.com/search/%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E6%9E%9C%E5%86%9C%E6%91%98%E8%8D%89%E8%8E%93",
@@ -1955,7 +1870,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 77,
+    "rank": 81,
     "title": "看白日提灯嗑坟围感情侣",
     "hot_value": 7611138,
     "url": "https://www.douyin.com/search/%E7%9C%8B%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E5%97%91%E5%9D%9F%E5%9B%B4%E6%84%9F%E6%83%85%E4%BE%A3",
@@ -1975,7 +1890,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 78,
+    "rank": 82,
     "title": "女科学家硬核跨界做短剧课堂",
     "hot_value": 7610237,
     "url": "https://www.douyin.com/search/%E5%A5%B3%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A1%AC%E6%A0%B8%E8%B7%A8%E7%95%8C%E5%81%9A%E7%9F%AD%E5%89%A7%E8%AF%BE%E5%A0%82",
@@ -1995,7 +1910,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 79,
+    "rank": 83,
     "title": "王者荣耀世界英雄PV",
     "hot_value": 7608892,
     "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E8%8B%B1%E9%9B%84PV",
@@ -2015,7 +1930,7 @@
     "created_at": "2026-04-01T14:36:39"
   },
   {
-    "rank": 80,
+    "rank": 84,
     "title": "两艘国产大型邮轮同框 爱达魔都号与花城号",
     "hot_value": 7200000,
     "url": "http://weibo.com/u/2149981442/",
@@ -2043,7 +1958,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 81,
+    "rank": 85,
     "title": "斯诺克世界第一特鲁姆普与花滑女神马晓晴疑似分手",
     "hot_value": 6800000,
     "url": "https://www.sohu.com/a/1003375150_121909538",
@@ -2071,7 +1986,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 82,
+    "rank": 86,
     "title": "美国星链卫星失联 太空探索技术公司调查中",
     "hot_value": 6000000,
     "url": "http://weibo.com/u/2149981442/",
@@ -2099,7 +2014,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 83,
+    "rank": 87,
     "title": "2026LPL第二赛段赛程公布 4月4日开赛",
     "hot_value": 5500000,
     "url": "http://weibo.com/u/5756404150",
@@ -2126,7 +2041,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 84,
+    "rank": 88,
     "title": "张国荣逝世23周年 螺蛳粉哥发文纪念",
     "hot_value": 5000000,
     "url": "http://weibo.com/u/2688504554",
@@ -2154,7 +2069,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 85,
+    "rank": 89,
     "title": "超级厄尔尼诺来袭 2026或成史上最热年",
     "hot_value": 5000000,
     "url": "https://finance.sina.com.cn/jjxw/2026-04-01/doc-inhsxvfm8772012.shtml",
@@ -2184,7 +2099,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 86,
+    "rank": 90,
     "title": "B站首届AI创作大赛收官 8300份作品播放7亿 updream内测",
     "hot_value": 4200000,
     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903upvm.html",
@@ -2213,7 +2128,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 87,
+    "rank": 91,
     "title": "上海乒乓球嘉年华4月12日开幕",
     "hot_value": 3800000,
     "url": "https://new.qq.com/rain/a/20260331A06V5500",
@@ -2242,7 +2157,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 88,
+    "rank": 92,
     "title": "小米SU7交付量突破10万台",
     "hot_value": 3600000,
     "url": "https://weibo.com",
@@ -2269,7 +2184,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 89,
+    "rank": 93,
     "title": "清明春假黄金周 赏花踏青出行爆发",
     "hot_value": 3500000,
     "url": "http://cn.chinadaily.com.cn/a/202603/WS69ca3166a310942cc49a59c6.html",
@@ -2301,7 +2216,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 90,
+    "rank": 94,
     "title": "愚人节",
     "hot_value": 3500000,
     "url": "https://weibo.com",
@@ -2324,7 +2239,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 91,
+    "rank": 95,
     "title": "深圳美术馆清明假期正常开放",
     "hot_value": 3500000,
     "url": "http://weibo.com/u/2934114502",
@@ -2351,7 +2266,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 92,
+    "rank": 96,
     "title": "打一针就好了成2026最火热梗",
     "hot_value": 3200000,
     "url": "https://www.toutiao.com/article/7622329985289683496/",
@@ -2375,7 +2290,7 @@
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 93,
+    "rank": 97,
     "title": "《黑神话：悟空》DLC预告发布",
     "hot_value": 3200000,
     "url": "https://bilibili.com",
