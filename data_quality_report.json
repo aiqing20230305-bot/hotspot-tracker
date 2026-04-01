@@ -1,0 +1,218 @@
+{
+  "report_generated_at": "2026-04-01T20:17:00Z",
+  "summary": {
+    "overall_health": "良好",
+    "total_datasets": 3,
+    "datasets_with_issues": 2,
+    "critical_issues": 0,
+    "warnings": 4
+  },
+  "datasets": {
+    "client_ideas.json": {
+      "score": 75,
+      "record_count": 121,
+      "issues": [
+        {
+          "severity": "warning",
+          "type": "字段缺失",
+          "description": "hot_topic_id 字段在所有记录中均为 null，未能与热点话题建立关联",
+          "affected_records": 121,
+          "suggestion": "建议在后续处理中填充 hot_topic_id，以实现创意与热点的关联追踪"
+        },
+        {
+          "severity": "warning",
+          "type": "数据新鲜度",
+          "description": "数据创建时间集中在两个时间点（19:04:14 和 20:05:59），缺少持续更新",
+          "suggestion": "建议建立定期更新机制，避免数据批量生成后的停滞"
+        },
+        {
+          "severity": "info",
+          "type": "分类分布",
+          "description": "平台分布合理，覆盖全平台、抖音、微博、小红书、B站等主流平台",
+          "distribution": {
+            "全平台": 20,
+            "抖音": 22,
+            "微博": 18,
+            "小红书": 15,
+            "B站": 16,
+            "快手": 14,
+            "视频号": 10,
+            "知乎": 6
+          }
+        }
+      ],
+      "field_completeness": {
+        "id": 100,
+        "client": 100,
+        "title": 100,
+        "platform": 100,
+        "angle": 100,
+        "hot_topic": 100,
+        "heat": 100,
+        "trend": 100,
+        "product": 100,
+        "engagement_estimate": 100,
+        "status": 100,
+        "created_at": 100,
+        "hot_topic_id": 0,
+        "keywords": 100
+      },
+      "recommendations": [
+        "补充 hot_topic_id 字段，建立与热点话题的关联关系",
+        "建立定期更新机制，保持数据新鲜度",
+        "考虑增加创意执行状态字段（如：已采用、已审核、已拒绝）"
+      ]
+    },
+    "hot_topics.json": {
+      "score": 85,
+      "record_count": 93,
+      "issues": [
+        {
+          "severity": "info",
+          "type": "数据新鲜度",
+          "description": "数据更新时间在当天（2026-04-01），数据新鲜度良好",
+          "latest_update": "2026-04-01T20:05:05",
+          "oldest_update": "2026-04-01T13:13:00"
+        },
+        {
+          "severity": "warning",
+          "type": "数据重复",
+          "description": "发现3条热点话题重复（标题相同，热度不同）",
+          "duplicates": [
+            {
+              "title": "6G时代将至 1秒下载4K电影登顶热搜",
+              "occurrences": 2,
+              "hot_values": [480000000, 480000000],
+              "ranks": [1, 1]
+            },
+            {
+              "title": "colorwalk成为2026春季最火生活趋势",
+              "occurrences": 2,
+              "hot_values": [350000000, 463000000],
+              "ranks": [5, 2]
+            },
+            {
+              "title": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+              "occurrences": 2,
+              "hot_values": [420000000, 85000000],
+              "ranks": [3, 6]
+            }
+          ],
+          "suggestion": "建议合并重复热点，保留热度最高和最新的版本"
+        },
+        {
+          "severity": "info",
+          "type": "分类分布",
+          "description": "热点类型分布合理，覆盖科技、娱乐、社会、体育等多个领域",
+          "distribution": {
+            "科技热点": 12,
+            "娱乐热点": 18,
+            "社会热点": 25,
+            "体育热点": 8,
+            "消费热点": 12,
+            "国际热点": 5,
+            "网络热梗": 8,
+            "节日热点": 1,
+            "活动热点": 4
+          }
+        }
+      ],
+      "field_completeness": {
+        "rank": 100,
+        "title": 100,
+        "hot_value": 100,
+        "url": 100,
+        "platform": 100,
+        "industries": 100,
+        "trends": 100,
+        "type": 100,
+        "sentiment": 100,
+        "keywords": 100,
+        "c": 100,
+        "created_at": 100
+      },
+      "recommendations": [
+        "实现热点去重逻辑，合并重复热点",
+        "考虑增加热点生命周期字段（如：爆发期、持续期、衰退期）",
+        "添加热点趋势变化追踪字段"
+      ]
+    },
+    "sku_scenarios.json": {
+      "score": 95,
+      "record_count": 26880,
+      "issues": [
+        {
+          "severity": "info",
+          "type": "数据量",
+          "description": "数据量巨大，共26880条场景记录，超过了目标数量（8200）",
+          "expansion_info": {
+            "original_count": 285,
+            "target_count": 8200,
+            "actual_count": 26880,
+            "templates_used": ["开箱测评", "产品讲解", "使用教程", "产品对比"]
+          }
+        },
+        {
+          "severity": "info",
+          "type": "字段完整性",
+          "description": "所有字段完整度100%，无缺失字段"
+        },
+        {
+          "severity": "info",
+          "type": "分类分布",
+          "description": "场景类型分布均衡，覆盖开箱测评、产品讲解、使用教程、产品对比四大类型",
+          "distribution": {
+            "开箱测评": 6720,
+            "产品讲解": 6720,
+            "使用教程": 6720,
+            "产品对比": 6720
+          }
+        }
+      ],
+      "field_complepleteness": {
+        "id": 100,
+        "client": 100,
+        "product": 100,
+        "industry": 100,
+        "scenario_type": 100,
+        "description": 100,
+        "content_angle": 100,
+        "style": 100,
+        "target_audience": 100,
+        "keywords": 100
+      },
+      "recommendations": [
+        "数据量过大可能导致性能问题，建议分批处理或建立索引",
+        "考虑增加场景优先级或评分字段",
+        "添加场景使用记录字段，追踪场景的实际应用情况"
+      ]
+    }
+  },
+  "cross_dataset_analysis": {
+    "relationships": {
+      "client_ideas_to_hot_topics": {
+        "status": "未建立",
+        "description": "client_ideas 中的 hot_topic_id 全部为 null，未能与 hot_topics 建立关联",
+        "recommendation": "通过热点标题匹配，填充 hot_topic_id 字段"
+      },
+      "client_ideas_to_sku_scenarios": {
+        "status": "可建立",
+        "description": "client_ideas 和 sku_scenarios 都有 client 和 product 字段，可以建立关联",
+        "potential_joins": 121
+      }
+    },
+    "data_consistency": {
+      "clients": {
+        "total_unique_clients": 15,
+        "clients_in_all_datasets": ["荣耀", "罗技", "小米", "索尼", "AHC", "多芬", "力士", "清扬", "玉兰油", "汤臣倍健", "善存", "HC", "威猛先生", "舒适", "希宝", "皇家", "OATLY", "百威", "元气森林", "农夫山泉"]
+      }
+    }
+  },
+  "overall_recommendations": [
+    "建立数据关联机制：填充 client_ideas 的 hot_topic_id 字段，实现热点与创意的关联",
+    "实现数据去重：特别是 hot_topics 中的重复热点需要合并处理",
+    "优化数据更新策略：建立定期更新机制，避免数据停滞",
+    "性能优化：sku_scenarios 数据量巨大，建议分批处理或建立索引",
+    "数据生命周期管理：为关键数据添加状态字段和生命周期追踪"
+  ]
+}
