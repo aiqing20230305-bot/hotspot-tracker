@@ -1,3422 +1,3427 @@
-[
-  {
-    "client": "荣耀",
-    "product": "荣耀手机",
-    "scenario_type": "痛点场景",
-    "description": "用户使用荣耀产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "专家",
-      "趋势",
-      "场景"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀手机",
-    "scenario_type": "情感场景",
-    "description": "荣耀产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "优惠",
-      "情感",
-      "趋势"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀手机",
-    "scenario_type": "使用场景",
-    "description": "荣耀产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "联名",
-      "专家",
-      "情感"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀手机",
-    "scenario_type": "联名场景",
-    "description": "荣耀产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "趋势",
-      "故事",
-      "痛点"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀手机",
-    "scenario_type": "促销场景",
-    "description": "荣耀产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "情感",
-      "场景",
-      "痛点"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀平板",
-    "scenario_type": "痛点场景",
-    "description": "用户使用荣耀产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "情感",
-      "热点"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀平板",
-    "scenario_type": "情感场景",
-    "description": "荣耀产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "故事",
-      "联名"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀平板",
-    "scenario_type": "使用场景",
-    "description": "荣耀产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "优惠",
-      "场景",
-      "情感"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀平板",
-    "scenario_type": "联名场景",
-    "description": "荣耀产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "情感",
-      "专家",
-      "热点"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀平板",
-    "scenario_type": "促销场景",
-    "description": "荣耀产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "场景",
-      "痛点",
-      "优惠"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀耳机",
-    "scenario_type": "痛点场景",
-    "description": "用户使用荣耀产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "场景",
-      "故事",
-      "专家"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀耳机",
-    "scenario_type": "情感场景",
-    "description": "荣耀产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "故事",
-      "场景",
-      "优惠"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀耳机",
-    "scenario_type": "使用场景",
-    "description": "荣耀产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "热点",
-      "趋势",
-      "专家"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀耳机",
-    "scenario_type": "联名场景",
-    "description": "荣耀产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "热点",
-      "趋势",
-      "联名"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀耳机",
-    "scenario_type": "促销场景",
-    "description": "荣耀产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "痛点",
-      "情感",
-      "故事"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀手表",
-    "scenario_type": "痛点场景",
-    "description": "用户使用荣耀产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "优惠",
-      "痛点",
-      "趋势"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀手表",
-    "scenario_type": "情感场景",
-    "description": "荣耀产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "联名",
-      "故事"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀手表",
-    "scenario_type": "使用场景",
-    "description": "荣耀产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "趋势",
-      "场景",
-      "痛点"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀手表",
-    "scenario_type": "联名场景",
-    "description": "荣耀产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "热点",
-      "专家",
-      "情感"
-    ]
-  },
-  {
-    "client": "荣耀",
-    "product": "荣耀手表",
-    "scenario_type": "促销场景",
-    "description": "荣耀产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "联名",
-      "情感",
-      "热点"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技键鼠",
-    "scenario_type": "痛点场景",
-    "description": "用户使用罗技产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "热点",
-      "故事",
-      "趋势"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技键鼠",
-    "scenario_type": "情感场景",
-    "description": "罗技产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "情感",
-      "趋势",
-      "场景"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技键鼠",
-    "scenario_type": "使用场景",
-    "description": "罗技产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "专家",
-      "故事",
-      "热点"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技键鼠",
-    "scenario_type": "联名场景",
-    "description": "罗技产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "情感",
-      "专家",
-      "联名"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技键鼠",
-    "scenario_type": "促销场景",
-    "description": "罗技产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "趋势",
-      "痛点",
-      "优惠"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技摄像头",
-    "scenario_type": "痛点场景",
-    "description": "用户使用罗技产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "优惠",
-      "场景",
-      "热点"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技摄像头",
-    "scenario_type": "情感场景",
-    "description": "罗技产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "趋势",
-      "故事"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技摄像头",
-    "scenario_type": "使用场景",
-    "description": "罗技产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "联名",
-      "场景"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技摄像头",
-    "scenario_type": "联名场景",
-    "description": "罗技产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "趋势",
-      "场景",
-      "优惠"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技摄像头",
-    "scenario_type": "促销场景",
-    "description": "罗技产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "联名",
-      "对比",
-      "情感"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技音箱",
-    "scenario_type": "痛点场景",
-    "description": "用户使用罗技产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "优惠",
-      "热点",
-      "场景"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技音箱",
-    "scenario_type": "情感场景",
-    "description": "罗技产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "情感",
-      "专家"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技音箱",
-    "scenario_type": "使用场景",
-    "description": "罗技产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "优惠",
-      "故事",
-      "趋势"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技音箱",
-    "scenario_type": "联名场景",
-    "description": "罗技产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "优惠",
-      "情感",
-      "场景"
-    ]
-  },
-  {
-    "client": "罗技",
-    "product": "罗技音箱",
-    "scenario_type": "促销场景",
-    "description": "罗技产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "故事",
-      "专家",
-      "热点"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米手机",
-    "scenario_type": "痛点场景",
-    "description": "用户使用小米产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "联名",
-      "故事",
-      "对比"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米手机",
-    "scenario_type": "情感场景",
-    "description": "小米产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "对比",
-      "场景"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米手机",
-    "scenario_type": "使用场景",
-    "description": "小米产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "故事",
-      "趋势",
-      "痛点"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米手机",
-    "scenario_type": "联名场景",
-    "description": "小米产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "热点",
-      "故事",
-      "联名"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米手机",
-    "scenario_type": "促销场景",
-    "description": "小米产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "联名",
-      "对比",
-      "专家"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米平板",
-    "scenario_type": "痛点场景",
-    "description": "用户使用小米产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "优惠",
-      "专家",
-      "对比"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米平板",
-    "scenario_type": "情感场景",
-    "description": "小米产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "优惠",
-      "联名"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米平板",
-    "scenario_type": "使用场景",
-    "description": "小米产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "故事",
-      "趋势",
-      "痛点"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米平板",
-    "scenario_type": "联名场景",
-    "description": "小米产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "联名",
-      "优惠",
-      "故事"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米平板",
-    "scenario_type": "促销场景",
-    "description": "小米产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "场景",
-      "专家",
-      "优惠"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米智能家居",
-    "scenario_type": "痛点场景",
-    "description": "用户使用小米产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "热点",
-      "痛点"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米智能家居",
-    "scenario_type": "情感场景",
-    "description": "小米产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "趋势",
-      "情感",
-      "专家"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米智能家居",
-    "scenario_type": "使用场景",
-    "description": "小米产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "趋势",
-      "专家"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米智能家居",
-    "scenario_type": "联名场景",
-    "description": "小米产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "场景",
-      "对比"
-    ]
-  },
-  {
-    "client": "小米",
-    "product": "小米智能家居",
-    "scenario_type": "促销场景",
-    "description": "小米产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "场景",
-      "痛点",
-      "热点"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼耳机",
-    "scenario_type": "痛点场景",
-    "description": "用户使用索尼产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "趋势",
-      "对比",
-      "热点"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼耳机",
-    "scenario_type": "情感场景",
-    "description": "索尼产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "专家",
-      "趋势",
-      "热点"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼耳机",
-    "scenario_type": "使用场景",
-    "description": "索尼产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "专家",
-      "故事",
-      "优惠"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼耳机",
-    "scenario_type": "联名场景",
-    "description": "索尼产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "情感",
-      "故事"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼耳机",
-    "scenario_type": "促销场景",
-    "description": "索尼产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "场景",
-      "优惠",
-      "对比"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼相机",
-    "scenario_type": "痛点场景",
-    "description": "用户使用索尼产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "专家",
-      "趋势",
-      "对比"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼相机",
-    "scenario_type": "情感场景",
-    "description": "索尼产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "联名",
-      "故事",
-      "专家"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼相机",
-    "scenario_type": "使用场景",
-    "description": "索尼产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "趋势",
-      "对比"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼相机",
-    "scenario_type": "联名场景",
-    "description": "索尼产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "热点",
-      "优惠"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼相机",
-    "scenario_type": "促销场景",
-    "description": "索尼产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "优惠",
-      "场景",
-      "联名"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼电视",
-    "scenario_type": "痛点场景",
-    "description": "用户使用索尼产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "情感",
-      "优惠",
-      "场景"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼电视",
-    "scenario_type": "情感场景",
-    "description": "索尼产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "场景",
-      "情感"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼电视",
-    "scenario_type": "使用场景",
-    "description": "索尼产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "场景",
-      "情感",
-      "故事"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼电视",
-    "scenario_type": "联名场景",
-    "description": "索尼产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "优惠",
-      "专家",
-      "联名"
-    ]
-  },
-  {
-    "client": "索尼",
-    "product": "索尼电视",
-    "scenario_type": "促销场景",
-    "description": "索尼产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "场景",
-      "对比",
-      "优惠"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC水乳",
-    "scenario_type": "痛点场景",
-    "description": "用户使用AHC产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "故事",
-      "痛点",
-      "联名"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC水乳",
-    "scenario_type": "情感场景",
-    "description": "AHC产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "热点",
-      "优惠"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC水乳",
-    "scenario_type": "使用场景",
-    "description": "AHC产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "场景",
-      "优惠",
-      "专家"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC水乳",
-    "scenario_type": "联名场景",
-    "description": "AHC产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "对比",
-      "优惠",
-      "情感"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC水乳",
-    "scenario_type": "促销场景",
-    "description": "AHC产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "联名",
-      "对比",
-      "热点"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC防晒",
-    "scenario_type": "痛点场景",
-    "description": "用户使用AHC产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "故事",
-      "痛点",
-      "情感"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC防晒",
-    "scenario_type": "情感场景",
-    "description": "AHC产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "场景",
-      "联名",
-      "对比"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC防晒",
-    "scenario_type": "使用场景",
-    "description": "AHC产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "优惠",
-      "热点",
-      "情感"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC防晒",
-    "scenario_type": "联名场景",
-    "description": "AHC产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "痛点",
-      "联名",
-      "优惠"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC防晒",
-    "scenario_type": "促销场景",
-    "description": "AHC产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "热点",
-      "场景",
-      "联名"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC眼霜",
-    "scenario_type": "痛点场景",
-    "description": "用户使用AHC产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "趋势",
-      "专家"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC眼霜",
-    "scenario_type": "情感场景",
-    "description": "AHC产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "对比",
-      "情感"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC眼霜",
-    "scenario_type": "使用场景",
-    "description": "AHC产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "优惠",
-      "趋势",
-      "痛点"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC眼霜",
-    "scenario_type": "联名场景",
-    "description": "AHC产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "联名",
-      "对比",
-      "专家"
-    ]
-  },
-  {
-    "client": "AHC",
-    "product": "AHC眼霜",
-    "scenario_type": "促销场景",
-    "description": "AHC产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "情感",
-      "热点",
-      "联名"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬沐浴露",
-    "scenario_type": "痛点场景",
-    "description": "用户使用多芬产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "联名",
-      "情感"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬沐浴露",
-    "scenario_type": "情感场景",
-    "description": "多芬产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "热点",
-      "情感"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬沐浴露",
-    "scenario_type": "使用场景",
-    "description": "多芬产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "场景",
-      "联名",
-      "趋势"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬沐浴露",
-    "scenario_type": "联名场景",
-    "description": "多芬产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "故事",
-      "优惠",
-      "对比"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬沐浴露",
-    "scenario_type": "促销场景",
-    "description": "多芬产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "对比",
-      "场景",
-      "专家"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬洗发水",
-    "scenario_type": "痛点场景",
-    "description": "用户使用多芬产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "专家",
-      "对比",
-      "痛点"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬洗发水",
-    "scenario_type": "情感场景",
-    "description": "多芬产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "专家",
-      "痛点",
-      "故事"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬洗发水",
-    "scenario_type": "使用场景",
-    "description": "多芬产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "热点",
-      "专家",
-      "情感"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬洗发水",
-    "scenario_type": "联名场景",
-    "description": "多芬产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "场景",
-      "情感",
-      "专家"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬洗发水",
-    "scenario_type": "促销场景",
-    "description": "多芬产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "趋势",
-      "情感",
-      "热点"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬身体乳",
-    "scenario_type": "痛点场景",
-    "description": "用户使用多芬产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "联名",
-      "优惠",
-      "情感"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬身体乳",
-    "scenario_type": "情感场景",
-    "description": "多芬产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "专家",
-      "联名",
-      "优惠"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬身体乳",
-    "scenario_type": "使用场景",
-    "description": "多芬产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "故事",
-      "趋势",
-      "热点"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬身体乳",
-    "scenario_type": "联名场景",
-    "description": "多芬产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "情感",
-      "热点",
-      "场景"
-    ]
-  },
-  {
-    "client": "多芬",
-    "product": "多芬身体乳",
-    "scenario_type": "促销场景",
-    "description": "多芬产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "热点",
-      "场景",
-      "痛点"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士洗发水",
-    "scenario_type": "痛点场景",
-    "description": "用户使用力士产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "热点",
-      "联名"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士洗发水",
-    "scenario_type": "情感场景",
-    "description": "力士产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "优惠",
-      "场景",
-      "联名"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士洗发水",
-    "scenario_type": "使用场景",
-    "description": "力士产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "联名",
-      "场景"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士洗发水",
-    "scenario_type": "联名场景",
-    "description": "力士产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "对比",
-      "专家",
-      "热点"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士洗发水",
-    "scenario_type": "促销场景",
-    "description": "力士产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "趋势",
-      "热点",
-      "故事"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士沐浴露",
-    "scenario_type": "痛点场景",
-    "description": "用户使用力士产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "情感",
-      "场景",
-      "联名"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士沐浴露",
-    "scenario_type": "情感场景",
-    "description": "力士产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "联名",
-      "场景",
-      "情感"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士沐浴露",
-    "scenario_type": "使用场景",
-    "description": "力士产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "故事",
-      "联名",
-      "专家"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士沐浴露",
-    "scenario_type": "联名场景",
-    "description": "力士产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "情感",
-      "场景",
-      "对比"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士沐浴露",
-    "scenario_type": "促销场景",
-    "description": "力士产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "优惠",
-      "联名",
-      "场景"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士香皂",
-    "scenario_type": "痛点场景",
-    "description": "用户使用力士产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "趋势",
-      "场景",
-      "痛点"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士香皂",
-    "scenario_type": "情感场景",
-    "description": "力士产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "痛点",
-      "趋势"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士香皂",
-    "scenario_type": "使用场景",
-    "description": "力士产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "优惠",
-      "痛点",
-      "情感"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士香皂",
-    "scenario_type": "联名场景",
-    "description": "力士产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "场景",
-      "联名",
-      "趋势"
-    ]
-  },
-  {
-    "client": "力士",
-    "product": "力士香皂",
-    "scenario_type": "促销场景",
-    "description": "力士产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "情感",
-      "联名",
-      "专家"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬洗发水",
-    "scenario_type": "痛点场景",
-    "description": "用户使用清扬产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "故事",
-      "对比",
-      "情感"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬洗发水",
-    "scenario_type": "情感场景",
-    "description": "清扬产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "故事",
-      "联名",
-      "痛点"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬洗发水",
-    "scenario_type": "使用场景",
-    "description": "清扬产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "痛点",
-      "场景"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬洗发水",
-    "scenario_type": "联名场景",
-    "description": "清扬产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "对比",
-      "热点",
-      "痛点"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬洗发水",
-    "scenario_type": "促销场景",
-    "description": "清扬产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "故事",
-      "场景",
-      "优惠"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬去屑套装",
-    "scenario_type": "痛点场景",
-    "description": "用户使用清扬产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "优惠",
-      "趋势",
-      "热点"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬去屑套装",
-    "scenario_type": "情感场景",
-    "description": "清扬产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "故事",
-      "对比",
-      "情感"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬去屑套装",
-    "scenario_type": "使用场景",
-    "description": "清扬产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "故事",
-      "热点",
-      "场景"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬去屑套装",
-    "scenario_type": "联名场景",
-    "description": "清扬产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "场景",
-      "痛点",
-      "对比"
-    ]
-  },
-  {
-    "client": "清扬",
-    "product": "清扬去屑套装",
-    "scenario_type": "促销场景",
-    "description": "清扬产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "联名",
-      "对比",
-      "热点"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适洗衣液",
-    "scenario_type": "痛点场景",
-    "description": "用户使用舒适产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "痛点",
-      "热点"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适洗衣液",
-    "scenario_type": "情感场景",
-    "description": "舒适产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "联名",
-      "故事",
-      "场景"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适洗衣液",
-    "scenario_type": "使用场景",
-    "description": "舒适产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "联名",
-      "痛点",
-      "优惠"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适洗衣液",
-    "scenario_type": "联名场景",
-    "description": "舒适产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "趋势",
-      "联名",
-      "故事"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适洗衣液",
-    "scenario_type": "促销场景",
-    "description": "舒适产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "联名",
-      "场景",
-      "对比"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适柔顺剂",
-    "scenario_type": "痛点场景",
-    "description": "用户使用舒适产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "场景",
-      "联名",
-      "痛点"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适柔顺剂",
-    "scenario_type": "情感场景",
-    "description": "舒适产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "专家",
-      "情感"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适柔顺剂",
-    "scenario_type": "使用场景",
-    "description": "舒适产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "趋势",
-      "优惠",
-      "联名"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适柔顺剂",
-    "scenario_type": "联名场景",
-    "description": "舒适产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "联名",
-      "痛点",
-      "故事"
-    ]
-  },
-  {
-    "client": "舒适",
-    "product": "舒适柔顺剂",
-    "scenario_type": "促销场景",
-    "description": "舒适产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "情感",
-      "专家",
-      "趋势"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油面霜",
-    "scenario_type": "痛点场景",
-    "description": "用户使用玉兰油产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "热点",
-      "优惠"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油面霜",
-    "scenario_type": "情感场景",
-    "description": "玉兰油产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "场景",
-      "痛点",
-      "对比"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油面霜",
-    "scenario_type": "使用场景",
-    "description": "玉兰油产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "专家",
-      "优惠"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油面霜",
-    "scenario_type": "联名场景",
-    "description": "玉兰油产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "故事",
-      "热点",
-      "优惠"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油面霜",
-    "scenario_type": "促销场景",
-    "description": "玉兰油产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "优惠",
-      "专家",
-      "趋势"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油精华",
-    "scenario_type": "痛点场景",
-    "description": "用户使用玉兰油产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "故事",
-      "情感",
-      "热点"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油精华",
-    "scenario_type": "情感场景",
-    "description": "玉兰油产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "情感",
-      "联名"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油精华",
-    "scenario_type": "使用场景",
-    "description": "玉兰油产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "痛点",
-      "热点",
-      "专家"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油精华",
-    "scenario_type": "联名场景",
-    "description": "玉兰油产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "对比",
-      "故事",
-      "热点"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油精华",
-    "scenario_type": "促销场景",
-    "description": "玉兰油产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "趋势",
-      "场景",
-      "联名"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油防晒",
-    "scenario_type": "痛点场景",
-    "description": "用户使用玉兰油产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "热点",
-      "情感",
-      "场景"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油防晒",
-    "scenario_type": "情感场景",
-    "description": "玉兰油产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "对比",
-      "趋势",
-      "情感"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油防晒",
-    "scenario_type": "使用场景",
-    "description": "玉兰油产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "痛点",
-      "专家"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油防晒",
-    "scenario_type": "联名场景",
-    "description": "玉兰油产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "热点",
-      "趋势",
-      "联名"
-    ]
-  },
-  {
-    "client": "玉兰油",
-    "product": "玉兰油防晒",
-    "scenario_type": "促销场景",
-    "description": "玉兰油产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "故事",
-      "热点",
-      "情感"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "蛋白粉",
-    "scenario_type": "痛点场景",
-    "description": "用户使用汤臣倍健产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "优惠",
-      "痛点",
-      "对比"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "蛋白粉",
-    "scenario_type": "情感场景",
-    "description": "汤臣倍健产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "优惠",
-      "趋势",
-      "热点"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "蛋白粉",
-    "scenario_type": "使用场景",
-    "description": "汤臣倍健产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "痛点",
-      "专家"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "蛋白粉",
-    "scenario_type": "联名场景",
-    "description": "汤臣倍健产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "优惠",
-      "痛点"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "蛋白粉",
-    "scenario_type": "促销场景",
-    "description": "汤臣倍健产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "趋势",
-      "痛点",
-      "故事"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "维生素",
-    "scenario_type": "痛点场景",
-    "description": "用户使用汤臣倍健产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "故事",
-      "对比",
-      "专家"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "维生素",
-    "scenario_type": "情感场景",
-    "description": "汤臣倍健产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "对比",
-      "场景",
-      "故事"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "维生素",
-    "scenario_type": "使用场景",
-    "description": "汤臣倍健产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "优惠",
-      "对比",
-      "热点"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "维生素",
-    "scenario_type": "联名场景",
-    "description": "汤臣倍健产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "场景",
-      "痛点",
-      "故事"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "维生素",
-    "scenario_type": "促销场景",
-    "description": "汤臣倍健产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "专家",
-      "对比",
-      "优惠"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "鱼油",
-    "scenario_type": "痛点场景",
-    "description": "用户使用汤臣倍健产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "联名",
-      "情感",
-      "热点"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "鱼油",
-    "scenario_type": "情感场景",
-    "description": "汤臣倍健产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "专家",
-      "情感"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "鱼油",
-    "scenario_type": "使用场景",
-    "description": "汤臣倍健产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "痛点",
-      "对比",
-      "优惠"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "鱼油",
-    "scenario_type": "联名场景",
-    "description": "汤臣倍健产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "故事",
-      "场景",
-      "优惠"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "鱼油",
-    "scenario_type": "促销场景",
-    "description": "汤臣倍健产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "专家",
-      "趋势",
-      "优惠"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "益生菌",
-    "scenario_type": "痛点场景",
-    "description": "用户使用汤臣倍健产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "优惠",
-      "热点",
-      "情感"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "益生菌",
-    "scenario_type": "情感场景",
-    "description": "汤臣倍健产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "对比",
-      "优惠",
-      "趋势"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "益生菌",
-    "scenario_type": "使用场景",
-    "description": "汤臣倍健产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "专家",
-      "情感",
-      "热点"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "益生菌",
-    "scenario_type": "联名场景",
-    "description": "汤臣倍健产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "优惠",
-      "联名"
-    ]
-  },
-  {
-    "client": "汤臣倍健",
-    "product": "益生菌",
-    "scenario_type": "促销场景",
-    "description": "汤臣倍健产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "故事",
-      "痛点",
-      "趋势"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存多维片",
-    "scenario_type": "痛点场景",
-    "description": "用户使用善存产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "热点",
-      "故事"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存多维片",
-    "scenario_type": "情感场景",
-    "description": "善存产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "情感",
-      "故事",
-      "优惠"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存多维片",
-    "scenario_type": "使用场景",
-    "description": "善存产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "趋势",
-      "故事",
-      "痛点"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存多维片",
-    "scenario_type": "联名场景",
-    "description": "善存产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "情感",
-      "趋势",
-      "对比"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存多维片",
-    "scenario_type": "促销场景",
-    "description": "善存产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "情感",
-      "对比",
-      "故事"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存银片",
-    "scenario_type": "痛点场景",
-    "description": "用户使用善存产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "故事",
-      "对比",
-      "痛点"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存银片",
-    "scenario_type": "情感场景",
-    "description": "善存产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "情感",
-      "对比"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存银片",
-    "scenario_type": "使用场景",
-    "description": "善存产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "故事",
-      "联名"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存银片",
-    "scenario_type": "联名场景",
-    "description": "善存产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "情感",
-      "专家",
-      "场景"
-    ]
-  },
-  {
-    "client": "善存",
-    "product": "善存银片",
-    "scenario_type": "促销场景",
-    "description": "善存产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "场景",
-      "故事",
-      "趋势"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC清洁剂",
-    "scenario_type": "痛点场景",
-    "description": "用户使用HC产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "趋势",
-      "场景",
-      "专家"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC清洁剂",
-    "scenario_type": "情感场景",
-    "description": "HC产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "情感",
-      "场景",
-      "联名"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC清洁剂",
-    "scenario_type": "使用场景",
-    "description": "HC产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "优惠",
-      "对比",
-      "专家"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC清洁剂",
-    "scenario_type": "联名场景",
-    "description": "HC产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "对比",
-      "情感",
-      "热点"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC清洁剂",
-    "scenario_type": "促销场景",
-    "description": "HC产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "情感",
-      "专家",
-      "联名"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC消毒液",
-    "scenario_type": "痛点场景",
-    "description": "用户使用HC产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "趋势",
-      "故事",
-      "专家"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC消毒液",
-    "scenario_type": "情感场景",
-    "description": "HC产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "优惠",
-      "专家",
-      "对比"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC消毒液",
-    "scenario_type": "使用场景",
-    "description": "HC产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "优惠",
-      "故事",
-      "对比"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC消毒液",
-    "scenario_type": "联名场景",
-    "description": "HC产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "优惠",
-      "场景"
-    ]
-  },
-  {
-    "client": "HC",
-    "product": "HC消毒液",
-    "scenario_type": "促销场景",
-    "description": "HC产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "情感",
-      "场景",
-      "对比"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生厨房清洁",
-    "scenario_type": "痛点场景",
-    "description": "用户使用威猛先生产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "故事",
-      "趋势",
-      "优惠"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生厨房清洁",
-    "scenario_type": "情感场景",
-    "description": "威猛先生产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "对比",
-      "场景",
-      "情感"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生厨房清洁",
-    "scenario_type": "使用场景",
-    "description": "威猛先生产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "情感",
-      "痛点"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生厨房清洁",
-    "scenario_type": "联名场景",
-    "description": "威猛先生产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "优惠",
-      "专家",
-      "联名"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生厨房清洁",
-    "scenario_type": "促销场景",
-    "description": "威猛先生产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "痛点",
-      "场景",
-      "优惠"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生浴室清洁",
-    "scenario_type": "痛点场景",
-    "description": "用户使用威猛先生产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "专家",
-      "故事"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生浴室清洁",
-    "scenario_type": "情感场景",
-    "description": "威猛先生产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "趋势",
-      "热点",
-      "联名"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生浴室清洁",
-    "scenario_type": "使用场景",
-    "description": "威猛先生产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "场景",
-      "联名"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生浴室清洁",
-    "scenario_type": "联名场景",
-    "description": "威猛先生产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "痛点",
-      "优惠",
-      "对比"
-    ]
-  },
-  {
-    "client": "威猛先生",
-    "product": "威猛先生浴室清洁",
-    "scenario_type": "促销场景",
-    "description": "威猛先生产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "趋势",
-      "专家",
-      "痛点"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "猫粮",
-    "scenario_type": "痛点场景",
-    "description": "用户使用希宝产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "故事",
-      "痛点",
-      "联名"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "猫粮",
-    "scenario_type": "情感场景",
-    "description": "希宝产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "情感",
-      "痛点",
-      "热点"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "猫粮",
-    "scenario_type": "使用场景",
-    "description": "希宝产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "场景",
-      "专家"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "猫粮",
-    "scenario_type": "联名场景",
-    "description": "希宝产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "热点",
-      "故事",
-      "痛点"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "猫粮",
-    "scenario_type": "促销场景",
-    "description": "希宝产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "优惠",
-      "联名",
-      "对比"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "狗粮",
-    "scenario_type": "痛点场景",
-    "description": "用户使用希宝产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "专家",
-      "联名",
-      "对比"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "狗粮",
-    "scenario_type": "情感场景",
-    "description": "希宝产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "故事",
-      "痛点",
-      "趋势"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "狗粮",
-    "scenario_type": "使用场景",
-    "description": "希宝产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "趋势",
-      "联名"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "狗粮",
-    "scenario_type": "联名场景",
-    "description": "希宝产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "对比",
-      "联名",
-      "热点"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "狗粮",
-    "scenario_type": "促销场景",
-    "description": "希宝产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "故事",
-      "情感",
-      "趋势"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "宠物零食",
-    "scenario_type": "痛点场景",
-    "description": "用户使用希宝产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "趋势",
-      "联名",
-      "情感"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "宠物零食",
-    "scenario_type": "情感场景",
-    "description": "希宝产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "专家",
-      "对比"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "宠物零食",
-    "scenario_type": "使用场景",
-    "description": "希宝产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "场景",
-      "对比",
-      "痛点"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "宠物零食",
-    "scenario_type": "联名场景",
-    "description": "希宝产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "热点",
-      "痛点",
-      "优惠"
-    ]
-  },
-  {
-    "client": "希宝",
-    "product": "宠物零食",
-    "scenario_type": "促销场景",
-    "description": "希宝产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "情感",
-      "故事",
-      "趋势"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家猫粮",
-    "scenario_type": "痛点场景",
-    "description": "用户使用皇家产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "场景",
-      "趋势",
-      "痛点"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家猫粮",
-    "scenario_type": "情感场景",
-    "description": "皇家产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "专家",
-      "优惠",
-      "联名"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家猫粮",
-    "scenario_type": "使用场景",
-    "description": "皇家产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "场景",
-      "对比",
-      "优惠"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家猫粮",
-    "scenario_type": "联名场景",
-    "description": "皇家产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "对比",
-      "场景",
-      "联名"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家猫粮",
-    "scenario_type": "促销场景",
-    "description": "皇家产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "故事",
-      "专家",
-      "热点"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家狗粮",
-    "scenario_type": "痛点场景",
-    "description": "用户使用皇家产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "联名",
-      "场景",
-      "优惠"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家狗粮",
-    "scenario_type": "情感场景",
-    "description": "皇家产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "对比",
-      "热点",
-      "联名"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家狗粮",
-    "scenario_type": "使用场景",
-    "description": "皇家产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "联名",
-      "情感",
-      "趋势"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家狗粮",
-    "scenario_type": "联名场景",
-    "description": "皇家产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "场景",
-      "趋势",
-      "痛点"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家狗粮",
-    "scenario_type": "促销场景",
-    "description": "皇家产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "专家",
-      "优惠",
-      "场景"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家处方粮",
-    "scenario_type": "痛点场景",
-    "description": "用户使用皇家产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "热点",
-      "对比",
-      "趋势"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家处方粮",
-    "scenario_type": "情感场景",
-    "description": "皇家产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "对比",
-      "痛点",
-      "优惠"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家处方粮",
-    "scenario_type": "使用场景",
-    "description": "皇家产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "痛点",
-      "故事",
-      "情感"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家处方粮",
-    "scenario_type": "联名场景",
-    "description": "皇家产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "优惠",
-      "专家",
-      "联名"
-    ]
-  },
-  {
-    "client": "皇家",
-    "product": "皇家处方粮",
-    "scenario_type": "促销场景",
-    "description": "皇家产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "场景",
-      "痛点",
-      "对比"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦奶",
-    "scenario_type": "痛点场景",
-    "description": "用户使用OATLY产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "场景",
-      "联名",
-      "故事"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦奶",
-    "scenario_type": "情感场景",
-    "description": "OATLY产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "故事",
-      "趋势"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦奶",
-    "scenario_type": "使用场景",
-    "description": "OATLY产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "热点",
-      "专家"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦奶",
-    "scenario_type": "联名场景",
-    "description": "OATLY产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "联名",
-      "对比"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦奶",
-    "scenario_type": "促销场景",
-    "description": "OATLY产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "对比",
-      "情感",
-      "故事"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "咖啡燕麦奶",
-    "scenario_type": "痛点场景",
-    "description": "用户使用OATLY产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "趋势",
-      "联名",
-      "专家"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "咖啡燕麦奶",
-    "scenario_type": "情感场景",
-    "description": "OATLY产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "对比",
-      "场景",
-      "痛点"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "咖啡燕麦奶",
-    "scenario_type": "使用场景",
-    "description": "OATLY产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "痛点",
-      "趋势",
-      "专家"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "咖啡燕麦奶",
-    "scenario_type": "联名场景",
-    "description": "OATLY产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "场景",
-      "故事",
-      "专家"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "咖啡燕麦奶",
-    "scenario_type": "促销场景",
-    "description": "OATLY产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "专家",
-      "故事",
-      "痛点"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦冰淇淋",
-    "scenario_type": "痛点场景",
-    "description": "用户使用OATLY产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "痛点",
-      "热点",
-      "专家"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦冰淇淋",
-    "scenario_type": "情感场景",
-    "description": "OATLY产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "趋势",
-      "联名",
-      "热点"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦冰淇淋",
-    "scenario_type": "使用场景",
-    "description": "OATLY产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "联名",
-      "趋势",
-      "痛点"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦冰淇淋",
-    "scenario_type": "联名场景",
-    "description": "OATLY产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "情感",
-      "故事"
-    ]
-  },
-  {
-    "client": "OATLY",
-    "product": "燕麦冰淇淋",
-    "scenario_type": "促销场景",
-    "description": "OATLY产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "联名",
-      "情感",
-      "痛点"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威啤酒",
-    "scenario_type": "痛点场景",
-    "description": "用户使用百威产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "优惠",
-      "情感",
-      "对比"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威啤酒",
-    "scenario_type": "情感场景",
-    "description": "百威产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "专家",
-      "联名",
-      "痛点"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威啤酒",
-    "scenario_type": "使用场景",
-    "description": "百威产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "热点",
-      "优惠",
-      "故事"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威啤酒",
-    "scenario_type": "联名场景",
-    "description": "百威产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "对比",
-      "趋势",
-      "情感"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威啤酒",
-    "scenario_type": "促销场景",
-    "description": "百威产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "对比",
-      "优惠",
-      "场景"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威纯生",
-    "scenario_type": "痛点场景",
-    "description": "用户使用百威产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "故事",
-      "场景"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威纯生",
-    "scenario_type": "情感场景",
-    "description": "百威产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "趋势",
-      "痛点",
-      "对比"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威纯生",
-    "scenario_type": "使用场景",
-    "description": "百威产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "痛点",
-      "情感",
-      "联名"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威纯生",
-    "scenario_type": "联名场景",
-    "description": "百威产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "热点",
-      "场景",
-      "专家"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威纯生",
-    "scenario_type": "促销场景",
-    "description": "百威产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "情感",
-      "优惠",
-      "热点"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威超级",
-    "scenario_type": "痛点场景",
-    "description": "用户使用百威产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "热点",
-      "情感",
-      "场景"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威超级",
-    "scenario_type": "情感场景",
-    "description": "百威产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "优惠",
-      "故事",
-      "联名"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威超级",
-    "scenario_type": "使用场景",
-    "description": "百威产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "专家",
-      "场景"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威超级",
-    "scenario_type": "联名场景",
-    "description": "百威产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "场景",
-      "情感"
-    ]
-  },
-  {
-    "client": "百威",
-    "product": "百威超级",
-    "scenario_type": "促销场景",
-    "description": "百威产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "优惠",
-      "故事",
-      "趋势"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "气泡水",
-    "scenario_type": "痛点场景",
-    "description": "用户使用元气森林产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "联名",
-      "专家",
-      "对比"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "气泡水",
-    "scenario_type": "情感场景",
-    "description": "元气森林产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "专家",
-      "趋势"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "气泡水",
-    "scenario_type": "使用场景",
-    "description": "元气森林产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "痛点",
-      "故事"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "气泡水",
-    "scenario_type": "联名场景",
-    "description": "元气森林产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "痛点",
-      "专家",
-      "热点"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "气泡水",
-    "scenario_type": "促销场景",
-    "description": "元气森林产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "热点",
-      "痛点",
-      "趋势"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "外星人电解质水",
-    "scenario_type": "痛点场景",
-    "description": "用户使用元气森林产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "对比",
-      "专家",
-      "情感"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "外星人电解质水",
-    "scenario_type": "情感场景",
-    "description": "元气森林产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "联名",
-      "优惠",
-      "专家"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "外星人电解质水",
-    "scenario_type": "使用场景",
-    "description": "元气森林产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "优惠",
-      "对比",
-      "趋势"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "外星人电解质水",
-    "scenario_type": "联名场景",
-    "description": "元气森林产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "情感",
-      "联名",
-      "优惠"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "外星人电解质水",
-    "scenario_type": "促销场景",
-    "description": "元气森林产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "趋势",
-      "痛点",
-      "热点"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "燃茶",
-    "scenario_type": "痛点场景",
-    "description": "用户使用元气森林产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "场景",
-      "痛点",
-      "故事"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "燃茶",
-    "scenario_type": "情感场景",
-    "description": "元气森林产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "热点",
-      "对比",
-      "联名"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "燃茶",
-    "scenario_type": "使用场景",
-    "description": "元气森林产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "故事",
-      "专家",
-      "痛点"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "燃茶",
-    "scenario_type": "联名场景",
-    "description": "元气森林产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "优惠",
-      "对比",
-      "趋势"
-    ]
-  },
-  {
-    "client": "元气森林",
-    "product": "燃茶",
-    "scenario_type": "促销场景",
-    "description": "元气森林产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "痛点",
-      "对比",
-      "优惠"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "矿泉水",
-    "scenario_type": "痛点场景",
-    "description": "用户使用农夫山泉产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "痛点",
-      "趋势",
-      "对比"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "矿泉水",
-    "scenario_type": "情感场景",
-    "description": "农夫山泉产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "联名",
-      "痛点",
-      "对比"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "矿泉水",
-    "scenario_type": "使用场景",
-    "description": "农夫山泉产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "趋势",
-      "故事"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "矿泉水",
-    "scenario_type": "联名场景",
-    "description": "农夫山泉产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "专家",
-      "趋势",
-      "情感"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "矿泉水",
-    "scenario_type": "促销场景",
-    "description": "农夫山泉产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "趋势",
-      "情感",
-      "优惠"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "东方树叶",
-    "scenario_type": "痛点场景",
-    "description": "用户使用农夫山泉产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "痛点",
-      "优惠",
-      "对比"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "东方树叶",
-    "scenario_type": "情感场景",
-    "description": "农夫山泉产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "痛点",
-      "联名",
-      "对比"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "东方树叶",
-    "scenario_type": "使用场景",
-    "description": "农夫山泉产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "情感",
-      "故事",
-      "趋势"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "东方树叶",
-    "scenario_type": "联名场景",
-    "description": "农夫山泉产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "场景",
-      "痛点",
-      "热点"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "东方树叶",
-    "scenario_type": "促销场景",
-    "description": "农夫山泉产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "优惠",
-      "趋势",
-      "专家"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "茶π",
-    "scenario_type": "痛点场景",
-    "description": "用户使用农夫山泉产品解决的问题",
-    "content_angle": "问题解决型",
-    "keywords": [
-      "趋势",
-      "联名",
-      "场景"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "茶π",
-    "scenario_type": "情感场景",
-    "description": "农夫山泉产品带来的情感价值",
-    "content_angle": "情感共鸣型",
-    "keywords": [
-      "情感",
-      "场景",
-      "联名"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "茶π",
-    "scenario_type": "使用场景",
-    "description": "农夫山泉产品的具体使用场景",
-    "content_angle": "场景代入型",
-    "keywords": [
-      "对比",
-      "联名",
-      "痛点"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "茶π",
-    "scenario_type": "联名场景",
-    "description": "农夫山泉产品的跨界联名机会",
-    "content_angle": "联名合作型",
-    "keywords": [
-      "优惠",
-      "故事",
-      "情感"
-    ]
-  },
-  {
-    "client": "农夫山泉",
-    "product": "茶π",
-    "scenario_type": "促销场景",
-    "description": "农夫山泉产品的限时优惠场景",
-    "content_angle": "限时优惠型",
-    "keywords": [
-      "联名",
-      "故事",
-      "专家"
-    ]
-  }
-]
+{
+  "generated_at": "2026-04-01T07:03:21.665057",
+  "updated_at": "2026-04-01T07:03:21.665063",
+  "total_count": 285,
+  "scenarios": [
+    {
+      "client": "荣耀",
+      "product": "荣耀手机",
+      "scenario_type": "痛点场景",
+      "description": "用户使用荣耀产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "专家",
+        "趋势",
+        "场景"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀手机",
+      "scenario_type": "情感场景",
+      "description": "荣耀产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "优惠",
+        "情感",
+        "趋势"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀手机",
+      "scenario_type": "使用场景",
+      "description": "荣耀产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "联名",
+        "专家",
+        "情感"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀手机",
+      "scenario_type": "联名场景",
+      "description": "荣耀产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "趋势",
+        "故事",
+        "痛点"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀手机",
+      "scenario_type": "促销场景",
+      "description": "荣耀产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "情感",
+        "场景",
+        "痛点"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀平板",
+      "scenario_type": "痛点场景",
+      "description": "用户使用荣耀产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "情感",
+        "热点"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀平板",
+      "scenario_type": "情感场景",
+      "description": "荣耀产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "故事",
+        "联名"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀平板",
+      "scenario_type": "使用场景",
+      "description": "荣耀产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "优惠",
+        "场景",
+        "情感"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀平板",
+      "scenario_type": "联名场景",
+      "description": "荣耀产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "情感",
+        "专家",
+        "热点"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀平板",
+      "scenario_type": "促销场景",
+      "description": "荣耀产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "场景",
+        "痛点",
+        "优惠"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀耳机",
+      "scenario_type": "痛点场景",
+      "description": "用户使用荣耀产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "场景",
+        "故事",
+        "专家"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀耳机",
+      "scenario_type": "情感场景",
+      "description": "荣耀产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "故事",
+        "场景",
+        "优惠"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀耳机",
+      "scenario_type": "使用场景",
+      "description": "荣耀产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "热点",
+        "趋势",
+        "专家"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀耳机",
+      "scenario_type": "联名场景",
+      "description": "荣耀产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "热点",
+        "趋势",
+        "联名"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀耳机",
+      "scenario_type": "促销场景",
+      "description": "荣耀产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "痛点",
+        "情感",
+        "故事"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀手表",
+      "scenario_type": "痛点场景",
+      "description": "用户使用荣耀产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "优惠",
+        "痛点",
+        "趋势"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀手表",
+      "scenario_type": "情感场景",
+      "description": "荣耀产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "联名",
+        "故事"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀手表",
+      "scenario_type": "使用场景",
+      "description": "荣耀产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "趋势",
+        "场景",
+        "痛点"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀手表",
+      "scenario_type": "联名场景",
+      "description": "荣耀产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "热点",
+        "专家",
+        "情感"
+      ]
+    },
+    {
+      "client": "荣耀",
+      "product": "荣耀手表",
+      "scenario_type": "促销场景",
+      "description": "荣耀产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "联名",
+        "情感",
+        "热点"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技键鼠",
+      "scenario_type": "痛点场景",
+      "description": "用户使用罗技产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "热点",
+        "故事",
+        "趋势"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技键鼠",
+      "scenario_type": "情感场景",
+      "description": "罗技产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "情感",
+        "趋势",
+        "场景"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技键鼠",
+      "scenario_type": "使用场景",
+      "description": "罗技产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "专家",
+        "故事",
+        "热点"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技键鼠",
+      "scenario_type": "联名场景",
+      "description": "罗技产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "情感",
+        "专家",
+        "联名"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技键鼠",
+      "scenario_type": "促销场景",
+      "description": "罗技产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "趋势",
+        "痛点",
+        "优惠"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技摄像头",
+      "scenario_type": "痛点场景",
+      "description": "用户使用罗技产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "优惠",
+        "场景",
+        "热点"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技摄像头",
+      "scenario_type": "情感场景",
+      "description": "罗技产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "趋势",
+        "故事"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技摄像头",
+      "scenario_type": "使用场景",
+      "description": "罗技产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "情感",
+        "联名",
+        "场景"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技摄像头",
+      "scenario_type": "联名场景",
+      "description": "罗技产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "趋势",
+        "场景",
+        "优惠"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技摄像头",
+      "scenario_type": "促销场景",
+      "description": "罗技产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "联名",
+        "对比",
+        "情感"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技音箱",
+      "scenario_type": "痛点场景",
+      "description": "用户使用罗技产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "优惠",
+        "热点",
+        "场景"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技音箱",
+      "scenario_type": "情感场景",
+      "description": "罗技产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "情感",
+        "专家"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技音箱",
+      "scenario_type": "使用场景",
+      "description": "罗技产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "优惠",
+        "故事",
+        "趋势"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技音箱",
+      "scenario_type": "联名场景",
+      "description": "罗技产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "优惠",
+        "情感",
+        "场景"
+      ]
+    },
+    {
+      "client": "罗技",
+      "product": "罗技音箱",
+      "scenario_type": "促销场景",
+      "description": "罗技产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "故事",
+        "专家",
+        "热点"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米手机",
+      "scenario_type": "痛点场景",
+      "description": "用户使用小米产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "联名",
+        "故事",
+        "对比"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米手机",
+      "scenario_type": "情感场景",
+      "description": "小米产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "对比",
+        "场景"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米手机",
+      "scenario_type": "使用场景",
+      "description": "小米产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "故事",
+        "趋势",
+        "痛点"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米手机",
+      "scenario_type": "联名场景",
+      "description": "小米产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "热点",
+        "故事",
+        "联名"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米手机",
+      "scenario_type": "促销场景",
+      "description": "小米产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "联名",
+        "对比",
+        "专家"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米平板",
+      "scenario_type": "痛点场景",
+      "description": "用户使用小米产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "优惠",
+        "专家",
+        "对比"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米平板",
+      "scenario_type": "情感场景",
+      "description": "小米产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "优惠",
+        "联名"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米平板",
+      "scenario_type": "使用场景",
+      "description": "小米产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "故事",
+        "趋势",
+        "痛点"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米平板",
+      "scenario_type": "联名场景",
+      "description": "小米产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "联名",
+        "优惠",
+        "故事"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米平板",
+      "scenario_type": "促销场景",
+      "description": "小米产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "场景",
+        "专家",
+        "优惠"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米智能家居",
+      "scenario_type": "痛点场景",
+      "description": "用户使用小米产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "热点",
+        "痛点"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米智能家居",
+      "scenario_type": "情感场景",
+      "description": "小米产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "趋势",
+        "情感",
+        "专家"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米智能家居",
+      "scenario_type": "使用场景",
+      "description": "小米产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "趋势",
+        "专家"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米智能家居",
+      "scenario_type": "联名场景",
+      "description": "小米产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "场景",
+        "对比"
+      ]
+    },
+    {
+      "client": "小米",
+      "product": "小米智能家居",
+      "scenario_type": "促销场景",
+      "description": "小米产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "场景",
+        "痛点",
+        "热点"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼耳机",
+      "scenario_type": "痛点场景",
+      "description": "用户使用索尼产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "趋势",
+        "对比",
+        "热点"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼耳机",
+      "scenario_type": "情感场景",
+      "description": "索尼产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "专家",
+        "趋势",
+        "热点"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼耳机",
+      "scenario_type": "使用场景",
+      "description": "索尼产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "专家",
+        "故事",
+        "优惠"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼耳机",
+      "scenario_type": "联名场景",
+      "description": "索尼产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "情感",
+        "故事"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼耳机",
+      "scenario_type": "促销场景",
+      "description": "索尼产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "场景",
+        "优惠",
+        "对比"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼相机",
+      "scenario_type": "痛点场景",
+      "description": "用户使用索尼产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "专家",
+        "趋势",
+        "对比"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼相机",
+      "scenario_type": "情感场景",
+      "description": "索尼产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "联名",
+        "故事",
+        "专家"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼相机",
+      "scenario_type": "使用场景",
+      "description": "索尼产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "情感",
+        "趋势",
+        "对比"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼相机",
+      "scenario_type": "联名场景",
+      "description": "索尼产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "热点",
+        "优惠"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼相机",
+      "scenario_type": "促销场景",
+      "description": "索尼产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "优惠",
+        "场景",
+        "联名"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼电视",
+      "scenario_type": "痛点场景",
+      "description": "用户使用索尼产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "情感",
+        "优惠",
+        "场景"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼电视",
+      "scenario_type": "情感场景",
+      "description": "索尼产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "场景",
+        "情感"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼电视",
+      "scenario_type": "使用场景",
+      "description": "索尼产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "场景",
+        "情感",
+        "故事"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼电视",
+      "scenario_type": "联名场景",
+      "description": "索尼产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "优惠",
+        "专家",
+        "联名"
+      ]
+    },
+    {
+      "client": "索尼",
+      "product": "索尼电视",
+      "scenario_type": "促销场景",
+      "description": "索尼产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "场景",
+        "对比",
+        "优惠"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC水乳",
+      "scenario_type": "痛点场景",
+      "description": "用户使用AHC产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "故事",
+        "痛点",
+        "联名"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC水乳",
+      "scenario_type": "情感场景",
+      "description": "AHC产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "热点",
+        "优惠"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC水乳",
+      "scenario_type": "使用场景",
+      "description": "AHC产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "场景",
+        "优惠",
+        "专家"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC水乳",
+      "scenario_type": "联名场景",
+      "description": "AHC产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "对比",
+        "优惠",
+        "情感"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC水乳",
+      "scenario_type": "促销场景",
+      "description": "AHC产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "联名",
+        "对比",
+        "热点"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC防晒",
+      "scenario_type": "痛点场景",
+      "description": "用户使用AHC产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "故事",
+        "痛点",
+        "情感"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC防晒",
+      "scenario_type": "情感场景",
+      "description": "AHC产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "场景",
+        "联名",
+        "对比"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC防晒",
+      "scenario_type": "使用场景",
+      "description": "AHC产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "优惠",
+        "热点",
+        "情感"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC防晒",
+      "scenario_type": "联名场景",
+      "description": "AHC产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "痛点",
+        "联名",
+        "优惠"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC防晒",
+      "scenario_type": "促销场景",
+      "description": "AHC产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "热点",
+        "场景",
+        "联名"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC眼霜",
+      "scenario_type": "痛点场景",
+      "description": "用户使用AHC产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "趋势",
+        "专家"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC眼霜",
+      "scenario_type": "情感场景",
+      "description": "AHC产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "对比",
+        "情感"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC眼霜",
+      "scenario_type": "使用场景",
+      "description": "AHC产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "优惠",
+        "趋势",
+        "痛点"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC眼霜",
+      "scenario_type": "联名场景",
+      "description": "AHC产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "联名",
+        "对比",
+        "专家"
+      ]
+    },
+    {
+      "client": "AHC",
+      "product": "AHC眼霜",
+      "scenario_type": "促销场景",
+      "description": "AHC产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "情感",
+        "热点",
+        "联名"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬沐浴露",
+      "scenario_type": "痛点场景",
+      "description": "用户使用多芬产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "联名",
+        "情感"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬沐浴露",
+      "scenario_type": "情感场景",
+      "description": "多芬产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "热点",
+        "情感"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬沐浴露",
+      "scenario_type": "使用场景",
+      "description": "多芬产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "场景",
+        "联名",
+        "趋势"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬沐浴露",
+      "scenario_type": "联名场景",
+      "description": "多芬产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "故事",
+        "优惠",
+        "对比"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬沐浴露",
+      "scenario_type": "促销场景",
+      "description": "多芬产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "对比",
+        "场景",
+        "专家"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬洗发水",
+      "scenario_type": "痛点场景",
+      "description": "用户使用多芬产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "专家",
+        "对比",
+        "痛点"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬洗发水",
+      "scenario_type": "情感场景",
+      "description": "多芬产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "专家",
+        "痛点",
+        "故事"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬洗发水",
+      "scenario_type": "使用场景",
+      "description": "多芬产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "热点",
+        "专家",
+        "情感"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬洗发水",
+      "scenario_type": "联名场景",
+      "description": "多芬产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "场景",
+        "情感",
+        "专家"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬洗发水",
+      "scenario_type": "促销场景",
+      "description": "多芬产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "趋势",
+        "情感",
+        "热点"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬身体乳",
+      "scenario_type": "痛点场景",
+      "description": "用户使用多芬产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "联名",
+        "优惠",
+        "情感"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬身体乳",
+      "scenario_type": "情感场景",
+      "description": "多芬产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "专家",
+        "联名",
+        "优惠"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬身体乳",
+      "scenario_type": "使用场景",
+      "description": "多芬产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "故事",
+        "趋势",
+        "热点"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬身体乳",
+      "scenario_type": "联名场景",
+      "description": "多芬产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "情感",
+        "热点",
+        "场景"
+      ]
+    },
+    {
+      "client": "多芬",
+      "product": "多芬身体乳",
+      "scenario_type": "促销场景",
+      "description": "多芬产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "热点",
+        "场景",
+        "痛点"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士洗发水",
+      "scenario_type": "痛点场景",
+      "description": "用户使用力士产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "热点",
+        "联名"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士洗发水",
+      "scenario_type": "情感场景",
+      "description": "力士产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "优惠",
+        "场景",
+        "联名"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士洗发水",
+      "scenario_type": "使用场景",
+      "description": "力士产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "联名",
+        "场景"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士洗发水",
+      "scenario_type": "联名场景",
+      "description": "力士产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "对比",
+        "专家",
+        "热点"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士洗发水",
+      "scenario_type": "促销场景",
+      "description": "力士产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "趋势",
+        "热点",
+        "故事"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士沐浴露",
+      "scenario_type": "痛点场景",
+      "description": "用户使用力士产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "情感",
+        "场景",
+        "联名"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士沐浴露",
+      "scenario_type": "情感场景",
+      "description": "力士产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "联名",
+        "场景",
+        "情感"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士沐浴露",
+      "scenario_type": "使用场景",
+      "description": "力士产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "故事",
+        "联名",
+        "专家"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士沐浴露",
+      "scenario_type": "联名场景",
+      "description": "力士产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "情感",
+        "场景",
+        "对比"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士沐浴露",
+      "scenario_type": "促销场景",
+      "description": "力士产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "优惠",
+        "联名",
+        "场景"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士香皂",
+      "scenario_type": "痛点场景",
+      "description": "用户使用力士产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "趋势",
+        "场景",
+        "痛点"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士香皂",
+      "scenario_type": "情感场景",
+      "description": "力士产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "痛点",
+        "趋势"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士香皂",
+      "scenario_type": "使用场景",
+      "description": "力士产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "优惠",
+        "痛点",
+        "情感"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士香皂",
+      "scenario_type": "联名场景",
+      "description": "力士产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "场景",
+        "联名",
+        "趋势"
+      ]
+    },
+    {
+      "client": "力士",
+      "product": "力士香皂",
+      "scenario_type": "促销场景",
+      "description": "力士产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "情感",
+        "联名",
+        "专家"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬洗发水",
+      "scenario_type": "痛点场景",
+      "description": "用户使用清扬产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "故事",
+        "对比",
+        "情感"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬洗发水",
+      "scenario_type": "情感场景",
+      "description": "清扬产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "故事",
+        "联名",
+        "痛点"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬洗发水",
+      "scenario_type": "使用场景",
+      "description": "清扬产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "情感",
+        "痛点",
+        "场景"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬洗发水",
+      "scenario_type": "联名场景",
+      "description": "清扬产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "对比",
+        "热点",
+        "痛点"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬洗发水",
+      "scenario_type": "促销场景",
+      "description": "清扬产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "故事",
+        "场景",
+        "优惠"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬去屑套装",
+      "scenario_type": "痛点场景",
+      "description": "用户使用清扬产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "优惠",
+        "趋势",
+        "热点"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬去屑套装",
+      "scenario_type": "情感场景",
+      "description": "清扬产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "故事",
+        "对比",
+        "情感"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬去屑套装",
+      "scenario_type": "使用场景",
+      "description": "清扬产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "故事",
+        "热点",
+        "场景"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬去屑套装",
+      "scenario_type": "联名场景",
+      "description": "清扬产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "场景",
+        "痛点",
+        "对比"
+      ]
+    },
+    {
+      "client": "清扬",
+      "product": "清扬去屑套装",
+      "scenario_type": "促销场景",
+      "description": "清扬产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "联名",
+        "对比",
+        "热点"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适洗衣液",
+      "scenario_type": "痛点场景",
+      "description": "用户使用舒适产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "痛点",
+        "热点"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适洗衣液",
+      "scenario_type": "情感场景",
+      "description": "舒适产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "联名",
+        "故事",
+        "场景"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适洗衣液",
+      "scenario_type": "使用场景",
+      "description": "舒适产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "联名",
+        "痛点",
+        "优惠"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适洗衣液",
+      "scenario_type": "联名场景",
+      "description": "舒适产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "趋势",
+        "联名",
+        "故事"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适洗衣液",
+      "scenario_type": "促销场景",
+      "description": "舒适产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "联名",
+        "场景",
+        "对比"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适柔顺剂",
+      "scenario_type": "痛点场景",
+      "description": "用户使用舒适产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "场景",
+        "联名",
+        "痛点"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适柔顺剂",
+      "scenario_type": "情感场景",
+      "description": "舒适产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "专家",
+        "情感"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适柔顺剂",
+      "scenario_type": "使用场景",
+      "description": "舒适产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "趋势",
+        "优惠",
+        "联名"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适柔顺剂",
+      "scenario_type": "联名场景",
+      "description": "舒适产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "联名",
+        "痛点",
+        "故事"
+      ]
+    },
+    {
+      "client": "舒适",
+      "product": "舒适柔顺剂",
+      "scenario_type": "促销场景",
+      "description": "舒适产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "情感",
+        "专家",
+        "趋势"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油面霜",
+      "scenario_type": "痛点场景",
+      "description": "用户使用玉兰油产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "热点",
+        "优惠"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油面霜",
+      "scenario_type": "情感场景",
+      "description": "玉兰油产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "场景",
+        "痛点",
+        "对比"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油面霜",
+      "scenario_type": "使用场景",
+      "description": "玉兰油产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "专家",
+        "优惠"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油面霜",
+      "scenario_type": "联名场景",
+      "description": "玉兰油产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "故事",
+        "热点",
+        "优惠"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油面霜",
+      "scenario_type": "促销场景",
+      "description": "玉兰油产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "优惠",
+        "专家",
+        "趋势"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油精华",
+      "scenario_type": "痛点场景",
+      "description": "用户使用玉兰油产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "故事",
+        "情感",
+        "热点"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油精华",
+      "scenario_type": "情感场景",
+      "description": "玉兰油产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "情感",
+        "联名"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油精华",
+      "scenario_type": "使用场景",
+      "description": "玉兰油产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "痛点",
+        "热点",
+        "专家"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油精华",
+      "scenario_type": "联名场景",
+      "description": "玉兰油产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "对比",
+        "故事",
+        "热点"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油精华",
+      "scenario_type": "促销场景",
+      "description": "玉兰油产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "趋势",
+        "场景",
+        "联名"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油防晒",
+      "scenario_type": "痛点场景",
+      "description": "用户使用玉兰油产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "热点",
+        "情感",
+        "场景"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油防晒",
+      "scenario_type": "情感场景",
+      "description": "玉兰油产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "对比",
+        "趋势",
+        "情感"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油防晒",
+      "scenario_type": "使用场景",
+      "description": "玉兰油产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "情感",
+        "痛点",
+        "专家"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油防晒",
+      "scenario_type": "联名场景",
+      "description": "玉兰油产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "热点",
+        "趋势",
+        "联名"
+      ]
+    },
+    {
+      "client": "玉兰油",
+      "product": "玉兰油防晒",
+      "scenario_type": "促销场景",
+      "description": "玉兰油产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "故事",
+        "热点",
+        "情感"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "蛋白粉",
+      "scenario_type": "痛点场景",
+      "description": "用户使用汤臣倍健产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "优惠",
+        "痛点",
+        "对比"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "蛋白粉",
+      "scenario_type": "情感场景",
+      "description": "汤臣倍健产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "优惠",
+        "趋势",
+        "热点"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "蛋白粉",
+      "scenario_type": "使用场景",
+      "description": "汤臣倍健产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "情感",
+        "痛点",
+        "专家"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "蛋白粉",
+      "scenario_type": "联名场景",
+      "description": "汤臣倍健产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "优惠",
+        "痛点"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "蛋白粉",
+      "scenario_type": "促销场景",
+      "description": "汤臣倍健产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "趋势",
+        "痛点",
+        "故事"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "维生素",
+      "scenario_type": "痛点场景",
+      "description": "用户使用汤臣倍健产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "故事",
+        "对比",
+        "专家"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "维生素",
+      "scenario_type": "情感场景",
+      "description": "汤臣倍健产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "对比",
+        "场景",
+        "故事"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "维生素",
+      "scenario_type": "使用场景",
+      "description": "汤臣倍健产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "优惠",
+        "对比",
+        "热点"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "维生素",
+      "scenario_type": "联名场景",
+      "description": "汤臣倍健产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "场景",
+        "痛点",
+        "故事"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "维生素",
+      "scenario_type": "促销场景",
+      "description": "汤臣倍健产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "专家",
+        "对比",
+        "优惠"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "鱼油",
+      "scenario_type": "痛点场景",
+      "description": "用户使用汤臣倍健产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "联名",
+        "情感",
+        "热点"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "鱼油",
+      "scenario_type": "情感场景",
+      "description": "汤臣倍健产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "专家",
+        "情感"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "鱼油",
+      "scenario_type": "使用场景",
+      "description": "汤臣倍健产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "痛点",
+        "对比",
+        "优惠"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "鱼油",
+      "scenario_type": "联名场景",
+      "description": "汤臣倍健产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "故事",
+        "场景",
+        "优惠"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "鱼油",
+      "scenario_type": "促销场景",
+      "description": "汤臣倍健产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "专家",
+        "趋势",
+        "优惠"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "益生菌",
+      "scenario_type": "痛点场景",
+      "description": "用户使用汤臣倍健产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "优惠",
+        "热点",
+        "情感"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "益生菌",
+      "scenario_type": "情感场景",
+      "description": "汤臣倍健产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "对比",
+        "优惠",
+        "趋势"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "益生菌",
+      "scenario_type": "使用场景",
+      "description": "汤臣倍健产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "专家",
+        "情感",
+        "热点"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "益生菌",
+      "scenario_type": "联名场景",
+      "description": "汤臣倍健产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "优惠",
+        "联名"
+      ]
+    },
+    {
+      "client": "汤臣倍健",
+      "product": "益生菌",
+      "scenario_type": "促销场景",
+      "description": "汤臣倍健产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "故事",
+        "痛点",
+        "趋势"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存多维片",
+      "scenario_type": "痛点场景",
+      "description": "用户使用善存产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "热点",
+        "故事"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存多维片",
+      "scenario_type": "情感场景",
+      "description": "善存产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "情感",
+        "故事",
+        "优惠"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存多维片",
+      "scenario_type": "使用场景",
+      "description": "善存产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "趋势",
+        "故事",
+        "痛点"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存多维片",
+      "scenario_type": "联名场景",
+      "description": "善存产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "情感",
+        "趋势",
+        "对比"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存多维片",
+      "scenario_type": "促销场景",
+      "description": "善存产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "情感",
+        "对比",
+        "故事"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存银片",
+      "scenario_type": "痛点场景",
+      "description": "用户使用善存产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "故事",
+        "对比",
+        "痛点"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存银片",
+      "scenario_type": "情感场景",
+      "description": "善存产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "情感",
+        "对比"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存银片",
+      "scenario_type": "使用场景",
+      "description": "善存产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "情感",
+        "故事",
+        "联名"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存银片",
+      "scenario_type": "联名场景",
+      "description": "善存产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "情感",
+        "专家",
+        "场景"
+      ]
+    },
+    {
+      "client": "善存",
+      "product": "善存银片",
+      "scenario_type": "促销场景",
+      "description": "善存产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "场景",
+        "故事",
+        "趋势"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC清洁剂",
+      "scenario_type": "痛点场景",
+      "description": "用户使用HC产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "趋势",
+        "场景",
+        "专家"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC清洁剂",
+      "scenario_type": "情感场景",
+      "description": "HC产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "情感",
+        "场景",
+        "联名"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC清洁剂",
+      "scenario_type": "使用场景",
+      "description": "HC产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "优惠",
+        "对比",
+        "专家"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC清洁剂",
+      "scenario_type": "联名场景",
+      "description": "HC产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "对比",
+        "情感",
+        "热点"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC清洁剂",
+      "scenario_type": "促销场景",
+      "description": "HC产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "情感",
+        "专家",
+        "联名"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC消毒液",
+      "scenario_type": "痛点场景",
+      "description": "用户使用HC产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "趋势",
+        "故事",
+        "专家"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC消毒液",
+      "scenario_type": "情感场景",
+      "description": "HC产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "优惠",
+        "专家",
+        "对比"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC消毒液",
+      "scenario_type": "使用场景",
+      "description": "HC产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "优惠",
+        "故事",
+        "对比"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC消毒液",
+      "scenario_type": "联名场景",
+      "description": "HC产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "优惠",
+        "场景"
+      ]
+    },
+    {
+      "client": "HC",
+      "product": "HC消毒液",
+      "scenario_type": "促销场景",
+      "description": "HC产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "情感",
+        "场景",
+        "对比"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生厨房清洁",
+      "scenario_type": "痛点场景",
+      "description": "用户使用威猛先生产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "故事",
+        "趋势",
+        "优惠"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生厨房清洁",
+      "scenario_type": "情感场景",
+      "description": "威猛先生产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "对比",
+        "场景",
+        "情感"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生厨房清洁",
+      "scenario_type": "使用场景",
+      "description": "威猛先生产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "情感",
+        "痛点"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生厨房清洁",
+      "scenario_type": "联名场景",
+      "description": "威猛先生产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "优惠",
+        "专家",
+        "联名"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生厨房清洁",
+      "scenario_type": "促销场景",
+      "description": "威猛先生产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "痛点",
+        "场景",
+        "优惠"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生浴室清洁",
+      "scenario_type": "痛点场景",
+      "description": "用户使用威猛先生产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "专家",
+        "故事"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生浴室清洁",
+      "scenario_type": "情感场景",
+      "description": "威猛先生产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "趋势",
+        "热点",
+        "联名"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生浴室清洁",
+      "scenario_type": "使用场景",
+      "description": "威猛先生产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "场景",
+        "联名"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生浴室清洁",
+      "scenario_type": "联名场景",
+      "description": "威猛先生产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "痛点",
+        "优惠",
+        "对比"
+      ]
+    },
+    {
+      "client": "威猛先生",
+      "product": "威猛先生浴室清洁",
+      "scenario_type": "促销场景",
+      "description": "威猛先生产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "趋势",
+        "专家",
+        "痛点"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "猫粮",
+      "scenario_type": "痛点场景",
+      "description": "用户使用希宝产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "故事",
+        "痛点",
+        "联名"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "猫粮",
+      "scenario_type": "情感场景",
+      "description": "希宝产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "情感",
+        "痛点",
+        "热点"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "猫粮",
+      "scenario_type": "使用场景",
+      "description": "希宝产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "场景",
+        "专家"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "猫粮",
+      "scenario_type": "联名场景",
+      "description": "希宝产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "热点",
+        "故事",
+        "痛点"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "猫粮",
+      "scenario_type": "促销场景",
+      "description": "希宝产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "优惠",
+        "联名",
+        "对比"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "狗粮",
+      "scenario_type": "痛点场景",
+      "description": "用户使用希宝产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "专家",
+        "联名",
+        "对比"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "狗粮",
+      "scenario_type": "情感场景",
+      "description": "希宝产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "故事",
+        "痛点",
+        "趋势"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "狗粮",
+      "scenario_type": "使用场景",
+      "description": "希宝产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "趋势",
+        "联名"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "狗粮",
+      "scenario_type": "联名场景",
+      "description": "希宝产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "对比",
+        "联名",
+        "热点"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "狗粮",
+      "scenario_type": "促销场景",
+      "description": "希宝产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "故事",
+        "情感",
+        "趋势"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "宠物零食",
+      "scenario_type": "痛点场景",
+      "description": "用户使用希宝产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "趋势",
+        "联名",
+        "情感"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "宠物零食",
+      "scenario_type": "情感场景",
+      "description": "希宝产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "专家",
+        "对比"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "宠物零食",
+      "scenario_type": "使用场景",
+      "description": "希宝产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "场景",
+        "对比",
+        "痛点"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "宠物零食",
+      "scenario_type": "联名场景",
+      "description": "希宝产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "热点",
+        "痛点",
+        "优惠"
+      ]
+    },
+    {
+      "client": "希宝",
+      "product": "宠物零食",
+      "scenario_type": "促销场景",
+      "description": "希宝产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "情感",
+        "故事",
+        "趋势"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家猫粮",
+      "scenario_type": "痛点场景",
+      "description": "用户使用皇家产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "场景",
+        "趋势",
+        "痛点"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家猫粮",
+      "scenario_type": "情感场景",
+      "description": "皇家产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "专家",
+        "优惠",
+        "联名"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家猫粮",
+      "scenario_type": "使用场景",
+      "description": "皇家产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "场景",
+        "对比",
+        "优惠"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家猫粮",
+      "scenario_type": "联名场景",
+      "description": "皇家产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "对比",
+        "场景",
+        "联名"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家猫粮",
+      "scenario_type": "促销场景",
+      "description": "皇家产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "故事",
+        "专家",
+        "热点"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家狗粮",
+      "scenario_type": "痛点场景",
+      "description": "用户使用皇家产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "联名",
+        "场景",
+        "优惠"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家狗粮",
+      "scenario_type": "情感场景",
+      "description": "皇家产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "对比",
+        "热点",
+        "联名"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家狗粮",
+      "scenario_type": "使用场景",
+      "description": "皇家产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "联名",
+        "情感",
+        "趋势"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家狗粮",
+      "scenario_type": "联名场景",
+      "description": "皇家产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "场景",
+        "趋势",
+        "痛点"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家狗粮",
+      "scenario_type": "促销场景",
+      "description": "皇家产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "专家",
+        "优惠",
+        "场景"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家处方粮",
+      "scenario_type": "痛点场景",
+      "description": "用户使用皇家产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "热点",
+        "对比",
+        "趋势"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家处方粮",
+      "scenario_type": "情感场景",
+      "description": "皇家产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "对比",
+        "痛点",
+        "优惠"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家处方粮",
+      "scenario_type": "使用场景",
+      "description": "皇家产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "痛点",
+        "故事",
+        "情感"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家处方粮",
+      "scenario_type": "联名场景",
+      "description": "皇家产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "优惠",
+        "专家",
+        "联名"
+      ]
+    },
+    {
+      "client": "皇家",
+      "product": "皇家处方粮",
+      "scenario_type": "促销场景",
+      "description": "皇家产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "场景",
+        "痛点",
+        "对比"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦奶",
+      "scenario_type": "痛点场景",
+      "description": "用户使用OATLY产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "场景",
+        "联名",
+        "故事"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦奶",
+      "scenario_type": "情感场景",
+      "description": "OATLY产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "故事",
+        "趋势"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦奶",
+      "scenario_type": "使用场景",
+      "description": "OATLY产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "情感",
+        "热点",
+        "专家"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦奶",
+      "scenario_type": "联名场景",
+      "description": "OATLY产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "联名",
+        "对比"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦奶",
+      "scenario_type": "促销场景",
+      "description": "OATLY产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "对比",
+        "情感",
+        "故事"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "咖啡燕麦奶",
+      "scenario_type": "痛点场景",
+      "description": "用户使用OATLY产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "趋势",
+        "联名",
+        "专家"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "咖啡燕麦奶",
+      "scenario_type": "情感场景",
+      "description": "OATLY产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "对比",
+        "场景",
+        "痛点"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "咖啡燕麦奶",
+      "scenario_type": "使用场景",
+      "description": "OATLY产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "痛点",
+        "趋势",
+        "专家"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "咖啡燕麦奶",
+      "scenario_type": "联名场景",
+      "description": "OATLY产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "场景",
+        "故事",
+        "专家"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "咖啡燕麦奶",
+      "scenario_type": "促销场景",
+      "description": "OATLY产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "专家",
+        "故事",
+        "痛点"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦冰淇淋",
+      "scenario_type": "痛点场景",
+      "description": "用户使用OATLY产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "痛点",
+        "热点",
+        "专家"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦冰淇淋",
+      "scenario_type": "情感场景",
+      "description": "OATLY产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "趋势",
+        "联名",
+        "热点"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦冰淇淋",
+      "scenario_type": "使用场景",
+      "description": "OATLY产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "联名",
+        "趋势",
+        "痛点"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦冰淇淋",
+      "scenario_type": "联名场景",
+      "description": "OATLY产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "情感",
+        "故事"
+      ]
+    },
+    {
+      "client": "OATLY",
+      "product": "燕麦冰淇淋",
+      "scenario_type": "促销场景",
+      "description": "OATLY产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "联名",
+        "情感",
+        "痛点"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威啤酒",
+      "scenario_type": "痛点场景",
+      "description": "用户使用百威产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "优惠",
+        "情感",
+        "对比"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威啤酒",
+      "scenario_type": "情感场景",
+      "description": "百威产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "专家",
+        "联名",
+        "痛点"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威啤酒",
+      "scenario_type": "使用场景",
+      "description": "百威产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "热点",
+        "优惠",
+        "故事"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威啤酒",
+      "scenario_type": "联名场景",
+      "description": "百威产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "对比",
+        "趋势",
+        "情感"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威啤酒",
+      "scenario_type": "促销场景",
+      "description": "百威产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "对比",
+        "优惠",
+        "场景"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威纯生",
+      "scenario_type": "痛点场景",
+      "description": "用户使用百威产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "故事",
+        "场景"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威纯生",
+      "scenario_type": "情感场景",
+      "description": "百威产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "趋势",
+        "痛点",
+        "对比"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威纯生",
+      "scenario_type": "使用场景",
+      "description": "百威产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "痛点",
+        "情感",
+        "联名"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威纯生",
+      "scenario_type": "联名场景",
+      "description": "百威产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "热点",
+        "场景",
+        "专家"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威纯生",
+      "scenario_type": "促销场景",
+      "description": "百威产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "情感",
+        "优惠",
+        "热点"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威超级",
+      "scenario_type": "痛点场景",
+      "description": "用户使用百威产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "热点",
+        "情感",
+        "场景"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威超级",
+      "scenario_type": "情感场景",
+      "description": "百威产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "优惠",
+        "故事",
+        "联名"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威超级",
+      "scenario_type": "使用场景",
+      "description": "百威产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "专家",
+        "场景"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威超级",
+      "scenario_type": "联名场景",
+      "description": "百威产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "场景",
+        "情感"
+      ]
+    },
+    {
+      "client": "百威",
+      "product": "百威超级",
+      "scenario_type": "促销场景",
+      "description": "百威产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "优惠",
+        "故事",
+        "趋势"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "气泡水",
+      "scenario_type": "痛点场景",
+      "description": "用户使用元气森林产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "联名",
+        "专家",
+        "对比"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "气泡水",
+      "scenario_type": "情感场景",
+      "description": "元气森林产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "专家",
+        "趋势"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "气泡水",
+      "scenario_type": "使用场景",
+      "description": "元气森林产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "情感",
+        "痛点",
+        "故事"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "气泡水",
+      "scenario_type": "联名场景",
+      "description": "元气森林产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "痛点",
+        "专家",
+        "热点"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "气泡水",
+      "scenario_type": "促销场景",
+      "description": "元气森林产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "热点",
+        "痛点",
+        "趋势"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "外星人电解质水",
+      "scenario_type": "痛点场景",
+      "description": "用户使用元气森林产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "对比",
+        "专家",
+        "情感"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "外星人电解质水",
+      "scenario_type": "情感场景",
+      "description": "元气森林产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "联名",
+        "优惠",
+        "专家"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "外星人电解质水",
+      "scenario_type": "使用场景",
+      "description": "元气森林产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "优惠",
+        "对比",
+        "趋势"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "外星人电解质水",
+      "scenario_type": "联名场景",
+      "description": "元气森林产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "情感",
+        "联名",
+        "优惠"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "外星人电解质水",
+      "scenario_type": "促销场景",
+      "description": "元气森林产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "趋势",
+        "痛点",
+        "热点"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "燃茶",
+      "scenario_type": "痛点场景",
+      "description": "用户使用元气森林产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "场景",
+        "痛点",
+        "故事"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "燃茶",
+      "scenario_type": "情感场景",
+      "description": "元气森林产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "热点",
+        "对比",
+        "联名"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "燃茶",
+      "scenario_type": "使用场景",
+      "description": "元气森林产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "故事",
+        "专家",
+        "痛点"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "燃茶",
+      "scenario_type": "联名场景",
+      "description": "元气森林产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "优惠",
+        "对比",
+        "趋势"
+      ]
+    },
+    {
+      "client": "元气森林",
+      "product": "燃茶",
+      "scenario_type": "促销场景",
+      "description": "元气森林产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "痛点",
+        "对比",
+        "优惠"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "矿泉水",
+      "scenario_type": "痛点场景",
+      "description": "用户使用农夫山泉产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "痛点",
+        "趋势",
+        "对比"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "矿泉水",
+      "scenario_type": "情感场景",
+      "description": "农夫山泉产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "联名",
+        "痛点",
+        "对比"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "矿泉水",
+      "scenario_type": "使用场景",
+      "description": "农夫山泉产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "趋势",
+        "故事"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "矿泉水",
+      "scenario_type": "联名场景",
+      "description": "农夫山泉产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "专家",
+        "趋势",
+        "情感"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "矿泉水",
+      "scenario_type": "促销场景",
+      "description": "农夫山泉产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "趋势",
+        "情感",
+        "优惠"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "东方树叶",
+      "scenario_type": "痛点场景",
+      "description": "用户使用农夫山泉产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "痛点",
+        "优惠",
+        "对比"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "东方树叶",
+      "scenario_type": "情感场景",
+      "description": "农夫山泉产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "痛点",
+        "联名",
+        "对比"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "东方树叶",
+      "scenario_type": "使用场景",
+      "description": "农夫山泉产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "情感",
+        "故事",
+        "趋势"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "东方树叶",
+      "scenario_type": "联名场景",
+      "description": "农夫山泉产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "场景",
+        "痛点",
+        "热点"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "东方树叶",
+      "scenario_type": "促销场景",
+      "description": "农夫山泉产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "优惠",
+        "趋势",
+        "专家"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "茶π",
+      "scenario_type": "痛点场景",
+      "description": "用户使用农夫山泉产品解决的问题",
+      "content_angle": "问题解决型",
+      "keywords": [
+        "趋势",
+        "联名",
+        "场景"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "茶π",
+      "scenario_type": "情感场景",
+      "description": "农夫山泉产品带来的情感价值",
+      "content_angle": "情感共鸣型",
+      "keywords": [
+        "情感",
+        "场景",
+        "联名"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "茶π",
+      "scenario_type": "使用场景",
+      "description": "农夫山泉产品的具体使用场景",
+      "content_angle": "场景代入型",
+      "keywords": [
+        "对比",
+        "联名",
+        "痛点"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "茶π",
+      "scenario_type": "联名场景",
+      "description": "农夫山泉产品的跨界联名机会",
+      "content_angle": "联名合作型",
+      "keywords": [
+        "优惠",
+        "故事",
+        "情感"
+      ]
+    },
+    {
+      "client": "农夫山泉",
+      "product": "茶π",
+      "scenario_type": "促销场景",
+      "description": "农夫山泉产品的限时优惠场景",
+      "content_angle": "限时优惠型",
+      "keywords": [
+        "联名",
+        "故事",
+        "专家"
+      ]
+    }
+  ]
+}
