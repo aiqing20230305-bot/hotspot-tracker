@@ -1,5 +1,58 @@
 [
   {
+    "rank": 10,
+    "title": "打一针就好了成2026最火热梗 职场性骚扰引热议",
+    "hot_value": 280000000,
+    "url": "https://www.toutiao.com/article/7622329985289683496/",
+    "platform": "全网",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "网络热梗",
+    "sentiment": "负面",
+    "keywords": [
+      "打一针就好了",
+      "信达证券",
+      "左前明",
+      "性骚扰",
+      "职场"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T20:05:05"
+  },
+  {
+    "rank": 9,
+    "title": "B站首届AI创作大赛收官 8300份作品播放7亿",
+    "hot_value": 300000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_64869cc861303652",
+    "platform": "B站/微博",
+    "industries": [
+      "科技",
+      "二次元"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "B站",
+      "AI创作",
+      "updream",
+      "AI动画",
+      "创作者"
+    ],
+    "c": [
+      "小米",
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T20:05:05"
+  },
+  {
     "rank": 1,
     "title": "6G时代将至 1秒下载4K电影登顶热搜",
     "hot_value": 480000000,
@@ -2344,57 +2397,6 @@
     "c": [
       "索尼",
       "罗技"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 94,
-    "title": "2026年进度条已过四分之一",
-    "hot_value": 3000000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_01669cc74ac12852",
-    "platform": "全网",
-    "industries": [
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "生活热点",
-    "sentiment": "正面",
-    "keywords": [
-      "2026年",
-      "进度条",
-      "四月",
-      "时间"
-    ],
-    "c": [],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 95,
-    "title": "陶昕然乘风2026初舞台复刻冰嬉舞 孙俪连线提议",
-    "hot_value": 2800000,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzm.html",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "陶昕然",
-      "乘风2026",
-      "甄嬛传",
-      "安陵容",
-      "冰嬉舞"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士"
     ],
     "created_at": "2026-04-01T13:13:00"
   }
