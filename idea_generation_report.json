@@ -1,0 +1,485 @@
+{
+  "generated_at": "2026-04-02T07:17:39.947541",
+  "stats": {
+    "total": 160,
+    "by_client": {
+      "荣耀": 8,
+      "罗技": 8,
+      "小米": 8,
+      "索尼": 8,
+      "AHC": 8,
+      "多芬": 8,
+      "力士": 8,
+      "清扬": 8,
+      "玉兰油": 8,
+      "汤臣倍健": 8,
+      "善存": 8,
+      "HC": 8,
+      "威猛先生": 8,
+      "舒适": 8,
+      "希宝": 8,
+      "皇家": 8,
+      "OATLY": 8,
+      "百威": 8,
+      "元气森林": 8,
+      "农夫山泉": 8
+    },
+    "by_quality": {
+      "B级-良好": 157,
+      "A级-优质": 3
+    }
+  },
+  "sample_ideas": [
+    {
+      "id": "荣耀_20260402071739_45abdc2d",
+      "client": {
+        "brand": "荣耀",
+        "industry": "3C数码",
+        "products": [
+          "荣耀手机",
+          "荣耀平板",
+          "荣耀手表",
+          "荣耀折叠屏",
+          "荣耀笔记本",
+          "荣耀耳机",
+          "荣耀智慧屏"
+        ]
+      },
+      "title": "《从创意角度解读荣耀手机如何借势微信iOS端灰度测试折叠发图功能》",
+      "platform": "B站",
+      "angle": "创意借势",
+      "hot_topic": "微信iOS端灰度测试折叠发图功能",
+      "hot_topic_id": "ht_2",
+      "heat": "热搜第一",
+      "trend": "🔥🔥🔥 爆发式增长",
+      "product": "荣耀手机",
+      "keywords": [
+        "微信",
+        "折叠发图",
+        "iOS",
+        "新功能",
+        "社交"
+      ],
+      "quality_score": 0.719,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "60340+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.889417",
+      "profile_tags": {
+        "tone": "科技感",
+        "target": "年轻科技爱好者",
+        "selling_points": [
+          "创新",
+          "性能",
+          "性价比"
+        ]
+      }
+    },
+    {
+      "id": "荣耀_20260402071739_ff850795",
+      "client": {
+        "brand": "荣耀",
+        "industry": "3C数码",
+        "products": [
+          "荣耀手机",
+          "荣耀平板",
+          "荣耀手表",
+          "荣耀折叠屏",
+          "荣耀笔记本",
+          "荣耀耳机",
+          "荣耀智慧屏"
+        ]
+      },
+      "title": "《荣耀平板借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+      "platform": "B站",
+      "angle": "创意借势",
+      "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+      "hot_topic_id": "ht_4",
+      "heat": "热搜前三",
+      "trend": "🔥🔥🔥 爆发式增长",
+      "product": "荣耀平板",
+      "keywords": [
+        "抖音热搜",
+        "足球",
+        "AI",
+        "银发经济",
+        "航空"
+      ],
+      "quality_score": 0.719,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "50954+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.889769",
+      "profile_tags": {
+        "tone": "科技感",
+        "target": "年轻科技爱好者",
+        "selling_points": [
+          "创新",
+          "性能",
+          "性价比"
+        ]
+      }
+    },
+    {
+      "id": "荣耀_20260402071739_899d6cde",
+      "client": {
+        "brand": "荣耀",
+        "industry": "3C数码",
+        "products": [
+          "荣耀手机",
+          "荣耀平板",
+          "荣耀手表",
+          "荣耀折叠屏",
+          "荣耀笔记本",
+          "荣耀耳机",
+          "荣耀智慧屏"
+        ]
+      },
+      "title": "《荣耀手表借势伊朗海军司令遇难 美方威胁彻底摧毁能源设的创意玩法》",
+      "platform": "B站",
+      "angle": "创意借势",
+      "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
+      "hot_topic_id": "ht_9",
+      "heat": "高热",
+      "trend": "🔥🔥🔥 爆发式增长",
+      "product": "荣耀手表",
+      "keywords": [
+        "伊朗",
+        "海军司令",
+        "霍尔木兹海峡",
+        "能源",
+        "中东局势"
+      ],
+      "quality_score": 0.698,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "15813+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.890032",
+      "profile_tags": {
+        "tone": "科技感",
+        "target": "年轻科技爱好者",
+        "selling_points": [
+          "创新",
+          "性能",
+          "性价比"
+        ]
+      }
+    },
+    {
+      "id": "荣耀_20260402071739_554fbea4",
+      "client": {
+        "brand": "荣耀",
+        "industry": "3C数码",
+        "products": [
+          "荣耀手机",
+          "荣耀平板",
+          "荣耀手表",
+          "荣耀折叠屏",
+          "荣耀笔记本",
+          "荣耀耳机",
+          "荣耀智慧屏"
+        ]
+      },
+      "title": "《伊朗海军司令遇难 美方威胁彻底摧毁能源设趋势下荣耀折叠屏的机会》",
+      "platform": "B站",
+      "angle": "趋势分析",
+      "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
+      "hot_topic_id": "ht_9",
+      "heat": "高热",
+      "trend": "🔥🔥🔥 爆发式增长",
+      "product": "荣耀折叠屏",
+      "keywords": [
+        "伊朗",
+        "海军司令",
+        "霍尔木兹海峡",
+        "能源",
+        "中东局势"
+      ],
+      "quality_score": 0.698,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "15813+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.890260",
+      "profile_tags": {
+        "tone": "科技感",
+        "target": "年轻科技爱好者",
+        "selling_points": [
+          "创新",
+          "性能",
+          "性价比"
+        ]
+      }
+    },
+    {
+      "id": "荣耀_20260402071739_d69f61fd",
+      "client": {
+        "brand": "荣耀",
+        "industry": "3C数码",
+        "products": [
+          "荣耀手机",
+          "荣耀平板",
+          "荣耀手表",
+          "荣耀折叠屏",
+          "荣耀笔记本",
+          "荣耀耳机",
+          "荣耀智慧屏"
+        ]
+      },
+      "title": "《从创意角度解读荣耀笔记本如何借势世界数据组织在北京成立 总部设于中国》",
+      "platform": "B站",
+      "angle": "创意借势",
+      "hot_topic": "世界数据组织在北京成立 总部设于中国",
+      "hot_topic_id": "ht_16",
+      "heat": "温热",
+      "trend": "🔥 新晋热点",
+      "product": "荣耀笔记本",
+      "keywords": [
+        "世界数据组织",
+        "北京",
+        "数据治理",
+        "数字经济",
+        "国际合作"
+      ],
+      "quality_score": 0.698,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "5930+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.890485",
+      "profile_tags": {
+        "tone": "科技感",
+        "target": "年轻科技爱好者",
+        "selling_points": [
+          "创新",
+          "性能",
+          "性价比"
+        ]
+      }
+    },
+    {
+      "id": "荣耀_20260402071739_26263a8f",
+      "client": {
+        "brand": "荣耀",
+        "industry": "3C数码",
+        "products": [
+          "荣耀手机",
+          "荣耀平板",
+          "荣耀手表",
+          "荣耀折叠屏",
+          "荣耀笔记本",
+          "荣耀耳机",
+          "荣耀智慧屏"
+        ]
+      },
+      "title": "《深度分析世界数据组织在北京成立 总部设于中国对3C数码的影响及荣耀耳机的机遇》",
+      "platform": "B站",
+      "angle": "趋势分析",
+      "hot_topic": "世界数据组织在北京成立 总部设于中国",
+      "hot_topic_id": "ht_16",
+      "heat": "温热",
+      "trend": "🔥 新晋热点",
+      "product": "荣耀耳机",
+      "keywords": [
+        "世界数据组织",
+        "北京",
+        "数据治理",
+        "数字经济",
+        "国际合作"
+      ],
+      "quality_score": 0.698,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "5930+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.890699",
+      "profile_tags": {
+        "tone": "科技感",
+        "target": "年轻科技爱好者",
+        "selling_points": [
+          "创新",
+          "性能",
+          "性价比"
+        ]
+      }
+    },
+    {
+      "id": "荣耀_20260402071739_b73360bc",
+      "client": {
+        "brand": "荣耀",
+        "industry": "3C数码",
+        "products": [
+          "荣耀手机",
+          "荣耀平板",
+          "荣耀手表",
+          "荣耀折叠屏",
+          "荣耀笔记本",
+          "荣耀耳机",
+          "荣耀智慧屏"
+        ]
+      },
+      "title": "《4月1日起全国严查后排未系安全带 违规将：荣耀智慧屏如何传递温度》",
+      "platform": "B站",
+      "angle": "情感共鸣",
+      "hot_topic": "4月1日起全国严查后排未系安全带 违规将处罚",
+      "hot_topic_id": "ht_28",
+      "heat": "温热",
+      "trend": "🔥 新晋热点",
+      "product": "荣耀智慧屏",
+      "keywords": [
+        "安全带",
+        "后排乘客",
+        "交通法规",
+        "执法",
+        "4月1日"
+      ],
+      "quality_score": 0.714,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "2937+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.890914",
+      "profile_tags": {
+        "tone": "科技感",
+        "target": "年轻科技爱好者",
+        "selling_points": [
+          "创新",
+          "性能",
+          "性价比"
+        ]
+      }
+    },
+    {
+      "id": "荣耀_20260402071739_0a763fbe",
+      "client": {
+        "brand": "荣耀",
+        "industry": "3C数码",
+        "products": [
+          "荣耀手机",
+          "荣耀平板",
+          "荣耀手表",
+          "荣耀折叠屏",
+          "荣耀笔记本",
+          "荣耀耳机",
+          "荣耀智慧屏"
+        ]
+      },
+      "title": "《4月1日起全国严查后排未系安全带 违规将背后的社会趋势，荣耀手机如何响应》",
+      "platform": "B站",
+      "angle": "趋势分析",
+      "hot_topic": "4月1日起全国严查后排未系安全带 违规将处罚",
+      "hot_topic_id": "ht_28",
+      "heat": "温热",
+      "trend": "🔥 新晋热点",
+      "product": "荣耀手机",
+      "keywords": [
+        "安全带",
+        "后排乘客",
+        "交通法规",
+        "执法",
+        "4月1日"
+      ],
+      "quality_score": 0.714,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "2937+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.891128",
+      "profile_tags": {
+        "tone": "科技感",
+        "target": "年轻科技爱好者",
+        "selling_points": [
+          "创新",
+          "性能",
+          "性价比"
+        ]
+      }
+    },
+    {
+      "id": "罗技_20260402071739_efa43f8c",
+      "client": {
+        "brand": "罗技",
+        "industry": "3C数码",
+        "products": [
+          "罗技鼠标",
+          "罗技键盘",
+          "罗技耳机",
+          "罗技摄像头",
+          "罗技游戏手柄",
+          "罗技音箱",
+          "罗技会议设备"
+        ]
+      },
+      "title": "《从创意角度解读罗技鼠标如何借势微信iOS端灰度测试折叠发图功能》",
+      "platform": "B站",
+      "angle": "创意借势",
+      "hot_topic": "微信iOS端灰度测试折叠发图功能",
+      "hot_topic_id": "ht_2",
+      "heat": "热搜第一",
+      "trend": "🔥🔥🔥 爆发式增长",
+      "product": "罗技鼠标",
+      "keywords": [
+        "微信",
+        "折叠发图",
+        "iOS",
+        "新功能",
+        "社交"
+      ],
+      "quality_score": 0.719,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "54854+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.891363",
+      "profile_tags": {
+        "tone": "专业",
+        "target": "办公/游戏人群",
+        "selling_points": [
+          "精准",
+          "舒适",
+          "专业"
+        ]
+      }
+    },
+    {
+      "id": "罗技_20260402071739_67b02ead",
+      "client": {
+        "brand": "罗技",
+        "industry": "3C数码",
+        "products": [
+          "罗技鼠标",
+          "罗技键盘",
+          "罗技耳机",
+          "罗技摄像头",
+          "罗技游戏手柄",
+          "罗技音箱",
+          "罗技会议设备"
+        ]
+      },
+      "title": "《从创意角度解读罗技键盘如何借势B站首届AI创作大赛收官 8300份作品》",
+      "platform": "B站",
+      "angle": "创意借势",
+      "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
+      "hot_topic_id": "ht_7",
+      "heat": "热搜前三",
+      "trend": "🔥🔥 快速上升",
+      "product": "罗技键盘",
+      "keywords": [
+        "B站",
+        "AI创作",
+        "updream",
+        "AI动画",
+        "创作者"
+      ],
+      "quality_score": 0.731,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "36929+",
+      "status": "pending",
+      "created_at": "2026-04-02T07:17:39.891595",
+      "profile_tags": {
+        "tone": "专业",
+        "target": "办公/游戏人群",
+        "selling_points": [
+          "精准",
+          "舒适",
+          "专业"
+        ]
+      }
+    }
+  ],
+  "hot_topics_used": 30
+}

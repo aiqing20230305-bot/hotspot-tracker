@@ -1,5 +1,6956 @@
 [
   {
+    "id": "荣耀_20260402071739_45abdc2d",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《从创意角度解读荣耀手机如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀手机",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "60340+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.889417",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性能",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_20260402071739_ff850795",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀平板借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_topic_id": "ht_4",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀平板",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "50954+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.889769",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性能",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_20260402071739_899d6cde",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀手表借势伊朗海军司令遇难 美方威胁彻底摧毁能源设的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
+    "hot_topic_id": "ht_9",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀手表",
+    "keywords": [
+      "伊朗",
+      "海军司令",
+      "霍尔木兹海峡",
+      "能源",
+      "中东局势"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "15813+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.890032",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性能",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_20260402071739_554fbea4",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《伊朗海军司令遇难 美方威胁彻底摧毁能源设趋势下荣耀折叠屏的机会》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
+    "hot_topic_id": "ht_9",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀折叠屏",
+    "keywords": [
+      "伊朗",
+      "海军司令",
+      "霍尔木兹海峡",
+      "能源",
+      "中东局势"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "15813+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.890260",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性能",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_20260402071739_d69f61fd",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《从创意角度解读荣耀笔记本如何借势世界数据组织在北京成立 总部设于中国》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "世界数据组织在北京成立 总部设于中国",
+    "hot_topic_id": "ht_16",
+    "heat": "温热",
+    "trend": "🔥 新晋热点",
+    "product": "荣耀笔记本",
+    "keywords": [
+      "世界数据组织",
+      "北京",
+      "数据治理",
+      "数字经济",
+      "国际合作"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5930+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.890485",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性能",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_20260402071739_26263a8f",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《深度分析世界数据组织在北京成立 总部设于中国对3C数码的影响及荣耀耳机的机遇》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "世界数据组织在北京成立 总部设于中国",
+    "hot_topic_id": "ht_16",
+    "heat": "温热",
+    "trend": "🔥 新晋热点",
+    "product": "荣耀耳机",
+    "keywords": [
+      "世界数据组织",
+      "北京",
+      "数据治理",
+      "数字经济",
+      "国际合作"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5930+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.890699",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性能",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_20260402071739_b73360bc",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《4月1日起全国严查后排未系安全带 违规将：荣耀智慧屏如何传递温度》",
+    "platform": "B站",
+    "angle": "情感共鸣",
+    "hot_topic": "4月1日起全国严查后排未系安全带 违规将处罚",
+    "hot_topic_id": "ht_28",
+    "heat": "温热",
+    "trend": "🔥 新晋热点",
+    "product": "荣耀智慧屏",
+    "keywords": [
+      "安全带",
+      "后排乘客",
+      "交通法规",
+      "执法",
+      "4月1日"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "2937+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.890914",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性能",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_20260402071739_0a763fbe",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《4月1日起全国严查后排未系安全带 违规将背后的社会趋势，荣耀手机如何响应》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "4月1日起全国严查后排未系安全带 违规将处罚",
+    "hot_topic_id": "ht_28",
+    "heat": "温热",
+    "trend": "🔥 新晋热点",
+    "product": "荣耀手机",
+    "keywords": [
+      "安全带",
+      "后排乘客",
+      "交通法规",
+      "执法",
+      "4月1日"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "2937+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.891128",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性能",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "罗技_20260402071739_efa43f8c",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《从创意角度解读罗技鼠标如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技鼠标",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.891363",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "办公/游戏人群",
+      "selling_points": [
+        "精准",
+        "舒适",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "罗技_20260402071739_67b02ead",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《从创意角度解读罗技键盘如何借势B站首届AI创作大赛收官 8300份作品》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
+    "hot_topic_id": "ht_7",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "罗技键盘",
+    "keywords": [
+      "B站",
+      "AI创作",
+      "updream",
+      "AI动画",
+      "创作者"
+    ],
+    "quality_score": 0.731,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "36929+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.891595",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "办公/游戏人群",
+      "selling_points": [
+        "精准",
+        "舒适",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "罗技_20260402071739_3e1fd3e6",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《深度分析B站首届AI创作大赛收官 8300份作品对3C数码的影响及罗技耳机的机遇》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
+    "hot_topic_id": "ht_7",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "罗技耳机",
+    "keywords": [
+      "B站",
+      "AI创作",
+      "updream",
+      "AI动画",
+      "创作者"
+    ],
+    "quality_score": 0.731,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "36929+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.891806",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "办公/游戏人群",
+      "selling_points": [
+        "精准",
+        "舒适",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "罗技_20260402071739_af78bfd6",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技摄像头借势郭敬明执导月鳞绮纪空降开播 融合聊斋山海的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "郭敬明执导月鳞绮纪空降开播 融合聊斋山海经",
+    "hot_topic_id": "ht_11",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技摄像头",
+    "keywords": [
+      "郭敬明",
+      "月鳞绮纪",
+      "聊斋",
+      "山海经",
+      "空降开播"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "9469+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.892018",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "办公/游戏人群",
+      "selling_points": [
+        "精准",
+        "舒适",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "罗技_20260402071739_b336d8bf",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《郭敬明执导月鳞绮纪空降开播 融合聊斋山海趋势下罗技游戏手柄的机会》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "郭敬明执导月鳞绮纪空降开播 融合聊斋山海经",
+    "hot_topic_id": "ht_11",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技游戏手柄",
+    "keywords": [
+      "郭敬明",
+      "月鳞绮纪",
+      "聊斋",
+      "山海经",
+      "空降开播"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "9469+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.892230",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "办公/游戏人群",
+      "selling_points": [
+        "精准",
+        "舒适",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "罗技_20260402071739_e9c4cfd4",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《从创意角度解读罗技音箱如何借势世界数据组织在北京成立 总部设于中国》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "世界数据组织在北京成立 总部设于中国",
+    "hot_topic_id": "ht_16",
+    "heat": "温热",
+    "trend": "🔥 新晋热点",
+    "product": "罗技音箱",
+    "keywords": [
+      "世界数据组织",
+      "北京",
+      "数据治理",
+      "数字经济",
+      "国际合作"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5391+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.892442",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "办公/游戏人群",
+      "selling_points": [
+        "精准",
+        "舒适",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "罗技_20260402071739_cbdae8a9",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《深度分析世界数据组织在北京成立 总部设于中国对3C数码的影响及罗技会议设备的机遇》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "世界数据组织在北京成立 总部设于中国",
+    "hot_topic_id": "ht_16",
+    "heat": "温热",
+    "trend": "🔥 新晋热点",
+    "product": "罗技会议设备",
+    "keywords": [
+      "世界数据组织",
+      "北京",
+      "数据治理",
+      "数字经济",
+      "国际合作"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5391+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.892655",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "办公/游戏人群",
+      "selling_points": [
+        "精准",
+        "舒适",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "罗技_20260402071739_bf5de210",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技鼠标借势抖音发布未来导演扶持计划 100亿流量池的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "抖音发布未来导演扶持计划 100亿流量池",
+    "hot_topic_id": "ht_27",
+    "heat": "温热",
+    "trend": "🔥 新晋热点",
+    "product": "罗技鼠标",
+    "keywords": [
+      "抖音",
+      "导演扶持计划",
+      "创作者",
+      "流量池",
+      "内容产业"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "2995+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.892868",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "办公/游戏人群",
+      "selling_points": [
+        "精准",
+        "舒适",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "小米_20260402071739_b8594740",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《从创意角度解读小米手机如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米手机",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "70214+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.893105",
+    "profile_tags": {
+      "tone": "亲民",
+      "target": "大众消费者",
+      "selling_points": [
+        "性价比",
+        "智能生态",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "小米_20260402071739_74614e0a",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对3C数码的影响及小米平板的机遇》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米平板",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "70214+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.893319",
+    "profile_tags": {
+      "tone": "亲民",
+      "target": "大众消费者",
+      "selling_points": [
+        "性价比",
+        "智能生态",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "小米_20260402071739_fad62ed8",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《从创意角度解读小米手环如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米手环",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "65825+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.893533",
+    "profile_tags": {
+      "tone": "亲民",
+      "target": "大众消费者",
+      "selling_points": [
+        "性价比",
+        "智能生态",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "小米_20260402071739_8c43026a",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《深度分析微信iOS端灰度测试折叠发图功能对3C数码的影响及小米智能家居的机遇》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米智能家居",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "65825+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.893746",
+    "profile_tags": {
+      "tone": "亲民",
+      "target": "大众消费者",
+      "selling_points": [
+        "性价比",
+        "智能生态",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "小米_20260402071739_8b116f77",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米电视借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_topic_id": "ht_4",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米电视",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "55586+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.893958",
+    "profile_tags": {
+      "tone": "亲民",
+      "target": "大众消费者",
+      "selling_points": [
+        "性价比",
+        "智能生态",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "小米_20260402071739_5e4a28d0",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《抖音热点榜: 国足0:2喀麦隆 苹果AI趋势下小米路由器的机会》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_topic_id": "ht_4",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米路由器",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "55586+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.894171",
+    "profile_tags": {
+      "tone": "亲民",
+      "target": "大众消费者",
+      "selling_points": [
+        "性价比",
+        "智能生态",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "小米_20260402071739_8545985b",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米充电器借势伊朗海军司令遇难 美方威胁彻底摧毁能源设的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
+    "hot_topic_id": "ht_9",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米充电器",
+    "keywords": [
+      "伊朗",
+      "海军司令",
+      "霍尔木兹海峡",
+      "能源",
+      "中东局势"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "17251+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.894623",
+    "profile_tags": {
+      "tone": "亲民",
+      "target": "大众消费者",
+      "selling_points": [
+        "性价比",
+        "智能生态",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "小米_20260402071739_c38c5f8b",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《伊朗海军司令遇难 美方威胁彻底摧毁能源设趋势下小米耳机的机会》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
+    "hot_topic_id": "ht_9",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米耳机",
+    "keywords": [
+      "伊朗",
+      "海军司令",
+      "霍尔木兹海峡",
+      "能源",
+      "中东局势"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "17251+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.894836",
+    "profile_tags": {
+      "tone": "亲民",
+      "target": "大众消费者",
+      "selling_points": [
+        "性价比",
+        "智能生态",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "索尼_20260402071739_d54dbfc1",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《从创意角度解读索尼相机如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼相机",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.895068",
+    "profile_tags": {
+      "tone": "高端",
+      "target": "影音发烧友",
+      "selling_points": [
+        "画质",
+        "音质",
+        "黑科技"
+      ]
+    }
+  },
+  {
+    "id": "索尼_20260402071739_6731601d",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对3C数码的影响及索尼耳机的机遇》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼耳机",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.895281",
+    "profile_tags": {
+      "tone": "高端",
+      "target": "影音发烧友",
+      "selling_points": [
+        "画质",
+        "音质",
+        "黑科技"
+      ]
+    }
+  },
+  {
+    "id": "索尼_20260402071739_f927a18c",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼游戏机借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_topic_id": "ht_4",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼游戏机",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "46321+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.895498",
+    "profile_tags": {
+      "tone": "高端",
+      "target": "影音发烧友",
+      "selling_points": [
+        "画质",
+        "音质",
+        "黑科技"
+      ]
+    }
+  },
+  {
+    "id": "索尼_20260402071739_e9537d21",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《从创意角度解读索尼电视如何借势B站首届AI创作大赛收官 8300份作品》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
+    "hot_topic_id": "ht_7",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "索尼电视",
+    "keywords": [
+      "B站",
+      "AI创作",
+      "updream",
+      "AI动画",
+      "创作者"
+    ],
+    "quality_score": 0.731,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "36929+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.895731",
+    "profile_tags": {
+      "tone": "高端",
+      "target": "影音发烧友",
+      "selling_points": [
+        "画质",
+        "音质",
+        "黑科技"
+      ]
+    }
+  },
+  {
+    "id": "索尼_20260402071739_8efd35cd",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《深度分析B站首届AI创作大赛收官 8300份作品对3C数码的影响及索尼手机的机遇》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
+    "hot_topic_id": "ht_7",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "索尼手机",
+    "keywords": [
+      "B站",
+      "AI创作",
+      "updream",
+      "AI动画",
+      "创作者"
+    ],
+    "quality_score": 0.731,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "36929+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.895944",
+    "profile_tags": {
+      "tone": "高端",
+      "target": "影音发烧友",
+      "selling_points": [
+        "画质",
+        "音质",
+        "黑科技"
+      ]
+    }
+  },
+  {
+    "id": "索尼_20260402071739_985bafcf",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼音箱借势伊朗海军司令遇难 美方威胁彻底摧毁能源设的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
+    "hot_topic_id": "ht_9",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼音箱",
+    "keywords": [
+      "伊朗",
+      "海军司令",
+      "霍尔木兹海峡",
+      "能源",
+      "中东局势"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14376+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.896159",
+    "profile_tags": {
+      "tone": "高端",
+      "target": "影音发烧友",
+      "selling_points": [
+        "画质",
+        "音质",
+        "黑科技"
+      ]
+    }
+  },
+  {
+    "id": "索尼_20260402071739_1b3699f5",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《伊朗海军司令遇难 美方威胁彻底摧毁能源设趋势下索尼播放器的机会》",
+    "platform": "B站",
+    "angle": "趋势分析",
+    "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
+    "hot_topic_id": "ht_9",
+    "heat": "高热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼播放器",
+    "keywords": [
+      "伊朗",
+      "海军司令",
+      "霍尔木兹海峡",
+      "能源",
+      "中东局势"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14376+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.896372",
+    "profile_tags": {
+      "tone": "高端",
+      "target": "影音发烧友",
+      "selling_points": [
+        "画质",
+        "音质",
+        "黑科技"
+      ]
+    }
+  },
+  {
+    "id": "索尼_20260402071739_e1b14b30",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼相机借势郭敬明执导月鳞绮纪空降开播 融合聊斋山海的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "郭敬明执导月鳞绮纪空降开播 融合聊斋山海经",
+    "hot_topic_id": "ht_11",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼相机",
+    "keywords": [
+      "郭敬明",
+      "月鳞绮纪",
+      "聊斋",
+      "山海经",
+      "空降开播"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "9469+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.896587",
+    "profile_tags": {
+      "tone": "高端",
+      "target": "影音发烧友",
+      "selling_points": [
+        "画质",
+        "音质",
+        "黑科技"
+      ]
+    }
+  },
+  {
+    "id": "AHC_20260402071739_74c8a18f",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHC面膜借势李荣浩回应抄袭风波 登热搜第一的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "李荣浩回应抄袭风波 登热搜第一",
+    "hot_topic_id": "ht_10",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC面膜",
+    "keywords": [
+      "李荣浩",
+      "抄袭",
+      "小眼睛",
+      "Signal",
+      "热搜"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10319+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.896824",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护",
+        "玻尿酸"
+      ]
+    }
+  },
+  {
+    "id": "AHC_20260402071739_574cdf11",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《李荣浩回应抄袭风波 登热搜第一趋势下AHC精华的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "李荣浩回应抄袭风波 登热搜第一",
+    "hot_topic_id": "ht_10",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC精华",
+    "keywords": [
+      "李荣浩",
+      "抄袭",
+      "小眼睛",
+      "Signal",
+      "热搜"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10319+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.897031",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护",
+        "玻尿酸"
+      ]
+    }
+  },
+  {
+    "id": "AHC_20260402071739_56e9f9f4",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHC眼霜借势乘风2026乌兰图雅萧蔷等33位女性嘉宾的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "乘风2026乌兰图雅萧蔷等33位女性嘉宾集结",
+    "hot_topic_id": "ht_13",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "AHC眼霜",
+    "keywords": [
+      "乘风2026",
+      "乌兰图雅",
+      "萧蔷",
+      "浪姐",
+      "综艺"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "7891+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.897491",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护",
+        "玻尿酸"
+      ]
+    }
+  },
+  {
+    "id": "AHC_20260402071739_df2ac127",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《乘风2026乌兰图雅萧蔷等33位女性嘉宾趋势下AHC防晒霜的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "乘风2026乌兰图雅萧蔷等33位女性嘉宾集结",
+    "hot_topic_id": "ht_13",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "AHC防晒霜",
+    "keywords": [
+      "乘风2026",
+      "乌兰图雅",
+      "萧蔷",
+      "浪姐",
+      "综艺"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "7891+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.897697",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护",
+        "玻尿酸"
+      ]
+    }
+  },
+  {
+    "id": "AHC_20260402071739_8c0c1ba4",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHC水乳借势鞠婧祎丝芭传媒纠纷再上热搜 税务局回应的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "鞠婧祎丝芭传媒纠纷再上热搜 税务局回应",
+    "hot_topic_id": "ht_18",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC水乳",
+    "keywords": [
+      "鞠婧祎",
+      "丝芭传媒",
+      "合约纠纷",
+      "税务",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5031+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.897903",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护",
+        "玻尿酸"
+      ]
+    }
+  },
+  {
+    "id": "AHC_20260402071739_73f49e26",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《鞠婧祎丝芭传媒纠纷再上热搜 税务局回应趋势下AHC面霜的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "鞠婧祎丝芭传媒纠纷再上热搜 税务局回应",
+    "hot_topic_id": "ht_18",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC面霜",
+    "keywords": [
+      "鞠婧祎",
+      "丝芭传媒",
+      "合约纠纷",
+      "税务",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5031+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.898111",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护",
+        "玻尿酸"
+      ]
+    }
+  },
+  {
+    "id": "AHC_20260402071739_2a86fe9d",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHC卸妆水借势活人感成2026流行词 指真实自然不刻意的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "活人感成2026流行词 指真实自然不刻意伪装",
+    "hot_topic_id": "ht_19",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "AHC卸妆水",
+    "keywords": [
+      "活人感",
+      "真实",
+      "自然",
+      "流行词"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "4613+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.898320",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护",
+        "玻尿酸"
+      ]
+    }
+  },
+  {
+    "id": "AHC_20260402071739_febcc95c",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《活人感成2026流行词 指真实自然不刻意趋势下AHC面膜的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "活人感成2026流行词 指真实自然不刻意伪装",
+    "hot_topic_id": "ht_19",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "AHC面膜",
+    "keywords": [
+      "活人感",
+      "真实",
+      "自然",
+      "流行词"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "4613+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.898528",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护",
+        "玻尿酸"
+      ]
+    }
+  },
+  {
+    "id": "多芬_20260402071739_4b04bb2c",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬洗面奶借势李荣浩回应抄袭风波 登热搜第一的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "李荣浩回应抄袭风波 登热搜第一",
+    "hot_topic_id": "ht_10",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬洗面奶",
+    "keywords": [
+      "李荣浩",
+      "抄袭",
+      "小眼睛",
+      "Signal",
+      "热搜"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10319+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.898755",
+    "profile_tags": {
+      "tone": "温和",
+      "target": "家庭用户",
+      "selling_points": [
+        "滋润",
+        "温和",
+        "真实美"
+      ]
+    }
+  },
+  {
+    "id": "多芬_20260402071739_6da8291f",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬护肤霜借势李湘携王诗龄现身韶山献花 瘦了20斤的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "李湘携王诗龄现身韶山献花 瘦了20斤",
+    "hot_topic_id": "ht_12",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬护肤霜",
+    "keywords": [
+      "李湘",
+      "王诗龄",
+      "韶山",
+      "瘦身",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8146+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.899091",
+    "profile_tags": {
+      "tone": "温和",
+      "target": "家庭用户",
+      "selling_points": [
+        "滋润",
+        "温和",
+        "真实美"
+      ]
+    }
+  },
+  {
+    "id": "多芬_20260402071739_0df4aa1c",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬沐浴露借势活人感成2026流行词 指真实自然不刻意的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "活人感成2026流行词 指真实自然不刻意伪装",
+    "hot_topic_id": "ht_19",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "多芬沐浴露",
+    "keywords": [
+      "活人感",
+      "真实",
+      "自然",
+      "流行词"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "4613+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.899758",
+    "profile_tags": {
+      "tone": "温和",
+      "target": "家庭用户",
+      "selling_points": [
+        "滋润",
+        "温和",
+        "真实美"
+      ]
+    }
+  },
+  {
+    "id": "多芬_20260402071739_b94f6409",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《活人感成2026流行词 指真实自然不刻意趋势下多芬身体乳的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "活人感成2026流行词 指真实自然不刻意伪装",
+    "hot_topic_id": "ht_19",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "多芬身体乳",
+    "keywords": [
+      "活人感",
+      "真实",
+      "自然",
+      "流行词"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "4613+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.899975",
+    "profile_tags": {
+      "tone": "温和",
+      "target": "家庭用户",
+      "selling_points": [
+        "滋润",
+        "温和",
+        "真实美"
+      ]
+    }
+  },
+  {
+    "id": "多芬_20260402071739_1aed0fb5",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬洗发水借势张国荣逝世23周年 螺蛳粉哥发文纪念的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "张国荣逝世23周年 螺蛳粉哥发文纪念",
+    "hot_topic_id": "ht_88",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "多芬洗发水",
+    "keywords": [
+      "张国荣",
+      "逝世23周年",
+      "愚人节",
+      "纪念"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "599+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.900191",
+    "profile_tags": {
+      "tone": "温和",
+      "target": "家庭用户",
+      "selling_points": [
+        "滋润",
+        "温和",
+        "真实美"
+      ]
+    }
+  },
+  {
+    "id": "多芬_20260402071739_540462e5",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《张国荣逝世23周年 螺蛳粉哥发文纪念趋势下多芬护发素的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "张国荣逝世23周年 螺蛳粉哥发文纪念",
+    "hot_topic_id": "ht_88",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "多芬护发素",
+    "keywords": [
+      "张国荣",
+      "逝世23周年",
+      "愚人节",
+      "纪念"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "599+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.900407",
+    "profile_tags": {
+      "tone": "温和",
+      "target": "家庭用户",
+      "selling_points": [
+        "滋润",
+        "温和",
+        "真实美"
+      ]
+    }
+  },
+  {
+    "id": "多芬_20260402071739_6270250a",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《从创意角度解读多芬香皂如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬香皂",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.900623",
+    "profile_tags": {
+      "tone": "温和",
+      "target": "家庭用户",
+      "selling_points": [
+        "滋润",
+        "温和",
+        "真实美"
+      ]
+    }
+  },
+  {
+    "id": "多芬_20260402071739_6828556a",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对护肤的影响及多芬洗面奶的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬洗面奶",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.900842",
+    "profile_tags": {
+      "tone": "温和",
+      "target": "家庭用户",
+      "selling_points": [
+        "滋润",
+        "温和",
+        "真实美"
+      ]
+    }
+  },
+  {
+    "id": "力士_20260402071739_775be63e",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士香皂借势李荣浩回应抄袭风波 登热搜第一的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "李荣浩回应抄袭风波 登热搜第一",
+    "hot_topic_id": "ht_10",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士香皂",
+    "keywords": [
+      "李荣浩",
+      "抄袭",
+      "小眼睛",
+      "Signal",
+      "热搜"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10319+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.901079",
+    "profile_tags": {
+      "tone": "时尚",
+      "target": "年轻女性",
+      "selling_points": [
+        "香氛",
+        "丝滑",
+        "自信"
+      ]
+    }
+  },
+  {
+    "id": "力士_20260402071739_76ef0bd3",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士沐浴露借势李湘携王诗龄现身韶山献花 瘦了20斤的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "李湘携王诗龄现身韶山献花 瘦了20斤",
+    "hot_topic_id": "ht_12",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士沐浴露",
+    "keywords": [
+      "李湘",
+      "王诗龄",
+      "韶山",
+      "瘦身",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8146+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.901323",
+    "profile_tags": {
+      "tone": "时尚",
+      "target": "年轻女性",
+      "selling_points": [
+        "香氛",
+        "丝滑",
+        "自信"
+      ]
+    }
+  },
+  {
+    "id": "力士_20260402071739_d88bc743",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《李湘携王诗龄现身韶山献花 瘦了20斤趋势下力士洗发水的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "李湘携王诗龄现身韶山献花 瘦了20斤",
+    "hot_topic_id": "ht_12",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士洗发水",
+    "keywords": [
+      "李湘",
+      "王诗龄",
+      "韶山",
+      "瘦身",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8146+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.901523",
+    "profile_tags": {
+      "tone": "时尚",
+      "target": "年轻女性",
+      "selling_points": [
+        "香氛",
+        "丝滑",
+        "自信"
+      ]
+    }
+  },
+  {
+    "id": "力士_20260402071739_af2ba7c7",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士护发素借势乘风2026乌兰图雅萧蔷等33位女性嘉宾的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "乘风2026乌兰图雅萧蔷等33位女性嘉宾集结",
+    "hot_topic_id": "ht_13",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "力士护发素",
+    "keywords": [
+      "乘风2026",
+      "乌兰图雅",
+      "萧蔷",
+      "浪姐",
+      "综艺"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "7891+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.901722",
+    "profile_tags": {
+      "tone": "时尚",
+      "target": "年轻女性",
+      "selling_points": [
+        "香氛",
+        "丝滑",
+        "自信"
+      ]
+    }
+  },
+  {
+    "id": "力士_20260402071739_004c0964",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《乘风2026乌兰图雅萧蔷等33位女性嘉宾趋势下力士身体乳的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "乘风2026乌兰图雅萧蔷等33位女性嘉宾集结",
+    "hot_topic_id": "ht_13",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "力士身体乳",
+    "keywords": [
+      "乘风2026",
+      "乌兰图雅",
+      "萧蔷",
+      "浪姐",
+      "综艺"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "7891+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.901922",
+    "profile_tags": {
+      "tone": "时尚",
+      "target": "年轻女性",
+      "selling_points": [
+        "香氛",
+        "丝滑",
+        "自信"
+      ]
+    }
+  },
+  {
+    "id": "力士_20260402071739_5978e842",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士香氛借势鞠婧祎丝芭传媒纠纷再上热搜 税务局回应的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "鞠婧祎丝芭传媒纠纷再上热搜 税务局回应",
+    "hot_topic_id": "ht_18",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士香氛",
+    "keywords": [
+      "鞠婧祎",
+      "丝芭传媒",
+      "合约纠纷",
+      "税务",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5031+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.902123",
+    "profile_tags": {
+      "tone": "时尚",
+      "target": "年轻女性",
+      "selling_points": [
+        "香氛",
+        "丝滑",
+        "自信"
+      ]
+    }
+  },
+  {
+    "id": "力士_20260402071739_d1b89454",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《鞠婧祎丝芭传媒纠纷再上热搜 税务局回应趋势下力士香皂的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "鞠婧祎丝芭传媒纠纷再上热搜 税务局回应",
+    "hot_topic_id": "ht_18",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士香皂",
+    "keywords": [
+      "鞠婧祎",
+      "丝芭传媒",
+      "合约纠纷",
+      "税务",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5031+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.902324",
+    "profile_tags": {
+      "tone": "时尚",
+      "target": "年轻女性",
+      "selling_points": [
+        "香氛",
+        "丝滑",
+        "自信"
+      ]
+    }
+  },
+  {
+    "id": "力士_20260402071739_87dfd651",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《2026美白精华怎么选 热门产品与成分参潮流下，力士沐浴露如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "2026美白精华怎么选 热门产品与成分参考指南",
+    "hot_topic_id": "ht_24",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "力士沐浴露",
+    "keywords": [
+      "美白精华",
+      "护肤",
+      "成分",
+      "美妆",
+      "选购指南"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "3399+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.902523",
+    "profile_tags": {
+      "tone": "时尚",
+      "target": "年轻女性",
+      "selling_points": [
+        "香氛",
+        "丝滑",
+        "自信"
+      ]
+    }
+  },
+  {
+    "id": "清扬_20260402071739_efe04b82",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《从创意角度解读清扬洗发水如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.902740",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "男士/家庭",
+      "selling_points": [
+        "去屑",
+        "控油",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "清扬_20260402071739_5c3f86fe",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对护肤的影响及清扬护发素的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬护发素",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.902941",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "男士/家庭",
+      "selling_points": [
+        "去屑",
+        "控油",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "清扬_20260402071739_425bcf49",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《从创意角度解读清扬头皮护理如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬头皮护理",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.903143",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "男士/家庭",
+      "selling_points": [
+        "去屑",
+        "控油",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "清扬_20260402071739_8efaa85f",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《深度分析微信iOS端灰度测试折叠发图功能对护肤的影响及清扬去屑洗发水的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬去屑洗发水",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.903346",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "男士/家庭",
+      "selling_points": [
+        "去屑",
+        "控油",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "清扬_20260402071739_a94f4b36",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，清扬控油洗发水如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬控油洗发水",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.903547",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "男士/家庭",
+      "selling_points": [
+        "去屑",
+        "控油",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "清扬_20260402071739_8cf24b40",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权必备好物：清扬洗发水的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬洗发水",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.903749",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "男士/家庭",
+      "selling_points": [
+        "去屑",
+        "控油",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "清扬_20260402071739_816786bc",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清明节假期全国高速免费通行 出行高峰今日：清扬护发素如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "hot_topic_id": "ht_98",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬护发素",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54222+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.903952",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "男士/家庭",
+      "selling_points": [
+        "去屑",
+        "控油",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "清扬_20260402071739_820cbf28",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清明节假期全国高速免费通行 出行高峰今日背后的社会趋势，清扬头皮护理如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "hot_topic_id": "ht_98",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬头皮护理",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54222+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.904154",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "男士/家庭",
+      "selling_points": [
+        "去屑",
+        "控油",
+        "专业"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_20260402071739_4cea541c",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油面霜借势李荣浩回应抄袭风波 登热搜第一的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "李荣浩回应抄袭风波 登热搜第一",
+    "hot_topic_id": "ht_10",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油面霜",
+    "keywords": [
+      "李荣浩",
+      "抄袭",
+      "小眼睛",
+      "Signal",
+      "热搜"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "11350+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.904379",
+    "profile_tags": {
+      "tone": "高端护肤",
+      "target": "成熟女性",
+      "selling_points": [
+        "抗老",
+        "美白",
+        "科技护肤"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_20260402071739_80e63e4c",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《李荣浩回应抄袭风波 登热搜第一趋势下玉兰油精油的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "李荣浩回应抄袭风波 登热搜第一",
+    "hot_topic_id": "ht_10",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油精油",
+    "keywords": [
+      "李荣浩",
+      "抄袭",
+      "小眼睛",
+      "Signal",
+      "热搜"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "11350+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.904572",
+    "profile_tags": {
+      "tone": "高端护肤",
+      "target": "成熟女性",
+      "selling_points": [
+        "抗老",
+        "美白",
+        "科技护肤"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_20260402071739_05a7a38e",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油眼霜借势李湘携王诗龄现身韶山献花 瘦了20斤的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "李湘携王诗龄现身韶山献花 瘦了20斤",
+    "hot_topic_id": "ht_12",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油眼霜",
+    "keywords": [
+      "李湘",
+      "王诗龄",
+      "韶山",
+      "瘦身",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8961+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.904766",
+    "profile_tags": {
+      "tone": "高端护肤",
+      "target": "成熟女性",
+      "selling_points": [
+        "抗老",
+        "美白",
+        "科技护肤"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_20260402071739_9e8cc9a5",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油精华借势乘风2026乌兰图雅萧蔷等33位女性嘉宾的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "乘风2026乌兰图雅萧蔷等33位女性嘉宾集结",
+    "hot_topic_id": "ht_13",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "玉兰油精华",
+    "keywords": [
+      "乘风2026",
+      "乌兰图雅",
+      "萧蔷",
+      "浪姐",
+      "综艺"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8680+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.904993",
+    "profile_tags": {
+      "tone": "高端护肤",
+      "target": "成熟女性",
+      "selling_points": [
+        "抗老",
+        "美白",
+        "科技护肤"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_20260402071739_4712c843",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油防晒借势鞠婧祎丝芭传媒纠纷再上热搜 税务局回应的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "鞠婧祎丝芭传媒纠纷再上热搜 税务局回应",
+    "hot_topic_id": "ht_18",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油防晒",
+    "keywords": [
+      "鞠婧祎",
+      "丝芭传媒",
+      "合约纠纷",
+      "税务",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5534+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.905294",
+    "profile_tags": {
+      "tone": "高端护肤",
+      "target": "成熟女性",
+      "selling_points": [
+        "抗老",
+        "美白",
+        "科技护肤"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_20260402071739_dad641f5",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《鞠婧祎丝芭传媒纠纷再上热搜 税务局回应趋势下玉兰油面膜的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "鞠婧祎丝芭传媒纠纷再上热搜 税务局回应",
+    "hot_topic_id": "ht_18",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油面膜",
+    "keywords": [
+      "鞠婧祎",
+      "丝芭传媒",
+      "合约纠纷",
+      "税务",
+      "明星"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5534+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.905488",
+    "profile_tags": {
+      "tone": "高端护肤",
+      "target": "成熟女性",
+      "selling_points": [
+        "抗老",
+        "美白",
+        "科技护肤"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_20260402071739_3874d66a",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油面霜借势活人感成2026流行词 指真实自然不刻意的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "活人感成2026流行词 指真实自然不刻意伪装",
+    "hot_topic_id": "ht_19",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "玉兰油面霜",
+    "keywords": [
+      "活人感",
+      "真实",
+      "自然",
+      "流行词"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "5074+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.905684",
+    "profile_tags": {
+      "tone": "高端护肤",
+      "target": "成熟女性",
+      "selling_points": [
+        "抗老",
+        "美白",
+        "科技护肤"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_20260402071739_4018f262",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《2026美白精华怎么选 热门产品与成分参潮流下，玉兰油精油如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "2026美白精华怎么选 热门产品与成分参考指南",
+    "hot_topic_id": "ht_24",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "玉兰油精油",
+    "keywords": [
+      "美白精华",
+      "护肤",
+      "成分",
+      "美妆",
+      "选购指南"
+    ],
+    "quality_score": 0.851,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "4161+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.906010",
+    "profile_tags": {
+      "tone": "高端护肤",
+      "target": "成熟女性",
+      "selling_points": [
+        "抗老",
+        "美白",
+        "科技护肤"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_20260402071739_5ed4a99f",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《今年蚊子或迎史诗级加强 疾控部门紧急提醒：汤臣倍健维生素如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "今年蚊子或迎史诗级加强 疾控部门紧急提醒",
+    "hot_topic_id": "ht_21",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健维生素",
+    "keywords": [
+      "蚊子",
+      "疾控",
+      "健康提醒",
+      "夏季",
+      "防护"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "4193+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.906221",
+    "profile_tags": {
+      "tone": "专业健康",
+      "target": "家庭/中老年",
+      "selling_points": [
+        "科学配方",
+        "品质",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_20260402071739_e67a7788",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《今年蚊子或迎史诗级加强 疾控部门紧急提醒背后的社会趋势，汤臣倍健钙片如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "今年蚊子或迎史诗级加强 疾控部门紧急提醒",
+    "hot_topic_id": "ht_21",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健钙片",
+    "keywords": [
+      "蚊子",
+      "疾控",
+      "健康提醒",
+      "夏季",
+      "防护"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "4193+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.906421",
+    "profile_tags": {
+      "tone": "专业健康",
+      "target": "家庭/中老年",
+      "selling_points": [
+        "科学配方",
+        "品质",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_20260402071739_3a5ef244",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《澳洲优思益被曝光为纯国产 抖音天猫店铺暂潮流下，汤臣倍健蛋白粉如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "澳洲优思益被曝光为纯国产 抖音天猫店铺暂停营业",
+    "hot_topic_id": "ht_25",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健蛋白粉",
+    "keywords": [
+      "优思益",
+      "保健品",
+      "虚假宣传",
+      "进口",
+      "叶黄素"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "3354+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.906622",
+    "profile_tags": {
+      "tone": "专业健康",
+      "target": "家庭/中老年",
+      "selling_points": [
+        "科学配方",
+        "品质",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_20260402071739_555f0975",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《澳洲优思益被曝光为纯国产 抖音天猫店铺暂必备好物：汤臣倍健鱼油的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "澳洲优思益被曝光为纯国产 抖音天猫店铺暂停营业",
+    "hot_topic_id": "ht_25",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健鱼油",
+    "keywords": [
+      "优思益",
+      "保健品",
+      "虚假宣传",
+      "进口",
+      "叶黄素"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "3354+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.906823",
+    "profile_tags": {
+      "tone": "专业健康",
+      "target": "家庭/中老年",
+      "selling_points": [
+        "科学配方",
+        "品质",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_20260402071739_840e40f1",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健益生菌借势上海乒乓球嘉年华4月12日开幕的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "上海乒乓球嘉年华4月12日开幕",
+    "hot_topic_id": "ht_91",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健益生菌",
+    "keywords": [
+      "乒乓球",
+      "嘉年华",
+      "上海",
+      "国际乒联百年",
+      "全民运动"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "455+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.907020",
+    "profile_tags": {
+      "tone": "专业健康",
+      "target": "家庭/中老年",
+      "selling_points": [
+        "科学配方",
+        "品质",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_20260402071739_4956d3de",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《上海乒乓球嘉年华4月12日开幕趋势下汤臣倍健维生素的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "上海乒乓球嘉年华4月12日开幕",
+    "hot_topic_id": "ht_91",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健维生素",
+    "keywords": [
+      "乒乓球",
+      "嘉年华",
+      "上海",
+      "国际乒联百年",
+      "全民运动"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "455+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.907217",
+    "profile_tags": {
+      "tone": "专业健康",
+      "target": "家庭/中老年",
+      "selling_points": [
+        "科学配方",
+        "品质",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_20260402071739_0eb8cee3",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《从创意角度解读汤臣倍健钙片如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健钙片",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.907415",
+    "profile_tags": {
+      "tone": "专业健康",
+      "target": "家庭/中老年",
+      "selling_points": [
+        "科学配方",
+        "品质",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_20260402071739_f0557310",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对保健的影响及汤臣倍健蛋白粉的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健蛋白粉",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.907612",
+    "profile_tags": {
+      "tone": "专业健康",
+      "target": "家庭/中老年",
+      "selling_points": [
+        "科学配方",
+        "品质",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "善存_20260402071739_56d0be89",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《澳洲优思益被曝光为纯国产 抖音天猫店铺暂潮流下，善存维生素如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "澳洲优思益被曝光为纯国产 抖音天猫店铺暂停营业",
+    "hot_topic_id": "ht_25",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存维生素",
+    "keywords": [
+      "优思益",
+      "保健品",
+      "虚假宣传",
+      "进口",
+      "叶黄素"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "3354+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.907827",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "全家",
+      "selling_points": [
+        "全面营养",
+        "科学",
+        "国际品牌"
+      ]
+    }
+  },
+  {
+    "id": "善存_20260402071739_e1f0eb1a",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《澳洲优思益被曝光为纯国产 抖音天猫店铺暂必备好物：善存矿物质的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "澳洲优思益被曝光为纯国产 抖音天猫店铺暂停营业",
+    "hot_topic_id": "ht_25",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存矿物质",
+    "keywords": [
+      "优思益",
+      "保健品",
+      "虚假宣传",
+      "进口",
+      "叶黄素"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "3354+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.908029",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "全家",
+      "selling_points": [
+        "全面营养",
+        "科学",
+        "国际品牌"
+      ]
+    }
+  },
+  {
+    "id": "善存_20260402071739_569f4f20",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存复合营养借势上海乒乓球嘉年华4月12日开幕的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "上海乒乓球嘉年华4月12日开幕",
+    "hot_topic_id": "ht_91",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存复合营养",
+    "keywords": [
+      "乒乓球",
+      "嘉年华",
+      "上海",
+      "国际乒联百年",
+      "全民运动"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "455+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.908233",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "全家",
+      "selling_points": [
+        "全面营养",
+        "科学",
+        "国际品牌"
+      ]
+    }
+  },
+  {
+    "id": "善存_20260402071739_d49b609c",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《上海乒乓球嘉年华4月12日开幕趋势下善存钙片的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "上海乒乓球嘉年华4月12日开幕",
+    "hot_topic_id": "ht_91",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存钙片",
+    "keywords": [
+      "乒乓球",
+      "嘉年华",
+      "上海",
+      "国际乒联百年",
+      "全民运动"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "455+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.908435",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "全家",
+      "selling_points": [
+        "全面营养",
+        "科学",
+        "国际品牌"
+      ]
+    }
+  },
+  {
+    "id": "善存_20260402071739_1462240a",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《从创意角度解读善存锌片如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存锌片",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.908637",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "全家",
+      "selling_points": [
+        "全面营养",
+        "科学",
+        "国际品牌"
+      ]
+    }
+  },
+  {
+    "id": "善存_20260402071739_c4a8a5a6",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对保健的影响及善存维生素的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存维生素",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.908842",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "全家",
+      "selling_points": [
+        "全面营养",
+        "科学",
+        "国际品牌"
+      ]
+    }
+  },
+  {
+    "id": "善存_20260402071739_b46fa593",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《从创意角度解读善存矿物质如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存矿物质",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.909046",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "全家",
+      "selling_points": [
+        "全面营养",
+        "科学",
+        "国际品牌"
+      ]
+    }
+  },
+  {
+    "id": "善存_20260402071739_22077523",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《深度分析微信iOS端灰度测试折叠发图功能对保健的影响及善存复合营养的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存复合营养",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.909250",
+    "profile_tags": {
+      "tone": "专业",
+      "target": "全家",
+      "selling_points": [
+        "全面营养",
+        "科学",
+        "国际品牌"
+      ]
+    }
+  },
+  {
+    "id": "HC_20260402071739_7c167986",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《从创意角度解读HC面膜如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC面膜",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.909471",
+    "profile_tags": {
+      "tone": "轻奢护肤",
+      "target": "都市女性",
+      "selling_points": [
+        "高效",
+        "科技",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "HC_20260402071739_355a0058",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《从创意角度解读HC精华液如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC精华液",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.909865",
+    "profile_tags": {
+      "tone": "轻奢护肤",
+      "target": "都市女性",
+      "selling_points": [
+        "高效",
+        "科技",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "HC_20260402071739_9f293bca",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《深度分析微信iOS端灰度测试折叠发图功能对护肤的影响及HC护肤套装的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC护肤套装",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.910068",
+    "profile_tags": {
+      "tone": "轻奢护肤",
+      "target": "都市女性",
+      "selling_points": [
+        "高效",
+        "科技",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "HC_20260402071739_bffe7e16",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，HC眼霜如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC眼霜",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.910269",
+    "profile_tags": {
+      "tone": "轻奢护肤",
+      "target": "都市女性",
+      "selling_points": [
+        "高效",
+        "科技",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "HC_20260402071739_fe5f5708",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权必备好物：HC面霜的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC面霜",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.910474",
+    "profile_tags": {
+      "tone": "轻奢护肤",
+      "target": "都市女性",
+      "selling_points": [
+        "高效",
+        "科技",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "HC_20260402071739_969f2bcc",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《清明节假期全国高速免费通行 出行高峰今日：HC面膜如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "hot_topic_id": "ht_98",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC面膜",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54222+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.910678",
+    "profile_tags": {
+      "tone": "轻奢护肤",
+      "target": "都市女性",
+      "selling_points": [
+        "高效",
+        "科技",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "HC_20260402071739_b0f1b880",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《清明节假期全国高速免费通行 出行高峰今日背后的社会趋势，HC精华液如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "hot_topic_id": "ht_98",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC精华液",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54222+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.910881",
+    "profile_tags": {
+      "tone": "轻奢护肤",
+      "target": "都市女性",
+      "selling_points": [
+        "高效",
+        "科技",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "HC_20260402071739_3ea1b1c9",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《HC护肤套装借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_topic_id": "ht_4",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC护肤套装",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "46321+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.911082",
+    "profile_tags": {
+      "tone": "轻奢护肤",
+      "target": "都市女性",
+      "selling_points": [
+        "高效",
+        "科技",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_20260402071739_280ffcd6",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《今年蚊子或迎史诗级加强 疾控部门紧急提醒：威猛先生清洁剂如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "今年蚊子或迎史诗级加强 疾控部门紧急提醒",
+    "hot_topic_id": "ht_21",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生清洁剂",
+    "keywords": [
+      "蚊子",
+      "疾控",
+      "健康提醒",
+      "夏季",
+      "防护"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "4193+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.911302",
+    "profile_tags": {
+      "tone": "专业清洁",
+      "target": "家庭主妇",
+      "selling_points": [
+        "强力去污",
+        "专业",
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_20260402071739_4f4f3127",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《今年蚊子或迎史诗级加强 疾控部门紧急提醒背后的社会趋势，威猛先生消毒液如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "今年蚊子或迎史诗级加强 疾控部门紧急提醒",
+    "hot_topic_id": "ht_21",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生消毒液",
+    "keywords": [
+      "蚊子",
+      "疾控",
+      "健康提醒",
+      "夏季",
+      "防护"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "4193+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.911505",
+    "profile_tags": {
+      "tone": "专业清洁",
+      "target": "家庭主妇",
+      "selling_points": [
+        "强力去污",
+        "专业",
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_20260402071739_77a40b57",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《从创意角度解读威猛先生洗涤剂如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生洗涤剂",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.911708",
+    "profile_tags": {
+      "tone": "专业清洁",
+      "target": "家庭主妇",
+      "selling_points": [
+        "强力去污",
+        "专业",
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_20260402071739_e311a52a",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对清洁的影响及威猛先生洁厕灵的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生洁厕灵",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.911908",
+    "profile_tags": {
+      "tone": "专业清洁",
+      "target": "家庭主妇",
+      "selling_points": [
+        "强力去污",
+        "专业",
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_20260402071739_487c061d",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《从创意角度解读威猛先生厨房清洁如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生厨房清洁",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.912110",
+    "profile_tags": {
+      "tone": "专业清洁",
+      "target": "家庭主妇",
+      "selling_points": [
+        "强力去污",
+        "专业",
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_20260402071739_bdfa75b7",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《深度分析微信iOS端灰度测试折叠发图功能对清洁的影响及威猛先生清洁剂的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生清洁剂",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.912312",
+    "profile_tags": {
+      "tone": "专业清洁",
+      "target": "家庭主妇",
+      "selling_points": [
+        "强力去污",
+        "专业",
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_20260402071739_ebadff11",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，威猛先生消毒液如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生消毒液",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.912505",
+    "profile_tags": {
+      "tone": "专业清洁",
+      "target": "家庭主妇",
+      "selling_points": [
+        "强力去污",
+        "专业",
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_20260402071739_1c6bda1c",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权必备好物：威猛先生洗涤剂的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生洗涤剂",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.912697",
+    "profile_tags": {
+      "tone": "专业清洁",
+      "target": "家庭主妇",
+      "selling_points": [
+        "强力去污",
+        "专业",
+        "安全"
+      ]
+    }
+  },
+  {
+    "id": "舒适_20260402071739_432fc066",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《从创意角度解读舒适纸巾如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适纸巾",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.912908",
+    "profile_tags": {
+      "tone": "亲肤",
+      "target": "家庭",
+      "selling_points": [
+        "柔软",
+        "亲肤",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "舒适_20260402071739_f927dc2e",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对日用的影响及舒适卷纸的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适卷纸",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.913109",
+    "profile_tags": {
+      "tone": "亲肤",
+      "target": "家庭",
+      "selling_points": [
+        "柔软",
+        "亲肤",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "舒适_20260402071739_f6b0f6b0",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《从创意角度解读舒适湿巾如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适湿巾",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.913310",
+    "profile_tags": {
+      "tone": "亲肤",
+      "target": "家庭",
+      "selling_points": [
+        "柔软",
+        "亲肤",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "舒适_20260402071739_8f728f01",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《深度分析微信iOS端灰度测试折叠发图功能对日用的影响及舒适抽纸的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适抽纸",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.913511",
+    "profile_tags": {
+      "tone": "亲肤",
+      "target": "家庭",
+      "selling_points": [
+        "柔软",
+        "亲肤",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "舒适_20260402071739_8e1e70c5",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，舒适手帕纸如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适手帕纸",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.913711",
+    "profile_tags": {
+      "tone": "亲肤",
+      "target": "家庭",
+      "selling_points": [
+        "柔软",
+        "亲肤",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "舒适_20260402071739_1104537a",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权必备好物：舒适纸巾的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适纸巾",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.913911",
+    "profile_tags": {
+      "tone": "亲肤",
+      "target": "家庭",
+      "selling_points": [
+        "柔软",
+        "亲肤",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "舒适_20260402071739_6c97a12b",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《清明节假期全国高速免费通行 出行高峰今日：舒适卷纸如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "hot_topic_id": "ht_98",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适卷纸",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54222+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.914112",
+    "profile_tags": {
+      "tone": "亲肤",
+      "target": "家庭",
+      "selling_points": [
+        "柔软",
+        "亲肤",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "舒适_20260402071739_19bba769",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《清明节假期全国高速免费通行 出行高峰今日背后的社会趋势，舒适湿巾如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "hot_topic_id": "ht_98",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适湿巾",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54222+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.914315",
+    "profile_tags": {
+      "tone": "亲肤",
+      "target": "家庭",
+      "selling_points": [
+        "柔软",
+        "亲肤",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "希宝_20260402071739_fc70a6e7",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《清明春假黄金周 赏花踏青出行爆发潮流下，希宝奶粉如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "清明春假黄金周 赏花踏青出行爆发",
+    "hot_topic_id": "ht_93",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝奶粉",
+    "keywords": [
+      "清明节",
+      "春假",
+      "赏花",
+      "踏青",
+      "自驾游"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "419+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.914531",
+    "profile_tags": {
+      "tone": "温馨",
+      "target": "宝妈",
+      "selling_points": [
+        "营养",
+        "安全",
+        "成长"
+      ]
+    }
+  },
+  {
+    "id": "希宝_20260402071739_428f8b89",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《清明春假黄金周 赏花踏青出行爆发必备好物：希宝纸尿裤的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "清明春假黄金周 赏花踏青出行爆发",
+    "hot_topic_id": "ht_93",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝纸尿裤",
+    "keywords": [
+      "清明节",
+      "春假",
+      "赏花",
+      "踏青",
+      "自驾游"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "419+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.914734",
+    "profile_tags": {
+      "tone": "温馨",
+      "target": "宝妈",
+      "selling_points": [
+        "营养",
+        "安全",
+        "成长"
+      ]
+    }
+  },
+  {
+    "id": "希宝_20260402071739_4eb9e558",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《从创意角度解读希宝婴儿护肤如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝婴儿护肤",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.914934",
+    "profile_tags": {
+      "tone": "温馨",
+      "target": "宝妈",
+      "selling_points": [
+        "营养",
+        "安全",
+        "成长"
+      ]
+    }
+  },
+  {
+    "id": "希宝_20260402071739_4714f396",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对母婴的影响及希宝辅食的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝辅食",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.915132",
+    "profile_tags": {
+      "tone": "温馨",
+      "target": "宝妈",
+      "selling_points": [
+        "营养",
+        "安全",
+        "成长"
+      ]
+    }
+  },
+  {
+    "id": "希宝_20260402071739_7434cd0c",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《从创意角度解读希宝湿巾如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝湿巾",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.915331",
+    "profile_tags": {
+      "tone": "温馨",
+      "target": "宝妈",
+      "selling_points": [
+        "营养",
+        "安全",
+        "成长"
+      ]
+    }
+  },
+  {
+    "id": "希宝_20260402071739_0057b6b9",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《深度分析微信iOS端灰度测试折叠发图功能对母婴的影响及希宝奶粉的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝奶粉",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.915532",
+    "profile_tags": {
+      "tone": "温馨",
+      "target": "宝妈",
+      "selling_points": [
+        "营养",
+        "安全",
+        "成长"
+      ]
+    }
+  },
+  {
+    "id": "希宝_20260402071739_83091af0",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，希宝纸尿裤如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝纸尿裤",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.915732",
+    "profile_tags": {
+      "tone": "温馨",
+      "target": "宝妈",
+      "selling_points": [
+        "营养",
+        "安全",
+        "成长"
+      ]
+    }
+  },
+  {
+    "id": "希宝_20260402071739_2d5e1b55",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权必备好物：希宝婴儿护肤的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝婴儿护肤",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.915930",
+    "profile_tags": {
+      "tone": "温馨",
+      "target": "宝妈",
+      "selling_points": [
+        "营养",
+        "安全",
+        "成长"
+      ]
+    }
+  },
+  {
+    "id": "皇家_20260402071739_65854db1",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《从创意角度解读皇家狗粮如何借势6G时代将至 1秒下载4K电影登顶热搜》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家狗粮",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.916148",
+    "profile_tags": {
+      "tone": "专业宠物",
+      "target": "宠物主人",
+      "selling_points": [
+        "营养均衡",
+        "专业",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "皇家_20260402071739_10473a52",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《深度分析6G时代将至 1秒下载4K电影登顶热搜对宠物的影响及皇家猫粮的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家猫粮",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58511+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.916351",
+    "profile_tags": {
+      "tone": "专业宠物",
+      "target": "宠物主人",
+      "selling_points": [
+        "营养均衡",
+        "专业",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "皇家_20260402071739_bccf98a8",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《从创意角度解读皇家宠物零食如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家宠物零食",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.916553",
+    "profile_tags": {
+      "tone": "专业宠物",
+      "target": "宠物主人",
+      "selling_points": [
+        "营养均衡",
+        "专业",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "皇家_20260402071739_f1551003",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《深度分析微信iOS端灰度测试折叠发图功能对宠物的影响及皇家宠物营养品的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家宠物营养品",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.916755",
+    "profile_tags": {
+      "tone": "专业宠物",
+      "target": "宠物主人",
+      "selling_points": [
+        "营养均衡",
+        "专业",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "皇家_20260402071739_8def26e5",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，皇家狗粮如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家狗粮",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.916956",
+    "profile_tags": {
+      "tone": "专业宠物",
+      "target": "宠物主人",
+      "selling_points": [
+        "营养均衡",
+        "专业",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "皇家_20260402071739_5d014594",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权必备好物：皇家猫粮的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家猫粮",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.917158",
+    "profile_tags": {
+      "tone": "专业宠物",
+      "target": "宠物主人",
+      "selling_points": [
+        "营养均衡",
+        "专业",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "皇家_20260402071739_43d8a834",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《清明节假期全国高速免费通行 出行高峰今日：皇家宠物零食如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "hot_topic_id": "ht_98",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家宠物零食",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54222+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.917362",
+    "profile_tags": {
+      "tone": "专业宠物",
+      "target": "宠物主人",
+      "selling_points": [
+        "营养均衡",
+        "专业",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "皇家_20260402071739_f327edf5",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《清明节假期全国高速免费通行 出行高峰今日背后的社会趋势，皇家宠物营养品如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "hot_topic_id": "ht_98",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家宠物营养品",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54222+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.917564",
+    "profile_tags": {
+      "tone": "专业宠物",
+      "target": "宠物主人",
+      "selling_points": [
+        "营养均衡",
+        "专业",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_20260402071739_42e6a80b",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，OATLY燕麦奶如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY燕麦奶",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.856,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "56951+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.917788",
+    "profile_tags": {
+      "tone": "潮流健康",
+      "target": "年轻白领",
+      "selling_points": [
+        "植物基",
+        "环保",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_20260402071739_37914d91",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权必备好物：OATLY冰淇淋的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY冰淇淋",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.856,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "56951+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.917983",
+    "profile_tags": {
+      "tone": "潮流健康",
+      "target": "年轻白领",
+      "selling_points": [
+        "植物基",
+        "环保",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_20260402071739_a18c10b5",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《colorwalk成为2026春季最火生潮流下，OATLY酸奶如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_5",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY酸奶",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42664+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.918176",
+    "profile_tags": {
+      "tone": "潮流健康",
+      "target": "年轻白领",
+      "selling_points": [
+        "植物基",
+        "环保",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_20260402071739_39f329dc",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《colorwalk成为2026春季最火生必备好物：OATLY咖啡伴侣的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_5",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY咖啡伴侣",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42664+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.918371",
+    "profile_tags": {
+      "tone": "潮流健康",
+      "target": "年轻白领",
+      "selling_points": [
+        "植物基",
+        "环保",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_20260402071739_f9c6ca42",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《丙午年黄帝故里云拜祖平台上线 全球华人可：OATLY燕麦奶如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "丙午年黄帝故里云拜祖平台上线 全球华人可网上拜祖",
+    "hot_topic_id": "ht_22",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY燕麦奶",
+    "keywords": [
+      "黄帝故里",
+      "云拜祖",
+      "拜祖大典",
+      "华夏儿女",
+      "三月三"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "3884+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.918923",
+    "profile_tags": {
+      "tone": "潮流健康",
+      "target": "年轻白领",
+      "selling_points": [
+        "植物基",
+        "环保",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_20260402071739_69dcfd23",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《丙午年黄帝故里云拜祖平台上线 全球华人可背后的社会趋势，OATLY冰淇淋如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "丙午年黄帝故里云拜祖平台上线 全球华人可网上拜祖",
+    "hot_topic_id": "ht_22",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY冰淇淋",
+    "keywords": [
+      "黄帝故里",
+      "云拜祖",
+      "拜祖大典",
+      "华夏儿女",
+      "三月三"
+    ],
+    "quality_score": 0.714,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "3884+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.919112",
+    "profile_tags": {
+      "tone": "潮流健康",
+      "target": "年轻白领",
+      "selling_points": [
+        "植物基",
+        "环保",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_20260402071739_e98b7eb4",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLY酸奶借势深圳美术馆清明假期正常开放的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "深圳美术馆清明假期正常开放",
+    "hot_topic_id": "ht_95",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY酸奶",
+    "keywords": [
+      "深圳美术馆",
+      "清明假期",
+      "展览",
+      "无需预约"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "419+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.919990",
+    "profile_tags": {
+      "tone": "潮流健康",
+      "target": "年轻白领",
+      "selling_points": [
+        "植物基",
+        "环保",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_20260402071739_3a224117",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《深圳美术馆清明假期正常开放趋势下OATLY咖啡伴侣的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "深圳美术馆清明假期正常开放",
+    "hot_topic_id": "ht_95",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY咖啡伴侣",
+    "keywords": [
+      "深圳美术馆",
+      "清明假期",
+      "展览",
+      "无需预约"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "419+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.920180",
+    "profile_tags": {
+      "tone": "潮流健康",
+      "target": "年轻白领",
+      "selling_points": [
+        "植物基",
+        "环保",
+        "健康"
+      ]
+    }
+  },
+  {
+    "id": "百威_20260402071739_29d3b66d",
+    "client": {
+      "brand": "百威",
+      "industry": "饮品",
+      "products": [
+        "百威啤酒",
+        "百威无醇啤酒",
+        "百威精酿",
+        "百威白啤"
+      ]
+    },
+    "title": "《张雪机车WSBK夺冠 三天涨粉117万成：百威啤酒如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
+    "hot_topic_id": "ht_6",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威啤酒",
+    "keywords": [
+      "张雪机车",
+      "WSBK",
+      "东鹏特饮",
+      "中国制造",
+      "赛车"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38336+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.920388",
+    "profile_tags": {
+      "tone": "激情",
+      "target": "年轻人群",
+      "selling_points": [
+        "畅爽",
+        "聚会",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "百威_20260402071739_9eff300a",
+    "client": {
+      "brand": "百威",
+      "industry": "饮品",
+      "products": [
+        "百威啤酒",
+        "百威无醇啤酒",
+        "百威精酿",
+        "百威白啤"
+      ]
+    },
+    "title": "《张雪机车WSBK夺冠 三天涨粉117万成背后的社会趋势，百威无醇啤酒如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
+    "hot_topic_id": "ht_6",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威无醇啤酒",
+    "keywords": [
+      "张雪机车",
+      "WSBK",
+      "东鹏特饮",
+      "中国制造",
+      "赛车"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38336+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.920590",
+    "profile_tags": {
+      "tone": "激情",
+      "target": "年轻人群",
+      "selling_points": [
+        "畅爽",
+        "聚会",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "百威_20260402071739_2e3d8a76",
+    "client": {
+      "brand": "百威",
+      "industry": "饮品",
+      "products": [
+        "百威啤酒",
+        "百威无醇啤酒",
+        "百威精酿",
+        "百威白啤"
+      ]
+    },
+    "title": "《超级厄尔尼诺来袭 2026或成史上最热年：百威精酿如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "超级厄尔尼诺来袭 2026或成史上最热年",
+    "hot_topic_id": "ht_89",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威精酿",
+    "keywords": [
+      "厄尔尼诺",
+      "全球变暖",
+      "最热年",
+      "气候",
+      "极端天气"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "599+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.920792",
+    "profile_tags": {
+      "tone": "激情",
+      "target": "年轻人群",
+      "selling_points": [
+        "畅爽",
+        "聚会",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "百威_20260402071739_c051998a",
+    "client": {
+      "brand": "百威",
+      "industry": "饮品",
+      "products": [
+        "百威啤酒",
+        "百威无醇啤酒",
+        "百威精酿",
+        "百威白啤"
+      ]
+    },
+    "title": "《超级厄尔尼诺来袭 2026或成史上最热年背后的社会趋势，百威白啤如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "超级厄尔尼诺来袭 2026或成史上最热年",
+    "hot_topic_id": "ht_89",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威白啤",
+    "keywords": [
+      "厄尔尼诺",
+      "全球变暖",
+      "最热年",
+      "气候",
+      "极端天气"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "599+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.920993",
+    "profile_tags": {
+      "tone": "激情",
+      "target": "年轻人群",
+      "selling_points": [
+        "畅爽",
+        "聚会",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "百威_20260402071739_3c7273da",
+    "client": {
+      "brand": "百威",
+      "industry": "饮品",
+      "products": [
+        "百威啤酒",
+        "百威无醇啤酒",
+        "百威精酿",
+        "百威白啤"
+      ]
+    },
+    "title": "《清明春假黄金周 赏花踏青出行爆发潮流下，百威啤酒如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "清明春假黄金周 赏花踏青出行爆发",
+    "hot_topic_id": "ht_93",
+    "heat": "温热",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威啤酒",
+    "keywords": [
+      "清明节",
+      "春假",
+      "赏花",
+      "踏青",
+      "自驾游"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "419+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.921192",
+    "profile_tags": {
+      "tone": "激情",
+      "target": "年轻人群",
+      "selling_points": [
+        "畅爽",
+        "聚会",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "百威_20260402071739_f5aef5fd",
+    "client": {
+      "brand": "百威",
+      "industry": "饮品",
+      "products": [
+        "百威啤酒",
+        "百威无醇啤酒",
+        "百威精酿",
+        "百威白啤"
+      ]
+    },
+    "title": "《从创意角度解读百威无醇啤酒如何借势微信iOS端灰度测试折叠发图功能》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威无醇啤酒",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.921530",
+    "profile_tags": {
+      "tone": "激情",
+      "target": "年轻人群",
+      "selling_points": [
+        "畅爽",
+        "聚会",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "百威_20260402071739_b05f7db4",
+    "client": {
+      "brand": "百威",
+      "industry": "饮品",
+      "products": [
+        "百威啤酒",
+        "百威无醇啤酒",
+        "百威精酿",
+        "百威白啤"
+      ]
+    },
+    "title": "《深度分析微信iOS端灰度测试折叠发图功能对饮品的影响及百威精酿的机遇》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威精酿",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54854+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.921731",
+    "profile_tags": {
+      "tone": "激情",
+      "target": "年轻人群",
+      "selling_points": [
+        "畅爽",
+        "聚会",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "百威_20260402071739_051ee998",
+    "client": {
+      "brand": "百威",
+      "industry": "饮品",
+      "products": [
+        "百威啤酒",
+        "百威无醇啤酒",
+        "百威精酿",
+        "百威白啤"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，百威白啤如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威白啤",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "51197+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.921932",
+    "profile_tags": {
+      "tone": "激情",
+      "target": "年轻人群",
+      "selling_points": [
+        "畅爽",
+        "聚会",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_20260402071739_1915af7e",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林茶饮",
+        "元气森林果汁",
+        "元气森林矿泉水"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，元气森林气泡水如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林气泡水",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "66557+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.922151",
+    "profile_tags": {
+      "tone": "年轻活力",
+      "target": "Z世代",
+      "selling_points": [
+        "0糖",
+        "健康",
+        "好喝"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_20260402071739_96984caf",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林茶饮",
+        "元气森林果汁",
+        "元气森林矿泉水"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权必备好物：元气森林茶饮的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林茶饮",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "66557+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.922345",
+    "profile_tags": {
+      "tone": "年轻活力",
+      "target": "Z世代",
+      "selling_points": [
+        "0糖",
+        "健康",
+        "好喝"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_20260402071739_686728bd",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林茶饮",
+        "元气森林果汁",
+        "元气森林矿泉水"
+      ]
+    },
+    "title": "《清明踏青赏花游火爆 全国各地花期正当时潮流下，元气森林果汁如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_100",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林果汁",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58740+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.922901",
+    "profile_tags": {
+      "tone": "年轻活力",
+      "target": "Z世代",
+      "selling_points": [
+        "0糖",
+        "健康",
+        "好喝"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_20260402071739_6e73faa9",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林茶饮",
+        "元气森林果汁",
+        "元气森林矿泉水"
+      ]
+    },
+    "title": "《清明踏青赏花游火爆 全国各地花期正当时必备好物：元气森林矿泉水的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_100",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林矿泉水",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "58740+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.923093",
+    "profile_tags": {
+      "tone": "年轻活力",
+      "target": "Z世代",
+      "selling_points": [
+        "0糖",
+        "健康",
+        "好喝"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_20260402071739_ee108ec2",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林茶饮",
+        "元气森林果汁",
+        "元气森林矿泉水"
+      ]
+    },
+    "title": "《张雪机车WSBK夺冠 三天涨粉117万成：元气森林气泡水如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
+    "hot_topic_id": "ht_6",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林气泡水",
+    "keywords": [
+      "张雪机车",
+      "WSBK",
+      "东鹏特饮",
+      "中国制造",
+      "赛车"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "49836+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.923287",
+    "profile_tags": {
+      "tone": "年轻活力",
+      "target": "Z世代",
+      "selling_points": [
+        "0糖",
+        "健康",
+        "好喝"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_20260402071739_b1940378",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林茶饮",
+        "元气森林果汁",
+        "元气森林矿泉水"
+      ]
+    },
+    "title": "《张雪机车WSBK夺冠 三天涨粉117万成背后的社会趋势，元气森林茶饮如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
+    "hot_topic_id": "ht_6",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林茶饮",
+    "keywords": [
+      "张雪机车",
+      "WSBK",
+      "东鹏特饮",
+      "中国制造",
+      "赛车"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "49836+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.923483",
+    "profile_tags": {
+      "tone": "年轻活力",
+      "target": "Z世代",
+      "selling_points": [
+        "0糖",
+        "健康",
+        "好喝"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_20260402071739_77810d54",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林茶饮",
+        "元气森林果汁",
+        "元气森林矿泉水"
+      ]
+    },
+    "title": "《元气森林果汁借势2026北京郁金香文化节4月3日启幕的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "2026北京郁金香文化节4月3日启幕",
+    "hot_topic_id": "ht_47",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林果汁",
+    "keywords": [
+      "郁金香",
+      "北京",
+      "文化节",
+      "清明",
+      "踏青"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "1401+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.923863",
+    "profile_tags": {
+      "tone": "年轻活力",
+      "target": "Z世代",
+      "selling_points": [
+        "0糖",
+        "健康",
+        "好喝"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_20260402071739_2b28134a",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林茶饮",
+        "元气森林果汁",
+        "元气森林矿泉水"
+      ]
+    },
+    "title": "《2026北京郁金香文化节4月3日启幕趋势下元气森林矿泉水的机会》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "2026北京郁金香文化节4月3日启幕",
+    "hot_topic_id": "ht_47",
+    "heat": "温热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林矿泉水",
+    "keywords": [
+      "郁金香",
+      "北京",
+      "文化节",
+      "清明",
+      "踏青"
+    ],
+    "quality_score": 0.698,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "1401+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.924058",
+    "profile_tags": {
+      "tone": "年轻活力",
+      "target": "Z世代",
+      "selling_points": [
+        "0糖",
+        "健康",
+        "好喝"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_20260402071739_3707c1d9",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮",
+        "农夫山泉果汁",
+        "农夫山泉功能饮料"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权潮流下，农夫山泉矿泉水如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉矿泉水",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "56317+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.924273",
+    "profile_tags": {
+      "tone": "自然",
+      "target": "大众",
+      "selling_points": [
+        "天然",
+        "健康",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_20260402071739_be12dd44",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮",
+        "农夫山泉果汁",
+        "农夫山泉功能饮料"
+      ]
+    },
+    "title": "《瑞幸紫椰子事件 椰肉变色引消费者维权必备好物：农夫山泉茶饮的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_3",
+    "heat": "热搜第一",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉茶饮",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "56317+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.924469",
+    "profile_tags": {
+      "tone": "自然",
+      "target": "大众",
+      "selling_points": [
+        "天然",
+        "健康",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_20260402071739_1a5d6c99",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮",
+        "农夫山泉果汁",
+        "农夫山泉功能饮料"
+      ]
+    },
+    "title": "《清明祭扫高峰来临 全国各地迎来祭祖人流高：农夫山泉果汁如何传递温度》",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明祭扫高峰来临 全国各地迎来祭祖人流高峰",
+    "hot_topic_id": "ht_99",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉果汁",
+    "keywords": [
+      "清明节",
+      "祭扫",
+      "祭祖",
+      "传统文化",
+      "缅怀先人"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "53963+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.924667",
+    "profile_tags": {
+      "tone": "自然",
+      "target": "大众",
+      "selling_points": [
+        "天然",
+        "健康",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_20260402071739_ae09f64f",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮",
+        "农夫山泉果汁",
+        "农夫山泉功能饮料"
+      ]
+    },
+    "title": "《清明祭扫高峰来临 全国各地迎来祭祖人流高背后的社会趋势，农夫山泉功能饮料如何响应》",
+    "platform": "小红书",
+    "angle": "趋势分析",
+    "hot_topic": "清明祭扫高峰来临 全国各地迎来祭祖人流高峰",
+    "hot_topic_id": "ht_99",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉功能饮料",
+    "keywords": [
+      "清明节",
+      "祭扫",
+      "祭祖",
+      "传统文化",
+      "缅怀先人"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "53963+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.924862",
+    "profile_tags": {
+      "tone": "自然",
+      "target": "大众",
+      "selling_points": [
+        "天然",
+        "健康",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_20260402071739_057f8bae",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮",
+        "农夫山泉果汁",
+        "农夫山泉功能饮料"
+      ]
+    },
+    "title": "《colorwalk成为2026春季最火生潮流下，农夫山泉矿泉水如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_5",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉矿泉水",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "46931+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.925058",
+    "profile_tags": {
+      "tone": "自然",
+      "target": "大众",
+      "selling_points": [
+        "天然",
+        "健康",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_20260402071739_b65d278e",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮",
+        "农夫山泉果汁",
+        "农夫山泉功能饮料"
+      ]
+    },
+    "title": "《colorwalk成为2026春季最火生必备好物：农夫山泉茶饮的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_5",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉茶饮",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.719,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "46931+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.925257",
+    "profile_tags": {
+      "tone": "自然",
+      "target": "大众",
+      "selling_points": [
+        "天然",
+        "健康",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_20260402071739_12891322",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮",
+        "农夫山泉果汁",
+        "农夫山泉功能饮料"
+      ]
+    },
+    "title": "《清明踏青赏花游火爆 全国各地花期正当时潮流下，农夫山泉果汁如何提升生活品质》",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_100",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉果汁",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "49703+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.925452",
+    "profile_tags": {
+      "tone": "自然",
+      "target": "大众",
+      "selling_points": [
+        "天然",
+        "健康",
+        "品质"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_20260402071739_7a6e5d1b",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶饮",
+        "农夫山泉果汁",
+        "农夫山泉功能饮料"
+      ]
+    },
+    "title": "《清明踏青赏花游火爆 全国各地花期正当时必备好物：农夫山泉功能饮料的N种用法》",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_100",
+    "heat": "热搜前三",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉功能饮料",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.791,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "49703+",
+    "status": "pending",
+    "created_at": "2026-04-02T07:17:39.925648",
+    "profile_tags": {
+      "tone": "自然",
+      "target": "大众",
+      "selling_points": [
+        "天然",
+        "健康",
+        "品质"
+      ]
+    }
+  },
+  {
     "id": "荣耀_20260402035727_1",
     "client": {
       "brand": "荣耀",
