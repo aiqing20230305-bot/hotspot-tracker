@@ -1,0 +1,428 @@
+{
+  "report_info": {
+    "generated_at": "2026-04-01T19:53:00",
+    "report_type": "daily_recommendation",
+    "data_sources": ["douyin", "weibo", "baidu"],
+    "version": "2.0"
+  },
+  "summary": {
+    "total_hotspots": 99,
+    "total_ideas": 1500,
+    "total_sku_scenarios": 26880,
+    "matched_hotspots": 99,
+    "key_findings": [
+      {
+        "finding": "食品行业热度最高",
+        "detail": "东鹏饮料热点（热度1210万）匹配89条选题",
+        "priority": "high"
+      },
+      {
+        "finding": "3C数码借势机会多",
+        "detail": "有线耳机爆火话题匹配300条选题，最高得分26.35",
+        "priority": "high"
+      },
+      {
+        "finding": "宠物赛道潜力大",
+        "detail": "丁程鑫相关热点匹配150条选题，SKU场景丰富",
+        "priority": "medium"
+      },
+      {
+        "finding": "体育话题持续热点",
+        "detail": "张雪机车、詹姆斯、世界杯等体育话题借势价值高",
+        "priority": "medium"
+      }
+    ]
+  },
+  "top_hotspots": [
+    {
+      "rank": 1,
+      "title": "东鹏饮料怎么了",
+      "hot_value": 12102205,
+      "platform": "douyin",
+      "industry": "食品",
+      "idea_matches": 89,
+      "sku_matches": 26880,
+      "top_idea": {
+        "id": "OATLY_20260401190414_17",
+        "brand": "OATLY",
+        "title": "《送礼推荐视角：OATLY雪糕如何借势世界数据组织在北京成立 总部设于中国...》",
+        "score": 40.0
+      }
+    },
+    {
+      "rank": 2,
+      "title": "有线耳机爆火原因",
+      "hot_value": 1092057,
+      "platform": "weibo",
+      "industry": "数码",
+      "idea_matches": 300,
+      "sku_matches": 5824,
+      "top_idea": {
+        "id": "荣耀_20260401190414_1",
+        "brand": "荣耀",
+        "title": "《创意借势视角：荣耀手机如何借势6G时代将至 1秒下载4K电影登顶热搜...》",
+        "score": 26.35
+      }
+    },
+    {
+      "rank": 3,
+      "title": "四月第一天",
+      "hot_value": 10546320,
+      "platform": "douyin",
+      "industry": "通用",
+      "idea_matches": 28,
+      "sku_matches": 26880,
+      "top_idea": {
+        "id": "希宝_20260401190414_35",
+        "brand": "希宝",
+        "title": "《对比评测视角：希宝猫条如何借势四月第一天...》",
+        "score": 23.07
+      }
+    },
+    {
+      "rank": 4,
+      "title": "法国车手感谢张雪机车成就梦想",
+      "hot_value": 9404060,
+      "platform": "douyin",
+      "industry": "体育",
+      "idea_matches": 29,
+      "sku_matches": 26880,
+      "top_idea": {
+        "id": "清扬_20260401190414_8",
+        "brand": "清扬",
+        "title": "《场景种草视角：清扬护发素如何借势张雪机车WSBK夺冠 三天涨粉117万成...》",
+        "score": 21.66
+      }
+    },
+    {
+      "rank": 5,
+      "title": "丁程鑫跳外星小绿猫舞蹈",
+      "hot_value": 7659717,
+      "platform": "douyin",
+      "industry": "宠物",
+      "idea_matches": 150,
+      "sku_matches": 2688,
+      "top_idea": {
+        "id": "希宝_20260401190414_15",
+        "brand": "希宝",
+        "title": "《对比评测视角：希宝奶粉如何借势抖音小妹儿方言词被列入敏感词 东北网友炸...》",
+        "score": 34.49
+      }
+    }
+  ],
+  "client_recommendations": [
+    {
+      "brand": "OATLY",
+      "industry": "食品",
+      "priority": 5,
+      "priority_level": "⭐⭐⭐⭐⭐",
+      "recommended_hotspots": [
+        {
+          "title": "东鹏饮料怎么了",
+          "hot_value": 12102205,
+          "match_type": "行业相关"
+        },
+        {
+          "title": "詹姆斯开场追帽米切尔",
+          "hot_value": 9311185,
+          "match_type": "场景契合"
+        },
+        {
+          "title": "美加墨世界杯48支参赛球队确定",
+          "hot_value": 7758388,
+          "match_type": "送礼场景"
+        }
+      ],
+      "content_suggestions": [
+        "送礼推荐视角：OATLY燕麦奶 × 体育赛事场景",
+        "产品开箱测评：OATLY雪糕 × 四月春季场景",
+        "场景种草：OATLY酸奶 × 世界级赛事庆祝"
+      ],
+      "top_products": ["OATLY燕麦奶", "OATLY雪糕", "OATLY酸奶"]
+    },
+    {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "priority": 5,
+      "priority_level": "⭐⭐⭐⭐⭐",
+      "recommended_hotspots": [
+        {
+          "title": "有线耳机爆火原因",
+          "hot_value": 1092057,
+          "match_type": "数码行业热点"
+        },
+        {
+          "title": "张雪：正在筹备达喀尔拉力赛",
+          "hot_value": 9134011,
+          "match_type": "创意借势"
+        },
+        {
+          "title": "周深新歌禁止用于AI训练",
+          "hot_value": 120222,
+          "match_type": "科技话题"
+        }
+      ],
+      "content_suggestions": [
+        "创意借势：荣耀手机 × 张雪机车达喀尔拉力赛",
+        "趋势分析：荣耀耳机 × 有线耳机回归潮流",
+        "用户故事：荣耀手表 × 极限运动场景"
+      ],
+      "top_products": ["荣耀手机", "荣耀耳机", "荣耀手表"]
+    },
+    {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "priority": 4,
+      "priority_level": "⭐⭐⭐⭐",
+      "recommended_hotspots": [
+        {
+          "title": "日本1:0英格兰",
+          "hot_value": 9203747,
+          "match_type": "关键词重叠"
+        },
+        {
+          "title": "有线耳机爆火原因",
+          "hot_value": 1092057,
+          "match_type": "音频产品契合"
+        },
+        {
+          "title": "周深新歌禁止用于AI训练",
+          "hot_value": 120222,
+          "match_type": "音乐科技"
+        }
+      ],
+      "content_suggestions": [
+        "用户故事：索尼耳机 × 日本足球比赛场景",
+        "产品评测：索尼电视 × 体育赛事直播",
+        "创意借势：索尼相机 × 人生感悟场景"
+      ],
+      "top_products": ["索尼耳机", "索尼电视", "索尼相机"]
+    },
+    {
+      "brand": "希宝",
+      "industry": "宠物",
+      "priority": 4,
+      "priority_level": "⭐⭐⭐⭐",
+      "recommended_hotspots": [
+        {
+          "title": "丁程鑫跳外星小绿猫舞蹈",
+          "hot_value": 7659717,
+          "match_type": "宠物相关"
+        },
+        {
+          "title": "雇两个擦玻璃小工仅需1根猫条",
+          "hot_value": 94909,
+          "match_type": "直接相关"
+        },
+        {
+          "title": "四月第一天",
+          "hot_value": 10546320,
+          "match_type": "通用场景"
+        }
+      ],
+      "content_suggestions": [
+        "对比评测：希宝猫条 × 春季宠物场景",
+        "开箱测评：希宝猫零食 × 热门话题借势",
+        "场景种草：希宝猫粮 × 宠物日常vlog"
+      ],
+      "top_products": ["希宝猫条", "希宝猫零食", "希宝猫粮"]
+    },
+    {
+      "brand": "百威",
+      "industry": "饮品",
+      "priority": 3,
+      "priority_level": "⭐⭐⭐",
+      "recommended_hotspots": [
+        {
+          "title": "海空卫士王伟牺牲25周年",
+          "hot_value": 9324041,
+          "match_type": "纪念场景"
+        },
+        {
+          "title": "五哈6定档0404",
+          "hot_value": 7707601,
+          "match_type": "综艺场景"
+        },
+        {
+          "title": "危险关系看得拳头硬了",
+          "hot_value": 7014124,
+          "match_type": "剧集场景"
+        }
+      ],
+      "content_suggestions": [
+        "性价比分析：百威金樽 × 综艺娱乐场景",
+        "场景种草：百威无醇啤酒 × 纪念日场景",
+        "生活方式：百威听装 × 朋友聚会场景"
+      ],
+      "top_products": ["百威金樽", "百威无醇啤酒", "百威听装"]
+    },
+    {
+      "brand": "元气森林",
+      "industry": "饮品",
+      "priority": 3,
+      "priority_level": "⭐⭐⭐",
+      "recommended_hotspots": [
+        {
+          "title": "法国车手感谢张雪机车成就梦想",
+          "hot_value": 9404060,
+          "match_type": "梦想主题"
+        },
+        {
+          "title": "严浩翔新歌上线",
+          "hot_value": 7677710,
+          "match_type": "音乐场景"
+        }
+      ],
+      "content_suggestions": [
+        "避坑指南：元气森林果汁 × 运动健身场景",
+        "真实测评：元气森林气泡水 × 春季出游",
+        "创意借势：元气森林燃茶 × 新歌发布场景"
+      ],
+      "top_products": ["元气森林果汁", "元气森林气泡水", "元气森林燃茶"]
+    }
+  ],
+  "content_creation_plan": {
+    "high_priority": [
+      {
+        "idea": "OATLY燕麦奶送礼推荐",
+        "hotspot": "东鹏饮料热点",
+        "content_type": "开箱测评",
+        "platform": "全平台",
+        "estimated_engagement": "70,000+"
+      },
+      {
+        "idea": "荣耀手机创意借势",
+        "hotspot": "张雪达喀尔拉力赛",
+        "content_type": "场景种草",
+        "platform": "B站",
+        "estimated_engagement": "30,000+"
+      },
+      {
+        "idea": "索尼耳机用户故事",
+        "hotspot": "日本1:0英格兰",
+        "content_type": "情感视频",
+        "platform": "微博",
+        "estimated_engagement": "37,500+"
+      },
+      {
+        "idea": "希宝猫条对比评测",
+        "hotspot": "丁程鑫舞蹈热点",
+        "content_type": "对比视频",
+        "platform": "小红书",
+        "estimated_engagement": "65,000+"
+      },
+      {
+        "idea": "百威金樽场景种草",
+        "hotspot": "五哈6定档",
+        "content_type": "剧情植入",
+        "platform": "抖音",
+        "estimated_engagement": "72,500+"
+      }
+    ],
+    "content_formats": [
+      {
+        "type": "开箱测评类",
+        "suitable_products": ["OATLY雪糕", "希宝猫零食", "荣耀手机"],
+        "style": "专业严谨 + 数据驱动",
+        "target_audience": ["科技发烧友", "精致生活族"]
+      },
+      {
+        "type": "场景种草类",
+        "suitable_products": ["百威啤酒", "元气森林气泡水", "荣耀手表"],
+        "style": "情感走心 + 故事叙述",
+        "target_audience": ["家庭用户", "上班族"]
+      },
+      {
+        "type": "对比评测类",
+        "suitable_products": ["希宝猫条", "OATLY酸奶", "索尼耳机"],
+        "style": "数据驱动 + 专业严谨",
+        "target_audience": ["性价比追求者", "学生党"]
+      },
+      {
+        "type": "创意借势类",
+        "suitable_products": ["荣耀全产品线", "索尼相机"],
+        "style": "视觉冲击 + 互动参与",
+        "target_audience": ["年轻群体", "时尚人群"]
+      }
+    ],
+    "content_angles": [
+      {
+        "angle": "体育赛事",
+        "hotspots": ["张雪机车", "詹姆斯", "世界杯"],
+        "products": "运动场景相关产品",
+        "approach": "运动激情、梦想追逐、团队精神"
+      },
+      {
+        "angle": "春季时节",
+        "hotspots": ["四月第一天", "最是人间四月天"],
+        "products": "春季适用产品",
+        "approach": "新鲜感、活力、复苏"
+      },
+      {
+        "angle": "科技数码",
+        "hotspots": ["有线耳机爆火", "AI话题"],
+        "products": "3C数码产品",
+        "approach": "科技感、创新、实用性"
+      },
+      {
+        "angle": "情感纪念",
+        "hotspots": ["张国荣逝世23周年", "王伟牺牲25周年"],
+        "products": "适合纪念场景产品",
+        "approach": "怀念、致敬、经典回顾"
+      }
+    ]
+  },
+  "execution_plan": {
+    "immediate_actions": [
+      {
+        "client": "OATLY团队",
+        "action": "快速响应东鹏饮料热点，制作送礼场景内容",
+        "timeline": "24小时内"
+      },
+      {
+        "client": "荣耀团队",
+        "action": "跟进张雪达喀尔拉力赛话题，准备极限运动场景内容",
+        "timeline": "24小时内"
+      },
+      {
+        "client": "希宝团队",
+        "action": "借势丁程鑫热点，制作宠物日常vlog",
+        "timeline": "24小时内"
+      }
+    ],
+    "short_term_planning": [
+      {
+        "theme": "体育赛事",
+        "action": "持续关注张雪机车、世界杯相关话题",
+        "timeline": "3-7天"
+      },
+      {
+        "theme": "春季场景",
+        "action": "制作四月春季主题内容",
+        "timeline": "3-7天"
+      },
+      {
+        "theme": "综艺娱乐",
+        "action": "跟进五哈6、乘风2026等综艺话题",
+        "timeline": "3-7天"
+      }
+    ],
+    "long_term_planning": [
+      {
+        "theme": "世界杯预热",
+        "action": "准备美加墨世界杯相关内容",
+        "timeline": "1个月"
+      },
+      {
+        "theme": "春季营销",
+        "action": "布局整个春季的内容矩阵",
+        "timeline": "1个月"
+      },
+      {
+        "theme": "品牌故事",
+        "action": "持续输出品牌价值内容",
+        "timeline": "1个月"
+      }
+    ]
+  }
+}
