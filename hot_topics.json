@@ -5,68 +5,142 @@
     "hot_value": 480000000,
     "url": "https://www.toutiao.com/article/7615646502693749258/",
     "platform": "微博/全网",
-    "industries": ["科技", "通信"],
-    "trends": ["爆"],
+    "industries": [
+      "科技",
+      "通信"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "科技热点",
     "sentiment": "正面",
-    "keywords": ["6G", "通信技术", "4K电影", "空天地一体化", "数字经济"],
-    "c": ["小米", "荣耀", "索尼"],
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
     "rank": 2,
-    "title": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
-    "hot_value": 320000000,
-    "url": "https://c.m.163.com/news/a/KPDSC92E05319YKA.html",
-    "platform": "抖音/微博",
-    "industries": ["体育", "消费"],
-    "trends": ["爆"],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": ["张雪机车", "WSBK", "东鹏特饮", "中国制造", "赛车", "涨粉"],
-    "c": ["百威", "元气森林", "农夫山泉"],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 3,
     "title": "colorwalk成为2026春季最火生活趋势",
     "hot_value": 463000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_27169c9e59946152",
     "platform": "小红书",
-    "industries": ["旅游", "生活"],
-    "trends": ["爆"],
+    "industries": [
+      "旅游",
+      "生活"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "消费趋势",
     "sentiment": "正面",
-    "keywords": ["colorwalk", "色彩漫步", "春季出游", "小红书"],
-    "c": ["农夫山泉", "元气森林"],
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 3,
+    "title": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
+    "hot_value": 320000000,
+    "url": "https://c.m.163.com/news/a/KPDSC92E05319YKA.html",
+    "platform": "抖音/微博",
+    "industries": [
+      "体育",
+      "消费"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "张雪机车",
+      "WSBK",
+      "东鹏特饮",
+      "中国制造",
+      "赛车",
+      "涨粉"
+    ],
+    "c": [
+      "百威",
+      "元气森林",
+      "农夫山泉"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
     "rank": 4,
-    "title": "瑞幸紫椰子事件 椰肉变色引消费者维权",
-    "hot_value": 85000000,
-    "url": "https://www.toutiao.com/article/7623373554779750955/",
-    "platform": "微博/全网",
-    "industries": ["食品", "消费"],
-    "trends": ["爆"],
-    "type": "消费热点",
-    "sentiment": "负面",
-    "keywords": ["瑞幸", "紫椰子", "食品安全", "消费者维权", "椰肉变色"],
-    "c": ["农夫山泉", "OATLY", "元气森林"],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 5,
     "title": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
     "hot_value": 120000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_00469cc4c1d75852",
     "platform": "微博/全网",
-    "industries": ["国际", "社会"],
-    "trends": ["爆"],
+    "industries": [
+      "国际",
+      "社会"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "国际热点",
     "sentiment": "中性",
-    "keywords": ["伊朗", "海军司令", "霍尔木兹海峡", "能源", "中东局势"],
-    "c": ["小米", "荣耀", "索尼"],
+    "keywords": [
+      "伊朗",
+      "海军司令",
+      "霍尔木兹海峡",
+      "能源",
+      "中东局势"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 5,
+    "title": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_value": 85000000,
+    "url": "https://www.toutiao.com/article/7623373554779750955/",
+    "platform": "微博/全网",
+    "industries": [
+      "食品",
+      "消费"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "消费热点",
+    "sentiment": "负面",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY",
+      "元气森林"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
@@ -75,12 +149,27 @@
     "hot_value": 68000000,
     "url": "https://www.toutiao.com/article/7623130269016474112/",
     "platform": "微博/抖音",
-    "industries": ["娱乐"],
-    "trends": ["爆"],
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "娱乐热点",
     "sentiment": "正面",
-    "keywords": ["李湘", "王诗龄", "韶山", "瘦身", "明星"],
-    "c": ["AHC", "玉兰油", "力士", "多芬"],
+    "keywords": [
+      "李湘",
+      "王诗龄",
+      "韶山",
+      "瘦身",
+      "明星"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士",
+      "多芬"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
@@ -89,11 +178,23 @@
     "hot_value": 56000000,
     "url": "https://www.toutiao.com/w/1856871697921224/",
     "platform": "抖音/微博",
-    "industries": ["社会", "互联网"],
-    "trends": ["爆"],
+    "industries": [
+      "社会",
+      "互联网"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "社会热点",
     "sentiment": "负面",
-    "keywords": ["抖音", "小妹儿", "方言", "敏感词", "地域歧视", "东北"],
+    "keywords": [
+      "抖音",
+      "小妹儿",
+      "方言",
+      "敏感词",
+      "地域歧视",
+      "东北"
+    ],
     "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
@@ -103,11 +204,22 @@
     "hot_value": 50000000,
     "url": "https://new.qq.com/rain/a/20260328A03OD700",
     "platform": "B站/全网",
-    "industries": ["娱乐", "社会"],
-    "trends": ["爆"],
+    "industries": [
+      "娱乐",
+      "社会"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": ["我要验牌", "赌侠", "网络热梗", "二创", "官方借势"],
+    "keywords": [
+      "我要验牌",
+      "赌侠",
+      "网络热梗",
+      "二创",
+      "官方借势"
+    ],
     "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
@@ -117,12 +229,28 @@
     "hot_value": 45000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_00469cc4c1d75852",
     "platform": "全网",
-    "industries": ["科技", "经济"],
-    "trends": ["新"],
+    "industries": [
+      "科技",
+      "经济"
+    ],
+    "trends": [
+      "新"
+    ],
     "type": "科技热点",
     "sentiment": "正面",
-    "keywords": ["世界数据组织", "北京", "数据治理", "数字经济", "国际合作"],
-    "c": ["小米", "荣耀", "索尼", "罗技"],
+    "keywords": [
+      "世界数据组织",
+      "北京",
+      "数据治理",
+      "数字经济",
+      "国际合作"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼",
+      "罗技"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
@@ -131,12 +259,26 @@
     "hot_value": 42000000,
     "url": "http://news.10jqka.com.cn/20260401/c675687275.shtml",
     "platform": "微博/全网",
-    "industries": ["娱乐"],
-    "trends": ["爆"],
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "娱乐热点",
     "sentiment": "中性",
-    "keywords": ["鞠婧祎", "丝芭传媒", "合约纠纷", "税务", "明星"],
-    "c": ["AHC", "玉兰油", "力士"],
+    "keywords": [
+      "鞠婧祎",
+      "丝芭传媒",
+      "合约纠纷",
+      "税务",
+      "明星"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
@@ -145,12 +287,26 @@
     "hot_value": 38000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_34669cca7d917852",
     "platform": "微博",
-    "industries": ["消费", "环保"],
-    "trends": ["热"],
+    "industries": [
+      "消费",
+      "环保"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "消费热点",
     "sentiment": "中性",
-    "keywords": ["地球使用费", "品牌营销", "环保", "热议"],
-    "c": ["农夫山泉", "OATLY", "元气森林"],
+    "keywords": [
+      "地球使用费",
+      "品牌营销",
+      "环保",
+      "热议"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY",
+      "元气森林"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
@@ -159,12 +315,26 @@
     "hot_value": 35000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_36269cc973816252",
     "platform": "微博/全网",
-    "industries": ["生活", "健康"],
-    "trends": ["热"],
+    "industries": [
+      "生活",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "社会热点",
     "sentiment": "负面",
-    "keywords": ["蚊子", "疾控", "健康提醒", "夏季", "防护"],
-    "c": ["威猛先生", "汤臣倍健"],
+    "keywords": [
+      "蚊子",
+      "疾控",
+      "健康提醒",
+      "夏季",
+      "防护"
+    ],
+    "c": [
+      "威猛先生",
+      "汤臣倍健"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
@@ -173,11 +343,22 @@
     "hot_value": 32000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_89569cc841c14552",
     "platform": "抖音/全网",
-    "industries": ["消费", "电商"],
-    "trends": ["热"],
+    "industries": [
+      "消费",
+      "电商"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "消费热点",
     "sentiment": "负面",
-    "keywords": ["抖音电商", "假货", "18K金", "消费维权", "直播带货"],
+    "keywords": [
+      "抖音电商",
+      "假货",
+      "18K金",
+      "消费维权",
+      "直播带货"
+    ],
     "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
@@ -187,12 +368,26 @@
     "hot_value": 28000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_98269cc93ba10452",
     "platform": "微博/抖音",
-    "industries": ["消费", "健康"],
-    "trends": ["热"],
+    "industries": [
+      "消费",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "消费热点",
     "sentiment": "负面",
-    "keywords": ["优思益", "保健品", "虚假宣传", "进口", "叶黄素"],
-    "c": ["汤臣倍健", "善存"],
+    "keywords": [
+      "优思益",
+      "保健品",
+      "虚假宣传",
+      "进口",
+      "叶黄素"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
@@ -201,12 +396,26 @@
     "hot_value": 25000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_08569cc83fa42152",
     "platform": "抖音/全网",
-    "industries": ["科技", "娱乐"],
-    "trends": ["新"],
+    "industries": [
+      "科技",
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
     "type": "商业新闻",
     "sentiment": "正面",
-    "keywords": ["抖音", "导演扶持计划", "创作者", "流量池", "内容产业"],
-    "c": ["索尼", "罗技"],
+    "keywords": [
+      "抖音",
+      "导演扶持计划",
+      "创作者",
+      "流量池",
+      "内容产业"
+    ],
+    "c": [
+      "索尼",
+      "罗技"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
@@ -215,11 +424,22 @@
     "hot_value": 20000000,
     "url": "https://www.toutiao.com/article/7617786005147353652/",
     "platform": "抖音/微博",
-    "industries": ["社会", "房产"],
-    "trends": ["热"],
+    "industries": [
+      "社会",
+      "房产"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "社会热点",
     "sentiment": "中性",
-    "keywords": ["物业费", "按平米收", "业主", "新规", "公平"],
+    "keywords": [
+      "物业费",
+      "按平米收",
+      "业主",
+      "新规",
+      "公平"
+    ],
     "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
@@ -229,471 +449,2848 @@
     "hot_value": 18000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_53469cc5c4f31865",
     "platform": "全网",
-    "industries": ["消费", "汽车"],
-    "trends": ["热"],
+    "industries": [
+      "消费",
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "消费热点",
     "sentiment": "中性",
-    "keywords": ["雅迪", "电动车", "涨价", "300元", "调价"],
-    "c": ["小米"],
+    "keywords": [
+      "雅迪",
+      "电动车",
+      "涨价",
+      "300元",
+      "调价"
+    ],
+    "c": [
+      "小米"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
     "rank": 18,
-    "title": "2026北京郁金香文化节4月3日启幕",
-    "hot_value": 9000000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_88269cc563a73852",
-    "platform": "微博/小红书",
-    "industries": ["旅游", "生活"],
-    "trends": ["热"],
-    "type": "活动热点",
-    "sentiment": "正面",
-    "keywords": ["郁金香", "北京", "文化节", "清明", "踏青"],
-    "c": ["农夫山泉", "OATLY", "元气森林"],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 19,
-    "title": "神行者FREELANDER独立品牌全球首秀",
-    "hot_value": 8500000,
-    "url": "https://new.qq.com/rain/a/20260331A088ZQ00",
-    "platform": "全网",
-    "industries": ["汽车", "科技"],
-    "trends": ["热"],
-    "type": "商业新闻",
-    "sentiment": "正面",
-    "keywords": ["神行者", "FREELANDER", "奇瑞", "捷豹路虎", "豪华新能源", "独立品牌"],
-    "c": ["小米", "荣耀", "索尼"],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 20,
-    "title": "4月1日起全国严查后排未系安全带",
-    "hot_value": 9500000,
-    "url": "http://weibo.com/u/2934114502",
-    "platform": "微博",
-    "industries": ["社会", "交通"],
-    "trends": ["新"],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": ["安全带", "后排乘客", "交通法规", "执法"],
-    "c": [],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 21,
     "title": "万物皆可郁金香",
     "hot_value": 15000000,
     "url": "https://www.iesdouyin.com/share/billboard/",
     "platform": "抖音",
-    "industries": ["娱乐", "生活"],
-    "trends": ["热"],
+    "industries": [
+      "娱乐",
+      "生活"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": ["郁金香", "春天", "打卡"],
+    "keywords": [
+      "郁金香",
+      "春天",
+      "打卡"
+    ],
     "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 22,
+    "rank": 19,
     "title": "NBA反摆烂新方案 奇才爵士上演奥斯卡表演",
     "hot_value": 14000000,
     "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qb8o.html",
     "platform": "微博",
-    "industries": ["体育", "娱乐"],
-    "trends": ["热"],
+    "industries": [
+      "体育",
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "体育热点",
     "sentiment": "中性",
-    "keywords": ["NBA", "摆烂", "奇才", "爵士", "肖华", "选秀"],
+    "keywords": [
+      "NBA",
+      "摆烂",
+      "奇才",
+      "爵士",
+      "肖华",
+      "选秀"
+    ],
     "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
   {
+    "rank": 20,
+    "title": "东鹏饮料怎么了",
+    "hot_value": 12099984,
+    "url": "https://www.douyin.com/search/%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E6%80%8E%E4%B9%88%E4%BA%86",
+    "platform": "抖音",
+    "industries": [
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "中性",
+    "keywords": [
+      "东鹏饮料怎么"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 21,
+    "title": "四月第一天",
+    "hot_value": 11823222,
+    "url": "https://www.douyin.com/search/%E5%9B%9B%E6%9C%88%E7%AC%AC%E4%B8%80%E5%A4%A9",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "四月第一天"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 22,
+    "title": "四月起这些新规影响你我生活",
+    "hot_value": 11450252,
+    "url": "https://www.douyin.com/search/%E5%9B%9B%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91%E7%94%9F%E6%B4%BB",
+    "platform": "抖音",
+    "industries": [
+      "生活"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "四月起这些新"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
     "rank": 23,
-    "title": "两艘国产大型邮轮同框 爱达魔都号与花城号",
-    "hot_value": 7200000,
-    "url": "http://weibo.com/u/2149981442/",
-    "platform": "微博",
-    "industries": ["科技", "旅游"],
-    "trends": ["热"],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": ["国产邮轮", "爱达魔都号", "爱达花城号", "中国制造"],
-    "c": ["小米", "荣耀", "索尼"],
-    "created_at": "2026-04-01T13:13:00"
+    "title": "詹姆斯开场追帽米切尔",
+    "hot_value": 11369921,
+    "url": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%80%E5%9C%BA%E8%BF%BD%E5%B8%BD%E7%B1%B3%E5%88%87%E5%B0%94",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "詹姆斯开场追"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 24,
-    "title": "斯诺克世界第一特鲁姆普与花滑女神马晓晴疑似分手",
-    "hot_value": 6800000,
-    "url": "https://www.sohu.com/a/1003375150_121909538",
-    "platform": "微博/抖音",
-    "industries": ["体育", "娱乐"],
-    "trends": ["热"],
-    "type": "娱乐热点",
+    "title": "海空卫士王伟牺牲25周年",
+    "hot_value": 10638730,
+    "url": "https://www.douyin.com/search/%E6%B5%B7%E7%A9%BA%E5%8D%AB%E5%A3%AB%E7%8E%8B%E4%BC%9F%E7%89%BA%E7%89%B225%E5%91%A8%E5%B9%B4",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
     "sentiment": "中性",
-    "keywords": ["特鲁姆普", "马晓晴", "斯诺克", "分手", "花滑"],
-    "c": ["索尼", "罗技"],
-    "created_at": "2026-04-01T13:13:00"
+    "keywords": [
+      "海空卫士王伟"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 25,
-    "title": "美国星链卫星失联 太空探索技术公司调查中",
-    "hot_value": 6000000,
-    "url": "http://weibo.com/u/2149981442/",
-    "platform": "微博",
-    "industries": ["科技"],
-    "trends": ["新"],
-    "type": "科技热点",
+    "title": "法国车手感谢张雪机车成就梦想",
+    "hot_value": 10548155,
+    "url": "https://www.douyin.com/search/%E6%B3%95%E5%9B%BD%E8%BD%A6%E6%89%8B%E6%84%9F%E8%B0%A2%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%88%90%E5%B0%B1%E6%A2%A6%E6%83%B3",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
     "sentiment": "中性",
-    "keywords": ["星链", "卫星失联", "SpaceX", "马斯克"],
-    "c": ["小米", "荣耀", "索尼", "罗技"],
-    "created_at": "2026-04-01T13:13:00"
+    "keywords": [
+      "法国车手感谢"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 26,
-    "title": "2026LPL第二赛段赛程公布 4月4日开赛",
-    "hot_value": 5500000,
-    "url": "http://weibo.com/u/5756404150",
-    "platform": "微博/B站",
-    "industries": ["游戏", "电竞"],
-    "trends": ["热"],
-    "type": "游戏热点",
+    "title": "4月1日起全国严查后排未系安全带",
+    "hot_value": 9500000,
+    "url": "http://weibo.com/u/2934114502",
+    "platform": "微博",
+    "industries": [
+      "社会",
+      "交通"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
     "sentiment": "正面",
-    "keywords": ["LPL", "英雄联盟", "电竞", "赛程"],
-    "c": ["索尼", "罗技"],
+    "keywords": [
+      "安全带",
+      "后排乘客",
+      "交通法规",
+      "执法"
+    ],
+    "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
   {
     "rank": 27,
-    "title": "张国荣逝世23周年 螺蛳粉哥发文纪念",
-    "hot_value": 5000000,
-    "url": "http://weibo.com/u/2688504554",
-    "platform": "微博",
-    "industries": ["娱乐"],
-    "trends": ["热"],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": ["张国荣", "逝世23周年", "愚人节", "纪念"],
-    "c": ["AHC", "玉兰油", "力士", "多芬"],
-    "created_at": "2026-04-01T13:13:00"
+    "title": "张雪：正在筹备达喀尔拉力赛",
+    "hot_value": 9426656,
+    "url": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%AA%EF%BC%9A%E6%AD%A3%E5%9C%A8%E7%AD%B9%E5%A4%87%E8%BE%BE%E5%96%80%E5%B0%94%E6%8B%89%E5%8A%9B%E8%B5%9B",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "张雪：正在筹"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 28,
-    "title": "超级厄尔尼诺来袭 2026或成史上最热年",
-    "hot_value": 5000000,
-    "url": "https://finance.sina.com.cn/jjxw/2026-04-01/doc-inhsxvfm8772012.shtml",
-    "platform": "全网",
-    "industries": ["社会", "科技"],
-    "trends": ["热"],
+    "title": "安布罗西尼评意大利出局",
+    "hot_value": 9300123,
+    "url": "https://www.douyin.com/search/%E5%AE%89%E5%B8%83%E7%BD%97%E8%A5%BF%E5%B0%BC%E8%AF%84%E6%84%8F%E5%A4%A7%E5%88%A9%E5%87%BA%E5%B1%80",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "社会热点",
-    "sentiment": "负面",
-    "keywords": ["厄尔尼诺", "全球变暖", "最热年", "气候", "极端天气"],
-    "c": ["农夫山泉", "百威", "OATLY", "元气森林"],
-    "created_at": "2026-04-01T13:13:00"
+    "sentiment": "中性",
+    "keywords": [
+      "安布罗西尼评"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 29,
-    "title": "B站首届AI创作大赛收官 8300份作品播放7亿 updream内测",
-    "hot_value": 4200000,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903upvm.html",
-    "platform": "B站/微博",
-    "industries": ["科技", "二次元"],
-    "trends": ["新"],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": ["B站", "AI创作", "updream", "AI动画", "创作者"],
-    "c": ["小米", "索尼", "罗技"],
-    "created_at": "2026-04-01T13:13:00"
+    "title": "苑举正解读郑丽文将访问大陆",
+    "hot_value": 9205073,
+    "url": "https://www.douyin.com/search/%E8%8B%91%E4%B8%BE%E6%AD%A3%E8%A7%A3%E8%AF%BB%E9%83%91%E4%B8%BD%E6%96%87%E5%B0%86%E8%AE%BF%E9%97%AE%E5%A4%A7%E9%99%86",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "苑举正解读郑"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 30,
-    "title": "上海乒乓球嘉年华4月12日开幕",
-    "hot_value": 3800000,
-    "url": "https://new.qq.com/rain/a/20260331A06V5500",
-    "platform": "微博/微信",
-    "industries": ["体育", "旅游"],
-    "trends": ["热"],
-    "type": "活动热点",
-    "sentiment": "正面",
-    "keywords": ["乒乓球", "嘉年华", "上海", "国际乒联百年", "全民运动"],
-    "c": ["汤臣倍健", "善存", "农夫山泉"],
-    "created_at": "2026-04-01T13:13:00"
+    "title": "日本1:0英格兰",
+    "hot_value": 9199254,
+    "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC1%3A0%E8%8B%B1%E6%A0%BC%E5%85%B0",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "日本1:0英"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 31,
-    "title": "清明春假黄金周 赏花踏青出行爆发",
-    "hot_value": 3500000,
-    "url": "http://cn.chinadaily.com.cn/a/202603/WS69ca3166a310942cc49a59c6.html",
-    "platform": "小红书/抖音",
-    "industries": ["旅游", "生活"],
-    "trends": ["爆"],
-    "type": "消费趋势",
-    "sentiment": "正面",
-    "keywords": ["清明节", "春假", "赏花", "踏青", "自驾游", "租车"],
-    "c": ["农夫山泉", "OATLY", "元气森林", "百威", "希宝"],
-    "created_at": "2026-04-01T13:13:00"
+    "title": "意大利连续3届无缘世界杯",
+    "hot_value": 9151723,
+    "url": "https://www.douyin.com/search/%E6%84%8F%E5%A4%A7%E5%88%A9%E8%BF%9E%E7%BB%AD3%E5%B1%8A%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "意大利连续3"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 32,
-    "title": "小米SU7交付量突破10万台",
-    "hot_value": 3600000,
-    "url": "https://weibo.com",
-    "platform": "微博",
-    "industries": ["汽车", "科技"],
-    "trends": ["爆"],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": ["小米SU7", "电动车", "交付", "雷军", "新能源"],
-    "c": ["小米"],
-    "created_at": "2026-04-01T13:13:00"
+    "title": "全面开展国有馆藏文物盘库清点",
+    "hot_value": 9129092,
+    "url": "https://www.douyin.com/search/%E5%85%A8%E9%9D%A2%E5%BC%80%E5%B1%95%E5%9B%BD%E6%9C%89%E9%A6%86%E8%97%8F%E6%96%87%E7%89%A9%E7%9B%98%E5%BA%93%E6%B8%85%E7%82%B9",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "全面开展国有"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 33,
-    "title": "打一针就好了成2026最火热梗",
-    "hot_value": 3200000,
-    "url": "https://www.toutiao.com/article/7622329985289683496/",
-    "platform": "全网",
-    "industries": ["社会"],
-    "trends": ["爆"],
-    "type": "网络热梗",
-    "sentiment": "负面",
-    "keywords": ["打一针就好了", "信达证券", "左前明", "性骚扰", "职场"],
+    "title": "开拓者官宣易主",
+    "hot_value": 9113742,
+    "url": "https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85%E5%AE%98%E5%AE%A3%E6%98%93%E4%B8%BB",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "开拓者官宣易"
+    ],
     "c": [],
-    "created_at": "2026-04-01T13:13:00"
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 34,
-    "title": "愚人节",
-    "hot_value": 3500000,
-    "url": "https://weibo.com",
-    "platform": "全网",
-    "industries": ["娱乐"],
-    "trends": ["爆"],
-    "type": "节日热点",
+    "title": "2026北京郁金香文化节4月3日启幕",
+    "hot_value": 9000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_88269cc563a73852",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游",
+      "生活"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "活动热点",
     "sentiment": "正面",
-    "keywords": ["愚人节", "整蛊", "4月1日", "玩笑"],
-    "c": [],
+    "keywords": [
+      "郁金香",
+      "北京",
+      "文化节",
+      "清明",
+      "踏青"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY",
+      "元气森林"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
     "rank": 35,
-    "title": "《黑神话：悟空》DLC预告发布",
-    "hot_value": 3200000,
-    "url": "https://bilibili.com",
-    "platform": "B站/微博",
-    "industries": ["游戏"],
-    "trends": ["爆"],
-    "type": "游戏热点",
+    "title": "神行者FREELANDER独立品牌全球首秀",
+    "hot_value": 8500000,
+    "url": "https://new.qq.com/rain/a/20260331A088ZQ00",
+    "platform": "全网",
+    "industries": [
+      "汽车",
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "商业新闻",
     "sentiment": "正面",
-    "keywords": ["黑神话悟空", "DLC", "国产游戏", "游戏预告"],
-    "c": ["索尼", "罗技"],
+    "keywords": [
+      "神行者",
+      "FREELANDER",
+      "奇瑞",
+      "捷豹路虎",
+      "豪华新能源",
+      "独立品牌"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
     "rank": 36,
-    "title": "2026年进度条已过四分之一",
-    "hot_value": 3000000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_01669cc74ac12852",
-    "platform": "全网",
-    "industries": ["生活"],
-    "trends": ["热"],
-    "type": "生活热点",
-    "sentiment": "正面",
-    "keywords": ["2026年", "进度条", "四月", "时间"],
+    "title": "伊朗愿在诉求满足下结束战争",
+    "hot_value": 8109917,
+    "url": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E6%84%BF%E5%9C%A8%E8%AF%89%E6%B1%82%E6%BB%A1%E8%B6%B3%E4%B8%8B%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89",
+    "platform": "抖音",
+    "industries": [
+      "国际"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "国际热点",
+    "sentiment": "中性",
+    "keywords": [
+      "伊朗愿在诉求"
+    ],
     "c": [],
-    "created_at": "2026-04-01T13:13:00"
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 37,
-    "title": "陶昕然乘风2026初舞台复刻冰嬉舞 孙俪连线提议",
-    "hot_value": 2800000,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzm.html",
-    "platform": "微博/抖音",
-    "industries": ["娱乐"],
-    "trends": ["热"],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": ["陶昕然", "乘风2026", "甄嬛传", "安陵容", "冰嬉舞"],
-    "c": ["AHC", "玉兰油", "力士"],
-    "created_at": "2026-04-01T13:13:00"
+    "title": "先让自己乐起来",
+    "hot_value": 7802841,
+    "url": "https://www.douyin.com/search/%E5%85%88%E8%AE%A9%E8%87%AA%E5%B7%B1%E4%B9%90%E8%B5%B7%E6%9D%A5",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "先让自己乐起"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
   },
   {
     "rank": 38,
-    "title": "梅姨落网",
-    "hot_value": 2500000,
-    "url": "https://weibo.com",
-    "platform": "微博",
-    "industries": ["社会"],
-    "trends": ["爆"],
+    "title": "张元英复仇摇杀死比赛",
+    "hot_value": 7741742,
+    "url": "https://www.douyin.com/search/%E5%BC%A0%E5%85%83%E8%8B%B1%E5%A4%8D%E4%BB%87%E6%91%87%E6%9D%80%E6%AD%BB%E6%AF%94%E8%B5%9B",
+    "platform": "抖音",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "张元英复仇摇"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 39,
+    "title": "陈妍希工作室发文",
+    "hot_value": 7727750,
+    "url": "https://www.douyin.com/search/%E9%99%88%E5%A6%8D%E5%B8%8C%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%96%87",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "陈妍希工作室"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 40,
+    "title": "月鳞绮纪OST听声识人",
+    "hot_value": 7707151,
+    "url": "https://www.douyin.com/search/%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AAOST%E5%90%AC%E5%A3%B0%E8%AF%86%E4%BA%BA",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "月鳞绮纪OS"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 41,
+    "title": "被土豆的普通话戳到笑点",
+    "hot_value": 7701159,
+    "url": "https://www.douyin.com/search/%E8%A2%AB%E5%9C%9F%E8%B1%86%E7%9A%84%E6%99%AE%E9%80%9A%E8%AF%9D%E6%88%B3%E5%88%B0%E7%AC%91%E7%82%B9",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "被土豆的普通"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 42,
+    "title": "贺峻霖世界倒数第一忧郁的人",
+    "hot_value": 7700420,
+    "url": "https://www.douyin.com/search/%E8%B4%BA%E5%B3%BB%E9%9C%96%E4%B8%96%E7%95%8C%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%E5%BF%A7%E9%83%81%E7%9A%84%E4%BA%BA",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "贺峻霖世界倒"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 43,
+    "title": "美加墨世界杯48支参赛球队确定",
+    "hot_value": 7700146,
+    "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF48%E6%94%AF%E5%8F%82%E8%B5%9B%E7%90%83%E9%98%9F%E7%A1%AE%E5%AE%9A",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "美加墨世界杯"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 44,
+    "title": "五哈6定档0404",
+    "hot_value": 7698278,
+    "url": "https://www.douyin.com/search/%E4%BA%94%E5%93%886%E5%AE%9A%E6%A1%A30404",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "五哈6定档0"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 45,
+    "title": "严浩翔新歌上线",
+    "hot_value": 7691535,
+    "url": "https://www.douyin.com/search/%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "社会热点",
     "sentiment": "正面",
-    "keywords": ["梅姨", "拐卖儿童", "落网", "张维平"],
+    "keywords": [
+      "严浩翔新歌上"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 46,
+    "title": "最是人间四月天",
+    "hot_value": 7685972,
+    "url": "https://www.douyin.com/search/%E6%9C%80%E6%98%AF%E4%BA%BA%E9%97%B4%E5%9B%9B%E6%9C%88%E5%A4%A9",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "最是人间四月"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 47,
+    "title": "逐玉造型指导回应造型争议",
+    "hot_value": 7684045,
+    "url": "https://www.douyin.com/search/%E9%80%90%E7%8E%89%E9%80%A0%E5%9E%8B%E6%8C%87%E5%AF%BC%E5%9B%9E%E5%BA%94%E9%80%A0%E5%9E%8B%E4%BA%89%E8%AE%AE",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "逐玉造型指导"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 48,
+    "title": "徐良把演唱会办成年会第一人",
+    "hot_value": 7676341,
+    "url": "https://www.douyin.com/search/%E5%BE%90%E8%89%AF%E6%8A%8A%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8A%9E%E6%88%90%E5%B9%B4%E4%BC%9A%E7%AC%AC%E4%B8%80%E4%BA%BA",
+    "platform": "抖音",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "徐良把演唱会"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 49,
+    "title": "CORTIS互相模仿太抽象了",
+    "hot_value": 7668391,
+    "url": "https://www.douyin.com/search/CORTIS%E4%BA%92%E7%9B%B8%E6%A8%A1%E4%BB%BF%E5%A4%AA%E6%8A%BD%E8%B1%A1%E4%BA%86",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "CORTIS"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 50,
+    "title": "人生何止有终不似少年游",
+    "hot_value": 7662659,
+    "url": "https://www.douyin.com/search/%E4%BA%BA%E7%94%9F%E4%BD%95%E6%AD%A2%E6%9C%89%E7%BB%88%E4%B8%8D%E4%BC%BC%E5%B0%91%E5%B9%B4%E6%B8%B8",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "人生何止有终"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 51,
+    "title": "抖音荒野垂钓季",
+    "hot_value": 7660461,
+    "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E8%8D%92%E9%87%8E%E5%9E%82%E9%92%93%E5%AD%A3",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "抖音荒野垂钓"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 52,
+    "title": "乘风2026初舞台预测",
+    "hot_value": 7657747,
+    "url": "https://www.douyin.com/search/%E4%B9%98%E9%A3%8E2026%E5%88%9D%E8%88%9E%E5%8F%B0%E9%A2%84%E6%B5%8B",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "乘风2026"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 53,
+    "title": "张国荣逝世23周年",
+    "hot_value": 7656886,
+    "url": "https://www.douyin.com/search/%E5%BC%A0%E5%9B%BD%E8%8D%A3%E9%80%9D%E4%B8%9623%E5%91%A8%E5%B9%B4",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "张国荣逝世2"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 54,
+    "title": "古天乐周润发首次合作",
+    "hot_value": 7654762,
+    "url": "https://www.douyin.com/search/%E5%8F%A4%E5%A4%A9%E4%B9%90%E5%91%A8%E6%B6%A6%E5%8F%91%E9%A6%96%E6%AC%A1%E5%90%88%E4%BD%9C",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "古天乐周润发"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 55,
+    "title": "微胖女生也要做春日时髦精",
+    "hot_value": 7644000,
+    "url": "https://www.douyin.com/search/%E5%BE%AE%E8%83%96%E5%A5%B3%E7%94%9F%E4%B9%9F%E8%A6%81%E5%81%9A%E6%98%A5%E6%97%A5%E6%97%B6%E9%AB%A6%E7%B2%BE",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "微胖女生也要"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 56,
+    "title": "一条娱评细品白日提灯里的细糠",
+    "hot_value": 7641862,
+    "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E5%A8%B1%E8%AF%84%E7%BB%86%E5%93%81%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E9%87%8C%E7%9A%84%E7%BB%86%E7%B3%A0",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "一条娱评细品"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 57,
+    "title": "电影三心两意定档",
+    "hot_value": 7629250,
+    "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E4%B8%89%E5%BF%83%E4%B8%A4%E6%84%8F%E5%AE%9A%E6%A1%A3",
+    "platform": "抖音",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "电影三心两意"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 58,
+    "title": "家事法庭这波冲爷奶来的",
+    "hot_value": 7627988,
+    "url": "https://www.douyin.com/search/%E5%AE%B6%E4%BA%8B%E6%B3%95%E5%BA%AD%E8%BF%99%E6%B3%A2%E5%86%B2%E7%88%B7%E5%A5%B6%E6%9D%A5%E7%9A%84",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "家事法庭这波"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 59,
+    "title": "冬去春来胜利庄庄纯爱初吻",
+    "hot_value": 7627441,
+    "url": "https://www.douyin.com/search/%E5%86%AC%E5%8E%BB%E6%98%A5%E6%9D%A5%E8%83%9C%E5%88%A9%E5%BA%84%E5%BA%84%E7%BA%AF%E7%88%B1%E5%88%9D%E5%90%BB",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "冬去春来胜利"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 60,
+    "title": "丁程鑫红发绿发都整上了",
+    "hot_value": 7625828,
+    "url": "https://www.douyin.com/search/%E4%B8%81%E7%A8%8B%E9%91%AB%E7%BA%A2%E5%8F%91%E7%BB%BF%E5%8F%91%E9%83%BD%E6%95%B4%E4%B8%8A%E4%BA%86",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "丁程鑫红发绿"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 61,
+    "title": "逐玉大结局的门是我关的",
+    "hot_value": 7625331,
+    "url": "https://www.douyin.com/search/%E9%80%90%E7%8E%89%E5%A4%A7%E7%BB%93%E5%B1%80%E7%9A%84%E9%97%A8%E6%98%AF%E6%88%91%E5%85%B3%E7%9A%84",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "逐玉大结局的"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 62,
+    "title": "鸣潮绯雪达妮娅实机演示",
+    "hot_value": 7623804,
+    "url": "https://www.douyin.com/search/%E9%B8%A3%E6%BD%AE%E7%BB%AF%E9%9B%AA%E8%BE%BE%E5%A6%AE%E5%A8%85%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "鸣潮绯雪达妮"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 63,
+    "title": "冬去春来楚老板帮冉冉解围",
+    "hot_value": 7623516,
+    "url": "https://www.douyin.com/search/%E5%86%AC%E5%8E%BB%E6%98%A5%E6%9D%A5%E6%A5%9A%E8%80%81%E6%9D%BF%E5%B8%AE%E5%86%89%E5%86%89%E8%A7%A3%E5%9B%B4",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "冬去春来楚老"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 64,
+    "title": "危险关系看得拳头硬了",
+    "hot_value": 7622705,
+    "url": "https://www.douyin.com/search/%E5%8D%B1%E9%99%A9%E5%85%B3%E7%B3%BB%E7%9C%8B%E5%BE%97%E6%8B%B3%E5%A4%B4%E7%A1%AC%E4%BA%86",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "危险关系看得"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 65,
+    "title": "孙俪新剧首播观后感",
+    "hot_value": 7622626,
+    "url": "https://www.douyin.com/search/%E5%AD%99%E4%BF%AA%E6%96%B0%E5%89%A7%E9%A6%96%E6%92%AD%E8%A7%82%E5%90%8E%E6%84%9F",
+    "platform": "抖音",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "孙俪新剧首播"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 66,
+    "title": "白日提灯贺思慕残血反杀看爽了",
+    "hot_value": 7621980,
+    "url": "https://www.douyin.com/search/%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E8%B4%BA%E6%80%9D%E6%85%95%E6%AE%8B%E8%A1%80%E5%8F%8D%E6%9D%80%E7%9C%8B%E7%88%BD%E4%BA%86",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "白日提灯贺思"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 67,
+    "title": "吴克群帮果农摘草莓",
+    "hot_value": 7615966,
+    "url": "https://www.douyin.com/search/%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E6%9E%9C%E5%86%9C%E6%91%98%E8%8D%89%E8%8E%93",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "吴克群帮果农"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 68,
+    "title": "看白日提灯嗑坟围感情侣",
+    "hot_value": 7611138,
+    "url": "https://www.douyin.com/search/%E7%9C%8B%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E5%97%91%E5%9D%9F%E5%9B%B4%E6%84%9F%E6%83%85%E4%BE%A3",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "看白日提灯嗑"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 69,
+    "title": "女科学家硬核跨界做短剧课堂",
+    "hot_value": 7610237,
+    "url": "https://www.douyin.com/search/%E5%A5%B3%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A1%AC%E6%A0%B8%E8%B7%A8%E7%95%8C%E5%81%9A%E7%9F%AD%E5%89%A7%E8%AF%BE%E5%A0%82",
+    "platform": "抖音",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "女科学家硬核"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 70,
+    "title": "王者荣耀世界英雄PV",
+    "hot_value": 7608892,
+    "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E8%8B%B1%E9%9B%84PV",
+    "platform": "抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "王者荣耀世界"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 71,
+    "title": "两艘国产大型邮轮同框 爱达魔都号与花城号",
+    "hot_value": 7200000,
+    "url": "http://weibo.com/u/2149981442/",
+    "platform": "微博",
+    "industries": [
+      "科技",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "国产邮轮",
+      "爱达魔都号",
+      "爱达花城号",
+      "中国制造"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 72,
+    "title": "斯诺克世界第一特鲁姆普与花滑女神马晓晴疑似分手",
+    "hot_value": 6800000,
+    "url": "https://www.sohu.com/a/1003375150_121909538",
+    "platform": "微博/抖音",
+    "industries": [
+      "体育",
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "特鲁姆普",
+      "马晓晴",
+      "斯诺克",
+      "分手",
+      "花滑"
+    ],
+    "c": [
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 73,
+    "title": "美国星链卫星失联 太空探索技术公司调查中",
+    "hot_value": 6000000,
+    "url": "http://weibo.com/u/2149981442/",
+    "platform": "微博",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "中性",
+    "keywords": [
+      "星链",
+      "卫星失联",
+      "SpaceX",
+      "马斯克"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 74,
+    "title": "2026LPL第二赛段赛程公布 4月4日开赛",
+    "hot_value": 5500000,
+    "url": "http://weibo.com/u/5756404150",
+    "platform": "微博/B站",
+    "industries": [
+      "游戏",
+      "电竞"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "LPL",
+      "英雄联盟",
+      "电竞",
+      "赛程"
+    ],
+    "c": [
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 75,
+    "title": "张国荣逝世23周年 螺蛳粉哥发文纪念",
+    "hot_value": 5000000,
+    "url": "http://weibo.com/u/2688504554",
+    "platform": "微博",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "张国荣",
+      "逝世23周年",
+      "愚人节",
+      "纪念"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士",
+      "多芬"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 76,
+    "title": "超级厄尔尼诺来袭 2026或成史上最热年",
+    "hot_value": 5000000,
+    "url": "https://finance.sina.com.cn/jjxw/2026-04-01/doc-inhsxvfm8772012.shtml",
+    "platform": "全网",
+    "industries": [
+      "社会",
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "负面",
+    "keywords": [
+      "厄尔尼诺",
+      "全球变暖",
+      "最热年",
+      "气候",
+      "极端天气"
+    ],
+    "c": [
+      "农夫山泉",
+      "百威",
+      "OATLY",
+      "元气森林"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 77,
+    "title": "B站首届AI创作大赛收官 8300份作品播放7亿 updream内测",
+    "hot_value": 4200000,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903upvm.html",
+    "platform": "B站/微博",
+    "industries": [
+      "科技",
+      "二次元"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "B站",
+      "AI创作",
+      "updream",
+      "AI动画",
+      "创作者"
+    ],
+    "c": [
+      "小米",
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 78,
+    "title": "上海乒乓球嘉年华4月12日开幕",
+    "hot_value": 3800000,
+    "url": "https://new.qq.com/rain/a/20260331A06V5500",
+    "platform": "微博/微信",
+    "industries": [
+      "体育",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "活动热点",
+    "sentiment": "正面",
+    "keywords": [
+      "乒乓球",
+      "嘉年华",
+      "上海",
+      "国际乒联百年",
+      "全民运动"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存",
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 79,
+    "title": "小米SU7交付量突破10万台",
+    "hot_value": 3600000,
+    "url": "https://weibo.com",
+    "platform": "微博",
+    "industries": [
+      "汽车",
+      "科技"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "小米SU7",
+      "电动车",
+      "交付",
+      "雷军",
+      "新能源"
+    ],
+    "c": [
+      "小米"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 80,
+    "title": "清明春假黄金周 赏花踏青出行爆发",
+    "hot_value": 3500000,
+    "url": "http://cn.chinadaily.com.cn/a/202603/WS69ca3166a310942cc49a59c6.html",
+    "platform": "小红书/抖音",
+    "industries": [
+      "旅游",
+      "生活"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "消费趋势",
+    "sentiment": "正面",
+    "keywords": [
+      "清明节",
+      "春假",
+      "赏花",
+      "踏青",
+      "自驾游",
+      "租车"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY",
+      "元气森林",
+      "百威",
+      "希宝"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 81,
+    "title": "愚人节",
+    "hot_value": 3500000,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "节日热点",
+    "sentiment": "正面",
+    "keywords": [
+      "愚人节",
+      "整蛊",
+      "4月1日",
+      "玩笑"
+    ],
     "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 39,
-    "title": "张雪峰心源性猝死离世",
-    "hot_value": 2200000,
-    "url": "https://news.ifeng.com/c/8rlP98alN7G",
-    "platform": "微博/抖音",
-    "industries": ["教育", "社会"],
-    "trends": ["爆"],
-    "type": "社会热点",
-    "sentiment": "负面",
-    "keywords": ["张雪峰", "猝死", "心脏骤停", "过度劳累", "苏州"],
-    "c": ["汤臣倍健", "善存"],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 40,
-    "title": "姚晨官宣离婚后母女合照冲上热搜",
-    "hot_value": 2400000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_60469cbf31b99052",
-    "platform": "微博",
-    "industries": ["娱乐"],
-    "trends": ["热"],
-    "type": "娱乐热点",
-    "sentiment": "中性",
-    "keywords": ["姚晨", "曹郁", "离婚", "母女合照", "单身妈妈"],
-    "c": ["AHC", "玉兰油", "力士", "多芬"],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 41,
+    "rank": 82,
     "title": "深圳美术馆清明假期正常开放",
     "hot_value": 3500000,
     "url": "http://weibo.com/u/2934114502",
     "platform": "微博/小红书",
-    "industries": ["旅游", "文化"],
-    "trends": ["热"],
+    "industries": [
+      "旅游",
+      "文化"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "活动热点",
     "sentiment": "正面",
-    "keywords": ["深圳美术馆", "清明假期", "展览", "无需预约"],
-    "c": ["农夫山泉", "OATLY"],
+    "keywords": [
+      "深圳美术馆",
+      "清明假期",
+      "展览",
+      "无需预约"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 42,
+    "rank": 83,
+    "title": "打一针就好了成2026最火热梗",
+    "hot_value": 3200000,
+    "url": "https://www.toutiao.com/article/7622329985289683496/",
+    "platform": "全网",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "网络热梗",
+    "sentiment": "负面",
+    "keywords": [
+      "打一针就好了",
+      "信达证券",
+      "左前明",
+      "性骚扰",
+      "职场"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 84,
+    "title": "《黑神话：悟空》DLC预告发布",
+    "hot_value": 3200000,
+    "url": "https://bilibili.com",
+    "platform": "B站/微博",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "黑神话悟空",
+      "DLC",
+      "国产游戏",
+      "游戏预告"
+    ],
+    "c": [
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 85,
+    "title": "2026年进度条已过四分之一",
+    "hot_value": 3000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_01669cc74ac12852",
+    "platform": "全网",
+    "industries": [
+      "生活"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "生活热点",
+    "sentiment": "正面",
+    "keywords": [
+      "2026年",
+      "进度条",
+      "四月",
+      "时间"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 86,
+    "title": "陶昕然乘风2026初舞台复刻冰嬉舞 孙俪连线提议",
+    "hot_value": 2800000,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzm.html",
+    "platform": "微博/抖音",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "陶昕然",
+      "乘风2026",
+      "甄嬛传",
+      "安陵容",
+      "冰嬉舞"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 87,
     "title": "星座运势4月1日星运璀璨",
     "hot_value": 2800000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_19269cc6e7808652",
     "platform": "微博/抖音",
-    "industries": ["娱乐"],
-    "trends": ["热"],
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "娱乐热点",
     "sentiment": "正面",
-    "keywords": ["星座", "运势", "四月", "幸运"],
-    "c": ["AHC", "玉兰油", "力士"],
+    "keywords": [
+      "星座",
+      "运势",
+      "四月",
+      "幸运"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 43,
+    "rank": 88,
+    "title": "梅姨落网",
+    "hot_value": 2500000,
+    "url": "https://weibo.com",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "梅姨",
+      "拐卖儿童",
+      "落网",
+      "张维平"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 89,
+    "title": "姚晨官宣离婚后母女合照冲上热搜",
+    "hot_value": 2400000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_60469cbf31b99052",
+    "platform": "微博",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "姚晨",
+      "曹郁",
+      "离婚",
+      "母女合照",
+      "单身妈妈"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士",
+      "多芬"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 90,
     "title": "职场星芒盛放 四大星座驭风破浪",
     "hot_value": 2400000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_20669cc724179152",
     "platform": "微博",
-    "industries": ["职场", "娱乐"],
-    "trends": ["热"],
+    "industries": [
+      "职场",
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "职场热点",
     "sentiment": "正面",
-    "keywords": ["职场", "星座", "事业运", "奋斗"],
-    "c": ["汤臣倍健", "善存"],
+    "keywords": [
+      "职场",
+      "星座",
+      "事业运",
+      "奋斗"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 44,
+    "rank": 91,
     "title": "2026清明假期北京限行调整 高速免费3天",
     "hot_value": 2300000,
     "url": "http://bj.bendibao.com/news/2026331/381704.shtm",
     "platform": "微博/小红书",
-    "industries": ["生活", "旅游"],
-    "trends": ["热"],
+    "industries": [
+      "生活",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "生活热点",
     "sentiment": "中性",
-    "keywords": ["清明节", "限行", "高速免费", "出行", "北京"],
-    "c": ["农夫山泉", "OATLY", "元气森林", "希宝"],
+    "keywords": [
+      "清明节",
+      "限行",
+      "高速免费",
+      "出行",
+      "北京"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY",
+      "元气森林",
+      "希宝"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 45,
+    "rank": 92,
+    "title": "张雪峰心源性猝死离世",
+    "hot_value": 2200000,
+    "url": "https://news.ifeng.com/c/8rlP98alN7G",
+    "platform": "微博/抖音",
+    "industries": [
+      "教育",
+      "社会"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "社会热点",
+    "sentiment": "负面",
+    "keywords": [
+      "张雪峰",
+      "猝死",
+      "心脏骤停",
+      "过度劳累",
+      "苏州"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 93,
     "title": "黄晓明公司出品《我在废土世界扫垃圾》正式备案",
     "hot_value": 2000000,
     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzq.html",
     "platform": "微博",
-    "industries": ["娱乐"],
-    "trends": ["新"],
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
     "type": "娱乐热点",
     "sentiment": "正面",
-    "keywords": ["黄晓明", "废土世界扫垃圾", "网文改编", "奇幻剧", "备案"],
-    "c": ["AHC", "玉兰油", "力士", "多芬"],
+    "keywords": [
+      "黄晓明",
+      "废土世界扫垃圾",
+      "网文改编",
+      "奇幻剧",
+      "备案"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士",
+      "多芬"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 46,
+    "rank": 94,
     "title": "Sora视频生成工具引发行业震动",
     "hot_value": 2000000,
     "url": "https://weibo.com",
     "platform": "微博",
-    "industries": ["科技"],
-    "trends": ["爆"],
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "科技热点",
     "sentiment": "正面",
-    "keywords": ["Sora", "视频生成", "OpenAI", "AI视频", "内容创作"],
-    "c": ["小米", "索尼"],
+    "keywords": [
+      "Sora",
+      "视频生成",
+      "OpenAI",
+      "AI视频",
+      "内容创作"
+    ],
+    "c": [
+      "小米",
+      "索尼"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 47,
-    "title": "ChatGPT-5即将发布 AI界期待值拉满",
-    "hot_value": 1800000,
-    "url": "https://weibo.com",
-    "platform": "微博",
-    "industries": ["科技"],
-    "trends": ["新"],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": ["ChatGPT", "GPT-5", "OpenAI", "人工智能", "大模型"],
-    "c": ["小米", "荣耀", "索尼"],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 48,
+    "rank": 95,
     "title": "男子被遗忘在核磁共振床上一整夜",
     "hot_value": 2000000,
     "url": "https://douyin.com",
     "platform": "抖音",
-    "industries": ["社会", "医疗"],
-    "trends": ["热"],
+    "industries": [
+      "社会",
+      "医疗"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "社会热点",
     "sentiment": "负面",
-    "keywords": ["核磁共振", "医疗事故", "医院", "医生停职"],
+    "keywords": [
+      "核磁共振",
+      "医疗事故",
+      "医院",
+      "医生停职"
+    ],
     "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 49,
+    "rank": 96,
     "title": "四月你好",
     "hot_value": 2000000,
     "url": "https://weibo.com",
     "platform": "全网",
-    "industries": ["生活"],
-    "trends": ["热"],
+    "industries": [
+      "生活"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "节日热点",
     "sentiment": "正面",
-    "keywords": ["四月", "新月份", "你好四月"],
+    "keywords": [
+      "四月",
+      "新月份",
+      "你好四月"
+    ],
     "c": [],
     "created_at": "2026-04-01T13:13:00"
   },
   {
-    "rank": 50,
-    "title": "智能经济被确立为国家战略",
-    "hot_value": 1000000,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903uphu.html",
-    "platform": "全网",
-    "industries": ["科技"],
-    "trends": ["新"],
+    "rank": 97,
+    "title": "ChatGPT-5即将发布 AI界期待值拉满",
+    "hot_value": 1800000,
+    "url": "https://weibo.com",
+    "platform": "微博",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
     "type": "科技热点",
     "sentiment": "正面",
-    "keywords": ["智能经济", "人工智能", "十五五规划", "国家战略"],
-    "c":
+    "keywords": [
+      "ChatGPT",
+      "GPT-5",
+      "OpenAI",
+      "人工智能",
+      "大模型"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-01T13:13:00"
+  },
+  {
+    "rank": 98,
+    "title": "张雪身价上亿还在用两千多块钱坏手机",
+    "hot_value": 1074115,
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%BA%BF%E8%BF%98%E5%9C%A8%E7%94%A8%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%9D%97%E9%92%B1%E5%9D%8F%E6%89%8B%E6%9C%BA",
+    "platform": "微博",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "中性",
+    "keywords": [
+      "张雪身价上亿"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 99,
+    "title": "月鳞绮纪热度",
+    "hot_value": 755114,
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E7%83%AD%E5%BA%A6",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "月鳞绮纪热度"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 100,
+    "title": "雄安大脑赋能智慧城市",
+    "hot_value": 642889,
+    "url": "https://s.weibo.com/weibo?q=%E9%9B%84%E5%AE%89%E5%A4%A7%E8%84%91%E8%B5%8B%E8%83%BD%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "雄安大脑赋能"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 101,
+    "title": "李维嘉不知道遗产传给谁",
+    "hot_value": 331426,
+    "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%E4%B8%8D%E7%9F%A5%E9%81%93%E9%81%97%E4%BA%A7%E4%BC%A0%E7%BB%99%E8%B0%81",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "李维嘉不知道"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 102,
+    "title": "甲骨文凌晨6点突发裁员3万人",
+    "hot_value": 264240,
+    "url": "https://s.weibo.com/weibo?q=%E7%94%B2%E9%AA%A8%E6%96%87%E5%87%8C%E6%99%A86%E7%82%B9%E7%AA%81%E5%8F%91%E8%A3%81%E5%91%983%E4%B8%87%E4%BA%BA",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "甲骨文凌晨6"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 103,
+    "title": "月鳞绮纪",
+    "hot_value": 261467,
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "月鳞绮纪"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 104,
+    "title": "优思益",
+    "hot_value": 249066,
+    "url": "https://s.weibo.com/weibo?q=%E4%BC%98%E6%80%9D%E7%9B%8A",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "优思益"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 105,
+    "title": "日本彻底撕下伪装",
+    "hot_value": 233005,
+    "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E6%92%95%E4%B8%8B%E4%BC%AA%E8%A3%85",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "日本彻底撕下"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 106,
+    "title": "我坐一天400他躺一天500",
+    "hot_value": 217807,
+    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9D%90%E4%B8%80%E5%A4%A9400%E4%BB%96%E8%BA%BA%E4%B8%80%E5%A4%A9500",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "我坐一天40"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 107,
+    "title": "伊朗愿意结束战争",
+    "hot_value": 191646,
+    "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E6%84%BF%E6%84%8F%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89",
+    "platform": "微博",
+    "industries": [
+      "国际"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "国际热点",
+    "sentiment": "中性",
+    "keywords": [
+      "伊朗愿意结束"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 108,
+    "title": "丝芭起诉月鳞绮纪承制方",
+    "hot_value": 191532,
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%9D%E8%8A%AD%E8%B5%B7%E8%AF%89%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E6%89%BF%E5%88%B6%E6%96%B9",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "丝芭起诉月鳞"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 109,
+    "title": "李荣浩否认抄袭",
+    "hot_value": 190133,
+    "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%90%A6%E8%AE%A4%E6%8A%84%E8%A2%AD",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "李荣浩否认抄"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 110,
+    "title": "警方已约谈太原暴走团负责人",
+    "hot_value": 189045,
+    "url": "https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%BA%A6%E8%B0%88%E5%A4%AA%E5%8E%9F%E6%9A%B4%E8%B5%B0%E5%9B%A2%E8%B4%9F%E8%B4%A3%E4%BA%BA",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "警方已约谈太"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 111,
+    "title": "从指甲看主角是真穷",
+    "hot_value": 187870,
+    "url": "https://s.weibo.com/weibo?q=%E4%BB%8E%E6%8C%87%E7%94%B2%E7%9C%8B%E4%B8%BB%E8%A7%92%E6%98%AF%E7%9C%9F%E7%A9%B7",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "从指甲看主角"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 112,
+    "title": "丝芭称鞠婧祎出演月鳞绮纪违约",
+    "hot_value": 186850,
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%9D%E8%8A%AD%E7%A7%B0%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%87%BA%E6%BC%94%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E8%BF%9D%E7%BA%A6",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "丝芭称鞠婧祎"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 113,
+    "title": "央视曝光优思益多平台下架",
+    "hot_value": 186789,
+    "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%BC%98%E6%80%9D%E7%9B%8A%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "央视曝光优思"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 114,
+    "title": "29岁小伙赶在结婚前立遗嘱",
+    "hot_value": 156269,
+    "url": "https://s.weibo.com/weibo?q=29%E5%B2%81%E5%B0%8F%E4%BC%99%E8%B5%B6%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%89%8D%E7%AB%8B%E9%81%97%E5%98%B1",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "29岁小伙赶"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 115,
+    "title": "世界杯48强全部出炉",
+    "hot_value": 153196,
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF48%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "世界杯48强"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 116,
+    "title": "女教师被拖行5.9公里致死仍未下葬",
+    "hot_value": 149789,
+    "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E6%8B%96%E8%A1%8C5.9%E5%85%AC%E9%87%8C%E8%87%B4%E6%AD%BB%E4%BB%8D%E6%9C%AA%E4%B8%8B%E8%91%AC",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "女教师被拖行"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 117,
+    "title": "严浩翔MV戏剧张力",
+    "hot_value": 149561,
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94MV%E6%88%8F%E5%89%A7%E5%BC%A0%E5%8A%9B",
+    "platform": "微博",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "严浩翔MV戏"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 118,
+    "title": "白日提灯追剧团",
+    "hot_value": 149323,
+    "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E8%BF%BD%E5%89%A7%E5%9B%A2",
+    "platform": "微博",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "白日提灯追剧"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 119,
+    "title": "张雪",
+    "hot_value": 148483,
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "张雪"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 120,
+    "title": "月鳞绮纪开播",
+    "hot_value": 148047,
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E5%BC%80%E6%92%AD",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "月鳞绮纪开播"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 121,
+    "title": "邓超称4月4日五哈播不了了",
+    "hot_value": 147625,
+    "url": "https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%E7%A7%B04%E6%9C%884%E6%97%A5%E4%BA%94%E5%93%88%E6%92%AD%E4%B8%8D%E4%BA%86%E4%BA%86",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "邓超称4月4"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 122,
+    "title": "伊朗精准打击",
+    "hot_value": 147593,
+    "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB",
+    "platform": "微博",
+    "industries": [
+      "国际"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "国际热点",
+    "sentiment": "中性",
+    "keywords": [
+      "伊朗精准打击"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 123,
+    "title": "有线耳机穿搭火了",
+    "hot_value": 140341,
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E7%A9%BF%E6%90%AD%E7%81%AB%E4%BA%86",
+    "platform": "微博",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "有线耳机穿搭"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 124,
+    "title": "月鳞绮纪站位",
+    "hot_value": 133604,
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E7%AB%99%E4%BD%8D",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "月鳞绮纪站位"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 125,
+    "title": "福特号航母火灾视频流出",
+    "hot_value": 132130,
+    "url": "https://s.weibo.com/weibo?q=%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E7%81%AB%E7%81%BE%E8%A7%86%E9%A2%91%E6%B5%81%E5%87%BA",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "福特号航母火"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 126,
+    "title": "肖战陌森 到期",
+    "hot_value": 121390,
+    "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%99%8C%E6%A3%AE%20%E5%88%B0%E6%9C%9F",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "肖战陌森 到"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 127,
+    "title": "外婆连装聋作哑的权利都没有",
+    "hot_value": 120195,
+    "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%A9%86%E8%BF%9E%E8%A3%85%E8%81%8B%E4%BD%9C%E5%93%91%E7%9A%84%E6%9D%83%E5%88%A9%E9%83%BD%E6%B2%A1%E6%9C%89",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "外婆连装聋作"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 128,
+    "title": "请假在家躺了两天小狗以为我失业了",
+    "hot_value": 119022,
+    "url": "https://s.weibo.com/weibo?q=%E8%AF%B7%E5%81%87%E5%9C%A8%E5%AE%B6%E8%BA%BA%E4%BA%86%E4%B8%A4%E5%A4%A9%E5%B0%8F%E7%8B%97%E4%BB%A5%E4%B8%BA%E6%88%91%E5%A4%B1%E4%B8%9A%E4%BA%86",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "请假在家躺了"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 129,
+    "title": "爸爸举高高孩子180度翻转吓到发烧",
+    "hot_value": 117233,
+    "url": "https://s.weibo.com/weibo?q=%E7%88%B8%E7%88%B8%E4%B8%BE%E9%AB%98%E9%AB%98%E5%AD%A9%E5%AD%90180%E5%BA%A6%E7%BF%BB%E8%BD%AC%E5%90%93%E5%88%B0%E5%8F%91%E7%83%A7",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "爸爸举高高孩"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 130,
+    "title": "韩国夜店98年前出生顾客禁止入场",
+    "hot_value": 115481,
+    "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%A4%9C%E5%BA%9798%E5%B9%B4%E5%89%8D%E5%87%BA%E7%94%9F%E9%A1%BE%E5%AE%A2%E7%A6%81%E6%AD%A2%E5%85%A5%E5%9C%BA",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "韩国夜店98"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 131,
+    "title": "销冠澳洲优思益竟是假进口",
+    "hot_value": 108396,
+    "url": "https://s.weibo.com/weibo?q=%E9%94%80%E5%86%A0%E6%BE%B3%E6%B4%B2%E4%BC%98%E6%80%9D%E7%9B%8A%E7%AB%9F%E6%98%AF%E5%81%87%E8%BF%9B%E5%8F%A3",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "销冠澳洲优思"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 132,
+    "title": "美国男子失踪23年后断腿惊现海滩",
+    "hot_value": 103120,
+    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%A4%B1%E8%B8%AA23%E5%B9%B4%E5%90%8E%E6%96%AD%E8%85%BF%E6%83%8A%E7%8E%B0%E6%B5%B7%E6%BB%A9",
+    "platform": "微博",
+    "industries": [
+      "国际"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "国际热点",
+    "sentiment": "中性",
+    "keywords": [
+      "美国男子失踪"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 133,
+    "title": "打耳洞时先戴上耳机",
+    "hot_value": 91241,
+    "url": "https://s.weibo.com/weibo?q=%E6%89%93%E8%80%B3%E6%B4%9E%E6%97%B6%E5%85%88%E6%88%B4%E4%B8%8A%E8%80%B3%E6%9C%BA",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "打耳洞时先戴"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 134,
+    "title": "水木年华维权",
+    "hot_value": 88846,
+    "url": "https://s.weibo.com/weibo?q=%E6%B0%B4%E6%9C%A8%E5%B9%B4%E5%8D%8E%E7%BB%B4%E6%9D%83",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "负面",
+    "keywords": [
+      "水木年华维权"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 135,
+    "title": "刷取餐码出了地铁站",
+    "hot_value": 85032,
+    "url": "https://s.weibo.com/weibo?q=%E5%88%B7%E5%8F%96%E9%A4%90%E7%A0%81%E5%87%BA%E4%BA%86%E5%9C%B0%E9%93%81%E7%AB%99",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "刷取餐码出了"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 136,
+    "title": "喵娲娲发了肖战未曝光照片",
+    "hot_value": 84354,
+    "url": "https://s.weibo.com/weibo?q=%E5%96%B5%E5%A8%B2%E5%A8%B2%E5%8F%91%E4%BA%86%E8%82%96%E6%88%98%E6%9C%AA%E6%9B%9D%E5%85%89%E7%85%A7%E7%89%87",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "喵娲娲发了肖"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 137,
+    "title": "马思纯咋变东北黎吧啦了",
+    "hot_value": 84083,
+    "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%92%8B%E5%8F%98%E4%B8%9C%E5%8C%97%E9%BB%8E%E5%90%A7%E5%95%A6%E4%BA%86",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "马思纯咋变东"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 138,
+    "title": "以后再也不埋怨清明节下雨了",
+    "hot_value": 83990,
+    "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E5%90%8E%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%9F%8B%E6%80%A8%E6%B8%85%E6%98%8E%E8%8A%82%E4%B8%8B%E9%9B%A8%E4%BA%86",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "以后再也不埋"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 139,
+    "title": "TFBOYS我们的少年时代未公开照",
+    "hot_value": 83949,
+    "url": "https://s.weibo.com/weibo?q=TFBOYS%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A3%E6%9C%AA%E5%85%AC%E5%BC%80%E7%85%A7",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "TFBOYS"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 140,
+    "title": "陈奕恒公主抱左奇函",
+    "hot_value": 83004,
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E6%81%92%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%B7%A6%E5%A5%87%E5%87%BD",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "陈奕恒公主抱"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 141,
+    "title": "统一后台湾同胞再也无需抢购塑料袋",
+    "hot_value": 82317,
+    "url": "https://s.weibo.com/weibo?q=%E7%BB%9F%E4%B8%80%E5%90%8E%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E5%86%8D%E4%B9%9F%E6%97%A0%E9%9C%80%E6%8A%A2%E8%B4%AD%E5%A1%91%E6%96%99%E8%A2%8B",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "统一后台湾同"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 142,
+    "title": "贾浅浅论文被指抄袭父亲贾平凹",
+    "hot_value": 78569,
+    "url": "https://s.weibo.com/weibo?q=%E8%B4%BE%E6%B5%85%E6%B5%85%E8%AE%BA%E6%96%87%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E7%88%B6%E4%BA%B2%E8%B4%BE%E5%B9%B3%E5%87%B9",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "贾浅浅论文被"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 143,
+    "title": "陈都灵打戏",
+    "hot_value": 73609,
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E6%89%93%E6%88%8F",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "陈都灵打戏"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 144,
+    "title": "伊拉克晋级世界杯",
+    "hot_value": 72126,
+    "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%8B%89%E5%85%8B%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "伊拉克晋级世"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 145,
+    "title": "薛之谦TFBOYS同框",
+    "hot_value": 72089,
+    "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6TFBOYS%E5%90%8C%E6%A1%86",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "薛之谦TFB"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 146,
+    "title": "詹姆斯19次季后赛平历史纪录",
+    "hot_value": 66305,
+    "url": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF19%E6%AC%A1%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "詹姆斯19次"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  },
+  {
+    "rank": 147,
+    "title": "亚州9队参加世界杯创造新历史",
+    "hot_value": 64544,
+    "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E5%B7%9E9%E9%98%9F%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%88%9B%E9%80%A0%E6%96%B0%E5%8E%86%E5%8F%B2",
+    "platform": "微博",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "亚州9队参加"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:36:39"
+  }
+]
