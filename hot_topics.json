@@ -26,6 +26,152 @@
       "荣耀",
       "索尼"
     ],
+    "created_at": "2026-04-01T17:41:00"
+  },
+  {
+    "rank": 2,
+    "title": "微信iOS端灰度测试折叠发图功能",
+    "hot_value": 450000000,
+    "url": "https://www.toutiao.com/article/7618791623803159040/",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "互联网"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T17:41:00"
+  },
+  {
+    "rank": 3,
+    "title": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_value": 420000000,
+    "url": "https://www.toutiao.com/article/7623373554779750955/",
+    "platform": "微博/全网",
+    "industries": [
+      "食品",
+      "消费"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "消费热点",
+    "sentiment": "负面",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY",
+      "元气森林"
+    ],
+    "created_at": "2026-04-01T17:41:00"
+  },
+  {
+    "rank": 4,
+    "title": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_value": 380000000,
+    "url": "https://www.iesdouyin.com/share/billboard/",
+    "platform": "抖音",
+    "industries": [
+      "体育",
+      "科技",
+      "社会"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "综合热点",
+    "sentiment": "中性",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-01T17:41:00"
+  },
+  {
+    "rank": 5,
+    "title": "colorwalk成为2026春季最火生活趋势",
+    "hot_value": 350000000,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_27169c9e59946152",
+    "platform": "小红书",
+    "industries": [
+      "旅游",
+      "生活"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费趋势",
+    "sentiment": "正面",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林",
+      "OATLY"
+    ],
+    "created_at": "2026-04-01T17:41:00"
+  },
+  {
+    "rank": 1,
+    "title": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_value": 480000000,
+    "url": "https://www.toutiao.com/article/7615646502693749258/",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "通信"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
     "created_at": "2026-04-01T13:13:00"
   },
   {
@@ -2250,272 +2396,6 @@
       "玉兰油",
       "力士"
     ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 96,
-    "title": "星座运势4月1日星运璀璨",
-    "hot_value": 2800000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_19269cc6e7808652",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "星座",
-      "运势",
-      "四月",
-      "幸运"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 97,
-    "title": "梅姨落网",
-    "hot_value": 2500000,
-    "url": "https://weibo.com",
-    "platform": "微博",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "梅姨",
-      "拐卖儿童",
-      "落网",
-      "张维平"
-    ],
-    "c": [],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 98,
-    "title": "姚晨官宣离婚后母女合照冲上热搜",
-    "hot_value": 2400000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_60469cbf31b99052",
-    "platform": "微博",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "中性",
-    "keywords": [
-      "姚晨",
-      "曹郁",
-      "离婚",
-      "母女合照",
-      "单身妈妈"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士",
-      "多芬"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 99,
-    "title": "职场星芒盛放 四大星座驭风破浪",
-    "hot_value": 2400000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_20669cc724179152",
-    "platform": "微博",
-    "industries": [
-      "职场",
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "职场热点",
-    "sentiment": "正面",
-    "keywords": [
-      "职场",
-      "星座",
-      "事业运",
-      "奋斗"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 100,
-    "title": "2026清明假期北京限行调整 高速免费3天",
-    "hot_value": 2300000,
-    "url": "http://bj.bendibao.com/news/2026331/381704.shtm",
-    "platform": "微博/小红书",
-    "industries": [
-      "生活",
-      "旅游"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "生活热点",
-    "sentiment": "中性",
-    "keywords": [
-      "清明节",
-      "限行",
-      "高速免费",
-      "出行",
-      "北京"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY",
-      "元气森林",
-      "希宝"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 101,
-    "title": "张雪峰心源性猝死离世",
-    "hot_value": 2200000,
-    "url": "https://news.ifeng.com/c/8rlP98alN7G",
-    "platform": "微博/抖音",
-    "industries": [
-      "教育",
-      "社会"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "社会热点",
-    "sentiment": "负面",
-    "keywords": [
-      "张雪峰",
-      "猝死",
-      "心脏骤停",
-      "过度劳累",
-      "苏州"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 102,
-    "title": "黄晓明公司出品《我在废土世界扫垃圾》正式备案",
-    "hot_value": 2000000,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzq.html",
-    "platform": "微博",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "黄晓明",
-      "废土世界扫垃圾",
-      "网文改编",
-      "奇幻剧",
-      "备案"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士",
-      "多芬"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 103,
-    "title": "Sora视频生成工具引发行业震动",
-    "hot_value": 2000000,
-    "url": "https://weibo.com",
-    "platform": "微博",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "Sora",
-      "视频生成",
-      "OpenAI",
-      "AI视频",
-      "内容创作"
-    ],
-    "c": [
-      "小米",
-      "索尼"
-    ],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 104,
-    "title": "男子被遗忘在核磁共振床上一整夜",
-    "hot_value": 2000000,
-    "url": "https://douyin.com",
-    "platform": "抖音",
-    "industries": [
-      "社会",
-      "医疗"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "负面",
-    "keywords": [
-      "核磁共振",
-      "医疗事故",
-      "医院",
-      "医生停职"
-    ],
-    "c": [],
-    "created_at": "2026-04-01T13:13:00"
-  },
-  {
-    "rank": 105,
-    "title": "四月你好",
-    "hot_value": 2000000,
-    "url": "https://weibo.com",
-    "platform": "全网",
-    "industries": [
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "节日热点",
-    "sentiment": "正面",
-    "keywords": [
-      "四月",
-      "新月份",
-      "你好四月"
-    ],
-    "c": [],
     "created_at": "2026-04-01T13:13:00"
   }
 ]
