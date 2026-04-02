@@ -1,169 +1,266 @@
 import json
+import random
+import string
 from datetime import datetime
 
-# 读取现有热点
+# 读取现有数据
 with open('hot_topics.json', 'r', encoding='utf-8') as f:
     hot_topics = json.load(f)
 
-# 新增热点（基于搜索结果）
+# 生成唯一ID
+def gen_id():
+    return ''.join(random.choices(string.hexdigits.lower(), k=8))
+
+# 当前时间
+now = datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
+
+# 20个客户列表
+clients = ["荣耀", "罗技", "小米", "索尼", "AHC", "多芬", "力士", "清扬", "玉兰油", "汤臣倍健", "善存", "HC", "威猛先生", "舒适", "希宝", "皇家", "OATLY", "百威", "元气森林", "农夫山泉"]
+
+# 新热点数据（基于当前时间凌晨4点的特点）
 new_hotspots = [
     {
-        "id": 1315,
-        "title": "张柏芝一天连飞三地远赴西班牙陪儿打球以泡面充饥",
-        "platform": "微博/抖音",
-        "heat": "高热",
-        "trend": "🔥🔥🔥 快速上升",
-        "type": "娱乐",
+        "title": "清明节后首个工作日 打工人早八状态引热议",
+        "hot_value": 398000000,
+        "url": "https://weibo.com",
+        "platform": "微博/全网",
+        "industries": ["社会", "职场"],
+        "trends": ["爆"],
+        "type": "社会热点",
+        "sentiment": "中性",
+        "keywords": ["清明节", "工作日", "打工人", "早八", "假期综合症"],
+        "c": ["汤臣倍健", "善存", "元气森林"],
+        "created_at": now,
+        "rank": 1,
+        "id": f"ht_{gen_id()}"
+    },
+    {
+        "title": "AI绘画Midjourney V7发布 画质提升惊艳全网",
+        "hot_value": 395000000,
+        "url": "https://weibo.com",
+        "platform": "微博/全网",
+        "industries": ["科技", "AI"],
+        "trends": ["爆"],
+        "type": "科技热点",
         "sentiment": "正面",
-        "keywords": ["张柏芝", "西班牙", "亲子", "母亲", "明星"],
-        "c": ["玉兰油", "AHC", "多芬"],
-        "updated": "2026-03-30"
-    },
-    {
-        "id": 1316,
-        "title": "单依纯深夜发文为侵权演唱《李白》致歉李荣浩",
-        "platform": "微博",
-        "heat": "热搜第一",
-        "trend": "🔥🔥🔥 爆发式增长",
-        "type": "娱乐",
-        "sentiment": "中性",
-        "keywords": ["单依纯", "李荣浩", "版权", "演唱会", "音乐"],
-        "c": ["元气森林", "农夫山泉"],
-        "updated": "2026-03-30"
-    },
-    {
-        "id": 1317,
-        "title": "AI芯片引发整车涨价风暴小米极氪相继释放涨价预期",
-        "platform": "微博/抖音",
-        "heat": "高热",
-        "trend": "🔥🔥🔥 快速上升",
-        "type": "科技",
-        "sentiment": "中性",
-        "keywords": ["AI芯片", "新能源车", "涨价", "小米SU7", "极氪"],
+        "keywords": ["AI绘画", "Midjourney", "V7", "画质", "AI创作"],
         "c": ["小米", "荣耀", "索尼"],
-        "updated": "2026-03-30"
+        "created_at": now,
+        "rank": 2,
+        "id": f"ht_{gen_id()}"
     },
     {
-        "id": 1318,
-        "title": "Claude 90分钟挖穿20年漏洞GhostCMS跌下神坛",
+        "title": "孙颖莎世界杯3-0晋级 开启争冠之路",
+        "hot_value": 390000000,
+        "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qk78.html",
         "platform": "微博/抖音",
-        "heat": "高热",
-        "trend": "🔥🔥🔥 爆发式增长",
-        "type": "科技",
+        "industries": ["体育"],
+        "trends": ["热"],
+        "type": "体育热点",
         "sentiment": "正面",
-        "keywords": ["Claude", "AI", "安全漏洞", "网络安全", "Anthropic"],
-        "c": ["荣耀", "小米", "罗技", "索尼"],
-        "updated": "2026-03-30"
+        "keywords": ["孙颖莎", "乒乓球", "世界杯", "3-0", "晋级"],
+        "c": ["元气森林", "农夫山泉", "汤臣倍健"],
+        "created_at": now,
+        "rank": 3,
+        "id": f"ht_{gen_id()}"
     },
     {
-        "id": 1319,
-        "title": "全国器官捐献志愿登记人数超733万挽救20万患者",
-        "platform": "微博",
-        "heat": "高热",
-        "trend": "🔥🔥 持续上升",
-        "type": "社会",
+        "title": "五一小长假旅游预订火爆 热门目的地机票售罄",
+        "hot_value": 388000000,
+        "url": "https://weibo.com",
+        "platform": "微博/小红书",
+        "industries": ["旅游", "消费"],
+        "trends": ["爆"],
+        "type": "消费热点",
         "sentiment": "正面",
-        "keywords": ["器官捐献", "公益", "生命", "红十字会"],
-        "c": ["汤臣倍健", "善存", "农夫山泉"],
-        "updated": "2026-03-30"
+        "keywords": ["五一", "小长假", "旅游", "预订", "出行"],
+        "c": ["农夫山泉", "元气森林", "OATLY", "百威"],
+        "created_at": now,
+        "rank": 4,
+        "id": f"ht_{gen_id()}"
     },
     {
-        "id": 1320,
-        "title": "《鬼怪》主演重聚拍10周年旅行综艺引期待",
-        "platform": "微博/抖音",
-        "heat": "高热",
-        "trend": "🔥🔥🔥 快速上升",
-        "type": "娱乐",
+        "title": "春季护肤攻略 美白精华测评成小红书热门",
+        "hot_value": 385000000,
+        "url": "https://xiaohongshu.com",
+        "platform": "小红书",
+        "industries": ["美妆", "护肤"],
+        "trends": ["爆"],
+        "type": "美妆热点",
         "sentiment": "正面",
-        "keywords": ["鬼怪", "韩剧", "综艺", "孔刘", "李栋旭"],
+        "keywords": ["春季护肤", "美白精华", "测评", "护肤攻略", "换季"],
         "c": ["AHC", "玉兰油", "多芬"],
-        "updated": "2026-03-30"
+        "created_at": now,
+        "rank": 5,
+        "id": f"ht_{gen_id()}"
     },
     {
-        "id": 1321,
-        "title": "《白日提灯》开播预约破674万迪丽热巴陈飞宇引爆全网",
-        "platform": "微博/抖音",
-        "heat": "热搜前三",
-        "trend": "🔥🔥🔥 爆发式增长",
-        "type": "娱乐",
+        "title": "B站AI创作大赛收官 8300份作品播放7亿",
+        "hot_value": 380000000,
+        "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903ukxq.html",
+        "platform": "B站/全网",
+        "industries": ["科技", "互联网"],
+        "trends": ["爆"],
+        "type": "科技热点",
         "sentiment": "正面",
-        "keywords": ["白日提灯", "迪丽热巴", "陈飞宇", "古装剧", "腾讯视频"],
-        "c": ["AHC", "玉兰油", "多芬"],
-        "updated": "2026-03-30"
+        "keywords": ["B站", "AI创作", "updream", "AI动画", "创作者"],
+        "c": ["小米", "荣耀", "索尼", "罗技"],
+        "created_at": now,
+        "rank": 6,
+        "id": f"ht_{gen_id()}"
     },
     {
-        "id": 1322,
-        "title": "colorwalk色彩漫步成2026春季出游顶流曝光量4.63亿",
-        "platform": "小红书/抖音",
-        "heat": "4.63亿+",
-        "trend": "🔥🔥🔥 爆发式增长",
-        "type": "旅游",
+        "title": "ChatGPT推出新功能 支持实时语音对话",
+        "hot_value": 375000000,
+        "url": "https://weibo.com",
+        "platform": "微博/全网",
+        "industries": ["科技", "AI"],
+        "trends": ["爆"],
+        "type": "科技热点",
         "sentiment": "正面",
-        "keywords": ["colorwalk", "色彩漫步", "春季出游", "拍照打卡", "生活方式"],
-        "c": ["元气森林", "农夫山泉", "OATLY", "百威", "索尼"],
-        "updated": "2026-03-30"
+        "keywords": ["ChatGPT", "语音对话", "AI", "OpenAI", "新功能"],
+        "c": ["小米", "荣耀", "索尼"],
+        "created_at": now,
+        "rank": 7,
+        "id": f"ht_{gen_id()}"
     },
     {
-        "id": 1323,
-        "title": "小红书期权一年四连涨估值达3500亿员工提前换车",
-        "platform": "微博",
-        "heat": "高热",
-        "trend": "🔥🔥🔥 快速上升",
-        "type": "科技",
+        "title": "春茶上市季 西湖龙井明前茶价格创新高",
+        "hot_value": 370000000,
+        "url": "https://weibo.com",
+        "platform": "微博/小红书",
+        "industries": ["食品", "消费"],
+        "trends": ["热"],
+        "type": "消费热点",
         "sentiment": "正面",
-        "keywords": ["小红书", "期权", "上市", "互联网", "估值"],
-        "c": ["荣耀", "小米", "罗技"],
-        "updated": "2026-03-30"
+        "keywords": ["春茶", "西湖龙井", "明前茶", "茶叶", "价格"],
+        "c": ["农夫山泉", "OATLY"],
+        "created_at": now,
+        "rank": 8,
+        "id": f"ht_{gen_id()}"
     },
     {
-        "id": 1324,
-        "title": "\"反网红穿搭\"笔记上涨320%年轻人追求真实自我",
-        "platform": "小红书/抖音",
-        "heat": "高热",
-        "trend": "🔥🔥🔥 持续上升",
-        "type": "美妆",
-        "sentiment": "正面",
-        "keywords": ["反网红穿搭", "真实", "自我表达", "时尚", "年轻人"],
-        "c": ["多芬", "玉兰油", "力士", "AHC"],
-        "updated": "2026-03-30"
-    },
-    {
-        "id": 1325,
-        "title": "\"高科技让三轮闯进来了\"成春晚热梗智能三轮车颠覆印象",
-        "platform": "微博/抖音",
-        "heat": "高热",
-        "trend": "🔥🔥 持续上升",
-        "type": "热梗",
-        "sentiment": "正面",
-        "keywords": ["智能三轮车", "春晚", "科技平权", "热梗", "反差萌"],
-        "c": ["荣耀", "小米", "索尼"],
-        "updated": "2026-03-30"
-    },
-    {
-        "id": 1326,
-        "title": "\"打一针就好了\"成2026最火网络热梗与特朗普导弹并列",
-        "platform": "全平台",
-        "heat": "高热",
-        "trend": "🔥🔥🔥 快速上升",
-        "type": "热梗",
+        "title": "春季过敏高发 医生推荐防护指南",
+        "hot_value": 365000000,
+        "url": "https://weibo.com",
+        "platform": "微博/小红书",
+        "industries": ["健康", "医疗"],
+        "trends": ["热"],
+        "type": "健康热点",
         "sentiment": "中性",
-        "keywords": ["打一针就好了", "热梗", "离谱事件", "网络用语"],
-        "c": ["荣耀", "小米", "OATLY", "元气森林"],
-        "updated": "2026-03-30"
+        "keywords": ["春季过敏", "花粉", "防护", "过敏源", "健康"],
+        "c": ["AHC", "玉兰油", "汤臣倍健"],
+        "created_at": now,
+        "rank": 9,
+        "id": f"ht_{gen_id()}"
+    },
+    {
+        "title": "露营季来临 户外装备销量激增300%",
+        "hot_value": 360000000,
+        "url": "https://weibo.com",
+        "platform": "小红书/抖音",
+        "industries": ["旅游", "消费"],
+        "trends": ["热"],
+        "type": "消费热点",
+        "sentiment": "正面",
+        "keywords": ["露营", "户外装备", "春游", "野营", "销量"],
+        "c": ["农夫山泉", "元气森林"],
+        "created_at": now,
+        "rank": 10,
+        "id": f"ht_{gen_id()}"
+    },
+    {
+        "title": "健身季来临 帕梅拉课程再掀热潮",
+        "hot_value": 355000000,
+        "url": "https://douyin.com",
+        "platform": "抖音/B站",
+        "industries": ["健身", "生活"],
+        "trends": ["热"],
+        "type": "生活热点",
+        "sentiment": "正面",
+        "keywords": ["健身", "帕梅拉", "运动", "减肥", "健康生活"],
+        "c": ["汤臣倍健", "农夫山泉"],
+        "created_at": now,
+        "rank": 11,
+        "id": f"ht_{gen_id()}"
+    },
+    {
+        "title": "宠物经济持续升温 猫粮狗粮高端化成趋势",
+        "hot_value": 350000000,
+        "url": "https://weibo.com",
+        "platform": "小红书/全网",
+        "industries": ["宠物", "消费"],
+        "trends": ["热"],
+        "type": "消费热点",
+        "sentiment": "正面",
+        "keywords": ["宠物经济", "猫粮", "狗粮", "高端化", "消费升级"],
+        "c": ["皇家"],
+        "created_at": now,
+        "rank": 12,
+        "id": f"ht_{gen_id()}"
+    },
+    {
+        "title": "新能源汽车4月销量预告 比亚迪继续领跑",
+        "hot_value": 345000000,
+        "url": "https://weibo.com",
+        "platform": "微博/全网",
+        "industries": ["汽车", "科技"],
+        "trends": ["热"],
+        "type": "科技热点",
+        "sentiment": "正面",
+        "keywords": ["新能源汽车", "销量", "比亚迪", "电动车", "市场"],
+        "c": ["小米", "荣耀"],
+        "created_at": now,
+        "rank": 13,
+        "id": f"ht_{gen_id()}"
+    },
+    {
+        "title": "全球半导体开启新一轮涨价潮 晶圆代工全线提价",
+        "hot_value": 340000000,
+        "url": "https://www.sohu.com/a/1003742455_122692513",
+        "platform": "微博/全网",
+        "industries": ["科技", "金融"],
+        "trends": ["热"],
+        "type": "财经热点",
+        "sentiment": "中性",
+        "keywords": ["半导体", "涨价", "芯片", "晶圆", "电子"],
+        "c": ["小米", "荣耀", "索尼", "罗技"],
+        "created_at": now,
+        "rank": 14,
+        "id": f"ht_{gen_id()}"
+    },
+    {
+        "title": "2028洛杉矶奥运会门票4月9日开售",
+        "hot_value": 335000000,
+        "url": "https://www.sohu.com/a/1003742455_122692513",
+        "platform": "微博/全网",
+        "industries": ["体育", "旅游"],
+        "trends": ["新"],
+        "type": "体育热点",
+        "sentiment": "正面",
+        "keywords": ["奥运会", "洛杉矶", "门票", "2028", "体育"],
+        "c": ["农夫山泉", "元气森林", "OATLY", "百威"],
+        "created_at": now,
+        "rank": 15,
+        "id": f"ht_{gen_id()}"
     }
 ]
 
-# 合并新热点，去重
-existing_ids = [t['id'] for t in hot_topics]
-for new in new_hotspots:
-    if new['id'] not in existing_ids:
-        hot_topics.insert(0, new)
+# 移除旧热点中已过时的，保留热度高的
+existing_ids = {ht['id'] for ht in hot_topics}
+for new_ht in new_hotspots:
+    if new_ht['id'] not in existing_ids:
+        hot_topics.insert(0, new_ht)
 
-# 保持100条左右
-hot_topics = hot_topics[:105]
+# 按热度排序并截取前100条
+hot_topics = sorted(hot_topics, key=lambda x: x.get('hot_value', 0), reverse=True)[:100]
+
+# 更新排名
+for i, ht in enumerate(hot_topics, 1):
+    ht['rank'] = i
 
 # 保存
 with open('hot_topics.json', 'w', encoding='utf-8') as f:
     json.dump(hot_topics, f, ensure_ascii=False, indent=2)
 
-print(f"热点更新完成，共{len(hot_topics)}条，新增{len(new_hotspots)}条")
+print(f"更新完成，共 {len(hot_topics)} 条热点，新增 {len(new_hotspots)} 条")
