@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """
-热点追踪器 - 抖音/微博/百度热搜 + 9大垂直行业分析
+热点追踪器 V1 + V2 - 抖音/微博/百度热搜 + 9大垂直行业分析
 支持定时执行，输出JSON报告
+
+使用方式：
+  python3 hotspot_tracker.py          # 运行V1版本
+  python3 hotspot_tracker_v2.py       # 运行V2版本（推荐）
 """
 
 import json
@@ -9,6 +13,8 @@ import requests
 from datetime import datetime
 from urllib.parse import quote
 import re
+import os
+import sys
 
 # 9大垂直领域关键词库
 INDUSTRY_KEYWORDS = {
@@ -377,6 +383,26 @@ def main():
     print(f"📁 报告已保存: {output_file}")
     
     return report
+
+if __name__ == "__main__":
+    main()
+
+# ============ V2 入口（推荐使用） ============
+def run_v2():
+    """运行V2版本 - 增强版热点追踪"""
+    import subprocess
+    import sys
+    
+    v2_script = os.path.join(os.path.dirname(__file__), 'hotspot_tracker_v2.py')
+    if os.path.exists(v2_script):
+        result = subprocess.run([sys.executable, v2_script], capture_output=True, text=True)
+        print(result.stdout)
+        if result.stderr:
+            print("⚠️", result.stderr)
+        return result.returncode == 0
+    else:
+        print(f"❌ V2脚本不存在: {v2_script}")
+        return False
 
 if __name__ == "__main__":
     main()

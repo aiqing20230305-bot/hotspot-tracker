@@ -883,7 +883,7 @@
             margin-bottom: 16px;
             flex-wrap: wrap;
             align-items: center;
-            background: white;
+            background: var(--bg-card);
             padding: 16px;
             border-radius: var(--radius);
             box-shadow: var(--shadow);
@@ -891,18 +891,19 @@
         .sort-label {
             font-size: 14px;
             font-weight: 600;
-            color: var(--gray-600);
+            color: var(--text-secondary);
             display: flex;
             align-items: center;
             gap: 6px;
         }
         .sort-select {
             padding: 8px 14px;
-            border: 2px solid var(--gray-200);
+            border: 2px solid var(--border-color);
             border-radius: 8px;
             font-size: 14px;
             cursor: pointer;
-            background: white;
+            background: var(--bg-card);
+            color: var(--text-primary);
             transition: all 0.2s;
         }
         .sort-select:focus {
@@ -912,10 +913,133 @@
         .filter-count {
             margin-left: auto;
             font-size: 13px;
-            color: var(--gray-600);
-            background: var(--gray-50);
+            color: var(--text-secondary);
+            background: var(--hover-bg);
             padding: 6px 12px;
             border-radius: 6px;
+        }
+        
+        /* 高级筛选面板 */
+        .advanced-filter-panel {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 20px;
+            margin-bottom: 20px;
+            display: none;
+            animation: slideDown 0.3s ease;
+        }
+        .advanced-filter-panel.show {
+            display: block;
+        }
+        .filter-row {
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+            align-items: flex-end;
+            margin-bottom: 16px;
+        }
+        .filter-row:last-child {
+            margin-bottom: 0;
+        }
+        .filter-field {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            min-width: 160px;
+        }
+        .filter-field-label {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-secondary);
+        }
+        .filter-field-input {
+            padding: 8px 12px;
+            border: 2px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 14px;
+            background: var(--bg-card);
+            color: var(--text-primary);
+            transition: all 0.2s;
+        }
+        .filter-field-input:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        .filter-actions {
+            display: flex;
+            gap: 8px;
+            margin-left: auto;
+        }
+        .filter-action-btn {
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: none;
+        }
+        .filter-action-btn.apply {
+            background: var(--primary);
+            color: white;
+        }
+        .filter-action-btn.apply:hover {
+            background: var(--primary-dark);
+        }
+        .filter-action-btn.reset {
+            background: var(--gray-100);
+            color: var(--gray-600);
+        }
+        .filter-action-btn.reset:hover {
+            background: var(--gray-200);
+        }
+        [data-theme="dark"] .filter-action-btn.reset {
+            background: rgba(255,255,255,0.1);
+            color: var(--text-secondary);
+        }
+        
+        /* 快捷筛选标签 */
+        .quick-filters {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+        .quick-filter-chip {
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid var(--border-color);
+            background: var(--bg-card);
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .quick-filter-chip:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+        .quick-filter-chip.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+        .quick-filter-chip .count {
+            background: rgba(255,255,255,0.2);
+            padding: 1px 6px;
+            border-radius: 10px;
+            font-size: 10px;
+        }
+        .quick-filter-chip:not(.active) .count {
+            background: var(--gray-100);
+        }
+        [data-theme="dark"] .quick-filter-chip:not(.active) .count {
+            background: rgba(255,255,255,0.1);
         }
         /* ========== 响应式布局 ========== */
         .hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;min-width:44px;min-height:44px;justify-content:center;align-items:center}
@@ -1204,13 +1328,94 @@
             </div>
         </div>
 
-        <!-- 平台筛选 -->
-        <div class="filter-bar">
-            <button class="filter-btn active" onclick="filterByPlatform('all')">全部平台</button>
-            <button class="filter-btn" onclick="filterByPlatform('抖音')">抖音</button>
-            <button class="filter-btn" onclick="filterByPlatform('微博')">微博</button>
-            <button class="filter-btn" onclick="filterByPlatform('小红书')">小红书</button>
-            <span id="filterCount" style="margin-left:auto;font-size:13px;color:var(--gray-600);background:var(--gray-50);padding:6px 12px;border-radius:6px;font-weight:500;">共 <span id="topicsCount">0</span> 条热点</span>
+        <!-- 搜索和筛选工具栏 -->
+        <div class="sort-toolbar">
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input type="text" class="search-input" id="searchInput" placeholder="搜索热点标题、客户、关键词..." oninput="handleSearch(this.value)">
+                <button class="search-clear" id="searchClear" onclick="clearSearch()" style="display:none;">×</button>
+            </div>
+            <div class="filter-group">
+                <button class="filter-btn active" onclick="filterByPlatform('all')">全部</button>
+                <button class="filter-btn" onclick="filterByPlatform('抖音')">抖音</button>
+                <button class="filter-btn" onclick="filterByPlatform('微博')">微博</button>
+                <button class="filter-btn" onclick="filterByPlatform('小红书')">小红书</button>
+            </div>
+            <div class="sort-group">
+                <select class="sort-select" id="sortSelect" onchange="sortTopics(this.value)">
+                    <option value="default">默认排序</option>
+                    <option value="heat-desc">热度从高到低</option>
+                    <option value="heat-asc">热度从低到高</option>
+                    <option value="platform">按平台</option>
+                </select>
+            </div>
+            <button class="filter-btn" id="advancedFilterToggle" onclick="toggleAdvancedFilter()" style="display:flex;align-items:center;gap:4px;">
+                <span>⚙️</span>
+                <span>高级筛选</span>
+            </button>
+            <span id="filterCount" class="filter-count">共 <span id="topicsCount">0</span> 条热点</span>
+        </div>
+        
+        <!-- 高级筛选面板 -->
+        <div class="advanced-filter-panel" id="advancedFilterPanel">
+            <div class="filter-row">
+                <div class="filter-field">
+                    <label class="filter-field-label">热度范围</label>
+                    <select class="filter-field-input" id="heatRangeFilter" onchange="applyAdvancedFilter()">
+                        <option value="all">全部</option>
+                        <option value="high">高热度 (>500万)</option>
+                        <option value="medium">中热度 (100-500万)</option>
+                        <option value="low">低热度 (<100万)</option>
+                    </select>
+                </div>
+                <div class="filter-field">
+                    <label class="filter-field-label">内容类型</label>
+                    <select class="filter-field-input" id="typeFilter" onchange="applyAdvancedFilter()">
+                        <option value="all">全部类型</option>
+                        <option value="娱乐">娱乐</option>
+                        <option value="生活">生活</option>
+                        <option value="科技">科技</option>
+                        <option value="美妆">美妆</option>
+                        <option value="美食">美食</option>
+                    </select>
+                </div>
+                <div class="filter-field">
+                    <label class="filter-field-label">趋势状态</label>
+                    <select class="filter-field-input" id="trendFilter" onchange="applyAdvancedFilter()">
+                        <option value="all">全部</option>
+                        <option value="rising">上升中</option>
+                        <option value="stable">稳定</option>
+                        <option value="falling">下降</option>
+                    </select>
+                </div>
+                <div class="filter-actions">
+                    <button class="filter-action-btn reset" onclick="resetAdvancedFilter()">重置</button>
+                    <button class="filter-action-btn apply" onclick="applyAdvancedFilter()">应用筛选</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 快捷筛选标签 -->
+        <div class="quick-filters" id="quickFilters">
+            <div class="quick-filter-chip" onclick="quickFilter('hasClient')">
+                <span>🏢</span>
+                <span>有客户匹配</span>
+                <span class="count" id="hasClientCount">0</span>
+            </div>
+            <div class="quick-filter-chip" onclick="quickFilter('rising')">
+                <span>📈</span>
+                <span>热度上升</span>
+                <span class="count" id="risingCount">0</span>
+            </div>
+            <div class="quick-filter-chip" onclick="quickFilter('today')">
+                <span>🆕</span>
+                <span>今日新增</span>
+                <span class="count" id="todayCount">0</span>
+            </div>
+            <div class="quick-filter-chip" onclick="quickFilter('top10')">
+                <span>🏆</span>
+                <span>TOP 10</span>
+            </div>
         </div>
         
         <!-- 热点列表 -->
@@ -1272,6 +1477,13 @@
         let currentSort = 'default';
         let lastUpdateTime = null;
         let prevTopicCount = 0;
+        let searchQuery = '';
+        let advancedFilters = {
+            heatRange: 'all',
+            type: 'all',
+            trend: 'all'
+        };
+        let quickFilterActive = null;
         
         // 平台颜色映射
         const PLATFORM_CLASS = {
@@ -1350,6 +1562,109 @@
         function sortTopics(sortValue) {
             currentSort = sortValue || 'default';
             renderTopics();
+        }
+        
+        // 搜索处理
+        function handleSearch(query) {
+            searchQuery = query.trim().toLowerCase();
+            const clearBtn = document.getElementById('searchClear');
+            if (clearBtn) {
+                clearBtn.style.display = searchQuery ? 'flex' : 'none';
+            }
+            renderTopics();
+        }
+        
+        // 清除搜索
+        function clearSearch() {
+            const searchInput = document.getElementById('searchInput');
+            if (searchInput) {
+                searchInput.value = '';
+                searchQuery = '';
+            }
+            const clearBtn = document.getElementById('searchClear');
+            if (clearBtn) {
+                clearBtn.style.display = 'none';
+            }
+            renderTopics();
+        }
+        
+        // 切换高级筛选面板
+        function toggleAdvancedFilter() {
+            const panel = document.getElementById('advancedFilterPanel');
+            const toggle = document.getElementById('advancedFilterToggle');
+            if (panel) {
+                panel.classList.toggle('show');
+                if (toggle) {
+                    toggle.classList.toggle('active', panel.classList.contains('show'));
+                }
+            }
+        }
+        
+        // 应用高级筛选
+        function applyAdvancedFilter() {
+            const heatRange = document.getElementById('heatRangeFilter');
+            const type = document.getElementById('typeFilter');
+            const trend = document.getElementById('trendFilter');
+            
+            advancedFilters = {
+                heatRange: heatRange ? heatRange.value : 'all',
+                type: type ? type.value : 'all',
+                trend: trend ? trend.value : 'all'
+            };
+            
+            renderTopics();
+        }
+        
+        // 重置高级筛选
+        function resetAdvancedFilter() {
+            const heatRange = document.getElementById('heatRangeFilter');
+            const type = document.getElementById('typeFilter');
+            const trend = document.getElementById('trendFilter');
+            
+            if (heatRange) heatRange.value = 'all';
+            if (type) type.value = 'all';
+            if (trend) trend.value = 'all';
+            
+            advancedFilters = {
+                heatRange: 'all',
+                type: 'all',
+                trend: 'all'
+            };
+            
+            renderTopics();
+        }
+        
+        // 快捷筛选
+        function quickFilter(type) {
+            const chips = document.querySelectorAll('.quick-filter-chip');
+            const clickedChip = event.currentTarget;
+            
+            // 切换激活状态
+            if (quickFilterActive === type) {
+                quickFilterActive = null;
+                clickedChip.classList.remove('active');
+            } else {
+                chips.forEach(c => c.classList.remove('active'));
+                clickedChip.classList.add('active');
+                quickFilterActive = type;
+            }
+            
+            renderTopics();
+        }
+        
+        // 更新快捷筛选计数
+        function updateQuickFilterCounts(topics) {
+            const hasClientCount = topics.filter(t => t.c && t.c.length > 0).length;
+            const risingCount = topics.filter(t => (t.trend || '').includes('上升')).length;
+            const todayCount = topics.filter(t => t.isNew).length;
+            
+            const hasClientEl = document.getElementById('hasClientCount');
+            const risingEl = document.getElementById('risingCount');
+            const todayEl = document.getElementById('todayCount');
+            
+            if (hasClientEl) hasClientEl.textContent = hasClientCount;
+            if (risingEl) risingEl.textContent = risingCount;
+            if (todayEl) todayEl.textContent = todayCount;
         }
         
         // 显示刷新提示
