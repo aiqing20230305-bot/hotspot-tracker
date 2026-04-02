@@ -1170,6 +1170,142 @@
             background: var(--primary);
             color: white;
         }
+        
+        /* 分类筛选标签滚动容器 */
+        .category-scroll {
+            display: flex;
+            gap: 8px;
+            overflow-x: auto;
+            padding: 8px 0;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+        }
+        .category-scroll::-webkit-scrollbar {
+            display: none;
+        }
+        .category-chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 500;
+            white-space: nowrap;
+            cursor: pointer;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 2px solid transparent;
+            background: var(--bg-card);
+            color: var(--text-secondary);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        .category-chip:hover {
+            border-color: var(--primary-light);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(99,102,241,0.15);
+        }
+        .category-chip.active {
+            background: linear-gradient(135deg, var(--primary), var(--primary-light));
+            color: white;
+            border-color: transparent;
+            box-shadow: 0 4px 15px rgba(99,102,241,0.35);
+        }
+        .category-chip .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: currentColor;
+            opacity: 0.7;
+        }
+        .category-chip.active .dot {
+            background: white;
+            opacity: 1;
+        }
+        
+        /* 移动端优化 */
+        @media (max-width: 768px) {
+            .category-chip {
+                padding: 6px 12px;
+                font-size: 12px;
+            }
+        }
+        
+        /* 卡片入场动画 */
+        @keyframes cardEnter {
+            from {
+                opacity: 0;
+                transform: translateY(20px) scale(0.95);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0) scale(1);
+            }
+        }
+        
+        .hot-item {
+            animation: cardEnter 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+        }
+        
+        /* 热点卡片悬浮效果增强 */
+        .hot-item {
+            position: relative;
+            overflow: hidden;
+        }
+        .hot-item::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(180deg, var(--primary), var(--primary-light));
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .hot-item:hover::before {
+            opacity: 1;
+        }
+        
+        /* 排行榜数字动画 */
+        .rank {
+            position: relative;
+            overflow: hidden;
+        }
+        .rank::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+            transition: left 0.5s;
+        }
+        .hot-item:hover .rank::after {
+            left: 100%;
+        }
+        
+        /* 悬停涟漪效果 */
+        .stat-card {
+            position: relative;
+            overflow: hidden;
+        }
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            background: rgba(99,102,241,0.1);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            transition: width 0.4s, height 0.4s;
+        }
+        .stat-card:hover::before {
+            width: 200px;
+            height: 200px;
+        }
 </style>
 </head>
 <body>
@@ -1246,17 +1382,17 @@
                 <div class="label">热点数量</div>
                 <div class="sub-label" id="topicTrend"></div>
             </div>
-            <div class="stat-card" id="card-platform">
-                <div class="icon">📡</div>
-                <div class="number" id="platformCount">-</div>
-                <div class="label">平台覆盖</div>
-                <div class="sub-label">抖音/微博/小红书</div>
-            </div>
             <div class="stat-card" id="card-idea">
                 <div class="icon">💡</div>
                 <div class="number" id="ideaCount">-</div>
                 <div class="label">选题数量</div>
                 <div class="sub-label" id="ideaTrend"></div>
+            </div>
+            <div class="stat-card" id="card-sku">
+                <div class="icon">📦</div>
+                <div class="number" id="skuCount">-</div>
+                <div class="label">SKU场景数</div>
+                <div class="sub-label">产品场景库</div>
             </div>
             <div class="stat-card" id="card-client">
                 <div class="icon">🏢</div>
@@ -1354,6 +1490,34 @@
                 <span>高级筛选</span>
             </button>
             <span id="filterCount" class="filter-count">共 <span id="topicsCount">0</span> 条热点</span>
+        </div>
+        
+        <!-- 分类筛选标签 -->
+        <div class="category-scroll" id="categoryScroll">
+            <div class="category-chip active" onclick="filterByCategory('all', this)">
+                <span class="dot"></span>全部
+            </div>
+            <div class="category-chip" onclick="filterByCategory('科技', this)">
+                <span class="dot"></span>科技数码
+            </div>
+            <div class="category-chip" onclick="filterByCategory('娱乐', this)">
+                <span class="dot"></span>娱乐明星
+            </div>
+            <div class="category-chip" onclick="filterByCategory('生活', this)">
+                <span class="dot"></span>生活美食
+            </div>
+            <div class="category-chip" onclick="filterByCategory('美妆', this)">
+                <span class="dot"></span>美妆时尚
+            </div>
+            <div class="category-chip" onclick="filterByCategory('游戏', this)">
+                <span class="dot"></span>游戏电竞
+            </div>
+            <div class="category-chip" onclick="filterByCategory('汽车', this)">
+                <span class="dot"></span>汽车出行
+            </div>
+            <div class="category-chip" onclick="filterByCategory('运动', this)">
+                <span class="dot"></span>体育运动
+            </div>
         </div>
         
         <!-- 高级筛选面板 -->
@@ -1475,6 +1639,7 @@
         let allIdeas = [];
         let currentFilter = 'all';
         let currentSort = 'default';
+        let currentCategory = 'all';
         let lastUpdateTime = null;
         let prevTopicCount = 0;
         let searchQuery = '';
@@ -1652,6 +1817,15 @@
             renderTopics();
         }
         
+        // 分类筛选
+        function filterByCategory(category, element) {
+            currentCategory = category;
+            document.querySelectorAll('.category-chip').forEach(chip => {
+                chip.classList.toggle('active', chip === element);
+            });
+            renderTopics();
+        }
+        
         // 更新快捷筛选计数
         function updateQuickFilterCounts(topics) {
             const hasClientCount = topics.filter(t => t.c && t.c.length > 0).length;
@@ -1761,6 +1935,16 @@
             let cachedTopics = getCache(CACHE_KEY.topics);
             let cachedIdeas = getCache(CACHE_KEY.ideas);
             
+            // 加载SKU场景数据
+            let skuScenes = [];
+            try {
+                const skuRes = await fetch('sku_scenes.json?t=' + Date.now());
+                if (skuRes.ok) {
+                    skuScenes = await skuRes.json();
+                    localStorage.setItem('ht_sku_scenes', JSON.stringify(skuScenes));
+                }
+            } catch {}
+            
             // 尝试加载新数据（后台静默）
             try {
                 const [topicsRes, ideasRes] = await Promise.all([
@@ -1821,9 +2005,18 @@
             const clients = new Set();
             topics.forEach(t => { if (t.c) t.c.forEach(c => clients.add(c)); });
             
+            // 读取SKU场景数
+            let skuCount = 0;
+            try {
+                const skuData = localStorage.getItem('ht_sku_scenes');
+                if (skuData) {
+                    skuCount = JSON.parse(skuData).length || 0;
+                }
+            } catch {}
+            
             document.getElementById('topicCount').textContent = topics.length;
-            document.getElementById('platformCount').textContent = platforms.size;
             document.getElementById('ideaCount').textContent = ideas.length;
+            document.getElementById('skuCount').textContent = skuCount > 0 ? skuCount : '-';
             document.getElementById('clientCount').textContent = clients.size;
             
             // 趋势显示
@@ -1871,6 +2064,15 @@
         function renderTopics() {
             const container = document.getElementById('hotList');
             let topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => t.platform === currentFilter);
+            
+            // 分类筛选
+            if (currentCategory !== 'all') {
+                topics = topics.filter(t => {
+                    const industries = t.industries || [];
+                    const type = t.type || '';
+                    return industries.includes(currentCategory) || type.includes(currentCategory);
+                });
+            }
             
             // 排序
             if (currentSort === 'heat-desc') {
