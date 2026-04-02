@@ -1041,6 +1041,248 @@
         [data-theme="dark"] .quick-filter-chip:not(.active) .count {
             background: rgba(255,255,255,0.1);
         }
+        /* ========== 数据新鲜度指示器 ========== */
+        .data-freshness {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 500;
+            background: rgba(16, 185, 129, 0.15);
+            color: #059669;
+        }
+        .data-freshness.stale {
+            background: rgba(245, 158, 11, 0.15);
+            color: #D97706;
+        }
+        .data-freshness .freshness-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: currentColor;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.2); }
+        }
+        
+        /* ========== 快速入口导航 ========== */
+        .quick-nav-section {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 20px;
+            margin-bottom: 24px;
+        }
+        .quick-nav-title {
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--text-secondary);
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .quick-nav-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 12px;
+        }
+        .quick-nav-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 16px 12px;
+            background: linear-gradient(135deg, var(--gray-50) 0%, var(--gray-100) 100%);
+            border-radius: 12px;
+            text-decoration: none;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 2px solid transparent;
+            text-align: center;
+        }
+        [data-theme="dark"] .quick-nav-card {
+            background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(99,102,241,0.12) 100%);
+        }
+        .quick-nav-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(99,102,241,0.2);
+            border-color: var(--primary-light);
+        }
+        .quick-nav-card.highlight {
+            background: linear-gradient(135deg, #EEF2FF 0%, #E0E7FF 100%);
+            border-color: var(--primary-light);
+        }
+        [data-theme="dark"] .quick-nav-card.highlight {
+            background: linear-gradient(135deg, #312e81 0%, #3730a3 100%);
+        }
+        .quick-nav-icon {
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+        .quick-nav-label {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 4px;
+        }
+        .quick-nav-desc {
+            font-size: 11px;
+            color: var(--text-secondary);
+        }
+        
+        /* ========== 数据统计大卡片 ========== */
+        .stats-overview {
+            background: var(--bg-card);
+            border-radius: 16px;
+            box-shadow: var(--shadow-lg);
+            padding: 24px;
+            margin-bottom: 24px;
+            border: 1px solid var(--border-color);
+        }
+        .stats-overview-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .stats-overview-title {
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .stats-overview-title::before {
+            content: '';
+            width: 4px;
+            height: 20px;
+            background: linear-gradient(180deg, var(--primary), var(--primary-light));
+            border-radius: 2px;
+        }
+        .stats-overview-time {
+            font-size: 12px;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .stats-overview-time::before {
+            content: '🕐';
+        }
+        .stats-big-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+        }
+        @media (max-width: 1024px) {
+            .stats-big-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 640px) {
+            .stats-big-grid { grid-template-columns: 1fr; }
+        }
+        .stat-big-card {
+            position: relative;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--gray-50) 0%, var(--gray-100) 100%);
+            border-radius: 14px;
+            border: 2px solid transparent;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            overflow: hidden;
+        }
+        [data-theme="dark"] .stat-big-card {
+            background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(99,102,241,0.1) 100%);
+        }
+        .stat-big-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary), var(--primary-light));
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .stat-big-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 32px rgba(99,102,241,0.15);
+            border-color: var(--primary-light);
+        }
+        .stat-big-card:hover::before {
+            opacity: 1;
+        }
+        .stat-big-card.highlight {
+            background: linear-gradient(135deg, #EEF2FF 0%, #E0E7FF 100%);
+            border-color: var(--primary-light);
+        }
+        [data-theme="dark"] .stat-big-card.highlight {
+            background: linear-gradient(135deg, #312e81 0%, #3730a3 100%);
+        }
+        .stat-big-icon {
+            font-size: 36px;
+            margin-bottom: 12px;
+            display: block;
+        }
+        .stat-big-content {
+            position: relative;
+            z-index: 1;
+        }
+        .stat-big-number {
+            font-size: 36px;
+            font-weight: 800;
+            color: var(--primary);
+            line-height: 1;
+            margin-bottom: 6px;
+            font-variant-numeric: tabular-nums;
+        }
+        .stat-big-label {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+        }
+        .stat-big-detail {
+            font-size: 12px;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+        .stat-big-trend {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            font-size: 11px;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-weight: 600;
+        }
+        .stat-big-trend.up {
+            background: rgba(16, 185, 129, 0.15);
+            color: #059669;
+        }
+        .stat-big-trend.down {
+            background: rgba(239, 68, 68, 0.15);
+            color: #DC2626;
+        }
+        .stat-badge {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            font-size: 10px;
+            padding: 4px 8px;
+            border-radius: 8px;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: white;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
         /* ========== 响应式布局 ========== */
         .hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;min-width:44px;min-height:44px;justify-content:center;align-items:center}
         .hamburger span{width:24px;height:2px;background:var(--gray-600);border-radius:2px;transition:all 0.3s}
@@ -1058,6 +1300,16 @@
             .page-header{padding:24px;border-radius:16px}
             .page-header h1{font-size:24px}
             .page-header p{font-size:13px}
+            /* 新增：更新时间区域移动端优化 */
+            .update-time {
+                flex-wrap: wrap;
+                gap: 8px;
+            }
+            .data-freshness {
+                order: -1;
+                width: 100%;
+                justify-content: center;
+            }
             .stats-grid{grid-template-columns:repeat(2,1fr);gap:12px}
             .stat-card{padding:16px}
             .stat-card .number{font-size:26px}
@@ -1065,6 +1317,35 @@
             .filter-btn{padding:8px 14px;font-size:14px;min-height:44px}
             .hot-header{padding:14px 16px;gap:12px}
             .hot-title{font-size:15px;line-height:1.4}
+            /* 快速导航移动端 */
+            .quick-nav-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+            .quick-nav-card {
+                padding: 12px 8px;
+            }
+            .quick-nav-icon {
+                font-size: 24px;
+            }
+            .quick-nav-label {
+                font-size: 12px;
+            }
+            .quick-nav-desc {
+                font-size: 10px;
+            }
+            /* 数据统计大卡片移动端 */
+            .stats-overview {
+                padding: 16px;
+            }
+            .stats-overview-title {
+                font-size: 16px;
+            }
+            .stat-big-number {
+                font-size: 28px;
+            }
+            .stat-big-icon {
+                font-size: 28px;
+            }
         }
         @media(max-width:480px){
             .nav-logo{font-size:16px}
@@ -1342,6 +1623,10 @@
             <p>🤖 实时热点监控 | 📊 抖音/微博/小红书热搜 | 🎯 可借势客户分析</p>
             <div class="update-time" id="updateTime">
                 <span class="time-text">📅 更新时间：加载中...</span>
+                <span class="data-freshness" id="dataFreshness" style="display:none;">
+                    <span class="freshness-dot"></span>
+                    <span class="freshness-text">数据新鲜</span>
+                </span>
                 <button class="refresh-btn" id="refreshBtn" onclick="refreshData()">
                     <span class="icon">🔄</span>
                     <span>刷新</span>
@@ -1364,6 +1649,43 @@
             </div>
         </div>
         
+        <!-- 快速入口导航卡片 -->
+        <div class="quick-nav-section" id="quickNavSection">
+            <div class="quick-nav-title">⚡ 快速入口</div>
+            <div class="quick-nav-grid">
+                <a href="platform.html" class="quick-nav-card">
+                    <div class="quick-nav-icon">🏠</div>
+                    <div class="quick-nav-label">平台首页</div>
+                    <div class="quick-nav-desc">数据总览</div>
+                </a>
+                <a href="low_fan_hits.html" class="quick-nav-card">
+                    <div class="quick-nav-icon">💎</div>
+                    <div class="quick-nav-label">低粉爆款</div>
+                    <div class="quick-nav-desc">挖掘潜力</div>
+                </a>
+                <a href="client_center.html" class="quick-nav-card">
+                    <div class="quick-nav-icon">💡</div>
+                    <div class="quick-nav-label">客户选题</div>
+                    <div class="quick-nav-desc">658个选题</div>
+                </a>
+                <a href="sku_library.html" class="quick-nav-card">
+                    <div class="quick-nav-icon">📦</div>
+                    <div class="quick-nav-label">SKU场景库</div>
+                    <div class="quick-nav-desc">54,480条</div>
+                </a>
+                <a href="ai_recommendation.html" class="quick-nav-card highlight">
+                    <div class="quick-nav-icon">🤖</div>
+                    <div class="quick-nav-label">AI推荐</div>
+                    <div class="quick-nav-desc">智能选题</div>
+                </a>
+                <a href="script_generator.html" class="quick-nav-card">
+                    <div class="quick-nav-icon">📝</div>
+                    <div class="quick-nav-label">脚本生成</div>
+                    <div class="quick-nav-desc">一键创作</div>
+                </a>
+            </div>
+        </div>
+        
         <!-- 骨架屏（加载时显示） -->
         <div id="skeletonLoader">
             <div class="stats-grid">
@@ -1374,31 +1696,85 @@
             </div>
         </div>
         
-        <!-- 统计卡片 -->
+        <!-- 数据统计大卡片 -->
+        <div class="stats-overview" id="statsOverview" style="display:none;">
+            <div class="stats-overview-header">
+                <div class="stats-overview-title">📊 数据总览</div>
+                <div class="stats-overview-time" id="statsUpdateTime">数据加载中...</div>
+            </div>
+            <div class="stats-big-grid">
+                <div class="stat-big-card" id="card-topic">
+                    <div class="stat-big-icon">🔥</div>
+                    <div class="stat-big-content">
+                        <div class="stat-big-number" id="topicCount">-</div>
+                        <div class="stat-big-label">热点话题</div>
+                        <div class="stat-big-detail">
+                            <span id="topicDouyin">-</span> 抖音 · <span id="topicWeibo">-</span> 微博 · <span id="topicXhs">-</span> 小红书
+                        </div>
+                    </div>
+                    <div class="stat-big-trend" id="topicTrend"></div>
+                </div>
+                <div class="stat-big-card" id="card-idea">
+                    <div class="stat-big-icon">💡</div>
+                    <div class="stat-big-content">
+                        <div class="stat-big-number" id="ideaCount">-</div>
+                        <div class="stat-big-label">客户选题</div>
+                        <div class="stat-big-detail">
+                            覆盖 <span id="ideaClients">-</span> 个客户品牌
+                        </div>
+                    </div>
+                    <div class="stat-big-trend" id="ideaTrend"></div>
+                </div>
+                <div class="stat-big-card highlight" id="card-sku">
+                    <div class="stat-big-icon">📦</div>
+                    <div class="stat-big-content">
+                        <div class="stat-big-number" id="skuCount">-</div>
+                        <div class="stat-big-label">SKU场景库</div>
+                        <div class="stat-big-detail">
+                            产品营销场景 · <span id="skuUpdate">-</span> 更新
+                        </div>
+                    </div>
+                    <div class="stat-badge">核心数据</div>
+                </div>
+                <div class="stat-big-card" id="card-client">
+                    <div class="stat-big-icon">🏢</div>
+                    <div class="stat-big-content">
+                        <div class="stat-big-number" id="clientCount">-</div>
+                        <div class="stat-big-label">可借势客户</div>
+                        <div class="stat-big-detail">
+                            热点匹配潜力客户
+                        </div>
+                    </div>
+                    <div class="stat-big-trend" id="clientTrend"></div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 原有统计卡片（保留作为备用） -->
         <div class="stats-grid" id="statsGrid" style="display:none;">
-            <div class="stat-card" id="card-topic">
+            <div class="stat-card" id="card-topic-old">
                 <div class="icon">🔥</div>
-                <div class="number" id="topicCount">-</div>
+                <div class="number" id="topicCountOld">-</div>
                 <div class="label">热点数量</div>
-                <div class="sub-label" id="topicTrend"></div>
+                <div class="sub-label" id="topicTrendOld"></div>
             </div>
-            <div class="stat-card" id="card-idea">
+            <div class="stat-card" id="card-idea-old">
                 <div class="icon">💡</div>
-                <div class="number" id="ideaCount">-</div>
+                <div class="number" id="ideaCountOld">-</div>
                 <div class="label">选题数量</div>
-                <div class="sub-label" id="ideaTrend"></div>
+                <div class="sub-label" id="ideaTrendOld"></div>
             </div>
-            <div class="stat-card" id="card-sku">
+            <div class="stat-card" id="card-sku-old">
                 <div class="icon">📦</div>
-                <div class="number" id="skuCount">-</div>
+                <div class="number" id="skuCountOld">-</div>
                 <div class="label">SKU场景数</div>
                 <div class="sub-label">产品场景库</div>
             </div>
-            <div class="stat-card" id="card-client">
+            <div class="stat-card" id="card-client-old">
                 <div class="icon">🏢</div>
-                <div class="number" id="clientCount">-</div>
+                <div class="number" id="clientCountOld">-</div>
                 <div class="label">可借势客户</div>
-                <div class="sub-label" id="clientTrend"></div>
+                <div class="sub-label" id="clientTrendOld"></div>
             </div>
         </div>
         
@@ -1987,49 +2363,121 @@
         
         function showSkeleton() {
             const loader = document.getElementById('skeletonLoader');
+            const statsOverview = document.getElementById('statsOverview');
             const statsGrid = document.getElementById('statsGrid');
+            const quickNav = document.getElementById('quickNavSection');
             if (loader) loader.style.display = 'block';
+            if (statsOverview) statsOverview.style.display = 'none';
             if (statsGrid) statsGrid.style.display = 'none';
+            if (quickNav) quickNav.style.display = 'none';
         }
         
         function hideSkeleton() {
             const loader = document.getElementById('skeletonLoader');
+            const statsOverview = document.getElementById('statsOverview');
             const statsGrid = document.getElementById('statsGrid');
+            const quickNav = document.getElementById('quickNavSection');
             if (loader) loader.style.display = 'none';
-            if (statsGrid) statsGrid.style.display = 'grid';
+            if (statsOverview) statsOverview.style.display = 'block';
+            if (statsGrid) statsGrid.style.display = 'none'; // 隐藏旧版卡片
+            if (quickNav) quickNav.style.display = 'block';
         }
         
         // 更新统计数据
-        function updateStats(topics, ideas) {
+        async function updateStats(topics, ideas) {
             const platforms = new Set(topics.map(t => t.platform));
             const clients = new Set();
             topics.forEach(t => { if (t.c) t.c.forEach(c => clients.add(c)); });
             
+            // 统计各平台热点数
+            const douyinCount = topics.filter(t => t.platform === '抖音').length;
+            const weiboCount = topics.filter(t => t.platform === '微博').length;
+            const xhsCount = topics.filter(t => t.platform === '小红书').length;
+            
+            // 统计选题覆盖的客户数
+            const ideaClients = new Set();
+            if (Array.isArray(ideas)) {
+                ideas.forEach(idea => {
+                    if (idea.client) ideaClients.add(idea.client);
+                    if (idea.brand) ideaClients.add(idea.brand);
+                });
+            }
+            
             // 读取SKU场景数
-            let skuCount = 0;
+            let skuCount = 54480; // 默认值
+            let skuUpdateTime = '';
             try {
-                const skuData = localStorage.getItem('ht_sku_scenes');
-                if (skuData) {
-                    skuCount = JSON.parse(skuData).length || 0;
+                const skuRes = await fetch('sku_scenarios.json?t=' + Date.now());
+                if (skuRes.ok) {
+                    const skuData = await skuRes.json();
+                    skuCount = skuData.total_count || skuCount;
+                    skuUpdateTime = skuData.updated_at ? skuData.updated_at.slice(0, 10) : '';
                 }
             } catch {}
             
-            document.getElementById('topicCount').textContent = topics.length;
-            document.getElementById('ideaCount').textContent = ideas.length;
-            document.getElementById('skuCount').textContent = skuCount > 0 ? skuCount : '-';
+            // 更新大卡片数据
+            document.getElementById('topicCount').textContent = topics.length.toLocaleString();
+            document.getElementById('ideaCount').textContent = ideas.length.toLocaleString();
+            document.getElementById('skuCount').textContent = skuCount.toLocaleString();
             document.getElementById('clientCount').textContent = clients.size;
+            
+            // 更新平台分布
+            document.getElementById('topicDouyin').textContent = douyinCount;
+            document.getElementById('topicWeibo').textContent = weiboCount;
+            document.getElementById('topicXhs').textContent = xhsCount;
+            
+            // 更新选题客户数
+            document.getElementById('ideaClients').textContent = ideaClients.size || '-';
+            
+            // 更新SKU更新时间
+            document.getElementById('skuUpdate').textContent = skuUpdateTime || '最近';
             
             // 趋势显示
             const topicTrend = document.getElementById('topicTrend');
             if (topicTrend) {
                 const diff = topics.length - prevTopicCount;
                 if (prevTopicCount > 0 && diff !== 0) {
-                    topicTrend.innerHTML = diff > 0 ? `<span class="trend up">↑ +${diff}</span>` : `<span class="trend down">↓ ${diff}</span>`;
+                    topicTrend.innerHTML = diff > 0 ? `<span class="stat-big-trend up">↑ +${diff}</span>` : `<span class="stat-big-trend down">↓ ${diff}</span>`;
                 } else {
                     topicTrend.textContent = '';
                 }
             }
             prevTopicCount = topics.length;
+            
+            // 更新数据时间
+            const statsUpdateTime = document.getElementById('statsUpdateTime');
+            if (statsUpdateTime) {
+                statsUpdateTime.textContent = '最后更新: ' + new Date().toLocaleString('zh-CN');
+            }
+            
+            // 更新数据新鲜度
+            updateDataFreshness();
+        }
+        
+        // 更新数据新鲜度指示
+        function updateDataFreshness() {
+            const freshnessEl = document.getElementById('dataFreshness');
+            if (!freshnessEl) return;
+            
+            const lastTime = getCache(CACHE_KEY.topicsTime);
+            if (!lastTime) {
+                freshnessEl.style.display = 'none';
+                return;
+            }
+            
+            const minutesAgo = (Date.now() - lastTime) / 60000;
+            freshnessEl.style.display = 'inline-flex';
+            
+            if (minutesAgo < 5) {
+                freshnessEl.className = 'data-freshness';
+                freshnessEl.querySelector('.freshness-text').textContent = '数据新鲜';
+            } else if (minutesAgo < 30) {
+                freshnessEl.className = 'data-freshness';
+                freshnessEl.querySelector('.freshness-text').textContent = `${Math.floor(minutesAgo)}分钟前`;
+            } else {
+                freshnessEl.className = 'data-freshness stale';
+                freshnessEl.querySelector('.freshness-text').textContent = '数据较旧';
+            }
         }
         
         function renderTopicsCount(count) {

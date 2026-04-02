@@ -1,141 +1,5214 @@
 [
   {
     "rank": 1,
+    "title": "区块链技术革新用户期待拉满",
+    "hot_value": 447080365,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "科技",
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "负面",
+    "keywords": [
+      "区块链",
+      "折叠屏",
+      "VR眼镜"
+    ],
+    "c": [
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T23:14:39",
+    "id": "ht_2eba2ffc"
+  },
+  {
+    "rank": 2,
+    "title": "物联网设备领域再现突破国产崛起",
+    "hot_value": 425445003,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "中性",
+    "keywords": [
+      "物联网设备",
+      "智能手机",
+      "量子计算"
+    ],
+    "c": [
+      "苹果",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T11:14:39",
+    "id": "ht_f4994ba0"
+  },
+  {
+    "rank": 3,
+    "title": "折叠屏新品发布消费者排队抢购",
+    "hot_value": 420143209,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "科技",
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "折叠屏",
+      "芯片",
+      "5G网络"
+    ],
+    "c": [
+      "OPPO"
+    ],
+    "created_at": "2026-04-01T13:14:39",
+    "id": "ht_57d3fc17"
+  },
+  {
+    "rank": 4,
+    "title": "5G网络领域再现突破国产崛起",
+    "hot_value": 398751575,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "科技",
+      "美食"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "5G网络",
+      "量子计算",
+      "区块链"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T19:14:39",
+    "id": "ht_0e2f0f17"
+  },
+  {
+    "rank": 5,
+    "title": "AI大模型新品发布消费者排队抢购",
+    "hot_value": 378663711,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "AI大模型",
+      "智能手表",
+      "机器人"
+    ],
+    "c": [
+      "苹果",
+      "罗技",
+      "小米"
+    ],
+    "created_at": "2026-04-02T08:14:39",
+    "id": "ht_5d330e68"
+  },
+  {
+    "rank": 6,
+    "title": "AI绘画产业链升级替代加速",
+    "hot_value": 368488510,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "科技",
+      "美食"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "AI绘画",
+      "云计算",
+      "AI绘画"
+    ],
+    "c": [
+      "小米"
+    ],
+    "created_at": "2026-04-01T13:14:39",
+    "id": "ht_b490725f"
+  },
+  {
+    "rank": 7,
+    "title": "物联网设备最新突破引发行业关注",
+    "hot_value": 364443577,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "科技",
+      "家居"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "物联网设备",
+      "VR眼镜",
+      "区块链"
+    ],
+    "c": [
+      "荣耀",
+      "小米",
+      "vivo"
+    ],
+    "created_at": "2026-04-03T01:14:39",
+    "id": "ht_4bff586a"
+  },
+  {
+    "rank": 8,
+    "title": "智能手表产业链升级替代加速",
+    "hot_value": 334708513,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "中性",
+    "keywords": [
+      "智能手表",
+      "AI大模型",
+      "物联网设备"
+    ],
+    "c": [
+      "索尼",
+      "vivo",
+      "罗技"
+    ],
+    "created_at": "2026-04-01T18:14:39",
+    "id": "ht_d7893d19"
+  },
+  {
+    "rank": 9,
+    "title": "AI绘画赛道竞争加剧格局生变",
+    "hot_value": 322902885,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "AI绘画",
+      "AI绘画",
+      "云计算"
+    ],
+    "c": [
+      "小米",
+      "OPPO"
+    ],
+    "created_at": "2026-04-02T18:14:39",
+    "id": "ht_7becd86e"
+  },
+  {
+    "rank": 10,
+    "title": "折叠屏领域再现突破国产崛起",
+    "hot_value": 308439079,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "中性",
+    "keywords": [
+      "折叠屏",
+      "机器人",
+      "物联网设备"
+    ],
+    "c": [],
+    "created_at": "2026-04-03T03:14:39",
+    "id": "ht_3e983c7a"
+  },
+  {
+    "rank": 11,
+    "title": "粉底测评平替产品走红国货崛起",
+    "hot_value": 296799089,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "粉底测评",
+      "粉底测评",
+      "抗衰老精华"
+    ],
+    "c": [
+      "玉兰油"
+    ],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_8cd9cf31"
+  },
+  {
+    "rank": 12,
+    "title": "粉底测评避坑指南消费者必看",
+    "hot_value": 289847892,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美妆",
+      "教育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "粉底测评",
+      "面膜推荐",
+      "彩妆教程"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:14:39",
+    "id": "ht_72b93ab3"
+  },
+  {
+    "rank": 13,
+    "title": "网红火锅隐藏菜单曝光网友疯狂安利",
+    "hot_value": 273529434,
+    "url": "https://weibo.com",
+    "platform": "抖音/微博",
+    "industries": [
+      "美食"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美食热点",
+    "sentiment": "负面",
+    "keywords": [
+      "网红火锅",
+      "地方美食",
+      "特色烧烤"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:14:39",
+    "id": "ht_26d9fcf8"
+  },
+  {
+    "rank": 14,
+    "title": "5G网络新品发布消费者排队抢购",
+    "hot_value": 272477221,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "负面",
+    "keywords": [
+      "5G网络",
+      "机器人",
+      "芯片"
+    ],
+    "c": [
+      "华为",
+      "荣耀",
+      "vivo"
+    ],
+    "created_at": "2026-04-01T22:14:39",
+    "id": "ht_6c3fbcff"
+  },
+  {
+    "rank": 15,
+    "title": "网红餐厅成新晋网红打卡排队超火爆",
+    "hot_value": 272227979,
+    "url": "https://weibo.com",
+    "platform": "抖音/微博",
+    "industries": [
+      "美食",
+      "健康"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "网红餐厅",
+      "特色烧烤",
+      "节日美食"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T21:14:39",
+    "id": "ht_52525098"
+  },
+  {
+    "rank": 16,
+    "title": "奶茶新品成约会首选消费场景升级",
+    "hot_value": 267122438,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美食",
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "奶茶新品",
+      "精品咖啡",
+      "网红餐厅"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T11:14:39",
+    "id": "ht_434aa2a5"
+  },
+  {
+    "rank": 17,
+    "title": "护肤成分成年度爆款小红书刷屏",
+    "hot_value": 260034805,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "护肤成分",
+      "眼妆技巧",
+      "粉底测评"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T06:14:39",
+    "id": "ht_42f0cc90"
+  },
+  {
+    "rank": 18,
+    "title": "网红火锅成新晋网红打卡排队超火爆",
+    "hot_value": 255861034,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美食"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美食热点",
+    "sentiment": "正面",
+    "keywords": [
+      "网红火锅",
+      "夜宵美食",
+      "特色小吃"
+    ],
+    "c": [
+      "星巴克",
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-02T18:14:39",
+    "id": "ht_4e00c9c9"
+  },
+  {
+    "rank": 19,
+    "title": "节日美食成年轻人新宠市场规模破亿",
+    "hot_value": 253707032,
+    "url": "https://weibo.com",
+    "platform": "抖音/微博",
+    "industries": [
+      "美食",
+      "宠物"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "正面",
+    "keywords": [
+      "节日美食",
+      "预制菜",
+      "精品咖啡"
+    ],
+    "c": [
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-01T12:14:39",
+    "id": "ht_bf29e093"
+  },
+  {
+    "rank": 20,
+    "title": "口红试色成年度爆款小红书刷屏",
+    "hot_value": 241532421,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "口红试色",
+      "护肤攻略",
+      "眼妆技巧"
+    ],
+    "c": [
+      "兰蔻",
+      "AHC",
+      "资生堂"
+    ],
+    "created_at": "2026-04-01T04:14:39",
+    "id": "ht_d4157ed7"
+  },
+  {
+    "rank": 21,
+    "title": "预制菜刷屏社交平台网友纷纷种草",
+    "hot_value": 230839659,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美食",
+      "教育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "预制菜",
+      "夜宵美食",
+      "特色烧烤"
+    ],
+    "c": [
+      "元气森林",
+      "百威",
+      "瑞幸"
+    ],
+    "created_at": "2026-04-02T10:14:39",
+    "id": "ht_b8afbbed"
+  },
+  {
+    "rank": 22,
+    "title": "芯片新品发布消费者排队抢购",
+    "hot_value": 221846119,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "中性",
+    "keywords": [
+      "芯片",
+      "AI绘画",
+      "自动驾驶"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:14:39",
+    "id": "ht_79d60f08"
+  },
+  {
+    "rank": 23,
+    "title": "VR眼镜成新风口资本竞相布局",
+    "hot_value": 218000335,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "科技",
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "VR眼镜",
+      "智能手表",
+      "折叠屏"
+    ],
+    "c": [
+      "OPPO",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T09:14:39",
+    "id": "ht_dcfc559b"
+  },
+  {
+    "rank": 24,
+    "title": "地方美食刷屏社交平台网友纷纷种草",
+    "hot_value": 212358936,
+    "url": "https://weibo.com",
+    "platform": "抖音/微博",
+    "industries": [
+      "美食"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "地方美食",
+      "地方美食",
+      "特色小吃"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T00:14:39",
+    "id": "ht_ccca2dbe"
+  },
+  {
+    "rank": 25,
+    "title": "卸妆产品年度榜单发布这些产品上榜",
+    "hot_value": 206965694,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "美妆",
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "卸妆产品",
+      "彩妆教程",
+      "眼妆技巧"
+    ],
+    "c": [
+      "多芬"
+    ],
+    "created_at": "2026-04-01T22:14:39",
+    "id": "ht_3aa9cd0b"
+  },
+  {
+    "rank": 26,
+    "title": "口红试色新品首发秒售罄引热议",
+    "hot_value": 206899477,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "口红试色",
+      "抗衰老精华",
+      "口红试色"
+    ],
+    "c": [
+      "兰蔻"
+    ],
+    "created_at": "2026-04-01T04:14:39",
+    "id": "ht_d46f880d"
+  },
+  {
+    "rank": 27,
+    "title": "特色烧烤引发美食热潮销量暴增",
+    "hot_value": 206152436,
+    "url": "https://weibo.com",
+    "platform": "抖音/微博",
+    "industries": [
+      "美食",
+      "金融"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "正面",
+    "keywords": [
+      "特色烧烤",
+      "夜宵美食",
+      "特色烧烤"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:14:39",
+    "id": "ht_e734b88d"
+  },
+  {
+    "rank": 28,
+    "title": "新式茶饮刷屏社交平台网友纷纷种草",
+    "hot_value": 205838413,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "美食",
+      "家居"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "新式茶饮",
+      "预制菜",
+      "特色烧烤"
+    ],
+    "c": [
+      "星巴克",
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-02T08:14:39",
+    "id": "ht_f5ace535"
+  },
+  {
+    "rank": 29,
+    "title": "网红餐厅刷屏社交平台网友纷纷种草",
+    "hot_value": 204861061,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美食"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "网红餐厅",
+      "夜宵美食",
+      "网红餐厅"
+    ],
+    "c": [
+      "星巴克",
+      "百威"
+    ],
+    "created_at": "2026-04-02T18:14:39",
+    "id": "ht_978d1b80"
+  },
+  {
+    "rank": 30,
+    "title": "网红火锅创新吃法走红网友直呼绝了",
+    "hot_value": 204063068,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美食"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美食热点",
+    "sentiment": "负面",
+    "keywords": [
+      "网红火锅",
+      "网红火锅",
+      "节日美食"
+    ],
+    "c": [
+      "元气森林",
+      "喜茶",
+      "奈雪"
+    ],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_abbf6779"
+  },
+  {
+    "rank": 31,
+    "title": "美白护肤新品首发秒售罄引热议",
+    "hot_value": 197595541,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "美白护肤",
+      "口红试色",
+      "卸妆产品"
+    ],
+    "c": [
+      "资生堂"
+    ],
+    "created_at": "2026-04-01T05:14:39",
+    "id": "ht_dd7931dd"
+  },
+  {
+    "rank": 32,
+    "title": "护肤攻略测评报告出炉结果令人意外",
+    "hot_value": 188079587,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "美妆",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "护肤攻略",
+      "卸妆产品",
+      "彩妆教程"
+    ],
+    "c": [
+      "兰蔻",
+      "力士"
+    ],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_4e959c29"
+  },
+  {
+    "rank": 33,
+    "title": "彩妆教程效果对比图刷屏网友惊呆",
+    "hot_value": 186770829,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "美妆",
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "彩妆教程",
+      "面膜推荐",
+      "眼妆技巧"
+    ],
+    "c": [
+      "兰蔻",
+      "多芬",
+      "力士"
+    ],
+    "created_at": "2026-04-02T08:14:39",
+    "id": "ht_3a10d432"
+  },
+  {
+    "rank": 34,
+    "title": "口红试色成为护肤新宠专家解读",
+    "hot_value": 175471674,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美妆",
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "口红试色",
+      "抗衰老精华",
+      "彩妆教程"
+    ],
+    "c": [
+      "多芬",
+      "玉兰油",
+      "AHC"
+    ],
+    "created_at": "2026-04-02T08:14:39",
+    "id": "ht_34dbf97a"
+  },
+  {
+    "rank": 35,
+    "title": "彩妆教程新品首发秒售罄引热议",
+    "hot_value": 166079439,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "美妆",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "彩妆教程",
+      "面膜推荐",
+      "护肤攻略"
+    ],
+    "c": [
+      "玉兰油"
+    ],
+    "created_at": "2026-04-01T20:14:39",
+    "id": "ht_739d9682"
+  },
+  {
+    "rank": 36,
+    "title": "特色小吃引发美食热潮销量暴增",
+    "hot_value": 163819343,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美食",
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "特色小吃",
+      "网红火锅",
+      "网红餐厅"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T17:14:39",
+    "id": "ht_9b28bdf0"
+  },
+  {
+    "rank": 37,
+    "title": "超级计算机赛道竞争加剧格局生变",
+    "hot_value": 160976447,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "负面",
+    "keywords": [
+      "超级计算机",
+      "量子计算",
+      "超级计算机"
+    ],
+    "c": [
+      "OPPO",
+      "vivo",
+      "华为"
+    ],
+    "created_at": "2026-04-01T23:14:39",
+    "id": "ht_a5e579a7"
+  },
+  {
+    "rank": 38,
+    "title": "面膜推荐年度榜单发布这些产品上榜",
+    "hot_value": 160497685,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美妆",
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "面膜推荐",
+      "防晒必备",
+      "彩妆教程"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T18:14:39",
+    "id": "ht_4b3593f5"
+  },
+  {
+    "rank": 39,
+    "title": "网红餐厅测评对比结果出人意料",
+    "hot_value": 158359438,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "美食"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "网红餐厅",
+      "特色小吃",
+      "网红火锅"
+    ],
+    "c": [
+      "百威",
+      "星巴克",
+      "喜茶"
+    ],
+    "created_at": "2026-04-01T10:14:39",
+    "id": "ht_01491a0e"
+  },
+  {
+    "rank": 40,
+    "title": "网红餐厅创新吃法走红网友直呼绝了",
+    "hot_value": 152272153,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "美食"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "正面",
+    "keywords": [
+      "网红餐厅",
+      "特色小吃",
+      "奶茶新品"
+    ],
+    "c": [
+      "星巴克",
+      "喜茶"
+    ],
+    "created_at": "2026-04-01T06:14:39",
+    "id": "ht_62e1a364"
+  },
+  {
+    "rank": 41,
+    "title": "景点推荐成蜜月首选浪漫指数拉满",
+    "hot_value": 149475359,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游",
+      "游戏"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "旅游热点",
+    "sentiment": "中性",
+    "keywords": [
+      "景点推荐",
+      "签证攻略",
+      "出境旅游"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T23:14:39",
+    "id": "ht_f6350f9c"
+  },
+  {
+    "rank": 42,
+    "title": "签证攻略成蜜月首选浪漫指数拉满",
+    "hot_value": 147838614,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游",
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "签证攻略",
+      "机票优惠",
+      "穷游攻略"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T16:14:39",
+    "id": "ht_7c69aaa6"
+  },
+  {
+    "rank": 43,
+    "title": "奶粉选择市场乱象曝光消费者需警惕",
+    "hot_value": 146792944,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "母婴",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "负面",
+    "keywords": [
+      "奶粉选择",
+      "育儿经验",
+      "辅食添加"
+    ],
+    "c": [
+      "帮宝适",
+      "巴拉巴拉"
+    ],
+    "created_at": "2026-04-02T08:14:39",
+    "id": "ht_22786a4a"
+  },
+  {
+    "rank": 44,
+    "title": "游泳世锦赛商业价值攀升赞助商抢滩",
+    "hot_value": 146046960,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "体育",
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "游泳世锦赛",
+      "CBA总决赛",
+      "世界杯预选赛"
+    ],
+    "c": [
+      "鸿星尔克",
+      "安踏"
+    ],
+    "created_at": "2026-04-02T15:14:39",
+    "id": "ht_ef18cfb0"
+  },
+  {
+    "rank": 45,
+    "title": "蜜月旅行省钱攻略学生党必看",
+    "hot_value": 145685310,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "负面",
+    "keywords": [
+      "蜜月旅行",
+      "蜜月旅行",
+      "亲子游"
+    ],
+    "c": [
+      "汉庭",
+      "携程",
+      "飞猪"
+    ],
+    "created_at": "2026-04-02T06:14:39",
+    "id": "ht_1c958a35"
+  },
+  {
+    "rank": 46,
+    "title": "辅食添加专家建议家长纷纷点赞",
+    "hot_value": 144923641,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "母婴",
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "正面",
+    "keywords": [
+      "辅食添加",
+      "孕期保健",
+      "益智玩具"
+    ],
+    "c": [
+      "君乐宝",
+      "好奇"
+    ],
+    "created_at": "2026-04-02T22:14:39",
+    "id": "ht_9af5e34c"
+  },
+  {
+    "rank": 47,
+    "title": "乒乓球世界杯冠军诞生创造新纪录",
+    "hot_value": 143071483,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "体育",
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "乒乓球世界杯",
+      "瑜伽练习",
+      "乒乓球世界杯"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T16:14:39",
+    "id": "ht_d4ee0c6e"
+  },
+  {
+    "rank": 48,
+    "title": "清洁神器好物测评性价比超高",
+    "hot_value": 139647604,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "家居",
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "正面",
+    "keywords": [
+      "清洁神器",
+      "全屋定制",
+      "智能家居"
+    ],
+    "c": [
+      "美的",
+      "石头科技"
+    ],
+    "created_at": "2026-04-01T13:14:39",
+    "id": "ht_b25f7e4a"
+  },
+  {
+    "rank": 49,
+    "title": "民宿推荐小众路线推荐人少景美",
+    "hot_value": 137564870,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "民宿推荐",
+      "机票优惠",
+      "旅游攻略"
+    ],
+    "c": [
+      "携程",
+      "飞猪",
+      "Airbnb"
+    ],
+    "created_at": "2026-04-02T06:14:39",
+    "id": "ht_e3869ccb"
+  },
+  {
+    "rank": 50,
+    "title": "儿童安全成育儿新趋势年轻父母追捧",
+    "hot_value": 135913075,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "母婴热点",
+    "sentiment": "正面",
+    "keywords": [
+      "儿童安全",
+      "育儿经验",
+      "孕期保健"
+    ],
+    "c": [
+      "贝因美"
+    ],
+    "created_at": "2026-04-02T12:14:39",
+    "id": "ht_d68d1c08"
+  },
+  {
+    "rank": 51,
+    "title": "收纳整理好物测评性价比超高",
+    "hot_value": 135480873,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "家居热点",
+    "sentiment": "正面",
+    "keywords": [
+      "收纳整理",
+      "智能家居",
+      "清洁神器"
+    ],
+    "c": [
+      "石头科技",
+      "美的",
+      "小米"
+    ],
+    "created_at": "2026-04-02T10:14:39",
+    "id": "ht_8bcf86af"
+  },
+  {
+    "rank": 52,
+    "title": "孕期保健市场乱象曝光消费者需警惕",
+    "hot_value": 130154979,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "母婴热点",
+    "sentiment": "正面",
+    "keywords": [
+      "孕期保健",
+      "益智玩具",
+      "辅食添加"
+    ],
+    "c": [
+      "巴拉巴拉",
+      "飞鹤",
+      "帮宝适"
+    ],
+    "created_at": "2026-04-01T06:14:39",
+    "id": "ht_5ea902fd"
+  },
+  {
+    "rank": 53,
+    "title": "面膜推荐避坑指南消费者必看",
+    "hot_value": 128465392,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "面膜推荐",
+      "粉底测评",
+      "卸妆产品"
+    ],
+    "c": [
+      "多芬",
+      "兰蔻",
+      "资生堂"
+    ],
+    "created_at": "2026-04-01T06:14:39",
+    "id": "ht_3a9e28a1"
+  },
+  {
+    "rank": 54,
+    "title": "童装穿搭成育儿新趋势年轻父母追捧",
+    "hot_value": 125391680,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "母婴",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "负面",
+    "keywords": [
+      "童装穿搭",
+      "童装穿搭",
+      "益智玩具"
+    ],
+    "c": [
+      "好奇",
+      "帮宝适",
+      "君乐宝"
+    ],
+    "created_at": "2026-04-02T23:14:39",
+    "id": "ht_e2ae88c8"
+  },
+  {
+    "rank": 55,
+    "title": "客厅设计避坑指南装修必看",
+    "hot_value": 124056695,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "客厅设计",
+      "厨房用品",
+      "全屋定制"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T14:14:39",
+    "id": "ht_a58058f9"
+  },
+  {
+    "rank": 56,
+    "title": "瑜伽练习运动员表现亮眼获赞无数",
+    "hot_value": 121871803,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "瑜伽练习",
+      "乒乓球世界杯",
+      "CBA总决赛"
+    ],
+    "c": [
+      "耐克"
+    ],
+    "created_at": "2026-04-01T21:14:39",
+    "id": "ht_d25c4e27"
+  },
+  {
+    "rank": 57,
+    "title": "宝宝护理注意事项盘点安全第一",
+    "hot_value": 120255560,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "母婴热点",
+    "sentiment": "中性",
+    "keywords": [
+      "宝宝护理",
+      "亲子互动",
+      "婴儿用品"
+    ],
+    "c": [
+      "好奇",
+      "君乐宝",
+      "巴拉巴拉"
+    ],
+    "created_at": "2026-04-02T10:14:39",
+    "id": "ht_ff9da5e7"
+  },
+  {
+    "rank": 58,
+    "title": "户外登山精彩赛事球迷狂欢",
+    "hot_value": 119591210,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "户外登山",
+      "网球大满贯",
+      "NBA季后赛"
+    ],
+    "c": [
+      "李宁"
+    ],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_9fdab9ab"
+  },
+  {
+    "rank": 59,
+    "title": "收纳整理使用体验分享真实评价",
+    "hot_value": 118848323,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "家居",
+      "美妆"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "负面",
+    "keywords": [
+      "收纳整理",
+      "清洁神器",
+      "厨房用品"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T22:14:39",
+    "id": "ht_3fde0e96"
+  },
+  {
+    "rank": 60,
+    "title": "机票优惠出行新政优惠力度大",
+    "hot_value": 118683499,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "机票优惠",
+      "酒店测评",
+      "出境旅游"
+    ],
+    "c": [
+      "Airbnb",
+      "汉庭"
+    ],
+    "created_at": "2026-04-03T02:14:39",
+    "id": "ht_20118d3b"
+  },
+  {
+    "rank": 61,
+    "title": "婴儿用品避坑指南新手父母必看",
+    "hot_value": 115946655,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "正面",
+    "keywords": [
+      "婴儿用品",
+      "婴儿用品",
+      "益智玩具"
+    ],
+    "c": [
+      "飞鹤"
+    ],
+    "created_at": "2026-04-02T04:14:39",
+    "id": "ht_f2787a7c"
+  },
+  {
+    "rank": 62,
+    "title": "厨房用品成居家必备提升幸福感",
+    "hot_value": 114532324,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "家居",
+      "教育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "家居热点",
+    "sentiment": "正面",
+    "keywords": [
+      "厨房用品",
+      "软装搭配",
+      "客厅设计"
+    ],
+    "c": [
+      "美的",
+      "云鲸"
+    ],
+    "created_at": "2026-04-01T17:14:39",
+    "id": "ht_d7635e67"
+  },
+  {
+    "rank": 63,
+    "title": "宝宝护理市场乱象曝光消费者需警惕",
+    "hot_value": 114272716,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "中性",
+    "keywords": [
+      "宝宝护理",
+      "童装穿搭",
+      "育儿经验"
+    ],
+    "c": [
+      "帮宝适",
+      "贝因美",
+      "飞鹤"
+    ],
+    "created_at": "2026-04-01T04:14:39",
+    "id": "ht_95d4a377"
+  },
+  {
+    "rank": 64,
+    "title": "民宿推荐旅游季来临预订量激增",
+    "hot_value": 113615870,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "民宿推荐",
+      "亲子游",
+      "穷游攻略"
+    ],
+    "c": [
+      "携程"
+    ],
+    "created_at": "2026-04-02T07:14:39",
+    "id": "ht_96e055b8"
+  },
+  {
+    "rank": 65,
+    "title": "儿童安全专家建议家长纷纷点赞",
+    "hot_value": 112927928,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "正面",
+    "keywords": [
+      "儿童安全",
+      "婴儿用品",
+      "益智玩具"
+    ],
+    "c": [
+      "好奇",
+      "帮宝适"
+    ],
+    "created_at": "2026-04-02T20:14:39",
+    "id": "ht_19dda5f6"
+  },
+  {
+    "rank": 66,
+    "title": "客厅设计改造案例刷屏网友直呼羡慕",
+    "hot_value": 111856764,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "客厅设计",
+      "家居好物",
+      "软装搭配"
+    ],
+    "c": [
+      "美的",
+      "戴森"
+    ],
+    "created_at": "2026-04-02T12:14:39",
+    "id": "ht_b3957541"
+  },
+  {
+    "rank": 67,
+    "title": "旅游攻略旅游季来临预订量激增",
+    "hot_value": 110890657,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "中性",
+    "keywords": [
+      "旅游攻略",
+      "蜜月旅行",
+      "旅行好物"
+    ],
+    "c": [
+      "马蜂窝",
+      "携程",
+      "Airbnb"
+    ],
+    "created_at": "2026-04-01T18:14:39",
+    "id": "ht_91873500"
+  },
+  {
+    "rank": 68,
+    "title": "客厅设计选购攻略专业人士解读",
+    "hot_value": 110017738,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "负面",
+    "keywords": [
+      "客厅设计",
+      "卧室布置",
+      "阳台改造"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T03:14:39",
+    "id": "ht_7df797e8"
+  },
+  {
+    "rank": 69,
+    "title": "辅食添加好物推荐省钱又省心",
+    "hot_value": 109122503,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "母婴",
+      "教育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "母婴热点",
+    "sentiment": "正面",
+    "keywords": [
+      "辅食添加",
+      "益智玩具",
+      "亲子互动"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T16:14:39",
+    "id": "ht_1ec067da"
+  },
+  {
+    "rank": 70,
+    "title": "机票优惠旅游季来临预订量激增",
+    "hot_value": 106588434,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "机票优惠",
+      "亲子游",
+      "自驾游路线"
+    ],
+    "c": [
+      "汉庭",
+      "飞猪",
+      "携程"
+    ],
+    "created_at": "2026-04-02T21:14:39",
+    "id": "ht_65a544c1"
+  },
+  {
+    "rank": 71,
+    "title": "防晒必备成为护肤新宠专家解读",
+    "hot_value": 106204021,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "负面",
+    "keywords": [
+      "防晒必备",
+      "美白护肤",
+      "护肤成分"
+    ],
+    "c": [
+      "玉兰油",
+      "SK-II",
+      "力士"
+    ],
+    "created_at": "2026-04-02T20:14:39",
+    "id": "ht_135ae119"
+  },
+  {
+    "rank": 72,
+    "title": "早教启蒙新品测评结果出人意料",
+    "hot_value": 105339159,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "负面",
+    "keywords": [
+      "早教启蒙",
+      "辅食添加",
+      "孕期保健"
+    ],
+    "c": [
+      "好奇"
+    ],
+    "created_at": "2026-04-01T11:14:39",
+    "id": "ht_919a1b9e"
+  },
+  {
+    "rank": 73,
+    "title": "旅游攻略避坑指南游客真实体验",
+    "hot_value": 105094504,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游",
+      "游戏"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "旅游攻略",
+      "民宿推荐",
+      "旅游攻略"
+    ],
+    "c": [
+      "如家",
+      "汉庭"
+    ],
+    "created_at": "2026-04-02T05:14:39",
+    "id": "ht_8fdcbb6f"
+  },
+  {
+    "rank": 74,
+    "title": "收纳整理改造案例刷屏网友直呼羡慕",
+    "hot_value": 104344176,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "家居",
+      "宠物"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "收纳整理",
+      "客厅设计",
+      "厨房用品"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T16:14:39",
+    "id": "ht_e592785c"
+  },
+  {
+    "rank": 75,
+    "title": "厨房用品品牌对比结果出人意料",
+    "hot_value": 104247508,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "家居",
+      "体育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "厨房用品",
+      "阳台改造",
+      "清洁神器"
+    ],
+    "c": [
+      "海尔",
+      "美的",
+      "石头科技"
+    ],
+    "created_at": "2026-04-02T20:14:39",
+    "id": "ht_faabafce"
+  },
+  {
+    "rank": 76,
+    "title": "景点推荐旅游季来临预订量激增",
+    "hot_value": 103308250,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "景点推荐",
+      "穷游攻略",
+      "签证攻略"
+    ],
+    "c": [
+      "Airbnb",
+      "携程"
+    ],
+    "created_at": "2026-04-02T03:14:39",
+    "id": "ht_98b638c3"
+  },
+  {
+    "rank": 77,
+    "title": "益智玩具引发讨论家长看法不一",
+    "hot_value": 100891084,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "负面",
+    "keywords": [
+      "益智玩具",
+      "亲子互动",
+      "婴儿用品"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T04:14:39",
+    "id": "ht_ad2f1560"
+  },
+  {
+    "rank": 78,
+    "title": "儿童安全避坑指南新手父母必看",
+    "hot_value": 97357393,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "负面",
+    "keywords": [
+      "儿童安全",
+      "孕期保健",
+      "育儿经验"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T17:14:39",
+    "id": "ht_f70db6d8"
+  },
+  {
+    "rank": 79,
+    "title": "健身打卡商业价值攀升赞助商抢滩",
+    "hot_value": 96402227,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "体育",
+      "游戏"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "健身打卡",
+      "户外登山",
+      "世界杯预选赛"
+    ],
+    "c": [
+      "李宁",
+      "阿迪达斯"
+    ],
+    "created_at": "2026-04-01T18:14:39",
+    "id": "ht_5a77ebbb"
+  },
+  {
+    "rank": 80,
+    "title": "亲子游攻略分享网友直呼太实用",
+    "hot_value": 96378076,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游",
+      "金融"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "亲子游",
+      "出境旅游",
+      "亲子游"
+    ],
+    "c": [
+      "飞猪",
+      "汉庭"
+    ],
+    "created_at": "2026-04-03T03:14:39",
+    "id": "ht_def79c2e"
+  },
+  {
+    "rank": 81,
+    "title": "客厅设计使用体验分享真实评价",
+    "hot_value": 94550870,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "正面",
+    "keywords": [
+      "客厅设计",
+      "卧室布置",
+      "家居好物"
+    ],
+    "c": [
+      "小米",
+      "美的",
+      "海尔"
+    ],
+    "created_at": "2026-04-02T04:14:39",
+    "id": "ht_3aaf2f6a"
+  },
+  {
+    "rank": 82,
+    "title": "乒乓球世界杯新赛季开启期待值拉满",
+    "hot_value": 91514514,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "乒乓球世界杯",
+      "乒乓球世界杯",
+      "游泳世锦赛"
+    ],
+    "c": [
+      "耐克",
+      "李宁",
+      "安踏"
+    ],
+    "created_at": "2026-04-01T12:14:39",
+    "id": "ht_d2e2e17d"
+  },
+  {
+    "rank": 83,
+    "title": "酒店测评出行新政优惠力度大",
+    "hot_value": 91499642,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "中性",
+    "keywords": [
+      "酒店测评",
+      "自驾游路线",
+      "机票优惠"
+    ],
+    "c": [
+      "汉庭",
+      "Airbnb"
+    ],
+    "created_at": "2026-04-01T15:14:39",
+    "id": "ht_e0f61fbe"
+  },
+  {
+    "rank": 84,
+    "title": "卧室布置成为新趋势年轻人追捧",
+    "hot_value": 88333028,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "家居",
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "正面",
+    "keywords": [
+      "卧室布置",
+      "厨房用品",
+      "智能家居"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_97074267"
+  },
+  {
+    "rank": 85,
+    "title": "收纳整理避坑指南装修必看",
+    "hot_value": 86300122,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "正面",
+    "keywords": [
+      "收纳整理",
+      "卧室布置",
+      "收纳整理"
+    ],
+    "c": [
+      "美的",
+      "云鲸"
+    ],
+    "created_at": "2026-04-01T05:14:39",
+    "id": "ht_0c16e8dc"
+  },
+  {
+    "rank": 86,
+    "title": "家居好物成装修新宠设计师力荐",
+    "hot_value": 86188699,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "家居热点",
+    "sentiment": "正面",
+    "keywords": [
+      "家居好物",
+      "客厅设计",
+      "收纳整理"
+    ],
+    "c": [
+      "戴森"
+    ],
+    "created_at": "2026-04-02T01:14:39",
+    "id": "ht_47913a6a"
+  },
+  {
+    "rank": 87,
+    "title": "游泳世锦赛精彩赛事球迷狂欢",
+    "hot_value": 85103650,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "游泳世锦赛",
+      "CBA总决赛",
+      "城市马拉松"
+    ],
+    "c": [
+      "阿迪达斯"
+    ],
+    "created_at": "2026-04-01T03:14:39",
+    "id": "ht_a9e619f2"
+  },
+  {
+    "rank": 88,
+    "title": "世界杯预选赛选手创造历史全网祝贺",
+    "hot_value": 84792832,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "世界杯预选赛",
+      "世界杯预选赛",
+      "乒乓球世界杯"
+    ],
+    "c": [
+      "安踏",
+      "阿迪达斯",
+      "鸿星尔克"
+    ],
+    "created_at": "2026-04-02T18:14:39",
+    "id": "ht_6f66a9c5"
+  },
+  {
+    "rank": 89,
+    "title": "网球大满贯选手创造历史全网祝贺",
+    "hot_value": 80962345,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "网球大满贯",
+      "网球大满贯",
+      "世界杯预选赛"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T14:14:39",
+    "id": "ht_aa68f895"
+  },
+  {
+    "rank": 90,
+    "title": "签证攻略省钱攻略学生党必看",
+    "hot_value": 80341380,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "签证攻略",
+      "穷游攻略",
+      "签证攻略"
+    ],
+    "c": [
+      "马蜂窝",
+      "汉庭"
+    ],
+    "created_at": "2026-04-02T14:14:39",
+    "id": "ht_ab947c47"
+  },
+  {
+    "rank": 91,
+    "title": "独立游戏版本更新内容诚意满满",
+    "hot_value": 79990735,
+    "url": "https://weibo.com",
+    "platform": "抖音/B站",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "独立游戏",
+      "端游新作",
+      "游戏周边"
+    ],
+    "c": [
+      "米哈游",
+      "微软",
+      "网易"
+    ],
+    "created_at": "2026-04-01T07:14:39",
+    "id": "ht_24daa754"
+  },
+  {
+    "rank": 92,
+    "title": "智能驾驶销量破纪录行业格局生变",
+    "hot_value": 78303217,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "汽车"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "汽车热点",
+    "sentiment": "负面",
+    "keywords": [
+      "智能驾驶",
+      "SUV推荐",
+      "车展直击"
+    ],
+    "c": [
+      "吉利",
+      "特斯拉"
+    ],
+    "created_at": "2026-04-01T16:14:39",
+    "id": "ht_43e6f57f"
+  },
+  {
+    "rank": 93,
+    "title": "真人秀票房口碑双丰收成年度爆款",
+    "hot_value": 76415625,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐",
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "真人秀",
+      "选秀节目",
+      "新剧开播"
+    ],
+    "c": [
+      "爱奇艺",
+      "腾讯视频",
+      "优酷"
+    ],
+    "created_at": "2026-04-02T23:14:39",
+    "id": "ht_c2e4ebee"
+  },
+  {
+    "rank": 94,
+    "title": "颁奖典礼争议话题网友站队明显",
+    "hot_value": 76270716,
+    "url": "https://weibo.com",
+    "platform": "抖音/全网",
+    "industries": [
+      "娱乐",
+      "游戏"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "颁奖典礼",
+      "颁奖典礼",
+      "网红主播"
+    ],
+    "c": [
+      "爱奇艺",
+      "优酷"
+    ],
+    "created_at": "2026-04-01T10:14:39",
+    "id": "ht_af990157"
+  },
+  {
+    "rank": 95,
+    "title": "电动车对比品牌战略调整市场格局生变",
+    "hot_value": 75369568,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "汽车",
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "汽车热点",
+    "sentiment": "正面",
+    "keywords": [
+      "电动车对比",
+      "智能驾驶",
+      "用车知识"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T19:14:39",
+    "id": "ht_eb0d60ac"
+  },
+  {
+    "rank": 96,
+    "title": "医疗新知辟谣帖刷屏网友直呼涨知识",
+    "hot_value": 75212745,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "医疗新知",
+      "体检报告",
+      "养生知识"
+    ],
+    "c": [
+      "同仁堂",
+      "善存"
+    ],
+    "created_at": "2026-04-02T14:14:39",
+    "id": "ht_5593284f"
+  },
+  {
+    "rank": 97,
+    "title": "cosplay正式上线玩家排队下载",
+    "hot_value": 73445020,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "中性",
+    "keywords": [
+      "cosplay",
+      "游戏评测",
+      "游戏联动"
+    ],
+    "c": [
+      "索尼",
+      "网易",
+      "任天堂"
+    ],
+    "created_at": "2026-04-02T20:14:39",
+    "id": "ht_ec5119ef"
+  },
+  {
+    "rank": 98,
+    "title": "新能源车召回事件曝光消费者关注",
+    "hot_value": 73101316,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "汽车热点",
+    "sentiment": "正面",
+    "keywords": [
+      "新能源车",
+      "新能源车",
+      "智能驾驶"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T16:14:39",
+    "id": "ht_cf027c0a"
+  },
+  {
+    "rank": 99,
+    "title": "智能驾驶优惠政策出台购者排队",
+    "hot_value": 72902708,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "汽车",
+      "时尚"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "汽车热点",
+    "sentiment": "中性",
+    "keywords": [
+      "智能驾驶",
+      "SUV推荐",
+      "新车发布"
+    ],
+    "c": [
+      "小米"
+    ],
+    "created_at": "2026-04-03T02:14:39",
+    "id": "ht_6631a321"
+  },
+  {
+    "rank": 100,
+    "title": "游戏周边口碑炸裂成年度黑马",
+    "hot_value": 72530837,
+    "url": "https://weibo.com",
+    "platform": "抖音/B站",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "游戏周边",
+      "cosplay",
+      "手游推荐"
+    ],
+    "c": [
+      "网易"
+    ],
+    "created_at": "2026-04-01T07:14:39",
+    "id": "ht_22e2c2c8"
+  },
+  {
+    "rank": 101,
+    "title": "游戏评测争议话题玩家引热议",
+    "hot_value": 72354587,
+    "url": "https://weibo.com",
+    "platform": "抖音/B站",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "游戏评测",
+      "游戏直播",
+      "独立游戏"
+    ],
+    "c": [
+      "微软"
+    ],
+    "created_at": "2026-04-03T03:14:39",
+    "id": "ht_2a672775"
+  },
+  {
+    "rank": 102,
+    "title": "手游推荐争议话题玩家引热议",
+    "hot_value": 71431018,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "游戏",
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "中性",
+    "keywords": [
+      "手游推荐",
+      "游戏周边",
+      "游戏攻略"
+    ],
+    "c": [
+      "腾讯"
+    ],
+    "created_at": "2026-04-01T23:14:39",
+    "id": "ht_347b576c"
+  },
+  {
+    "rank": 103,
+    "title": "端游新作电竞选手转会引发热议",
+    "hot_value": 71125439,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "游戏",
+      "金融"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "端游新作",
+      "手游推荐",
+      "cosplay"
+    ],
+    "c": [
+      "网易",
+      "索尼",
+      "任天堂"
+    ],
+    "created_at": "2026-04-02T20:14:39",
+    "id": "ht_ceea7d13"
+  },
+  {
+    "rank": 104,
+    "title": "游戏攻略联动官宣粉丝狂欢",
+    "hot_value": 70567187,
+    "url": "https://weibo.com",
+    "platform": "抖音/B站",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "游戏热点",
+    "sentiment": "中性",
+    "keywords": [
+      "游戏攻略",
+      "游戏评测",
+      "独立游戏"
+    ],
+    "c": [
+      "网易",
+      "腾讯"
+    ],
+    "created_at": "2026-04-01T17:14:39",
+    "id": "ht_3e8f8632"
+  },
+  {
+    "rank": 105,
+    "title": "SUV推荐销量破纪录行业格局生变",
+    "hot_value": 69335227,
+    "url": "https://weibo.com",
+    "platform": "B站",
+    "industries": [
+      "汽车",
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "汽车热点",
+    "sentiment": "负面",
+    "keywords": [
+      "SUV推荐",
+      "用车知识",
+      "新车发布"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T12:14:39",
+    "id": "ht_72f609f3"
+  },
+  {
+    "rank": 106,
+    "title": "用车知识技术突破引领行业发展",
+    "hot_value": 67724365,
+    "url": "https://weibo.com",
+    "platform": "B站",
+    "industries": [
+      "汽车"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "汽车热点",
+    "sentiment": "负面",
+    "keywords": [
+      "用车知识",
+      "车展直击",
+      "新能源车"
+    ],
+    "c": [
+      "理想",
+      "特斯拉"
+    ],
+    "created_at": "2026-04-02T04:14:39",
+    "id": "ht_0acb3215"
+  },
+  {
+    "rank": 107,
+    "title": "健康生活方式新研究发现改变认知",
+    "hot_value": 66649686,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "健康",
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "健康热点",
+    "sentiment": "中性",
+    "keywords": [
+      "健康生活方式",
+      "养生知识",
+      "科学减肥"
+    ],
+    "c": [
+      "同仁堂"
+    ],
+    "created_at": "2026-04-01T03:14:39",
+    "id": "ht_e8259ae2"
+  },
+  {
+    "rank": 108,
+    "title": "瑜伽练习比赛结果出炉引发热议",
+    "hot_value": 65891132,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "体育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "瑜伽练习",
+      "CBA总决赛",
+      "世界杯预选赛"
+    ],
+    "c": [
+      "安踏",
+      "李宁",
+      "耐克"
+    ],
+    "created_at": "2026-04-01T18:14:39",
+    "id": "ht_e0e51581"
+  },
+  {
+    "rank": 109,
+    "title": "选秀节目官宣定档期待值拉满",
+    "hot_value": 64472355,
+    "url": "https://weibo.com",
+    "platform": "抖音/全网",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "选秀节目",
+      "选秀节目",
+      "明星动态"
+    ],
+    "c": [
+      "优酷"
+    ],
+    "created_at": "2026-04-01T04:14:39",
+    "id": "ht_0402f64c"
+  },
+  {
+    "rank": 110,
+    "title": "运动健身市场乱象曝光消费者需警惕",
+    "hot_value": 63251449,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "健康热点",
+    "sentiment": "负面",
+    "keywords": [
+      "运动健身",
+      "营养膳食",
+      "医疗新知"
+    ],
+    "c": [
+      "善存",
+      "MoveFree"
+    ],
+    "created_at": "2026-04-02T09:14:39",
+    "id": "ht_f5bd29ae"
+  },
+  {
+    "rank": 111,
+    "title": "cosplay争议话题玩家引热议",
+    "hot_value": 62094427,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "cosplay",
+      "端游新作",
+      "游戏直播"
+    ],
+    "c": [
+      "网易"
+    ],
+    "created_at": "2026-04-02T10:14:39",
+    "id": "ht_e6e60040"
+  },
+  {
+    "rank": 112,
+    "title": "综艺节目阵容官宣粉丝期待值爆表",
+    "hot_value": 61731732,
+    "url": "https://weibo.com",
+    "platform": "抖音/全网",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "综艺节目",
+      "新剧开播",
+      "短剧热播"
+    ],
+    "c": [
+      "芒果TV",
+      "优酷"
+    ],
+    "created_at": "2026-04-03T01:14:39",
+    "id": "ht_09d34682"
+  },
+  {
+    "rank": 113,
+    "title": "真人秀官宣定档期待值拉满",
+    "hot_value": 61352790,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "真人秀",
+      "新歌发布",
+      "综艺节目"
+    ],
+    "c": [
+      "爱奇艺",
+      "芒果TV"
+    ],
+    "created_at": "2026-04-01T23:14:39",
+    "id": "ht_c404754a"
+  },
+  {
+    "rank": 114,
+    "title": "健康生活方式数据报告出炉引发关注",
+    "hot_value": 60481102,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "健康",
+      "游戏"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "健康生活方式",
+      "运动健身",
+      "医疗新知"
+    ],
+    "c": [
+      "汤臣倍健",
+      "MoveFree",
+      "同仁堂"
+    ],
+    "created_at": "2026-04-01T08:14:39",
+    "id": "ht_6833716b"
+  },
+  {
+    "rank": 115,
+    "title": "端游新作口碑炸裂成年度黑马",
+    "hot_value": 59833500,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "端游新作",
+      "cosplay",
+      "主机游戏"
+    ],
+    "c": [
+      "任天堂",
+      "网易",
+      "腾讯"
+    ],
+    "created_at": "2026-04-03T01:14:39",
+    "id": "ht_bb932b68"
+  },
+  {
+    "rank": 116,
+    "title": "混动车型对比测评结果出人意料",
+    "hot_value": 58782519,
+    "url": "https://weibo.com",
+    "platform": "B站",
+    "industries": [
+      "汽车"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "汽车热点",
+    "sentiment": "中性",
+    "keywords": [
+      "混动车型",
+      "智能驾驶",
+      "改装文化"
+    ],
+    "c": [
+      "蔚来",
+      "长城",
+      "小鹏"
+    ],
+    "created_at": "2026-04-01T05:14:39",
+    "id": "ht_8c190e17"
+  },
+  {
+    "rank": 117,
+    "title": "慢病管理专家建议科学养生",
+    "hot_value": 55678283,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "健康",
+      "游戏"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "中性",
+    "keywords": [
+      "慢病管理",
+      "中医养生",
+      "心理健康"
+    ],
+    "c": [
+      "同仁堂",
+      "善存",
+      "汤臣倍健"
+    ],
+    "created_at": "2026-04-03T01:14:39",
+    "id": "ht_8166a591"
+  },
+  {
+    "rank": 118,
+    "title": "游戏评测正式上线玩家排队下载",
+    "hot_value": 54091250,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "游戏",
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "游戏评测",
+      "游戏评测",
+      "游戏周边"
+    ],
+    "c": [
+      "微软"
+    ],
+    "created_at": "2026-04-02T15:14:39",
+    "id": "ht_bdcca38d"
+  },
+  {
+    "rank": 119,
+    "title": "短剧热播阵容官宣粉丝期待值爆表",
+    "hot_value": 52833346,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "短剧热播",
+      "演唱会门票",
+      "颁奖典礼"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T08:14:39",
+    "id": "ht_7ec9b5ef"
+  },
+  {
+    "rank": 120,
+    "title": "明星动态阵容官宣粉丝期待值爆表",
+    "hot_value": 52390833,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "明星动态",
+      "娱乐八卦",
+      "综艺节目"
+    ],
+    "c": [
+      "腾讯视频",
+      "芒果TV",
+      "爱奇艺"
+    ],
+    "created_at": "2026-04-01T08:14:39",
+    "id": "ht_1327adae"
+  },
+  {
+    "rank": 121,
+    "title": "新剧开播口碑爆棚观众直呼过瘾",
+    "hot_value": 52106088,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐",
+      "美食"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "新剧开播",
+      "网红主播",
+      "新剧开播"
+    ],
+    "c": [
+      "爱奇艺",
+      "B站",
+      "芒果TV"
+    ],
+    "created_at": "2026-04-02T01:14:39",
+    "id": "ht_bdb9d9c7"
+  },
+  {
+    "rank": 122,
+    "title": "运动健身数据报告出炉引发关注",
+    "hot_value": 50681358,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "健康热点",
+    "sentiment": "负面",
+    "keywords": [
+      "运动健身",
+      "睡眠改善",
+      "营养膳食"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T20:14:39",
+    "id": "ht_167ce96d"
+  },
+  {
+    "rank": 123,
+    "title": "电动车对比正式发布市场反响热烈",
+    "hot_value": 49181422,
+    "url": "https://weibo.com",
+    "platform": "B站",
+    "industries": [
+      "汽车"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "汽车热点",
+    "sentiment": "中性",
+    "keywords": [
+      "电动车对比",
+      "改装文化",
+      "SUV推荐"
+    ],
+    "c": [
+      "长城"
+    ],
+    "created_at": "2026-04-02T23:14:39",
+    "id": "ht_f3985237"
+  },
+  {
+    "rank": 124,
+    "title": "演唱会门票票房口碑双丰收成年度爆款",
+    "hot_value": 48959337,
+    "url": "https://weibo.com",
+    "platform": "抖音/全网",
+    "industries": [
+      "娱乐",
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "演唱会门票",
+      "选秀节目",
+      "短剧热播"
+    ],
+    "c": [
+      "腾讯视频",
+      "B站",
+      "芒果TV"
+    ],
+    "created_at": "2026-04-02T08:14:39",
+    "id": "ht_2f3fa1e2"
+  },
+  {
+    "rank": 125,
+    "title": "汽车评测行业新规出台影响深远",
+    "hot_value": 48284835,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "汽车热点",
+    "sentiment": "正面",
+    "keywords": [
+      "汽车评测",
+      "新能源车",
+      "SUV推荐"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T03:14:39",
+    "id": "ht_e176721c"
+  },
+  {
+    "rank": 126,
+    "title": "健康科普辟谣帖刷屏网友直呼涨知识",
+    "hot_value": 48274538,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "健康科普",
+      "运动健身",
+      "营养膳食"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存"
+    ],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_88e6a119"
+  },
+  {
+    "rank": 127,
+    "title": "电影上映争议话题网友站队明显",
+    "hot_value": 48008685,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "娱乐",
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "电影上映",
+      "娱乐八卦",
+      "短剧热播"
+    ],
+    "c": [
+      "B站",
+      "优酷",
+      "芒果TV"
+    ],
+    "created_at": "2026-04-01T21:14:39",
+    "id": "ht_94aa2036"
+  },
+  {
+    "rank": 128,
+    "title": "轿车选购优惠政策出台购者排队",
+    "hot_value": 47634557,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "汽车",
+      "美食"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "汽车热点",
+    "sentiment": "正面",
+    "keywords": [
+      "轿车选购",
+      "用车知识",
+      "智能驾驶"
+    ],
+    "c": [
+      "理想",
+      "华为",
+      "特斯拉"
+    ],
+    "created_at": "2026-04-01T10:14:39",
+    "id": "ht_e09f2088"
+  },
+  {
+    "rank": 129,
+    "title": "颁奖典礼官宣定档期待值拉满",
+    "hot_value": 45496027,
+    "url": "https://weibo.com",
+    "platform": "抖音/全网",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "颁奖典礼",
+      "选秀节目",
+      "综艺节目"
+    ],
+    "c": [
+      "B站"
+    ],
+    "created_at": "2026-04-01T20:14:39",
+    "id": "ht_e77321a4"
+  },
+  {
+    "rank": 130,
+    "title": "健身打卡全民健身热潮运动成新风尚",
+    "hot_value": 45040406,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "体育",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "健身打卡",
+      "健身打卡",
+      "滑雪季"
+    ],
+    "c": [
+      "耐克",
+      "安踏",
+      "李宁"
+    ],
+    "created_at": "2026-04-01T20:14:39",
+    "id": "ht_10e5ce6b"
+  },
+  {
+    "rank": 131,
+    "title": "游戏联动攻略分享上分必看",
+    "hot_value": 44882280,
+    "url": "https://weibo.com",
+    "platform": "B站/微博",
+    "industries": [
+      "游戏",
+      "时尚"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "中性",
+    "keywords": [
+      "游戏联动",
+      "游戏评测",
+      "游戏周边"
+    ],
+    "c": [
+      "任天堂"
+    ],
+    "created_at": "2026-04-02T08:14:39",
+    "id": "ht_f76651d6"
+  },
+  {
+    "rank": 132,
+    "title": "乒乓球世界杯精彩赛事球迷狂欢",
+    "hot_value": 44632912,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "乒乓球世界杯",
+      "CBA总决赛",
+      "世界杯预选赛"
+    ],
+    "c": [
+      "耐克",
+      "特步"
+    ],
+    "created_at": "2026-04-01T03:14:39",
+    "id": "ht_0fb23022"
+  },
+  {
+    "rank": 133,
+    "title": "游戏联动争议话题玩家引热议",
+    "hot_value": 44008655,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "游戏",
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "负面",
+    "keywords": [
+      "游戏联动",
+      "新游上线",
+      "游戏联动"
+    ],
+    "c": [
+      "任天堂"
+    ],
+    "created_at": "2026-04-02T19:14:39",
+    "id": "ht_b1bdc84a"
+  },
+  {
+    "rank": 134,
+    "title": "选秀节目回归官宣老粉泪目",
+    "hot_value": 43991473,
+    "url": "https://weibo.com",
+    "platform": "抖音/全网",
+    "industries": [
+      "娱乐",
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "选秀节目",
+      "明星动态",
+      "电影上映"
+    ],
+    "c": [
+      "腾讯视频",
+      "优酷"
+    ],
+    "created_at": "2026-04-02T06:14:39",
+    "id": "ht_c8a04722"
+  },
+  {
+    "rank": 135,
+    "title": "乒乓球世界杯商业价值攀升赞助商抢滩",
+    "hot_value": 43925104,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "体育",
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "乒乓球世界杯",
+      "网球大满贯",
+      "羽毛球公开赛"
+    ],
+    "c": [
+      "阿迪达斯",
+      "鸿星尔克"
+    ],
+    "created_at": "2026-04-01T07:14:39",
+    "id": "ht_0ce58a1a"
+  },
+  {
+    "rank": 136,
+    "title": "慢病管理市场乱象曝光消费者需警惕",
+    "hot_value": 42104674,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "负面",
+    "keywords": [
+      "慢病管理",
+      "运动健身",
+      "健康生活方式"
+    ],
+    "c": [
+      "MoveFree",
+      "善存"
+    ],
+    "created_at": "2026-04-02T05:14:39",
+    "id": "ht_e56c3e62"
+  },
+  {
+    "rank": 137,
+    "title": "游戏攻略正式上线玩家排队下载",
+    "hot_value": 42017331,
+    "url": "https://weibo.com",
+    "platform": "抖音/B站",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "负面",
+    "keywords": [
+      "游戏攻略",
+      "电竞赛事",
+      "游戏联动"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T08:14:39",
+    "id": "ht_d6639c9a"
+  },
+  {
+    "rank": 138,
+    "title": "科学减肥成热门话题专家权威解读",
+    "hot_value": 41650716,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "健康热点",
+    "sentiment": "负面",
+    "keywords": [
+      "科学减肥",
+      "慢病管理",
+      "营养膳食"
+    ],
+    "c": [
+      "Swisse",
+      "MoveFree"
+    ],
+    "created_at": "2026-04-02T22:14:39",
+    "id": "ht_7c6784e0"
+  },
+  {
+    "rank": 139,
+    "title": "轿车选购成市场新宠销量激增",
+    "hot_value": 41138310,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "汽车",
+      "时尚"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "汽车热点",
+    "sentiment": "正面",
+    "keywords": [
+      "轿车选购",
+      "SUV推荐",
+      "新车发布"
+    ],
+    "c": [
+      "长城"
+    ],
+    "created_at": "2026-04-01T07:14:39",
+    "id": "ht_1cdf3fcb"
+  },
+  {
+    "rank": 140,
+    "title": "娱乐八卦票房口碑双丰收成年度爆款",
+    "hot_value": 40720011,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "娱乐八卦",
+      "电影上映",
+      "演唱会门票"
+    ],
+    "c": [
+      "爱奇艺",
+      "B站",
+      "优酷"
+    ],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_547d0225"
+  },
+  {
+    "rank": 141,
+    "title": "银行理财数据发布超出预期",
+    "hot_value": 39431987,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "金融",
+      "母婴"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "银行理财",
+      "数字货币",
+      "保险知识"
+    ],
+    "c": [
+      "工商银行",
+      "微信支付",
+      "建设银行"
+    ],
+    "created_at": "2026-04-03T00:14:39",
+    "id": "ht_683109df"
+  },
+  {
+    "rank": 142,
+    "title": "房产投资新规出台影响深远",
+    "hot_value": 39339234,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "金融",
+      "时尚"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "房产投资",
+      "股市行情",
+      "财经要闻"
+    ],
+    "c": [
+      "工商银行",
+      "建设银行"
+    ],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_b952860d"
+  },
+  {
+    "rank": 143,
+    "title": "基金定投行业动态格局生变",
+    "hot_value": 38805421,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "金融"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "基金定投",
+      "经济政策",
+      "贷款攻略"
+    ],
+    "c": [
+      "建设银行",
+      "微信支付",
+      "工商银行"
+    ],
+    "created_at": "2026-04-02T07:14:39",
+    "id": "ht_3df43365"
+  },
+  {
+    "rank": 144,
+    "title": "潮牌联名年度流行色发布时尚圈震动",
+    "hot_value": 38763087,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "时尚",
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚热点",
+    "sentiment": "负面",
+    "keywords": [
+      "潮牌联名",
+      "季节穿搭",
+      "配饰搭配"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T11:14:39",
+    "id": "ht_fe7d1b0f"
+  },
+  {
+    "rank": 145,
+    "title": "宠物用品避坑指南新手必看",
+    "hot_value": 37944962,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "宠物",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "宠物用品",
+      "异宠饲养",
+      "宠物医疗"
+    ],
+    "c": [
+      "皇家"
+    ],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_42385958"
+  },
+  {
+    "rank": 146,
+    "title": "留学申请行业动态市场格局生变",
+    "hot_value": 37820562,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "留学申请",
+      "语言学习",
+      "学习方法"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T02:14:39",
+    "id": "ht_443ce44b"
+  },
+  {
+    "rank": 147,
+    "title": "时装周新品发布款款售罄",
+    "hot_value": 37501812,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "时尚",
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "时尚热点",
+    "sentiment": "正面",
+    "keywords": [
+      "时装周",
+      "包包推荐",
+      "时尚潮流"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T14:14:39",
+    "id": "ht_2d5d8c82"
+  },
+  {
+    "rank": 148,
+    "title": "健康科普专家建议科学养生",
+    "hot_value": 36498174,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "健康科普",
+      "心理健康",
+      "运动健身"
+    ],
+    "c": [
+      "汤臣倍健",
+      "MoveFree",
+      "Swisse"
+    ],
+    "created_at": "2026-04-01T05:14:39",
+    "id": "ht_80dcbc6c"
+  },
+  {
+    "rank": 149,
+    "title": "街拍灵感穿搭误区你中招了吗",
+    "hot_value": 36317011,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "时尚"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚热点",
+    "sentiment": "正面",
+    "keywords": [
+      "街拍灵感",
+      "新品首发",
+      "时尚潮流"
+    ],
+    "c": [
+      "Gucci",
+      "Chanel",
+      "爱马仕"
+    ],
+    "created_at": "2026-04-02T21:14:39",
+    "id": "ht_1ff13bf1"
+  },
+  {
+    "rank": 150,
+    "title": "健康科普实用指南健康生活必看",
+    "hot_value": 36196881,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "中性",
+    "keywords": [
+      "健康科普",
+      "慢病管理",
+      "睡眠改善"
+    ],
+    "c": [
+      "汤臣倍健"
+    ],
+    "created_at": "2026-04-01T09:14:39",
+    "id": "ht_14d8bb06"
+  },
+  {
+    "rank": 151,
+    "title": "高考资讯改革新动向影响深远",
+    "hot_value": 35297601,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "教育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "高考资讯",
+      "考研攻略",
+      "学习方法"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T21:14:39",
+    "id": "ht_8f3c8bea"
+  },
+  {
+    "rank": 152,
+    "title": "宠物领养市场动态行业发展迅速",
+    "hot_value": 35285482,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "宠物领养",
+      "宠物健康",
+      "宠物训练"
+    ],
+    "c": [
+      "伟嘉",
+      "爱肯拿",
+      "渴望"
+    ],
+    "created_at": "2026-04-01T17:14:39",
+    "id": "ht_faa72d2c"
+  },
+  {
+    "rank": 153,
+    "title": "学习方法经验分享成功上岸",
+    "hot_value": 35137571,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "教育",
+      "美食"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "学习方法",
+      "学习方法",
+      "职业培训"
+    ],
+    "c": [
+      "学而思"
+    ],
+    "created_at": "2026-04-02T05:14:39",
+    "id": "ht_576dad6e"
+  },
+  {
+    "rank": 154,
+    "title": "素质教育备考攻略学子必看",
+    "hot_value": 35131619,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "素质教育",
+      "职业培训",
+      "教育政策"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T03:14:39",
+    "id": "ht_5628d717"
+  },
+  {
+    "rank": 155,
+    "title": "时尚潮流穿搭误区你中招了吗",
+    "hot_value": 35121746,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "时尚",
+      "汽车"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚热点",
+    "sentiment": "中性",
+    "keywords": [
+      "时尚潮流",
+      "穿搭分享",
+      "时装周"
+    ],
+    "c": [
+      "LV"
+    ],
+    "created_at": "2026-04-01T06:14:39",
+    "id": "ht_fcd51244"
+  },
+  {
+    "rank": 156,
+    "title": "街拍灵感年度流行色发布时尚圈震动",
+    "hot_value": 34781926,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "时尚"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚热点",
+    "sentiment": "正面",
+    "keywords": [
+      "街拍灵感",
+      "潮牌联名",
+      "珠宝首饰"
+    ],
+    "c": [
+      "LV"
+    ],
+    "created_at": "2026-04-02T19:14:39",
+    "id": "ht_71773a88"
+  },
+  {
+    "rank": 157,
+    "title": "经济政策投资机会专家解读",
+    "hot_value": 34172559,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "金融",
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "经济热点",
+    "sentiment": "中性",
+    "keywords": [
+      "经济政策",
+      "投资理财",
+      "基金定投"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T18:14:39",
+    "id": "ht_c5c4d29f"
+  },
+  {
+    "rank": 158,
+    "title": "股市行情风险提示投资者需注意",
+    "hot_value": 33984656,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "金融"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "股市行情",
+      "基金定投",
+      "理财攻略"
+    ],
+    "c": [
+      "建设银行",
+      "工商银行"
+    ],
+    "created_at": "2026-04-02T00:14:39",
+    "id": "ht_c16d89ce"
+  },
+  {
+    "rank": 159,
+    "title": "体检报告实用指南健康生活必看",
+    "hot_value": 33714875,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "健康热点",
+    "sentiment": "负面",
+    "keywords": [
+      "体检报告",
+      "医疗新知",
+      "体检报告"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T11:14:39",
+    "id": "ht_45c0ee4f"
+  },
+  {
+    "rank": 160,
+    "title": "宠物护理好物推荐毛孩子福音",
+    "hot_value": 32904626,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "宠物护理",
+      "宠物护理",
+      "宠物零食"
+    ],
+    "c": [
+      "渴望",
+      "爱肯拿"
+    ],
+    "created_at": "2026-04-03T01:14:39",
+    "id": "ht_ce7f5fde"
+  },
+  {
+    "rank": 161,
+    "title": "宠物健康避坑指南新手必看",
+    "hot_value": 31827654,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "宠物热点",
+    "sentiment": "正面",
+    "keywords": [
+      "宠物健康",
+      "宠物医疗",
+      "宠物训练"
+    ],
+    "c": [
+      "伟嘉",
+      "渴望"
+    ],
+    "created_at": "2026-04-03T03:14:39",
+    "id": "ht_7a43ff52"
+  },
+  {
+    "rank": 162,
+    "title": "宠物医疗萌化全网网友直呼太可爱",
+    "hot_value": 31785381,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "宠物",
+      "健康"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "宠物医疗",
+      "狗狗训练",
+      "宠物训练"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T04:14:39",
+    "id": "ht_575c22b9"
+  },
+  {
+    "rank": 163,
+    "title": "运动健身成健康新趋势年轻人追捧",
+    "hot_value": 31509285,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "中性",
+    "keywords": [
+      "运动健身",
+      "科学减肥",
+      "运动健身"
+    ],
+    "c": [
+      "同仁堂",
+      "汤臣倍健",
+      "MoveFree"
+    ],
+    "created_at": "2026-04-01T05:14:39",
+    "id": "ht_bf2df3ef"
+  },
+  {
+    "rank": 164,
+    "title": "宠物领养经验分享主人直呼实用",
+    "hot_value": 31485085,
+    "url": "https://weibo.com",
+    "platform": "抖音",
+    "industries": [
+      "宠物",
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "负面",
+    "keywords": [
+      "宠物领养",
+      "宠物医疗",
+      "狗狗训练"
+    ],
+    "c": [
+      "伟嘉",
+      "皇家"
+    ],
+    "created_at": "2026-04-02T02:14:39",
+    "id": "ht_bd1e3079"
+  },
+  {
+    "rank": 165,
+    "title": "珠宝首饰明星同款引发抢购潮",
+    "hot_value": 30794386,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "时尚"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "时尚热点",
+    "sentiment": "中性",
+    "keywords": [
+      "珠宝首饰",
+      "街拍灵感",
+      "潮牌联名"
+    ],
+    "c": [
+      "爱马仕",
+      "Dior"
+    ],
+    "created_at": "2026-04-01T23:14:39",
+    "id": "ht_e110f395"
+  },
+  {
+    "rank": 166,
+    "title": "家庭教育避坑指南少走弯路",
+    "hot_value": 30104547,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "家庭教育",
+      "素质教育",
+      "在线课程"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T11:14:39",
+    "id": "ht_c8c85a21"
+  },
+  {
+    "rank": 167,
+    "title": "银行理财行业动态格局生变",
+    "hot_value": 29957686,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "金融",
+      "旅游"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "银行理财",
+      "经济政策",
+      "投资理财"
+    ],
+    "c": [
+      "招商银行"
+    ],
+    "created_at": "2026-04-02T22:14:39",
+    "id": "ht_44b9b8d3"
+  },
+  {
+    "rank": 168,
+    "title": "宠物训练好物推荐毛孩子福音",
+    "hot_value": 27516976,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "宠物",
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "正面",
+    "keywords": [
+      "宠物训练",
+      "猫咪日常",
+      "萌宠日常"
+    ],
+    "c": [
+      "爱肯拿"
+    ],
+    "created_at": "2026-04-02T15:14:39",
+    "id": "ht_2f713df6"
+  },
+  {
+    "rank": 169,
+    "title": "素质教育录取结果出炉梦校捷报",
+    "hot_value": 27098352,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "素质教育",
+      "家庭教育",
+      "学习方法"
+    ],
+    "c": [
+      "作业帮",
+      "好未来",
+      "猿辅导"
+    ],
+    "created_at": "2026-04-01T08:14:39",
+    "id": "ht_d8757265"
+  },
+  {
+    "rank": 170,
+    "title": "财经要闻市场变化操作策略调整",
+    "hot_value": 26719051,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "金融",
+      "家居"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "财经要闻",
+      "财经要闻",
+      "信用卡优惠"
+    ],
+    "c": [
+      "招商银行",
+      "工商银行",
+      "建设银行"
+    ],
+    "created_at": "2026-04-02T12:14:39",
+    "id": "ht_43fcac61"
+  },
+  {
+    "rank": 171,
+    "title": "异宠饲养好物推荐毛孩子福音",
+    "hot_value": 26536653,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "异宠饲养",
+      "宠物领养",
+      "宠物零食"
+    ],
+    "c": [],
+    "created_at": "2026-04-03T01:14:39",
+    "id": "ht_a6b564d5"
+  },
+  {
+    "rank": 172,
+    "title": "新品首发平替推荐性价比超高",
+    "hot_value": 26375196,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "时尚"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚热点",
+    "sentiment": "中性",
+    "keywords": [
+      "新品首发",
+      "鞋子测评",
+      "配饰搭配"
+    ],
+    "c": [
+      "爱马仕"
+    ],
+    "created_at": "2026-04-02T00:14:39",
+    "id": "ht_b594cf9a"
+  },
+  {
+    "rank": 173,
+    "title": "宠物医疗成新晋网红粉丝破百万",
+    "hot_value": 26268155,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "宠物",
+      "时尚"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "宠物热点",
+    "sentiment": "正面",
+    "keywords": [
+      "宠物医疗",
+      "狗狗训练",
+      "宠物护理"
+    ],
+    "c": [
+      "伟嘉",
+      "宝路"
+    ],
+    "created_at": "2026-04-01T21:14:39",
+    "id": "ht_f1dea06d"
+  },
+  {
+    "rank": 174,
+    "title": "街拍灵感秀场直击设计惊艳",
+    "hot_value": 26263668,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "时尚",
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "时尚热点",
+    "sentiment": "正面",
+    "keywords": [
+      "街拍灵感",
+      "穿搭分享",
+      "时尚潮流"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T22:14:39",
+    "id": "ht_849ba658"
+  },
+  {
+    "rank": 175,
+    "title": "信用卡优惠新规出台影响深远",
+    "hot_value": 26044269,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "金融",
+      "教育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "经济热点",
+    "sentiment": "中性",
+    "keywords": [
+      "信用卡优惠",
+      "基金定投",
+      "银行理财"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T18:14:39",
+    "id": "ht_b5937cf6"
+  },
+  {
+    "rank": 176,
+    "title": "鞋子测评明星同款引发抢购潮",
+    "hot_value": 25644154,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "时尚"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "时尚热点",
+    "sentiment": "正面",
+    "keywords": [
+      "鞋子测评",
+      "穿搭分享",
+      "配饰搭配"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T08:14:39",
+    "id": "ht_d8bed5e2"
+  },
+  {
+    "rank": 177,
     "title": "张雪机车WSBK夺冠 东鹏特饮5万赢麻了",
     "hot_value": 25000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_77469cb94e404452",
     "platform": "微博/抖音",
-    "industries": ["体育", "消费"],
-    "trends": ["爆"],
+    "industries": [
+      "体育",
+      "消费"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "社会热点",
     "sentiment": "正面",
-    "keywords": ["张雪机车", "WSBK", "东鹏特饮", "红牛", "中国制造", "赛车"],
-    "c": ["百威", "元气森林", "农夫山泉"],
+    "keywords": [
+      "张雪机车",
+      "WSBK",
+      "东鹏特饮",
+      "红牛",
+      "中国制造",
+      "赛车"
+    ],
+    "c": [
+      "百威",
+      "元气森林",
+      "农夫山泉"
+    ],
     "created_at": "2026-04-01T07:56:00"
   },
   {
-    "rank": 2,
+    "rank": 178,
+    "title": "穿搭分享品牌联名款款断货",
+    "hot_value": 24898028,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "时尚"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "时尚热点",
+    "sentiment": "正面",
+    "keywords": [
+      "穿搭分享",
+      "街拍灵感",
+      "明星穿搭"
+    ],
+    "c": [
+      "Gucci"
+    ],
+    "created_at": "2026-04-02T05:14:39",
+    "id": "ht_175be5ec"
+  },
+  {
+    "rank": 179,
+    "title": "高考资讯避坑指南少走弯路",
+    "hot_value": 24878942,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "教育",
+      "宠物"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "教育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "高考资讯",
+      "在线课程",
+      "学区房"
+    ],
+    "c": [
+      "作业帮",
+      "新东方",
+      "猿辅导"
+    ],
+    "created_at": "2026-04-01T05:14:39",
+    "id": "ht_2a78f015"
+  },
+  {
+    "rank": 180,
+    "title": "狗狗训练避坑指南新手必看",
+    "hot_value": 24770038,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "狗狗训练",
+      "狗狗训练",
+      "宠物领养"
+    ],
+    "c": [
+      "伟嘉",
+      "爱肯拿",
+      "宝路"
+    ],
+    "created_at": "2026-04-02T18:14:39",
+    "id": "ht_17f76277"
+  },
+  {
+    "rank": 181,
+    "title": "留学申请避坑指南少走弯路",
+    "hot_value": 24185455,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "教育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "留学申请",
+      "学习方法",
+      "家庭教育"
+    ],
+    "c": [
+      "猿辅导",
+      "好未来"
+    ],
+    "created_at": "2026-04-01T06:14:39",
+    "id": "ht_b461c4b1"
+  },
+  {
+    "rank": 182,
+    "title": "理财攻略避坑指南投资必看",
+    "hot_value": 24177441,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "金融"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "经济热点",
+    "sentiment": "中性",
+    "keywords": [
+      "理财攻略",
+      "财经要闻",
+      "数字货币"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T03:14:39",
+    "id": "ht_0f3a724b"
+  },
+  {
+    "rank": 183,
+    "title": "宠物领养萌化全网网友直呼太可爱",
+    "hot_value": 24067231,
+    "url": "https://weibo.com",
+    "platform": "微博/抖音",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "正面",
+    "keywords": [
+      "宠物领养",
+      "宠物医疗",
+      "萌宠日常"
+    ],
+    "c": [
+      "爱肯拿"
+    ],
+    "created_at": "2026-04-02T11:14:39",
+    "id": "ht_b27b2fe2"
+  },
+  {
+    "rank": 184,
+    "title": "学区房成绩榜单发布优秀学子受赞",
+    "hot_value": 24060245,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "学区房",
+      "学区房",
+      "家庭教育"
+    ],
+    "c": [
+      "好未来"
+    ],
+    "created_at": "2026-04-01T12:14:39",
+    "id": "ht_6cc3f5e6"
+  },
+  {
+    "rank": 185,
+    "title": "课外辅导成绩榜单发布优秀学子受赞",
+    "hot_value": 22408784,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "课外辅导",
+      "考研攻略",
+      "职业培训"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T00:14:39",
+    "id": "ht_bc301ab2"
+  },
+  {
+    "rank": 186,
+    "title": "经济政策最新动态投资者关注",
+    "hot_value": 21576546,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "金融",
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "经济热点",
+    "sentiment": "中性",
+    "keywords": [
+      "经济政策",
+      "贷款攻略",
+      "经济政策"
+    ],
+    "c": [
+      "微信支付"
+    ],
+    "created_at": "2026-04-01T05:14:39",
+    "id": "ht_31ddca00"
+  },
+  {
+    "rank": 187,
+    "title": "潮牌联名秀场直击设计惊艳",
+    "hot_value": 21198867,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "时尚"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "时尚热点",
+    "sentiment": "正面",
+    "keywords": [
+      "潮牌联名",
+      "包包推荐",
+      "时尚潮流"
+    ],
+    "c": [
+      "爱马仕",
+      "Prada",
+      "LV"
+    ],
+    "created_at": "2026-04-01T19:14:39",
+    "id": "ht_1f5294db"
+  },
+  {
+    "rank": 188,
+    "title": "房产投资风险提示投资者需注意",
+    "hot_value": 21099321,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "房产投资",
+      "数字货币",
+      "理财攻略"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T11:14:39",
+    "id": "ht_9e442348"
+  },
+  {
+    "rank": 189,
+    "title": "留学申请成绩榜单发布优秀学子受赞",
+    "hot_value": 21098947,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "留学申请",
+      "考研攻略",
+      "素质教育"
+    ],
+    "c": [
+      "作业帮",
+      "好未来"
+    ],
+    "created_at": "2026-04-01T04:14:39",
+    "id": "ht_4f40bf20"
+  },
+  {
+    "rank": 190,
+    "title": "课外辅导新规解读专家权威分析",
+    "hot_value": 21089746,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "教育",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "课外辅导",
+      "素质教育",
+      "在线课程"
+    ],
+    "c": [
+      "学而思",
+      "好未来",
+      "作业帮"
+    ],
+    "created_at": "2026-04-01T20:14:39",
+    "id": "ht_8e65c80f"
+  },
+  {
+    "rank": 191,
+    "title": "高考资讯政策变化家长学生关注",
+    "hot_value": 20683263,
+    "url": "https://weibo.com",
+    "platform": "小红书",
+    "industries": [
+      "教育",
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "教育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "高考资讯",
+      "学习方法",
+      "教育政策"
+    ],
+    "c": [],
+    "created_at": "2026-04-01T18:14:39",
+    "id": "ht_2b2c4040"
+  },
+  {
+    "rank": 192,
+    "title": "时尚潮流年度流行色发布时尚圈震动",
+    "hot_value": 20538673,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "时尚"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "时尚热点",
+    "sentiment": "正面",
+    "keywords": [
+      "时尚潮流",
+      "鞋子测评",
+      "明星穿搭"
+    ],
+    "c": [
+      "Dior",
+      "爱马仕"
+    ],
+    "created_at": "2026-04-02T01:14:39",
+    "id": "ht_f9b18edd"
+  },
+  {
+    "rank": 193,
+    "title": "明星穿搭明星同款引发抢购潮",
+    "hot_value": 20465236,
+    "url": "https://weibo.com",
+    "platform": "抖音/小红书",
+    "industries": [
+      "时尚"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚热点",
+    "sentiment": "中性",
+    "keywords": [
+      "明星穿搭",
+      "时尚潮流",
+      "配饰搭配"
+    ],
+    "c": [
+      "Dior",
+      "爱马仕"
+    ],
+    "created_at": "2026-04-02T17:14:39",
+    "id": "ht_de50d6f2"
+  },
+  {
+    "rank": 194,
     "title": "物业费按平米收引热议 2026新规炸场",
     "hot_value": 18000000,
     "url": "https://www.toutiao.com/article/7617786005147353652/",
     "platform": "抖音/微博",
-    "industries": ["社会", "房产"],
-    "trends": ["爆"],
+    "industries": [
+      "社会",
+      "房产"
+    ],
+    "trends": [
+      "爆"
+    ],
     "type": "社会热点",
     "sentiment": "中性",
-    "keywords": ["物业费", "按平米收", "业主", "新规", "公平"],
+    "keywords": [
+      "物业费",
+      "按平米收",
+      "业主",
+      "新规",
+      "公平"
+    ],
     "c": [],
     "created_at": "2026-04-01T07:56:00"
   },
   {
-    "rank": 3,
+    "rank": 195,
     "title": "雅迪宣布4月1日起全品类产品涨价超300元",
     "hot_value": 15000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_53469cc5c4f31865",
     "platform": "全网",
-    "industries": ["消费", "汽车"],
-    "trends": ["热"],
+    "industries": [
+      "消费",
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "消费热点",
     "sentiment": "中性",
-    "keywords": ["雅迪", "电动车", "涨价", "300元", "调价"],
-    "c": ["小米"],
+    "keywords": [
+      "雅迪",
+      "电动车",
+      "涨价",
+      "300元",
+      "调价"
+    ],
+    "c": [
+      "小米"
+    ],
     "created_at": "2026-04-01T07:56:00"
   },
   {
-    "rank": 4,
+    "rank": 196,
     "title": "2026北京郁金香文化节4月3日启幕",
     "hot_value": 8000000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_88269cc563a73852",
     "platform": "微博/小红书",
-    "industries": ["旅游", "生活"],
-    "trends": ["热"],
+    "industries": [
+      "旅游",
+      "生活"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "活动热点",
     "sentiment": "正面",
-    "keywords": ["郁金香", "北京", "文化节", "清明", "踏青"],
-    "c": ["农夫山泉", "OATLY", "元气森林"],
+    "keywords": [
+      "郁金香",
+      "北京",
+      "文化节",
+      "清明",
+      "踏青"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY",
+      "元气森林"
+    ],
     "created_at": "2026-04-01T07:56:00"
   },
   {
-    "rank": 5,
+    "rank": 197,
     "title": "两艘国产大型邮轮同框 爱达魔都号与花城号",
     "hot_value": 6500000,
     "url": "http://weibo.com/u/2149981442/",
     "platform": "微博",
-    "industries": ["科技", "旅游"],
-    "trends": ["热"],
+    "industries": [
+      "科技",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "科技热点",
     "sentiment": "正面",
-    "keywords": ["国产邮轮", "爱达魔都号", "爱达花城号", "中国制造"],
-    "c": ["小米", "荣耀", "索尼"],
+    "keywords": [
+      "国产邮轮",
+      "爱达魔都号",
+      "爱达花城号",
+      "中国制造"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
     "created_at": "2026-04-01T07:56:00"
   },
   {
-    "rank": 6,
+    "rank": 198,
     "title": "美国星链卫星失联 太空探索技术公司调查中",
     "hot_value": 5500000,
     "url": "http://weibo.com/u/2149981442/",
     "platform": "微博",
-    "industries": ["科技"],
-    "trends": ["新"],
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
     "type": "科技热点",
     "sentiment": "中性",
-    "keywords": ["星链", "卫星失联", "SpaceX", "马斯克"],
-    "c": ["小米", "荣耀", "索尼", "罗技"],
+    "keywords": [
+      "星链",
+      "卫星失联",
+      "SpaceX",
+      "马斯克"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼",
+      "罗技"
+    ],
     "created_at": "2026-04-01T07:56:00"
   },
   {
-    "rank": 7,
+    "rank": 199,
     "title": "2026LPL第二赛段赛程公布 4月4日开赛",
     "hot_value": 5000000,
     "url": "http://weibo.com/u/5756404150",
     "platform": "微博/B站",
-    "industries": ["游戏", "电竞"],
-    "trends": ["热"],
+    "industries": [
+      "游戏",
+      "电竞"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "游戏热点",
     "sentiment": "正面",
-    "keywords": ["LPL", "英雄联盟", "电竞", "赛程"],
-    "c": ["索尼", "罗技"],
+    "keywords": [
+      "LPL",
+      "英雄联盟",
+      "电竞",
+      "赛程"
+    ],
+    "c": [
+      "索尼",
+      "罗技"
+    ],
     "created_at": "2026-04-01T07:56:00"
   },
   {
-    "rank": 8,
+    "rank": 200,
     "title": "张国荣逝世23周年 螺蛳粉哥发文纪念",
     "hot_value": 4500000,
     "url": "http://weibo.com/u/2688504554",
     "platform": "微博",
-    "industries": ["娱乐"],
-    "trends": ["热"],
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "娱乐热点",
     "sentiment": "正面",
-    "keywords": ["张国荣", "逝世23周年", "愚人节", "纪念"],
-    "c": ["AHC", "玉兰油", "力士", "多芬"],
+    "keywords": [
+      "张国荣",
+      "逝世23周年",
+      "愚人节",
+      "纪念"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士",
+      "多芬"
+    ],
     "created_at": "2026-04-01T07:56:00"
   },
   {
-    "rank": 9,
+    "rank": 201,
     "title": "神行者FREELANDER独立品牌全球首秀",
     "hot_value": 4000000,
     "url": "https://new.qq.com/rain/a/20260331A088ZQ00",
     "platform": "全网",
-    "industries": ["汽车"],
-    "trends": ["热"],
+    "industries": [
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "商业新闻",
     "sentiment": "正面",
-    "keywords": ["神行者", "FREELANDER", "奇瑞", "捷豹路虎", "豪华新能源"],
-    "c": ["小米", "荣耀", "索尼"],
+    "keywords": [
+      "神行者",
+      "FREELANDER",
+      "奇瑞",
+      "捷豹路虎",
+      "豪华新能源"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
     "created_at": "2026-04-01T07:56:00"
   },
   {
-    "rank": 10,
+    "rank": 202,
     "title": "夯爆了成2026年度顶流热词",
     "hot_value": 3800000,
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_55269b5781796652",
     "platform": "全网",
-    "industries": ["社会"],
-    "trends": ["热"],
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
     "type": "网络热梗",
     "sentiment": "正面",
-    "keywords": ["夯爆了", "热词", "夸赞", "精彩"],
+    "keywords": [
+      "夯爆了",
+      "热词",
+      "夸赞",
+      "精彩"
+    ],
     "c": [],
     "created_at": "2026-04-01T07:56:00"
   }
