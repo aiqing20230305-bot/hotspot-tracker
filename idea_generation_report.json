@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T07:17:39.947541",
+  "generated_at": "2026-04-03T01:09:48.965016",
   "stats": {
     "total": 160,
     "by_client": {
@@ -25,13 +25,13 @@
       "农夫山泉": 8
     },
     "by_quality": {
-      "B级-良好": 157,
-      "A级-优质": 3
+      "B级-良好": 158,
+      "A级-优质": 2
     }
   },
   "sample_ideas": [
     {
-      "id": "荣耀_20260402071739_45abdc2d",
+      "id": "荣耀_20260403010948_1a2e6acf",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -45,26 +45,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《从创意角度解读荣耀手机如何借势微信iOS端灰度测试折叠发图功能》",
+      "title": "《从创意角度解读荣耀手机如何借势OpenAI完成1220亿美元融资 估值》",
       "platform": "B站",
       "angle": "创意借势",
-      "hot_topic": "微信iOS端灰度测试折叠发图功能",
-      "hot_topic_id": "ht_2",
+      "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+      "hot_topic_id": "ht_1",
       "heat": "热搜第一",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀手机",
       "keywords": [
-        "微信",
-        "折叠发图",
-        "iOS",
-        "新功能",
-        "社交"
+        "OpenAI",
+        "融资",
+        "AI",
+        "硅谷",
+        "人工智能"
       ],
-      "quality_score": 0.719,
+      "quality_score": 0.698,
       "quality_level": "B级-良好",
-      "engagement_estimate": "60340+",
+      "engagement_estimate": "56376+",
       "status": "pending",
-      "created_at": "2026-04-02T07:17:39.889417",
+      "created_at": "2026-04-03T01:09:48.892913",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -76,7 +76,7 @@
       }
     },
     {
-      "id": "荣耀_20260402071739_ff850795",
+      "id": "荣耀_20260403010948_0c9ef24e",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -90,26 +90,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《荣耀平板借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+      "title": "《从创意角度解读荣耀平板如何借势SpaceX秘密提交IPO申请 马斯克太》",
       "platform": "B站",
       "angle": "创意借势",
-      "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
-      "hot_topic_id": "ht_4",
+      "hot_topic": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
+      "hot_topic_id": "ht_7",
       "heat": "热搜前三",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀平板",
       "keywords": [
-        "抖音热搜",
-        "足球",
-        "AI",
-        "银发经济",
-        "航空"
+        "SpaceX",
+        "IPO",
+        "马斯克",
+        "太空探索",
+        "航天"
       ],
-      "quality_score": 0.719,
+      "quality_score": 0.694,
       "quality_level": "B级-良好",
-      "engagement_estimate": "50954+",
+      "engagement_estimate": "49584+",
       "status": "pending",
-      "created_at": "2026-04-02T07:17:39.889769",
+      "created_at": "2026-04-03T01:09:48.893989",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -121,7 +121,7 @@
       }
     },
     {
-      "id": "荣耀_20260402071739_899d6cde",
+      "id": "荣耀_20260403010948_3a640b8f",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -135,26 +135,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《荣耀手表借势伊朗海军司令遇难 美方威胁彻底摧毁能源设的创意玩法》",
+      "title": "《深度分析SpaceX秘密提交IPO申请 马斯克太对3C数码的影响及荣耀手表的机遇》",
       "platform": "B站",
-      "angle": "创意借势",
-      "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
-      "hot_topic_id": "ht_9",
-      "heat": "高热",
+      "angle": "趋势分析",
+      "hot_topic": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
+      "hot_topic_id": "ht_7",
+      "heat": "热搜前三",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀手表",
       "keywords": [
-        "伊朗",
-        "海军司令",
-        "霍尔木兹海峡",
-        "能源",
-        "中东局势"
+        "SpaceX",
+        "IPO",
+        "马斯克",
+        "太空探索",
+        "航天"
       ],
-      "quality_score": 0.698,
+      "quality_score": 0.694,
       "quality_level": "B级-良好",
-      "engagement_estimate": "15813+",
+      "engagement_estimate": "49584+",
       "status": "pending",
-      "created_at": "2026-04-02T07:17:39.890032",
+      "created_at": "2026-04-03T01:09:48.894259",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": "荣耀_20260402071739_554fbea4",
+      "id": "荣耀_20260403010948_bee89c8b",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -180,71 +180,71 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《伊朗海军司令遇难 美方威胁彻底摧毁能源设趋势下荣耀折叠屏的机会》",
-      "platform": "B站",
-      "angle": "趋势分析",
-      "hot_topic": "伊朗海军司令遇难 美方威胁彻底摧毁能源设施",
-      "hot_topic_id": "ht_9",
-      "heat": "高热",
-      "trend": "🔥🔥🔥 爆发式增长",
-      "product": "荣耀折叠屏",
-      "keywords": [
-        "伊朗",
-        "海军司令",
-        "霍尔木兹海峡",
-        "能源",
-        "中东局势"
-      ],
-      "quality_score": 0.698,
-      "quality_level": "B级-良好",
-      "engagement_estimate": "15813+",
-      "status": "pending",
-      "created_at": "2026-04-02T07:17:39.890260",
-      "profile_tags": {
-        "tone": "科技感",
-        "target": "年轻科技爱好者",
-        "selling_points": [
-          "创新",
-          "性能",
-          "性价比"
-        ]
-      }
-    },
-    {
-      "id": "荣耀_20260402071739_d69f61fd",
-      "client": {
-        "brand": "荣耀",
-        "industry": "3C数码",
-        "products": [
-          "荣耀手机",
-          "荣耀平板",
-          "荣耀手表",
-          "荣耀折叠屏",
-          "荣耀笔记本",
-          "荣耀耳机",
-          "荣耀智慧屏"
-        ]
-      },
-      "title": "《从创意角度解读荣耀笔记本如何借势世界数据组织在北京成立 总部设于中国》",
+      "title": "《从创意角度解读荣耀折叠屏如何借势AI生成内容监管新规出台 平台责任明确》",
       "platform": "B站",
       "angle": "创意借势",
-      "hot_topic": "世界数据组织在北京成立 总部设于中国",
-      "hot_topic_id": "ht_16",
-      "heat": "温热",
-      "trend": "🔥 新晋热点",
+      "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+      "hot_topic_id": "ht_8",
+      "heat": "热搜前三",
+      "trend": "🔥🔥 快速上升",
+      "product": "荣耀折叠屏",
+      "keywords": [
+        "AI",
+        "AIGC",
+        "监管",
+        "内容",
+        "法规"
+      ],
+      "quality_score": 0.721,
+      "quality_level": "B级-良好",
+      "engagement_estimate": "47008+",
+      "status": "pending",
+      "created_at": "2026-04-03T01:09:48.894529",
+      "profile_tags": {
+        "tone": "科技感",
+        "target": "年轻科技爱好者",
+        "selling_points": [
+          "创新",
+          "性能",
+          "性价比"
+        ]
+      }
+    },
+    {
+      "id": "荣耀_20260403010948_18661ba2",
+      "client": {
+        "brand": "荣耀",
+        "industry": "3C数码",
+        "products": [
+          "荣耀手机",
+          "荣耀平板",
+          "荣耀手表",
+          "荣耀折叠屏",
+          "荣耀笔记本",
+          "荣耀耳机",
+          "荣耀智慧屏"
+        ]
+      },
+      "title": "《从创意角度解读荣耀笔记本如何借势OpenAI宣布放弃视频生成工具Sora》",
+      "platform": "B站",
+      "angle": "创意借势",
+      "hot_topic": "OpenAI宣布放弃视频生成工具Sora 成本过高成主因",
+      "hot_topic_id": "ht_11",
+      "heat": "热搜前三",
+      "trend": "🔥🔥 快速上升",
       "product": "荣耀笔记本",
       "keywords": [
-        "世界数据组织",
-        "北京",
-        "数据治理",
-        "数字经济",
-        "国际合作"
+        "OpenAI",
+        "Sora",
+        "视频生成",
+        "AI工具",
+        "成本"
       ],
-      "quality_score": 0.698,
+      "quality_score": 0.699,
       "quality_level": "B级-良好",
-      "engagement_estimate": "5930+",
+      "engagement_estimate": "44437+",
       "status": "pending",
-      "created_at": "2026-04-02T07:17:39.890485",
+      "created_at": "2026-04-03T01:09:48.895054",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -256,7 +256,7 @@
       }
     },
     {
-      "id": "荣耀_20260402071739_26263a8f",
+      "id": "荣耀_20260403010948_25e98004",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -270,26 +270,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《深度分析世界数据组织在北京成立 总部设于中国对3C数码的影响及荣耀耳机的机遇》",
+      "title": "《深度分析OpenAI宣布放弃视频生成工具Sora对3C数码的影响及荣耀耳机的机遇》",
       "platform": "B站",
       "angle": "趋势分析",
-      "hot_topic": "世界数据组织在北京成立 总部设于中国",
-      "hot_topic_id": "ht_16",
-      "heat": "温热",
-      "trend": "🔥 新晋热点",
+      "hot_topic": "OpenAI宣布放弃视频生成工具Sora 成本过高成主因",
+      "hot_topic_id": "ht_11",
+      "heat": "热搜前三",
+      "trend": "🔥🔥 快速上升",
       "product": "荣耀耳机",
       "keywords": [
-        "世界数据组织",
-        "北京",
-        "数据治理",
-        "数字经济",
-        "国际合作"
+        "OpenAI",
+        "Sora",
+        "视频生成",
+        "AI工具",
+        "成本"
       ],
-      "quality_score": 0.698,
+      "quality_score": 0.699,
       "quality_level": "B级-良好",
-      "engagement_estimate": "5930+",
+      "engagement_estimate": "44437+",
       "status": "pending",
-      "created_at": "2026-04-02T07:17:39.890699",
+      "created_at": "2026-04-03T01:09:48.895325",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -301,7 +301,7 @@
       }
     },
     {
-      "id": "荣耀_20260402071739_b73360bc",
+      "id": "荣耀_20260403010948_e925ad7e",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -315,26 +315,25 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《4月1日起全国严查后排未系安全带 违规将：荣耀智慧屏如何传递温度》",
+      "title": "《从创意角度解读荣耀智慧屏如何借势中国空间站完成新一轮太空实验 航天员创造》",
       "platform": "B站",
-      "angle": "情感共鸣",
-      "hot_topic": "4月1日起全国严查后排未系安全带 违规将处罚",
-      "hot_topic_id": "ht_28",
-      "heat": "温热",
-      "trend": "🔥 新晋热点",
+      "angle": "创意借势",
+      "hot_topic": "中国空间站完成新一轮太空实验 航天员创造新纪录",
+      "hot_topic_id": "ht_19",
+      "heat": "热搜前十",
+      "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀智慧屏",
       "keywords": [
-        "安全带",
-        "后排乘客",
-        "交通法规",
-        "执法",
-        "4月1日"
+        "空间站",
+        "航天员",
+        "太空实验",
+        "中国航天"
       ],
-      "quality_score": 0.714,
+      "quality_score": 0.692,
       "quality_level": "B级-良好",
-      "engagement_estimate": "2937+",
+      "engagement_estimate": "36657+",
       "status": "pending",
-      "created_at": "2026-04-02T07:17:39.890914",
+      "created_at": "2026-04-03T01:09:48.895598",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -346,7 +345,7 @@
       }
     },
     {
-      "id": "荣耀_20260402071739_0a763fbe",
+      "id": "荣耀_20260403010948_55d6d5dc",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -360,26 +359,25 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《4月1日起全国严查后排未系安全带 违规将背后的社会趋势，荣耀手机如何响应》",
+      "title": "《深度分析中国空间站完成新一轮太空实验 航天员创造对3C数码的影响及荣耀手机的机遇》",
       "platform": "B站",
       "angle": "趋势分析",
-      "hot_topic": "4月1日起全国严查后排未系安全带 违规将处罚",
-      "hot_topic_id": "ht_28",
-      "heat": "温热",
-      "trend": "🔥 新晋热点",
+      "hot_topic": "中国空间站完成新一轮太空实验 航天员创造新纪录",
+      "hot_topic_id": "ht_19",
+      "heat": "热搜前十",
+      "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀手机",
       "keywords": [
-        "安全带",
-        "后排乘客",
-        "交通法规",
-        "执法",
-        "4月1日"
+        "空间站",
+        "航天员",
+        "太空实验",
+        "中国航天"
       ],
-      "quality_score": 0.714,
+      "quality_score": 0.692,
       "quality_level": "B级-良好",
-      "engagement_estimate": "2937+",
+      "engagement_estimate": "36657+",
       "status": "pending",
-      "created_at": "2026-04-02T07:17:39.891128",
+      "created_at": "2026-04-03T01:09:48.895869",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -391,7 +389,7 @@
       }
     },
     {
-      "id": "罗技_20260402071739_efa43f8c",
+      "id": "罗技_20260403010948_6dec6820",
       "client": {
         "brand": "罗技",
         "industry": "3C数码",
@@ -405,26 +403,26 @@
           "罗技会议设备"
         ]
       },
-      "title": "《从创意角度解读罗技鼠标如何借势微信iOS端灰度测试折叠发图功能》",
+      "title": "《从创意角度解读罗技鼠标如何借势Anthropic意外泄露51万行核心代》",
       "platform": "B站",
       "angle": "创意借势",
-      "hot_topic": "微信iOS端灰度测试折叠发图功能",
-      "hot_topic_id": "ht_2",
+      "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+      "hot_topic_id": "ht_3",
       "heat": "热搜第一",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "罗技鼠标",
       "keywords": [
-        "微信",
-        "折叠发图",
-        "iOS",
-        "新功能",
-        "社交"
+        "Anthropic",
+        "代码泄露",
+        "AI安全",
+        "Claude",
+        "网络安全"
       ],
-      "quality_score": 0.719,
+      "quality_score": 0.696,
       "quality_level": "B级-良好",
-      "engagement_estimate": "54854+",
+      "engagement_estimate": "48881+",
       "status": "pending",
-      "created_at": "2026-04-02T07:17:39.891363",
+      "created_at": "2026-04-03T01:09:48.896207",
       "profile_tags": {
         "tone": "专业",
         "target": "办公/游戏人群",
@@ -436,7 +434,7 @@
       }
     },
     {
-      "id": "罗技_20260402071739_67b02ead",
+      "id": "罗技_20260403010948_e506a762",
       "client": {
         "brand": "罗技",
         "industry": "3C数码",
@@ -450,26 +448,26 @@
           "罗技会议设备"
         ]
       },
-      "title": "《从创意角度解读罗技键盘如何借势B站首届AI创作大赛收官 8300份作品》",
+      "title": "《深度分析Anthropic意外泄露51万行核心代对3C数码的影响及罗技键盘的机遇》",
       "platform": "B站",
-      "angle": "创意借势",
-      "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
-      "hot_topic_id": "ht_7",
-      "heat": "热搜前三",
-      "trend": "🔥🔥 快速上升",
+      "angle": "趋势分析",
+      "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+      "hot_topic_id": "ht_3",
+      "heat": "热搜第一",
+      "trend": "🔥🔥🔥 爆发式增长",
       "product": "罗技键盘",
       "keywords": [
-        "B站",
-        "AI创作",
-        "updream",
-        "AI动画",
-        "创作者"
+        "Anthropic",
+        "代码泄露",
+        "AI安全",
+        "Claude",
+        "网络安全"
       ],
-      "quality_score": 0.731,
+      "quality_score": 0.696,
       "quality_level": "B级-良好",
-      "engagement_estimate": "36929+",
+      "engagement_estimate": "48881+",
       "status": "pending",
-      "created_at": "2026-04-02T07:17:39.891595",
+      "created_at": "2026-04-03T01:09:48.896476",
       "profile_tags": {
         "tone": "专业",
         "target": "办公/游戏人群",
@@ -481,5 +479,5 @@
       }
     }
   ],
-  "hot_topics_used": 30
+  "hot_topics_used": 35
 }
