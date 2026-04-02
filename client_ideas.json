@@ -1320,39 +1320,6 @@
     "created_at": "2026-04-03T01:45:40"
   },
   {
-    "id": "善存_20260403014540_6289",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养",
-        "善存钙片"
-      ]
-    },
-    "title": "《善存复合营养借势清明节后首个工作日 打?人状态引热议的创意借势玩法》",
-    "platform": "小红书",
-    "angle": "创意借势",
-    "hot_topic": "清明节后首个工作日 打?人状态引热议",
-    "hot_topic_id": "ht_new_2",
-    "heat": "热搜前十",
-    "trend": "热",
-    "product": "善存复合营养",
-    "keywords": [
-      "清明节",
-      "工作日",
-      "打工人",
-      "状态",
-      "假期综合症"
-    ],
-    "quality_score": 0.696,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "56673+",
-    "status": "pending",
-    "created_at": "2026-04-03T01:45:40"
-  },
-  {
     "id": "善存_20260403014540_2456",
     "client": {
       "brand": "善存",
@@ -1745,39 +1712,6 @@
     "quality_score": 0.761,
     "quality_level": "B级-良好",
     "engagement_estimate": "31500+",
-    "status": "pending",
-    "created_at": "2026-04-03T01:45:40"
-  },
-  {
-    "id": "舒适_20260403014540_5674",
-    "client": {
-      "brand": "舒适",
-      "industry": "日用",
-      "products": [
-        "舒适纸巾",
-        "舒适卷纸",
-        "舒适湿巾",
-        "舒适抽纸"
-      ]
-    },
-    "title": "《舒适抽纸借势露营季来临 户外装备销量激增300%的创意借势玩法》",
-    "platform": "B站",
-    "angle": "创意借势",
-    "hot_topic": "露营季来临 户外装备销量激增300%",
-    "hot_topic_id": "ht_new_6",
-    "heat": "热搜前十",
-    "trend": "热",
-    "product": "舒适抽纸",
-    "keywords": [
-      "露营",
-      "户外装备",
-      "春游",
-      "野营",
-      "销量"
-    ],
-    "quality_score": 0.754,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "46349+",
     "status": "pending",
     "created_at": "2026-04-03T01:45:40"
   },
@@ -22075,5 +22009,2696 @@
     "keywords": [
       "王者荣耀世界"
     ]
+  },
+  {
+    "id": "荣耀_aa75de01",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀智慧屏借势OpenAI完成1220亿美元融资 估值的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+    "hot_topic_id": "ht_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀智慧屏",
+    "keywords": [
+      "OpenAI",
+      "融资",
+      "AI",
+      "硅谷",
+      "人工智能"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42780+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "荣耀_40767594",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀智慧屏借势Anthropic意外泄露51万行核心代的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+    "hot_topic_id": "ht_3",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀智慧屏",
+    "keywords": [
+      "Anthropic",
+      "代码泄露",
+      "AI安全",
+      "Claude",
+      "网络安全"
+    ],
+    "quality_score": 0.98,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "40870+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "荣耀_411a4495",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀折叠屏借势AI绘画Midjourney V7发布 的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "AI绘画Midjourney V7发布 画质提升惊艳全网",
+    "hot_topic_id": "ht_new_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀折叠屏",
+    "keywords": [
+      "AI绘画",
+      "Midjourney",
+      "V7",
+      "画质",
+      "AI创作"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "39500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "荣耀_ebfa5724",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀折叠屏借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_5",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀折叠屏",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.96,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "荣耀_f9af72ce",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀折叠屏借势SpaceX秘密提交IPO申请 马斯克太的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
+    "hot_topic_id": "ht_7",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀折叠屏",
+    "keywords": [
+      "SpaceX",
+      "IPO",
+      "马斯克",
+      "太空探索",
+      "航天"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "37752+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "罗技_7e612b7c",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技会议设备借势OpenAI完成1220亿美元融资 估值的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+    "hot_topic_id": "ht_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技会议设备",
+    "keywords": [
+      "OpenAI",
+      "融资",
+      "AI",
+      "硅谷",
+      "人工智能"
+    ],
+    "quality_score": 0.74,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42780+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "罗技_ff081e89",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技会议设备借势Anthropic意外泄露51万行核心代的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+    "hot_topic_id": "ht_3",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技会议设备",
+    "keywords": [
+      "Anthropic",
+      "代码泄露",
+      "AI安全",
+      "Claude",
+      "网络安全"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "40870+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "罗技_4d0380ab",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技摄像头借势AI绘画Midjourney V7发布 的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "AI绘画Midjourney V7发布 画质提升惊艳全网",
+    "hot_topic_id": "ht_new_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技摄像头",
+    "keywords": [
+      "AI绘画",
+      "Midjourney",
+      "V7",
+      "画质",
+      "AI创作"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "39500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "罗技_9c9a196c",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技摄像头借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_5",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技摄像头",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "罗技_a93687fe",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技摄像头借势SpaceX秘密提交IPO申请 马斯克太的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
+    "hot_topic_id": "ht_7",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技摄像头",
+    "keywords": [
+      "SpaceX",
+      "IPO",
+      "马斯克",
+      "太空探索",
+      "航天"
+    ],
+    "quality_score": 0.73,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "37752+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "小米_4ae37817",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米手环借势OpenAI完成1220亿美元融资 估值的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+    "hot_topic_id": "ht_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米手环",
+    "keywords": [
+      "OpenAI",
+      "融资",
+      "AI",
+      "硅谷",
+      "人工智能"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42780+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "小米_85dd0a5e",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米耳机借势Anthropic意外泄露51万行核心代的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+    "hot_topic_id": "ht_3",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米耳机",
+    "keywords": [
+      "Anthropic",
+      "代码泄露",
+      "AI安全",
+      "Claude",
+      "网络安全"
+    ],
+    "quality_score": 0.97,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "40870+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "小米_bcef3b3b",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米手环借势AI绘画Midjourney V7发布 的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "AI绘画Midjourney V7发布 画质提升惊艳全网",
+    "hot_topic_id": "ht_new_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米手环",
+    "keywords": [
+      "AI绘画",
+      "Midjourney",
+      "V7",
+      "画质",
+      "AI创作"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "39500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "小米_fde8d58f",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米手机借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_5",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米手机",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "小米_ebbb0ff1",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米耳机借势SpaceX秘密提交IPO申请 马斯克太的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
+    "hot_topic_id": "ht_7",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米耳机",
+    "keywords": [
+      "SpaceX",
+      "IPO",
+      "马斯克",
+      "太空探索",
+      "航天"
+    ],
+    "quality_score": 0.81,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "37752+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "索尼_d09a411e",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼播放器借势OpenAI完成1220亿美元融资 估值的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+    "hot_topic_id": "ht_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼播放器",
+    "keywords": [
+      "OpenAI",
+      "融资",
+      "AI",
+      "硅谷",
+      "人工智能"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42780+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "索尼_2d7c5e13",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼播放器借势Anthropic意外泄露51万行核心代的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+    "hot_topic_id": "ht_3",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼播放器",
+    "keywords": [
+      "Anthropic",
+      "代码泄露",
+      "AI安全",
+      "Claude",
+      "网络安全"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "40870+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "索尼_6754a979",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼电视借势AI绘画Midjourney V7发布 的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "AI绘画Midjourney V7发布 画质提升惊艳全网",
+    "hot_topic_id": "ht_new_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼电视",
+    "keywords": [
+      "AI绘画",
+      "Midjourney",
+      "V7",
+      "画质",
+      "AI创作"
+    ],
+    "quality_score": 0.81,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "39500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "索尼_126cc285",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼电视借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_5",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼电视",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "索尼_9cc8d9ec",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼电视借势SpaceX秘密提交IPO申请 马斯克太的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
+    "hot_topic_id": "ht_7",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼电视",
+    "keywords": [
+      "SpaceX",
+      "IPO",
+      "马斯克",
+      "太空探索",
+      "航天"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "37752+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "AHC_e85e0b82",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC面膜借势站姐愚人节互换门面引爆热搜 橹穆CP话题的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "站姐愚人节互换门面引爆热搜 橹穆CP话题阅读量破2.4亿",
+    "hot_topic_id": "ht_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC面膜",
+    "keywords": [
+      "站姐",
+      "愚人节",
+      "橹穆",
+      "CP",
+      "热搜"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "39638+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "AHC_5ad3d80d",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC水乳借势春季护肤攻略 美白精华测评成小红书热门的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤攻略 美白精华测评成小红书热门",
+    "hot_topic_id": "ht_new_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC水乳",
+    "keywords": [
+      "春季护肤",
+      "美白精华",
+      "测评",
+      "护肤攻略",
+      "换季"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "AHC_b61b55e2",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC卸妆水借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "AHC卸妆水",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.93,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "AHC_6bb8d71c",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC眼霜借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "AHC眼霜",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "多芬_9816cc3c",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬多芬洗发水借势春季护肤攻略 美白精华测评成小红书热门的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤攻略 美白精华测评成小红书热门",
+    "hot_topic_id": "ht_new_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬洗发水",
+    "keywords": [
+      "春季护肤",
+      "美白精华",
+      "测评",
+      "护肤攻略",
+      "换季"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "多芬_53cb011b",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬多芬香皂借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "多芬香皂",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.93,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "多芬_cf8bd448",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬多芬沐浴露借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "多芬沐浴露",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.79,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "力士_2fd3aeb4",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士力士香皂借势春季护肤攻略 美白精华测评成小红书热门的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤攻略 美白精华测评成小红书热门",
+    "hot_topic_id": "ht_new_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士香皂",
+    "keywords": [
+      "春季护肤",
+      "美白精华",
+      "测评",
+      "护肤攻略",
+      "换季"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "力士_5b2725ca",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士力士护发素借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "力士护发素",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "力士_ec5dd232",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士力士沐浴露借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "力士沐浴露",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "清扬_348ba3d3",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清扬清扬头皮护理借势春季护肤攻略 美白精华测评成小红书热门的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤攻略 美白精华测评成小红书热门",
+    "hot_topic_id": "ht_new_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬头皮护理",
+    "keywords": [
+      "春季护肤",
+      "美白精华",
+      "测评",
+      "护肤攻略",
+      "换季"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "清扬_d4fcc231",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清扬清扬洗发水借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "清扬洗发水",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "清扬_43a34c76",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清扬清扬控油洗发水借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "清扬控油洗发水",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.93,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "玉兰油_b03a8dbe",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油眼霜借势站姐愚人节互换门面引爆热搜 橹穆CP话题的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "站姐愚人节互换门面引爆热搜 橹穆CP话题阅读量破2.4亿",
+    "hot_topic_id": "ht_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油眼霜",
+    "keywords": [
+      "站姐",
+      "愚人节",
+      "橹穆",
+      "CP",
+      "热搜"
+    ],
+    "quality_score": 0.81,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "39638+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "玉兰油_57c9c0bb",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油面霜借势春季护肤攻略 美白精华测评成小红书热门的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤攻略 美白精华测评成小红书热门",
+    "hot_topic_id": "ht_new_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油面霜",
+    "keywords": [
+      "春季护肤",
+      "美白精华",
+      "测评",
+      "护肤攻略",
+      "换季"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "玉兰油_d80437be",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油精华借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "玉兰油精华",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.76,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "玉兰油_3270b5e0",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油精油借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "玉兰油精油",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "汤臣倍健_dfcb5e8f",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健益生菌借势清明节后首个工作日 打?人状态引热议的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明节后首个工作日 打?人状态引热议",
+    "hot_topic_id": "ht_new_2",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健益生菌",
+    "keywords": [
+      "清明节",
+      "工作日",
+      "打工人",
+      "状态",
+      "假期综合症"
+    ],
+    "quality_score": 0.94,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "汤臣倍健_93028a44",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健钙片借势孙颖莎世界杯3-0晋级 开启争冠之路的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "孙颖莎世界杯3-0晋级 开启争冠之路",
+    "hot_topic_id": "ht_96d57770",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健钙片",
+    "keywords": [
+      "孙颖莎",
+      "乒乓球",
+      "世界杯",
+      "3-0",
+      "晋级"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "汤臣倍健_44562046",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健维生素借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健维生素",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "汤臣倍健_bb31e722",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健益生菌借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健益生菌",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "汤臣倍健_ce48b6f4",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健钙片借势健身季来临 帕梅拉课程再掀热潮的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "健身季来临 帕梅拉课程再掀热潮",
+    "hot_topic_id": "ht_new_10",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健钙片",
+    "keywords": [
+      "健身",
+      "帕梅拉",
+      "运动",
+      "减肥",
+      "健康生活"
+    ],
+    "quality_score": 0.93,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "29500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "善存_d0aa3f82",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存善存锌片借势清明节后首个工作日 打?人状态引热议的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明节后首个工作日 打?人状态引热议",
+    "hot_topic_id": "ht_new_2",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存锌片",
+    "keywords": [
+      "清明节",
+      "工作日",
+      "打工人",
+      "状态",
+      "假期综合症"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "善存_695a58e7",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存善存维生素借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存维生素",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "善存_42ecea7d",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存善存锌片借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存锌片",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "善存_066e2a02",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存善存矿物质借势健身季来临 帕梅拉课程再掀热潮的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "健身季来临 帕梅拉课程再掀热潮",
+    "hot_topic_id": "ht_new_10",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存矿物质",
+    "keywords": [
+      "健身",
+      "帕梅拉",
+      "运动",
+      "减肥",
+      "健康生活"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "29500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "HC_07e1255b",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《HCHC护肤套装借势春季护肤攻略 美白精华测评成小红书热门的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季护肤攻略 美白精华测评成小红书热门",
+    "hot_topic_id": "ht_new_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC护肤套装",
+    "keywords": [
+      "春季护肤",
+      "美白精华",
+      "测评",
+      "护肤攻略",
+      "换季"
+    ],
+    "quality_score": 0.74,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "HC_5186298f",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《HCHC面膜借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "HC面膜",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "HC_35d2dc58",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《HCHC面霜借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "HC面霜",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.99,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "威猛先生_2566a2cb",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生厨房清洁借势清明假期赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_9",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生厨房清洁",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "34378+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "威猛先生_8360b15f",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生消毒液借势健身季来临 帕梅拉课程再掀热潮的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "健身季来临 帕梅拉课程再掀热潮",
+    "hot_topic_id": "ht_new_10",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生消毒液",
+    "keywords": [
+      "健身",
+      "帕梅拉",
+      "运动",
+      "减肥",
+      "健康生活"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "29500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "舒适_ca14b501",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适手帕纸借势清明假期赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_9",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "舒适手帕纸",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.79,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "34378+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "舒适_0f3564a9",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适卷纸借势健身季来临 帕梅拉课程再掀热潮的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "健身季来临 帕梅拉课程再掀热潮",
+    "hot_topic_id": "ht_new_10",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "舒适卷纸",
+    "keywords": [
+      "健身",
+      "帕梅拉",
+      "运动",
+      "减肥",
+      "健康生活"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "29500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "希宝_485065ee",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《希宝希宝奶粉借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "希宝奶粉",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "希宝_cb583833",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《希宝希宝湿巾借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "希宝湿巾",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.99,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "皇家_6fe2d0d5",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家宠物营养品借势清明假期赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_9",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "皇家宠物营养品",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "34378+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "皇家_494424ff",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家狗粮借势宠物经济持续升温 猫粮狗粮高端化成趋势的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "宠物经济持续升温 猫粮狗粮高端化成趋势",
+    "hot_topic_id": "ht_new_9",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "皇家狗粮",
+    "keywords": [
+      "宠物经济",
+      "猫粮",
+      "狗粮",
+      "高端化",
+      "消费升级"
+    ],
+    "quality_score": 0.73,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "30500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "皇家_941a93e0",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家猫粮借势健身季来临 帕梅拉课程再掀热潮的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "健身季来临 帕梅拉课程再掀热潮",
+    "hot_topic_id": "ht_new_10",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "皇家猫粮",
+    "keywords": [
+      "健身",
+      "帕梅拉",
+      "运动",
+      "减肥",
+      "健康生活"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "29500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "OATLY_c03ca1fb",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY酸奶借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_2",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY酸奶",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.71,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "OATLY_5e4675d4",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY咖啡伴侣借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_6",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY咖啡伴侣",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "OATLY_73d5e88b",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY冰淇淋借势春茶上市季 西湖龙井明前茶价格创新高的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春茶上市季 西湖龙井明前茶价格创新高",
+    "hot_topic_id": "ht_new_3",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY冰淇淋",
+    "keywords": [
+      "春茶",
+      "西湖龙井",
+      "明前茶",
+      "茶叶",
+      "价格"
+    ],
+    "quality_score": 0.77,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "36500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "OATLY_b4d19b29",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY咖啡伴侣借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_14",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY咖啡伴侣",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.73,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "OATLY_274d36bc",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY咖啡伴侣借势春季过敏高发 医生推荐防护指南的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发 医生推荐防护指南",
+    "hot_topic_id": "ht_new_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY咖啡伴侣",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "防护",
+      "过敏源",
+      "健康"
+    ],
+    "quality_score": 0.73,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "31500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "百威_b3620e66",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威无醇啤酒借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_2",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威无醇啤酒",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.96,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "百威_9bd46029",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威果啤借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_6",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威果啤",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "百威_a412ba59",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威果啤借势清明假期赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_9",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威果啤",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "34378+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "百威_2e62f847",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威啤酒借势露营季来临 户外装备销量激增300%的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "露营季来临 户外装备销量激增300%",
+    "hot_topic_id": "ht_new_6",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威啤酒",
+    "keywords": [
+      "露营",
+      "户外装备",
+      "春游",
+      "野营",
+      "销量"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "33500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "百威_e40ba0b8",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威精酿借势清明节高速免费通行 全国迎来出行高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明节高速免费通行 全国迎来出行高峰",
+    "hot_topic_id": "ht_13",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威精酿",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32314+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "元气森林_db5f8b59",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林茶饮借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_2",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林茶饮",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "元气森林_6b6f9ced",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林果汁借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_6",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林果汁",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "元气森林_6dde6636",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林果汁借势孙颖莎世界杯3-0晋级 开启争冠之路的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "孙颖莎世界杯3-0晋级 开启争冠之路",
+    "hot_topic_id": "ht_96d57770",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林果汁",
+    "keywords": [
+      "孙颖莎",
+      "乒乓球",
+      "世界杯",
+      "3-0",
+      "晋级"
+    ],
+    "quality_score": 0.94,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "元气森林_151e33d9",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林果汁借势清明假期赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_9",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林果汁",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "34378+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "元气森林_ea0ba5a6",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林气泡水借势露营季来临 户外装备销量激增300%的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "露营季来临 户外装备销量激增300%",
+    "hot_topic_id": "ht_new_6",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林气泡水",
+    "keywords": [
+      "露营",
+      "户外装备",
+      "春游",
+      "野营",
+      "销量"
+    ],
+    "quality_score": 0.93,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "33500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "农夫山泉_a66d88cc",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉尖叫借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_2",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉尖叫",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "农夫山泉_50260465",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉NFC果汁借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_6",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉NFC果汁",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "农夫山泉_a9d62c32",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉NFC果汁借势孙颖莎世界杯3-0晋级 开启争冠之路的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "孙颖莎世界杯3-0晋级 开启争冠之路",
+    "hot_topic_id": "ht_96d57770",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉NFC果汁",
+    "keywords": [
+      "孙颖莎",
+      "乒乓球",
+      "世界杯",
+      "3-0",
+      "晋级"
+    ],
+    "quality_score": 0.98,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "农夫山泉_8055171c",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉茶π借势春茶上市季 西湖龙井明前茶价格创新高的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春茶上市季 西湖龙井明前茶价格创新高",
+    "hot_topic_id": "ht_new_3",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉茶π",
+    "keywords": [
+      "春茶",
+      "西湖龙井",
+      "明前茶",
+      "茶叶",
+      "价格"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "36500+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
+  },
+  {
+    "id": "农夫山泉_86ebd458",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉NFC果汁借势清明假期赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_9",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉NFC果汁",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "34378+",
+    "status": "pending",
+    "created_at": "2026-04-03T02:49:40"
   }
 ]
