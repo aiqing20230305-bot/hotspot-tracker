@@ -1,934 +1,42 @@
 [
   {
-    "rank": 1,
-    "title": "6G时代将至 1秒下载4K电影登顶热搜",
-    "hot_value": 480000000,
-    "url": "https://www.toutiao.com/article/7615646502693749258/",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "通信"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "6G",
-      "通信技术",
-      "4K电影",
-      "空天地一体化",
-      "数字经济"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-01T17:41:00",
-    "id": "ht_1",
-    "category": "娱乐明星"
-  },
-  {
-    "rank": 2,
-    "title": "微信iOS端灰度测试折叠发图功能",
-    "hot_value": 450000000,
-    "url": "https://www.toutiao.com/article/7618791623803159040/",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "微信",
-      "折叠发图",
-      "iOS",
-      "新功能",
-      "社交"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "罗技"
-    ],
-    "created_at": "2026-04-01T17:41:00",
-    "id": "ht_2",
-    "category": "新闻热点"
-  },
-  {
-    "title": "站姐愚人节互换门面引爆热搜 橹穆CP话题阅读量破2.4亿",
-    "hot_value": 438142579,
-    "url": "https://new.qq.com/rain/a/20260401A04UGW00",
-    "platform": "微博/全网",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "中性",
-    "keywords": [
-      "站姐",
-      "愚人节",
-      "橹穆",
-      "CP",
-      "热搜"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油"
-    ],
-    "created_at": "2026-04-02T00:00:00",
-    "rank": 3,
-    "id": "ht_3",
-    "category": "娱乐明星"
-  },
-  {
-    "title": "OpenAI完成1220亿美元融资 估值达8520亿美元",
-    "hot_value": 437703839,
-    "url": "https://finance.sina.com.cn/stock/relnews/2026-04-01/doc-inhsxzph1878185.shtml",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "OpenAI",
-      "融资",
-      "AI",
-      "硅谷",
-      "人工智能"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T07:00:00",
-    "rank": 4,
-    "id": "ht_4",
-    "category": "数码科技"
-  },
-  {
-    "rank": 5,
-    "title": "瑞幸紫椰子事件 椰肉变色引消费者维权",
-    "hot_value": 420000000,
-    "url": "https://www.toutiao.com/article/7623373554779750955/",
-    "platform": "微博/全网",
-    "industries": [
-      "食品",
-      "消费"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "消费热点",
-    "sentiment": "负面",
-    "keywords": [
-      "瑞幸",
-      "紫椰子",
-      "食品安全",
-      "消费者维权",
-      "椰肉变色"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY",
-      "元气森林"
-    ],
-    "created_at": "2026-04-01T17:41:00",
-    "id": "ht_5",
-    "category": "理财投资"
-  },
-  {
-    "rank": 6,
-    "title": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "title": "清明假期最后一天 各地迎来返程高峰",
     "hot_value": 420000000,
     "url": "https://weibo.com",
-    "platform": "全网",
+    "platform": "微博/全网",
     "industries": [
       "交通",
       "旅游"
     ],
     "trends": [
-      "爆"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "高速免费",
-      "出行",
-      "假期",
-      "交通"
-    ],
-    "c": [
-      "中国移动",
-      "中国联通"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "id": "ht_6",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 7,
-    "title": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
-    "hot_value": 380000000,
-    "url": "https://www.iesdouyin.com/share/billboard/",
-    "platform": "抖音",
-    "industries": [
-      "体育",
-      "科技",
-      "社会"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "综合热点",
-    "sentiment": "中性",
-    "keywords": [
-      "抖音热搜",
-      "足球",
-      "AI",
-      "银发经济",
-      "航空"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-01T17:41:00",
-    "id": "ht_7",
-    "category": "数码科技"
-  },
-  {
-    "rank": 8,
-    "title": "清明祭扫高峰来临 全国各地迎来祭祖人流高峰",
-    "hot_value": 380000000,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
       "热"
     ],
     "type": "社会热点",
     "sentiment": "中性",
     "keywords": [
       "清明节",
-      "祭扫",
-      "祭祖",
-      "传统文化",
-      "缅怀先人"
-    ],
-    "c": [
-      "农夫山泉",
-      "康师傅"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "id": "ht_8",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 9,
-    "title": "孙颖莎世界杯3-0晋级 开启争冠之路",
-    "hot_value": 380000000,
-    "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qk78.html",
-    "platform": "微博/抖音",
-    "industries": [
-      "体育"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "体育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "孙颖莎",
-      "乒乓球",
-      "世界杯",
-      "3-0",
-      "晋级"
-    ],
-    "c": [
-      "元气森林",
-      "农夫山泉",
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_a0dfe87f",
-    "category": "新闻热点"
-  },
-  {
-    "title": "清明节高速免费通行 全国迎来出行高峰",
-    "hot_value": 377828262,
-    "url": "https://weibo.com",
-    "platform": "全网",
-    "industries": [
-      "交通",
-      "旅游"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "高速免费",
-      "出行",
+      "返程",
       "假期",
       "交通"
-    ],
-    "c": [
-      "中国移动",
-      "中国联通"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 10,
-    "id": "ht_9",
-    "category": "新闻热点"
-  },
-  {
-    "title": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
-    "hot_value": 376020486,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903usn2.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "负面",
-    "keywords": [
-      "Anthropic",
-      "代码泄露",
-      "AI安全",
-      "Claude",
-      "网络安全"
-    ],
-    "c": [
-      "小米",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T06:30:00",
-    "rank": 11,
-    "id": "ht_10",
-    "category": "数码科技"
-  },
-  {
-    "rank": 12,
-    "title": "colorwalk成为2026春季最火生活趋势",
-    "hot_value": 350000000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_27169c9e59946152",
-    "platform": "小红书",
-    "industries": [
-      "旅游",
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "消费趋势",
-    "sentiment": "正面",
-    "keywords": [
-      "colorwalk",
-      "色彩漫步",
-      "春季出游",
-      "小红书",
-      "打卡"
     ],
     "c": [
       "农夫山泉",
       "元气森林",
       "OATLY"
     ],
-    "created_at": "2026-04-01T17:41:00",
-    "id": "ht_11",
-    "category": "旅行户外"
-  },
-  {
-    "rank": 13,
-    "title": "清明踏青赏花游火爆 全国各地花期正当时",
-    "hot_value": 350000000,
-    "url": "https://weibo.com",
-    "platform": "小红书/抖音",
-    "industries": [
-      "旅游",
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "踏青",
-      "赏花",
-      "春游",
-      "旅游攻略"
-    ],
-    "c": [
-      "元气森林",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "id": "ht_12",
-    "category": "旅行户外"
-  },
-  {
-    "rank": 14,
-    "title": "B站AI创作大赛收官 8300份作品播放7亿",
-    "hot_value": 350000000,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903ukxq.html",
-    "platform": "B站/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "B站",
-      "AI创作",
-      "updream",
-      "AI动画",
-      "创作者"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_dbe1eb2d",
-    "category": "数码科技"
-  },
-  {
-    "title": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
-    "hot_value": 348676366,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wg5a.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "航天"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "SpaceX",
-      "IPO",
-      "马斯克",
-      "太空探索",
-      "航天"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 15,
-    "id": "ht_13",
+    "created_at": "2026-04-02T12:05:00",
+    "rank": 1,
+    "id": "ht_new_bb3508e9",
     "category": "新闻热点"
   },
   {
-    "title": "台湾艺人邱胜翊涉嫌伪造病历逃避兵役遭拘捕",
-    "hot_value": 344024254,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_94569cda3e090665",
-    "platform": "微博/全网",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "负面",
-    "keywords": [
-      "邱胜翊",
-      "王子",
-      "逃避兵役",
-      "台湾艺人",
-      "伪造病历"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T07:01:00",
-    "rank": 16,
-    "id": "ht_14",
-    "category": "新闻热点"
-  },
-  {
-    "title": "东契奇轰42+12迎15000分里程碑 詹姆斯胜场超天勾",
-    "hot_value": 336074562,
-    "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qgqi.html",
-    "platform": "微博/抖音",
-    "industries": [
-      "体育"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "体育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "东契奇",
-      "詹姆斯",
-      "湖人",
-      "NBA",
-      "里程碑"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T07:15:00",
-    "rank": 17,
-    "id": "ht_15",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 18,
-    "title": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
-    "hot_value": 320000000,
-    "url": "https://c.m.163.com/news/a/KPDSC92E05319YKA.html",
-    "platform": "抖音/微博",
-    "industries": [
-      "体育",
-      "消费"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "张雪机车",
-      "WSBK",
-      "东鹏特饮",
-      "中国制造",
-      "赛车",
-      "涨粉"
-    ],
-    "c": [
-      "百威",
-      "元气森林",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-01T13:13:00",
-    "id": "ht_16",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 19,
-    "title": "Seedance排队成AI创作者新痛点 8万人在线等待",
-    "hot_value": 320000000,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903w3ry.html",
-    "platform": "抖音/小红书",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "中性",
-    "keywords": [
-      "Seedance",
-      "AI视频",
-      "字节跳动",
-      "排队",
-      "创作者"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_8c906dd4",
-    "category": "数码科技"
-  },
-  {
-    "title": "美伊释放缓和信号 亚太股市全线走高风险偏好回暖",
-    "hot_value": 313443857,
-    "url": "https://finance.jrj.com.cn/2026/04/01114556580305.shtml",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "金融"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": [
-      "股市",
-      "亚太",
-      "美伊",
-      "缓和",
-      "反弹"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 20,
-    "id": "ht_17",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 21,
-    "title": "B站首届AI创作大赛收官 8300份作品播放7亿",
-    "hot_value": 300000000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_64869cc861303652",
-    "platform": "B站/微博",
-    "industries": [
-      "科技",
-      "二次元"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "B站",
-      "AI创作",
-      "updream",
-      "AI动画",
-      "创作者"
-    ],
-    "c": [
-      "小米",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-01T20:05:05",
-    "id": "ht_18",
-    "category": "数码科技"
-  },
-  {
-    "rank": 22,
-    "title": "全球半导体开启新一轮涨价潮 晶圆代工全线提价",
-    "hot_value": 300000000,
-    "url": "https://www.sohu.com/a/1003742455_122692513",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "金融"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "财经热点",
-    "sentiment": "中性",
-    "keywords": [
-      "半导体",
-      "涨价",
-      "芯片",
-      "晶圆",
-      "电子"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_ba609078",
-    "category": "新闻热点"
-  },
-  {
-    "title": "OpenAI宣布放弃视频生成工具Sora 成本过高成主因",
-    "hot_value": 295571567,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wiaq.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "中性",
-    "keywords": [
-      "OpenAI",
-      "Sora",
-      "视频生成",
-      "AI工具",
-      "成本"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T07:10:00",
-    "rank": 23,
-    "id": "ht_19",
-    "category": "数码科技"
-  },
-  {
-    "title": "日本自卫队员强闯中国驻日使馆 在野党要求政府道歉",
-    "hot_value": 292735462,
-    "url": "https://new.qq.com/rain/a/20260401A04UG000",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "政治"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "国际热点",
-    "sentiment": "负面",
-    "keywords": [
-      "日本",
-      "中国使馆",
-      "道歉",
-      "外交事件",
-      "自卫队"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T03:30:00",
-    "rank": 24,
-    "id": "ht_20",
-    "category": "新闻热点"
-  },
-  {
-    "title": "清明假期赏花游火爆 全国各地花期正当时",
-    "hot_value": 289086493,
-    "url": "https://weibo.com",
-    "platform": "小红书/抖音",
-    "industries": [
-      "旅游",
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "踏青",
-      "赏花",
-      "春游",
-      "旅游攻略"
-    ],
-    "c": [
-      "元气森林",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 25,
-    "id": "ht_21",
-    "category": "旅行户外"
-  },
-  {
-    "title": "特朗普称两三周内结束对伊战争 美股大幅收高",
-    "hot_value": 281801066,
-    "url": "https://finance.sina.com.cn/headline/2026-04-02/doc-inhszyea2209078.shtml",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "国际"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "特朗普",
-      "伊朗",
-      "战争",
-      "美股",
-      "市场"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T06:05:00",
-    "rank": 26,
-    "id": "ht_22",
-    "category": "新闻热点"
-  },
-  {
-    "title": "《黑神话:悟空》DLC预告发布 国产游戏再引全球关注",
-    "hot_value": 281643532,
-    "url": "https://bilibili.com",
-    "platform": "B站/微博",
-    "industries": [
-      "游戏"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "游戏热点",
-    "sentiment": "正面",
-    "keywords": [
-      "黑神话悟空",
-      "DLC",
-      "国产游戏",
-      "游戏预告"
-    ],
-    "c": [
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 27,
-    "id": "ht_23",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 28,
-    "title": "打一针就好了成2026最火热梗 职场性骚扰引热议",
-    "hot_value": 280000000,
-    "url": "https://www.toutiao.com/article/7622329985289683496/",
-    "platform": "全网",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "网络热梗",
-    "sentiment": "负面",
-    "keywords": [
-      "打一针就好了",
-      "信达证券",
-      "左前明",
-      "性骚扰",
-      "职场"
-    ],
-    "c": [],
-    "created_at": "2026-04-01T20:05:05",
-    "id": "ht_24",
-    "category": "职场发展"
-  },
-  {
-    "rank": 29,
-    "title": "清明节青团销量暴增 传统美食成网红爆款",
-    "hot_value": 280000000,
-    "url": "https://weibo.com",
-    "platform": "全网",
-    "industries": [
-      "食品",
-      "电商"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "青团",
-      "传统美食",
-      "网红美食",
-      "春日限定"
-    ],
-    "c": [
-      "盒马",
-      "美团",
-      "饿了么"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "id": "ht_25",
-    "category": "美食探店"
-  },
-  {
-    "rank": 30,
-    "title": "2028洛杉矶奥运会门票4月9日开售",
-    "hot_value": 280000000,
-    "url": "https://www.sohu.com/a/1003742455_122692513",
-    "platform": "微博/全网",
-    "industries": [
-      "体育",
-      "旅游"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "体育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "奥运会",
-      "洛杉矶",
-      "门票",
-      "2028",
-      "体育"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林",
-      "OATLY",
-      "百威"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_92814823",
-    "category": "新闻热点"
-  },
-  {
-    "title": "全国两会精神学习贯彻热潮 各地掀起学习新高潮",
-    "hot_value": 271145426,
+    "title": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_value": 385000000,
     "url": "https://weibo.com",
     "platform": "微博/全网",
     "industries": [
-      "社会",
-      "政治"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "两会",
-      "学习",
-      "贯彻",
-      "精神",
-      "发展"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 31,
-    "id": "ht_26",
-    "category": "教育学习"
-  },
-  {
-    "title": "小米SU7交付量突破10万台 新能源汽车市场竞争加剧",
-    "hot_value": 264945267,
-    "url": "https://weibo.com",
-    "platform": "微博",
-    "industries": [
-      "汽车",
-      "科技"
+      "科技",
+      "汽车"
     ],
     "trends": [
       "爆"
@@ -936,1996 +44,117 @@
     "type": "科技热点",
     "sentiment": "正面",
     "keywords": [
-      "小米SU7",
-      "电动车",
-      "交付",
-      "雷军",
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
       "新能源"
     ],
     "c": [
-      "小米"
-    ],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 32,
-    "id": "ht_27",
-    "category": "数码科技"
-  },
-  {
-    "title": "全国多地迎来清明祭扫高峰 文明祭扫成主流",
-    "hot_value": 262488520,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "中性",
-    "keywords": [
-      "清明节",
-      "祭扫",
-      "祭祖",
-      "传统文化",
-      "缅怀先人"
-    ],
-    "c": [
-      "农夫山泉",
-      "康师傅"
-    ],
-    "created_at": "2026-04-02T06:30:00",
-    "rank": 33,
-    "id": "ht_28",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 34,
-    "title": "孙俪新剧《危险关系》转型获赞 无滤镜演技受热议",
-    "hot_value": 260000000,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_54669cd0e2212552",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "孙俪",
-      "危险关系",
-      "新剧",
-      "转型",
-      "演技"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "多芬"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_d805a624",
-    "category": "新闻热点"
-  },
-  {
-    "title": "2026年全国高考改革方案公布 新变化引关注",
-    "hot_value": 256931781,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "教育"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "中性",
-    "keywords": [
-      "高考改革",
-      "教育改革",
-      "高考方案",
-      "新高考"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 35,
-    "id": "ht_29",
-    "category": "教育学习"
-  },
-  {
-    "title": "韩国股市暴涨 韩国综合指数涨幅突破6%触发熔断",
-    "hot_value": 252277069,
-    "url": "https://finance.jrj.com.cn/2026/04/01114556580305.shtml",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "金融"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": [
-      "韩国股市",
-      "暴涨",
-      "熔断",
-      "亚太股市",
-      "反弹"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:05:00",
-    "rank": 36,
-    "id": "ht_30",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 37,
-    "title": "清明假期电影档票房预售破亿 多部新片竞争激烈",
-    "hot_value": 250000000,
-    "url": "https://weibo.com",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "电影档",
-      "票房",
-      "新片",
-      "假期娱乐"
-    ],
-    "c": [
-      "猫眼",
-      "淘票票"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "id": "ht_31",
-    "category": "娱乐明星"
-  },
-  {
-    "rank": 38,
-    "title": "长鹰-8无人空中重卡成功首飞",
-    "hot_value": 250000000,
-    "url": "https://new.qq.com/rain/a/20260401A01DX300",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "航空"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "长鹰-8",
-      "无人机",
-      "首飞",
-      "航空",
-      "物流"
-    ],
-    "c": [
       "小米",
       "荣耀",
       "索尼"
     ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_0dd31948",
-    "category": "新闻热点"
-  },
-  {
-    "title": "A股4月开门红成交额破2万亿 近4500只个股收红",
-    "hot_value": 247547244,
-    "url": "https://finance.sina.com.cn/headline/2026-04-02/doc-inhszyea2209078.shtml",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "金融"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": [
-      "A股",
-      "开门红",
-      "成交额",
-      "反弹",
-      "股市"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:10:00",
-    "rank": 39,
-    "id": "ht_32",
-    "category": "新闻热点"
-  },
-  {
-    "title": "中国空间站完成新一轮太空实验 航天员创造新纪录",
-    "hot_value": 245005996,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "航天"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "空间站",
-      "航天员",
-      "太空实验",
-      "中国航天"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 40,
-    "id": "ht_33",
-    "category": "新闻热点"
-  },
-  {
-    "title": "中国科学家实现量子计算新突破 国际影响力提升",
-    "hot_value": 243880729,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "量子计算",
-      "科学家",
-      "技术突破",
-      "中国科技"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 41,
-    "id": "ht_34",
+    "created_at": "2026-04-02T12:05:00",
+    "rank": 2,
+    "id": "ht_new_fd65e8b9",
     "category": "数码科技"
   },
   {
-    "rank": 42,
-    "title": "清明假期高速免费 出行高峰今日开启",
-    "hot_value": 240000000,
-    "url": "https://new.qq.com/rain/a/20260401A01DX300",
-    "platform": "微博/全网",
-    "industries": [
-      "旅游",
-      "交通"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "节日热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "高速免费",
-      "出行",
-      "假期",
-      "自驾"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY",
-      "元气森林",
-      "百威"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_ef1d56b4",
-    "category": "旅行户外"
-  },
-  {
-    "rank": 43,
-    "title": "橹穆CP愚人节引爆热搜 话题阅读量破2.4亿",
-    "hot_value": 240000000,
-    "url": "https://new.qq.com/rain/a/20260401A04UGW00",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "中性",
-    "keywords": [
-      "橹穆",
-      "CP",
-      "站姐",
-      "愚人节",
-      "热搜"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_da74fd0b",
-    "category": "娱乐明星"
-  },
-  {
-    "title": "全国路边停车新规 政府管理公共泊位统一30分钟免费",
-    "hot_value": 237441919,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_83569cc696801852",
-    "platform": "微博/全网",
-    "industries": [
-      "交通",
-      "民生"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "停车",
-      "新规",
-      "免费",
-      "便民",
-      "路边停车"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T04:05:00",
-    "rank": 44,
-    "id": "ht_35",
-    "category": "新闻热点"
-  },
-  {
-    "title": "孙颖莎轻取对手强势开启世界杯淘汰赛征程",
-    "hot_value": 237239276,
-    "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qk78.html",
-    "platform": "微博/全网",
-    "industries": [
-      "体育"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "体育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "孙颖莎",
-      "乒乓球",
-      "世界杯",
-      "国乒",
-      "淘汰赛"
-    ],
-    "c": [
-      "农夫山泉",
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-02T06:20:00",
-    "rank": 45,
-    "id": "ht_36",
-    "category": "新闻热点"
-  },
-  {
-    "title": "4月新规实施:后排未系安全带全国严查 违规将处罚",
-    "hot_value": 235230497,
+    "title": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_value": 320000000,
     "url": "https://weibo.com",
     "platform": "微博/全网",
     "industries": [
-      "社会",
-      "交通"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "安全带",
-      "新规",
-      "交通法规",
-      "后排乘客",
-      "执法"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 46,
-    "id": "ht_37",
-    "category": "新闻热点"
-  },
-  {
-    "title": "A股4月开门红 创业板指涨近2% 科创50涨超3%",
-    "hot_value": 231741661,
-    "url": "https://finance.sina.com.cn/jjxw/2026-04-01/doc-inhsysmc5034499.html",
-    "platform": "微博/全网",
-    "industries": [
-      "金融"
+      "健康",
+      "医疗"
     ],
     "trends": [
       "热"
     ],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": [
-      "A股",
-      "创业板",
-      "科创50",
-      "股市",
-      "反弹"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 47,
-    "id": "ht_38",
-    "category": "职场发展"
-  },
-  {
-    "title": "青团销量暴增成网红爆款 清明传统美食受热捧",
-    "hot_value": 226804024,
-    "url": "https://weibo.com",
-    "platform": "全网",
-    "industries": [
-      "食品",
-      "电商"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "青团",
-      "传统美食",
-      "网红美食",
-      "春日限定"
-    ],
-    "c": [
-      "盒马",
-      "美团",
-      "饿了么"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 48,
-    "id": "ht_39",
-    "category": "美食探店"
-  },
-  {
-    "title": "智谱AI年营收7.24亿 同比增长132% MaaS平台ARR达17亿",
-    "hot_value": 224672200,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903v1ky.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "智谱AI",
-      "财报",
-      "大模型",
-      "商业化",
-      "MaaS"
-    ],
-    "c": [
-      "小米",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T06:45:00",
-    "rank": 49,
-    "id": "ht_40",
-    "category": "数码科技"
-  },
-  {
-    "rank": 50,
-    "title": "全球智能手机迎来新一轮涨价潮 AI成核心驱动力",
-    "hot_value": 220000000,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903w3ry.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "消费"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "中性",
-    "keywords": [
-      "智能手机",
-      "涨价",
-      "AI",
-      "手机市场",
-      "消费电子"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_b9089d30",
-    "category": "数码科技"
-  },
-  {
-    "title": "加沙地带医疗系统面临停运 人道主义危机加剧",
-    "hot_value": 218139647,
-    "url": "https://new.qq.com/rain/a/20260401A04UG000",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "人道"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "国际热点",
+    "type": "健康热点",
     "sentiment": "负面",
     "keywords": [
-      "加沙",
-      "医疗系统",
-      "人道主义",
-      "燃油",
-      "危机"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T03:35:00",
-    "rank": 51,
-    "id": "ht_41",
-    "category": "新闻热点"
-  },
-  {
-    "title": "国产大飞机C919商业运营满一年 运送旅客超50万人次",
-    "hot_value": 215167724,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "航空"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "C919",
-      "大飞机",
-      "商业运营",
-      "中国制造",
-      "航空"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 52,
-    "id": "ht_42",
-    "category": "新闻热点"
-  },
-  {
-    "title": "我国量子通信干线扩容 长三角珠三角实现跨区域互联",
-    "hot_value": 214811089,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_83569cc696801852",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "通信"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "量子通信",
-      "长三角",
-      "珠三角",
-      "科技突破",
-      "通信"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T04:15:00",
-    "rank": 53,
-    "id": "ht_43",
-    "category": "数码科技"
-  },
-  {
-    "title": "国际油价跳水后拉升 地缘政治影响持续",
-    "hot_value": 214003297,
-    "url": "https://finance.sina.com.cn/headline/2026-04-02/doc-inhszyea2209078.shtml",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "能源"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "经济热点",
-    "sentiment": "中性",
-    "keywords": [
-      "油价",
-      "跳水",
-      "地缘政治",
-      "能源",
-      "波动"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:20:00",
-    "rank": 54,
-    "id": "ht_44",
-    "category": "新闻热点"
-  },
-  {
-    "title": "全国高速统一新规 仅保留五档限速非标标志全部拆除",
-    "hot_value": 208930506,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_83569cc696801852",
-    "platform": "微博/全网",
-    "industries": [
-      "交通",
-      "社会"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "高速",
-      "限速",
-      "新规",
-      "交通",
-      "便民"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 55,
-    "id": "ht_45",
-    "category": "新闻热点"
-  },
-  {
-    "title": "张国荣逝世23周年 粉丝自发缅怀致敬传奇",
-    "hot_value": 206152320,
-    "url": "https://www.douyin.com/search/张国荣逝世23周年",
-    "platform": "抖音/微博",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "中性",
-    "keywords": [
-      "张国荣",
-      "逝世23周年",
-      "愚人节",
-      "纪念",
-      "传奇"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士",
-      "多芬"
-    ],
-    "created_at": "2026-04-02T00:00:00",
-    "rank": 56,
-    "id": "ht_46",
-    "category": "新闻热点"
-  },
-  {
-    "title": "2026清明档电影激战 《我,许可》《我的妈耶》领跑",
-    "hot_value": 203964464,
-    "url": "https://new.qq.com/rain/a/20260401A03KCB00",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明档",
-      "电影",
-      "我许可",
-      "我的妈耶",
-      "马思纯"
-    ],
-    "c": [
-      "猫眼",
-      "淘票票"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 57,
-    "id": "ht_47",
-    "category": "娱乐明星"
-  },
-  {
-    "title": "中科曙光发布全球首个单机柜级640卡超节点 算力龙头加速布局",
-    "hot_value": 202212724,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wdi4.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "中科曙光",
-      "超节点",
-      "AI算力",
-      "芯片",
-      "国产化"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 58,
-    "id": "ht_48",
-    "category": "数码科技"
-  },
-  {
-    "title": "伊朗愿在诉求满足下结束战争 中东局势现转机",
-    "hot_value": 199610370,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_57869cccdcd11752",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "伊朗",
-      "中东",
-      "战争",
-      "和平",
-      "国际局势"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:40:00",
-    "rank": 59,
-    "id": "ht_49",
-    "category": "新闻热点"
-  },
-  {
-    "title": "中东铝厂遇袭冲击全球供应链 铝价短期看涨",
-    "hot_value": 198767259,
-    "url": "https://finance.sina.com.cn/headline/2026-04-01/doc-inhsywsz5005320.shtml",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "制造"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "经济热点",
-    "sentiment": "中性",
-    "keywords": [
-      "铝厂",
-      "中东",
-      "供应链",
-      "铝价",
-      "袭击"
-    ],
-    "c": [
-      "小米"
-    ],
-    "created_at": "2026-04-02T04:35:00",
-    "rank": 60,
-    "id": "ht_50",
-    "category": "新闻热点"
-  },
-  {
-    "title": "Visa警告:AI不足以遏制新型诈骗浪潮 金融安全引关注",
-    "hot_value": 198516511,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wbx8.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "金融"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "负面",
-    "keywords": [
-      "Visa",
-      "AI诈骗",
-      "金融安全",
-      "深度伪造",
-      "网络安全"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 61,
-    "id": "ht_51",
-    "category": "数码科技"
-  },
-  {
-    "title": "36种抗癌药入保平均降价63% 患者用药负担大幅减轻",
-    "hot_value": 198146442,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_83569cc696801852",
-    "platform": "微博/全网",
-    "industries": [
-      "医疗",
-      "民生"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "抗癌药",
-      "医保",
-      "降价",
-      "患者",
-      "医疗改革"
-    ],
-    "c": [
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-02T05:35:00",
-    "rank": 62,
-    "id": "ht_52",
-    "category": "新闻热点"
-  },
-  {
-    "title": "雷军投资的中年人泡泡玛特在香港上市 引发热议",
-    "hot_value": 196889963,
-    "url": "https://finance.sina.cn/zaobao/app.d.html?date=20260402",
-    "platform": "微博/全网",
-    "industries": [
-      "消费",
-      "投资"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "雷军",
-      "泡泡玛特",
-      "上市",
-      "投资",
-      "消费"
-    ],
-    "c": [
-      "小米"
-    ],
-    "created_at": "2026-04-02T05:35:00",
-    "rank": 63,
-    "id": "ht_53",
-    "category": "理财投资"
-  },
-  {
-    "title": "数字人民币试点范围再扩大 应用场景持续丰富",
-    "hot_value": 196712304,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "金融",
-      "科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "数字人民币",
-      "试点",
-      "应用场景",
-      "数字货币"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 64,
-    "id": "ht_54",
-    "category": "新闻热点"
-  },
-  {
-    "title": "欧盟通过新数字法案 全球科技巨头面临更严格监管",
-    "hot_value": 195513998,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "国际"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "欧盟",
-      "数字法案",
-      "科技监管",
-      "隐私保护",
-      "反垄断"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 65,
-    "id": "ht_55",
-    "category": "数码科技"
-  },
-  {
-    "title": "G20峰会召开在即 全球经济治理成焦点",
-    "hot_value": 195430152,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "经济"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "G20",
-      "峰会",
-      "全球经济",
-      "治理",
-      "国际合作"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 66,
-    "id": "ht_56",
-    "category": "新闻热点"
-  },
-  {
-    "title": "95岁巴菲特宣布重启重大投资决策 引发市场关注",
-    "hot_value": 195404093,
-    "url": "https://finance.sina.cn/zaobao/app.d.html?date=20260402",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "投资"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "经济热点",
-    "sentiment": "中性",
-    "keywords": [
-      "巴菲特",
-      "投资",
-      "股市",
-      "重启",
-      "伯克希尔"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 67,
-    "id": "ht_57",
-    "category": "理财投资"
-  },
-  {
-    "title": "微软Microsoft 365 Copilot推三大升级 AI从助手变代理",
-    "hot_value": 194249897,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wdi4.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "微软",
-      "Copilot",
-      "AI代理",
-      "Office",
-      "人工智能"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T05:10:00",
-    "rank": 68,
-    "id": "ht_58",
-    "category": "数码科技"
-  },
-  {
-    "title": "科学岛两大科学装置面向全球开放共享 科技合作提速",
-    "hot_value": 188352252,
-    "url": "https://new.qq.com/rain/a/20260401A06RGI00",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "科研"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "科学岛",
-      "科学装置",
-      "开放共享",
-      "科研",
-      "国际合作"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T06:15:00",
-    "rank": 69,
-    "id": "ht_59",
-    "category": "数码科技"
-  },
-  {
-    "title": "蚊子史诗级加强引热议 疾控部门紧急提醒防蚊",
-    "hot_value": 187619298,
-    "url": "https://www.xhby.net/content/s69cd371ce4b0639de44f4deb.html",
-    "platform": "微博/全网",
-    "industries": [
-      "生活",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "负面",
-    "keywords": [
-      "蚊子",
-      "疾控",
-      "健康提醒",
-      "夏季",
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
       "防护"
     ],
     "c": [
-      "威猛先生",
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 70,
-    "id": "ht_60",
-    "category": "新闻热点"
-  },
-  {
-    "title": "孙俪新剧《危险关系》获赞 悬疑转型成功引热议",
-    "hot_value": 180861102,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_54669cd0e2212552",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "孙俪",
-      "危险关系",
-      "新剧",
-      "转型",
-      "悬疑剧"
-    ],
-    "c": [
       "AHC",
       "玉兰油",
-      "力士"
-    ],
-    "created_at": "2026-04-02T05:40:00",
-    "rank": 71,
-    "id": "ht_61",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 72,
-    "title": "绿色清明文明祭扫成主流 鲜花代纸钱引领新风尚",
-    "hot_value": 180000000,
-    "url": "https://weibo.com",
-    "platform": "全网",
-    "industries": [
-      "社会",
-      "环保"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "文明祭扫",
-      "绿色环保",
-      "鲜花",
-      "新风尚"
-    ],
-    "c": [
-      "中国平安",
-      "太平洋保险"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "id": "ht_62",
-    "category": "新闻热点"
-  },
-  {
-    "title": "国产大模型星火4.0正式商用 多模态能力大幅提升",
-    "hot_value": 179219262,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_83569cc696801852",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "AI"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "大模型",
-      "星火4.0",
-      "AI",
-      "多模态",
-      "国产"
-    ],
-    "c": [
-      "小米",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T04:20:00",
-    "rank": 73,
-    "id": "ht_63",
-    "category": "数码科技"
-  },
-  {
-    "title": "英国正式加入CPTPP 全球贸易格局生变",
-    "hot_value": 178155849,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "经济"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "英国",
-      "CPTPP",
-      "贸易协定",
-      "全球化",
-      "经贸合作"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 74,
-    "id": "ht_64",
-    "category": "新闻热点"
-  },
-  {
-    "title": "春季招聘季开启 各大企业加大人才引进力度",
-    "hot_value": 174892237,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "社会",
-      "经济"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "春季招聘",
-      "就业",
-      "人才引进",
-      "求职",
-      "招聘季"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 75,
-    "id": "ht_65",
-    "category": "新闻热点"
-  },
-  {
-    "title": "美国通胀数据发布 美联储加息预期再起",
-    "hot_value": 174850388,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "经济"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "美国通胀",
-      "美联储",
-      "加息",
-      "CPI",
-      "货币政策"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 76,
-    "id": "ht_66",
-    "category": "新闻热点"
-  },
-  {
-    "title": "教育部发布新规 加强中小学生心理健康教育",
-    "hot_value": 174196529,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "教育"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "教育部",
-      "心理健康",
-      "中小学生",
-      "教育新规"
-    ],
-    "c": [
+      "多芬",
       "汤臣倍健"
     ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 77,
-    "id": "ht_67",
-    "category": "情感心理"
+    "created_at": "2026-04-02T12:05:00",
+    "rank": 3,
+    "id": "ht_new_637a8953",
+    "category": "健康医疗"
   },
   {
-    "title": "伦敦股市1日上涨 欧洲三大股指全线上扬",
-    "hot_value": 171849130,
-    "url": "https://www.cnfin.com/hs-lb/detail/20260402/4394517_1.html",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "金融"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": [
-      "伦敦股市",
-      "欧洲股市",
-      "上涨",
-      "金融",
-      "反弹"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T06:40:00",
-    "rank": 78,
-    "id": "ht_68",
-    "category": "新闻热点"
-  },
-  {
-    "title": "阿联酋禁止伊朗公民入境 中东局势持续紧张",
-    "hot_value": 171099831,
-    "url": "https://new.qq.com/rain/a/20260401A04UG000",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "政治"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "阿联酋",
-      "伊朗",
-      "入境禁令",
-      "中东",
-      "局势"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T03:40:00",
-    "rank": 79,
-    "id": "ht_69",
-    "category": "新闻热点"
-  },
-  {
-    "title": "高校毕业生就业季来临 就业形势引关注",
-    "hot_value": 170200184,
+    "title": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_value": 380000000,
     "url": "https://weibo.com",
     "platform": "微博/全网",
     "industries": [
-      "教育",
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "中性",
-    "keywords": [
-      "毕业生",
-      "就业",
-      "就业形势",
-      "求职",
-      "大学生"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 80,
-    "id": "ht_70",
-    "category": "新闻热点"
-  },
-  {
-    "title": "赵露思新剧《朝花不见愁》女主暂定 古装仙侠引期待",
-    "hot_value": 169708233,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_15569cd19bd48752",
-    "platform": "微博/小红书",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "赵露思",
-      "朝花不见愁",
-      "古装剧",
-      "仙侠",
-      "新剧"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "多芬"
-    ],
-    "created_at": "2026-04-02T04:25:00",
-    "rank": 81,
-    "id": "ht_71",
-    "category": "新闻热点"
-  },
-  {
-    "title": "华为汪涛当值轮值董事长 公司治理迎新变化",
-    "hot_value": 168944663,
-    "url": "https://finance.sina.cn/zaobao/app.d.html?date=20260402",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "企业"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "中性",
-    "keywords": [
-      "华为",
-      "轮值董事长",
-      "汪涛",
-      "企业治理",
-      "科技"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:25:00",
-    "rank": 82,
-    "id": "ht_72",
-    "category": "数码科技"
-  },
-  {
-    "title": "碳达峰碳中和工作取得新进展 绿色发展成效显著",
-    "hot_value": 167828959,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "环保",
-      "经济"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "碳达峰",
-      "碳中和",
-      "绿色发展",
-      "环保",
-      "低碳"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 83,
-    "id": "ht_73",
-    "category": "职场发展"
-  },
-  {
-    "title": "三星电子大涨13% 创2001年以来最大单日涨幅",
-    "hot_value": 167809576,
-    "url": "https://finance.sina.com.cn/headline/2026-04-02/doc-inhszyea2209078.shtml",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": [
-      "三星电子",
-      "股价",
-      "涨幅",
-      "芯片",
-      "韩国"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:15:00",
-    "rank": 84,
-    "id": "ht_74",
-    "category": "数码科技"
-  },
-  {
-    "title": "5G应用场景持续扩展 智慧城市建设加速推进",
-    "hot_value": 165612809,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "通信"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "5G",
-      "智慧城市",
-      "应用场景",
-      "数字化转型"
-    ],
-    "c": [
-      "中国移动",
-      "中国联通"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 85,
-    "id": "ht_75",
-    "category": "新闻热点"
-  },
-  {
-    "title": "清明节各地开通祭扫专线 方便市民出行",
-    "hot_value": 164987346,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_42969cd0c3557252",
-    "platform": "微博/全网",
-    "industries": [
-      "交通",
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "祭扫专线",
-      "公交",
-      "便民",
-      "出行"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:45:00",
-    "rank": 86,
-    "id": "ht_76",
-    "category": "新闻热点"
-  },
-  {
-    "title": "新能源汽车下乡补贴政策出台 农村市场迎来发展新机遇",
-    "hot_value": 164693064,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "汽车",
+      "旅游",
       "消费"
     ],
     "trends": [
-      "新"
+      "爆"
     ],
     "type": "消费热点",
     "sentiment": "正面",
     "keywords": [
-      "新能源汽车",
-      "下乡补贴",
-      "农村市场",
-      "政策",
-      "消费"
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
     ],
     "c": [
-      "小米",
-      "荣耀"
+      "农夫山泉",
+      "元气森林",
+      "OATLY",
+      "百威"
     ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 87,
-    "id": "ht_77",
-    "category": "理财投资"
+    "created_at": "2026-04-02T12:05:00",
+    "rank": 4,
+    "id": "ht_new_4a6d5d65",
+    "category": "旅行户外"
   },
   {
-    "title": "乘风2026陶昕然人气飙升 安陵容浪姐连线甄嬛引爆情怀",
-    "hot_value": 164079768,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzm.html",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "综艺"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "乘风2026",
-      "陶昕然",
-      "浪姐",
-      "甄嬛传",
-      "安陵容"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士"
-    ],
-    "created_at": "2026-04-02T00:01:00",
-    "rank": 88,
-    "id": "ht_78",
-    "category": "新闻热点"
-  },
-  {
-    "title": "APEC会议聚焦数字经济 中国提出数据治理新方案",
-    "hot_value": 162566608,
+    "title": "AI生成内容监管新规出台 平台责任明确",
+    "hot_value": 350000000,
     "url": "https://weibo.com",
     "platform": "微博/全网",
     "industries": [
       "科技",
-      "经济"
+      "政策"
     ],
     "trends": [
-      "新"
+      "热"
     ],
-    "type": "国际热点",
-    "sentiment": "正面",
+    "type": "科技热点",
+    "sentiment": "中性",
     "keywords": [
-      "APEC",
-      "数字经济",
-      "数据治理",
-      "国际合作",
-      "中国方案"
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
     ],
     "c": [
       "小米",
       "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 89,
-    "id": "ht_79",
-    "category": "新闻热点"
-  },
-  {
-    "rank": 90,
-    "title": "郭敬明执导《月鳞绮纪》空降开播 融合聊斋山海经",
-    "hot_value": 160000000,
-    "url": "https://weibo.com",
-    "platform": "微博/B站",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "影视热点",
-    "sentiment": "中性",
-    "keywords": [
-      "郭敬明",
-      "月鳞绮纪",
-      "聊斋",
-      "山海经",
-      "空降开播"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T10:02:09",
-    "id": "ht_540aafe6",
-    "category": "旅行户外"
-  },
-  {
-    "title": "故宫博物院推出春季特展 传统文化受热捧",
-    "hot_value": 158365986,
-    "url": "https://weibo.com",
-    "platform": "微博/小红书",
-    "industries": [
-      "文化",
-      "旅游"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "文化热点",
-    "sentiment": "正面",
-    "keywords": [
-      "故宫",
-      "特展",
-      "传统文化",
-      "文物",
-      "博物馆"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 91,
-    "id": "ht_80",
-    "category": "文化艺术"
-  },
-  {
-    "title": "李子柒自编自导纪录片电影《温室》完成备案",
-    "hot_value": 158326218,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_15569cd19bd48752",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "李子柒",
-      "纪录片",
-      "电影",
-      "温室",
-      "导演"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY"
-    ],
-    "created_at": "2026-04-02T04:20:00",
-    "rank": 92,
-    "id": "ht_81",
-    "category": "娱乐明星"
-  },
-  {
-    "title": "医保新规4月实施 药店纳入门诊统筹报销更便利",
-    "hot_value": 155423458,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_83569cc696801852",
-    "platform": "微博/全网",
-    "industries": [
-      "医疗",
-      "民生"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "医保",
-      "门诊统筹",
-      "药店",
-      "报销",
-      "新规"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 93,
-    "id": "ht_82",
-    "category": "新闻热点"
-  },
-  {
-    "title": "超级厄尔尼诺来袭 2026或成史上最热年 气候变化引关注",
-    "hot_value": 155267685,
-    "url": "https://finance.sina.com.cn/jjxw/2026-04-01/doc-inhsxvfm8772012.shtml",
-    "platform": "全网",
-    "industries": [
-      "社会",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "负面",
-    "keywords": [
-      "厄尔尼诺",
-      "全球变暖",
-      "最热年",
-      "气候",
-      "极端天气"
-    ],
-    "c": [
-      "农夫山泉",
-      "百威",
-      "OATLY",
-      "元气森林"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 94,
-    "id": "ht_83",
-    "category": "新闻热点"
-  },
-  {
-    "title": "进博会走进安徽 深化引进来服务双循环",
-    "hot_value": 154164380,
-    "url": "https://new.qq.com/rain/a/20260401A06RGI00",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "贸易"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": [
-      "进博会",
-      "安徽",
-      "双循环",
-      "贸易",
-      "投资"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:50:00",
-    "rank": 95,
-    "id": "ht_84",
-    "category": "理财投资"
-  },
-  {
-    "title": "意大利连续3届无缘世界杯 足球强国陷入低谷",
-    "hot_value": 153985795,
-    "url": "https://www.douyin.com/search/意大利连续3届无缘世界杯",
-    "platform": "抖音/微博",
-    "industries": [
-      "体育"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "体育热点",
-    "sentiment": "负面",
-    "keywords": [
-      "意大利",
-      "世界杯",
-      "足球",
-      "欧洲杯",
-      "出局"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 96,
-    "id": "ht_85",
-    "category": "新闻热点"
-  },
-  {
-    "title": "央行一季度例会召开 强调维护金融市场稳定",
-    "hot_value": 153868281,
-    "url": "https://finance.sina.com.cn/headline/2026-04-01/doc-inhsywsz5005320.shtml",
-    "platform": "微博/全网",
-    "industries": [
-      "经济",
-      "金融"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "经济热点",
-    "sentiment": "中性",
-    "keywords": [
-      "央行",
-      "例会",
-      "货币政策",
-      "金融市场",
-      "稳定"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 97,
-    "id": "ht_86",
-    "category": "新闻热点"
-  },
-  {
-    "title": "王者荣耀世界英雄PV发布 玩家期待值拉满",
-    "hot_value": 152567396,
-    "url": "https://www.douyin.com/search/王者荣耀世界英雄PV",
-    "platform": "抖音/微博",
-    "industries": [
-      "游戏"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "游戏热点",
-    "sentiment": "正面",
-    "keywords": [
-      "王者荣耀",
-      "世界",
-      "英雄PV",
-      "手游",
-      "腾讯游戏"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:20:00",
-    "rank": 98,
-    "id": "ht_87",
-    "category": "新闻热点"
-  },
-  {
-    "title": "合肥开设249个春假公益托管班 破解学生看护难",
-    "hot_value": 149221506,
-    "url": "https://new.qq.com/rain/a/20260401A06RGI00",
-    "platform": "微博/全网",
-    "industries": [
-      "教育",
-      "民生"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "春假托管",
-      "公益托管班",
-      "学生看护",
-      "教育",
-      "便民"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T06:20:00",
-    "rank": 99,
-    "id": "ht_88",
-    "category": "新闻热点"
-  },
-  {
-    "title": "2026LPL第二赛段赛程公布 4月4日开赛引期待",
-    "hot_value": 148319279,
-    "url": "http://weibo.com/u/5756404150",
-    "platform": "微博/B站",
-    "industries": [
-      "游戏",
-      "电竞"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "游戏热点",
-    "sentiment": "正面",
-    "keywords": [
-      "LPL",
-      "英雄联盟",
-      "电竞",
-      "赛程"
-    ],
-    "c": [
       "索尼",
       "罗技"
     ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 100,
-    "id": "ht_89",
-    "category": "新闻热点"
+    "created_at": "2026-04-02T12:05:00",
+    "rank": 5,
+    "id": "ht_new_7cf2dbce",
+    "category": "数码科技"
   },
   {
     "title": "保险配置 避坑指南",
@@ -2950,7 +179,7 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 101,
+    "rank": 6,
     "id": "ht_200"
   },
   {
@@ -2976,7 +205,7 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 102,
+    "rank": 7,
     "id": "ht_201"
   },
   {
@@ -3002,7 +231,7 @@
     ],
     "type": "数码科技热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 103,
+    "rank": 8,
     "id": "ht_202"
   },
   {
@@ -3028,7 +257,7 @@
     ],
     "type": "美食探店热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 104,
+    "rank": 9,
     "id": "ht_203"
   },
   {
@@ -3054,7 +283,7 @@
     ],
     "type": "旅行户外热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 105,
+    "rank": 10,
     "id": "ht_204"
   },
   {
@@ -3080,7 +309,7 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 106,
+    "rank": 11,
     "id": "ht_205"
   },
   {
@@ -3106,7 +335,7 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 107,
+    "rank": 12,
     "id": "ht_206"
   },
   {
@@ -3132,7 +361,7 @@
     ],
     "type": "职场发展热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 108,
+    "rank": 13,
     "id": "ht_207"
   },
   {
@@ -3158,7 +387,7 @@
     ],
     "type": "时尚穿搭热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 109,
+    "rank": 14,
     "id": "ht_208"
   },
   {
@@ -3184,7 +413,7 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 110,
+    "rank": 15,
     "id": "ht_209"
   },
   {
@@ -3210,7 +439,7 @@
     ],
     "type": "旅行户外热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 111,
+    "rank": 16,
     "id": "ht_210"
   },
   {
@@ -3236,7 +465,7 @@
     ],
     "type": "情感心理热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 112,
+    "rank": 17,
     "id": "ht_211"
   },
   {
@@ -3262,7 +491,7 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 113,
+    "rank": 18,
     "id": "ht_212"
   },
   {
@@ -3288,7 +517,7 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 114,
+    "rank": 19,
     "id": "ht_213"
   },
   {
@@ -3314,7 +543,7 @@
     ],
     "type": "美食探店热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 115,
+    "rank": 20,
     "id": "ht_214"
   },
   {
@@ -3340,7 +569,7 @@
     ],
     "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 116,
+    "rank": 21,
     "id": "ht_215"
   },
   {
@@ -3366,7 +595,7 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 117,
+    "rank": 22,
     "id": "ht_216"
   },
   {
@@ -3392,7 +621,7 @@
     ],
     "type": "健身运动热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 118,
+    "rank": 23,
     "id": "ht_217"
   },
   {
@@ -3418,7 +647,7 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 119,
+    "rank": 24,
     "id": "ht_218"
   },
   {
@@ -3444,7 +673,7 @@
     ],
     "type": "时尚穿搭热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 120,
+    "rank": 25,
     "id": "ht_219"
   },
   {
@@ -3470,7 +699,7 @@
     ],
     "type": "数码科技热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 121,
+    "rank": 26,
     "id": "ht_220"
   },
   {
@@ -3496,7 +725,7 @@
     ],
     "type": "情感心理热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 122,
+    "rank": 27,
     "id": "ht_221"
   },
   {
@@ -3522,7 +751,7 @@
     ],
     "type": "旅行户外热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 123,
+    "rank": 28,
     "id": "ht_222"
   },
   {
@@ -3548,7 +777,7 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 124,
+    "rank": 29,
     "id": "ht_223"
   },
   {
@@ -3574,7 +803,7 @@
     ],
     "type": "健身运动热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 125,
+    "rank": 30,
     "id": "ht_224"
   },
   {
@@ -3600,7 +829,7 @@
     ],
     "type": "健身运动热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 126,
+    "rank": 31,
     "id": "ht_225"
   },
   {
@@ -3626,7 +855,7 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 127,
+    "rank": 32,
     "id": "ht_226"
   },
   {
@@ -3652,7 +881,7 @@
     ],
     "type": "职场发展热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 128,
+    "rank": 33,
     "id": "ht_227"
   },
   {
@@ -3678,7 +907,7 @@
     ],
     "type": "健身运动热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 129,
+    "rank": 34,
     "id": "ht_228"
   },
   {
@@ -3704,7 +933,7 @@
     ],
     "type": "数码科技热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 130,
+    "rank": 35,
     "id": "ht_229"
   },
   {
@@ -3730,7 +959,7 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 131,
+    "rank": 36,
     "id": "ht_230"
   },
   {
@@ -3756,7 +985,7 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 132,
+    "rank": 37,
     "id": "ht_231"
   },
   {
@@ -3782,7 +1011,7 @@
     ],
     "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 133,
+    "rank": 38,
     "id": "ht_232"
   },
   {
@@ -3808,7 +1037,7 @@
     ],
     "type": "美食探店热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 134,
+    "rank": 39,
     "id": "ht_233"
   },
   {
@@ -3834,7 +1063,7 @@
     ],
     "type": "健身运动热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 135,
+    "rank": 40,
     "id": "ht_234"
   },
   {
@@ -3860,7 +1089,7 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 136,
+    "rank": 41,
     "id": "ht_235"
   },
   {
@@ -3886,7 +1115,7 @@
     ],
     "type": "时尚穿搭热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 137,
+    "rank": 42,
     "id": "ht_236"
   },
   {
@@ -3912,7 +1141,7 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 138,
+    "rank": 43,
     "id": "ht_237"
   },
   {
@@ -3938,7 +1167,7 @@
     ],
     "type": "情感心理热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 139,
+    "rank": 44,
     "id": "ht_238"
   },
   {
@@ -3964,7 +1193,7 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 140,
+    "rank": 45,
     "id": "ht_239"
   },
   {
@@ -3990,7 +1219,7 @@
     ],
     "type": "美食探店热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 141,
+    "rank": 46,
     "id": "ht_240"
   },
   {
@@ -4016,7 +1245,7 @@
     ],
     "type": "时尚穿搭热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 142,
+    "rank": 47,
     "id": "ht_241"
   },
   {
@@ -4042,7 +1271,7 @@
     ],
     "type": "数码科技热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 143,
+    "rank": 48,
     "id": "ht_242"
   },
   {
@@ -4068,7 +1297,7 @@
     ],
     "type": "时尚穿搭热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 144,
+    "rank": 49,
     "id": "ht_243"
   },
   {
@@ -4094,7 +1323,7 @@
     ],
     "type": "旅行户外热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 145,
+    "rank": 50,
     "id": "ht_244"
   },
   {
@@ -4120,7 +1349,7 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 146,
+    "rank": 51,
     "id": "ht_245"
   },
   {
@@ -4146,7 +1375,7 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 147,
+    "rank": 52,
     "id": "ht_246"
   },
   {
@@ -4172,7 +1401,7 @@
     ],
     "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 148,
+    "rank": 53,
     "id": "ht_247"
   },
   {
@@ -4198,7 +1427,7 @@
     ],
     "type": "情感心理热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 149,
+    "rank": 54,
     "id": "ht_248"
   },
   {
@@ -4224,7 +1453,7 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 150,
+    "rank": 55,
     "id": "ht_249"
   },
   {
@@ -4250,7 +1479,7 @@
     ],
     "type": "健身运动热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 151,
+    "rank": 56,
     "id": "ht_250"
   },
   {
@@ -4276,7 +1505,7 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 152,
+    "rank": 57,
     "id": "ht_251"
   },
   {
@@ -4302,7 +1531,7 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 153,
+    "rank": 58,
     "id": "ht_252"
   },
   {
@@ -4328,7 +1557,7 @@
     ],
     "type": "美食探店热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 154,
+    "rank": 59,
     "id": "ht_253"
   },
   {
@@ -4354,7 +1583,7 @@
     ],
     "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 155,
+    "rank": 60,
     "id": "ht_254"
   },
   {
@@ -4380,7 +1609,7 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 156,
+    "rank": 61,
     "id": "ht_255"
   },
   {
@@ -4406,7 +1635,7 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 157,
+    "rank": 62,
     "id": "ht_256"
   },
   {
@@ -4432,7 +1661,7 @@
     ],
     "type": "数码科技热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 158,
+    "rank": 63,
     "id": "ht_257"
   },
   {
@@ -4458,7 +1687,7 @@
     ],
     "type": "数码科技热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 159,
+    "rank": 64,
     "id": "ht_258"
   },
   {
@@ -4484,7 +1713,7 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 160,
+    "rank": 65,
     "id": "ht_259"
   },
   {
@@ -4510,7 +1739,7 @@
     ],
     "type": "数码科技热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 161,
+    "rank": 66,
     "id": "ht_260"
   },
   {
@@ -4536,7 +1765,7 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 162,
+    "rank": 67,
     "id": "ht_261"
   },
   {
@@ -4562,7 +1791,7 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 163,
+    "rank": 68,
     "id": "ht_262"
   },
   {
@@ -4588,7 +1817,7 @@
     ],
     "type": "职场发展热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 164,
+    "rank": 69,
     "id": "ht_263"
   },
   {
@@ -4614,7 +1843,7 @@
     ],
     "type": "旅行户外热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 165,
+    "rank": 70,
     "id": "ht_264"
   },
   {
@@ -4640,7 +1869,7 @@
     ],
     "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 166,
+    "rank": 71,
     "id": "ht_265"
   },
   {
@@ -4666,7 +1895,7 @@
     ],
     "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 167,
+    "rank": 72,
     "id": "ht_266"
   },
   {
@@ -4692,7 +1921,7 @@
     ],
     "type": "情感心理热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 168,
+    "rank": 73,
     "id": "ht_267"
   },
   {
@@ -4718,7 +1947,7 @@
     ],
     "type": "情感心理热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 169,
+    "rank": 74,
     "id": "ht_268"
   },
   {
@@ -4744,7 +1973,7 @@
     ],
     "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 170,
+    "rank": 75,
     "id": "ht_269"
   },
   {
@@ -4770,7 +1999,7 @@
     ],
     "type": "时尚穿搭热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 171,
+    "rank": 76,
     "id": "ht_270"
   },
   {
@@ -4796,7 +2025,7 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 172,
+    "rank": 77,
     "id": "ht_271"
   },
   {
@@ -4822,7 +2051,7 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 173,
+    "rank": 78,
     "id": "ht_272"
   },
   {
@@ -4848,7 +2077,7 @@
     ],
     "type": "职场发展热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 174,
+    "rank": 79,
     "id": "ht_273"
   },
   {
@@ -4874,7 +2103,7 @@
     ],
     "type": "数码科技热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 175,
+    "rank": 80,
     "id": "ht_274"
   },
   {
@@ -4900,7 +2129,7 @@
     ],
     "type": "情感心理热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 176,
+    "rank": 81,
     "id": "ht_275"
   },
   {
@@ -4926,7 +2155,7 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 177,
+    "rank": 82,
     "id": "ht_276"
   },
   {
@@ -4952,7 +2181,7 @@
     ],
     "type": "职场发展热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 178,
+    "rank": 83,
     "id": "ht_277"
   },
   {
@@ -4978,7 +2207,7 @@
     ],
     "type": "美食探店热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 179,
+    "rank": 84,
     "id": "ht_278"
   },
   {
@@ -5004,7 +2233,7 @@
     ],
     "type": "旅行户外热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 180,
+    "rank": 85,
     "id": "ht_279"
   },
   {
@@ -5030,7 +2259,7 @@
     ],
     "type": "健身运动热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 181,
+    "rank": 86,
     "id": "ht_280"
   },
   {
@@ -5056,7 +2285,7 @@
     ],
     "type": "情感心理热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 182,
+    "rank": 87,
     "id": "ht_281"
   },
   {
@@ -5082,7 +2311,7 @@
     ],
     "type": "职场发展热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 183,
+    "rank": 88,
     "id": "ht_282"
   },
   {
@@ -5108,7 +2337,7 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 184,
+    "rank": 89,
     "id": "ht_283"
   },
   {
@@ -5134,7 +2363,7 @@
     ],
     "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 185,
+    "rank": 90,
     "id": "ht_284"
   },
   {
@@ -5160,7 +2389,7 @@
     ],
     "type": "旅行户外热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 186,
+    "rank": 91,
     "id": "ht_285"
   },
   {
@@ -5186,7 +2415,7 @@
     ],
     "type": "情感心理热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 187,
+    "rank": 92,
     "id": "ht_286"
   },
   {
@@ -5212,7 +2441,7 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 188,
+    "rank": 93,
     "id": "ht_287"
   },
   {
@@ -5238,7 +2467,7 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 189,
+    "rank": 94,
     "id": "ht_288"
   },
   {
@@ -5264,7 +2493,7 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 190,
+    "rank": 95,
     "id": "ht_289"
   },
   {
@@ -5290,7 +2519,7 @@
     ],
     "type": "职场发展热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 191,
+    "rank": 96,
     "id": "ht_290"
   },
   {
@@ -5316,7 +2545,7 @@
     ],
     "type": "旅行户外热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 192,
+    "rank": 97,
     "id": "ht_291"
   },
   {
@@ -5342,7 +2571,7 @@
     ],
     "type": "时尚穿搭热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 193,
+    "rank": 98,
     "id": "ht_292"
   },
   {
@@ -5368,7 +2597,7 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 194,
+    "rank": 99,
     "id": "ht_293"
   },
   {
@@ -5394,709 +2623,7 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 195,
+    "rank": 100,
     "id": "ht_294"
-  },
-  {
-    "title": "Citywalk路线 城市漫游攻略",
-    "description": "上海北京广州推荐",
-    "category": "旅行户外",
-    "heat_score": 71,
-    "keywords": [
-      "旅行户外",
-      "City",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "旅行户外"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "旅行户外热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 196,
-    "id": "ht_295"
-  },
-  {
-    "title": "健身房推荐 私教怎么选",
-    "description": "健身避坑指南",
-    "category": "健身运动",
-    "heat_score": 92,
-    "keywords": [
-      "健身运动",
-      "健身房推",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 197,
-    "id": "ht_296"
-  },
-  {
-    "title": "上海武康路美食攻略 小众cafe",
-    "description": "网红店打卡推荐",
-    "category": "美食探店",
-    "heat_score": 95,
-    "keywords": [
-      "美食探店",
-      "上海武康",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "美食探店"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "美食探店热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 198,
-    "id": "ht_297"
-  },
-  {
-    "title": "辅食添加攻略 6-12个月",
-    "description": "宝宝辅食做法分享",
-    "category": "母婴亲子",
-    "heat_score": 90,
-    "keywords": [
-      "母婴亲子",
-      "辅食添加",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "母婴亲子"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "母婴亲子热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 199,
-    "id": "ht_298"
-  },
-  {
-    "title": "咖啡店拍照姿势 出片技巧",
-    "description": "网红咖啡店打卡",
-    "category": "美食探店",
-    "heat_score": 75,
-    "keywords": [
-      "美食探店",
-      "咖啡店拍",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "美食探店"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "美食探店热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 200,
-    "id": "ht_299"
-  },
-  {
-    "title": "电脑配置推荐 设计师vs游戏",
-    "description": "台式机装机指南",
-    "category": "数码科技",
-    "heat_score": 82,
-    "keywords": [
-      "数码科技",
-      "电脑配置",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
-    "platform": "B站/小红书",
-    "industries": [
-      "数码科技"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 201,
-    "id": "ht_300"
-  },
-  {
-    "title": "职场通勤装 简约不失精致",
-    "description": "office穿搭指南",
-    "category": "时尚穿搭",
-    "heat_score": 76,
-    "keywords": [
-      "时尚穿搭",
-      "职场通勤",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "正面",
-    "platform": "小红书",
-    "industries": [
-      "时尚穿搭"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "时尚穿搭热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 202,
-    "id": "ht_301"
-  },
-  {
-    "title": "跑步机选购 家用vs商用",
-    "description": "跑步机推荐",
-    "category": "健身运动",
-    "heat_score": 93,
-    "keywords": [
-      "健身运动",
-      "跑步机选",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 203,
-    "id": "ht_302"
-  },
-  {
-    "title": "电子阅读器推荐 护眼阅读",
-    "description": "Kindle对比国产阅读器",
-    "category": "数码科技",
-    "heat_score": 88,
-    "keywords": [
-      "数码科技",
-      "电子阅读",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "负面",
-    "platform": "小红书",
-    "industries": [
-      "数码科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 204,
-    "id": "ht_303"
-  },
-  {
-    "title": "宝宝睡眠训练 睡整觉",
-    "description": "睡眠倒退期应对",
-    "category": "母婴亲子",
-    "heat_score": 88,
-    "keywords": [
-      "母婴亲子",
-      "宝宝睡眠",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "母婴亲子"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "母婴亲子热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 205,
-    "id": "ht_304"
-  },
-  {
-    "title": "瑜伽垫推荐 厚度材质",
-    "description": "瑜伽装备分享",
-    "category": "健身运动",
-    "heat_score": 64,
-    "keywords": [
-      "健身运动",
-      "瑜伽垫推",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "正面",
-    "platform": "小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 206,
-    "id": "ht_305"
-  },
-  {
-    "title": "腮红膏才是氛围感神器！黄黑皮秒变冷白皮",
-    "description": "膏状腮红正确用法，奶油肌妆效满分",
-    "category": "美妆护肤",
-    "heat_score": 65,
-    "keywords": [
-      "美妆护肤",
-      "腮红膏才",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 207,
-    "id": "ht_306"
-  },
-  {
-    "title": "螺蛳粉测评 柳州本地人推荐",
-    "description": "螺蛳粉店铺对比",
-    "category": "美食探店",
-    "heat_score": 80,
-    "keywords": [
-      "美食探店",
-      "螺蛳粉测",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "美食探店"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "美食探店热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 208,
-    "id": "ht_307"
-  },
-  {
-    "title": "国债逆回购 稳健理财",
-    "description": "理财技巧分享",
-    "category": "理财投资",
-    "heat_score": 94,
-    "keywords": [
-      "理财投资",
-      "国债逆回",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "理财投资"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "理财投资热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 209,
-    "id": "ht_308"
-  },
-  {
-    "title": "人均30的宝藏食堂 好吃不贵",
-    "description": "平价美食推荐",
-    "category": "美食探店",
-    "heat_score": 67,
-    "keywords": [
-      "美食探店",
-      "人均30",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "美食探店"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "美食探店热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 210,
-    "id": "ht_309"
-  },
-  {
-    "title": "春季外套推荐 风衣西装怎么选",
-    "description": "换季穿搭必看",
-    "category": "时尚穿搭",
-    "heat_score": 86,
-    "keywords": [
-      "时尚穿搭",
-      "春季外套",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "时尚穿搭"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "时尚穿搭热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 211,
-    "id": "ht_310"
-  },
-  {
-    "title": "眼妆教程 截断式vs倒钩式",
-    "description": "新手眼妆技巧",
-    "category": "美妆护肤",
-    "heat_score": 77,
-    "keywords": [
-      "美妆护肤",
-      "眼妆教程",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 212,
-    "id": "ht_311"
-  },
-  {
-    "title": "远程工作机会 居家办公",
-    "description": "新型工作方式",
-    "category": "职场发展",
-    "heat_score": 61,
-    "keywords": [
-      "职场发展",
-      "远程工作",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "职场发展"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "职场发展热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 213,
-    "id": "ht_312"
-  },
-  {
-    "title": "露营装备推荐 新手入门",
-    "description": "露营体验分享",
-    "category": "旅行户外",
-    "heat_score": 77,
-    "keywords": [
-      "旅行户外",
-      "露营装备",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "旅行户外"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "旅行户外热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 214,
-    "id": "ht_313"
-  },
-  {
-    "title": "香薰蜡烛推荐 氛围感拉满",
-    "description": "小众香薰店铺",
-    "category": "家居生活",
-    "heat_score": 66,
-    "keywords": [
-      "家居生活",
-      "香薰蜡烛",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "中性",
-    "platform": "小红书",
-    "industries": [
-      "家居生活"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "家居生活热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 215,
-    "id": "ht_314"
-  },
-  {
-    "title": "粉底液色号选择 黄一白黄二白",
-    "description": "底妆色号选择技巧",
-    "category": "美妆护肤",
-    "heat_score": 80,
-    "keywords": [
-      "美妆护肤",
-      "粉底液色",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 216,
-    "id": "ht_315"
-  },
-  {
-    "title": "面试常见问题 回答技巧",
-    "description": "面试准备指南",
-    "category": "职场发展",
-    "heat_score": 90,
-    "keywords": [
-      "职场发展",
-      "面试常见",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "职场发展"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "职场发展热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 217,
-    "id": "ht_316"
-  },
-  {
-    "title": "厨房收纳 收纳盒尺寸分享",
-    "description": "厨房整理技巧",
-    "category": "家居生活",
-    "heat_score": 76,
-    "keywords": [
-      "家居生活",
-      "厨房收纳",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "正面",
-    "platform": "微博/小红书",
-    "industries": [
-      "家居生活"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "家居生活热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 218,
-    "id": "ht_317"
-  },
-  {
-    "title": "多巴胺穿搭过时了 现在流行薄荷曼波",
-    "description": "2026穿搭趋势",
-    "category": "时尚穿搭",
-    "heat_score": 89,
-    "keywords": [
-      "时尚穿搭",
-      "多巴胺穿",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "时尚穿搭"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "时尚穿搭热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 219,
-    "id": "ht_318"
-  },
-  {
-    "title": "简历怎么写 hr青睐的简历",
-    "description": "求职技巧分享",
-    "category": "职场发展",
-    "heat_score": 90,
-    "keywords": [
-      "职场发展",
-      "简历怎么",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "职场发展"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "职场发展热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 220,
-    "id": "ht_319"
-  },
-  {
-    "title": "油画体验课 零基础入门",
-    "description": "艺术疗愈体验",
-    "category": "文化艺术",
-    "heat_score": 76,
-    "keywords": [
-      "文化艺术",
-      "油画体验",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "B站/小红书",
-    "industries": [
-      "文化艺术"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "文化艺术热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 221,
-    "id": "ht_320"
-  },
-  {
-    "title": "相亲市场观察 2026婚恋观",
-    "description": "脱单攻略分享",
-    "category": "情感心理",
-    "heat_score": 75,
-    "keywords": [
-      "情感心理",
-      "相亲市场",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 222,
-    "id": "ht_321"
   }
 ]

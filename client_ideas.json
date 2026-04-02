@@ -54554,5 +54554,4230 @@
     "engagement_estimate": "35000+",
     "status": "pending",
     "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "荣耀_202604021208_416fc045",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀手机借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "荣耀手机",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700808",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_202604021208_58576eab",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀平板借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀平板",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700829",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_202604021208_104b2915",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀手表借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "荣耀手表",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700838",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_202604021208_d020721c",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀折叠屏借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀折叠屏",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700844",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "荣耀_202604021208_0a579fc4",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀笔记本借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "荣耀笔记本",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700851",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "罗技_202604021208_e76b62f7",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技鼠标借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "罗技鼠标",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700858",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "罗技_202604021208_681a00f5",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技键盘借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技键盘",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700863",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "罗技_202604021208_ceb1c3a4",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技耳机借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "罗技耳机",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700869",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "罗技_202604021208_55e2255b",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技摄像头借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技摄像头",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700874",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "罗技_202604021208_f201860b",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技游戏手柄借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "罗技游戏手柄",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700880",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "小米_202604021208_12bb5407",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米手机借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "小米手机",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700886",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "小米_202604021208_7de1371e",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米平板借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米平板",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700892",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "小米_202604021208_44e2d526",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米手环借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "小米手环",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700897",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "小米_202604021208_3881aebf",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米智能家居借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米智能家居",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700902",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "小米_202604021208_83837fff",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米电视借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "小米电视",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700908",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "索尼_202604021208_d5271e8f",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼相机借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "索尼相机",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700914",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "索尼_202604021208_b49e78f3",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼耳机借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼耳机",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700919",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "索尼_202604021208_e64d87e2",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼游戏机借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "索尼游戏机",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700925",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "索尼_202604021208_cdae1d66",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼电视借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼电视",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700930",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "索尼_202604021208_9c9d177e",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼手机借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "索尼手机",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700935",
+    "profile_tags": {
+      "tone": "科技感",
+      "target": "年轻科技爱好者",
+      "selling_points": [
+        "创新",
+        "性价比"
+      ]
+    }
+  },
+  {
+    "id": "AHC_202604021208_990c1d4a",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC面膜借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "AHC面膜",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700941",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "AHC_202604021208_e7d38623",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC精华借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC精华",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700947",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "AHC_202604021208_596d0b64",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC眼霜借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "AHC眼霜",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700953",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "AHC_202604021208_c6ac7162",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC防晒霜借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC防晒霜",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700958",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "AHC_202604021208_0c842351",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC水乳借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "AHC水乳",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700964",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "多芬_202604021208_29f568ec",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬多芬洗面奶借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "多芬洗面奶",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700969",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "多芬_202604021208_d62e0438",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬多芬护肤霜借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬护肤霜",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700977",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "多芬_202604021208_2284956f",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬多芬沐浴露借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "多芬沐浴露",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700982",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "多芬_202604021208_022d6599",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬多芬身体乳借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "多芬身体乳",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700988",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "多芬_202604021208_b689626d",
+    "client": {
+      "brand": "多芬",
+      "industry": "护肤",
+      "products": [
+        "多芬洗面奶",
+        "多芬护肤霜",
+        "多芬沐浴露",
+        "多芬身体乳",
+        "多芬洗发水",
+        "多芬护发素",
+        "多芬香皂"
+      ]
+    },
+    "title": "《多芬多芬洗发水借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "多芬洗发水",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.700993",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "力士_202604021208_ff3281e1",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士力士香皂借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "力士香皂",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701001",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "力士_202604021208_4bd08e5e",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士力士沐浴露借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士沐浴露",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701006",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "力士_202604021208_a38e1d71",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士力士洗发水借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "力士洗发水",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701012",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "力士_202604021208_41db1300",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士力士护发素借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "力士护发素",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701017",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "力士_202604021208_b09e8f04",
+    "client": {
+      "brand": "力士",
+      "industry": "护肤",
+      "products": [
+        "力士香皂",
+        "力士沐浴露",
+        "力士洗发水",
+        "力士护发素",
+        "力士身体乳",
+        "力士香氛"
+      ]
+    },
+    "title": "《力士力士身体乳借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "力士身体乳",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701022",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "清扬_202604021208_2333fd03",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清扬清扬洗发水借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "清扬洗发水",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701028",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "清扬_202604021208_cd28f934",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清扬清扬护发素借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬护发素",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701033",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "清扬_202604021208_7be0b67a",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清扬清扬头皮护理借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "清扬头皮护理",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701039",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "清扬_202604021208_c42c7658",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清扬清扬去屑洗发水借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "清扬去屑洗发水",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701044",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "清扬_202604021208_31619476",
+    "client": {
+      "brand": "清扬",
+      "industry": "护肤",
+      "products": [
+        "清扬洗发水",
+        "清扬护发素",
+        "清扬头皮护理",
+        "清扬去屑洗发水",
+        "清扬控油洗发水"
+      ]
+    },
+    "title": "《清扬清扬控油洗发水借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "清扬控油洗发水",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701049",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_202604021208_d244a0f7",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油面霜借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "玉兰油面霜",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701055",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_202604021208_4414ca77",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油精油借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油精油",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701061",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_202604021208_fd514621",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油眼霜借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "玉兰油眼霜",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701066",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_202604021208_c99d6b37",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油精华借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油精华",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701071",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "玉兰油_202604021208_e2c2e4c0",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油防晒借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "玉兰油防晒",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701077",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_202604021208_9587f589",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健维生素借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健维生素",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701082",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_202604021208_21d934d1",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健钙片借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健钙片",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701088",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_202604021208_ec132871",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健蛋白粉借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健蛋白粉",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701093",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_202604021208_46c12745",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健鱼油借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "汤臣倍健鱼油",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701098",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "汤臣倍健_202604021208_00617a0f",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健益生菌借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健益生菌",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701104",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "善存_202604021208_f5b0b66e",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存善存维生素借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存维生素",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701110",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "善存_202604021208_068ae5e9",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存善存矿物质借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存矿物质",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701115",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "善存_202604021208_8cd0d569",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存善存复合营养借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存复合营养",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701121",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "善存_202604021208_44c1afba",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存善存钙片借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "善存钙片",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701127",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "善存_202604021208_9b4bd6e4",
+    "client": {
+      "brand": "善存",
+      "industry": "保健",
+      "products": [
+        "善存维生素",
+        "善存矿物质",
+        "善存复合营养",
+        "善存钙片",
+        "善存锌片"
+      ]
+    },
+    "title": "《善存善存锌片借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "善存锌片",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701132",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "HC_202604021208_80840d3f",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《HCHC面膜借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "HC面膜",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701138",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "HC_202604021208_57473f3f",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《HCHC精华液借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC精华液",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701143",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "HC_202604021208_32f05258",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《HCHC护肤套装借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "HC护肤套装",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701149",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "HC_202604021208_3e5e3b16",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《HCHC眼霜借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "HC眼霜",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701154",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "HC_202604021208_08c68e33",
+    "client": {
+      "brand": "HC",
+      "industry": "护肤",
+      "products": [
+        "HC面膜",
+        "HC精华液",
+        "HC护肤套装",
+        "HC眼霜",
+        "HC面霜"
+      ]
+    },
+    "title": "《HCHC面霜借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "HC面霜",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701162",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_202604021208_baa3799b",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生清洁剂借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生清洁剂",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701167",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_202604021208_17fdb78f",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生消毒液借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生消毒液",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.701173",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_202604021208_8df3b3b1",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生洗涤剂借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生洗涤剂",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702287",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_202604021208_9b8fd817",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生洁厕灵借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "威猛先生洁厕灵",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702295",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "威猛先生_202604021208_7dab7451",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生厨房清洁借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生厨房清洁",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702300",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "舒适_202604021208_b507feb4",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适纸巾借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "舒适纸巾",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702306",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "舒适_202604021208_2d34b78c",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适卷纸借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适卷纸",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702312",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "舒适_202604021208_5baa46da",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适湿巾借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "舒适湿巾",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702318",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "舒适_202604021208_e9749749",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适抽纸借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "舒适抽纸",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702324",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "舒适_202604021208_3b976f03",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适手帕纸借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "舒适手帕纸",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702329",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "希宝_202604021208_32a2a637",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《希宝希宝奶粉借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "希宝奶粉",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702334",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "希宝_202604021208_2960595c",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《希宝希宝纸尿裤借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝纸尿裤",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702339",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "希宝_202604021208_c8989f9c",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《希宝希宝婴儿护肤借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "希宝婴儿护肤",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702345",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "希宝_202604021208_b97fc57f",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《希宝希宝辅食借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "希宝辅食",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702350",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "希宝_202604021208_703df179",
+    "client": {
+      "brand": "希宝",
+      "industry": "母婴",
+      "products": [
+        "希宝奶粉",
+        "希宝纸尿裤",
+        "希宝婴儿护肤",
+        "希宝辅食",
+        "希宝湿巾"
+      ]
+    },
+    "title": "《希宝希宝湿巾借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "希宝湿巾",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702356",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "皇家_202604021208_f179f960",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家狗粮借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "皇家狗粮",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702361",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "皇家_202604021208_09f0080b",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家猫粮借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家猫粮",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702366",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "皇家_202604021208_c26ae4d5",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家宠物零食借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "皇家宠物零食",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702375",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "皇家_202604021208_e70e75d1",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家宠物营养品借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "皇家宠物营养品",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702381",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "皇家_202604021208_50316400",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家狗粮借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "皇家狗粮",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702386",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_202604021208_c0a9b24e",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY燕麦奶借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY燕麦奶",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702391",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_202604021208_b42b9766",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY冰淇淋借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY冰淇淋",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702397",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_202604021208_bc6e625d",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY酸奶借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY酸奶",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702402",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_202604021208_9f10a144",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY咖啡伴侣借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY咖啡伴侣",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702407",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "OATLY_202604021208_1cb92f12",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY燕麦奶借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY燕麦奶",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702412",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "百威_202604021208_b2cdbe07",
+    "client": {
+      "brand": "百威",
+      "industry": "食品",
+      "products": [
+        "百威啤酒",
+        "百威果酒",
+        "百威无醇啤酒"
+      ]
+    },
+    "title": "《百威百威啤酒借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威啤酒",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702417",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "百威_202604021208_1fd0b6c4",
+    "client": {
+      "brand": "百威",
+      "industry": "食品",
+      "products": [
+        "百威啤酒",
+        "百威果酒",
+        "百威无醇啤酒"
+      ]
+    },
+    "title": "《百威百威果酒借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威果酒",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702422",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "百威_202604021208_5fcfdaed",
+    "client": {
+      "brand": "百威",
+      "industry": "食品",
+      "products": [
+        "百威啤酒",
+        "百威果酒",
+        "百威无醇啤酒"
+      ]
+    },
+    "title": "《百威百威无醇啤酒借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威无醇啤酒",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702427",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "百威_202604021208_746e46a4",
+    "client": {
+      "brand": "百威",
+      "industry": "食品",
+      "products": [
+        "百威啤酒",
+        "百威果酒",
+        "百威无醇啤酒"
+      ]
+    },
+    "title": "《百威百威啤酒借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威啤酒",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702432",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "百威_202604021208_71a58f73",
+    "client": {
+      "brand": "百威",
+      "industry": "食品",
+      "products": [
+        "百威啤酒",
+        "百威果酒",
+        "百威无醇啤酒"
+      ]
+    },
+    "title": "《百威百威果酒借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威果酒",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702437",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_202604021208_612bd4f2",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶",
+        "元气森林燃茶",
+        "元气森林外星人"
+      ]
+    },
+    "title": "《元气森林元气森林气泡水借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林气泡水",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702442",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_202604021208_eb28b2fb",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶",
+        "元气森林燃茶",
+        "元气森林外星人"
+      ]
+    },
+    "title": "《元气森林元气森林乳茶借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林乳茶",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702447",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_202604021208_8608c808",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶",
+        "元气森林燃茶",
+        "元气森林外星人"
+      ]
+    },
+    "title": "《元气森林元气森林燃茶借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林燃茶",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702452",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_202604021208_49736e44",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶",
+        "元气森林燃茶",
+        "元气森林外星人"
+      ]
+    },
+    "title": "《元气森林元气森林外星人借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林外星人",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702457",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "元气森林_202604021208_f3c594e4",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品",
+      "products": [
+        "元气森林气泡水",
+        "元气森林乳茶",
+        "元气森林燃茶",
+        "元气森林外星人"
+      ]
+    },
+    "title": "《元气森林元气森林气泡水借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林气泡水",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702462",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_202604021208_cda33bc5",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉气泡水",
+        "农夫山泉茶派",
+        "农夫山泉尖叫"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉矿泉水借势清明假期最后一天 各地迎来返程高峰的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "清明假期最后一天 各地迎来返程高峰",
+    "hot_topic_id": "ht_new_bb3508e9",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉矿泉水",
+    "keywords": [
+      "清明节",
+      "返程",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702467",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_202604021208_5e6de1d7",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉气泡水",
+        "农夫山泉茶派",
+        "农夫山泉尖叫"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉气泡水借势特斯拉新一代自动驾驶正式发布 突破性技术的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
+    "hot_topic_id": "ht_new_fd65e8b9",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉气泡水",
+    "keywords": [
+      "特斯拉",
+      "自动驾驶",
+      "FSD",
+      "AI",
+      "新能源"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38500+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702472",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_202604021208_be4dad3f",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉气泡水",
+        "农夫山泉茶派",
+        "农夫山泉尖叫"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉茶派借势春季过敏高发期 皮肤科门诊量激增的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_topic_id": "ht_new_637a8953",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉茶派",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702477",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_202604021208_a4f33ca6",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉气泡水",
+        "农夫山泉茶派",
+        "农夫山泉尖叫"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉尖叫借势五一小长假旅游预订开启 热门目的地机票售的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "五一小长假旅游预订开启 热门目的地机票售罄",
+    "hot_topic_id": "ht_new_4a6d5d65",
+    "heat": "热搜前三",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉尖叫",
+    "keywords": [
+      "五一",
+      "小长假",
+      "旅游",
+      "预订",
+      "出行"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702482",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
+  },
+  {
+    "id": "农夫山泉_202604021208_9fe4fdc1",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉气泡水",
+        "农夫山泉茶派",
+        "农夫山泉尖叫"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉矿泉水借势AI生成内容监管新规出台 平台责任明确的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "AI生成内容监管新规出台 平台责任明确",
+    "hot_topic_id": "ht_new_7cf2dbce",
+    "heat": "高热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉矿泉水",
+    "keywords": [
+      "AI",
+      "AIGC",
+      "监管",
+      "内容",
+      "法规"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T12:15:08.702487",
+    "profile_tags": {
+      "tone": "专业护肤",
+      "target": "年轻女性",
+      "selling_points": [
+        "补水",
+        "修护"
+      ]
+    }
   }
 ]
