@@ -16050,37 +16050,6 @@
     ]
   },
   {
-    "id": "百威_20260402035727_298",
-    "client": {
-      "brand": "百威",
-      "industry": "饮品",
-      "products": [
-        "百威啤酒",
-        "百威无醇啤酒",
-        "百威精酿",
-        "百威金樽",
-        "百威纯生",
-        "百威听装"
-      ]
-    },
-    "title": "《性价比分析视角：百威金樽如何借势B站首届AI创作大赛收官 8300份作品...》",
-    "platform": "抖音",
-    "angle": "性价比分析",
-    "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
-    "heat": "热搜第一",
-    "trend": "🔥🔥 快速上升",
-    "product": "百威金樽",
-    "engagement_estimate": "72500+",
-    "status": "pending",
-    "created_at": "2026-04-02T03:57:27.522945",
-    "hot_topic_id": "ht_7",
-    "keywords": [
-      "B站",
-      "AI创作",
-      "updream"
-    ]
-  },
-  {
     "id": "元气森林_20260402035727_299",
     "client": {
       "brand": "元气森林",
@@ -33864,37 +33833,6 @@
     ]
   },
   {
-    "id": "农夫山泉_20260402035727_880",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "农夫山泉矿泉水",
-        "农夫山泉茶饮",
-        "农夫山泉果汁",
-        "农夫山泉气泡水",
-        "农夫山泉茶π",
-        "农夫山泉东方树叶"
-      ]
-    },
-    "title": "《真实测评视角：农夫山泉气泡水如何借势B站首届AI创作大赛收官 8300份作品...》",
-    "platform": "视频号",
-    "angle": "真实测评",
-    "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
-    "heat": "热搜第一",
-    "trend": "🔥🔥 快速上升",
-    "product": "农夫山泉气泡水",
-    "engagement_estimate": "77500+",
-    "status": "pending",
-    "created_at": "2026-04-02T03:57:27.525400",
-    "hot_topic_id": "ht_7",
-    "keywords": [
-      "B站",
-      "AI创作",
-      "updream"
-    ]
-  },
-  {
     "id": "荣耀_20260402035727_881",
     "client": {
       "brand": "荣耀",
@@ -36832,37 +36770,6 @@
       "张雪机车",
       "WSBK",
       "东鹏特饮"
-    ]
-  },
-  {
-    "id": "OATLY_20260402035727_977",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品",
-      "products": [
-        "OATLY燕麦奶",
-        "OATLY冰淇淋",
-        "OATLY酸奶",
-        "OATLY咖啡大师",
-        "OATLY雪糕",
-        "OATLY燕麦酸奶"
-      ]
-    },
-    "title": "《送礼推荐视角：OATLY雪糕如何借势B站首届AI创作大赛收官 8300份作品...》",
-    "platform": "全平台",
-    "angle": "送礼推荐",
-    "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
-    "heat": "50亿+",
-    "trend": "🔥🔥 持续上升",
-    "product": "OATLY雪糕",
-    "engagement_estimate": "70000+",
-    "status": "pending",
-    "created_at": "2026-04-02T03:57:27.525704",
-    "hot_topic_id": "ht_7",
-    "keywords": [
-      "B站",
-      "AI创作",
-      "updream"
     ]
   },
   {
@@ -42771,37 +42678,6 @@
       "张雪机车",
       "WSBK",
       "东鹏特饮"
-    ]
-  },
-  {
-    "id": "善存_20260402035727_1171",
-    "client": {
-      "brand": "善存",
-      "industry": "保健",
-      "products": [
-        "善存维生素",
-        "善存矿物质",
-        "善存复合营养",
-        "善存钙片",
-        "善存多维片",
-        "善存男士维生素"
-      ]
-    },
-    "title": "《专家观点视角：善存维生素如何借势B站首届AI创作大赛收官 8300份作品...》",
-    "platform": "小红书",
-    "angle": "专家观点",
-    "hot_topic": "B站首届AI创作大赛收官 8300份作品播放7亿",
-    "heat": "高热",
-    "trend": "🔥🔥🔥 爆发式增长",
-    "product": "善存维生素",
-    "engagement_estimate": "55000+",
-    "status": "pending",
-    "created_at": "2026-04-02T03:57:27.526328",
-    "hot_topic_id": "ht_7",
-    "keywords": [
-      "B站",
-      "AI创作",
-      "updream"
     ]
   },
   {
@@ -52951,5 +52827,1732 @@
       "北京",
       "数据治理"
     ]
+  },
+  {
+    "id": "荣耀_69229bba",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀折叠屏借势6G时代将至 1秒下载4K电影登顶热搜的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀折叠屏",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "48000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "荣耀_161ef7f8",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀手机借势微信iOS端灰度测试折叠发图功能的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀手机",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "荣耀_7a413817",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀平板借势OpenAI完成1220亿美元融资 估值的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+    "hot_topic_id": "ht_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀平板",
+    "keywords": [
+      "OpenAI",
+      "融资",
+      "AI",
+      "硅谷",
+      "人工智能"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "43770+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "荣耀_da413749",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀手机借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_topic_id": "ht_7",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀手机",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "荣耀_b88a313d",
+    "client": {
+      "brand": "荣耀",
+      "industry": "3C数码",
+      "products": [
+        "荣耀手机",
+        "荣耀平板",
+        "荣耀手表",
+        "荣耀折叠屏",
+        "荣耀笔记本",
+        "荣耀耳机",
+        "荣耀智慧屏"
+      ]
+    },
+    "title": "《荣耀荣耀耳机借势Anthropic意外泄露51万行核心代的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+    "hot_topic_id": "ht_10",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "荣耀耳机",
+    "keywords": [
+      "Anthropic",
+      "代码泄露",
+      "AI安全",
+      "Claude",
+      "网络安全"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "37602+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "罗技_13b427d3",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技摄像头借势6G时代将至 1秒下载4K电影登顶热搜的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技摄像头",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.93,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "48000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "罗技_93a96640",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技鼠标借势微信iOS端灰度测试折叠发图功能的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技鼠标",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.97,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "罗技_9eff9f21",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技键盘借势OpenAI完成1220亿美元融资 估值的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+    "hot_topic_id": "ht_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技键盘",
+    "keywords": [
+      "OpenAI",
+      "融资",
+      "AI",
+      "硅谷",
+      "人工智能"
+    ],
+    "quality_score": 0.96,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "43770+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "罗技_f952ca5c",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技鼠标借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_topic_id": "ht_7",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技鼠标",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "罗技_f75e4220",
+    "client": {
+      "brand": "罗技",
+      "industry": "3C数码",
+      "products": [
+        "罗技鼠标",
+        "罗技键盘",
+        "罗技耳机",
+        "罗技摄像头",
+        "罗技游戏手柄",
+        "罗技音箱",
+        "罗技会议设备"
+      ]
+    },
+    "title": "《罗技罗技音箱借势Anthropic意外泄露51万行核心代的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+    "hot_topic_id": "ht_10",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "罗技音箱",
+    "keywords": [
+      "Anthropic",
+      "代码泄露",
+      "AI安全",
+      "Claude",
+      "网络安全"
+    ],
+    "quality_score": 0.77,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "37602+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "小米_a22817e5",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米平板借势6G时代将至 1秒下载4K电影登顶热搜的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米平板",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "48000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "小米_c2980b8f",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米耳机借势微信iOS端灰度测试折叠发图功能的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米耳机",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.72,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "小米_4c482e1f",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米手环借势OpenAI完成1220亿美元融资 估值的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+    "hot_topic_id": "ht_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米手环",
+    "keywords": [
+      "OpenAI",
+      "融资",
+      "AI",
+      "硅谷",
+      "人工智能"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "43770+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "小米_bab944ba",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米耳机借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_topic_id": "ht_7",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米耳机",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "小米_72aeaa98",
+    "client": {
+      "brand": "小米",
+      "industry": "3C数码",
+      "products": [
+        "小米手机",
+        "小米平板",
+        "小米手环",
+        "小米智能家居",
+        "小米电视",
+        "小米路由器",
+        "小米充电器",
+        "小米耳机"
+      ]
+    },
+    "title": "《小米小米耳机借势Anthropic意外泄露51万行核心代的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+    "hot_topic_id": "ht_10",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "小米耳机",
+    "keywords": [
+      "Anthropic",
+      "代码泄露",
+      "AI安全",
+      "Claude",
+      "网络安全"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "37602+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "索尼_0e69500b",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼电视借势6G时代将至 1秒下载4K电影登顶热搜的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "6G时代将至 1秒下载4K电影登顶热搜",
+    "hot_topic_id": "ht_1",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼电视",
+    "keywords": [
+      "6G",
+      "通信技术",
+      "4K电影",
+      "空天地一体化",
+      "数字经济"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "48000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "索尼_6b19177b",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼相机借势微信iOS端灰度测试折叠发图功能的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "微信iOS端灰度测试折叠发图功能",
+    "hot_topic_id": "ht_2",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼相机",
+    "keywords": [
+      "微信",
+      "折叠发图",
+      "iOS",
+      "新功能",
+      "社交"
+    ],
+    "quality_score": 0.76,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "45000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "索尼_39ff3508",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼耳机借势OpenAI完成1220亿美元融资 估值的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+    "hot_topic_id": "ht_4",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼耳机",
+    "keywords": [
+      "OpenAI",
+      "融资",
+      "AI",
+      "硅谷",
+      "人工智能"
+    ],
+    "quality_score": 0.74,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "43770+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "索尼_2ccc2d67",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼相机借势抖音热点榜: 国足0:2喀麦隆 苹果AI的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "抖音热点榜: 国足0:2喀麦隆 苹果AI 银发经济 长鹰8首飞",
+    "hot_topic_id": "ht_7",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼相机",
+    "keywords": [
+      "抖音热搜",
+      "足球",
+      "AI",
+      "银发经济",
+      "航空"
+    ],
+    "quality_score": 0.98,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "索尼_d5e010bc",
+    "client": {
+      "brand": "索尼",
+      "industry": "3C数码",
+      "products": [
+        "索尼相机",
+        "索尼耳机",
+        "索尼游戏机",
+        "索尼电视",
+        "索尼手机",
+        "索尼音箱",
+        "索尼播放器"
+      ]
+    },
+    "title": "《索尼索尼音箱借势Anthropic意外泄露51万行核心代的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+    "hot_topic_id": "ht_10",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "索尼音箱",
+    "keywords": [
+      "Anthropic",
+      "代码泄露",
+      "AI安全",
+      "Claude",
+      "网络安全"
+    ],
+    "quality_score": 0.79,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "37602+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "AHC_6cdc0ad0",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "AHC面膜",
+        "AHC精华",
+        "AHC眼霜",
+        "AHC防晒霜",
+        "AHC水乳",
+        "AHC面霜",
+        "AHC卸妆水"
+      ]
+    },
+    "title": "《AHCAHC水乳借势站姐愚人节互换门面引爆热搜 橹穆CP话题的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "站姐愚人节互换门面引爆热搜 橹穆CP话题阅读量破2.4亿",
+    "hot_topic_id": "ht_3",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "AHC水乳",
+    "keywords": [
+      "站姐",
+      "愚人节",
+      "橹穆",
+      "CP",
+      "热搜"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "43814+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "玉兰油_ffa2a110",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "玉兰油面霜",
+        "玉兰油精油",
+        "玉兰油眼霜",
+        "玉兰油精华",
+        "玉兰油防晒",
+        "玉兰油面膜"
+      ]
+    },
+    "title": "《玉兰油玉兰油精华借势站姐愚人节互换门面引爆热搜 橹穆CP话题的创意玩法》",
+    "platform": "小红书",
+    "angle": "创意借势",
+    "hot_topic": "站姐愚人节互换门面引爆热搜 橹穆CP话题阅读量破2.4亿",
+    "hot_topic_id": "ht_3",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "玉兰油精华",
+    "keywords": [
+      "站姐",
+      "愚人节",
+      "橹穆",
+      "CP",
+      "热搜"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "43814+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "汤臣倍健_8c1c9ad3",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健",
+      "products": [
+        "汤臣倍健维生素",
+        "汤臣倍健钙片",
+        "汤臣倍健蛋白粉",
+        "汤臣倍健鱼油",
+        "汤臣倍健益生菌"
+      ]
+    },
+    "title": "《汤臣倍健汤臣倍健益生菌借势孙颖莎世界杯3-0晋级 开启争冠之路的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "孙颖莎世界杯3-0晋级 开启争冠之路",
+    "hot_topic_id": "ht_a0dfe87f",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "汤臣倍健益生菌",
+    "keywords": [
+      "孙颖莎",
+      "乒乓球",
+      "世界杯",
+      "3-0",
+      "晋级"
+    ],
+    "quality_score": 0.71,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "威猛先生_46edcf0c",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生洗涤剂借势colorwalk成为2026春季最火生的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_11",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生洗涤剂",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.79,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "威猛先生_77811e53",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生厨房清洁借势清明踏青赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_12",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生厨房清洁",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "威猛先生_c99543f4",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "清洁",
+      "products": [
+        "威猛先生清洁剂",
+        "威猛先生消毒液",
+        "威猛先生洗涤剂",
+        "威猛先生洁厕灵",
+        "威猛先生厨房清洁"
+      ]
+    },
+    "title": "《威猛先生威猛先生洗涤剂借势清明假期赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_21",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "威猛先生洗涤剂",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "28908+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "舒适_6d8c8abc",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适湿巾借势colorwalk成为2026春季最火生的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_11",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "舒适湿巾",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.97,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "舒适_48d8bbcf",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适手帕纸借势清明踏青赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_12",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "舒适手帕纸",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.93,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "舒适_b30e278d",
+    "client": {
+      "brand": "舒适",
+      "industry": "日用",
+      "products": [
+        "舒适纸巾",
+        "舒适卷纸",
+        "舒适湿巾",
+        "舒适抽纸",
+        "舒适手帕纸"
+      ]
+    },
+    "title": "《舒适舒适湿巾借势清明假期赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_21",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "舒适湿巾",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.99,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "28908+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "皇家_a2dd0164",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家狗粮借势colorwalk成为2026春季最火生的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_11",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "皇家狗粮",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "皇家_2cc4cce7",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家猫粮借势清明踏青赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_12",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "皇家猫粮",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "皇家_8eb30a6b",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "皇家狗粮",
+        "皇家猫粮",
+        "皇家宠物零食",
+        "皇家宠物营养品"
+      ]
+    },
+    "title": "《皇家皇家宠物营养品借势清明假期赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_21",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "皇家宠物营养品",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "28908+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "OATLY_131f45fe",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY冰淇淋借势瑞幸紫椰子事件 椰肉变色引消费者维权的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_5",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "OATLY冰淇淋",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "OATLY_ca8d9fe7",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY燕麦奶借势colorwalk成为2026春季最火生的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_11",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY燕麦奶",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.76,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "OATLY_bccb79f1",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "OATLY燕麦奶",
+        "OATLY冰淇淋",
+        "OATLY酸奶",
+        "OATLY咖啡伴侣"
+      ]
+    },
+    "title": "《OATLYOATLY酸奶借势2028洛杉矶奥运会门票4月9日开售的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "2028洛杉矶奥运会门票4月9日开售",
+    "hot_topic_id": "ht_92814823",
+    "heat": "新",
+    "trend": "🔥🔥 快速上升",
+    "product": "OATLY酸奶",
+    "keywords": [
+      "奥运会",
+      "洛杉矶",
+      "门票",
+      "2028",
+      "体育"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "28000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "百威_813b466d",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威啤酒借势清明节假期全国高速免费通行 出行高峰今日的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明节假期全国高速免费通行 出行高峰今日开启",
+    "hot_topic_id": "ht_6",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威啤酒",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "百威_dc1a0f26",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威精酿借势清明节高速免费通行 全国迎来出行高峰的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明节高速免费通行 全国迎来出行高峰",
+    "hot_topic_id": "ht_9",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威精酿",
+    "keywords": [
+      "清明节",
+      "高速免费",
+      "出行",
+      "假期",
+      "交通"
+    ],
+    "quality_score": 0.73,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "37782+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "百威_3ed1f5e5",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威啤酒借势colorwalk成为2026春季最火生的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_11",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威啤酒",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.71,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "百威_5ed44331",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威精酿借势清明踏青赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_12",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "百威精酿",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "百威_70174239",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "百威啤酒",
+        "百威精酿",
+        "百威无醇啤酒",
+        "百威果啤"
+      ]
+    },
+    "title": "《百威百威啤酒借势张雪机车WSBK夺冠 三天涨粉117万成的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
+    "hot_topic_id": "ht_16",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "百威啤酒",
+    "keywords": [
+      "张雪机车",
+      "WSBK",
+      "东鹏特饮",
+      "中国制造",
+      "赛车"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "元气森林_379ece05",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林电解质水借势瑞幸紫椰子事件 椰肉变色引消费者维权的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_5",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林电解质水",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "元气森林_6e32f11f",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林果汁借势孙颖莎世界杯3-0晋级 开启争冠之路的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "孙颖莎世界杯3-0晋级 开启争冠之路",
+    "hot_topic_id": "ht_a0dfe87f",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林果汁",
+    "keywords": [
+      "孙颖莎",
+      "乒乓球",
+      "世界杯",
+      "3-0",
+      "晋级"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "元气森林_df71f23f",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林气泡水借势colorwalk成为2026春季最火生的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_11",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林气泡水",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "元气森林_81ef76e5",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林电解质水借势清明踏青赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_12",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "元气森林电解质水",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "元气森林_4c9a9a3e",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "元气森林气泡水",
+        "元气森林电解质水",
+        "元气森林茶饮",
+        "元气森林果汁"
+      ]
+    },
+    "title": "《元气森林元气森林气泡水借势张雪机车WSBK夺冠 三天涨粉117万成的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "张雪机车WSBK夺冠 三天涨粉117万成顶流新神",
+    "hot_topic_id": "ht_16",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "元气森林气泡水",
+    "keywords": [
+      "张雪机车",
+      "WSBK",
+      "东鹏特饮",
+      "中国制造",
+      "赛车"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "农夫山泉_ff40bae6",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉茶π借势瑞幸紫椰子事件 椰肉变色引消费者维权的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "瑞幸紫椰子事件 椰肉变色引消费者维权",
+    "hot_topic_id": "ht_5",
+    "heat": "爆",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "农夫山泉茶π",
+    "keywords": [
+      "瑞幸",
+      "紫椰子",
+      "食品安全",
+      "消费者维权",
+      "椰肉变色"
+    ],
+    "quality_score": 0.77,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "农夫山泉_5d8f6466",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉矿泉水借势清明祭扫高峰来临 全国各地迎来祭祖人流高的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明祭扫高峰来临 全国各地迎来祭祖人流高峰",
+    "hot_topic_id": "ht_8",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉矿泉水",
+    "keywords": [
+      "清明节",
+      "祭扫",
+      "祭祖",
+      "传统文化",
+      "缅怀先人"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "农夫山泉_c2ffccf0",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉NFC果汁借势孙颖莎世界杯3-0晋级 开启争冠之路的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "孙颖莎世界杯3-0晋级 开启争冠之路",
+    "hot_topic_id": "ht_a0dfe87f",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉NFC果汁",
+    "keywords": [
+      "孙颖莎",
+      "乒乓球",
+      "世界杯",
+      "3-0",
+      "晋级"
+    ],
+    "quality_score": 0.74,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "农夫山泉_e2124fc9",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉矿泉水借势colorwalk成为2026春季最火生的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "colorwalk成为2026春季最火生活趋势",
+    "hot_topic_id": "ht_11",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉矿泉水",
+    "keywords": [
+      "colorwalk",
+      "色彩漫步",
+      "春季出游",
+      "小红书",
+      "打卡"
+    ],
+    "quality_score": 0.71,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
+  },
+  {
+    "id": "农夫山泉_539f441a",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "农夫山泉矿泉水",
+        "农夫山泉茶π",
+        "农夫山泉尖叫",
+        "农夫山泉NFC果汁"
+      ]
+    },
+    "title": "《农夫山泉农夫山泉茶π借势清明踏青赏花游火爆 全国各地花期正当时的创意玩法》",
+    "platform": "B站",
+    "angle": "创意借势",
+    "hot_topic": "清明踏青赏花游火爆 全国各地花期正当时",
+    "hot_topic_id": "ht_12",
+    "heat": "热",
+    "trend": "🔥🔥 快速上升",
+    "product": "农夫山泉茶π",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "35000+",
+    "status": "pending",
+    "created_at": "2026-04-02T10:02:09"
   }
 ]
