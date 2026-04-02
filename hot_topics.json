@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI完成1220亿美元融资 估值达8520亿美元",
+    "hot_value": 427809174,
+    "url": "https://finance.sina.com.cn/stock/relnews/2026-04-01/doc-inhsxzph1878185.shtml",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "互联网"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "OpenAI",
+      "融资",
+      "AI",
+      "硅谷",
+      "人工智能"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T07:00:00",
+    "rank": 1,
+    "id": "ht_1"
+  },
+  {
     "title": "清明假期最后一天 各地迎来返程高峰",
     "hot_value": 420000000,
     "url": "https://weibo.com",
@@ -25,9 +55,67 @@
       "OATLY"
     ],
     "created_at": "2026-04-02T12:05:00",
-    "rank": 1,
-    "id": "ht_new_bb3508e9",
+    "rank": 2,
+    "id": "ht_2",
     "category": "新闻热点"
+  },
+  {
+    "title": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
+    "hot_value": 408707943,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903usn2.html",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "互联网"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "负面",
+    "keywords": [
+      "Anthropic",
+      "代码泄露",
+      "AI安全",
+      "Claude",
+      "网络安全"
+    ],
+    "c": [
+      "小米",
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-02T06:30:00",
+    "rank": 3,
+    "id": "ht_3"
+  },
+  {
+    "title": "站姐愚人节互换门面引爆热搜 橹穆CP话题阅读量破2.4亿",
+    "hot_value": 396388790,
+    "url": "https://new.qq.com/rain/a/20260401A04UGW00",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "站姐",
+      "愚人节",
+      "橹穆",
+      "CP",
+      "热搜"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油"
+    ],
+    "created_at": "2026-04-02T00:00:00",
+    "rank": 4,
+    "id": "ht_4"
   },
   {
     "title": "特斯拉新一代自动驾驶正式发布 突破性技术引关注",
@@ -56,41 +144,9 @@
       "索尼"
     ],
     "created_at": "2026-04-02T12:05:00",
-    "rank": 2,
-    "id": "ht_new_fd65e8b9",
+    "rank": 5,
+    "id": "ht_5",
     "category": "数码科技"
-  },
-  {
-    "title": "春季过敏高发期 皮肤科门诊量激增",
-    "hot_value": 320000000,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "健康",
-      "医疗"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "健康热点",
-    "sentiment": "负面",
-    "keywords": [
-      "春季过敏",
-      "花粉",
-      "皮肤",
-      "健康",
-      "防护"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "多芬",
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-02T12:05:00",
-    "rank": 3,
-    "id": "ht_new_637a8953",
-    "category": "健康医疗"
   },
   {
     "title": "五一小长假旅游预订开启 热门目的地机票售罄",
@@ -120,9 +176,39 @@
       "百威"
     ],
     "created_at": "2026-04-02T12:05:00",
-    "rank": 4,
-    "id": "ht_new_4a6d5d65",
+    "rank": 6,
+    "id": "ht_6",
     "category": "旅行户外"
+  },
+  {
+    "title": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
+    "hot_value": 377526558,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wg5a.html",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "航天"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "SpaceX",
+      "IPO",
+      "马斯克",
+      "太空探索",
+      "航天"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T06:00:00",
+    "rank": 7,
+    "id": "ht_7"
   },
   {
     "title": "AI生成内容监管新规出台 平台责任明确",
@@ -152,87 +238,2766 @@
       "罗技"
     ],
     "created_at": "2026-04-02T12:05:00",
-    "rank": 5,
-    "id": "ht_new_7cf2dbce",
+    "rank": 8,
+    "id": "ht_8",
     "category": "数码科技"
   },
   {
-    "title": "保险配置 避坑指南",
-    "description": "保险科普知识",
-    "category": "理财投资",
-    "heat_score": 75,
-    "keywords": [
-      "理财投资",
-      "保险配置",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
+    "title": "清明假期赏花游火爆 全国各地花期正当时",
+    "hot_value": 343785575,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
     "industries": [
-      "理财投资"
+      "旅游",
+      "生活"
     ],
     "trends": [
       "热"
     ],
-    "type": "理财投资热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 6,
-    "id": "ht_200"
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "清明节",
+      "踏青",
+      "赏花",
+      "春游",
+      "旅游攻略"
+    ],
+    "c": [
+      "元气森林",
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-02T06:00:00",
+    "rank": 9,
+    "id": "ht_9"
   },
   {
-    "title": "书法学习 静心养性",
-    "description": "书法入门分享",
-    "category": "文化艺术",
-    "heat_score": 71,
-    "keywords": [
-      "文化艺术",
-      "书法学习",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "负面",
-    "platform": "B站/小红书",
+    "title": "东契奇轰42+12迎15000分里程碑 詹姆斯胜场超天勾",
+    "hot_value": 337229716,
+    "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qgqi.html",
+    "platform": "微博/抖音",
     "industries": [
-      "文化艺术"
+      "体育"
     ],
     "trends": [
       "爆"
     ],
-    "type": "文化艺术热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 7,
-    "id": "ht_201"
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "东契奇",
+      "詹姆斯",
+      "湖人",
+      "NBA",
+      "里程碑"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T07:15:00",
+    "rank": 10,
+    "id": "ht_10"
   },
   {
-    "title": "充电宝推荐 容量vs便携",
-    "description": "出行必备好物",
-    "category": "数码科技",
-    "heat_score": 72,
-    "keywords": [
-      "数码科技",
-      "充电宝推",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "负面",
-    "platform": "B站/小红书",
+    "title": "OpenAI宣布放弃视频生成工具Sora 成本过高成主因",
+    "hot_value": 336930335,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wiaq.html",
+    "platform": "微博/全网",
     "industries": [
-      "数码科技"
+      "科技",
+      "互联网"
     ],
     "trends": [
       "热"
     ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 8,
-    "id": "ht_202"
+    "type": "科技热点",
+    "sentiment": "中性",
+    "keywords": [
+      "OpenAI",
+      "Sora",
+      "视频生成",
+      "AI工具",
+      "成本"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T07:10:00",
+    "rank": 11,
+    "id": "ht_11"
+  },
+  {
+    "title": "春季过敏高发期 皮肤科门诊量激增",
+    "hot_value": 320000000,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "健康",
+      "医疗"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "负面",
+    "keywords": [
+      "春季过敏",
+      "花粉",
+      "皮肤",
+      "健康",
+      "防护"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "多芬",
+      "汤臣倍健"
+    ],
+    "created_at": "2026-04-02T12:05:00",
+    "rank": 12,
+    "id": "ht_12",
+    "category": "健康医疗"
+  },
+  {
+    "title": "台湾艺人邱胜翊涉嫌伪造病历逃避兵役遭拘捕",
+    "hot_value": 310395850,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_94569cda3e090665",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "负面",
+    "keywords": [
+      "邱胜翊",
+      "王子",
+      "逃避兵役",
+      "台湾艺人",
+      "伪造病历"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T07:01:00",
+    "rank": 13,
+    "id": "ht_13"
+  },
+  {
+    "title": "全国多地迎来清明祭扫高峰 文明祭扫成主流",
+    "hot_value": 288944276,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "清明节",
+      "祭扫",
+      "祭祖",
+      "传统文化",
+      "缅怀先人"
+    ],
+    "c": [
+      "农夫山泉",
+      "康师傅"
+    ],
+    "created_at": "2026-04-02T06:30:00",
+    "rank": 14,
+    "id": "ht_14"
+  },
+  {
+    "title": "《黑神话:悟空》DLC预告发布 国产游戏再引全球关注",
+    "hot_value": 280925837,
+    "url": "https://bilibili.com",
+    "platform": "B站/微博",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "黑神话悟空",
+      "DLC",
+      "国产游戏",
+      "游戏预告"
+    ],
+    "c": [
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-02T05:30:00",
+    "rank": 15,
+    "id": "ht_15"
+  },
+  {
+    "title": "中国空间站完成新一轮太空实验 航天员创造新纪录",
+    "hot_value": 279571306,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "航天"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "空间站",
+      "航天员",
+      "太空实验",
+      "中国航天"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T05:30:00",
+    "rank": 16,
+    "id": "ht_16"
+  },
+  {
+    "title": "五一假期旅游预订火爆 热门目的地酒店售罄",
+    "hot_value": 274994671,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游",
+      "消费"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "五一假期",
+      "旅游预订",
+      "热门目的地",
+      "酒店"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 17,
+    "id": "ht_17"
+  },
+  {
+    "title": "宁德时代发布新一代电池 续航突破1000公里",
+    "hot_value": 271189124,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "汽车"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "宁德时代",
+      "电池",
+      "续航",
+      "新能源"
+    ],
+    "c": [
+      "小米"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 18,
+    "id": "ht_18"
+  },
+  {
+    "title": "4月新规实施:后排未系安全带全国严查",
+    "hot_value": 263419274,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "社会",
+      "交通"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "安全带",
+      "新规",
+      "交通法规",
+      "后排乘客",
+      "执法"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T06:00:00",
+    "rank": 19,
+    "id": "ht_19"
+  },
+  {
+    "title": "2026年全国高考改革方案公布 新变化引关注",
+    "hot_value": 251894625,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "高考改革",
+      "教育改革",
+      "高考方案",
+      "新高考"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 20,
+    "id": "ht_20"
+  },
+  {
+    "title": "新能源汽车出口量再创新高 中国制造走向世界",
+    "hot_value": 249920655,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "汽车",
+      "外贸"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "新能源汽车",
+      "出口",
+      "中国制造",
+      "外贸"
+    ],
+    "c": [
+      "小米"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 21,
+    "id": "ht_21"
+  },
+  {
+    "title": "孙颖莎轻取对手强势开启世界杯淘汰赛征程",
+    "hot_value": 244559992,
+    "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qk78.html",
+    "platform": "微博/全网",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "孙颖莎",
+      "乒乓球",
+      "世界杯",
+      "国乒",
+      "淘汰赛"
+    ],
+    "c": [
+      "农夫山泉",
+      "汤臣倍健"
+    ],
+    "created_at": "2026-04-02T06:20:00",
+    "rank": 22,
+    "id": "ht_22"
+  },
+  {
+    "title": "伊朗愿在诉求满足下结束战争 中东局势现转机",
+    "hot_value": 237222439,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_57869cccdcd11752",
+    "platform": "微博/全网",
+    "industries": [
+      "国际",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "国际热点",
+    "sentiment": "中性",
+    "keywords": [
+      "伊朗",
+      "中东",
+      "战争",
+      "和平",
+      "国际局势"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:40:00",
+    "rank": 23,
+    "id": "ht_23"
+  },
+  {
+    "title": "国产大飞机C919商业运营满一年 运送旅客超50万人次",
+    "hot_value": 234113947,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "航空"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "C919",
+      "大飞机",
+      "商业运营",
+      "中国制造",
+      "航空"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 24,
+    "id": "ht_24"
+  },
+  {
+    "title": "小米SU7交付量突破10万台 新能源汽车市场竞争加剧",
+    "hot_value": 228340972,
+    "url": "https://weibo.com",
+    "platform": "微博",
+    "industries": [
+      "汽车",
+      "科技"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "小米SU7",
+      "电动车",
+      "交付",
+      "雷军",
+      "新能源"
+    ],
+    "c": [
+      "小米"
+    ],
+    "created_at": "2026-04-02T05:30:00",
+    "rank": 25,
+    "id": "ht_25"
+  },
+  {
+    "title": "智谱AI年营收7.24亿 同比增长132%",
+    "hot_value": 225447199,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903v1ky.html",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "互联网"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "智谱AI",
+      "财报",
+      "大模型",
+      "商业化",
+      "MaaS"
+    ],
+    "c": [
+      "小米",
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-02T06:45:00",
+    "rank": 26,
+    "id": "ht_26"
+  },
+  {
+    "title": "AI绘画技术突破 创作门槛大幅降低",
+    "hot_value": 225351226,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "文化"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "AI绘画",
+      "技术突破",
+      "创作门槛",
+      "数字艺术"
+    ],
+    "c": [
+      "小米",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 27,
+    "id": "ht_27"
+  },
+  {
+    "title": "小红书笔记商业化新玩法 品牌种草效果显著",
+    "hot_value": 222031334,
+    "url": "https://weibo.com",
+    "platform": "小红书/全网",
+    "industries": [
+      "互联网",
+      "营销"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "互联网热点",
+    "sentiment": "正面",
+    "keywords": [
+      "小红书",
+      "商业化",
+      "品牌种草",
+      "营销"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "小米"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 28,
+    "id": "ht_28"
+  },
+  {
+    "title": "中国科学家实现量子计算新突破 国际影响力提升",
+    "hot_value": 221877388,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "量子计算",
+      "科学家",
+      "技术突破",
+      "中国科技"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 29,
+    "id": "ht_29"
+  },
+  {
+    "title": "国产手机品牌海外市场份额提升 品牌影响力增强",
+    "hot_value": 218431836,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "外贸"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "国产手机",
+      "海外市场",
+      "品牌影响力",
+      "手机品牌"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 30,
+    "id": "ht_30"
+  },
+  {
+    "title": "预制菜行业规范出台 消费者权益更有保障",
+    "hot_value": 217703426,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "餐饮",
+      "消费"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "预制菜",
+      "行业规范",
+      "消费者权益",
+      "食品安全"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 31,
+    "id": "ht_31"
+  },
+  {
+    "title": "孙俪新剧《危险关系》获赞 悬疑转型成功引热议",
+    "hot_value": 216961073,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_54669cd0e2212552",
+    "platform": "微博/抖音",
+    "industries": [
+      "娱乐",
+      "影视"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "孙俪",
+      "危险关系",
+      "新剧",
+      "转型",
+      "悬疑剧"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士"
+    ],
+    "created_at": "2026-04-02T05:40:00",
+    "rank": 32,
+    "id": "ht_32"
+  },
+  {
+    "title": "中科曙光发布全球首个单机柜级640卡超节点",
+    "hot_value": 216916855,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wdi4.html",
+    "platform": "微博/全网",
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "中科曙光",
+      "超节点",
+      "AI算力",
+      "芯片",
+      "国产化"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 33,
+    "id": "ht_33"
+  },
+  {
+    "title": "乘风2026陶昕然人气飙升 安陵容浪姐连线甄嬛引爆情怀",
+    "hot_value": 213544034,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzm.html",
+    "platform": "微博/抖音",
+    "industries": [
+      "娱乐",
+      "综艺"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "乘风2026",
+      "陶昕然",
+      "浪姐",
+      "甄嬛传",
+      "安陵容"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士"
+    ],
+    "created_at": "2026-04-02T00:01:00",
+    "rank": 34,
+    "id": "ht_34"
+  },
+  {
+    "title": "国产化妆品品牌崛起 国货替代进口成趋势",
+    "hot_value": 213497323,
+    "url": "https://weibo.com",
+    "platform": "小红书/微博",
+    "industries": [
+      "美妆",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "国产化妆品",
+      "国货崛起",
+      "进口替代",
+      "美妆品牌"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 35,
+    "id": "ht_35"
+  },
+  {
+    "title": "多地出台购房新政 楼市政策持续优化",
+    "hot_value": 210671737,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "房产",
+      "经济"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "购房新政",
+      "楼市",
+      "政策优化",
+      "房地产"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 36,
+    "id": "ht_36"
+  },
+  {
+    "title": "抖音本地生活服务规模突破千亿",
+    "hot_value": 208211782,
+    "url": "https://weibo.com",
+    "platform": "抖音/全网",
+    "industries": [
+      "互联网",
+      "消费"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "互联网热点",
+    "sentiment": "正面",
+    "keywords": [
+      "抖音",
+      "本地生活",
+      "千亿规模",
+      "O2O"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 37,
+    "id": "ht_37"
+  },
+  {
+    "title": "微软Microsoft 365 Copilot推三大升级",
+    "hot_value": 206551428,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wdi4.html",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "互联网"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "微软",
+      "Copilot",
+      "AI代理",
+      "Office",
+      "人工智能"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T05:10:00",
+    "rank": 38,
+    "id": "ht_38"
+  },
+  {
+    "title": "AI辅助学习工具受追捧 学生群体接受度高",
+    "hot_value": 204206599,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "教育",
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "AI学习",
+      "辅助学习",
+      "学生群体",
+      "教育科技"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 39,
+    "id": "ht_39"
+  },
+  {
+    "title": "A股4月开门红 创业板指涨近2% 科创50涨超3%",
+    "hot_value": 203518874,
+    "url": "https://finance.sina.com.cn/jjxw/2026-04-01/doc-inhsysmc5034499.html",
+    "platform": "微博/全网",
+    "industries": [
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "A股",
+      "创业板",
+      "科创50",
+      "股市",
+      "反弹"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:30:00",
+    "rank": 40,
+    "id": "ht_40"
+  },
+  {
+    "title": "春季车展即将开幕 新款车型集中亮相",
+    "hot_value": 200413330,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "汽车",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "春季车展",
+      "新款车型",
+      "汽车消费",
+      "汽车市场"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 41,
+    "id": "ht_41"
+  },
+  {
+    "title": "高校毕业生就业季来临 就业形势引关注",
+    "hot_value": 200370504,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "教育",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "毕业生",
+      "就业",
+      "就业形势",
+      "求职",
+      "大学生"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:30:00",
+    "rank": 42,
+    "id": "ht_42"
+  },
+  {
+    "title": "王者荣耀世界英雄PV发布 玩家期待值拉满",
+    "hot_value": 200032531,
+    "url": "https://www.douyin.com/search/王者荣耀世界英雄PV",
+    "platform": "抖音/微博",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "王者荣耀",
+      "世界",
+      "英雄PV",
+      "手游",
+      "腾讯游戏"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:20:00",
+    "rank": 43,
+    "id": "ht_43"
+  },
+  {
+    "title": "国产动画电影票房突破 国漫崛起势头强劲",
+    "hot_value": 198355511,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐",
+      "文化"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "国产动画",
+      "电影票房",
+      "国漫崛起",
+      "动画电影"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 44,
+    "id": "ht_44"
+  },
+  {
+    "title": "青团销量暴增成网红爆款 清明传统美食受热捧",
+    "hot_value": 198090792,
+    "url": "https://weibo.com",
+    "platform": "全网",
+    "industries": [
+      "食品",
+      "电商"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "清明节",
+      "青团",
+      "传统美食",
+      "网红美食",
+      "春日限定"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T06:00:00",
+    "rank": 45,
+    "id": "ht_45"
+  },
+  {
+    "title": "可穿戴医疗设备获批 慢病管理迎来新方案",
+    "hot_value": 197129852,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "健康",
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "可穿戴医疗",
+      "慢病管理",
+      "医疗设备",
+      "数字医疗"
+    ],
+    "c": [
+      "汤臣倍健"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 46,
+    "id": "ht_46"
+  },
+  {
+    "title": "2026春夏时装周落幕 中国设计师闪耀国际舞台",
+    "hot_value": 195549598,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "时尚",
+      "文化"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "时尚热点",
+    "sentiment": "正面",
+    "keywords": [
+      "时装周",
+      "中国设计师",
+      "国际舞台",
+      "时尚产业"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 47,
+    "id": "ht_47"
+  },
+  {
+    "title": "G20峰会召开在即 全球经济治理成焦点",
+    "hot_value": 194704879,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "国际",
+      "经济"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "国际热点",
+    "sentiment": "中性",
+    "keywords": [
+      "G20",
+      "峰会",
+      "全球经济",
+      "治理",
+      "国际合作"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 48,
+    "id": "ht_48"
+  },
+  {
+    "title": "故宫博物院推出春季特展 传统文化受热捧",
+    "hot_value": 184868486,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "文化",
+      "旅游"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "文化热点",
+    "sentiment": "正面",
+    "keywords": [
+      "故宫",
+      "特展",
+      "传统文化",
+      "文物",
+      "博物馆"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 49,
+    "id": "ht_49"
+  },
+  {
+    "title": "户外运动热度攀升 露营装备市场规模扩大",
+    "hot_value": 184001764,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "旅游",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "户外运动",
+      "露营装备",
+      "市场规模",
+      "户外生活"
+    ],
+    "c": [
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 50,
+    "id": "ht_50"
+  },
+  {
+    "title": "智能穿戴设备市场持续增长 健康监测成刚需",
+    "hot_value": 181837424,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "智能穿戴",
+      "健康监测",
+      "市场增长",
+      "智能手表"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 51,
+    "id": "ht_51"
+  },
+  {
+    "title": "碳达峰碳中和工作取得新进展 绿色发展成效显著",
+    "hot_value": 181703926,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "环保",
+      "经济"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "碳达峰",
+      "碳中和",
+      "绿色发展",
+      "环保",
+      "低碳"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 52,
+    "id": "ht_52"
+  },
+  {
+    "title": "英国正式加入CPTPP 全球贸易格局生变",
+    "hot_value": 178727542,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "国际",
+      "经济"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "国际热点",
+    "sentiment": "中性",
+    "keywords": [
+      "英国",
+      "CPTPP",
+      "贸易协定",
+      "全球化",
+      "经贸合作"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 53,
+    "id": "ht_53"
+  },
+  {
+    "title": "宠物经济规模突破5000亿 宠物消费升级明显",
+    "hot_value": 177622294,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "宠物",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "宠物经济",
+      "宠物消费",
+      "市场规模",
+      "消费升级"
+    ],
+    "c": [
+      "皇家"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 54,
+    "id": "ht_54"
+  },
+  {
+    "title": "蚊子史诗级加强引热议 疾控部门紧急提醒防蚊",
+    "hot_value": 176928548,
+    "url": "https://www.xhby.net/content/s69cd371ce4b0639de44f4deb.html",
+    "platform": "微博/全网",
+    "industries": [
+      "生活",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "负面",
+    "keywords": [
+      "蚊子",
+      "疾控",
+      "健康提醒",
+      "夏季",
+      "防护"
+    ],
+    "c": [
+      "威猛先生",
+      "汤臣倍健"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 55,
+    "id": "ht_55"
+  },
+  {
+    "title": "智能家居普及率提升 年轻家庭成主力消费群",
+    "hot_value": 176114262,
+    "url": "https://weibo.com",
+    "platform": "小红书/微博",
+    "industries": [
+      "家居",
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "智能家居",
+      "普及率",
+      "年轻家庭",
+      "智能生活"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 56,
+    "id": "ht_56"
+  },
+  {
+    "title": "数字人民币试点范围再扩大 应用场景持续丰富",
+    "hot_value": 175698871,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "金融",
+      "科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "数字人民币",
+      "试点",
+      "应用场景",
+      "数字货币"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 57,
+    "id": "ht_57"
+  },
+  {
+    "title": "意大利连续3届无缘世界杯 足球强国陷入低谷",
+    "hot_value": 171923258,
+    "url": "https://www.douyin.com/search/意大利连续3届无缘世界杯",
+    "platform": "抖音/微博",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "负面",
+    "keywords": [
+      "意大利",
+      "世界杯",
+      "足球",
+      "欧洲杯",
+      "出局"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:30:00",
+    "rank": 58,
+    "id": "ht_58"
+  },
+  {
+    "title": "光伏产业产能持续扩张 行业竞争加剧",
+    "hot_value": 170791326,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "能源"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "经济热点",
+    "sentiment": "中性",
+    "keywords": [
+      "光伏产业",
+      "产能扩张",
+      "行业竞争",
+      "清洁能源"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 59,
+    "id": "ht_59"
+  },
+  {
+    "title": "直播电商进入精细化运营阶段 品质升级成关键",
+    "hot_value": 170487599,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "电商",
+      "互联网"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "互联网热点",
+    "sentiment": "正面",
+    "keywords": [
+      "直播电商",
+      "精细化运营",
+      "品质升级",
+      "电商转型"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 60,
+    "id": "ht_60"
+  },
+  {
+    "title": "知识付费行业规范化发展 优质内容受追捧",
+    "hot_value": 170136080,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "教育",
+      "互联网"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "互联网热点",
+    "sentiment": "正面",
+    "keywords": [
+      "知识付费",
+      "行业规范",
+      "优质内容",
+      "在线教育"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 61,
+    "id": "ht_61"
+  },
+  {
+    "title": "高校毕业生租房需求激增 长租公寓市场回暖",
+    "hot_value": 169745236,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "房产",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "毕业生租房",
+      "长租公寓",
+      "市场回暖",
+      "租房市场"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 62,
+    "id": "ht_62"
+  },
+  {
+    "title": "跨境电商出口持续增长 中国品牌出海加速",
+    "hot_value": 169613337,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "电商",
+      "外贸"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "跨境电商",
+      "出口增长",
+      "品牌出海",
+      "外贸"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 63,
+    "id": "ht_63"
+  },
+  {
+    "title": "2026清明档电影激战 《我,许可》《我的妈耶》领跑",
+    "hot_value": 168853053,
+    "url": "https://new.qq.com/rain/a/20260401A03KCB00",
+    "platform": "微博/抖音",
+    "industries": [
+      "娱乐",
+      "影视"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "清明档",
+      "电影",
+      "我许可",
+      "我的妈耶",
+      "马思纯"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T06:00:00",
+    "rank": 64,
+    "id": "ht_64"
+  },
+  {
+    "title": "中医养生理念受年轻人追捧 国潮养生成新风尚",
+    "hot_value": 168644128,
+    "url": "https://weibo.com",
+    "platform": "小红书/微博",
+    "industries": [
+      "健康",
+      "文化"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "中医养生",
+      "年轻人",
+      "国潮",
+      "养生"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存"
+    ],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 65,
+    "id": "ht_65"
+  },
+  {
+    "title": "5G应用场景持续扩展 智慧城市建设加速推进",
+    "hot_value": 168362181,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "通信"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "5G",
+      "智慧城市",
+      "应用场景",
+      "数字化转型"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 66,
+    "id": "ht_66"
+  },
+  {
+    "title": "国潮品牌联名合作受追捧 跨界营销成新趋势",
+    "hot_value": 167799024,
+    "url": "https://weibo.com",
+    "platform": "小红书/微博",
+    "industries": [
+      "营销",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "国潮品牌",
+      "联名合作",
+      "跨界营销",
+      "品牌营销"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 67,
+    "id": "ht_67"
+  },
+  {
+    "title": "短剧市场持续火爆 日均产量突破500部",
+    "hot_value": 167054259,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐",
+      "互联网"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "短剧",
+      "市场火爆",
+      "日均产量",
+      "内容产业"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:30:00",
+    "rank": 68,
+    "id": "ht_68"
+  },
+  {
+    "title": "美国通胀数据发布 美联储加息预期再起",
+    "hot_value": 166579612,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "国际",
+      "经济"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "国际热点",
+    "sentiment": "中性",
+    "keywords": [
+      "美国通胀",
+      "美联储",
+      "加息",
+      "CPI",
+      "货币政策"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:30:00",
+    "rank": 69,
+    "id": "ht_69"
+  },
+  {
+    "title": "欧盟通过新数字法案 全球科技巨头面临更严格监管",
+    "hot_value": 165963225,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "国际"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "国际热点",
+    "sentiment": "中性",
+    "keywords": [
+      "欧盟",
+      "数字法案",
+      "科技监管",
+      "隐私保护",
+      "反垄断"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 70,
+    "id": "ht_70"
+  },
+  {
+    "title": "赵露思新剧《朝花不见愁》女主暂定 古装仙侠引期待",
+    "hot_value": 161845346,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_15569cd19bd48752",
+    "platform": "微博/小红书",
+    "industries": [
+      "娱乐",
+      "影视"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "赵露思",
+      "朝花不见愁",
+      "古装剧",
+      "仙侠",
+      "新剧"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "多芬"
+    ],
+    "created_at": "2026-04-02T04:25:00",
+    "rank": 71,
+    "id": "ht_71"
+  },
+  {
+    "title": "清明节后机票价格大幅回落 错峰出行正当时",
+    "hot_value": 161244207,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "旅游",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "机票价格",
+      "错峰出行",
+      "旅游省钱",
+      "清明后"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林"
+    ],
+    "created_at": "2026-04-02T06:00:00",
+    "rank": 72,
+    "id": "ht_72"
+  },
+  {
+    "title": "社区团购模式创新 供应链效率持续优化",
+    "hot_value": 158879324,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "电商",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "互联网热点",
+    "sentiment": "正面",
+    "keywords": [
+      "社区团购",
+      "供应链",
+      "效率优化",
+      "生鲜电商"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 73,
+    "id": "ht_73"
+  },
+  {
+    "title": "潮玩市场规模持续增长 国潮品牌崛起",
+    "hot_value": 158248983,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "消费",
+      "文化"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "潮玩",
+      "市场规模",
+      "国潮品牌",
+      "潮流文化"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T03:30:00",
+    "rank": 74,
+    "id": "ht_74"
+  },
+  {
+    "title": "HPV疫苗接种年龄限制放宽 更多人群受益",
+    "hot_value": 157417771,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "健康",
+      "医疗"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "HPV疫苗",
+      "接种年龄",
+      "宫颈癌",
+      "预防"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 75,
+    "id": "ht_75"
+  },
+  {
+    "title": "年轻人理财观念转变 稳健投资成主流",
+    "hot_value": 156156343,
+    "url": "https://weibo.com",
+    "platform": "小红书/微博",
+    "industries": [
+      "金融",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "年轻人理财",
+      "稳健投资",
+      "理财观念",
+      "投资理财"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 76,
+    "id": "ht_76"
+  },
+  {
+    "title": "风力发电装机容量创新高 绿色能源占比提升",
+    "hot_value": 154695996,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "能源"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "风力发电",
+      "装机容量",
+      "绿色能源",
+      "清洁能源"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 77,
+    "id": "ht_77"
+  },
+  {
+    "title": "李子柒自编自导纪录片电影《温室》完成备案",
+    "hot_value": 150876707,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_15569cd19bd48752",
+    "platform": "微博/抖音",
+    "industries": [
+      "娱乐",
+      "影视"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "李子柒",
+      "纪录片",
+      "电影",
+      "温室",
+      "导演"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY"
+    ],
+    "created_at": "2026-04-02T04:20:00",
+    "rank": 78,
+    "id": "ht_78"
+  },
+  {
+    "title": "全国植树节活动蓬勃开展 生态文明建设深入人心",
+    "hot_value": 149607147,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "环保",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "植树节",
+      "生态环境",
+      "绿化",
+      "环保活动"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 79,
+    "id": "ht_79"
+  },
+  {
+    "title": "乡村旅游持续升温 农家乐订单翻倍",
+    "hot_value": 148797529,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游",
+      "乡村振兴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "乡村旅游",
+      "农家乐",
+      "订单翻倍",
+      "乡村振兴"
+    ],
+    "c": [
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 80,
+    "id": "ht_80"
+  },
+  {
+    "title": "保障性住房建设提速 解决新市民住房问题",
+    "hot_value": 145037652,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "房产",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "保障性住房",
+      "新市民",
+      "住房问题",
+      "民生工程"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 81,
+    "id": "ht_81"
+  },
+  {
+    "title": "Visa警告:AI不足以遏制新型诈骗浪潮",
+    "hot_value": 144606770,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wbx8.html",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "金融"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "负面",
+    "keywords": [
+      "Visa",
+      "AI诈骗",
+      "金融安全",
+      "深度伪造",
+      "网络安全"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 82,
+    "id": "ht_82"
+  },
+  {
+    "title": "银发经济崛起 老年消费市场潜力巨大",
+    "hot_value": 144350358,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "消费",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "银发经济",
+      "老年消费",
+      "市场规模",
+      "老龄化"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 83,
+    "id": "ht_83"
+  },
+  {
+    "title": "教育部发布新规 加强中小学生心理健康教育",
+    "hot_value": 141760220,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "教育部",
+      "心理健康",
+      "中小学生",
+      "教育新规"
+    ],
+    "c": [
+      "汤臣倍健"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 84,
+    "id": "ht_84"
+  },
+  {
+    "title": "日本1:0英格兰 国际足球友谊赛爆冷门",
+    "hot_value": 140659317,
+    "url": "https://www.douyin.com/search/日本1:0英格兰",
+    "platform": "抖音",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "日本",
+      "英格兰",
+      "足球",
+      "友谊赛",
+      "爆冷"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 85,
+    "id": "ht_85"
+  },
+  {
+    "title": "职场技能学习需求旺盛 在线职业培训市场增长",
+    "hot_value": 139646950,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "教育",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "职场技能",
+      "在线培训",
+      "职业发展",
+      "技能提升"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 86,
+    "id": "ht_86"
+  },
+  {
+    "title": "2026LPL第二赛段赛程公布 4月4日开赛引期待",
+    "hot_value": 137635551,
+    "url": "http://weibo.com/u/5756404150",
+    "platform": "微博/B站",
+    "industries": [
+      "游戏",
+      "电竞"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "LPL",
+      "英雄联盟",
+      "电竞",
+      "赛程"
+    ],
+    "c": [
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 87,
+    "id": "ht_87"
+  },
+  {
+    "title": "二手车市场交易量持续增长 新能源二手车走俏",
+    "hot_value": 137089167,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "汽车",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "二手车",
+      "交易量",
+      "新能源二手车",
+      "汽车消费"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 88,
+    "id": "ht_88"
+  },
+  {
+    "title": "健康零食市场规模扩大 无添加成消费新趋势",
+    "hot_value": 132807395,
+    "url": "https://weibo.com",
+    "platform": "小红书/微博",
+    "industries": [
+      "食品",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "健康零食",
+      "无添加",
+      "消费趋势",
+      "零食市场"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 89,
+    "id": "ht_89"
+  },
+  {
+    "title": "中国非遗走向世界 传统技艺国际影响力提升",
+    "hot_value": 132547900,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "文化"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "文化热点",
+    "sentiment": "正面",
+    "keywords": [
+      "非遗",
+      "传统文化",
+      "技艺",
+      "文化遗产"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 90,
+    "id": "ht_90"
+  },
+  {
+    "title": "露营经济持续升温 户外装备销量激增",
+    "hot_value": 132503305,
+    "url": "https://weibo.com",
+    "platform": "小红书/抖音",
+    "industries": [
+      "旅游",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "露营",
+      "户外装备",
+      "销量激增",
+      "户外生活"
+    ],
+    "c": [
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 91,
+    "id": "ht_91"
+  },
+  {
+    "title": "春季护肤品换新季 防晒产品销量激增",
+    "hot_value": 130856480,
+    "url": "https://weibo.com",
+    "platform": "小红书/微博",
+    "industries": [
+      "美妆",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "春季护肤",
+      "防晒产品",
+      "销量激增",
+      "换季护肤"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "多芬"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 92,
+    "id": "ht_92"
+  },
+  {
+    "title": "橡鹿机器人获3亿元融资 AI炒菜机器人商业化提速",
+    "hot_value": 130514230,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wg5a.html",
+    "platform": "微博/全网",
+    "industries": [
+      "科技",
+      "餐饮"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "商业新闻",
+    "sentiment": "正面",
+    "keywords": [
+      "橡鹿机器人",
+      "融资",
+      "AI炒菜",
+      "餐饮机器人",
+      "商业化"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T06:15:00",
+    "rank": 93,
+    "id": "ht_93"
+  },
+  {
+    "title": "春季养生正当时 中医调理受年轻人青睐",
+    "hot_value": 130476341,
+    "url": "https://weibo.com",
+    "platform": "小红书/微博",
+    "industries": [
+      "健康",
+      "文化"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "春季养生",
+      "中医调理",
+      "年轻人",
+      "健康生活"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 94,
+    "id": "ht_94"
+  },
+  {
+    "title": "张雪机车备战达喀尔拉力赛 中国摩托车队再创历史",
+    "hot_value": 130185613,
+    "url": "https://www.douyin.com/search/张雪备战达喀尔",
+    "platform": "抖音/微博",
+    "industries": [
+      "体育",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "张雪机车",
+      "达喀尔",
+      "WSBK",
+      "中国制造",
+      "赛车"
+    ],
+    "c": [
+      "百威",
+      "元气森林"
+    ],
+    "created_at": "2026-04-02T06:10:00",
+    "rank": 95,
+    "id": "ht_95"
+  },
+  {
+    "title": "互联网医院发展迅猛 在线问诊成新趋势",
+    "hot_value": 126408891,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "健康",
+      "互联网"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "互联网医院",
+      "在线问诊",
+      "远程医疗",
+      "数字医疗"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 96,
+    "id": "ht_96"
+  },
+  {
+    "title": "在线音乐平台推出Hi-Res音质 用户体验升级",
+    "hot_value": 125942747,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "互联网",
+      "娱乐"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "互联网热点",
+    "sentiment": "正面",
+    "keywords": [
+      "在线音乐",
+      "Hi-Res音质",
+      "用户体验",
+      "音频品质"
+    ],
+    "c": [
+      "索尼"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 97,
+    "id": "ht_97"
+  },
+  {
+    "title": "银行业数字化转型加速 智能金融服务升级",
+    "hot_value": 125018806,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "金融",
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "经济热点",
+    "sentiment": "正面",
+    "keywords": [
+      "银行",
+      "数字化转型",
+      "智能金融",
+      "金融科技"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 98,
+    "id": "ht_98"
+  },
+  {
+    "title": "鸣潮新角色绯雪达妮娅实机演示发布",
+    "hot_value": 123687175,
+    "url": "https://www.douyin.com/search/鸣潮绯雪达妮娅实机演示",
+    "platform": "抖音/B站",
+    "industries": [
+      "游戏"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "游戏热点",
+    "sentiment": "正面",
+    "keywords": [
+      "鸣潮",
+      "绯雪达妮娅",
+      "实机演示",
+      "二次元游戏"
+    ],
+    "c": [
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-02T03:50:00",
+    "rank": 99,
+    "id": "ht_99"
+  },
+  {
+    "title": "咖啡连锁品牌加速下沉市场布局",
+    "hot_value": 122417317,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "餐饮",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "商业新闻",
+    "sentiment": "正面",
+    "keywords": [
+      "咖啡连锁",
+      "下沉市场",
+      "品牌布局",
+      "扩张"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY"
+    ],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 100,
+    "id": "ht_100"
+  },
+  {
+    "title": "春季招聘季开启 各大企业加大人才引进力度",
+    "hot_value": 120241426,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "社会",
+      "经济"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "春季招聘",
+      "就业",
+      "人才引进",
+      "求职",
+      "招聘季"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T05:30:00",
+    "rank": 101,
+    "id": "ht_101"
+  },
+  {
+    "title": "冰雪旅游热度不减 滑雪场预约爆满",
+    "hot_value": 116016749,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "旅游",
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "冰雪旅游",
+      "滑雪场",
+      "预约爆满",
+      "冬季运动"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T03:30:00",
+    "rank": 102,
+    "id": "ht_102"
+  },
+  {
+    "title": "剧本杀行业进入整合期 市场走向规范化",
+    "hot_value": 115406214,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "娱乐",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "中性",
+    "keywords": [
+      "剧本杀",
+      "行业整合",
+      "市场规范化",
+      "沉浸式娱乐"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 103,
+    "id": "ht_103"
+  },
+  {
+    "title": "网络文学出海成果显著 中国故事走向世界",
+    "hot_value": 115073135,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "文化",
+      "互联网"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "文化热点",
+    "sentiment": "正面",
+    "keywords": [
+      "网络文学",
+      "出海",
+      "中国故事",
+      "文化输出"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 104,
+    "id": "ht_104"
+  },
+  {
+    "title": "魏哲鸣新剧《凤不栖》4月开机 古偶复仇题材引期待",
+    "hot_value": 113566303,
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_15569cd19bd48752",
+    "platform": "微博/小红书",
+    "industries": [
+      "娱乐",
+      "影视"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "魏哲鸣",
+      "凤不栖",
+      "古偶",
+      "新剧",
+      "开机"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 105,
+    "id": "ht_105"
+  },
+  {
+    "title": "共享经济新业态涌现 共享充电宝市场回暖",
+    "hot_value": 110442548,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "互联网",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "互联网热点",
+    "sentiment": "中性",
+    "keywords": [
+      "共享经济",
+      "共享充电宝",
+      "市场回暖",
+      "新业态"
+    ],
+    "c": [
+      "小米"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 106,
+    "id": "ht_106"
+  },
+  {
+    "title": "龙旗科技成立机器人科技公司 注册资本5000万元",
+    "hot_value": 108613862,
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903vbkk.html",
+    "platform": "微博",
+    "industries": [
+      "科技",
+      "制造"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "商业新闻",
+    "sentiment": "正面",
+    "keywords": [
+      "龙旗科技",
+      "机器人",
+      "智能机器人",
+      "AI",
+      "注册资本"
+    ],
+    "c": [
+      "小米"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 107,
+    "id": "ht_107"
+  },
+  {
+    "title": "外卖平台推出健康餐专区 消费者选择更丰富",
+    "hot_value": 103043447,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "餐饮",
+      "互联网"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "外卖平台",
+      "健康餐",
+      "消费者选择",
+      "饮食健康"
+    ],
+    "c": [],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 108,
+    "id": "ht_108"
+  },
+  {
+    "title": "春季减肥热潮来袭 健身房迎来旺季",
+    "hot_value": 96211156,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "生活",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "减肥",
+      "健身",
+      "春季减肥",
+      "健身房",
+      "健康生活"
+    ],
+    "c": [
+      "汤臣倍健",
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-02T04:30:00",
+    "rank": 109,
+    "id": "ht_109"
+  },
+  {
+    "title": "春季过敏高发期来临 专家提醒注意防护",
+    "hot_value": 96183948,
+    "url": "https://weibo.com",
+    "platform": "微博/全网",
+    "industries": [
+      "生活",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "春季过敏",
+      "花粉症",
+      "健康防护",
+      "过敏源"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存"
+    ],
+    "created_at": "2026-04-02T05:00:00",
+    "rank": 110,
+    "id": "ht_110"
   },
   {
     "title": "火锅自助餐推荐 吃到扶墙",
@@ -257,216 +3022,9 @@
     ],
     "type": "美食探店热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 9,
-    "id": "ht_203"
-  },
-  {
-    "title": "护照签证办理 2026新政策",
-    "description": "出境游攻略",
-    "category": "旅行户外",
-    "heat_score": 74,
-    "keywords": [
-      "旅行户外",
-      "护照签证",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "负面",
-    "platform": "小红书",
-    "industries": [
-      "旅行户外"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "旅行户外热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 10,
-    "id": "ht_204"
-  },
-  {
-    "title": "理财小白入门 财商教育",
-    "description": "投资基础知识",
-    "category": "理财投资",
-    "heat_score": 69,
-    "keywords": [
-      "理财投资",
-      "理财小白",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "中性",
-    "platform": "小红书",
-    "industries": [
-      "理财投资"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "理财投资热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 11,
-    "id": "ht_205"
-  },
-  {
-    "title": "小众纪录片推荐 涨知识",
-    "description": "纪录片清单分享",
-    "category": "文化艺术",
-    "heat_score": 69,
-    "keywords": [
-      "文化艺术",
-      "小众纪录",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "中性",
-    "platform": "小红书",
-    "industries": [
-      "文化艺术"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "文化艺术热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 12,
-    "id": "ht_206"
-  },
-  {
-    "title": "裸辞真的勇气吗 谨慎选择",
-    "description": "职业规划建议",
-    "category": "职场发展",
-    "heat_score": 62,
-    "keywords": [
-      "职场发展",
-      "裸辞真的",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "职场发展"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "职场发展热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 13,
-    "id": "ht_207"
-  },
-  {
-    "title": "小个子女生显高穿搭技巧",
-    "description": "155-160cm穿搭模板",
-    "category": "时尚穿搭",
-    "heat_score": 66,
-    "keywords": [
-      "时尚穿搭",
-      "小个子女",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "时尚穿搭"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "时尚穿搭热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 14,
-    "id": "ht_208"
-  },
-  {
-    "title": "基金定投 懒人理财方式",
-    "description": "基金入门指南",
-    "category": "理财投资",
-    "heat_score": 92,
-    "keywords": [
-      "理财投资",
-      "基金定投",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "正面",
-    "platform": "B站/小红书",
-    "industries": [
-      "理财投资"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "理财投资热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 15,
-    "id": "ht_209"
-  },
-  {
-    "title": "酒店测评 性价比vs舒适度",
-    "description": "住宿推荐",
-    "category": "旅行户外",
-    "heat_score": 72,
-    "keywords": [
-      "旅行户外",
-      "酒店测评",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "正面",
-    "platform": "小红书",
-    "industries": [
-      "旅行户外"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "旅行户外热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 16,
-    "id": "ht_210"
-  },
-  {
-    "title": "分手后怎么走出来 情感疗愈",
-    "description": "情感治愈方法",
-    "category": "情感心理",
-    "heat_score": 73,
-    "keywords": [
-      "情感心理",
-      "分手后怎",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "正面",
-    "platform": "小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 17,
-    "id": "ht_211"
+    "rank": 111,
+    "id": "ht_111",
+    "hot_value": 95000000
   },
   {
     "title": "信用卡薅羊毛 推荐卡片",
@@ -491,138 +3049,9 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 18,
-    "id": "ht_212"
-  },
-  {
-    "title": "毛孔粗大怎么改善 医美vs护肤",
-    "description": "毛孔收缩方法对比",
-    "category": "美妆护肤",
-    "heat_score": 92,
-    "keywords": [
-      "美妆护肤",
-      "毛孔粗大",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "中性",
-    "platform": "小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 19,
-    "id": "ht_213"
-  },
-  {
-    "title": "减脂餐做法 刷脂期吃这些",
-    "description": "健康饮食推荐",
-    "category": "美食探店",
-    "heat_score": 74,
-    "keywords": [
-      "美食探店",
-      "减脂餐做",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "美食探店"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美食探店热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 20,
-    "id": "ht_214"
-  },
-  {
-    "title": "出租屋改造 500元打造奶油风",
-    "description": "低成本软装技巧",
-    "category": "家居生活",
-    "heat_score": 86,
-    "keywords": [
-      "家居生活",
-      "出租屋改",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "家居生活"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "家居生活热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 21,
-    "id": "ht_215"
-  },
-  {
-    "title": "宝宝护肤 湿疹红屁股",
-    "description": "婴儿皮肤护理",
-    "category": "母婴亲子",
-    "heat_score": 78,
-    "keywords": [
-      "母婴亲子",
-      "宝宝护肤",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "中性",
-    "platform": "小红书",
-    "industries": [
-      "母婴亲子"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "母婴亲子热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 22,
-    "id": "ht_216"
-  },
-  {
-    "title": "游泳的好处 蛙泳vs自由泳",
-    "description": "游泳技巧分享",
-    "category": "健身运动",
-    "heat_score": 76,
-    "keywords": [
-      "健身运动",
-      "游泳的好",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 23,
-    "id": "ht_217"
+    "rank": 112,
+    "id": "ht_112",
+    "hot_value": 95000000
   },
   {
     "title": "遛娃好去处 室内游乐场",
@@ -647,8 +3076,9 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 24,
-    "id": "ht_218"
+    "rank": 113,
+    "id": "ht_113",
+    "hot_value": 95000000
   },
   {
     "title": "1688同源店 质感穿搭不踩雷",
@@ -673,294 +3103,9 @@
     ],
     "type": "时尚穿搭热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 25,
-    "id": "ht_219"
-  },
-  {
-    "title": "键盘机械轴推荐 打字手感",
-    "description": "机械键盘测评",
-    "category": "数码科技",
-    "heat_score": 81,
-    "keywords": [
-      "数码科技",
-      "键盘机械",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "正面",
-    "platform": "小红书",
-    "industries": [
-      "数码科技"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 26,
-    "id": "ht_220"
-  },
-  {
-    "title": "婚姻七年之痒 如何度过",
-    "description": "婚姻经营技巧",
-    "category": "情感心理",
-    "heat_score": 64,
-    "keywords": [
-      "情感心理",
-      "婚姻七年",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
-    "platform": "小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 27,
-    "id": "ht_221"
-  },
-  {
-    "title": "徒步路线推荐 风景绝美",
-    "description": "新手徒步路线",
-    "category": "旅行户外",
-    "heat_score": 71,
-    "keywords": [
-      "旅行户外",
-      "徒步路线",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "正面",
-    "platform": "B站/小红书",
-    "industries": [
-      "旅行户外"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "旅行户外热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 28,
-    "id": "ht_222"
-  },
-  {
-    "title": "防晒霜测评 通勤vs户外",
-    "description": "2026防晒霜推荐",
-    "category": "美妆护肤",
-    "heat_score": 80,
-    "keywords": [
-      "美妆护肤",
-      "防晒霜测",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 29,
-    "id": "ht_223"
-  },
-  {
-    "title": "体态改善 圆肩驼背骨盆前倾",
-    "description": "体态矫正教程",
-    "category": "健身运动",
-    "heat_score": 73,
-    "keywords": [
-      "健身运动",
-      "体态改善",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 30,
-    "id": "ht_224"
-  },
-  {
-    "title": "健身服装推荐 运动内衣",
-    "description": "健身穿搭分享",
-    "category": "健身运动",
-    "heat_score": 86,
-    "keywords": [
-      "健身运动",
-      "健身服装",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 31,
-    "id": "ht_225"
-  },
-  {
-    "title": "素颜霜到底是不是智商税？实测告诉你",
-    "description": "多款素颜霜真人测评对比",
-    "category": "美妆护肤",
-    "heat_score": 71,
-    "keywords": [
-      "美妆护肤",
-      "素颜霜到",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "中性",
-    "platform": "小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 32,
-    "id": "ht_226"
-  },
-  {
-    "title": "技能提升 推荐课程",
-    "description": "自我成长推荐",
-    "category": "职场发展",
-    "heat_score": 74,
-    "keywords": [
-      "职场发展",
-      "技能提升",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "正面",
-    "platform": "小红书",
-    "industries": [
-      "职场发展"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "职场发展热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 33,
-    "id": "ht_227"
-  },
-  {
-    "title": "运动手表推荐 心率监测",
-    "description": "运动装备测评",
-    "category": "健身运动",
-    "heat_score": 79,
-    "keywords": [
-      "健身运动",
-      "运动手表",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 34,
-    "id": "ht_228"
-  },
-  {
-    "title": "智能手表功能对比 运动健康",
-    "description": "AppleWatch对比华为",
-    "category": "数码科技",
-    "heat_score": 66,
-    "keywords": [
-      "数码科技",
-      "智能手表",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "正面",
-    "platform": "微博/小红书",
-    "industries": [
-      "数码科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 35,
-    "id": "ht_229"
-  },
-  {
-    "title": "护发精油红黑榜 毛躁发质必看",
-    "description": "受损发质修护指南",
-    "category": "美妆护肤",
-    "heat_score": 71,
-    "keywords": [
-      "美妆护肤",
-      "护发精油",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "正面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 36,
-    "id": "ht_230"
+    "rank": 114,
+    "id": "ht_114",
+    "hot_value": 95000000
   },
   {
     "title": "敏感肌修护霜红黑榜！这些成分要注意",
@@ -985,580 +3130,9 @@
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 37,
-    "id": "ht_231"
-  },
-  {
-    "title": "床品四件套 裸睡级面料推荐",
-    "description": "睡眠质量提升",
-    "category": "家居生活",
-    "heat_score": 60,
-    "keywords": [
-      "家居生活",
-      "床品四件",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "家居生活"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居生活热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 38,
-    "id": "ht_232"
-  },
-  {
-    "title": "日料自助推荐 食材新鲜度",
-    "description": "日料店测评",
-    "category": "美食探店",
-    "heat_score": 63,
-    "keywords": [
-      "美食探店",
-      "日料自助",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "美食探店"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "美食探店热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 39,
-    "id": "ht_233"
-  },
-  {
-    "title": "增肌饮食 蛋白质摄入",
-    "description": "健身饮食计划",
-    "category": "健身运动",
-    "heat_score": 92,
-    "keywords": [
-      "健身运动",
-      "增肌饮食",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 40,
-    "id": "ht_234"
-  },
-  {
-    "title": "亲子游戏推荐 在家早教",
-    "description": "高质量陪伴方法",
-    "category": "母婴亲子",
-    "heat_score": 88,
-    "keywords": [
-      "母婴亲子",
-      "亲子游戏",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "正面",
-    "platform": "微博/小红书",
-    "industries": [
-      "母婴亲子"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "母婴亲子热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 41,
-    "id": "ht_235"
-  },
-  {
-    "title": "2026春季穿搭模板 极简风yyds",
-    "description": "基础款搭配技巧分享",
-    "category": "时尚穿搭",
-    "heat_score": 82,
-    "keywords": [
-      "时尚穿搭",
-      "2026",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "正面",
-    "platform": "B站/小红书",
-    "industries": [
-      "时尚穿搭"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "时尚穿搭热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 42,
-    "id": "ht_236"
-  },
-  {
-    "title": "养老规划 提前做准备",
-    "description": "退休计划建议",
-    "category": "理财投资",
-    "heat_score": 72,
-    "keywords": [
-      "理财投资",
-      "养老规划",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "B站/小红书",
-    "industries": [
-      "理财投资"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "理财投资热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 43,
-    "id": "ht_237"
-  },
-  {
-    "title": "社交恐惧怎么办 克服社恐",
-    "description": "社交技巧分享",
-    "category": "情感心理",
-    "heat_score": 63,
-    "keywords": [
-      "情感心理",
-      "社交恐惧",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 44,
-    "id": "ht_238"
-  },
-  {
-    "title": "展览打卡 艺术展览",
-    "description": "看展穿搭指南",
-    "category": "文化艺术",
-    "heat_score": 71,
-    "keywords": [
-      "文化艺术",
-      "展览打卡",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "文化艺术"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "文化艺术热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 45,
-    "id": "ht_239"
-  },
-  {
-    "title": "一人食推荐 孤独美食家",
-    "description": "一人食店铺",
-    "category": "美食探店",
-    "heat_score": 85,
-    "keywords": [
-      "美食探店",
-      "一人食推",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "美食探店"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "美食探店热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 46,
-    "id": "ht_240"
-  },
-  {
-    "title": "配饰提升精致感 耳饰项链手錶",
-    "description": "平价配饰店铺推荐",
-    "category": "时尚穿搭",
-    "heat_score": 60,
-    "keywords": [
-      "时尚穿搭",
-      "配饰提升",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "正面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "时尚穿搭"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "时尚穿搭热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 47,
-    "id": "ht_241"
-  },
-  {
-    "title": "路由器选购 全屋WiFi覆盖",
-    "description": "网络设备推荐",
-    "category": "数码科技",
-    "heat_score": 71,
-    "keywords": [
-      "数码科技",
-      "路由器选",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "正面",
-    "platform": "微博/小红书",
-    "industries": [
-      "数码科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 48,
-    "id": "ht_242"
-  },
-  {
-    "title": "优衣库联名款值得买吗",
-    "description": "平价穿搭推荐",
-    "category": "时尚穿搭",
-    "heat_score": 62,
-    "keywords": [
-      "时尚穿搭",
-      "优衣库联",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "小红书",
-    "industries": [
-      "时尚穿搭"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "时尚穿搭热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 49,
-    "id": "ht_243"
-  },
-  {
-    "title": "西藏旅行准备 高反注意事项",
-    "description": "进藏必备清单",
-    "category": "旅行户外",
-    "heat_score": 72,
-    "keywords": [
-      "旅行户外",
-      "西藏旅行",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "正面",
-    "platform": "微博/小红书",
-    "industries": [
-      "旅行户外"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "旅行户外热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 50,
-    "id": "ht_244"
-  },
-  {
-    "title": "播客推荐 碎片化学习",
-    "description": "优质播客推荐",
-    "category": "文化艺术",
-    "heat_score": 82,
-    "keywords": [
-      "文化艺术",
-      "播客推荐",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "正面",
-    "platform": "B站/小红书",
-    "industries": [
-      "文化艺术"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "文化艺术热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 51,
-    "id": "ht_245"
-  },
-  {
-    "title": "独立电影推荐 冷门佳作",
-    "description": "电影推荐清单",
-    "category": "文化艺术",
-    "heat_score": 69,
-    "keywords": [
-      "文化艺术",
-      "独立电影",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
-    "platform": "小红书",
-    "industries": [
-      "文化艺术"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "文化艺术热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 52,
-    "id": "ht_246"
-  },
-  {
-    "title": "绿植推荐 适合新手的懒人植物",
-    "description": "室内绿植养护",
-    "category": "家居生活",
-    "heat_score": 85,
-    "keywords": [
-      "家居生活",
-      "绿植推荐",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "正面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "家居生活"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居生活热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 53,
-    "id": "ht_247"
-  },
-  {
-    "title": "为什么越谈越累 恋爱保鲜技巧",
-    "description": "情感维系方法",
-    "category": "情感心理",
-    "heat_score": 84,
-    "keywords": [
-      "情感心理",
-      "为什么越",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "正面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 54,
-    "id": "ht_248"
-  },
-  {
-    "title": "婴儿车选购 高景观vs轻便",
-    "description": "婴儿车测评推荐",
-    "category": "母婴亲子",
-    "heat_score": 87,
-    "keywords": [
-      "母婴亲子",
-      "婴儿车选",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "母婴亲子"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "母婴亲子热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 55,
-    "id": "ht_249"
-  },
-  {
-    "title": "减脂餐做法 刷脂期饮食",
-    "description": "健康饮食搭配",
-    "category": "健身运动",
-    "heat_score": 80,
-    "keywords": [
-      "健身运动",
-      "减脂餐做",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 56,
-    "id": "ht_250"
-  },
-  {
-    "title": "保险理赔 注意事项",
-    "description": "保险知识分享",
-    "category": "理财投资",
-    "heat_score": 71,
-    "keywords": [
-      "理财投资",
-      "保险理赔",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "正面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "理财投资"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "理财投资热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 57,
-    "id": "ht_251"
-  },
-  {
-    "title": "省钱攒钱方法 存款技巧",
-    "description": "存钱日记分享",
-    "category": "理财投资",
-    "heat_score": 71,
-    "keywords": [
-      "理财投资",
-      "省钱攒钱",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "理财投资"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "理财投资热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 58,
-    "id": "ht_252"
-  },
-  {
-    "title": "夜宵推荐 烧烤小龙虾",
-    "description": "深夜食堂分享",
-    "category": "美食探店",
-    "heat_score": 60,
-    "keywords": [
-      "美食探店",
-      "夜宵推荐",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "美食探店"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "美食探店热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 59,
-    "id": "ht_253"
+    "rank": 115,
+    "id": "ht_115",
+    "hot_value": 95000000
   },
   {
     "title": "居家健身角 器械推荐",
@@ -1583,736 +3157,9 @@
     ],
     "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 60,
-    "id": "ht_254"
-  },
-  {
-    "title": "黄金值得买吗 2026金价",
-    "description": "贵金属投资分析",
-    "category": "理财投资",
-    "heat_score": 72,
-    "keywords": [
-      "理财投资",
-      "黄金值得",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "负面",
-    "platform": "B站/小红书",
-    "industries": [
-      "理财投资"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "理财投资热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 61,
-    "id": "ht_255"
-  },
-  {
-    "title": "最近在看的书 豆瓣高分",
-    "description": "读书分享推荐",
-    "category": "文化艺术",
-    "heat_score": 66,
-    "keywords": [
-      "文化艺术",
-      "最近在看",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "正面",
-    "platform": "小红书",
-    "industries": [
-      "文化艺术"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "文化艺术热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 62,
-    "id": "ht_256"
-  },
-  {
-    "title": "蓝牙耳机推荐 音质降噪",
-    "description": "耳机选购指南",
-    "category": "数码科技",
-    "heat_score": 71,
-    "keywords": [
-      "数码科技",
-      "蓝牙耳机",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "数码科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 63,
-    "id": "ht_257"
-  },
-  {
-    "title": "移动硬盘推荐 数据存储",
-    "description": "备份方案分享",
-    "category": "数码科技",
-    "heat_score": 75,
-    "keywords": [
-      "数码科技",
-      "移动硬盘",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "数码科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 64,
-    "id": "ht_258"
-  },
-  {
-    "title": "儿童安全座椅 出行必备",
-    "description": "安全座椅推荐",
-    "category": "母婴亲子",
-    "heat_score": 92,
-    "keywords": [
-      "母婴亲子",
-      "儿童安全",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "母婴亲子"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "母婴亲子热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 65,
-    "id": "ht_259"
-  },
-  {
-    "title": "平板选购 学生党vs办公",
-    "description": "iPad对比安卓平板",
-    "category": "数码科技",
-    "heat_score": 89,
-    "keywords": [
-      "数码科技",
-      "平板选购",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "中性",
-    "platform": "小红书",
-    "industries": [
-      "数码科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 66,
-    "id": "ht_260"
-  },
-  {
-    "title": "博物馆展览 春日特展",
-    "description": "看展攻略推荐",
-    "category": "文化艺术",
-    "heat_score": 94,
-    "keywords": [
-      "文化艺术",
-      "博物馆展",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "正面",
-    "platform": "微博/小红书",
-    "industries": [
-      "文化艺术"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "文化艺术热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 67,
-    "id": "ht_261"
-  },
-  {
-    "title": "儿童绘本推荐 0-6岁",
-    "description": "绘本选购指南",
-    "category": "母婴亲子",
-    "heat_score": 89,
-    "keywords": [
-      "母婴亲子",
-      "儿童绘本",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "正面",
-    "platform": "微博/小红书",
-    "industries": [
-      "母婴亲子"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "母婴亲子热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 68,
-    "id": "ht_262"
-  },
-  {
-    "title": "副业推荐 下班后赚钱",
-    "description": "副业变现方式",
-    "category": "职场发展",
-    "heat_score": 63,
-    "keywords": [
-      "职场发展",
-      "副业推荐",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "职场发展"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "职场发展热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 69,
-    "id": "ht_263"
-  },
-  {
-    "title": "特种兵旅行vs慢游 你选哪个",
-    "description": "旅行方式讨论",
-    "category": "旅行户外",
-    "heat_score": 81,
-    "keywords": [
-      "旅行户外",
-      "特种兵旅",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "中性",
-    "platform": "B站/小红书",
-    "industries": [
-      "旅行户外"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "旅行户外热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 70,
-    "id": "ht_264"
-  },
-  {
-    "title": "书房布置 工作学习两不误",
-    "description": "书桌收纳分享",
-    "category": "家居生活",
-    "heat_score": 80,
-    "keywords": [
-      "家居生活",
-      "书房布置",
-      "小红书",
-      "2026",
-      "分享"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "家居生活"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居生活热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 71,
-    "id": "ht_265"
-  },
-  {
-    "title": "卫生间收纳 镜柜浴室柜",
-    "description": "卫生间整理技巧",
-    "category": "家居生活",
-    "heat_score": 92,
-    "keywords": [
-      "家居生活",
-      "卫生间收",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "正面",
-    "platform": "小红书",
-    "industries": [
-      "家居生活"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "家居生活热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 72,
-    "id": "ht_266"
-  },
-  {
-    "title": "闺蜜相处之道 朋友关系",
-    "description": "友情维护方法",
-    "category": "情感心理",
-    "heat_score": 77,
-    "keywords": [
-      "情感心理",
-      "闺蜜相处",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "正面",
-    "platform": "微博/小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 73,
-    "id": "ht_267"
-  },
-  {
-    "title": "独居生活 孤独vs自由",
-    "description": "独居日记分享",
-    "category": "情感心理",
-    "heat_score": 77,
-    "keywords": [
-      "情感心理",
-      "独居生活",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 74,
-    "id": "ht_268"
-  },
-  {
-    "title": "智能家居产品 提升生活幸福感",
-    "description": "智能家居必入",
-    "category": "家居生活",
-    "heat_score": 61,
-    "keywords": [
-      "家居生活",
-      "智能家居",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "正面",
-    "platform": "B站/小红书",
-    "industries": [
-      "家居生活"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "家居生活热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 75,
-    "id": "ht_269"
-  },
-  {
-    "title": "颜色搭配公式 告别穿搭灾难",
-    "description": "配色技巧分享",
-    "category": "时尚穿搭",
-    "heat_score": 90,
-    "keywords": [
-      "时尚穿搭",
-      "颜色搭配",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "上升",
-    "sentiment": "负面",
-    "platform": "微博/小红书",
-    "industries": [
-      "时尚穿搭"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "时尚穿搭热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 76,
-    "id": "ht_270"
-  },
-  {
-    "title": "Livehouse推荐 音乐现场",
-    "description": "演出推荐指南",
-    "category": "文化艺术",
-    "heat_score": 62,
-    "keywords": [
-      "文化艺术",
-      "Live",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "负面",
-    "platform": "B站/小红书",
-    "industries": [
-      "文化艺术"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "文化艺术热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 77,
-    "id": "ht_271"
-  },
-  {
-    "title": "早C晚A进阶版来了！2026新护肤公式",
-    "description": "早C晚A升级配方盘点，抗氧化+修护成新趋势",
-    "category": "美妆护肤",
-    "heat_score": 63,
-    "keywords": [
-      "美妆护肤",
-      "早C晚A",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "正面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 78,
-    "id": "ht_272"
-  },
-  {
-    "title": "职场沟通话术 说话技巧",
-    "description": "职场人际方法",
-    "category": "职场发展",
-    "heat_score": 78,
-    "keywords": [
-      "职场发展",
-      "职场沟通",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "下降",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "职场发展"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "职场发展热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 79,
-    "id": "ht_273"
-  },
-  {
-    "title": "手机新品发布 2026上半年旗舰",
-    "description": "新机测评对比",
-    "category": "数码科技",
-    "heat_score": 68,
-    "keywords": [
-      "数码科技",
-      "手机新品",
-      "小红书",
-      "2026",
-      "攻略"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
-    "platform": "B站/小红书",
-    "industries": [
-      "数码科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "数码科技热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 80,
-    "id": "ht_274"
-  },
-  {
-    "title": "职场人际 学会say no",
-    "description": "职场沟通技巧",
-    "category": "情感心理",
-    "heat_score": 79,
-    "keywords": [
-      "情感心理",
-      "职场人际",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 81,
-    "id": "ht_275"
-  },
-  {
-    "title": "香水实验室 氛围感香水分辨指南",
-    "description": "小众香水推荐",
-    "category": "美妆护肤",
-    "heat_score": 91,
-    "keywords": [
-      "美妆护肤",
-      "香水实验",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
-    "platform": "B站/小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 82,
-    "id": "ht_276"
-  },
-  {
-    "title": "职场晋升法则 升职加薪",
-    "description": "职业发展技巧",
-    "category": "职场发展",
-    "heat_score": 62,
-    "keywords": [
-      "职场发展",
-      "职场晋升",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "正面",
-    "platform": "小红书",
-    "industries": [
-      "职场发展"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "职场发展热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 83,
-    "id": "ht_277"
-  },
-  {
-    "title": "甜品店打卡 蛋糕颜值担当",
-    "description": "网红甜品推荐",
-    "category": "美食探店",
-    "heat_score": 79,
-    "keywords": [
-      "美食探店",
-      "甜品店打",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "美食探店"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美食探店热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 84,
-    "id": "ht_278"
-  },
-  {
-    "title": "国内小众海岛 人少景美",
-    "description": "冷门海岛推荐",
-    "category": "旅行户外",
-    "heat_score": 66,
-    "keywords": [
-      "旅行户外",
-      "国内小众",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "平稳",
-    "sentiment": "中性",
-    "platform": "小红书",
-    "industries": [
-      "旅行户外"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "旅行户外热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 85,
-    "id": "ht_279"
-  },
-  {
-    "title": "帕梅拉课程合集 新手入门",
-    "description": "居家健身教程",
-    "category": "健身运动",
-    "heat_score": 74,
-    "keywords": [
-      "健身运动",
-      "帕梅拉课",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "中性",
-    "platform": "微博/小红书",
-    "industries": [
-      "健身运动"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "健身运动热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 86,
-    "id": "ht_280"
-  },
-  {
-    "title": "焦虑症自愈 方法分享",
-    "description": "心理健康分享",
-    "category": "情感心理",
-    "heat_score": 75,
-    "keywords": [
-      "情感心理",
-      "焦虑症自",
-      "小红书",
-      "2026",
-      "推荐"
-    ],
-    "trend_direction": "爆发",
-    "sentiment": "负面",
-    "platform": "小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 87,
-    "id": "ht_281"
-  },
-  {
-    "title": "工资怎么谈 薪资谈判技巧",
-    "description": "职场谈判方法",
-    "category": "职场发展",
-    "heat_score": 63,
-    "keywords": [
-      "职场发展",
-      "工资怎么",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "波动",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "职场发展"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "职场发展热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 88,
-    "id": "ht_282"
+    "rank": 116,
+    "id": "ht_116",
+    "hot_value": 95000000
   },
   {
     "title": "摄影教程 手机也能拍大片",
@@ -2337,138 +3184,333 @@
     ],
     "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 89,
-    "id": "ht_283"
+    "rank": 117,
+    "id": "ht_117",
+    "hot_value": 95000000
   },
   {
-    "title": "收纳神器推荐 告别凌乱房间",
-    "description": "整理收纳方法",
-    "category": "家居生活",
-    "heat_score": 84,
+    "title": "博物馆展览 春日特展",
+    "description": "看展攻略推荐",
+    "category": "文化艺术",
+    "heat_score": 94,
     "keywords": [
-      "家居生活",
-      "收纳神器",
+      "文化艺术",
+      "博物馆展",
       "小红书",
       "2026",
-      "分享"
+      "测评"
     ],
-    "trend_direction": "爆发",
-    "sentiment": "中性",
+    "trend_direction": "上升",
+    "sentiment": "正面",
     "platform": "微博/小红书",
     "industries": [
-      "家居生活"
+      "文化艺术"
     ],
     "trends": [
-      "新"
+      "热"
     ],
-    "type": "家居生活热点",
+    "type": "文化艺术热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 90,
-    "id": "ht_284"
+    "rank": 118,
+    "id": "ht_118",
+    "hot_value": 94000000
   },
   {
-    "title": "春季赏花地图 这几个地方必去",
-    "description": "樱花桃花油菜花",
-    "category": "旅行户外",
-    "heat_score": 72,
+    "title": "基金定投 懒人理财方式",
+    "description": "基金入门指南",
+    "category": "理财投资",
+    "heat_score": 92,
     "keywords": [
-      "旅行户外",
-      "春季赏花",
+      "理财投资",
+      "基金定投",
       "小红书",
       "2026",
-      "攻略"
+      "测评"
     ],
-    "trend_direction": "下降",
+    "trend_direction": "波动",
     "sentiment": "正面",
     "platform": "B站/小红书",
     "industries": [
-      "旅行户外"
+      "理财投资"
     ],
     "trends": [
       "爆"
     ],
-    "type": "旅行户外热点",
+    "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 91,
-    "id": "ht_285"
+    "rank": 119,
+    "id": "ht_119",
+    "hot_value": 92000000
   },
   {
-    "title": "原生家庭影响 自我疗愈",
-    "description": "心理成长分享",
-    "category": "情感心理",
-    "heat_score": 72,
+    "title": "毛孔粗大怎么改善 医美vs护肤",
+    "description": "毛孔收缩方法对比",
+    "category": "美妆护肤",
+    "heat_score": 92,
     "keywords": [
-      "情感心理",
-      "原生家庭",
+      "美妆护肤",
+      "毛孔粗大",
       "小红书",
       "2026",
       "推荐"
     ],
     "trend_direction": "波动",
     "sentiment": "中性",
-    "platform": "抖音/小红书",
-    "industries": [
-      "情感心理"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "情感心理热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 92,
-    "id": "ht_286"
-  },
-  {
-    "title": "美甲穿戴甲流行趋势 ins风极简款",
-    "description": "穿戴甲教程与推荐",
-    "category": "美妆护肤",
-    "heat_score": 80,
-    "keywords": [
-      "美妆护肤",
-      "美甲穿戴",
-      "小红书",
-      "2026",
-      "测评"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
-    "platform": "抖音/小红书",
-    "industries": [
-      "美妆护肤"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "美妆护肤热点",
-    "created_at": "2026-04-02T11:32:22",
-    "rank": 93,
-    "id": "ht_287"
-  },
-  {
-    "title": "唇釉质地大全！镜面、哑光、绒雾怎么选",
-    "description": "2026唇釉趋势预测",
-    "category": "美妆护肤",
-    "heat_score": 79,
-    "keywords": [
-      "美妆护肤",
-      "唇釉质地",
-      "小红书",
-      "2026",
-      "教程"
-    ],
-    "trend_direction": "回暖",
-    "sentiment": "负面",
     "platform": "小红书",
     "industries": [
       "美妆护肤"
     ],
     "trends": [
-      "爆"
+      "热"
     ],
     "type": "美妆护肤热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 94,
-    "id": "ht_288"
+    "rank": 120,
+    "id": "ht_120",
+    "hot_value": 92000000
+  },
+  {
+    "title": "增肌饮食 蛋白质摄入",
+    "description": "健身饮食计划",
+    "category": "健身运动",
+    "heat_score": 92,
+    "keywords": [
+      "健身运动",
+      "增肌饮食",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "中性",
+    "platform": "B站/小红书",
+    "industries": [
+      "健身运动"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "健身运动热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 121,
+    "id": "ht_121",
+    "hot_value": 92000000
+  },
+  {
+    "title": "儿童安全座椅 出行必备",
+    "description": "安全座椅推荐",
+    "category": "母婴亲子",
+    "heat_score": 92,
+    "keywords": [
+      "母婴亲子",
+      "儿童安全",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "中性",
+    "platform": "抖音/小红书",
+    "industries": [
+      "母婴亲子"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "母婴亲子热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 122,
+    "id": "ht_122",
+    "hot_value": 92000000
+  },
+  {
+    "title": "卫生间收纳 镜柜浴室柜",
+    "description": "卫生间整理技巧",
+    "category": "家居生活",
+    "heat_score": 92,
+    "keywords": [
+      "家居生活",
+      "卫生间收",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "正面",
+    "platform": "小红书",
+    "industries": [
+      "家居生活"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "家居生活热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 123,
+    "id": "ht_123",
+    "hot_value": 92000000
+  },
+  {
+    "title": "香水实验室 氛围感香水分辨指南",
+    "description": "小众香水推荐",
+    "category": "美妆护肤",
+    "heat_score": 91,
+    "keywords": [
+      "美妆护肤",
+      "香水实验",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "负面",
+    "platform": "B站/小红书",
+    "industries": [
+      "美妆护肤"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆护肤热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 124,
+    "id": "ht_124",
+    "hot_value": 91000000
+  },
+  {
+    "title": "颜色搭配公式 告别穿搭灾难",
+    "description": "配色技巧分享",
+    "category": "时尚穿搭",
+    "heat_score": 90,
+    "keywords": [
+      "时尚穿搭",
+      "颜色搭配",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "负面",
+    "platform": "微博/小红书",
+    "industries": [
+      "时尚穿搭"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚穿搭热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 125,
+    "id": "ht_125",
+    "hot_value": 90000000
+  },
+  {
+    "title": "平板选购 学生党vs办公",
+    "description": "iPad对比安卓平板",
+    "category": "数码科技",
+    "heat_score": 89,
+    "keywords": [
+      "数码科技",
+      "平板选购",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "中性",
+    "platform": "小红书",
+    "industries": [
+      "数码科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "数码科技热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 126,
+    "id": "ht_126",
+    "hot_value": 89000000
+  },
+  {
+    "title": "儿童绘本推荐 0-6岁",
+    "description": "绘本选购指南",
+    "category": "母婴亲子",
+    "heat_score": 89,
+    "keywords": [
+      "母婴亲子",
+      "儿童绘本",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "正面",
+    "platform": "微博/小红书",
+    "industries": [
+      "母婴亲子"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "母婴亲子热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 127,
+    "id": "ht_127",
+    "hot_value": 89000000
+  },
+  {
+    "title": "亲子游戏推荐 在家早教",
+    "description": "高质量陪伴方法",
+    "category": "母婴亲子",
+    "heat_score": 88,
+    "keywords": [
+      "母婴亲子",
+      "亲子游戏",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "正面",
+    "platform": "微博/小红书",
+    "industries": [
+      "母婴亲子"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴亲子热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 128,
+    "id": "ht_128",
+    "hot_value": 88000000
+  },
+  {
+    "title": "婴儿车选购 高景观vs轻便",
+    "description": "婴儿车测评推荐",
+    "category": "母婴亲子",
+    "heat_score": 87,
+    "keywords": [
+      "母婴亲子",
+      "婴儿车选",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "中性",
+    "platform": "抖音/小红书",
+    "industries": [
+      "母婴亲子"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "母婴亲子热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 129,
+    "id": "ht_129",
+    "hot_value": 87000000
   },
   {
     "title": "副业收入 非工资收入",
@@ -2493,60 +3535,199 @@
     ],
     "type": "理财投资热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 95,
-    "id": "ht_289"
+    "rank": 130,
+    "id": "ht_130",
+    "hot_value": 87000000
   },
   {
-    "title": "职场穿搭 精致ol风格",
-    "description": "office穿搭分享",
-    "category": "职场发展",
-    "heat_score": 61,
+    "title": "出租屋改造 500元打造奶油风",
+    "description": "低成本软装技巧",
+    "category": "家居生活",
+    "heat_score": 86,
     "keywords": [
-      "职场发展",
-      "职场穿搭",
+      "家居生活",
+      "出租屋改",
       "小红书",
       "2026",
-      "攻略"
+      "教程"
     ],
-    "trend_direction": "爆发",
+    "trend_direction": "回暖",
     "sentiment": "负面",
-    "platform": "小红书",
+    "platform": "抖音/小红书",
     "industries": [
-      "职场发展"
+      "家居生活"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "家居生活热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 131,
+    "id": "ht_131",
+    "hot_value": 86000000
+  },
+  {
+    "title": "健身服装推荐 运动内衣",
+    "description": "健身穿搭分享",
+    "category": "健身运动",
+    "heat_score": 86,
+    "keywords": [
+      "健身运动",
+      "健身服装",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "负面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "健身运动"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "健身运动热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 132,
+    "id": "ht_132",
+    "hot_value": 86000000
+  },
+  {
+    "title": "一人食推荐 孤独美食家",
+    "description": "一人食店铺",
+    "category": "美食探店",
+    "heat_score": 85,
+    "keywords": [
+      "美食探店",
+      "一人食推",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "中性",
+    "platform": "B站/小红书",
+    "industries": [
+      "美食探店"
     ],
     "trends": [
       "新"
     ],
-    "type": "职场发展热点",
+    "type": "美食探店热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 96,
-    "id": "ht_290"
+    "rank": 133,
+    "id": "ht_133",
+    "hot_value": 85000000
   },
   {
-    "title": "低成本机票怎么买 薅羊毛攻略",
-    "description": "机票省钱技巧",
-    "category": "旅行户外",
-    "heat_score": 74,
+    "title": "绿植推荐 适合新手的懒人植物",
+    "description": "室内绿植养护",
+    "category": "家居生活",
+    "heat_score": 85,
     "keywords": [
-      "旅行户外",
-      "低成本机",
+      "家居生活",
+      "绿植推荐",
       "小红书",
       "2026",
-      "测评"
+      "分享"
     ],
-    "trend_direction": "波动",
+    "trend_direction": "上升",
+    "sentiment": "正面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "家居生活"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居生活热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 134,
+    "id": "ht_134",
+    "hot_value": 85000000
+  },
+  {
+    "title": "春季装修旺季来临 家装市场迎来消费高峰",
+    "hot_value": 84708685,
+    "url": "https://weibo.com",
+    "platform": "微博/小红书",
+    "industries": [
+      "房产",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "春季装修",
+      "家装",
+      "装修市场",
+      "消费高峰"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-02T04:00:00",
+    "rank": 135,
+    "id": "ht_135"
+  },
+  {
+    "title": "为什么越谈越累 恋爱保鲜技巧",
+    "description": "情感维系方法",
+    "category": "情感心理",
+    "heat_score": 84,
+    "keywords": [
+      "情感心理",
+      "为什么越",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "正面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "情感心理"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "情感心理热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 136,
+    "id": "ht_136",
+    "hot_value": 84000000
+  },
+  {
+    "title": "收纳神器推荐 告别凌乱房间",
+    "description": "整理收纳方法",
+    "category": "家居生活",
+    "heat_score": 84,
+    "keywords": [
+      "家居生活",
+      "收纳神器",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "爆发",
     "sentiment": "中性",
     "platform": "微博/小红书",
     "industries": [
-      "旅行户外"
+      "家居生活"
     ],
     "trends": [
       "新"
     ],
-    "type": "旅行户外热点",
+    "type": "家居生活热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 97,
-    "id": "ht_291"
+    "rank": 137,
+    "id": "ht_137",
+    "hot_value": 84000000
   },
   {
     "title": "BM女孩身材标准 悦己or焦虑",
@@ -2571,24 +3752,349 @@
     ],
     "type": "时尚穿搭热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 98,
-    "id": "ht_292"
+    "rank": 138,
+    "id": "ht_138",
+    "hot_value": 83000000
   },
   {
-    "title": "产后修复 盆底肌腹直肌",
-    "description": "产后恢复分享",
-    "category": "母婴亲子",
-    "heat_score": 60,
+    "title": "2026春季穿搭模板 极简风yyds",
+    "description": "基础款搭配技巧分享",
+    "category": "时尚穿搭",
+    "heat_score": 82,
     "keywords": [
-      "母婴亲子",
-      "产后修复",
+      "时尚穿搭",
+      "2026",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "正面",
+    "platform": "B站/小红书",
+    "industries": [
+      "时尚穿搭"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "时尚穿搭热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 139,
+    "id": "ht_139",
+    "hot_value": 82000000
+  },
+  {
+    "title": "播客推荐 碎片化学习",
+    "description": "优质播客推荐",
+    "category": "文化艺术",
+    "heat_score": 82,
+    "keywords": [
+      "文化艺术",
+      "播客推荐",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "正面",
+    "platform": "B站/小红书",
+    "industries": [
+      "文化艺术"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "文化艺术热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 140,
+    "id": "ht_140",
+    "hot_value": 82000000
+  },
+  {
+    "title": "键盘机械轴推荐 打字手感",
+    "description": "机械键盘测评",
+    "category": "数码科技",
+    "heat_score": 81,
+    "keywords": [
+      "数码科技",
+      "键盘机械",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "正面",
+    "platform": "小红书",
+    "industries": [
+      "数码科技"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "数码科技热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 141,
+    "id": "ht_141",
+    "hot_value": 81000000
+  },
+  {
+    "title": "特种兵旅行vs慢游 你选哪个",
+    "description": "旅行方式讨论",
+    "category": "旅行户外",
+    "heat_score": 81,
+    "keywords": [
+      "旅行户外",
+      "特种兵旅",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "中性",
+    "platform": "B站/小红书",
+    "industries": [
+      "旅行户外"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "旅行户外热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 142,
+    "id": "ht_142",
+    "hot_value": 81000000
+  },
+  {
+    "title": "防晒霜测评 通勤vs户外",
+    "description": "2026防晒霜推荐",
+    "category": "美妆护肤",
+    "heat_score": 80,
+    "keywords": [
+      "美妆护肤",
+      "防晒霜测",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "负面",
+    "platform": "微博/小红书",
+    "industries": [
+      "美妆护肤"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "美妆护肤热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 143,
+    "id": "ht_143",
+    "hot_value": 80000000
+  },
+  {
+    "title": "减脂餐做法 刷脂期饮食",
+    "description": "健康饮食搭配",
+    "category": "健身运动",
+    "heat_score": 80,
+    "keywords": [
+      "健身运动",
+      "减脂餐做",
       "小红书",
       "2026",
       "分享"
     ],
     "trend_direction": "波动",
     "sentiment": "负面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "健身运动"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "健身运动热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 144,
+    "id": "ht_144",
+    "hot_value": 80000000
+  },
+  {
+    "title": "书房布置 工作学习两不误",
+    "description": "书桌收纳分享",
+    "category": "家居生活",
+    "heat_score": 80,
+    "keywords": [
+      "家居生活",
+      "书房布置",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "中性",
     "platform": "微博/小红书",
+    "industries": [
+      "家居生活"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居生活热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 145,
+    "id": "ht_145",
+    "hot_value": 80000000
+  },
+  {
+    "title": "美甲穿戴甲流行趋势 ins风极简款",
+    "description": "穿戴甲教程与推荐",
+    "category": "美妆护肤",
+    "heat_score": 80,
+    "keywords": [
+      "美妆护肤",
+      "美甲穿戴",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "负面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美妆护肤"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "美妆护肤热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 146,
+    "id": "ht_146",
+    "hot_value": 80000000
+  },
+  {
+    "title": "运动手表推荐 心率监测",
+    "description": "运动装备测评",
+    "category": "健身运动",
+    "heat_score": 79,
+    "keywords": [
+      "健身运动",
+      "运动手表",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "负面",
+    "platform": "微博/小红书",
+    "industries": [
+      "健身运动"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "健身运动热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 147,
+    "id": "ht_147",
+    "hot_value": 79000000
+  },
+  {
+    "title": "职场人际 学会say no",
+    "description": "职场沟通技巧",
+    "category": "情感心理",
+    "heat_score": 79,
+    "keywords": [
+      "情感心理",
+      "职场人际",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "负面",
+    "platform": "小红书",
+    "industries": [
+      "情感心理"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "情感心理热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 148,
+    "id": "ht_148",
+    "hot_value": 79000000
+  },
+  {
+    "title": "甜品店打卡 蛋糕颜值担当",
+    "description": "网红甜品推荐",
+    "category": "美食探店",
+    "heat_score": 79,
+    "keywords": [
+      "美食探店",
+      "甜品店打",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "中性",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美食探店"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美食探店热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 149,
+    "id": "ht_149",
+    "hot_value": 79000000
+  },
+  {
+    "title": "唇釉质地大全！镜面、哑光、绒雾怎么选",
+    "description": "2026唇釉趋势预测",
+    "category": "美妆护肤",
+    "heat_score": 79,
+    "keywords": [
+      "美妆护肤",
+      "唇釉质地",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "负面",
+    "platform": "小红书",
+    "industries": [
+      "美妆护肤"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "美妆护肤热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 150,
+    "id": "ht_150",
+    "hot_value": 79000000
+  },
+  {
+    "title": "宝宝护肤 湿疹红屁股",
+    "description": "婴儿皮肤护理",
+    "category": "母婴亲子",
+    "heat_score": 78,
+    "keywords": [
+      "母婴亲子",
+      "宝宝护肤",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "中性",
+    "platform": "小红书",
     "industries": [
       "母婴亲子"
     ],
@@ -2597,8 +4103,90 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 99,
-    "id": "ht_293"
+    "rank": 151,
+    "id": "ht_151",
+    "hot_value": 78000000
+  },
+  {
+    "title": "职场沟通话术 说话技巧",
+    "description": "职场人际方法",
+    "category": "职场发展",
+    "heat_score": 78,
+    "keywords": [
+      "职场发展",
+      "职场沟通",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "下降",
+    "sentiment": "负面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "职场发展"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "职场发展热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 152,
+    "id": "ht_152",
+    "hot_value": 78000000
+  },
+  {
+    "title": "闺蜜相处之道 朋友关系",
+    "description": "友情维护方法",
+    "category": "情感心理",
+    "heat_score": 77,
+    "keywords": [
+      "情感心理",
+      "闺蜜相处",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "正面",
+    "platform": "微博/小红书",
+    "industries": [
+      "情感心理"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "情感心理热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 153,
+    "id": "ht_153",
+    "hot_value": 77000000
+  },
+  {
+    "title": "独居生活 孤独vs自由",
+    "description": "独居日记分享",
+    "category": "情感心理",
+    "heat_score": 77,
+    "keywords": [
+      "情感心理",
+      "独居生活",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "负面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "情感心理"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "情感心理热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 154,
+    "id": "ht_154",
+    "hot_value": 77000000
   },
   {
     "title": "早教盒子对比 火花vs斑马",
@@ -2623,7 +4211,1385 @@
     ],
     "type": "母婴亲子热点",
     "created_at": "2026-04-02T11:32:22",
-    "rank": 100,
-    "id": "ht_294"
+    "rank": 155,
+    "id": "ht_155",
+    "hot_value": 77000000
+  },
+  {
+    "title": "游泳的好处 蛙泳vs自由泳",
+    "description": "游泳技巧分享",
+    "category": "健身运动",
+    "heat_score": 76,
+    "keywords": [
+      "健身运动",
+      "游泳的好",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "中性",
+    "platform": "抖音/小红书",
+    "industries": [
+      "健身运动"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健身运动热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 156,
+    "id": "ht_156",
+    "hot_value": 76000000
+  },
+  {
+    "title": "保险配置 避坑指南",
+    "description": "保险科普知识",
+    "category": "理财投资",
+    "heat_score": 75,
+    "keywords": [
+      "理财投资",
+      "保险配置",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "负面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "理财投资"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "理财投资热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 157,
+    "id": "ht_157",
+    "hot_value": 75000000
+  },
+  {
+    "title": "移动硬盘推荐 数据存储",
+    "description": "备份方案分享",
+    "category": "数码科技",
+    "heat_score": 75,
+    "keywords": [
+      "数码科技",
+      "移动硬盘",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "中性",
+    "platform": "微博/小红书",
+    "industries": [
+      "数码科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码科技热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 158,
+    "id": "ht_158",
+    "hot_value": 75000000
+  },
+  {
+    "title": "焦虑症自愈 方法分享",
+    "description": "心理健康分享",
+    "category": "情感心理",
+    "heat_score": 75,
+    "keywords": [
+      "情感心理",
+      "焦虑症自",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "负面",
+    "platform": "小红书",
+    "industries": [
+      "情感心理"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "情感心理热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 159,
+    "id": "ht_159",
+    "hot_value": 75000000
+  },
+  {
+    "title": "护照签证办理 2026新政策",
+    "description": "出境游攻略",
+    "category": "旅行户外",
+    "heat_score": 74,
+    "keywords": [
+      "旅行户外",
+      "护照签证",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "负面",
+    "platform": "小红书",
+    "industries": [
+      "旅行户外"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "旅行户外热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 160,
+    "id": "ht_160",
+    "hot_value": 74000000
+  },
+  {
+    "title": "减脂餐做法 刷脂期吃这些",
+    "description": "健康饮食推荐",
+    "category": "美食探店",
+    "heat_score": 74,
+    "keywords": [
+      "美食探店",
+      "减脂餐做",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "下降",
+    "sentiment": "中性",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美食探店"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美食探店热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 161,
+    "id": "ht_161",
+    "hot_value": 74000000
+  },
+  {
+    "title": "技能提升 推荐课程",
+    "description": "自我成长推荐",
+    "category": "职场发展",
+    "heat_score": 74,
+    "keywords": [
+      "职场发展",
+      "技能提升",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "下降",
+    "sentiment": "正面",
+    "platform": "小红书",
+    "industries": [
+      "职场发展"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "职场发展热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 162,
+    "id": "ht_162",
+    "hot_value": 74000000
+  },
+  {
+    "title": "帕梅拉课程合集 新手入门",
+    "description": "居家健身教程",
+    "category": "健身运动",
+    "heat_score": 74,
+    "keywords": [
+      "健身运动",
+      "帕梅拉课",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "中性",
+    "platform": "微博/小红书",
+    "industries": [
+      "健身运动"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "健身运动热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 163,
+    "id": "ht_163",
+    "hot_value": 74000000
+  },
+  {
+    "title": "低成本机票怎么买 薅羊毛攻略",
+    "description": "机票省钱技巧",
+    "category": "旅行户外",
+    "heat_score": 74,
+    "keywords": [
+      "旅行户外",
+      "低成本机",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "中性",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅行户外"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅行户外热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 164,
+    "id": "ht_164",
+    "hot_value": 74000000
+  },
+  {
+    "title": "分手后怎么走出来 情感疗愈",
+    "description": "情感治愈方法",
+    "category": "情感心理",
+    "heat_score": 73,
+    "keywords": [
+      "情感心理",
+      "分手后怎",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "正面",
+    "platform": "小红书",
+    "industries": [
+      "情感心理"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "情感心理热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 165,
+    "id": "ht_165",
+    "hot_value": 73000000
+  },
+  {
+    "title": "体态改善 圆肩驼背骨盆前倾",
+    "description": "体态矫正教程",
+    "category": "健身运动",
+    "heat_score": 73,
+    "keywords": [
+      "健身运动",
+      "体态改善",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "中性",
+    "platform": "抖音/小红书",
+    "industries": [
+      "健身运动"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "健身运动热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 166,
+    "id": "ht_166",
+    "hot_value": 73000000
+  },
+  {
+    "title": "充电宝推荐 容量vs便携",
+    "description": "出行必备好物",
+    "category": "数码科技",
+    "heat_score": 72,
+    "keywords": [
+      "数码科技",
+      "充电宝推",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "负面",
+    "platform": "B站/小红书",
+    "industries": [
+      "数码科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码科技热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 167,
+    "id": "ht_167",
+    "hot_value": 72000000
+  },
+  {
+    "title": "酒店测评 性价比vs舒适度",
+    "description": "住宿推荐",
+    "category": "旅行户外",
+    "heat_score": 72,
+    "keywords": [
+      "旅行户外",
+      "酒店测评",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "正面",
+    "platform": "小红书",
+    "industries": [
+      "旅行户外"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "旅行户外热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 168,
+    "id": "ht_168",
+    "hot_value": 72000000
+  },
+  {
+    "title": "养老规划 提前做准备",
+    "description": "退休计划建议",
+    "category": "理财投资",
+    "heat_score": 72,
+    "keywords": [
+      "理财投资",
+      "养老规划",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "负面",
+    "platform": "B站/小红书",
+    "industries": [
+      "理财投资"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "理财投资热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 169,
+    "id": "ht_169",
+    "hot_value": 72000000
+  },
+  {
+    "title": "西藏旅行准备 高反注意事项",
+    "description": "进藏必备清单",
+    "category": "旅行户外",
+    "heat_score": 72,
+    "keywords": [
+      "旅行户外",
+      "西藏旅行",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "正面",
+    "platform": "微博/小红书",
+    "industries": [
+      "旅行户外"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "旅行户外热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 170,
+    "id": "ht_170",
+    "hot_value": 72000000
+  },
+  {
+    "title": "黄金值得买吗 2026金价",
+    "description": "贵金属投资分析",
+    "category": "理财投资",
+    "heat_score": 72,
+    "keywords": [
+      "理财投资",
+      "黄金值得",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "负面",
+    "platform": "B站/小红书",
+    "industries": [
+      "理财投资"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "理财投资热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 171,
+    "id": "ht_171",
+    "hot_value": 72000000
+  },
+  {
+    "title": "春季赏花地图 这几个地方必去",
+    "description": "樱花桃花油菜花",
+    "category": "旅行户外",
+    "heat_score": 72,
+    "keywords": [
+      "旅行户外",
+      "春季赏花",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "下降",
+    "sentiment": "正面",
+    "platform": "B站/小红书",
+    "industries": [
+      "旅行户外"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "旅行户外热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 172,
+    "id": "ht_172",
+    "hot_value": 72000000
+  },
+  {
+    "title": "原生家庭影响 自我疗愈",
+    "description": "心理成长分享",
+    "category": "情感心理",
+    "heat_score": 72,
+    "keywords": [
+      "情感心理",
+      "原生家庭",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "中性",
+    "platform": "抖音/小红书",
+    "industries": [
+      "情感心理"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "情感心理热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 173,
+    "id": "ht_173",
+    "hot_value": 72000000
+  },
+  {
+    "title": "书法学习 静心养性",
+    "description": "书法入门分享",
+    "category": "文化艺术",
+    "heat_score": 71,
+    "keywords": [
+      "文化艺术",
+      "书法学习",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "负面",
+    "platform": "B站/小红书",
+    "industries": [
+      "文化艺术"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "文化艺术热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 174,
+    "id": "ht_174",
+    "hot_value": 71000000
+  },
+  {
+    "title": "徒步路线推荐 风景绝美",
+    "description": "新手徒步路线",
+    "category": "旅行户外",
+    "heat_score": 71,
+    "keywords": [
+      "旅行户外",
+      "徒步路线",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "正面",
+    "platform": "B站/小红书",
+    "industries": [
+      "旅行户外"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "旅行户外热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 175,
+    "id": "ht_175",
+    "hot_value": 71000000
+  },
+  {
+    "title": "素颜霜到底是不是智商税？实测告诉你",
+    "description": "多款素颜霜真人测评对比",
+    "category": "美妆护肤",
+    "heat_score": 71,
+    "keywords": [
+      "美妆护肤",
+      "素颜霜到",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "中性",
+    "platform": "小红书",
+    "industries": [
+      "美妆护肤"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆护肤热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 176,
+    "id": "ht_176",
+    "hot_value": 71000000
+  },
+  {
+    "title": "护发精油红黑榜 毛躁发质必看",
+    "description": "受损发质修护指南",
+    "category": "美妆护肤",
+    "heat_score": 71,
+    "keywords": [
+      "美妆护肤",
+      "护发精油",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "正面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美妆护肤"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆护肤热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 177,
+    "id": "ht_177",
+    "hot_value": 71000000
+  },
+  {
+    "title": "展览打卡 艺术展览",
+    "description": "看展穿搭指南",
+    "category": "文化艺术",
+    "heat_score": 71,
+    "keywords": [
+      "文化艺术",
+      "展览打卡",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "中性",
+    "platform": "微博/小红书",
+    "industries": [
+      "文化艺术"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "文化艺术热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 178,
+    "id": "ht_178",
+    "hot_value": 71000000
+  },
+  {
+    "title": "路由器选购 全屋WiFi覆盖",
+    "description": "网络设备推荐",
+    "category": "数码科技",
+    "heat_score": 71,
+    "keywords": [
+      "数码科技",
+      "路由器选",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "正面",
+    "platform": "微博/小红书",
+    "industries": [
+      "数码科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "数码科技热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 179,
+    "id": "ht_179",
+    "hot_value": 71000000
+  },
+  {
+    "title": "保险理赔 注意事项",
+    "description": "保险知识分享",
+    "category": "理财投资",
+    "heat_score": 71,
+    "keywords": [
+      "理财投资",
+      "保险理赔",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "正面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "理财投资"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "理财投资热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 180,
+    "id": "ht_180",
+    "hot_value": 71000000
+  },
+  {
+    "title": "省钱攒钱方法 存款技巧",
+    "description": "存钱日记分享",
+    "category": "理财投资",
+    "heat_score": 71,
+    "keywords": [
+      "理财投资",
+      "省钱攒钱",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "负面",
+    "platform": "微博/小红书",
+    "industries": [
+      "理财投资"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "理财投资热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 181,
+    "id": "ht_181",
+    "hot_value": 71000000
+  },
+  {
+    "title": "蓝牙耳机推荐 音质降噪",
+    "description": "耳机选购指南",
+    "category": "数码科技",
+    "heat_score": 71,
+    "keywords": [
+      "数码科技",
+      "蓝牙耳机",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "中性",
+    "platform": "B站/小红书",
+    "industries": [
+      "数码科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "数码科技热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 182,
+    "id": "ht_182",
+    "hot_value": 71000000
+  },
+  {
+    "title": "理财小白入门 财商教育",
+    "description": "投资基础知识",
+    "category": "理财投资",
+    "heat_score": 69,
+    "keywords": [
+      "理财投资",
+      "理财小白",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "中性",
+    "platform": "小红书",
+    "industries": [
+      "理财投资"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "理财投资热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 183,
+    "id": "ht_183",
+    "hot_value": 69000000
+  },
+  {
+    "title": "小众纪录片推荐 涨知识",
+    "description": "纪录片清单分享",
+    "category": "文化艺术",
+    "heat_score": 69,
+    "keywords": [
+      "文化艺术",
+      "小众纪录",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "中性",
+    "platform": "小红书",
+    "industries": [
+      "文化艺术"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "文化艺术热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 184,
+    "id": "ht_184",
+    "hot_value": 69000000
+  },
+  {
+    "title": "独立电影推荐 冷门佳作",
+    "description": "电影推荐清单",
+    "category": "文化艺术",
+    "heat_score": 69,
+    "keywords": [
+      "文化艺术",
+      "独立电影",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "负面",
+    "platform": "小红书",
+    "industries": [
+      "文化艺术"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "文化艺术热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 185,
+    "id": "ht_185",
+    "hot_value": 69000000
+  },
+  {
+    "title": "手机新品发布 2026上半年旗舰",
+    "description": "新机测评对比",
+    "category": "数码科技",
+    "heat_score": 68,
+    "keywords": [
+      "数码科技",
+      "手机新品",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "负面",
+    "platform": "B站/小红书",
+    "industries": [
+      "数码科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "数码科技热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 186,
+    "id": "ht_186",
+    "hot_value": 68000000
+  },
+  {
+    "title": "小个子女生显高穿搭技巧",
+    "description": "155-160cm穿搭模板",
+    "category": "时尚穿搭",
+    "heat_score": 66,
+    "keywords": [
+      "时尚穿搭",
+      "小个子女",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "负面",
+    "platform": "微博/小红书",
+    "industries": [
+      "时尚穿搭"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚穿搭热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 187,
+    "id": "ht_187",
+    "hot_value": 66000000
+  },
+  {
+    "title": "智能手表功能对比 运动健康",
+    "description": "AppleWatch对比华为",
+    "category": "数码科技",
+    "heat_score": 66,
+    "keywords": [
+      "数码科技",
+      "智能手表",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "下降",
+    "sentiment": "正面",
+    "platform": "微博/小红书",
+    "industries": [
+      "数码科技"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "数码科技热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 188,
+    "id": "ht_188",
+    "hot_value": 66000000
+  },
+  {
+    "title": "最近在看的书 豆瓣高分",
+    "description": "读书分享推荐",
+    "category": "文化艺术",
+    "heat_score": 66,
+    "keywords": [
+      "文化艺术",
+      "最近在看",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "正面",
+    "platform": "小红书",
+    "industries": [
+      "文化艺术"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "文化艺术热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 189,
+    "id": "ht_189",
+    "hot_value": 66000000
+  },
+  {
+    "title": "国内小众海岛 人少景美",
+    "description": "冷门海岛推荐",
+    "category": "旅行户外",
+    "heat_score": 66,
+    "keywords": [
+      "旅行户外",
+      "国内小众",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "中性",
+    "platform": "小红书",
+    "industries": [
+      "旅行户外"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "旅行户外热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 190,
+    "id": "ht_190",
+    "hot_value": 66000000
+  },
+  {
+    "title": "婚姻七年之痒 如何度过",
+    "description": "婚姻经营技巧",
+    "category": "情感心理",
+    "heat_score": 64,
+    "keywords": [
+      "情感心理",
+      "婚姻七年",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "负面",
+    "platform": "小红书",
+    "industries": [
+      "情感心理"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "情感心理热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 191,
+    "id": "ht_191",
+    "hot_value": 64000000
+  },
+  {
+    "title": "日料自助推荐 食材新鲜度",
+    "description": "日料店测评",
+    "category": "美食探店",
+    "heat_score": 63,
+    "keywords": [
+      "美食探店",
+      "日料自助",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "负面",
+    "platform": "微博/小红书",
+    "industries": [
+      "美食探店"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "美食探店热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 192,
+    "id": "ht_192",
+    "hot_value": 63000000
+  },
+  {
+    "title": "社交恐惧怎么办 克服社恐",
+    "description": "社交技巧分享",
+    "category": "情感心理",
+    "heat_score": 63,
+    "keywords": [
+      "情感心理",
+      "社交恐惧",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "上升",
+    "sentiment": "中性",
+    "platform": "B站/小红书",
+    "industries": [
+      "情感心理"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "情感心理热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 193,
+    "id": "ht_193",
+    "hot_value": 63000000
+  },
+  {
+    "title": "副业推荐 下班后赚钱",
+    "description": "副业变现方式",
+    "category": "职场发展",
+    "heat_score": 63,
+    "keywords": [
+      "职场发展",
+      "副业推荐",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "中性",
+    "platform": "微博/小红书",
+    "industries": [
+      "职场发展"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "职场发展热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 194,
+    "id": "ht_194",
+    "hot_value": 63000000
+  },
+  {
+    "title": "早C晚A进阶版来了！2026新护肤公式",
+    "description": "早C晚A升级配方盘点，抗氧化+修护成新趋势",
+    "category": "美妆护肤",
+    "heat_score": 63,
+    "keywords": [
+      "美妆护肤",
+      "早C晚A",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "正面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "美妆护肤"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "美妆护肤热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 195,
+    "id": "ht_195",
+    "hot_value": 63000000
+  },
+  {
+    "title": "工资怎么谈 薪资谈判技巧",
+    "description": "职场谈判方法",
+    "category": "职场发展",
+    "heat_score": 63,
+    "keywords": [
+      "职场发展",
+      "工资怎么",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "负面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "职场发展"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "职场发展热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 196,
+    "id": "ht_196",
+    "hot_value": 63000000
+  },
+  {
+    "title": "裸辞真的勇气吗 谨慎选择",
+    "description": "职业规划建议",
+    "category": "职场发展",
+    "heat_score": 62,
+    "keywords": [
+      "职场发展",
+      "裸辞真的",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "回暖",
+    "sentiment": "中性",
+    "platform": "B站/小红书",
+    "industries": [
+      "职场发展"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "职场发展热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 197,
+    "id": "ht_197",
+    "hot_value": 62000000
+  },
+  {
+    "title": "优衣库联名款值得买吗",
+    "description": "平价穿搭推荐",
+    "category": "时尚穿搭",
+    "heat_score": 62,
+    "keywords": [
+      "时尚穿搭",
+      "优衣库联",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "负面",
+    "platform": "小红书",
+    "industries": [
+      "时尚穿搭"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚穿搭热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 198,
+    "id": "ht_198",
+    "hot_value": 62000000
+  },
+  {
+    "title": "Livehouse推荐 音乐现场",
+    "description": "演出推荐指南",
+    "category": "文化艺术",
+    "heat_score": 62,
+    "keywords": [
+      "文化艺术",
+      "Live",
+      "小红书",
+      "2026",
+      "教程"
+    ],
+    "trend_direction": "下降",
+    "sentiment": "负面",
+    "platform": "B站/小红书",
+    "industries": [
+      "文化艺术"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "文化艺术热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 199,
+    "id": "ht_199",
+    "hot_value": 62000000
+  },
+  {
+    "title": "职场晋升法则 升职加薪",
+    "description": "职业发展技巧",
+    "category": "职场发展",
+    "heat_score": 62,
+    "keywords": [
+      "职场发展",
+      "职场晋升",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "正面",
+    "platform": "小红书",
+    "industries": [
+      "职场发展"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "职场发展热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 200,
+    "id": "ht_200",
+    "hot_value": 62000000
+  },
+  {
+    "title": "智能家居产品 提升生活幸福感",
+    "description": "智能家居必入",
+    "category": "家居生活",
+    "heat_score": 61,
+    "keywords": [
+      "家居生活",
+      "智能家居",
+      "小红书",
+      "2026",
+      "推荐"
+    ],
+    "trend_direction": "平稳",
+    "sentiment": "正面",
+    "platform": "B站/小红书",
+    "industries": [
+      "家居生活"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "家居生活热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 201,
+    "id": "ht_201",
+    "hot_value": 61000000
+  },
+  {
+    "title": "职场穿搭 精致ol风格",
+    "description": "office穿搭分享",
+    "category": "职场发展",
+    "heat_score": 61,
+    "keywords": [
+      "职场发展",
+      "职场穿搭",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "爆发",
+    "sentiment": "负面",
+    "platform": "小红书",
+    "industries": [
+      "职场发展"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "职场发展热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 202,
+    "id": "ht_202",
+    "hot_value": 61000000
+  },
+  {
+    "title": "床品四件套 裸睡级面料推荐",
+    "description": "睡眠质量提升",
+    "category": "家居生活",
+    "heat_score": 60,
+    "keywords": [
+      "家居生活",
+      "床品四件",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "下降",
+    "sentiment": "中性",
+    "platform": "抖音/小红书",
+    "industries": [
+      "家居生活"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居生活热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 203,
+    "id": "ht_203",
+    "hot_value": 60000000
+  },
+  {
+    "title": "配饰提升精致感 耳饰项链手錶",
+    "description": "平价配饰店铺推荐",
+    "category": "时尚穿搭",
+    "heat_score": 60,
+    "keywords": [
+      "时尚穿搭",
+      "配饰提升",
+      "小红书",
+      "2026",
+      "测评"
+    ],
+    "trend_direction": "下降",
+    "sentiment": "正面",
+    "platform": "抖音/小红书",
+    "industries": [
+      "时尚穿搭"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "时尚穿搭热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 204,
+    "id": "ht_204",
+    "hot_value": 60000000
+  },
+  {
+    "title": "夜宵推荐 烧烤小龙虾",
+    "description": "深夜食堂分享",
+    "category": "美食探店",
+    "heat_score": 60,
+    "keywords": [
+      "美食探店",
+      "夜宵推荐",
+      "小红书",
+      "2026",
+      "攻略"
+    ],
+    "trend_direction": "下降",
+    "sentiment": "中性",
+    "platform": "微博/小红书",
+    "industries": [
+      "美食探店"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "美食探店热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 205,
+    "id": "ht_205",
+    "hot_value": 60000000
+  },
+  {
+    "title": "产后修复 盆底肌腹直肌",
+    "description": "产后恢复分享",
+    "category": "母婴亲子",
+    "heat_score": 60,
+    "keywords": [
+      "母婴亲子",
+      "产后修复",
+      "小红书",
+      "2026",
+      "分享"
+    ],
+    "trend_direction": "波动",
+    "sentiment": "负面",
+    "platform": "微博/小红书",
+    "industries": [
+      "母婴亲子"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "母婴亲子热点",
+    "created_at": "2026-04-02T11:32:22",
+    "rank": 206,
+    "id": "ht_206",
+    "hot_value": 60000000
   }
 ]
