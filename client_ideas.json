@@ -1,5 +1,2398 @@
 [
   {
+    "id": "荣耀_202604040628_000",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "耳机",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀清明假期露营日出打卡 小红书美平板的科普内容",
+    "platform": "微博",
+    "angle": "科普内容",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "平板",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "荣耀"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "荣耀_202604040628_001",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "耳机",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀清明祭扫迎来早高峰 文明祭祀成耳机的产品测评",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "耳机",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "荣耀"
+    ],
+    "quality_score": 0.81,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "荣耀_202604040628_002",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "耳机",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀清明档电影首日票房破2亿 观影平板的科普内容",
+    "platform": "小红书",
+    "angle": "科普内容",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "爆",
+    "product": "平板",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "荣耀"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "荣耀_202604040628_003",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "耳机",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀春季晨跑热潮兴起 健身博主分享手机的情感共鸣",
+    "platform": "抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "热",
+    "product": "手机",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "荣耀"
+    ],
+    "quality_score": 0.79,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "罗技_202604040628_004",
+    "client": {
+      "brand": "罗技",
+      "industry": "科技/外设",
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
+    },
+    "title": "罗技春季晨跑热潮兴起 健身博主分享键盘的场景种草",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "键盘",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "罗技"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "罗技_202604040628_005",
+    "client": {
+      "brand": "罗技",
+      "industry": "科技/外设",
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
+    },
+    "title": "罗技清明祭扫迎来早高峰 文明祭祀成鼠标的科普内容",
+    "platform": "B站",
+    "angle": "科普内容",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "爆",
+    "product": "鼠标",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "罗技"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "罗技_202604040628_006",
+    "client": {
+      "brand": "罗技",
+      "industry": "科技/外设",
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
+    },
+    "title": "罗技清明假期露营日出打卡 小红书美耳机的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "爆",
+    "product": "耳机",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "罗技"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "罗技_202604040628_007",
+    "client": {
+      "brand": "罗技",
+      "industry": "科技/外设",
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
+    },
+    "title": "罗技清明早间高速拥堵持续 多地启动游戏手柄的产品测评",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "热",
+    "product": "游戏手柄",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "罗技"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "小米_202604040628_008",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米清明祭扫迎来早高峰 文明祭祀成电动车的生活方式",
+    "platform": "B站",
+    "angle": "生活方式",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "爆",
+    "product": "电动车",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "小米"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "小米_202604040628_009",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米春季晨跑热潮兴起 健身博主分享手机的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "爆",
+    "product": "手机",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "小米"
+    ],
+    "quality_score": 0.94,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "小米_202604040628_010",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米清明早间高速拥堵持续 多地启动智能家居的科普内容",
+    "platform": "小红书",
+    "angle": "科普内容",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "热",
+    "product": "智能家居",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "小米"
+    ],
+    "quality_score": 0.94,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "索尼_202604040628_011",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼春季晨跑热潮兴起 健身博主分享相机的场景种草",
+    "platform": "抖音",
+    "angle": "场景种草",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "爆",
+    "product": "相机",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "索尼"
+    ],
+    "quality_score": 0.94,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "索尼_202604040628_012",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼清明早间高速拥堵持续 多地启动耳机的情感共鸣",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "爆",
+    "product": "耳机",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "索尼"
+    ],
+    "quality_score": 0.79,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "索尼_202604040628_013",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼清明假期露营日出打卡 小红书美游戏机的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "热",
+    "product": "游戏机",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "索尼"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "索尼_202604040628_014",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼清明档电影首日票房破2亿 观影游戏机的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "爆",
+    "product": "游戏机",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "索尼"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "索尼_202604040628_015",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼清明祭扫迎来早高峰 文明祭祀成耳机的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "耳机",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "索尼"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "AHC_202604040628_016",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC清明假期露营日出打卡 小红书美眼霜的产品测评",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "爆",
+    "product": "眼霜",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "AHC"
+    ],
+    "quality_score": 0.76,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "AHC_202604040628_017",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC清明档电影首日票房破2亿 观影精华的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "热",
+    "product": "精华",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "AHC"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "AHC_202604040628_018",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC清明早间高速拥堵持续 多地启动精华的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "爆",
+    "product": "精华",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "AHC"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "AHC_202604040628_019",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC春季晨跑热潮兴起 健身博主分享精华的产品测评",
+    "platform": "小红书",
+    "angle": "产品测评",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "爆",
+    "product": "精华",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "AHC"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "多芬_202604040628_020",
+    "client": {
+      "brand": "多芬",
+      "industry": "个护/美妆",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "护发素",
+        "身体乳"
+      ]
+    },
+    "title": "多芬清明祭扫迎来早高峰 文明祭祀成洗发水的场景种草",
+    "platform": "抖音",
+    "angle": "场景种草",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "洗发水",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "多芬"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "多芬_202604040628_021",
+    "client": {
+      "brand": "多芬",
+      "industry": "个护/美妆",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "护发素",
+        "身体乳"
+      ]
+    },
+    "title": "多芬清明档电影首日票房破2亿 观影护发素的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "热",
+    "product": "护发素",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "多芬"
+    ],
+    "quality_score": 0.94,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "多芬_202604040628_022",
+    "client": {
+      "brand": "多芬",
+      "industry": "个护/美妆",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "护发素",
+        "身体乳"
+      ]
+    },
+    "title": "多芬春季晨跑热潮兴起 健身博主分享沐浴露的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "爆",
+    "product": "沐浴露",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "多芬"
+    ],
+    "quality_score": 0.77,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "力士_202604040628_023",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士清明祭扫迎来早高峰 文明祭祀成沐浴露的生活方式",
+    "platform": "B站",
+    "angle": "生活方式",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "爆",
+    "product": "沐浴露",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "力士"
+    ],
+    "quality_score": 0.81,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "力士_202604040628_024",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士清明早间高速拥堵持续 多地启动香皂的场景种草",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "热",
+    "product": "香皂",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "力士"
+    ],
+    "quality_score": 0.94,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "力士_202604040628_025",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士清明档电影首日票房破2亿 观影洗发水的科普内容",
+    "platform": "抖音",
+    "angle": "科普内容",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "热",
+    "product": "洗发水",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "力士"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "力士_202604040628_026",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士清明假期露营日出打卡 小红书美沐浴露的科普内容",
+    "platform": "微博",
+    "angle": "科普内容",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "爆",
+    "product": "沐浴露",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "力士"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "力士_202604040628_027",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士春季晨跑热潮兴起 健身博主分享香皂的科普内容",
+    "platform": "抖音",
+    "angle": "科普内容",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "香皂",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "力士"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "清扬_202604040628_028",
+    "client": {
+      "brand": "清扬",
+      "industry": "个护/洗护",
+      "products": [
+        "洗发水",
+        "护发素",
+        "去屑产品"
+      ]
+    },
+    "title": "清扬清明早间高速拥堵持续 多地启动去屑产品的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "爆",
+    "product": "去屑产品",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "清扬"
+    ],
+    "quality_score": 0.77,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "清扬_202604040628_029",
+    "client": {
+      "brand": "清扬",
+      "industry": "个护/洗护",
+      "products": [
+        "洗发水",
+        "护发素",
+        "去屑产品"
+      ]
+    },
+    "title": "清扬清明祭扫迎来早高峰 文明祭祀成去屑产品的科普内容",
+    "platform": "微博",
+    "angle": "科普内容",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "去屑产品",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "清扬"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "清扬_202604040628_030",
+    "client": {
+      "brand": "清扬",
+      "industry": "个护/洗护",
+      "products": [
+        "洗发水",
+        "护发素",
+        "去屑产品"
+      ]
+    },
+    "title": "清扬清明假期露营日出打卡 小红书美洗发水的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "爆",
+    "product": "洗发水",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "清扬"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "清扬_202604040628_031",
+    "client": {
+      "brand": "清扬",
+      "industry": "个护/洗护",
+      "products": [
+        "洗发水",
+        "护发素",
+        "去屑产品"
+      ]
+    },
+    "title": "清扬清明档电影首日票房破2亿 观影洗发水的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "热",
+    "product": "洗发水",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "清扬"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "玉兰油_202604040628_032",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆/护肤",
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "玉兰油春季晨跑热潮兴起 健身博主分享面霜的情感共鸣",
+    "platform": "抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "爆",
+    "product": "面霜",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "玉兰油"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "玉兰油_202604040628_033",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆/护肤",
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "玉兰油清明早间高速拥堵持续 多地启动精华的情感共鸣",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "热",
+    "product": "精华",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "玉兰油"
+    ],
+    "quality_score": 0.81,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "玉兰油_202604040628_034",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆/护肤",
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "玉兰油清明档电影首日票房破2亿 观影防晒的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "爆",
+    "product": "防晒",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "玉兰油"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "汤臣倍健_202604040628_035",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健清明祭扫迎来早高峰 文明祭祀成益生菌的产品测评",
+    "platform": "微博",
+    "angle": "产品测评",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "爆",
+    "product": "益生菌",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.76,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "汤臣倍健_202604040628_036",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健春季晨跑热潮兴起 健身博主分享鱼油的生活方式",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "爆",
+    "product": "鱼油",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "汤臣倍健_202604040628_037",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健清明档电影首日票房破2亿 观影益生菌的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "新",
+    "product": "益生菌",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "善存_202604040628_038",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存清明假期露营日出打卡 小红书美钙片的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "钙片",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "善存"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "善存_202604040628_039",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存清明早间高速拥堵持续 多地启动叶酸的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "新",
+    "product": "叶酸",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "善存"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "善存_202604040628_040",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存春季晨跑热潮兴起 健身博主分享叶酸的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "叶酸",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "善存"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "HC_202604040628_041",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "护肤品",
+        "彩妆",
+        "精华"
+      ]
+    },
+    "title": "HC清明早间高速拥堵持续 多地启动精华的情感共鸣",
+    "platform": "B站",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "爆",
+    "product": "精华",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "HC"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "HC_202604040628_042",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "护肤品",
+        "彩妆",
+        "精华"
+      ]
+    },
+    "title": "HC清明祭扫迎来早高峰 文明祭祀成精华的科普内容",
+    "platform": "小红书",
+    "angle": "科普内容",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "精华",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "HC"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "HC_202604040628_043",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "护肤品",
+        "彩妆",
+        "精华"
+      ]
+    },
+    "title": "HC清明假期露营日出打卡 小红书美彩妆的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "热",
+    "product": "彩妆",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "HC"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "HC_202604040628_044",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "护肤品",
+        "彩妆",
+        "精华"
+      ]
+    },
+    "title": "HC清明档电影首日票房破2亿 观影精华的产品测评",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "热",
+    "product": "精华",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "HC"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "威猛先生_202604040628_045",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居清洁",
+      "products": [
+        "清洁剂",
+        "去污剂",
+        "厨房清洁"
+      ]
+    },
+    "title": "威猛先生清明假期露营日出打卡 小红书美厨房清洁的生活方式",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "厨房清洁",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "威猛先生"
+    ],
+    "quality_score": 0.77,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "威猛先生_202604040628_046",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居清洁",
+      "products": [
+        "清洁剂",
+        "去污剂",
+        "厨房清洁"
+      ]
+    },
+    "title": "威猛先生清明祭扫迎来早高峰 文明祭祀成去污剂的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "去污剂",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "威猛先生"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "威猛先生_202604040628_047",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居清洁",
+      "products": [
+        "清洁剂",
+        "去污剂",
+        "厨房清洁"
+      ]
+    },
+    "title": "威猛先生清明早间高速拥堵持续 多地启动去污剂的生活方式",
+    "platform": "B站",
+    "angle": "生活方式",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "爆",
+    "product": "去污剂",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "威猛先生"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "威猛先生_202604040628_048",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居清洁",
+      "products": [
+        "清洁剂",
+        "去污剂",
+        "厨房清洁"
+      ]
+    },
+    "title": "威猛先生清明档电影首日票房破2亿 观影厨房清洁的科普内容",
+    "platform": "小红书",
+    "angle": "科普内容",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "热",
+    "product": "厨房清洁",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "威猛先生"
+    ],
+    "quality_score": 0.94,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "舒适_202604040628_049",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护/剃须",
+      "products": [
+        "剃须刀",
+        "剃须膏",
+        "护肤"
+      ]
+    },
+    "title": "舒适清明早间高速拥堵持续 多地启动护肤的情感共鸣",
+    "platform": "抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "爆",
+    "product": "护肤",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "舒适"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "舒适_202604040628_050",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护/剃须",
+      "products": [
+        "剃须刀",
+        "剃须膏",
+        "护肤"
+      ]
+    },
+    "title": "舒适清明假期露营日出打卡 小红书美剃须刀的生活方式",
+    "platform": "B站",
+    "angle": "生活方式",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "剃须刀",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "舒适"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "舒适_202604040628_051",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护/剃须",
+      "products": [
+        "剃须刀",
+        "剃须膏",
+        "护肤"
+      ]
+    },
+    "title": "舒适清明祭扫迎来早高峰 文明祭祀成剃须刀的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "剃须刀",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "舒适"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "希宝_202604040628_052",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物食品",
+      "products": [
+        "猫粮",
+        "猫罐头",
+        "猫零食"
+      ]
+    },
+    "title": "希宝清明档电影首日票房破2亿 观影猫零食的科普内容",
+    "platform": "微博",
+    "angle": "科普内容",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "爆",
+    "product": "猫零食",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "希宝"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "希宝_202604040628_053",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物食品",
+      "products": [
+        "猫粮",
+        "猫罐头",
+        "猫零食"
+      ]
+    },
+    "title": "希宝清明祭扫迎来早高峰 文明祭祀成猫粮的科普内容",
+    "platform": "抖音",
+    "angle": "科普内容",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "爆",
+    "product": "猫粮",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "希宝"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "希宝_202604040628_054",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物食品",
+      "products": [
+        "猫粮",
+        "猫罐头",
+        "猫零食"
+      ]
+    },
+    "title": "希宝春季晨跑热潮兴起 健身博主分享猫罐头的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "猫罐头",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "希宝"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "皇家_202604040628_055",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物营养品"
+      ]
+    },
+    "title": "皇家春季晨跑热潮兴起 健身博主分享猫粮的生活方式",
+    "platform": "微博",
+    "angle": "生活方式",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "热",
+    "product": "猫粮",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "皇家"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "皇家_202604040628_056",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物营养品"
+      ]
+    },
+    "title": "皇家清明早间高速拥堵持续 多地启动宠物营养品的情感共鸣",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "热",
+    "product": "宠物营养品",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "皇家"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "皇家_202604040628_057",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物营养品"
+      ]
+    },
+    "title": "皇家清明祭扫迎来早高峰 文明祭祀成猫粮的生活方式",
+    "platform": "小红书",
+    "angle": "生活方式",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "猫粮",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "皇家"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "OATLY_202604040628_058",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY清明档电影首日票房破2亿 观影燕麦奶的场景种草",
+    "platform": "抖音",
+    "angle": "场景种草",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "新",
+    "product": "燕麦奶",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "OATLY"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "OATLY_202604040628_059",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY清明假期露营日出打卡 小红书美燕麦饮的科普内容",
+    "platform": "抖音",
+    "angle": "科普内容",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "爆",
+    "product": "燕麦饮",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "OATLY"
+    ],
+    "quality_score": 0.79,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "OATLY_202604040628_060",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY清明祭扫迎来早高峰 文明祭祀成咖啡伴侣的科普内容",
+    "platform": "B站",
+    "angle": "科普内容",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "OATLY"
+    ],
+    "quality_score": 0.81,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "OATLY_202604040628_061",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY春季晨跑热潮兴起 健身博主分享咖啡伴侣的生活方式",
+    "platform": "微博",
+    "angle": "生活方式",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "热",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "OATLY"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "OATLY_202604040628_062",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY清明早间高速拥堵持续 多地启动燕麦饮的情感共鸣",
+    "platform": "抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦饮",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "OATLY"
+    ],
+    "quality_score": 0.81,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "百威_202604040628_063",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威清明早间高速拥堵持续 多地启动精酿的情感共鸣",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "新",
+    "product": "精酿",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "百威"
+    ],
+    "quality_score": 0.93,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "百威_202604040628_064",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威清明假期露营日出打卡 小红书美啤酒的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "热",
+    "product": "啤酒",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "百威"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "百威_202604040628_065",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威春季晨跑热潮兴起 健身博主分享精酿的科普内容",
+    "platform": "B站",
+    "angle": "科普内容",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "精酿",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "百威"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "百威_202604040628_066",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威清明祭扫迎来早高峰 文明祭祀成低醇啤酒的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "低醇啤酒",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "百威"
+    ],
+    "quality_score": 0.78,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "百威_202604040628_067",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威清明档电影首日票房破2亿 观影低醇啤酒的产品测评",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "爆",
+    "product": "低醇啤酒",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "百威"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "元气森林_202604040628_068",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林春季晨跑热潮兴起 健身博主分享乳茶的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "爆",
+    "product": "乳茶",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "元气森林"
+    ],
+    "quality_score": 0.76,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "元气森林_202604040628_069",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林清明假期露营日出打卡 小红书美无糖茶的生活方式",
+    "platform": "微博",
+    "angle": "生活方式",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "热",
+    "product": "无糖茶",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "元气森林"
+    ],
+    "quality_score": 0.94,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "元气森林_202604040628_070",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林清明祭扫迎来早高峰 文明祭祀成电解质水的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "爆",
+    "product": "电解质水",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "元气森林"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "农夫山泉_202604040628_071",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉清明档电影首日票房破2亿 观影果汁的科普内容",
+    "platform": "小红书",
+    "angle": "科普内容",
+    "hot_topic": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_topic_id": "ht_202604040628_004",
+    "heat": "热",
+    "trend": "热",
+    "product": "果汁",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "农夫山泉"
+    ],
+    "quality_score": 0.77,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "农夫山泉_202604040628_072",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉清明早间高速拥堵持续 多地启动果汁的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_topic_id": "ht_202604040628_001",
+    "heat": "热",
+    "trend": "热",
+    "product": "果汁",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "农夫山泉"
+    ],
+    "quality_score": 0.77,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "农夫山泉_202604040628_073",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉清明祭扫迎来早高峰 文明祭祀成矿泉水的场景种草",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_topic_id": "ht_202604040628_002",
+    "heat": "热",
+    "trend": "爆",
+    "product": "矿泉水",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "农夫山泉"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "农夫山泉_202604040628_074",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉春季晨跑热潮兴起 健身博主分享功能饮料的情感共鸣",
+    "platform": "抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_topic_id": "ht_202604040628_005",
+    "heat": "热",
+    "trend": "热",
+    "product": "功能饮料",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "农夫山泉"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
+    "id": "农夫山泉_202604040628_075",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉清明假期露营日出打卡 小红书美功能饮料的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_topic_id": "ht_202604040628_003",
+    "heat": "热",
+    "trend": "热",
+    "product": "功能饮料",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "农夫山泉"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T06:28:30"
+  },
+  {
     "id": "农夫山泉_202604040416_202604040416000",
     "client": {
       "brand": "农夫山泉",
