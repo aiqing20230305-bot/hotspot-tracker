@@ -1,1566 +1,6 @@
 [
   {
-    "id": 1381,
-    "title": "健身系列-1112: 运动恢复技巧",
-    "description": "运动恢复技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "健身",
-    "tags": [
-      "健身",
-      "运动恢复技巧",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 13520
-  },
-  {
-    "id": 1382,
-    "title": "旅行系列-1113: 省钱旅行攻略",
-    "description": "省钱旅行攻略的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "省钱旅行攻略",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 40356
-  },
-  {
-    "id": 1383,
-    "title": "健身系列-1114: 增肌减脂方法",
-    "description": "增肌减脂方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "健身",
-    "tags": [
-      "健身",
-      "增肌减脂方法",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 13799
-  },
-  {
-    "id": 1384,
-    "title": "育儿系列-1115: 情绪管理方法",
-    "description": "情绪管理方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "情绪管理方法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 7360
-  },
-  {
-    "id": 1385,
-    "title": "育儿系列-1116: 健康护理技巧",
-    "description": "健康护理技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "健康护理技巧",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 11033
-  },
-  {
-    "id": 1386,
-    "title": "旅行系列-1117: 小众目的地推荐",
-    "description": "小众目的地推荐的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "小众目的地推荐",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 29270
-  },
-  {
-    "id": 1387,
-    "title": "美食系列-1118: 烘焙甜品配方",
-    "description": "烘焙甜品配方的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "烘焙甜品配方",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 13243
-  },
-  {
-    "id": 1388,
-    "title": "情感系列-1119: 婚姻保鲜秘诀",
-    "description": "婚姻保鲜秘诀的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "情感",
-    "tags": [
-      "情感",
-      "婚姻保鲜秘诀",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 10575
-  },
-  {
-    "id": 1389,
-    "title": "美食系列-1120: 快手家常菜做法",
-    "description": "快手家常菜做法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "快手家常菜做法",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 29717
-  },
-  {
-    "id": 1390,
-    "title": "生活系列-1121: 生活小确幸",
-    "description": "生活小确幸的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "生活小确幸",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 32303
-  },
-  {
-    "id": 1391,
-    "title": "育儿系列-1122: 教育理念分享",
-    "description": "教育理念分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "教育理念分享",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 36397
-  },
-  {
-    "id": 1392,
-    "title": "科技系列-1123: App使用指南",
-    "description": "App使用指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "App使用指南",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 32180
-  },
-  {
-    "id": 1393,
-    "title": "生活系列-1124: 生活小确幸",
-    "description": "生活小确幸的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "生活小确幸",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 12214
-  },
-  {
-    "id": 1394,
-    "title": "时尚系列-1125: 发型设计指南",
-    "description": "发型设计指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "发型设计指南",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 42687
-  },
-  {
-    "id": 1395,
-    "title": "家居系列-1126: 家具选购建议",
-    "description": "家具选购建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "家具选购建议",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 17120
-  },
-  {
-    "id": 1396,
-    "title": "健身系列-1127: 运动恢复技巧",
-    "description": "运动恢复技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "健身",
-    "tags": [
-      "健身",
-      "运动恢复技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 47456
-  },
-  {
-    "id": 1397,
-    "title": "科技系列-1128: App使用指南",
-    "description": "App使用指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "App使用指南",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 37306
-  },
-  {
-    "id": 1398,
-    "title": "健身系列-1129: 增肌减脂方法",
-    "description": "增肌减脂方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "健身",
-    "tags": [
-      "健身",
-      "增肌减脂方法",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 15332
-  },
-  {
-    "id": 1399,
-    "title": "职场系列-1130: 职业规划建议",
-    "description": "职业规划建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "职业规划建议",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 29271
-  },
-  {
-    "id": 1400,
-    "title": "旅行系列-1131: 旅行必备清单",
-    "description": "旅行必备清单的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "旅行必备清单",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 49250
-  },
-  {
-    "id": 1401,
-    "title": "育儿系列-1132: 教育理念分享",
-    "description": "教育理念分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "教育理念分享",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 19470
-  },
-  {
-    "id": 1402,
-    "title": "职场系列-1133: 面试准备指南",
-    "description": "面试准备指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "面试准备指南",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 32508
-  },
-  {
-    "id": 1403,
-    "title": "生活系列-1134: 收纳整理技巧",
-    "description": "收纳整理技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "收纳整理技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 14809
-  },
-  {
-    "id": 1404,
-    "title": "情感系列-1135: 心理健康维护",
-    "description": "心理健康维护的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "情感",
-    "tags": [
-      "情感",
-      "心理健康维护",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 48820
-  },
-  {
-    "id": 1405,
-    "title": "生活系列-1136: 省钱的日常技巧",
-    "description": "省钱的日常技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "省钱的日常技巧",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 31294
-  },
-  {
-    "id": 1406,
-    "title": "家居系列-1137: 家具选购建议",
-    "description": "家具选购建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "家具选购建议",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 21211
-  },
-  {
-    "id": 1407,
-    "title": "健身系列-1138: 运动恢复技巧",
-    "description": "运动恢复技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "健身",
-    "tags": [
-      "健身",
-      "运动恢复技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 42071
-  },
-  {
-    "id": 1408,
-    "title": "美食系列-1139: 食材选购指南",
-    "description": "食材选购指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "食材选购指南",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 41698
-  },
-  {
-    "id": 1409,
-    "title": "职场系列-1140: 职场沟通方法",
-    "description": "职场沟通方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "职场沟通方法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 31160
-  },
-  {
-    "id": 1410,
-    "title": "时尚系列-1141: 发型设计指南",
-    "description": "发型设计指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "发型设计指南",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 2798
-  },
-  {
-    "id": 1411,
-    "title": "旅行系列-1142: 旅行必备清单",
-    "description": "旅行必备清单的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "旅行必备清单",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 2690
-  },
-  {
-    "id": 1412,
-    "title": "美食系列-1143: 健康饮食建议",
-    "description": "健康饮食建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "健康饮食建议",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 24822
-  },
-  {
-    "id": 1413,
-    "title": "旅行系列-1144: 省钱旅行攻略",
-    "description": "省钱旅行攻略的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "省钱旅行攻略",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 9702
-  },
-  {
-    "id": 1414,
-    "title": "美食系列-1145: 烘焙甜品配方",
-    "description": "烘焙甜品配方的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "烘焙甜品配方",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 33266
-  },
-  {
-    "id": 1415,
-    "title": "科技系列-1146: 最新数码产品评测",
-    "description": "最新数码产品评测的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "最新数码产品评测",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 25237
-  },
-  {
-    "id": 1416,
-    "title": "生活系列-1147: 时间管理方法",
-    "description": "时间管理方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "时间管理方法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 19517
-  },
-  {
-    "id": 1417,
-    "title": "育儿系列-1148: 教育理念分享",
-    "description": "教育理念分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "教育理念分享",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 29317
-  },
-  {
-    "id": 1418,
-    "title": "育儿系列-1149: 学习习惯培养",
-    "description": "学习习惯培养的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "学习习惯培养",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 5209
-  },
-  {
-    "id": 1419,
-    "title": "职场系列-1150: 简历撰写技巧",
-    "description": "简历撰写技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "简历撰写技巧",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 23980
-  },
-  {
-    "id": 1420,
-    "title": "时尚系列-1151: 化妆品推荐",
-    "description": "化妆品推荐的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "化妆品推荐",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 43442
-  },
-  {
-    "id": 1421,
-    "title": "情感系列-1152: 人际沟通方法",
-    "description": "人际沟通方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "情感",
-    "tags": [
-      "情感",
-      "人际沟通方法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 24663
-  },
-  {
-    "id": 1422,
-    "title": "生活系列-1153: 收纳整理技巧",
-    "description": "收纳整理技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "收纳整理技巧",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 22535
-  },
-  {
-    "id": 1423,
-    "title": "旅行系列-1154: 省钱旅行攻略",
-    "description": "省钱旅行攻略的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "省钱旅行攻略",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 45315
-  },
-  {
-    "id": 1424,
-    "title": "育儿系列-1155: 健康护理技巧",
-    "description": "健康护理技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "健康护理技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 1458
-  },
-  {
-    "id": 1425,
-    "title": "时尚系列-1156: 穿搭技巧分享",
-    "description": "穿搭技巧分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "穿搭技巧分享",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 18937
-  },
-  {
-    "id": 1426,
-    "title": "家居系列-1157: 装修避坑指南",
-    "description": "装修避坑指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "装修避坑指南",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 2036
-  },
-  {
-    "id": 1427,
-    "title": "时尚系列-1158: 发型设计指南",
-    "description": "发型设计指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "发型设计指南",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 25274
-  },
-  {
-    "id": 1428,
-    "title": "职场系列-1159: 职业规划建议",
-    "description": "职业规划建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "职业规划建议",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 45325
-  },
-  {
-    "id": 1429,
-    "title": "时尚系列-1160: 穿搭技巧分享",
-    "description": "穿搭技巧分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "穿搭技巧分享",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 39556
-  },
-  {
-    "id": 1430,
-    "title": "职场系列-1161: 面试准备指南",
-    "description": "面试准备指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "面试准备指南",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 18688
-  },
-  {
-    "id": 1431,
-    "title": "科技系列-1162: 最新数码产品评测",
-    "description": "最新数码产品评测的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "最新数码产品评测",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 28742
-  },
-  {
-    "id": 1432,
-    "title": "职场系列-1163: 简历撰写技巧",
-    "description": "简历撰写技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "简历撰写技巧",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 8246
-  },
-  {
-    "id": 1433,
-    "title": "时尚系列-1164: 穿搭技巧分享",
-    "description": "穿搭技巧分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "穿搭技巧分享",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 12549
-  },
-  {
-    "id": 1434,
-    "title": "家居系列-1165: 绿植养护技巧",
-    "description": "绿植养护技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "绿植养护技巧",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 9298
-  },
-  {
-    "id": 1435,
-    "title": "家居系列-1166: 家居收纳方案",
-    "description": "家居收纳方案的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "家居收纳方案",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 42468
-  },
-  {
-    "id": 1436,
-    "title": "生活系列-1167: 时间管理方法",
-    "description": "时间管理方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "时间管理方法",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 49564
-  },
-  {
-    "id": 1437,
-    "title": "情感系列-1168: 人际沟通方法",
-    "description": "人际沟通方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "情感",
-    "tags": [
-      "情感",
-      "人际沟通方法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 29904
-  },
-  {
-    "id": 1438,
-    "title": "育儿系列-1169: 健康护理技巧",
-    "description": "健康护理技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "健康护理技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 37618
-  },
-  {
-    "id": 1439,
-    "title": "家居系列-1170: 装修避坑指南",
-    "description": "装修避坑指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "装修避坑指南",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 47720
-  },
-  {
-    "id": 1440,
-    "title": "育儿系列-1171: 学习习惯培养",
-    "description": "学习习惯培养的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "学习习惯培养",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 43211
-  },
-  {
-    "id": 1441,
-    "title": "家居系列-1172: 家具选购建议",
-    "description": "家具选购建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "家具选购建议",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 2040
-  },
-  {
-    "id": 1442,
-    "title": "生活系列-1173: 时间管理方法",
-    "description": "时间管理方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "时间管理方法",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 2878
-  },
-  {
-    "id": 1443,
-    "title": "美食系列-1174: 食材选购指南",
-    "description": "食材选购指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "食材选购指南",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 9171
-  },
-  {
-    "id": 1444,
-    "title": "时尚系列-1175: 穿搭技巧分享",
-    "description": "穿搭技巧分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "穿搭技巧分享",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 31282
-  },
-  {
-    "id": 1445,
-    "title": "科技系列-1176: 编程学习方法",
-    "description": "编程学习方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "编程学习方法",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 25584
-  },
-  {
-    "id": 1446,
-    "title": "科技系列-1177: 最新数码产品评测",
-    "description": "最新数码产品评测的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "最新数码产品评测",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 43520
-  },
-  {
-    "id": 1447,
-    "title": "职场系列-1178: 职业规划建议",
-    "description": "职业规划建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "职业规划建议",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 44064
-  },
-  {
-    "id": 1448,
-    "title": "时尚系列-1179: 穿搭技巧分享",
-    "description": "穿搭技巧分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "穿搭技巧分享",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 41299
-  },
-  {
-    "id": 1449,
-    "title": "生活系列-1180: 时间管理方法",
-    "description": "时间管理方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "时间管理方法",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 13721
-  },
-  {
-    "id": 1450,
-    "title": "职场系列-1181: 简历撰写技巧",
-    "description": "简历撰写技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "简历撰写技巧",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 49367
-  },
-  {
-    "id": 1451,
-    "title": "科技系列-1182: 编程学习方法",
-    "description": "编程学习方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "编程学习方法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 16587
-  },
-  {
-    "id": 1452,
-    "title": "健身系列-1183: 健身习惯养成",
-    "description": "健身习惯养成的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "健身",
-    "tags": [
-      "健身",
-      "健身习惯养成",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 45921
-  },
-  {
-    "id": 1453,
-    "title": "育儿系列-1184: 亲子互动游戏",
-    "description": "亲子互动游戏的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "亲子互动游戏",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 31619
-  },
-  {
-    "id": 1454,
-    "title": "旅行系列-1185: 省钱旅行攻略",
-    "description": "省钱旅行攻略的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "省钱旅行攻略",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 35931
-  },
-  {
-    "id": 1455,
-    "title": "美食系列-1186: 健康饮食建议",
-    "description": "健康饮食建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "健康饮食建议",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 20266
-  },
-  {
-    "id": 1456,
-    "title": "育儿系列-1187: 健康护理技巧",
-    "description": "健康护理技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "健康护理技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 31582
-  },
-  {
-    "id": 1457,
-    "title": "时尚系列-1188: 穿搭技巧分享",
-    "description": "穿搭技巧分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "穿搭技巧分享",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 18770
-  },
-  {
-    "id": 1458,
-    "title": "生活系列-1189: 省钱的日常技巧",
-    "description": "省钱的日常技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "省钱的日常技巧",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 23827
-  },
-  {
-    "id": 1459,
-    "title": "旅行系列-1190: 拍照技巧分享",
-    "description": "拍照技巧分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "拍照技巧分享",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 15599
-  },
-  {
-    "id": 1460,
-    "title": "美食系列-1191: 烘焙甜品配方",
-    "description": "烘焙甜品配方的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "烘焙甜品配方",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 41494
-  },
-  {
-    "id": 1461,
-    "title": "职场系列-1192: 面试准备指南",
-    "description": "面试准备指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "面试准备指南",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 46077
-  },
-  {
-    "id": 1462,
-    "title": "旅行系列-1193: 拍照技巧分享",
-    "description": "拍照技巧分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "拍照技巧分享",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 13872
-  },
-  {
-    "id": 1463,
-    "title": "美食系列-1194: 健康饮食建议",
-    "description": "健康饮食建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "健康饮食建议",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 33176
-  },
-  {
-    "id": 1464,
-    "title": "育儿系列-1195: 学习习惯培养",
-    "description": "学习习惯培养的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "学习习惯培养",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 10794
-  },
-  {
-    "id": 1465,
-    "title": "生活系列-1196: 居家清洁妙招",
-    "description": "居家清洁妙招的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "居家清洁妙招",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 49364
-  },
-  {
-    "id": 1466,
-    "title": "育儿系列-1197: 健康护理技巧",
-    "description": "健康护理技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "健康护理技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 3286
-  },
-  {
-    "id": 1467,
-    "title": "美食系列-1198: 健康饮食建议",
-    "description": "健康饮食建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "健康饮食建议",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 1703
-  },
-  {
-    "id": 1468,
-    "title": "美食系列-1199: 快手家常菜做法",
-    "description": "快手家常菜做法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "快手家常菜做法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 5844
-  },
-  {
-    "id": 1469,
-    "title": "旅行系列-1200: 省钱旅行攻略",
-    "description": "省钱旅行攻略的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "省钱旅行攻略",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 20770
-  },
-  {
-    "id": 1470,
-    "title": "家居系列-1201: 装修避坑指南",
-    "description": "装修避坑指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "装修避坑指南",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 23782
-  },
-  {
-    "id": 1471,
-    "title": "情感系列-1202: 恋爱相处技巧",
-    "description": "恋爱相处技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "情感",
-    "tags": [
-      "情感",
-      "恋爱相处技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 10033
-  },
-  {
-    "id": 1472,
-    "title": "生活系列-1203: 收纳整理技巧",
-    "description": "收纳整理技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "收纳整理技巧",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 38514
-  },
-  {
-    "id": 1473,
-    "title": "健身系列-1204: 健身习惯养成",
-    "description": "健身习惯养成的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "健身",
-    "tags": [
-      "健身",
-      "健身习惯养成",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 43131
-  },
-  {
-    "id": 1474,
-    "title": "生活系列-1205: 收纳整理技巧",
-    "description": "收纳整理技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "收纳整理技巧",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 42056
-  },
-  {
-    "id": 1475,
-    "title": "家居系列-1206: 家具选购建议",
-    "description": "家具选购建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "家具选购建议",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 42678
-  },
-  {
-    "id": 1476,
-    "title": "旅行系列-1207: 省钱旅行攻略",
-    "description": "省钱旅行攻略的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "省钱旅行攻略",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 42186
-  },
-  {
-    "id": 1477,
-    "title": "生活系列-1208: 生活小确幸",
-    "description": "生活小确幸的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "生活小确幸",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 21697
-  },
-  {
-    "id": 1478,
-    "title": "旅行系列-1209: 拍照技巧分享",
-    "description": "拍照技巧分享的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "拍照技巧分享",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 34623
-  },
-  {
-    "id": 1479,
-    "title": "情感系列-1210: 恋爱相处技巧",
-    "description": "恋爱相处技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "情感",
-    "tags": [
-      "情感",
-      "恋爱相处技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 47799
-  },
-  {
-    "id": 1480,
-    "title": "时尚系列-1211: 配饰搭配方法",
-    "description": "配饰搭配方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "配饰搭配方法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 48246
-  },
-  {
-    "id": 1481,
-    "title": "情感系列-1212: 人际沟通方法",
-    "description": "人际沟通方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "情感",
-    "tags": [
-      "情感",
-      "人际沟通方法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 39647
-  },
-  {
-    "id": 1482,
-    "title": "美食系列-1213: 烘焙甜品配方",
-    "description": "烘焙甜品配方的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "烘焙甜品配方",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 49700
-  },
-  {
-    "id": 1483,
-    "title": "家居系列-1214: 氛围感打造",
-    "description": "氛围感打造的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "氛围感打造",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 21463
-  },
-  {
-    "id": 1484,
-    "title": "生活系列-1215: 居家清洁妙招",
-    "description": "居家清洁妙招的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "生活",
-    "tags": [
-      "生活",
-      "居家清洁妙招",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 1192
-  },
-  {
-    "id": 1485,
-    "title": "健身系列-1216: 增肌减脂方法",
-    "description": "增肌减脂方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "健身",
-    "tags": [
-      "健身",
-      "增肌减脂方法",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 18928
-  },
-  {
-    "id": 1486,
-    "title": "健身系列-1217: 健身习惯养成",
-    "description": "健身习惯养成的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "健身",
-    "tags": [
-      "健身",
-      "健身习惯养成",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 22648
-  },
-  {
-    "id": 1487,
-    "title": "家居系列-1218: 家具选购建议",
-    "description": "家具选购建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "家居",
-    "tags": [
-      "家居",
-      "家具选购建议",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 49837
-  },
-  {
-    "id": 1488,
-    "title": "时尚系列-1219: 护肤步骤详解",
-    "description": "护肤步骤详解的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "护肤步骤详解",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 9142
-  },
-  {
-    "id": 1489,
-    "title": "职场系列-1220: 职业规划建议",
-    "description": "职业规划建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "职业规划建议",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 19064
-  },
-  {
-    "id": 1490,
-    "title": "科技系列-1221: App使用指南",
-    "description": "App使用指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "App使用指南",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 14769
-  },
-  {
-    "id": 1491,
-    "title": "育儿系列-1222: 亲子互动游戏",
-    "description": "亲子互动游戏的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "育儿",
-    "tags": [
-      "育儿",
-      "亲子互动游戏",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 43917
-  },
-  {
-    "id": 1492,
-    "title": "科技系列-1223: App使用指南",
-    "description": "App使用指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "App使用指南",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 47307
-  },
-  {
-    "id": 1493,
-    "title": "科技系列-1224: AI工具使用技巧",
-    "description": "AI工具使用技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "AI工具使用技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 42934
-  },
-  {
-    "id": 1494,
-    "title": "科技系列-1225: AI工具使用技巧",
-    "description": "AI工具使用技巧的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "AI工具使用技巧",
-      "实用技巧"
-    ],
-    "difficulty": "简单",
-    "estimated_readers": 4064
-  },
-  {
-    "id": 1495,
-    "title": "职场系列-1226: 职业规划建议",
-    "description": "职业规划建议的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "职场",
-    "tags": [
-      "职场",
-      "职业规划建议",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 15741
-  },
-  {
-    "id": 1496,
-    "title": "旅行系列-1227: 省钱旅行攻略",
-    "description": "省钱旅行攻略的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "旅行",
-    "tags": [
-      "旅行",
-      "省钱旅行攻略",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 22260
-  },
-  {
-    "id": 1497,
-    "title": "时尚系列-1228: 护肤步骤详解",
-    "description": "护肤步骤详解的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "时尚",
-    "tags": [
-      "时尚",
-      "护肤步骤详解",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 43609
-  },
-  {
-    "id": 1498,
-    "title": "科技系列-1229: App使用指南",
-    "description": "App使用指南的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "科技",
-    "tags": [
-      "科技",
-      "App使用指南",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 45487
-  },
-  {
-    "id": 1499,
-    "title": "美食系列-1230: 一人食食谱",
-    "description": "一人食食谱的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "美食",
-    "tags": [
-      "美食",
-      "一人食食谱",
-      "实用技巧"
-    ],
-    "difficulty": "困难",
-    "estimated_readers": 34207
-  },
-  {
-    "id": 1500,
-    "title": "情感系列-1231: 人际沟通方法",
-    "description": "人际沟通方法的详细教程和实用技巧，帮助读者掌握相关知识点。",
-    "category": "情感",
-    "tags": [
-      "情感",
-      "人际沟通方法",
-      "实用技巧"
-    ],
-    "difficulty": "中等",
-    "estimated_readers": 42523
-  },
-  {
-    "id": "荣耀_20260404010908_1630",
+    "id": "荣耀_202604040310_100",
     "client": {
       "brand": "荣耀",
       "industry": "科技/手机",
@@ -1571,30 +11,98 @@
         "智能手表"
       ]
     },
-    "title": "荣耀凌晨三点还在刷手机 专家提醒熬夜伤身耳机的场景种草",
-    "platform": "小红书",
+    "title": "荣耀特斯拉FSD自动驾驶在华全面开手机的场景种草",
+    "platform": "微博",
     "angle": "场景种草",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "hot_topic": "特斯拉FSD自动驾驶在华全面开放",
+    "hot_topic_id": "ht_new_004",
+    "heat": "热",
+    "trend": "热",
+    "product": "手机",
+    "keywords": [
+      "特斯拉",
+      "FSD",
+      "自动驾驶",
+      "智驾",
+      "安全",
+      "荣耀"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "荣耀_202604040310_101",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "耳机",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀字节跳动发布AI音乐生成工具平板的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "字节跳动发布AI音乐生成工具",
+    "hot_topic_id": "ht_new_009",
+    "heat": "热",
+    "trend": "热",
+    "product": "平板",
+    "keywords": [
+      "字节跳动",
+      "AI音乐",
+      "音乐生成",
+      "创作",
+      "AI",
+      "荣耀"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "荣耀_202604040310_102",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "耳机",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀华为Pura 80 Ultra耳机的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "华为Pura 80 Ultra发布 搭载国产最强麒麟芯",
+    "hot_topic_id": "ht_new_011",
+    "heat": "热",
     "trend": "热",
     "product": "耳机",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
+      "华为",
+      "Pura80",
+      "麒麟芯片",
+      "国产",
       "手机",
-      "伤身",
       "荣耀"
     ],
-    "quality_score": 0.93,
+    "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "8万+",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "荣耀_20260404010908_7103",
+    "id": "荣耀_202604040310_103",
     "client": {
       "brand": "荣耀",
       "industry": "科技/手机",
@@ -1605,132 +113,30 @@
         "智能手表"
       ]
     },
-    "title": "荣耀凌晨发布新产品智能手表的生活方式",
-    "platform": "微博",
-    "angle": "生活方式",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "title": "荣耀抖音打击矩阵号虚假流量 多个千智能手表的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "抖音打击矩阵号虚假流量 多个千万粉账号被封",
+    "hot_topic_id": "ht_new_014",
+    "heat": "热",
     "trend": "热",
     "product": "智能手表",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
+      "抖音",
+      "矩阵号",
+      "虚假流量",
+      "封号",
+      "平台治理",
       "荣耀"
     ],
-    "quality_score": 0.877,
+    "quality_score": 0.9,
     "quality_level": "B级-良好",
-    "engagement_estimate": "11万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "荣耀_20260404010908_7441",
-    "client": {
-      "brand": "荣耀",
-      "industry": "科技/手机",
-      "products": [
-        "手机",
-        "平板",
-        "耳机",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀深夜美食耳机的科普内容",
-    "platform": "微博",
-    "angle": "科普内容",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "耳机",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "荣耀"
-    ],
-    "quality_score": 0.781,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "9万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "荣耀_20260404010908_1181",
-    "client": {
-      "brand": "荣耀",
-      "industry": "科技/手机",
-      "products": [
-        "手机",
-        "平板",
-        "耳机",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀夜间经济持续升温 24小时便利店手机的产品测评",
-    "platform": "小红书",
-    "angle": "产品测评",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "手机",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "荣耀"
-    ],
-    "quality_score": 0.835,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "13万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "罗技_20260404010908_5274",
-    "client": {
-      "brand": "罗技",
-      "industry": "科技/外设",
-      "products": [
-        "键盘",
-        "鼠标",
-        "耳机",
-        "游戏手柄"
-      ]
-    },
-    "title": "罗技凌晨三点还在刷手机 专家提醒熬夜伤身游戏手柄的科普内容",
-    "platform": "小红书",
-    "angle": "科普内容",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
-    "trend": "热",
-    "product": "游戏手柄",
-    "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
-      "罗技"
-    ],
-    "quality_score": 0.943,
-    "quality_level": "A级-优秀",
     "engagement_estimate": "14万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "罗技_20260404010908_6382",
+    "id": "罗技_202604040310_200",
     "client": {
       "brand": "罗技",
       "industry": "科技/外设",
@@ -1741,98 +147,166 @@
         "游戏手柄"
       ]
     },
-    "title": "罗技夜间经济持续升温 24小时便利店耳机的种草推荐",
+    "title": "罗技特斯拉FSD自动驾驶在华全面开键盘的场景种草",
     "platform": "微博",
-    "angle": "种草推荐",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "angle": "场景种草",
+    "hot_topic": "特斯拉FSD自动驾驶在华全面开放",
+    "hot_topic_id": "ht_new_004",
+    "heat": "热",
     "trend": "热",
-    "product": "耳机",
+    "product": "键盘",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
+      "特斯拉",
+      "FSD",
+      "自动驾驶",
+      "智驾",
+      "安全",
       "罗技"
     ],
-    "quality_score": 0.922,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "15万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "罗技_20260404010908_2875",
-    "client": {
-      "brand": "罗技",
-      "industry": "科技/外设",
-      "products": [
-        "键盘",
-        "鼠标",
-        "耳机",
-        "游戏手柄"
-      ]
-    },
-    "title": "罗技深夜美食游戏手柄的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "游戏手柄",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "罗技"
-    ],
-    "quality_score": 0.818,
+    "quality_score": 0.75,
     "quality_level": "A级-优秀",
     "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "小米_20260404010908_8322",
+    "id": "罗技_202604040310_201",
     "client": {
-      "brand": "小米",
-      "industry": "科技/智能家居",
+      "brand": "罗技",
+      "industry": "科技/外设",
       "products": [
-        "手机",
-        "智能家居",
-        "电动车",
-        "家电"
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
       ]
     },
-    "title": "小米凌晨发布新产品家电的生活方式",
-    "platform": "微博",
-    "angle": "生活方式",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "title": "罗技字节跳动发布AI音乐生成工具鼠标的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "字节跳动发布AI音乐生成工具",
+    "hot_topic_id": "ht_new_009",
+    "heat": "热",
     "trend": "热",
-    "product": "家电",
+    "product": "鼠标",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "小米"
+      "字节跳动",
+      "AI音乐",
+      "音乐生成",
+      "创作",
+      "AI",
+      "罗技"
     ],
-    "quality_score": 0.941,
+    "quality_score": 0.8,
     "quality_level": "A级-优秀",
-    "engagement_estimate": "13万+",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "小米_20260404010908_4360",
+    "id": "罗技_202604040310_202",
+    "client": {
+      "brand": "罗技",
+      "industry": "科技/外设",
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
+    },
+    "title": "罗技华为Pura 80 Ultra耳机的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "华为Pura 80 Ultra发布 搭载国产最强麒麟芯",
+    "hot_topic_id": "ht_new_011",
+    "heat": "热",
+    "trend": "热",
+    "product": "耳机",
+    "keywords": [
+      "华为",
+      "Pura80",
+      "麒麟芯片",
+      "国产",
+      "手机",
+      "罗技"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "罗技_202604040310_203",
+    "client": {
+      "brand": "罗技",
+      "industry": "科技/外设",
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
+    },
+    "title": "罗技抖音打击矩阵号虚假流量 多个千游戏手柄的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "抖音打击矩阵号虚假流量 多个千万粉账号被封",
+    "hot_topic_id": "ht_new_014",
+    "heat": "热",
+    "trend": "热",
+    "product": "游戏手柄",
+    "keywords": [
+      "抖音",
+      "矩阵号",
+      "虚假流量",
+      "封号",
+      "平台治理",
+      "罗技"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "罗技_202604040310_204",
+    "client": {
+      "brand": "罗技",
+      "industry": "科技/外设",
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
+    },
+    "title": "罗技OpenAI GPT-5发布时键盘的科普内容",
+    "platform": "微博",
+    "angle": "科普内容",
+    "hot_topic": "OpenAI GPT-5发布时间曝光 预计Q3发布",
+    "hot_topic_id": "ht_new_019",
+    "heat": "热",
+    "trend": "热",
+    "product": "键盘",
+    "keywords": [
+      "OpenAI",
+      "GPT-5",
+      "AI",
+      "大模型",
+      "发布",
+      "罗技"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "16万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "小米_202604040310_300",
     "client": {
       "brand": "小米",
       "industry": "科技/智能家居",
@@ -1843,30 +317,30 @@
         "家电"
       ]
     },
-    "title": "小米夜间经济持续升温 24小时便利店手机的场景种草",
-    "platform": "抖音",
+    "title": "小米特斯拉FSD自动驾驶在华全面开手机的场景种草",
+    "platform": "微博",
     "angle": "场景种草",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "hot_topic": "特斯拉FSD自动驾驶在华全面开放",
+    "hot_topic_id": "ht_new_004",
+    "heat": "热",
     "trend": "热",
     "product": "手机",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
+      "特斯拉",
+      "FSD",
+      "自动驾驶",
+      "智驾",
+      "安全",
       "小米"
     ],
-    "quality_score": 0.814,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "9万+",
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "小米_20260404010908_2179",
+    "id": "小米_202604040310_301",
     "client": {
       "brand": "小米",
       "industry": "科技/智能家居",
@@ -1877,30 +351,64 @@
         "家电"
       ]
     },
-    "title": "小米凌晨三点还在刷手机 专家提醒熬夜伤身电动车的场景种草",
+    "title": "小米字节跳动发布AI音乐生成工具智能家居的情感共鸣",
     "platform": "小红书",
-    "angle": "场景种草",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "angle": "情感共鸣",
+    "hot_topic": "字节跳动发布AI音乐生成工具",
+    "hot_topic_id": "ht_new_009",
+    "heat": "热",
+    "trend": "热",
+    "product": "智能家居",
+    "keywords": [
+      "字节跳动",
+      "AI音乐",
+      "音乐生成",
+      "创作",
+      "AI",
+      "小米"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "小米_202604040310_302",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米华为Pura 80 Ultra电动车的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "华为Pura 80 Ultra发布 搭载国产最强麒麟芯",
+    "hot_topic_id": "ht_new_011",
+    "heat": "热",
     "trend": "热",
     "product": "电动车",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
+      "华为",
+      "Pura80",
+      "麒麟芯片",
+      "国产",
       "手机",
-      "伤身",
       "小米"
     ],
-    "quality_score": 0.751,
+    "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "11万+",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "索尼_20260404010908_8616",
+    "id": "索尼_202604040310_400",
     "client": {
       "brand": "索尼",
       "industry": "科技/娱乐",
@@ -1911,98 +419,132 @@
         "电视"
       ]
     },
-    "title": "索尼深夜美食电视的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "电视",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "索尼"
-    ],
-    "quality_score": 0.938,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "14万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "索尼_20260404010908_7346",
-    "client": {
-      "brand": "索尼",
-      "industry": "科技/娱乐",
-      "products": [
-        "相机",
-        "耳机",
-        "游戏机",
-        "电视"
-      ]
-    },
-    "title": "索尼夜间经济持续升温 24小时便利店游戏机的情感共鸣",
+    "title": "索尼特斯拉FSD自动驾驶在华全面开相机的场景种草",
     "platform": "微博",
-    "angle": "情感共鸣",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "游戏机",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "索尼"
-    ],
-    "quality_score": 0.801,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "5万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "索尼_20260404010908_2603",
-    "client": {
-      "brand": "索尼",
-      "industry": "科技/娱乐",
-      "products": [
-        "相机",
-        "耳机",
-        "游戏机",
-        "电视"
-      ]
-    },
-    "title": "索尼凌晨发布新产品相机的科普内容",
-    "platform": "微博",
-    "angle": "科普内容",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "angle": "场景种草",
+    "hot_topic": "特斯拉FSD自动驾驶在华全面开放",
+    "hot_topic_id": "ht_new_004",
+    "heat": "热",
     "trend": "热",
     "product": "相机",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
+      "特斯拉",
+      "FSD",
+      "自动驾驶",
+      "智驾",
+      "安全",
       "索尼"
     ],
-    "quality_score": 0.858,
+    "quality_score": 0.75,
     "quality_level": "A级-优秀",
-    "engagement_estimate": "6万+",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "AHC_20260404010908_7321",
+    "id": "索尼_202604040310_401",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼字节跳动发布AI音乐生成工具耳机的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "字节跳动发布AI音乐生成工具",
+    "hot_topic_id": "ht_new_009",
+    "heat": "热",
+    "trend": "热",
+    "product": "耳机",
+    "keywords": [
+      "字节跳动",
+      "AI音乐",
+      "音乐生成",
+      "创作",
+      "AI",
+      "索尼"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "索尼_202604040310_402",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼华为Pura 80 Ultra游戏机的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "华为Pura 80 Ultra发布 搭载国产最强麒麟芯",
+    "hot_topic_id": "ht_new_011",
+    "heat": "热",
+    "trend": "热",
+    "product": "游戏机",
+    "keywords": [
+      "华为",
+      "Pura80",
+      "麒麟芯片",
+      "国产",
+      "手机",
+      "索尼"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "索尼_202604040310_403",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼抖音打击矩阵号虚假流量 多个千电视的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "抖音打击矩阵号虚假流量 多个千万粉账号被封",
+    "hot_topic_id": "ht_new_014",
+    "heat": "热",
+    "trend": "热",
+    "product": "电视",
+    "keywords": [
+      "抖音",
+      "矩阵号",
+      "虚假流量",
+      "封号",
+      "平台治理",
+      "索尼"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "AHC_202604040310_500",
     "client": {
       "brand": "AHC",
       "industry": "美妆/护肤",
@@ -2013,30 +555,98 @@
         "面膜"
       ]
     },
-    "title": "AHC凌晨发布新产品精华的场景种草",
-    "platform": "B站",
+    "title": "AHC春季过敏性鼻炎爆发 医院耳鼻喉眼霜的场景种草",
+    "platform": "微博",
     "angle": "场景种草",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "眼霜",
+    "keywords": [
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "AHC"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "AHC_202604040310_501",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC春季肌肤敏感高发期 敏感肌修护面霜的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
+    "trend": "热",
+    "product": "面霜",
+    "keywords": [
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
+      "AHC"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "AHC_202604040310_502",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC薄荷曼波成春季新顶流 穿搭色彩精华的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "薄荷曼波成春季新顶流 穿搭色彩新趋势",
+    "hot_topic_id": "ht_new_020",
+    "heat": "热",
     "trend": "热",
     "product": "精华",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
+      "穿搭",
+      "薄荷曼波",
+      "春季",
+      "时尚",
+      "色彩",
       "AHC"
     ],
-    "quality_score": 0.763,
+    "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "11万+",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "AHC_20260404010908_1056",
+    "id": "AHC_202604040310_503",
     "client": {
       "brand": "AHC",
       "industry": "美妆/护肤",
@@ -2047,64 +657,30 @@
         "面膜"
       ]
     },
-    "title": "AHC深夜美食面膜的科普内容",
-    "platform": "微博",
-    "angle": "科普内容",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
+    "title": "AHC春季过敏性鼻炎爆发 医院耳鼻喉面膜的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
     "trend": "热",
     "product": "面膜",
     "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "AHC"
-    ],
-    "quality_score": 0.794,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "6万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "AHC_20260404010908_9210",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆/护肤",
-      "products": [
-        "眼霜",
-        "面霜",
-        "精华",
-        "面膜"
-      ]
-    },
-    "title": "AHC凌晨三点还在刷手机 专家提醒熬夜伤身眼霜的情感共鸣",
-    "platform": "B站",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
-    "trend": "热",
-    "product": "眼霜",
-    "keywords": [
-      "熬夜",
-      "凌晨",
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
       "健康",
-      "手机",
-      "伤身",
       "AHC"
     ],
-    "quality_score": 0.861,
+    "quality_score": 0.9,
     "quality_level": "B级-良好",
-    "engagement_estimate": "10万+",
+    "engagement_estimate": "14万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "AHC_20260404010908_4326",
+    "id": "AHC_202604040310_504",
     "client": {
       "brand": "AHC",
       "industry": "美妆/护肤",
@@ -2115,30 +691,30 @@
         "面膜"
       ]
     },
-    "title": "AHC夜间经济持续升温 24小时便利店眼霜的情感共鸣",
+    "title": "AHC春季肌肤敏感高发期 敏感肌修护眼霜的科普内容",
     "platform": "微博",
-    "angle": "情感共鸣",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "angle": "科普内容",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
     "trend": "热",
     "product": "眼霜",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
       "AHC"
     ],
-    "quality_score": 0.815,
+    "quality_score": 0.95,
     "quality_level": "B级-良好",
-    "engagement_estimate": "15万+",
+    "engagement_estimate": "16万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "多芬_20260404010908_9433",
+    "id": "多芬_202604040310_600",
     "client": {
       "brand": "多芬",
       "industry": "个护/美妆",
@@ -2149,364 +725,230 @@
         "身体乳"
       ]
     },
-    "title": "多芬凌晨一点的购物节 直播电商开启深夜场洗发水的产品测评",
-    "platform": "B站",
-    "angle": "产品测评",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
-    "trend": "热",
-    "product": "洗发水",
-    "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "多芬"
-    ],
-    "quality_score": 0.859,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "14万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "多芬_20260404010908_7627",
-    "client": {
-      "brand": "多芬",
-      "industry": "个护/美妆",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "护发素",
-        "身体乳"
-      ]
-    },
-    "title": "多芬凌晨发布新产品洗发水的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
-    "trend": "热",
-    "product": "洗发水",
-    "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "多芬"
-    ],
-    "quality_score": 0.927,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "14万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "多芬_20260404010908_4111",
-    "client": {
-      "brand": "多芬",
-      "industry": "个护/美妆",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "护发素",
-        "身体乳"
-      ]
-    },
-    "title": "多芬深夜美食洗发水的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "洗发水",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "多芬"
-    ],
-    "quality_score": 0.863,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "12万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "多芬_20260404010908_9623",
-    "client": {
-      "brand": "多芬",
-      "industry": "个护/美妆",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "护发素",
-        "身体乳"
-      ]
-    },
-    "title": "多芬夜间经济持续升温 24小时便利店沐浴露的种草推荐",
-    "platform": "抖音",
-    "angle": "种草推荐",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "沐浴露",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "多芬"
-    ],
-    "quality_score": 0.792,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "5万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "多芬_20260404010908_7751",
-    "client": {
-      "brand": "多芬",
-      "industry": "个护/美妆",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "护发素",
-        "身体乳"
-      ]
-    },
-    "title": "多芬凌晨三点还在刷手机 专家提醒熬夜伤身护发素的科普内容",
-    "platform": "B站",
-    "angle": "科普内容",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
-    "trend": "热",
-    "product": "护发素",
-    "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
-      "多芬"
-    ],
-    "quality_score": 0.866,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "6万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "力士_20260404010908_9373",
-    "client": {
-      "brand": "力士",
-      "industry": "个护",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "香皂"
-      ]
-    },
-    "title": "力士夜间经济持续升温 24小时便利店沐浴露的生活方式",
-    "platform": "B站",
-    "angle": "生活方式",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "沐浴露",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "力士"
-    ],
-    "quality_score": 0.791,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "11万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "力士_20260404010908_3334",
-    "client": {
-      "brand": "力士",
-      "industry": "个护",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "香皂"
-      ]
-    },
-    "title": "力士深夜美食香皂的种草推荐",
-    "platform": "小红书",
-    "angle": "种草推荐",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "香皂",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "力士"
-    ],
-    "quality_score": 0.841,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "6万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "力士_20260404010908_3359",
-    "client": {
-      "brand": "力士",
-      "industry": "个护",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "香皂"
-      ]
-    },
-    "title": "力士凌晨发布新产品香皂的场景种草",
-    "platform": "抖音",
+    "title": "多芬春季过敏性鼻炎爆发 医院耳鼻喉沐浴露的场景种草",
+    "platform": "微博",
     "angle": "场景种草",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
     "trend": "热",
-    "product": "香皂",
+    "product": "沐浴露",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "力士"
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "多芬"
     ],
-    "quality_score": 0.869,
+    "quality_score": 0.75,
     "quality_level": "A级-优秀",
     "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "清扬_20260404010908_9946",
+    "id": "多芬_202604040310_601",
     "client": {
-      "brand": "清扬",
-      "industry": "个护/洗护",
+      "brand": "多芬",
+      "industry": "个护/美妆",
       "products": [
+        "沐浴露",
         "洗发水",
         "护发素",
-        "去屑产品"
+        "身体乳"
       ]
     },
-    "title": "清扬深夜美食洗发水的情感共鸣",
-    "platform": "B站",
+    "title": "多芬春季肌肤敏感高发期 敏感肌修护洗发水的情感共鸣",
+    "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
     "trend": "热",
     "product": "洗发水",
     "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "清扬"
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
+      "多芬"
     ],
-    "quality_score": 0.893,
+    "quality_score": 0.8,
     "quality_level": "A级-优秀",
-    "engagement_estimate": "9万+",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "清扬_20260404010908_3045",
+    "id": "多芬_202604040310_602",
     "client": {
-      "brand": "清扬",
-      "industry": "个护/洗护",
+      "brand": "多芬",
+      "industry": "个护/美妆",
       "products": [
+        "沐浴露",
         "洗发水",
         "护发素",
-        "去屑产品"
+        "身体乳"
       ]
     },
-    "title": "清扬凌晨一点的购物节 直播电商开启深夜场洗发水的科普内容",
+    "title": "多芬薄荷曼波成春季新顶流 穿搭色彩护发素的生活方式",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
-    "trend": "热",
-    "product": "洗发水",
-    "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "清扬"
-    ],
-    "quality_score": 0.826,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "9万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "清扬_20260404010908_3780",
-    "client": {
-      "brand": "清扬",
-      "industry": "个护/洗护",
-      "products": [
-        "洗发水",
-        "护发素",
-        "去屑产品"
-      ]
-    },
-    "title": "清扬凌晨三点还在刷手机 专家提醒熬夜伤身护发素的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "angle": "生活方式",
+    "hot_topic": "薄荷曼波成春季新顶流 穿搭色彩新趋势",
+    "hot_topic_id": "ht_new_020",
+    "heat": "热",
     "trend": "热",
     "product": "护发素",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
-      "清扬"
+      "穿搭",
+      "薄荷曼波",
+      "春季",
+      "时尚",
+      "色彩",
+      "多芬"
     ],
-    "quality_score": 0.791,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "14万+",
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "清扬_20260404010908_6240",
+    "id": "力士_202604040310_700",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士春季过敏性鼻炎爆发 医院耳鼻喉沐浴露的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "沐浴露",
+    "keywords": [
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "力士"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "力士_202604040310_701",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士春季肌肤敏感高发期 敏感肌修护洗发水的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
+    "trend": "热",
+    "product": "洗发水",
+    "keywords": [
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
+      "力士"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "力士_202604040310_702",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士春季过敏性鼻炎爆发 医院耳鼻喉香皂的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "香皂",
+    "keywords": [
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "力士"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "力士_202604040310_703",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士春季肌肤敏感高发期 敏感肌修护沐浴露的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
+    "trend": "热",
+    "product": "沐浴露",
+    "keywords": [
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
+      "力士"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "清扬_202604040310_800",
     "client": {
       "brand": "清扬",
       "industry": "个护/洗护",
@@ -2516,566 +958,664 @@
         "去屑产品"
       ]
     },
-    "title": "清扬夜间经济持续升温 24小时便利店去屑产品的种草推荐",
+    "title": "清扬春季过敏性鼻炎爆发 医院耳鼻喉洗发水的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "洗发水",
+    "keywords": [
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "清扬"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "清扬_202604040310_801",
+    "client": {
+      "brand": "清扬",
+      "industry": "个护/洗护",
+      "products": [
+        "洗发水",
+        "护发素",
+        "去屑产品"
+      ]
+    },
+    "title": "清扬春季肌肤敏感高发期 敏感肌修护护发素的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
+    "trend": "热",
+    "product": "护发素",
+    "keywords": [
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
+      "清扬"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "清扬_202604040310_802",
+    "client": {
+      "brand": "清扬",
+      "industry": "个护/洗护",
+      "products": [
+        "洗发水",
+        "护发素",
+        "去屑产品"
+      ]
+    },
+    "title": "清扬春季过敏性鼻炎爆发 医院耳鼻喉去屑产品的生活方式",
     "platform": "抖音",
-    "angle": "种草推荐",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "angle": "生活方式",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
     "trend": "热",
     "product": "去屑产品",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
       "清扬"
     ],
-    "quality_score": 0.871,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "10万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "玉兰油_20260404010908_4930",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆/护肤",
-      "products": [
-        "面霜",
-        "精华",
-        "防晒",
-        "洁面"
-      ]
-    },
-    "title": "玉兰油凌晨发布新产品面霜的产品测评",
-    "platform": "小红书",
-    "angle": "产品测评",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
-    "trend": "热",
-    "product": "面霜",
-    "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "玉兰油"
-    ],
-    "quality_score": 0.784,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "13万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "玉兰油_20260404010908_5947",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆/护肤",
-      "products": [
-        "面霜",
-        "精华",
-        "防晒",
-        "洁面"
-      ]
-    },
-    "title": "玉兰油凌晨三点还在刷手机 专家提醒熬夜伤身洁面的情感共鸣",
-    "platform": "抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
-    "trend": "热",
-    "product": "洁面",
-    "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
-      "玉兰油"
-    ],
-    "quality_score": 0.828,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "8万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "玉兰油_20260404010908_9546",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆/护肤",
-      "products": [
-        "面霜",
-        "精华",
-        "防晒",
-        "洁面"
-      ]
-    },
-    "title": "玉兰油深夜美食面霜的种草推荐",
-    "platform": "微博",
-    "angle": "种草推荐",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "面霜",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "玉兰油"
-    ],
-    "quality_score": 0.88,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "5万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "玉兰油_20260404010908_3528",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆/护肤",
-      "products": [
-        "面霜",
-        "精华",
-        "防晒",
-        "洁面"
-      ]
-    },
-    "title": "玉兰油夜间经济持续升温 24小时便利店面霜的种草推荐",
-    "platform": "B站",
-    "angle": "种草推荐",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "面霜",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "玉兰油"
-    ],
-    "quality_score": 0.796,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "13万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "玉兰油_20260404010908_3536",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "美妆/护肤",
-      "products": [
-        "面霜",
-        "精华",
-        "防晒",
-        "洁面"
-      ]
-    },
-    "title": "玉兰油凌晨一点的购物节 直播电商开启深夜场面霜的情感共鸣",
-    "platform": "微博",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
-    "trend": "热",
-    "product": "面霜",
-    "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "玉兰油"
-    ],
-    "quality_score": 0.87,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "10万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "汤臣倍健_20260404010908_6324",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健品",
-      "products": [
-        "维生素",
-        "蛋白粉",
-        "鱼油",
-        "益生菌"
-      ]
-    },
-    "title": "汤臣倍健凌晨一点的购物节 直播电商开启深夜场益生菌的种草推荐",
-    "platform": "小红书",
-    "angle": "种草推荐",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
-    "trend": "热",
-    "product": "益生菌",
-    "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "汤臣倍健"
-    ],
-    "quality_score": 0.946,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "8万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "汤臣倍健_20260404010908_7165",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健品",
-      "products": [
-        "维生素",
-        "蛋白粉",
-        "鱼油",
-        "益生菌"
-      ]
-    },
-    "title": "汤臣倍健凌晨发布新产品蛋白粉的种草推荐",
-    "platform": "抖音",
-    "angle": "种草推荐",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
-    "trend": "热",
-    "product": "蛋白粉",
-    "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "汤臣倍健"
-    ],
-    "quality_score": 0.949,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "7万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "汤臣倍健_20260404010908_4799",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健品",
-      "products": [
-        "维生素",
-        "蛋白粉",
-        "鱼油",
-        "益生菌"
-      ]
-    },
-    "title": "汤臣倍健夜间经济持续升温 24小时便利店蛋白粉的生活方式",
-    "platform": "抖音",
-    "angle": "生活方式",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "蛋白粉",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "汤臣倍健"
-    ],
     "quality_score": 0.85,
-    "quality_level": "A级-优秀",
+    "quality_level": "B级-良好",
     "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "善存_20260404010908_3701",
+    "id": "清扬_202604040310_803",
     "client": {
-      "brand": "善存",
-      "industry": "保健品",
+      "brand": "清扬",
+      "industry": "个护/洗护",
       "products": [
-        "复合维生素",
-        "钙片",
-        "叶酸"
+        "洗发水",
+        "护发素",
+        "去屑产品"
       ]
     },
-    "title": "善存凌晨发布新产品钙片的种草推荐",
-    "platform": "小红书",
-    "angle": "种草推荐",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "title": "清扬春季肌肤敏感高发期 敏感肌修护洗发水的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
     "trend": "热",
-    "product": "钙片",
+    "product": "洗发水",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "善存"
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
+      "清扬"
     ],
-    "quality_score": 0.887,
+    "quality_score": 0.9,
     "quality_level": "B级-良好",
-    "engagement_estimate": "10万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "善存_20260404010908_2189",
-    "client": {
-      "brand": "善存",
-      "industry": "保健品",
-      "products": [
-        "复合维生素",
-        "钙片",
-        "叶酸"
-      ]
-    },
-    "title": "善存凌晨三点还在刷手机 专家提醒熬夜伤身复合维生素的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
-    "trend": "热",
-    "product": "复合维生素",
-    "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
-      "善存"
-    ],
-    "quality_score": 0.834,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "6万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "善存_20260404010908_1903",
-    "client": {
-      "brand": "善存",
-      "industry": "保健品",
-      "products": [
-        "复合维生素",
-        "钙片",
-        "叶酸"
-      ]
-    },
-    "title": "善存夜间经济持续升温 24小时便利店叶酸的生活方式",
-    "platform": "小红书",
-    "angle": "生活方式",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "叶酸",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "善存"
-    ],
-    "quality_score": 0.834,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "15万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "善存_20260404010908_8398",
-    "client": {
-      "brand": "善存",
-      "industry": "保健品",
-      "products": [
-        "复合维生素",
-        "钙片",
-        "叶酸"
-      ]
-    },
-    "title": "善存深夜美食复合维生素的情感共鸣",
-    "platform": "微博",
-    "angle": "情感共鸣",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "复合维生素",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "善存"
-    ],
-    "quality_score": 0.842,
-    "quality_level": "A级-优秀",
     "engagement_estimate": "14万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "善存_20260404010908_6199",
+    "id": "清扬_202604040310_804",
     "client": {
-      "brand": "善存",
-      "industry": "保健品",
+      "brand": "清扬",
+      "industry": "个护/洗护",
       "products": [
-        "复合维生素",
-        "钙片",
-        "叶酸"
+        "洗发水",
+        "护发素",
+        "去屑产品"
       ]
     },
-    "title": "善存凌晨一点的购物节 直播电商开启深夜场钙片的情感共鸣",
+    "title": "清扬春季过敏性鼻炎爆发 医院耳鼻喉护发素的科普内容",
     "platform": "微博",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
+    "angle": "科普内容",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
     "trend": "热",
-    "product": "钙片",
+    "product": "护发素",
     "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "善存"
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "清扬"
     ],
-    "quality_score": 0.899,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "13万+",
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "16万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "HC_20260404010908_7760",
+    "id": "玉兰油_202604040310_900",
     "client": {
-      "brand": "HC",
+      "brand": "玉兰油",
       "industry": "美妆/护肤",
       "products": [
-        "护肤品",
-        "彩妆",
-        "精华"
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
       ]
     },
-    "title": "HC夜间经济持续升温 24小时便利店彩妆的场景种草",
+    "title": "玉兰油春季过敏性鼻炎爆发 医院耳鼻喉面霜的场景种草",
     "platform": "微博",
     "angle": "场景种草",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
     "trend": "热",
-    "product": "彩妆",
+    "product": "面霜",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "HC"
-    ],
-    "quality_score": 0.899,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "11万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "HC_20260404010908_2332",
-    "client": {
-      "brand": "HC",
-      "industry": "美妆/护肤",
-      "products": [
-        "护肤品",
-        "彩妆",
-        "精华"
-      ]
-    },
-    "title": "HC凌晨三点还在刷手机 专家提醒熬夜伤身彩妆的情感共鸣",
-    "platform": "抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
-    "trend": "热",
-    "product": "彩妆",
-    "keywords": [
-      "熬夜",
-      "凌晨",
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
       "健康",
-      "手机",
-      "伤身",
-      "HC"
+      "玉兰油"
     ],
-    "quality_score": 0.934,
-    "quality_level": "B级-良好",
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
     "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "HC_20260404010908_7004",
+    "id": "玉兰油_202604040310_901",
     "client": {
-      "brand": "HC",
+      "brand": "玉兰油",
       "industry": "美妆/护肤",
       "products": [
-        "护肤品",
-        "彩妆",
-        "精华"
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
       ]
     },
-    "title": "HC凌晨一点的购物节 直播电商开启深夜场精华的场景种草",
+    "title": "玉兰油春季肌肤敏感高发期 敏感肌修护精华的情感共鸣",
     "platform": "小红书",
-    "angle": "场景种草",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
+    "angle": "情感共鸣",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
     "trend": "热",
     "product": "精华",
     "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "HC"
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
+      "玉兰油"
     ],
-    "quality_score": 0.819,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "15万+",
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "威猛先生_20260404010908_3914",
+    "id": "玉兰油_202604040310_902",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆/护肤",
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "玉兰油薄荷曼波成春季新顶流 穿搭色彩防晒的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "薄荷曼波成春季新顶流 穿搭色彩新趋势",
+    "hot_topic_id": "ht_new_020",
+    "heat": "热",
+    "trend": "热",
+    "product": "防晒",
+    "keywords": [
+      "穿搭",
+      "薄荷曼波",
+      "春季",
+      "时尚",
+      "色彩",
+      "玉兰油"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "汤臣倍健_202604040310_1000",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健春季过敏性鼻炎爆发 医院耳鼻喉维生素的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "维生素",
+    "keywords": [
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "汤臣倍健_202604040310_1001",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健健身房哑铃被抢光 春季健身热潮蛋白粉的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "健身房哑铃被抢光 春季健身热潮来袭",
+    "hot_topic_id": "ht_new_007",
+    "heat": "热",
+    "trend": "热",
+    "product": "蛋白粉",
+    "keywords": [
+      "健身",
+      "春季",
+      "运动",
+      "健身器材",
+      "减肥",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "汤臣倍健_202604040310_1002",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健预制菜进校园引争议 家长担忧孩鱼油的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "预制菜进校园引争议 家长担忧孩子健康",
+    "hot_topic_id": "ht_new_013",
+    "heat": "热",
+    "trend": "热",
+    "product": "鱼油",
+    "keywords": [
+      "预制菜",
+      "学校",
+      "食品安全",
+      "健康",
+      "家长",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "汤臣倍健_202604040310_1003",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健春季过敏性鼻炎爆发 医院耳鼻喉益生菌的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "益生菌",
+    "keywords": [
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "善存_202604040310_1100",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存春季过敏性鼻炎爆发 医院耳鼻喉复合维生素的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "复合维生素",
+    "keywords": [
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "善存"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "善存_202604040310_1101",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存健身房哑铃被抢光 春季健身热潮钙片的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "健身房哑铃被抢光 春季健身热潮来袭",
+    "hot_topic_id": "ht_new_007",
+    "heat": "热",
+    "trend": "热",
+    "product": "钙片",
+    "keywords": [
+      "健身",
+      "春季",
+      "运动",
+      "健身器材",
+      "减肥",
+      "善存"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "善存_202604040310_1102",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存预制菜进校园引争议 家长担忧孩叶酸的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "预制菜进校园引争议 家长担忧孩子健康",
+    "hot_topic_id": "ht_new_013",
+    "heat": "热",
+    "trend": "热",
+    "product": "叶酸",
+    "keywords": [
+      "预制菜",
+      "学校",
+      "食品安全",
+      "健康",
+      "家长",
+      "善存"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "善存_202604040310_1103",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存春季过敏性鼻炎爆发 医院耳鼻喉复合维生素的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "复合维生素",
+    "keywords": [
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "善存"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "善存_202604040310_1104",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存健身房哑铃被抢光 春季健身热潮钙片的科普内容",
+    "platform": "微博",
+    "angle": "科普内容",
+    "hot_topic": "健身房哑铃被抢光 春季健身热潮来袭",
+    "hot_topic_id": "ht_new_007",
+    "heat": "热",
+    "trend": "热",
+    "product": "钙片",
+    "keywords": [
+      "健身",
+      "春季",
+      "运动",
+      "健身器材",
+      "减肥",
+      "善存"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "16万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "HC_202604040310_1200",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "护肤品",
+        "彩妆",
+        "精华"
+      ]
+    },
+    "title": "HC春季过敏性鼻炎爆发 医院耳鼻喉护肤品的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
+    "trend": "热",
+    "product": "护肤品",
+    "keywords": [
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "HC"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "HC_202604040310_1201",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "护肤品",
+        "彩妆",
+        "精华"
+      ]
+    },
+    "title": "HC春季肌肤敏感高发期 敏感肌修护彩妆的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
+    "trend": "热",
+    "product": "彩妆",
+    "keywords": [
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
+      "HC"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "HC_202604040310_1202",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "护肤品",
+        "彩妆",
+        "精华"
+      ]
+    },
+    "title": "HC薄荷曼波成春季新顶流 穿搭色彩精华的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "薄荷曼波成春季新顶流 穿搭色彩新趋势",
+    "hot_topic_id": "ht_new_020",
+    "heat": "热",
+    "trend": "热",
+    "product": "精华",
+    "keywords": [
+      "穿搭",
+      "薄荷曼波",
+      "春季",
+      "时尚",
+      "色彩",
+      "HC"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "威猛先生_202604040310_1300",
     "client": {
       "brand": "威猛先生",
       "industry": "家居清洁",
@@ -3085,30 +1625,30 @@
         "厨房清洁"
       ]
     },
-    "title": "威猛先生凌晨三点还在刷手机 专家提醒熬夜伤身清洁剂的场景种草",
+    "title": "威猛先生多地气温骤降10度 倒春寒来袭清洁剂的场景种草",
     "platform": "微博",
     "angle": "场景种草",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "hot_topic": "多地气温骤降10度 倒春寒来袭",
+    "hot_topic_id": "ht_new_010",
+    "heat": "热",
     "trend": "热",
     "product": "清洁剂",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
+      "倒春寒",
+      "降温",
+      "天气",
+      "春捂秋冻",
+      "穿衣",
       "威猛先生"
     ],
-    "quality_score": 0.896,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "9万+",
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "威猛先生_20260404010908_1962",
+    "id": "威猛先生_202604040310_1301",
     "client": {
       "brand": "威猛先生",
       "industry": "家居清洁",
@@ -3118,30 +1658,30 @@
         "厨房清洁"
       ]
     },
-    "title": "威猛先生深夜美食去污剂的情感共鸣",
+    "title": "威猛先生多地气温骤降10度 倒春寒来袭去污剂的情感共鸣",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
+    "hot_topic": "多地气温骤降10度 倒春寒来袭",
+    "hot_topic_id": "ht_new_010",
+    "heat": "热",
     "trend": "热",
     "product": "去污剂",
     "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
+      "倒春寒",
+      "降温",
+      "天气",
+      "春捂秋冻",
+      "穿衣",
       "威猛先生"
     ],
-    "quality_score": 0.91,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "11万+",
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "威猛先生_20260404010908_9991",
+    "id": "威猛先生_202604040310_1302",
     "client": {
       "brand": "威猛先生",
       "industry": "家居清洁",
@@ -3151,129 +1691,129 @@
         "厨房清洁"
       ]
     },
-    "title": "威猛先生夜间经济持续升温 24小时便利店清洁剂的产品测评",
-    "platform": "小红书",
+    "title": "威猛先生多地气温骤降10度 倒春寒来袭厨房清洁的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "多地气温骤降10度 倒春寒来袭",
+    "hot_topic_id": "ht_new_010",
+    "heat": "热",
+    "trend": "热",
+    "product": "厨房清洁",
+    "keywords": [
+      "倒春寒",
+      "降温",
+      "天气",
+      "春捂秋冻",
+      "穿衣",
+      "威猛先生"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "威猛先生_202604040310_1303",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居清洁",
+      "products": [
+        "清洁剂",
+        "去污剂",
+        "厨房清洁"
+      ]
+    },
+    "title": "威猛先生多地气温骤降10度 倒春寒来袭清洁剂的产品测评",
+    "platform": "B站",
     "angle": "产品测评",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "hot_topic": "多地气温骤降10度 倒春寒来袭",
+    "hot_topic_id": "ht_new_010",
+    "heat": "热",
     "trend": "热",
     "product": "清洁剂",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
+      "倒春寒",
+      "降温",
+      "天气",
+      "春捂秋冻",
+      "穿衣",
       "威猛先生"
     ],
     "quality_score": 0.9,
     "quality_level": "B级-良好",
-    "engagement_estimate": "5万+",
+    "engagement_estimate": "14万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "威猛先生_20260404010908_4515",
+    "id": "舒适_202604040310_1400",
     "client": {
-      "brand": "威猛先生",
-      "industry": "家居清洁",
+      "brand": "舒适",
+      "industry": "个护/剃须",
       "products": [
-        "清洁剂",
-        "去污剂",
-        "厨房清洁"
+        "剃须刀",
+        "剃须膏",
+        "护肤"
       ]
     },
-    "title": "威猛先生凌晨发布新产品厨房清洁的情感共鸣",
-    "platform": "B站",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "title": "舒适春季过敏性鼻炎爆发 医院耳鼻喉剃须刀的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
     "trend": "热",
-    "product": "厨房清洁",
+    "product": "剃须刀",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "威猛先生"
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
+      "舒适"
     ],
-    "quality_score": 0.87,
+    "quality_score": 0.75,
     "quality_level": "A级-优秀",
     "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "威猛先生_20260404010908_8098",
+    "id": "舒适_202604040310_1401",
     "client": {
-      "brand": "威猛先生",
-      "industry": "家居清洁",
+      "brand": "舒适",
+      "industry": "个护/剃须",
       "products": [
-        "清洁剂",
-        "去污剂",
-        "厨房清洁"
+        "剃须刀",
+        "剃须膏",
+        "护肤"
       ]
     },
-    "title": "威猛先生凌晨一点的购物节 直播电商开启深夜场清洁剂的情感共鸣",
-    "platform": "抖音",
+    "title": "舒适春季肌肤敏感高发期 敏感肌修护剃须膏的情感共鸣",
+    "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
     "trend": "热",
-    "product": "清洁剂",
+    "product": "剃须膏",
     "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "威猛先生"
-    ],
-    "quality_score": 0.822,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "9万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "舒适_20260404010908_3534",
-    "client": {
-      "brand": "舒适",
-      "industry": "个护/剃须",
-      "products": [
-        "剃须刀",
-        "剃须膏",
-        "护肤"
-      ]
-    },
-    "title": "舒适深夜美食护肤的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "护肤",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
       "舒适"
     ],
-    "quality_score": 0.912,
+    "quality_score": 0.8,
     "quality_level": "A级-优秀",
-    "engagement_estimate": "9万+",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "舒适_20260404010908_8636",
+    "id": "舒适_202604040310_1402",
     "client": {
       "brand": "舒适",
       "industry": "个护/剃须",
@@ -3283,63 +1823,30 @@
         "护肤"
       ]
     },
-    "title": "舒适凌晨发布新产品剃须刀的种草推荐",
-    "platform": "B站",
-    "angle": "种草推荐",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
-    "trend": "热",
-    "product": "剃须刀",
-    "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "舒适"
-    ],
-    "quality_score": 0.767,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "11万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "舒适_20260404010908_4269",
-    "client": {
-      "brand": "舒适",
-      "industry": "个护/剃须",
-      "products": [
-        "剃须刀",
-        "剃须膏",
-        "护肤"
-      ]
-    },
-    "title": "舒适凌晨三点还在刷手机 专家提醒熬夜伤身剃须刀的生活方式",
+    "title": "舒适薄荷曼波成春季新顶流 穿搭色彩护肤的生活方式",
     "platform": "抖音",
     "angle": "生活方式",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "hot_topic": "薄荷曼波成春季新顶流 穿搭色彩新趋势",
+    "hot_topic_id": "ht_new_020",
+    "heat": "热",
     "trend": "热",
-    "product": "剃须刀",
+    "product": "护肤",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
+      "穿搭",
+      "薄荷曼波",
+      "春季",
+      "时尚",
+      "色彩",
       "舒适"
     ],
-    "quality_score": 0.79,
+    "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "7万+",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "舒适_20260404010908_4880",
+    "id": "舒适_202604040310_1403",
     "client": {
       "brand": "舒适",
       "industry": "个护/剃须",
@@ -3349,30 +1856,63 @@
         "护肤"
       ]
     },
-    "title": "舒适夜间经济持续升温 24小时便利店护肤的产品测评",
-    "platform": "抖音",
+    "title": "舒适春季过敏性鼻炎爆发 医院耳鼻喉剃须刀的产品测评",
+    "platform": "B站",
     "angle": "产品测评",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "hot_topic": "春季过敏性鼻炎爆发 医院耳鼻喉科排长队",
+    "hot_topic_id": "ht_new_002",
+    "heat": "热",
     "trend": "热",
-    "product": "护肤",
+    "product": "剃须刀",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
+      "过敏",
+      "鼻炎",
+      "春季",
+      "花粉",
+      "健康",
       "舒适"
     ],
-    "quality_score": 0.762,
-    "quality_level": "A级-优秀",
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
     "engagement_estimate": "14万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "希宝_20260404010908_8297",
+    "id": "舒适_202604040310_1404",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护/剃须",
+      "products": [
+        "剃须刀",
+        "剃须膏",
+        "护肤"
+      ]
+    },
+    "title": "舒适春季肌肤敏感高发期 敏感肌修护剃须膏的科普内容",
+    "platform": "微博",
+    "angle": "科普内容",
+    "hot_topic": "春季肌肤敏感高发期 敏感肌修护产品销量激增",
+    "hot_topic_id": "ht_new_015",
+    "heat": "热",
+    "trend": "热",
+    "product": "剃须膏",
+    "keywords": [
+      "敏感肌",
+      "肌肤修护",
+      "春季护肤",
+      "护肤",
+      "过敏",
+      "舒适"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "16万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "希宝_202604040310_1500",
     "client": {
       "brand": "希宝",
       "industry": "宠物食品",
@@ -3382,63 +1922,63 @@
         "猫零食"
       ]
     },
-    "title": "希宝凌晨发布新产品猫罐头的情感共鸣",
+    "title": "希宝猫咪凌晨3点蹦迪成热搜 宠物主猫粮的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "猫咪凌晨3点蹦迪成热搜 宠物主夜不能寐",
+    "hot_topic_id": "ht_new_006",
+    "heat": "热",
+    "trend": "热",
+    "product": "猫粮",
+    "keywords": [
+      "猫咪",
+      "宠物",
+      "夜猫子",
+      "蹦迪",
+      "养猫",
+      "希宝"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "希宝_202604040310_1501",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物食品",
+      "products": [
+        "猫粮",
+        "猫罐头",
+        "猫零食"
+      ]
+    },
+    "title": "希宝猫咪情绪价值消费爆发 单只年消猫罐头的情感共鸣",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "hot_topic": "猫咪情绪价值消费爆发 单只年消费破万元",
+    "hot_topic_id": "ht_new_016",
+    "heat": "热",
     "trend": "热",
     "product": "猫罐头",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
+      "猫咪",
+      "宠物经济",
+      "情绪价值",
+      "养猫",
+      "宠物消费",
       "希宝"
     ],
-    "quality_score": 0.889,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "15万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "希宝_20260404010908_2220",
-    "client": {
-      "brand": "希宝",
-      "industry": "宠物食品",
-      "products": [
-        "猫粮",
-        "猫罐头",
-        "猫零食"
-      ]
-    },
-    "title": "希宝凌晨一点的购物节 直播电商开启深夜场猫粮的科普内容",
-    "platform": "小红书",
-    "angle": "科普内容",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
-    "trend": "热",
-    "product": "猫粮",
-    "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "希宝"
-    ],
-    "quality_score": 0.839,
+    "quality_score": 0.8,
     "quality_level": "A级-优秀",
-    "engagement_estimate": "7万+",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "希宝_20260404010908_5237",
+    "id": "希宝_202604040310_1502",
     "client": {
       "brand": "希宝",
       "industry": "宠物食品",
@@ -3448,30 +1988,30 @@
         "猫零食"
       ]
     },
-    "title": "希宝夜间经济持续升温 24小时便利店猫零食的科普内容",
+    "title": "希宝猫咪凌晨3点蹦迪成热搜 宠物主猫零食的生活方式",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "angle": "生活方式",
+    "hot_topic": "猫咪凌晨3点蹦迪成热搜 宠物主夜不能寐",
+    "hot_topic_id": "ht_new_006",
+    "heat": "热",
     "trend": "热",
     "product": "猫零食",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
+      "猫咪",
+      "宠物",
+      "夜猫子",
+      "蹦迪",
+      "养猫",
       "希宝"
     ],
-    "quality_score": 0.928,
+    "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "8万+",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "皇家_20260404010908_1179",
+    "id": "皇家_202604040310_1600",
     "client": {
       "brand": "皇家",
       "industry": "宠物食品",
@@ -3481,30 +2021,30 @@
         "宠物营养品"
       ]
     },
-    "title": "皇家夜间经济持续升温 24小时便利店猫粮的科普内容",
+    "title": "皇家猫咪凌晨3点蹦迪成热搜 宠物主猫粮的场景种草",
     "platform": "微博",
-    "angle": "科普内容",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "angle": "场景种草",
+    "hot_topic": "猫咪凌晨3点蹦迪成热搜 宠物主夜不能寐",
+    "hot_topic_id": "ht_new_006",
+    "heat": "热",
     "trend": "热",
     "product": "猫粮",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
+      "猫咪",
+      "宠物",
+      "夜猫子",
+      "蹦迪",
+      "养猫",
       "皇家"
     ],
-    "quality_score": 0.878,
+    "quality_score": 0.75,
     "quality_level": "A级-优秀",
-    "engagement_estimate": "14万+",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "皇家_20260404010908_6665",
+    "id": "皇家_202604040310_1601",
     "client": {
       "brand": "皇家",
       "industry": "宠物食品",
@@ -3514,195 +2054,96 @@
         "宠物营养品"
       ]
     },
-    "title": "皇家凌晨发布新产品宠物营养品的科普内容",
-    "platform": "微博",
-    "angle": "科普内容",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
-    "trend": "热",
-    "product": "宠物营养品",
-    "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "皇家"
-    ],
-    "quality_score": 0.784,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "6万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "皇家_20260404010908_4505",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物食品",
-      "products": [
-        "猫粮",
-        "狗粮",
-        "宠物营养品"
-      ]
-    },
-    "title": "皇家凌晨一点的购物节 直播电商开启深夜场宠物营养品的种草推荐",
+    "title": "皇家猫咪情绪价值消费爆发 单只年消狗粮的情感共鸣",
     "platform": "小红书",
-    "angle": "种草推荐",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
-    "trend": "热",
-    "product": "宠物营养品",
-    "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "皇家"
-    ],
-    "quality_score": 0.869,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "13万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "皇家_20260404010908_4077",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物食品",
-      "products": [
-        "猫粮",
-        "狗粮",
-        "宠物营养品"
-      ]
-    },
-    "title": "皇家凌晨三点还在刷手机 专家提醒熬夜伤身狗粮的种草推荐",
-    "platform": "B站",
-    "angle": "种草推荐",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "angle": "情感共鸣",
+    "hot_topic": "猫咪情绪价值消费爆发 单只年消费破万元",
+    "hot_topic_id": "ht_new_016",
+    "heat": "热",
     "trend": "热",
     "product": "狗粮",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
+      "猫咪",
+      "宠物经济",
+      "情绪价值",
+      "养猫",
+      "宠物消费",
       "皇家"
     ],
-    "quality_score": 0.814,
+    "quality_score": 0.8,
     "quality_level": "A级-优秀",
-    "engagement_estimate": "8万+",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "OATLY_20260404010908_7961",
+    "id": "皇家_202604040310_1602",
     "client": {
-      "brand": "OATLY",
-      "industry": "食品/植物奶",
+      "brand": "皇家",
+      "industry": "宠物食品",
       "products": [
-        "燕麦奶",
-        "燕麦饮",
-        "咖啡伴侣"
+        "猫粮",
+        "狗粮",
+        "宠物营养品"
       ]
     },
-    "title": "OATLY凌晨三点还在刷手机 专家提醒熬夜伤身燕麦饮的生活方式",
+    "title": "皇家猫咪凌晨3点蹦迪成热搜 宠物主宠物营养品的生活方式",
     "platform": "抖音",
     "angle": "生活方式",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "hot_topic": "猫咪凌晨3点蹦迪成热搜 宠物主夜不能寐",
+    "hot_topic_id": "ht_new_006",
+    "heat": "热",
     "trend": "热",
-    "product": "燕麦饮",
+    "product": "宠物营养品",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
-      "OATLY"
+      "猫咪",
+      "宠物",
+      "夜猫子",
+      "蹦迪",
+      "养猫",
+      "皇家"
     ],
-    "quality_score": 0.83,
+    "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "6万+",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "OATLY_20260404010908_2746",
+    "id": "皇家_202604040310_1603",
     "client": {
-      "brand": "OATLY",
-      "industry": "食品/植物奶",
+      "brand": "皇家",
+      "industry": "宠物食品",
       "products": [
-        "燕麦奶",
-        "燕麦饮",
-        "咖啡伴侣"
+        "猫粮",
+        "狗粮",
+        "宠物营养品"
       ]
     },
-    "title": "OATLY凌晨发布新产品燕麦饮的种草推荐",
-    "platform": "抖音",
-    "angle": "种草推荐",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
-    "trend": "热",
-    "product": "燕麦饮",
-    "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "OATLY"
-    ],
-    "quality_score": 0.947,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "10万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "OATLY_20260404010908_1400",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品/植物奶",
-      "products": [
-        "燕麦奶",
-        "燕麦饮",
-        "咖啡伴侣"
-      ]
-    },
-    "title": "OATLY夜间经济持续升温 24小时便利店燕麦饮的产品测评",
+    "title": "皇家猫咪情绪价值消费爆发 单只年消猫粮的产品测评",
     "platform": "B站",
     "angle": "产品测评",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
+    "hot_topic": "猫咪情绪价值消费爆发 单只年消费破万元",
+    "hot_topic_id": "ht_new_016",
+    "heat": "热",
     "trend": "热",
-    "product": "燕麦饮",
+    "product": "猫粮",
     "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "OATLY"
+      "猫咪",
+      "宠物经济",
+      "情绪价值",
+      "养猫",
+      "宠物消费",
+      "皇家"
     ],
-    "quality_score": 0.785,
+    "quality_score": 0.9,
     "quality_level": "B级-良好",
-    "engagement_estimate": "7万+",
+    "engagement_estimate": "14万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "OATLY_20260404010908_4354",
+    "id": "OATLY_202604040310_1700",
     "client": {
       "brand": "OATLY",
       "industry": "食品/植物奶",
@@ -3712,96 +2153,228 @@
         "咖啡伴侣"
       ]
     },
-    "title": "OATLY凌晨一点的购物节 直播电商开启深夜场咖啡伴侣的情感共鸣",
+    "title": "OATLY五一假期抢票大战白热化 123燕麦奶的场景种草",
     "platform": "微博",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
-    "trend": "热",
-    "product": "咖啡伴侣",
-    "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "OATLY"
-    ],
-    "quality_score": 0.915,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "10万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "OATLY_20260404010908_9691",
-    "client": {
-      "brand": "OATLY",
-      "industry": "食品/植物奶",
-      "products": [
-        "燕麦奶",
-        "燕麦饮",
-        "咖啡伴侣"
-      ]
-    },
-    "title": "OATLY深夜美食燕麦奶的情感共鸣",
-    "platform": "抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
+    "angle": "场景种草",
+    "hot_topic": "五一假期抢票大战白热化 12306系统崩溃3次",
+    "hot_topic_id": "ht_new_001",
+    "heat": "热",
     "trend": "热",
     "product": "燕麦奶",
     "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
+      "五一",
+      "抢票",
+      "火车票",
+      "假期",
+      "出行",
       "OATLY"
     ],
-    "quality_score": 0.792,
+    "quality_score": 0.75,
     "quality_level": "A级-优秀",
-    "engagement_estimate": "5万+",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "百威_20260404010908_8378",
+    "id": "OATLY_202604040310_1701",
     "client": {
-      "brand": "百威",
-      "industry": "酒饮",
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
       "products": [
-        "啤酒",
-        "精酿",
-        "低醇啤酒"
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
       ]
     },
-    "title": "百威凌晨三点还在刷手机 专家提醒熬夜伤身精酿的产品测评",
-    "platform": "微博",
+    "title": "OATLY健身房哑铃被抢光 春季健身热潮燕麦饮的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "健身房哑铃被抢光 春季健身热潮来袭",
+    "hot_topic_id": "ht_new_007",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦饮",
+    "keywords": [
+      "健身",
+      "春季",
+      "运动",
+      "健身器材",
+      "减肥",
+      "OATLY"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "OATLY_202604040310_1702",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY多地气温骤降10度 倒春寒来袭咖啡伴侣的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "多地气温骤降10度 倒春寒来袭",
+    "hot_topic_id": "ht_new_010",
+    "heat": "热",
+    "trend": "热",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "倒春寒",
+      "降温",
+      "天气",
+      "春捂秋冻",
+      "穿衣",
+      "OATLY"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "OATLY_202604040310_1703",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY五一亲子游预订量暴涨 主题乐园燕麦奶的产品测评",
+    "platform": "B站",
     "angle": "产品测评",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "hot_topic": "五一亲子游预订量暴涨 主题乐园酒店价格翻倍",
+    "hot_topic_id": "ht_new_012",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦奶",
+    "keywords": [
+      "五一",
+      "亲子游",
+      "主题乐园",
+      "酒店",
+      "家庭",
+      "OATLY"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "OATLY_202604040310_1704",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY薄荷曼波成春季新顶流 穿搭色彩燕麦饮的科普内容",
+    "platform": "微博",
+    "angle": "科普内容",
+    "hot_topic": "薄荷曼波成春季新顶流 穿搭色彩新趋势",
+    "hot_topic_id": "ht_new_020",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦饮",
+    "keywords": [
+      "穿搭",
+      "薄荷曼波",
+      "春季",
+      "时尚",
+      "色彩",
+      "OATLY"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "16万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "百威_202604040310_1800",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威国产燕麦奶市场份额首超OATL啤酒的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "国产燕麦奶市场份额首超OATLY",
+    "hot_topic_id": "ht_new_008",
+    "heat": "热",
+    "trend": "热",
+    "product": "啤酒",
+    "keywords": [
+      "燕麦奶",
+      "国产",
+      "植物奶",
+      "OATLY",
+      "健康饮品",
+      "百威"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "百威_202604040310_1801",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威五一亲子游预订量暴涨 主题乐园精酿的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "五一亲子游预订量暴涨 主题乐园酒店价格翻倍",
+    "hot_topic_id": "ht_new_012",
+    "heat": "热",
     "trend": "热",
     "product": "精酿",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
+      "五一",
+      "亲子游",
+      "主题乐园",
+      "酒店",
+      "家庭",
       "百威"
     ],
-    "quality_score": 0.903,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "9万+",
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "百威_20260404010908_1864",
+    "id": "百威_202604040310_1802",
     "client": {
       "brand": "百威",
       "industry": "酒饮",
@@ -3811,96 +2384,30 @@
         "低醇啤酒"
       ]
     },
-    "title": "百威凌晨发布新产品低醇啤酒的场景种草",
-    "platform": "小红书",
-    "angle": "场景种草",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "title": "百威国产燕麦奶市场份额首超OATL低醇啤酒的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "国产燕麦奶市场份额首超OATLY",
+    "hot_topic_id": "ht_new_008",
+    "heat": "热",
     "trend": "热",
     "product": "低醇啤酒",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
+      "燕麦奶",
+      "国产",
+      "植物奶",
+      "OATLY",
+      "健康饮品",
       "百威"
     ],
-    "quality_score": 0.889,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "7万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "百威_20260404010908_8679",
-    "client": {
-      "brand": "百威",
-      "industry": "酒饮",
-      "products": [
-        "啤酒",
-        "精酿",
-        "低醇啤酒"
-      ]
-    },
-    "title": "百威深夜美食低醇啤酒的情感共鸣",
-    "platform": "B站",
-    "angle": "情感共鸣",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "低醇啤酒",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "百威"
-    ],
-    "quality_score": 0.947,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "13万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "百威_20260404010908_3992",
-    "client": {
-      "brand": "百威",
-      "industry": "酒饮",
-      "products": [
-        "啤酒",
-        "精酿",
-        "低醇啤酒"
-      ]
-    },
-    "title": "百威夜间经济持续升温 24小时便利店精酿的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "精酿",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "百威"
-    ],
-    "quality_score": 0.819,
+    "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "15万+",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "元气森林_20260404010908_8319",
+    "id": "元气森林_202604040310_1900",
     "client": {
       "brand": "元气森林",
       "industry": "饮料",
@@ -3911,166 +2418,132 @@
         "乳茶"
       ]
     },
-    "title": "元气森林深夜美食电解质水的种草推荐",
+    "title": "元气森林五一假期抢票大战白热化 123气泡水的场景种草",
     "platform": "微博",
-    "angle": "种草推荐",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
-    "trend": "热",
-    "product": "电解质水",
-    "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
-      "元气森林"
-    ],
-    "quality_score": 0.775,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "13万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "元气森林_20260404010908_3845",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮料",
-      "products": [
-        "气泡水",
-        "无糖茶",
-        "电解质水",
-        "乳茶"
-      ]
-    },
-    "title": "元气森林凌晨发布新产品电解质水的情感共鸣",
-    "platform": "微博",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
-    "trend": "热",
-    "product": "电解质水",
-    "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
-      "元气森林"
-    ],
-    "quality_score": 0.789,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "15万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "元气森林_20260404010908_3786",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮料",
-      "products": [
-        "气泡水",
-        "无糖茶",
-        "电解质水",
-        "乳茶"
-      ]
-    },
-    "title": "元气森林凌晨一点的购物节 直播电商开启深夜场电解质水的种草推荐",
-    "platform": "B站",
-    "angle": "种草推荐",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
-    "trend": "热",
-    "product": "电解质水",
-    "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
-      "元气森林"
-    ],
-    "quality_score": 0.828,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "15万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "元气森林_20260404010908_3607",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮料",
-      "products": [
-        "气泡水",
-        "无糖茶",
-        "电解质水",
-        "乳茶"
-      ]
-    },
-    "title": "元气森林夜间经济持续升温 24小时便利店电解质水的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "电解质水",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "元气森林"
-    ],
-    "quality_score": 0.798,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "11万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "元气森林_20260404010908_3933",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮料",
-      "products": [
-        "气泡水",
-        "无糖茶",
-        "电解质水",
-        "乳茶"
-      ]
-    },
-    "title": "元气森林凌晨三点还在刷手机 专家提醒熬夜伤身无糖茶的场景种草",
-    "platform": "B站",
     "angle": "场景种草",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "hot_topic": "五一假期抢票大战白热化 12306系统崩溃3次",
+    "hot_topic_id": "ht_new_001",
+    "heat": "热",
+    "trend": "热",
+    "product": "气泡水",
+    "keywords": [
+      "五一",
+      "抢票",
+      "火车票",
+      "假期",
+      "出行",
+      "元气森林"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "元气森林_202604040310_1901",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林国产燕麦奶市场份额首超OATL无糖茶的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "国产燕麦奶市场份额首超OATLY",
+    "hot_topic_id": "ht_new_008",
+    "heat": "热",
     "trend": "热",
     "product": "无糖茶",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
+      "燕麦奶",
+      "国产",
+      "植物奶",
+      "OATLY",
+      "健康饮品",
       "元气森林"
     ],
-    "quality_score": 0.891,
+    "quality_score": 0.8,
     "quality_level": "A级-优秀",
-    "engagement_estimate": "9万+",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "农夫山泉_20260404010908_1598",
+    "id": "元气森林_202604040310_1902",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林多地气温骤降10度 倒春寒来袭电解质水的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "多地气温骤降10度 倒春寒来袭",
+    "hot_topic_id": "ht_new_010",
+    "heat": "热",
+    "trend": "热",
+    "product": "电解质水",
+    "keywords": [
+      "倒春寒",
+      "降温",
+      "天气",
+      "春捂秋冻",
+      "穿衣",
+      "元气森林"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "元气森林_202604040310_1903",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林五一亲子游预订量暴涨 主题乐园乳茶的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "五一亲子游预订量暴涨 主题乐园酒店价格翻倍",
+    "hot_topic_id": "ht_new_012",
+    "heat": "热",
+    "trend": "热",
+    "product": "乳茶",
+    "keywords": [
+      "五一",
+      "亲子游",
+      "主题乐园",
+      "酒店",
+      "家庭",
+      "元气森林"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "农夫山泉_202604040310_2000",
     "client": {
       "brand": "农夫山泉",
       "industry": "饮料/水",
@@ -4081,30 +2554,30 @@
         "功能饮料"
       ]
     },
-    "title": "农夫山泉凌晨发布新产品功能饮料的情感共鸣",
-    "platform": "抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "凌晨发布新产品成趋势 科技公司抢占用户注意力",
-    "hot_topic_id": "ht_169",
-    "heat": "高热",
+    "title": "农夫山泉五一假期抢票大战白热化 123矿泉水的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "五一假期抢票大战白热化 12306系统崩溃3次",
+    "hot_topic_id": "ht_new_001",
+    "heat": "热",
     "trend": "热",
-    "product": "功能饮料",
+    "product": "矿泉水",
     "keywords": [
-      "凌晨发布",
-      "科技",
-      "新产品",
-      "注意力",
-      "趋势",
+      "五一",
+      "抢票",
+      "火车票",
+      "假期",
+      "出行",
       "农夫山泉"
     ],
-    "quality_score": 0.778,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "6万+",
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "农夫山泉_20260404010908_1335",
+    "id": "农夫山泉_202604040310_2001",
     "client": {
       "brand": "农夫山泉",
       "industry": "饮料/水",
@@ -4115,30 +2588,64 @@
         "功能饮料"
       ]
     },
-    "title": "农夫山泉深夜美食果汁的科普内容",
-    "platform": "B站",
-    "angle": "科普内容",
-    "hot_topic": "深夜美食成年轻人解压新方式 外卖订单暴涨",
-    "hot_topic_id": "ht_168",
-    "heat": "高热",
+    "title": "农夫山泉国产燕麦奶市场份额首超OATL茶饮料的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "国产燕麦奶市场份额首超OATLY",
+    "hot_topic_id": "ht_new_008",
+    "heat": "热",
+    "trend": "热",
+    "product": "茶饮料",
+    "keywords": [
+      "燕麦奶",
+      "国产",
+      "植物奶",
+      "OATLY",
+      "健康饮品",
+      "农夫山泉"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T03:10:00"
+  },
+  {
+    "id": "农夫山泉_202604040310_2002",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉多地气温骤降10度 倒春寒来袭果汁的生活方式",
+    "platform": "抖音",
+    "angle": "生活方式",
+    "hot_topic": "多地气温骤降10度 倒春寒来袭",
+    "hot_topic_id": "ht_new_010",
+    "heat": "热",
     "trend": "热",
     "product": "果汁",
     "keywords": [
-      "深夜美食",
-      "外卖",
-      "解压",
-      "年轻人",
-      "夜宵",
+      "倒春寒",
+      "降温",
+      "天气",
+      "春捂秋冻",
+      "穿衣",
       "农夫山泉"
     ],
-    "quality_score": 0.835,
+    "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "13万+",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "农夫山泉_20260404010908_3855",
+    "id": "农夫山泉_202604040310_2003",
     "client": {
       "brand": "农夫山泉",
       "industry": "饮料/水",
@@ -4149,30 +2656,30 @@
         "功能饮料"
       ]
     },
-    "title": "农夫山泉凌晨一点的购物节 直播电商开启深夜场功能饮料的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "凌晨一点的购物节 直播电商开启深夜场",
-    "hot_topic_id": "ht_171",
-    "heat": "高热",
+    "title": "农夫山泉五一亲子游预订量暴涨 主题乐园功能饮料的产品测评",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "五一亲子游预订量暴涨 主题乐园酒店价格翻倍",
+    "hot_topic_id": "ht_new_012",
+    "heat": "热",
     "trend": "热",
     "product": "功能饮料",
     "keywords": [
-      "直播电商",
-      "深夜场",
-      "购物节",
-      "凌晨",
-      "电商",
+      "五一",
+      "亲子游",
+      "主题乐园",
+      "酒店",
+      "家庭",
       "农夫山泉"
     ],
-    "quality_score": 0.887,
+    "quality_score": 0.9,
     "quality_level": "B级-良好",
-    "engagement_estimate": "10万+",
+    "engagement_estimate": "14万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   },
   {
-    "id": "农夫山泉_20260404010908_4582",
+    "id": "农夫山泉_202604040310_2004",
     "client": {
       "brand": "农夫山泉",
       "industry": "饮料/水",
@@ -4183,60 +2690,26 @@
         "功能饮料"
       ]
     },
-    "title": "农夫山泉凌晨三点还在刷手机 专家提醒熬夜伤身茶饮料的生活方式",
+    "title": "农夫山泉五一假期抢票大战白热化 123矿泉水的科普内容",
     "platform": "微博",
-    "angle": "生活方式",
-    "hot_topic": "凌晨三点还在刷手机 专家提醒熬夜伤身",
-    "hot_topic_id": "ht_167",
-    "heat": "高热",
+    "angle": "科普内容",
+    "hot_topic": "五一假期抢票大战白热化 12306系统崩溃3次",
+    "hot_topic_id": "ht_new_001",
+    "heat": "热",
     "trend": "热",
-    "product": "茶饮料",
+    "product": "矿泉水",
     "keywords": [
-      "熬夜",
-      "凌晨",
-      "健康",
-      "手机",
-      "伤身",
+      "五一",
+      "抢票",
+      "火车票",
+      "假期",
+      "出行",
       "农夫山泉"
     ],
-    "quality_score": 0.857,
+    "quality_score": 0.95,
     "quality_level": "B级-良好",
-    "engagement_estimate": "8万+",
+    "engagement_estimate": "16万+",
     "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
-  },
-  {
-    "id": "农夫山泉_20260404010908_1001",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮料/水",
-      "products": [
-        "矿泉水",
-        "茶饮料",
-        "果汁",
-        "功能饮料"
-      ]
-    },
-    "title": "农夫山泉夜间经济持续升温 24小时便利店茶饮料的产品测评",
-    "platform": "抖音",
-    "angle": "产品测评",
-    "hot_topic": "夜间经济持续升温 24小时便利店成城市标配",
-    "hot_topic_id": "ht_170",
-    "heat": "高热",
-    "trend": "热",
-    "product": "茶饮料",
-    "keywords": [
-      "夜间经济",
-      "便利店",
-      "24小时",
-      "城市",
-      "消费",
-      "农夫山泉"
-    ],
-    "quality_score": 0.799,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "11万+",
-    "status": "pending",
-    "created_at": "2026-04-04T01:07:00"
+    "created_at": "2026-04-04T03:10:00"
   }
 ]
