@@ -1442,6 +1442,96 @@
             border-radius: 50%;
             animation: spin 0.8s linear infinite;
         }
+        
+        /* ========== 高级可视化图表区域 ========== */
+        .advanced-viz-section {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 24px;
+            margin-bottom: 24px;
+            display: none;
+        }
+        .advanced-viz-section.loaded { display: block; }
+        .advanced-viz-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .advanced-viz-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .viz-time-tabs {
+            display: flex;
+            gap: 4px;
+            background: var(--gray-100);
+            padding: 3px;
+            border-radius: 8px;
+        }
+        [data-theme="dark"] .viz-time-tabs { background: rgba(255,255,255,0.08); }
+        .viz-time-tab {
+            padding: 5px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            color: var(--text-secondary);
+            transition: all 0.2s;
+            border: none;
+            background: transparent;
+        }
+        .viz-time-tab.active {
+            background: var(--bg-card);
+            color: var(--primary);
+            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        }
+        .advanced-viz-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+        }
+        @media (max-width: 1024px) {
+            .advanced-viz-grid { grid-template-columns: 1fr; }
+        }
+        .viz-chart-card {
+            background: var(--gray-50);
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+            padding: 16px;
+            position: relative;
+        }
+        [data-theme="dark"] .viz-chart-card {
+            background: rgba(99,102,241,0.05);
+        }
+        .viz-chart-label {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .viz-chart-body {
+            height: 260px;
+            position: relative;
+        }
+        .viz-chart-body .echarts-chart {
+            width: 100%;
+            height: 100%;
+        }
+        /* 关键词网络图特殊样式 */
+        .keyword-network-card .viz-chart-body {
+            height: 320px;
+        }
     
         /* 搜索框样式 */
         .search-box {
@@ -1664,6 +1754,746 @@
             width: 200px;
             height: 200px;
         }
+        
+        /* ========== 收藏功能样式 ========== */
+        .favorites-section {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 24px;
+            margin-bottom: 24px;
+            display: none;
+        }
+        .favorites-section.loaded { display: block; }
+        .favorites-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .favorites-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .favorites-actions {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .fav-action-btn {
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: none;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .fav-action-btn.export-json {
+            background: linear-gradient(135deg, #10B981, #059669);
+            color: white;
+        }
+        .fav-action-btn.export-json:hover {
+            background: linear-gradient(135deg, #059669, #047857);
+            transform: translateY(-1px);
+        }
+        .fav-action-btn.export-csv {
+            background: linear-gradient(135deg, #6366F1, #4F46E5);
+            color: white;
+        }
+        .fav-action-btn.export-csv:hover {
+            background: linear-gradient(135deg, #4F46E5, #4338CA);
+            transform: translateY(-1px);
+        }
+        .fav-action-btn.clear-all {
+            background: var(--gray-100);
+            color: var(--gray-600);
+        }
+        .fav-action-btn.clear-all:hover {
+            background: #FEE2E2;
+            color: #DC2626;
+        }
+        [data-theme="dark"] .fav-action-btn.clear-all {
+            background: rgba(255,255,255,0.1);
+            color: var(--text-secondary);
+        }
+        .favorites-empty {
+            text-align: center;
+            padding: 48px 24px;
+            color: var(--text-secondary);
+        }
+        .favorites-empty-icon {
+            font-size: 64px;
+            margin-bottom: 16px;
+            opacity: 0.5;
+        }
+        .favorites-empty-text {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .favorites-empty-hint {
+            font-size: 14px;
+            opacity: 0.7;
+        }
+        .favorites-count {
+            font-size: 13px;
+            color: var(--text-secondary);
+            background: var(--gray-100);
+            padding: 4px 12px;
+            border-radius: 12px;
+        }
+        [data-theme="dark"] .favorites-count {
+            background: rgba(255,255,255,0.1);
+        }
+        
+        /* 收藏按钮样式 */
+        .fav-btn {
+            background: rgba(245, 158, 11, 0.1);
+            border: none;
+            color: #D97706;
+            padding: 6px 12px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: 600;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            white-space: nowrap;
+            min-height: 32px;
+        }
+        .fav-btn:hover {
+            background: rgba(245, 158, 11, 0.2);
+            transform: scale(1.05);
+        }
+        .fav-btn.favorited {
+            background: linear-gradient(135deg, #F59E0B, #D97706);
+            color: white;
+        }
+        .fav-btn.favorited:hover {
+            background: linear-gradient(135deg, #D97706, #B45309);
+        }
+        
+        /* 收藏备注弹窗 */
+        .fav-note-popup {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0.9);
+            width: 90%;
+            max-width: 400px;
+            background: var(--bg-card);
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.25);
+            z-index: 3000;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            border: 2px solid var(--primary-light);
+        }
+        .fav-note-popup.show {
+            opacity: 1;
+            visibility: visible;
+            transform: translate(-50%, -50%) scale(1);
+        }
+        .fav-note-popup-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.4);
+            backdrop-filter: blur(4px);
+            z-index: 2999;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s;
+        }
+        .fav-note-popup-overlay.show {
+            opacity: 1;
+            visibility: visible;
+        }
+        .fav-note-popup-header {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .fav-note-popup-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .fav-note-popup-close {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            border: none;
+            background: var(--gray-100);
+            color: var(--text-secondary);
+            cursor: pointer;
+            font-size: 18px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .fav-note-popup-close:hover {
+            background: #FEE2E2;
+            color: #DC2626;
+        }
+        [data-theme="dark"] .fav-note-popup-close {
+            background: rgba(255,255,255,0.1);
+        }
+        .fav-note-popup-body {
+            padding: 20px;
+        }
+        .fav-note-topic {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 12px;
+            padding: 10px 12px;
+            background: var(--gray-50);
+            border-radius: 8px;
+            border-left: 3px solid var(--primary);
+        }
+        [data-theme="dark"] .fav-note-topic {
+            background: rgba(99,102,241,0.1);
+        }
+        .fav-note-label {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+        }
+        .fav-note-suggestions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-bottom: 12px;
+        }
+        .fav-note-chip {
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid var(--border-color);
+            background: var(--bg-card);
+            color: var(--text-secondary);
+        }
+        .fav-note-chip:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+            background: rgba(99,102,241,0.05);
+        }
+        .fav-note-chip.selected {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+        .fav-note-input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 14px;
+            font-family: inherit;
+            background: var(--bg-card);
+            color: var(--text-primary);
+            resize: vertical;
+            min-height: 80px;
+            transition: all 0.2s;
+        }
+        .fav-note-input:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(99,102,241,0.1);
+        }
+        .fav-note-popup-footer {
+            padding: 12px 20px;
+            border-top: 1px solid var(--border-color);
+            display: flex;
+            gap: 8px;
+            justify-content: flex-end;
+        }
+        .fav-note-btn {
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: none;
+        }
+        .fav-note-btn.cancel {
+            background: var(--gray-100);
+            color: var(--gray-600);
+        }
+        .fav-note-btn.cancel:hover {
+            background: var(--gray-200);
+        }
+        [data-theme="dark"] .fav-note-btn.cancel {
+            background: rgba(255,255,255,0.1);
+            color: var(--text-secondary);
+        }
+        .fav-note-btn.confirm {
+            background: var(--primary);
+            color: white;
+        }
+        .fav-note-btn.confirm:hover {
+            background: var(--primary-dark);
+        }
+        .fav-note-btn.remove {
+            background: #FEE2E2;
+            color: #DC2626;
+            margin-right: auto;
+        }
+        .fav-note-btn.remove:hover {
+            background: #FECACA;
+        }
+        [data-theme="dark"] .fav-note-btn.remove {
+            background: rgba(239,68,68,0.2);
+            color: #F87171;
+        }
+        
+        /* 收藏卡片中的备注显示 */
+        .fav-note-display {
+            font-size: 12px;
+            color: var(--text-secondary);
+            background: var(--gray-50);
+            padding: 6px 10px;
+            border-radius: 6px;
+            margin-top: 8px;
+            border-left: 2px solid var(--primary);
+        }
+        [data-theme="dark"] .fav-note-display {
+            background: rgba(99,102,241,0.08);
+        }
+        .fav-note-display .note-tag {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 600;
+            margin-right: 6px;
+        }
+        
+        /* 收藏列表与主列表的切换 */
+        .main-view { display: block; }
+        .main-view.hidden { display: none; }
+        .favorites-view { display: none; }
+        .favorites-view.active { display: block; }
+        
+        /* ========== 数据对比面板样式 ========== */
+        .compare-panel {
+            background: var(--bg-card);
+            border-radius: 16px;
+            box-shadow: var(--shadow-lg);
+            padding: 24px;
+            margin-top: 24px;
+            border: 2px solid var(--primary-light);
+            animation: cardEnter 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+        .compare-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            padding-bottom: 16px;
+            border-bottom: 2px solid var(--border-color);
+        }
+        .compare-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .compare-close {
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            border: none;
+            background: var(--gray-100);
+            color: var(--text-secondary);
+            cursor: pointer;
+            font-size: 20px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        [data-theme="dark"] .compare-close {
+            background: rgba(255,255,255,0.1);
+        }
+        .compare-close:hover {
+            background: var(--error);
+            color: #fff;
+        }
+        .compare-type-tabs {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+        .compare-type-btn {
+            padding: 10px 20px;
+            border: 2px solid var(--border-color);
+            background: var(--bg-card);
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            transition: all 0.25s;
+        }
+        .compare-type-btn:hover {
+            border-color: var(--primary-light);
+            color: var(--primary);
+        }
+        .compare-type-btn.active {
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: #fff;
+            border-color: transparent;
+            box-shadow: 0 4px 15px rgba(99,102,241,0.35);
+        }
+        .compare-select-section {
+            margin-bottom: 20px;
+        }
+        .compare-select-label {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .compare-select-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 12px;
+            max-height: 300px;
+            overflow-y: auto;
+            padding: 4px;
+        }
+        .compare-select-item {
+            padding: 14px 16px;
+            background: var(--gray-50);
+            border: 2px solid var(--border-color);
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.25s;
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+        }
+        [data-theme="dark"] .compare-select-item {
+            background: rgba(99,102,241,0.05);
+        }
+        .compare-select-item:hover {
+            border-color: var(--primary-light);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(99,102,241,0.15);
+        }
+        .compare-select-item.selected {
+            border-color: var(--primary);
+            background: linear-gradient(135deg, rgba(99,102,241,0.1), rgba(99,102,241,0.05));
+            box-shadow: 0 4px 12px rgba(99,102,241,0.2);
+        }
+        .compare-select-checkbox {
+            width: 20px;
+            height: 20px;
+            border: 2px solid var(--border-color);
+            border-radius: 6px;
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            font-size: 12px;
+            color: #fff;
+        }
+        .compare-select-item.selected .compare-select-checkbox {
+            background: var(--primary);
+            border-color: var(--primary);
+        }
+        .compare-select-content {
+            flex: 1;
+            min-width: 0;
+        }
+        .compare-select-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 4px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .compare-select-meta {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .compare-selected-section {
+            background: linear-gradient(135deg, var(--gray-50), var(--gray-100));
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 20px;
+            border: 1px solid var(--border-color);
+        }
+        [data-theme="dark"] .compare-selected-section {
+            background: linear-gradient(135deg, rgba(99,102,241,0.08), rgba(99,102,241,0.12));
+        }
+        .compare-selected-label {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 12px;
+        }
+        .compare-selected-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+        .compare-selected-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            background: linear-gradient(135deg, var(--primary), var(--primary-light));
+            color: #fff;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 600;
+            animation: cardEnter 0.3s ease;
+        }
+        .compare-selected-tag .remove {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.2);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            transition: all 0.2s;
+        }
+        .compare-selected-tag .remove:hover {
+            background: rgba(255,255,255,0.4);
+        }
+        .compare-run-btn {
+            padding: 12px 32px;
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: #fff;
+            border: none;
+            border-radius: 10px;
+            font-size: 15px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(99,102,241,0.35);
+        }
+        .compare-run-btn:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(99,102,241,0.45);
+        }
+        .compare-run-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+        .compare-result-section {
+            animation: cardEnter 0.4s ease;
+        }
+        .compare-table-wrapper {
+            overflow-x: auto;
+            margin-bottom: 24px;
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+        }
+        .compare-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+        }
+        .compare-table th {
+            background: linear-gradient(135deg, var(--primary), var(--primary-light));
+            color: #fff;
+            padding: 14px 16px;
+            text-align: left;
+            font-weight: 700;
+            white-space: nowrap;
+        }
+        .compare-table th:first-child {
+            border-radius: 10px 0 0 0;
+        }
+        .compare-table th:last-child {
+            border-radius: 0 10px 0 0;
+        }
+        .compare-table td {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border-color);
+            color: var(--text-primary);
+        }
+        .compare-table tr:last-child td {
+            border-bottom: none;
+        }
+        .compare-table tr:nth-child(even) {
+            background: var(--gray-50);
+        }
+        [data-theme="dark"] .compare-table tr:nth-child(even) {
+            background: rgba(99,102,241,0.05);
+        }
+        .compare-table tr:hover {
+            background: rgba(99,102,241,0.08);
+        }
+        .compare-table .compare-col-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .compare-col-color {
+            width: 12px;
+            height: 12px;
+            border-radius: 3px;
+            flex-shrink: 0;
+        }
+        .compare-radar-section {
+            background: var(--gray-50);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 24px;
+            border: 1px solid var(--border-color);
+        }
+        [data-theme="dark"] .compare-radar-section {
+            background: rgba(99,102,241,0.05);
+        }
+        .compare-radar-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .compare-radar-chart {
+            height: 350px;
+            width: 100%;
+        }
+        .compare-keyword-section {
+            background: var(--gray-50);
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid var(--border-color);
+        }
+        [data-theme="dark"] .compare-keyword-section {
+            background: rgba(99,102,241,0.05);
+        }
+        .compare-keyword-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 16px;
+        }
+        .compare-keyword-content {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .compare-keyword-group {
+            background: var(--bg-card);
+            border-radius: 10px;
+            padding: 14px 18px;
+            border: 1px solid var(--border-color);
+            min-width: 180px;
+        }
+        .compare-keyword-group-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+        }
+        .compare-keyword-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .compare-keyword-tag {
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+        .compare-keyword-tag.unique {
+            background: linear-gradient(135deg, rgba(99,102,241,0.15), rgba(99,102,241,0.08));
+            color: var(--primary);
+        }
+        .compare-keyword-tag.shared {
+            background: linear-gradient(135deg, rgba(16,185,129,0.15), rgba(16,185,129,0.08));
+            color: #059669;
+        }
+        .compare-overlap-indicator {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 16px;
+            background: linear-gradient(135deg, var(--primary), var(--primary-light));
+            color: #fff;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 700;
+        }
+        .compare-overlap-indicator.high { background: linear-gradient(135deg, #EF4444, #F59E0B); }
+        .compare-overlap-indicator.medium { background: linear-gradient(135deg, #F59E0B, #10B981); }
+        .compare-overlap-indicator.low { background: linear-gradient(135deg, #10B981, #6366F1); }
+        
+        /* 移动端适配 */
+        @media (max-width: 768px) {
+            .compare-panel {
+                padding: 16px;
+            }
+            .compare-type-tabs {
+                flex-direction: column;
+            }
+            .compare-type-btn {
+                width: 100%;
+            }
+            .compare-select-grid {
+                grid-template-columns: 1fr;
+            }
+            .compare-table {
+                font-size: 12px;
+            }
+            .compare-table th, .compare-table td {
+                padding: 10px 12px;
+            }
+            .compare-radar-chart {
+                height: 280px;
+            }
+        }
 </style>
 </head>
 <body>
@@ -1681,6 +2511,8 @@
                 <a href="competitor_analysis.html" class="nav-tab">竞品分析</a>
                 <a href="dashboard.html" class="nav-tab">数据看板</a>
                 <a href="script_generator.html" class="nav-tab">脚本生成</a>
+                <a href="javascript:void(0)" class="nav-tab" onclick="switchToFavoritesTab()">⭐ 我的收藏</a>
+                <a href="javascript:void(0)" class="nav-tab" id="compareTabBtn" onclick="showComparePanel(event)">📊 对比</a>
             </div>
             <div style="display:flex;align-items:center;gap:8px">
                 <button class="theme-toggle" id="themeToggle" title="切换主题">🌙</button>
@@ -1779,6 +2611,48 @@
                     <div id="trendChart"></div>
                     <div class="chart-loading" id="trendLoading">
                         <div class="chart-loading-spinner"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 高级可视化图表区域 -->
+        <div class="advanced-viz-section" id="advancedVizSection">
+            <div class="advanced-viz-header">
+                <div class="advanced-viz-title">📈 高级数据分析</div>
+                <div class="viz-time-tabs" id="vizTimeTabs">
+                    <button class="viz-time-tab active" data-range="today" onclick="switchVizTimeRange('today')">今日</button>
+                    <button class="viz-time-tab" data-range="week" onclick="switchVizTimeRange('week')">本周</button>
+                    <button class="viz-time-tab" data-range="all" onclick="switchVizTimeRange('all')">全部</button>
+                </div>
+            </div>
+            <div class="advanced-viz-grid">
+                <!-- 平台分布环形图 -->
+                <div class="viz-chart-card">
+                    <div class="viz-chart-label">📡 平台热点分布</div>
+                    <div class="viz-chart-body">
+                        <div id="platformPieChart" class="echarts-chart"></div>
+                    </div>
+                </div>
+                <!-- 行业分布矩形树图 -->
+                <div class="viz-chart-card">
+                    <div class="viz-chart-label">🏢 行业分布分析</div>
+                    <div class="viz-chart-body">
+                        <div id="industryTreeChart" class="echarts-chart"></div>
+                    </div>
+                </div>
+                <!-- 热度趋势折线图 -->
+                <div class="viz-chart-card">
+                    <div class="viz-chart-label">🔥 热度趋势变化</div>
+                    <div class="viz-chart-body">
+                        <div id="heatTrendChart" class="echarts-chart"></div>
+                    </div>
+                </div>
+                <!-- 关键词共现网络图 -->
+                <div class="viz-chart-card keyword-network-card">
+                    <div class="viz-chart-label">🔗 关键词关联网络</div>
+                    <div class="viz-chart-body">
+                        <div id="keywordNetworkChart" class="echarts-chart"></div>
                     </div>
                 </div>
             </div>
@@ -2057,10 +2931,102 @@
         </div>
         
         <!-- 热点列表 -->
-        <div class="hot-list" id="hotList">
+        <div class="hot-list main-view" id="hotList">
             <div class="loading">
                 <div class="loading-spinner"></div>
                 <div>正在加载热点数据...</div>
+            </div>
+        </div>
+        
+        <!-- ========== 我的收藏视图 ========== -->
+        <div class="favorites-view" id="favoritesView">
+            <div class="favorites-section loaded">
+                <div class="favorites-header">
+                    <div style="display: flex; align-items: center; gap: 12px;">
+                        <button class="filter-btn" onclick="switchToMainView()" style="padding: 8px 12px;">
+                            <span>←</span>
+                            <span>返回列表</span>
+                        </button>
+                        <div class="favorites-title">
+                            <span>⭐</span>
+                            <span>我的收藏</span>
+                            <span class="favorites-count" id="favoritesCount">0 条</span>
+                        </div>
+                    </div>
+                    <div class="favorites-actions">
+                        <button class="fav-action-btn export-json" onclick="exportFavoritesJSON()">
+                            <span>📋</span>
+                            <span>导出 JSON</span>
+                        </button>
+                        <button class="fav-action-btn export-csv" onclick="exportFavoritesCSV()">
+                            <span>📊</span>
+                            <span>导出 CSV</span>
+                        </button>
+                        <button class="fav-action-btn clear-all" onclick="clearAllFavorites()">
+                            <span>🗑️</span>
+                            <span>清空收藏</span>
+                        </button>
+                    </div>
+                </div>
+                <div id="favoritesContent">
+                    <div class="favorites-empty">
+                        <div class="favorites-empty-icon">⭐</div>
+                        <div class="favorites-empty-text">暂无收藏内容</div>
+                        <div class="favorites-empty-hint">点击热点卡片上的收藏按钮添加收藏</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- ========== 数据对比面板 ========== -->
+        <div class="compare-panel" id="comparePanel" style="display:none;">
+            <div class="compare-header">
+                <div class="compare-title">📊 数据对比分析</div>
+                <button class="compare-close" onclick="hideComparePanel()">×</button>
+            </div>
+            
+            <!-- 对比类型选择 -->
+            <div class="compare-type-tabs">
+                <button class="compare-type-btn active" onclick="switchCompareType('topic', this)">🔥 热点对比</button>
+                <button class="compare-type-btn" onclick="switchCompareType('brand', this)">🏢 品牌/选题对比</button>
+            </div>
+            
+            <!-- 选择区域 -->
+            <div class="compare-select-section">
+                <div class="compare-select-label">选择对比项（2-3个）</div>
+                <div class="compare-select-grid" id="compareSelectGrid">
+                    <!-- 动态生成选项 -->
+                </div>
+            </div>
+            
+            <!-- 已选择项展示 -->
+            <div class="compare-selected-section" id="compareSelectedSection" style="display:none;">
+                <div class="compare-selected-label">已选择：<span id="compareSelectedCount">0</span>/3</div>
+                <div class="compare-selected-tags" id="compareSelectedTags"></div>
+                <button class="compare-run-btn" id="compareRunBtn" onclick="runCompare()" disabled>开始对比</button>
+            </div>
+            
+            <!-- 对比结果区域 -->
+            <div class="compare-result-section" id="compareResultSection" style="display:none;">
+                <!-- 对比表格 -->
+                <div class="compare-table-wrapper">
+                    <table class="compare-table" id="compareTable">
+                        <thead id="compareTableHead"></thead>
+                        <tbody id="compareTableBody"></tbody>
+                    </table>
+                </div>
+                
+                <!-- 雷达图 -->
+                <div class="compare-radar-section">
+                    <div class="compare-radar-title">雷达图对比</div>
+                    <div class="compare-radar-chart" id="compareRadarChart"></div>
+                </div>
+                
+                <!-- 关键词重合度 -->
+                <div class="compare-keyword-section" id="compareKeywordSection">
+                    <div class="compare-keyword-title">🔑 关键词重合分析</div>
+                    <div class="compare-keyword-content" id="compareKeywordContent"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -2127,6 +3093,13 @@
         let wordcloudChart = null;
         let trendChart = null;
         
+        // ========== 高级可视化图表实例 ==========
+        let platformPieChart = null;
+        let industryTreeChart = null;
+        let heatTrendChart = null;
+        let keywordNetworkChart = null;
+        let currentVizTimeRange = 'today';
+        
         function initCharts() {
             // 检查 ECharts 是否加载
             if (typeof echarts === 'undefined') {
@@ -2147,6 +3120,416 @@
             if (trendEl) {
                 trendChart = echarts.init(trendEl);
             }
+            
+            // 初始化高级可视化图表
+            initAdvancedCharts();
+        }
+        
+        // 初始化高级可视化图表
+        function initAdvancedCharts() {
+            if (typeof echarts === 'undefined') return;
+            
+            const platformEl = document.getElementById('platformPieChart');
+            const industryEl = document.getElementById('industryTreeChart');
+            const heatTrendEl = document.getElementById('heatTrendChart');
+            const keywordEl = document.getElementById('keywordNetworkChart');
+            
+            if (platformEl) platformPieChart = echarts.init(platformEl);
+            if (industryEl) industryTreeChart = echarts.init(industryEl);
+            if (heatTrendEl) heatTrendChart = echarts.init(heatTrendEl);
+            if (keywordEl) keywordNetworkChart = echarts.init(keywordEl);
+        }
+        
+        // 切换时间范围
+        function switchVizTimeRange(range) {
+            currentVizTimeRange = range;
+            document.querySelectorAll('.viz-time-tab').forEach(tab => {
+                tab.classList.toggle('active', tab.dataset.range === range);
+            });
+            updateAdvancedCharts(allTopics);
+        }
+        
+        // 根据时间范围过滤数据
+        function filterByTimeRange(topics, range) {
+            if (range === 'all') return topics;
+            
+            const now = new Date();
+            let cutoff;
+            
+            if (range === 'today') {
+                cutoff = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+            } else if (range === 'week') {
+                cutoff = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+            }
+            
+            return topics.filter(t => {
+                if (!t.created_at) return range === 'today';
+                const created = new Date(t.created_at);
+                return created >= cutoff;
+            });
+        }
+        
+        // 更新高级可视化图表
+        function updateAdvancedCharts(topics) {
+            if (!topics || !topics.length) return;
+            
+            const filteredTopics = filterByTimeRange(topics, currentVizTimeRange);
+            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            const textColor = isDark ? '#9CA3AF' : '#6B7280';
+            const borderColor = isDark ? '#374151' : '#E5E7EB';
+            
+            // 1. 平台分布环形图
+            updatePlatformPieChart(filteredTopics, isDark, textColor);
+            
+            // 2. 行业分布矩形树图
+            updateIndustryTreeChart(filteredTopics, isDark, textColor);
+            
+            // 3. 热度趋势折线图
+            updateHeatTrendChart(filteredTopics, isDark, textColor, borderColor);
+            
+            // 4. 关键词共现网络图
+            updateKeywordNetworkChart(filteredTopics, isDark, textColor);
+            
+            // 显示高级可视化区域
+            const section = document.getElementById('advancedVizSection');
+            if (section) section.classList.add('loaded');
+        }
+        
+        // 平台分布环形图
+        function updatePlatformPieChart(topics, isDark, textColor) {
+            if (!platformPieChart) return;
+            
+            // 统计各平台热点数量
+            const platformCount = {};
+            topics.forEach(t => {
+                // 处理平台名称（如 "微博/全网" -> "微博"）
+                let platform = t.platform || '其他';
+                if (platform.includes('/')) {
+                    platform = platform.split('/')[0];
+                }
+                platformCount[platform] = (platformCount[platform] || 0) + 1;
+            });
+            
+            const data = Object.entries(platformCount)
+                .map(([name, value]) => ({ name, value }))
+                .sort((a, b) => b.value - a.value);
+            
+            // 平台颜色映射
+            const platformColors = {
+                '抖音': '#1C1C1D',
+                '微博': '#FF6600',
+                '小红书': '#FF2442',
+                'B站': '#00A1D6',
+                '知乎': '#0084FF',
+                '其他': '#6366F1'
+            };
+            
+            platformPieChart.setOption({
+                tooltip: {
+                    trigger: 'item',
+                    formatter: '{b}<br/>热点数: {c} ({d}%)'
+                },
+                legend: {
+                    orient: 'vertical',
+                    right: '5%',
+                    top: 'center',
+                    textStyle: { fontSize: 12, color: textColor }
+                },
+                series: [{
+                    type: 'pie',
+                    radius: ['40%', '70%'],
+                    center: ['35%', '50%'],
+                    avoidLabelOverlap: false,
+                    itemStyle: {
+                        borderRadius: 8,
+                        borderColor: isDark ? '#1e2746' : '#fff',
+                        borderWidth: 2
+                    },
+                    label: { show: false },
+                    emphasis: {
+                        label: { show: true, fontSize: 14, fontWeight: 'bold' },
+                        itemStyle: { shadowBlur: 10, shadowOffsetX: 0, shadowColor: 'rgba(0,0,0,0.3)' }
+                    },
+                    data: data.map(item => ({
+                        ...item,
+                        itemStyle: { color: platformColors[item.name] || '#6366F1' }
+                    }))
+                }]
+            }, true);
+        }
+        
+        // 行业分布矩形树图
+        function updateIndustryTreeChart(topics, isDark, textColor) {
+            if (!industryTreeChart) return;
+            
+            // 统计行业分布
+            const industryCount = {};
+            topics.forEach(t => {
+                const industries = t.industries || [];
+                industries.forEach(ind => {
+                    industryCount[ind] = (industryCount[ind] || 0) + 1;
+                });
+            });
+            
+            // 转换为树图数据
+            const data = Object.entries(industryCount)
+                .map(([name, value]) => ({ name, value }))
+                .sort((a, b) => b.value - a.value)
+                .slice(0, 12); // 取前12个行业
+            
+            industryTreeChart.setOption({
+                tooltip: {
+                    formatter: '{b}: {c} 个热点'
+                },
+                series: [{
+                    type: 'treemap',
+                    width: '100%',
+                    height: '100%',
+                    roam: false,
+                    nodeClick: false,
+                    breadcrumb: { show: false },
+                    label: {
+                        show: true,
+                        formatter: '{b}\n{c}',
+                        fontSize: 12,
+                        color: '#fff'
+                    },
+                    itemStyle: {
+                        borderRadius: 6,
+                        gapWidth: 2,
+                        borderColor: 'transparent'
+                    },
+                    levels: [{
+                        itemStyle: {
+                            color: ['#6366F1', '#8B5CF6', '#A855F7', '#D946EF', '#EC4899', '#F43F5E',
+                                    '#EF4444', '#F97316', '#F59E0B', '#EAB308', '#84CC16', '#22C55E']
+                        }
+                    }],
+                    data: data
+                }]
+            }, true);
+        }
+        
+        // 热度趋势折线图
+        function updateHeatTrendChart(topics, isDark, textColor, borderColor) {
+            if (!heatTrendChart) return;
+            
+            // 按时间分组统计热度
+            const timeGroups = {};
+            const now = new Date();
+            
+            topics.forEach(t => {
+                let timeKey;
+                if (t.created_at) {
+                    const created = new Date(t.created_at);
+                    timeKey = `${created.getHours()}:00`;
+                } else {
+                    timeKey = '未知';
+                }
+                
+                if (!timeGroups[timeKey]) {
+                    timeGroups[timeKey] = { count: 0, totalHeat: 0 };
+                }
+                timeGroups[timeKey].count++;
+                timeGroups[timeKey].totalHeat += (t.hot_value || 0);
+            });
+            
+            // 生成时间序列（最近24小时）
+            const hours = [];
+            const counts = [];
+            const heats = [];
+            
+            for (let i = 23; i >= 0; i--) {
+                const hour = (now.getHours() - i + 24) % 24;
+                const key = `${hour}:00`;
+                hours.push(key);
+                counts.push(timeGroups[key]?.count || 0);
+                heats.push(Math.round((timeGroups[key]?.totalHeat || 0) / 100000000)); // 转换为亿
+            }
+            
+            heatTrendChart.setOption({
+                tooltip: {
+                    trigger: 'axis',
+                    axisPointer: { type: 'cross' }
+                },
+                legend: {
+                    data: ['热点数量', '热度总值(亿)'],
+                    textStyle: { color: textColor },
+                    top: 0
+                },
+                grid: {
+                    left: '3%',
+                    right: '4%',
+                    bottom: '3%',
+                    top: '15%',
+                    containLabel: true
+                },
+                xAxis: {
+                    type: 'category',
+                    data: hours,
+                    axisLabel: { 
+                        color: textColor, 
+                        fontSize: 10,
+                        rotate: 45
+                    },
+                    axisLine: { lineStyle: { color: borderColor } }
+                },
+                yAxis: [
+                    {
+                        type: 'value',
+                        name: '数量',
+                        axisLabel: { color: textColor },
+                        splitLine: { lineStyle: { color: borderColor, type: 'dashed' } }
+                    },
+                    {
+                        type: 'value',
+                        name: '热度(亿)',
+                        axisLabel: { color: textColor },
+                        splitLine: { show: false }
+                    }
+                ],
+                series: [
+                    {
+                        name: '热点数量',
+                        type: 'line',
+                        data: counts,
+                        smooth: true,
+                        symbol: 'circle',
+                        symbolSize: 6,
+                        lineStyle: { width: 2, color: '#6366F1' },
+                        itemStyle: { color: '#6366F1' },
+                        areaStyle: {
+                            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                                { offset: 0, color: 'rgba(99,102,241,0.3)' },
+                                { offset: 1, color: 'rgba(99,102,241,0.05)' }
+                            ])
+                        }
+                    },
+                    {
+                        name: '热度总值(亿)',
+                        type: 'line',
+                        yAxisIndex: 1,
+                        data: heats,
+                        smooth: true,
+                        symbol: 'diamond',
+                        symbolSize: 6,
+                        lineStyle: { width: 2, color: '#F59E0B' },
+                        itemStyle: { color: '#F59E0B' }
+                    }
+                ]
+            }, true);
+        }
+        
+        // 关键词共现网络图
+        function updateKeywordNetworkChart(topics, isDark, textColor) {
+            if (!keywordNetworkChart) return;
+            
+            // 统计关键词共现关系
+            const keywordPairs = {};
+            const keywordCount = {};
+            
+            topics.forEach(t => {
+                const keywords = (t.keywords || []).filter(k => k && k.length >= 2);
+                
+                // 统计单个关键词频率
+                keywords.forEach(kw => {
+                    keywordCount[kw] = (keywordCount[kw] || 0) + 1;
+                });
+                
+                // 统计关键词对共现次数
+                for (let i = 0; i < keywords.length; i++) {
+                    for (let j = i + 1; j < keywords.length; j++) {
+                        const pair = [keywords[i], keywords[j]].sort().join('|||');
+                        keywordPairs[pair] = (keywordPairs[pair] || 0) + 1;
+                    }
+                }
+            });
+            
+            // 构建节点数据（取前30个高频关键词）
+            const topKeywords = Object.entries(keywordCount)
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 30);
+            
+            const nodes = topKeywords.map(([name, value], idx) => ({
+                id: name,
+                name,
+                value,
+                symbolSize: Math.min(50, Math.max(15, Math.sqrt(value) * 5)),
+                category: idx % 5,
+                label: { show: value > 5 }
+            }));
+            
+            // 构建边数据（取前50条强关联）
+            const edges = Object.entries(keywordPairs)
+                .filter(([, count]) => count >= 2)
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 50)
+                .map(([pair, count]) => {
+                    const [source, target] = pair.split('|||');
+                    return {
+                        source,
+                        target,
+                        value: count,
+                        lineStyle: { width: Math.min(5, Math.max(1, count)) }
+                    };
+                });
+            
+            // 过滤掉没有连接的节点
+            const connectedNodes = new Set();
+            edges.forEach(e => {
+                connectedNodes.add(e.source);
+                connectedNodes.add(e.target);
+            });
+            const filteredNodes = nodes.filter(n => connectedNodes.has(n.id));
+            
+            keywordNetworkChart.setOption({
+                tooltip: {
+                    formatter: params => {
+                        if (params.dataType === 'node') {
+                            return `${params.data.name}: ${params.data.value} 次`;
+                        }
+                        return `${params.data.source} - ${params.data.target}: ${params.data.value} 次共现`;
+                    }
+                },
+                series: [{
+                    type: 'graph',
+                    layout: 'force',
+                    animation: true,
+                    draggable: true,
+                    data: filteredNodes,
+                    edges: edges,
+                    categories: [
+                        { name: '0' }, { name: '1' }, { name: '2' }, { name: '3' }, { name: '4' }
+                    ],
+                    roam: true,
+                    label: {
+                        show: true,
+                        position: 'right',
+                        formatter: '{b}',
+                        fontSize: 11,
+                        color: textColor
+                    },
+                    labelLayout: {
+                        hideOverlap: true
+                    },
+                    force: {
+                        repulsion: 100,
+                        edgeLength: [50, 150],
+                        gravity: 0.1
+                    },
+                    lineStyle: {
+                        color: isDark ? 'rgba(147,197,253,0.4)' : 'rgba(99,102,241,0.3)',
+                        curveness: 0.3
+                    },
+                    itemStyle: {
+                        color: ['#6366F1', '#8B5CF6', '#EC4899', '#F59E0B', '#10B981']
+                    },
+                    emphasis: {
+                        focus: 'adjacency',
+                        lineStyle: { width: 4 }
+                    }
+                }]
+            }, true);
         }
         
         function updateWordcloud(topics) {
@@ -2294,6 +3677,44 @@
             const section = document.getElementById('visualizationSection');
             if (section) section.classList.add('loaded');
         }
+        
+        // 显示高级可视化区域并更新图表
+        function showAdvancedVisualization() {
+            updateAdvancedCharts(allTopics);
+        }
+        
+        // 响应式图表 resize
+        function resizeAllCharts() {
+            if (wordcloudChart) wordcloudChart.resize();
+            if (trendChart) trendChart.resize();
+            if (platformPieChart) platformPieChart.resize();
+            if (industryTreeChart) industryTreeChart.resize();
+            if (heatTrendChart) heatTrendChart.resize();
+            if (keywordNetworkChart) keywordNetworkChart.resize();
+        }
+        
+        // 监听窗口 resize
+        let resizeTimer = null;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(resizeAllCharts, 200);
+        });
+        
+        // 监听主题切换，重新渲染图表
+        const originalApplyTheme = applyTheme;
+        applyTheme = function(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            const btn = document.getElementById('themeToggle');
+            if (btn) btn.textContent = theme === 'dark' ? '☀️' : '🌙';
+            localStorage.setItem('theme', theme);
+            
+            // 延迟重新渲染图表以适应新主题
+            setTimeout(() => {
+                updateWordcloud(allTopics);
+                updateTrendChart(allTopics);
+                updateAdvancedCharts(allTopics);
+            }, 100);
+        };
         let quickFilterActive = null;
         
         // 平台颜色映射
@@ -2627,6 +4048,10 @@
             renderTopicsCount(allTopics.length);
             showCacheIndicator(topicsFresh && ideasFresh);
             
+            // 初始化并更新高级可视化图表
+            initAdvancedCharts();
+            showAdvancedVisualization();
+            
             const timeSpan = document.querySelector('#updateTime .time-text');
             if (timeSpan) timeSpan.textContent = '📅 更新时间：' + lastUpdateTime.toLocaleString('zh-CN');
         }
@@ -2651,6 +4076,8 @@
             if (statsOverview) statsOverview.style.display = 'block';
             if (statsGrid) statsGrid.style.display = 'none'; // 隐藏旧版卡片
             if (quickNav) quickNav.style.display = 'block';
+            // 更新收藏按钮状态
+            updateFavoriteButtons();
         }
         
         // 更新统计数据
@@ -2834,6 +4261,9 @@
                                 <span style="color: var(--gray-600); font-size: 12px;">${trend}</span>
                             </div>
                         </div>
+                        <button class="fav-btn" id="fav-btn-${index}" data-topic-id="${topic.title}" onclick="event.stopPropagation(); toggleFavorite('${topic.title}', '${topic.title.replace(/'/g, "\\'")}', '${topic.platform}', '${topic.heat || ""}')">
+                            <span>☆</span><span>收藏</span>
+                        </button>
                         <span class="expand-icon">▼</span>
                     </div>
                     <div class="hot-detail">
@@ -2921,6 +4351,9 @@
             
             // 懒加载：渐进式显示
             lazyLoadItems();
+            
+            // 更新收藏按钮状态
+            updateFavoriteButtons();
         }
         
         // 懒加载实现（IntersectionObserver）
@@ -3150,8 +4583,867 @@
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape') {
                 closeScriptPopup();
+                closeFavNotePopup();
             }
         });
+        
+        // ========== 收藏功能 ==========
+        const FAV_STORAGE_KEY = 'hotspot_favorites';
+        let favoritesData = {};
+        let currentView = 'main'; // 'main' or 'favorites'
+        let currentFavTopicId = null;
+        
+        // 加载收藏数据
+        function loadFavorites() {
+            try {
+                const data = localStorage.getItem(FAV_STORAGE_KEY);
+                favoritesData = data ? JSON.parse(data) : {};
+            } catch {
+                favoritesData = {};
+            }
+        }
+        
+        // 保存收藏数据
+        function saveFavorites() {
+            try {
+                localStorage.setItem(FAV_STORAGE_KEY, JSON.stringify(favoritesData));
+            } catch (e) {
+                console.error('保存收藏失败:', e);
+            }
+        }
+        
+        // 切换收藏状态
+        function toggleFavorite(topicId, topicTitle, platform, heat) {
+            loadFavorites();
+            
+            if (favoritesData[topicId]) {
+                // 已收藏，打开备注弹窗编辑
+                showFavNotePopup(topicId, topicTitle, platform, heat);
+            } else {
+                // 未收藏，直接添加并打开备注弹窗
+                favoritesData[topicId] = {
+                    id: topicId,
+                    title: topicTitle,
+                    platform: platform,
+                    heat: heat,
+                    note: '',
+                    addedAt: new Date().toISOString()
+                };
+                saveFavorites();
+                showRefreshToast('已添加到收藏！', 'success');
+                showFavNotePopup(topicId, topicTitle, platform, heat);
+            }
+            
+            updateFavoriteButtons();
+        }
+        
+        // 检查是否已收藏
+        function isFavorited(topicId) {
+            loadFavorites();
+            return !!favoritesData[topicId];
+        }
+        
+        // 更新所有收藏按钮状态
+        function updateFavoriteButtons() {
+            document.querySelectorAll('.fav-btn').forEach(btn => {
+                const topicId = btn.dataset.topicId;
+                if (topicId) {
+                    btn.classList.toggle('favorited', isFavorited(topicId));
+                    btn.innerHTML = isFavorited(topicId) 
+                        ? '<span>⭐</span><span>已收藏</span>' 
+                        : '<span>☆</span><span>收藏</span>';
+                }
+            });
+        }
+        
+        // 显示备注弹窗
+        function showFavNotePopup(topicId, topicTitle, platform, heat) {
+            currentFavTopicId = topicId;
+            loadFavorites();
+            
+            let popup = document.getElementById('favNotePopup');
+            let overlay = document.getElementById('favNotePopupOverlay');
+            
+            if (!popup) {
+                popup = document.createElement('div');
+                popup.id = 'favNotePopup';
+                popup.className = 'fav-note-popup';
+                popup.innerHTML = `
+                    <div class="fav-note-popup-header">
+                        <div class="fav-note-popup-title">
+                            <span>⭐</span>
+                            <span>收藏备注</span>
+                        </div>
+                        <button class="fav-note-popup-close" onclick="closeFavNotePopup()">×</button>
+                    </div>
+                    <div class="fav-note-popup-body">
+                        <div class="fav-note-topic" id="favNoteTopicTitle"></div>
+                        <div class="fav-note-label">快捷标签</div>
+                        <div class="fav-note-suggestions" id="favNoteSuggestions"></div>
+                        <div class="fav-note-label">自定义备注</div>
+                        <textarea class="fav-note-input" id="favNoteInput" placeholder="添加备注信息，如：优先级、待办事项、想法..."></textarea>
+                    </div>
+                    <div class="fav-note-popup-footer">
+                        <button class="fav-note-btn remove" id="favNoteRemoveBtn" onclick="removeFavorite()">
+                            <span>🗑️</span> 移除收藏
+                        </button>
+                        <button class="fav-note-btn cancel" onclick="closeFavNotePopup()">取消</button>
+                        <button class="fav-note-btn confirm" onclick="saveFavNote()">保存</button>
+                    </div>
+                `;
+                document.body.appendChild(popup);
+                
+                overlay = document.createElement('div');
+                overlay.id = 'favNotePopupOverlay';
+                overlay.className = 'fav-note-popup-overlay';
+                overlay.onclick = closeFavNotePopup;
+                document.body.appendChild(overlay);
+            }
+            
+            // 填充数据
+            document.getElementById('favNoteTopicTitle').textContent = topicTitle;
+            
+            // 快捷标签
+            const suggestions = ['优先生产', '待审核', '高潜力', '已讨论', '待跟进', '已通过'];
+            const suggestionsHtml = suggestions.map(s => 
+                `<div class="fav-note-chip" onclick="toggleNoteChip(this)">${s}</div>`
+            ).join('');
+            document.getElementById('favNoteSuggestions').innerHTML = suggestionsHtml;
+            
+            // 加载已有备注
+            const fav = favoritesData[topicId] || {};
+            const note = fav.note || '';
+            document.getElementById('favNoteInput').value = note;
+            
+            // 恢复已选标签
+            setTimeout(() => {
+                document.querySelectorAll('.fav-note-chip').forEach(chip => {
+                    if (note.includes(chip.textContent)) {
+                        chip.classList.add('selected');
+                    }
+                });
+            }, 10);
+            
+            // 显示移除按钮（仅已收藏时）
+            const removeBtn = document.getElementById('favNoteRemoveBtn');
+            if (removeBtn) {
+                removeBtn.style.display = isFavorited(topicId) ? 'flex' : 'none';
+            }
+            
+            setTimeout(() => {
+                popup.classList.add('show');
+                overlay.classList.add('show');
+            }, 10);
+        }
+        
+        // 切换标签选中
+        function toggleNoteChip(chip) {
+            chip.classList.toggle('selected');
+        }
+        
+        // 关闭备注弹窗
+        function closeFavNotePopup() {
+            const popup = document.getElementById('favNotePopup');
+            const overlay = document.getElementById('favNotePopupOverlay');
+            if (popup) popup.classList.remove('show');
+            if (overlay) overlay.classList.remove('show');
+            currentFavTopicId = null;
+        }
+        
+        // 保存备注
+        function saveFavNote() {
+            if (!currentFavTopicId) return;
+            
+            loadFavorites();
+            
+            // 收集选中的标签
+            const selectedChips = Array.from(document.querySelectorAll('.fav-note-chip.selected'))
+                .map(chip => chip.textContent);
+            
+            // 获取自定义备注
+            const customNote = document.getElementById('favNoteInput').value.trim();
+            
+            // 组合备注
+            const note = selectedChips.length > 0 
+                ? `[${selectedChips.join('] [')}]${customNote ? ' ' + customNote : ''}`
+                : customNote;
+            
+            if (favoritesData[currentFavTopicId]) {
+                favoritesData[currentFavTopicId].note = note;
+                favoritesData[currentFavTopicId].updatedAt = new Date().toISOString();
+                saveFavorites();
+                showRefreshToast('备注已保存！', 'success');
+            }
+            
+            closeFavNotePopup();
+            renderFavoritesList();
+        }
+        
+        // 移除收藏
+        function removeFavorite() {
+            if (!currentFavTopicId) return;
+            
+            loadFavorites();
+            delete favoritesData[currentFavTopicId];
+            saveFavorites();
+            
+            showRefreshToast('已移除收藏', 'success');
+            closeFavNotePopup();
+            updateFavoriteButtons();
+            renderFavoritesList();
+        }
+        
+        // 清空所有收藏
+        function clearAllFavorites() {
+            if (!confirm('确定要清空所有收藏吗？此操作不可恢复。')) return;
+            
+            favoritesData = {};
+            saveFavorites();
+            renderFavoritesList();
+            updateFavoriteButtons();
+            showRefreshToast('收藏已清空', 'success');
+        }
+        
+        // 切换到收藏标签页
+        function switchToFavoritesTab() {
+            currentView = 'favorites';
+            
+            // 更新导航标签激活状态
+            document.querySelectorAll('.nav-tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            event.currentTarget.classList.add('active');
+            
+            // 切换视图
+            const hotList = document.getElementById('hotList');
+            const favView = document.getElementById('favoritesView');
+            if (hotList) hotList.classList.add('hidden');
+            if (favView) favView.classList.add('active');
+            
+            // 渲染收藏列表
+            renderFavoritesList();
+        }
+        
+        // 切换回主列表
+        function switchToMainView() {
+            currentView = 'main';
+            
+            const hotList = document.getElementById('hotList');
+            const favView = document.getElementById('favoritesView');
+            if (hotList) hotList.classList.remove('hidden');
+            if (favView) favView.classList.remove('active');
+        }
+        
+        // 渲染收藏列表
+        function renderFavoritesList() {
+            loadFavorites();
+            
+            const container = document.getElementById('favoritesContent');
+            const countEl = document.getElementById('favoritesCount');
+            
+            const favorites = Object.values(favoritesData);
+            
+            if (countEl) {
+                countEl.textContent = `${favorites.length} 条`;
+            }
+            
+            if (favorites.length === 0) {
+                container.innerHTML = `
+                    <div class="favorites-empty">
+                        <div class="favorites-empty-icon">⭐</div>
+                        <div class="favorites-empty-text">暂无收藏内容</div>
+                        <div class="favorites-empty-hint">点击热点卡片上的收藏按钮添加收藏</div>
+                    </div>
+                `;
+                return;
+            }
+            
+            // 按添加时间倒序
+            favorites.sort((a, b) => new Date(b.addedAt) - new Date(a.addedAt));
+            
+            let html = '<div class="hot-list">';
+            favorites.forEach((fav, index) => {
+                const rankClass = index < 3 ? `top${index + 1}` : '';
+                const platformClass = PLATFORM_CLASS[fav.platform] || '';
+                const noteHtml = fav.note ? `<div class="fav-note-display"><span class="note-tag">备注</span>${fav.note}</div>` : '';
+                
+                html += `
+                <div class="hot-item" data-index="${index}">
+                    <div class="hot-header" onclick="toggleHotspot(this.closest('.hot-item'))">
+                        <div class="rank ${rankClass}">${index + 1}</div>
+                        <div class="hot-info">
+                            <div class="hot-title">${fav.title}</div>
+                            <div class="hot-meta">
+                                <span class="platform-badge ${platformClass}">${fav.platform}</span>
+                                <span class="heat-badge">🔥 ${fav.heat}</span>
+                            </div>
+                        </div>
+                        <span class="expand-icon">▼</span>
+                    </div>
+                    <div class="hot-detail">
+                        <div class="detail-grid">
+                            <div class="detail-card">
+                                <div class="detail-label">收藏时间</div>
+                                <div class="detail-value">${new Date(fav.addedAt).toLocaleString('zh-CN')}</div>
+                            </div>
+                            <div class="detail-card">
+                                <div class="detail-label">平台</div>
+                                <div class="detail-value">${fav.platform}</div>
+                            </div>
+                        </div>
+                        ${noteHtml}
+                        <div class="script-btn-section">
+                            <button class="script-btn" onclick="showScriptPopup('${fav.title.replace(/'/g, "\\'")}', '${fav.platform}')">
+                                <span>📝</span>
+                                <span>生成内容脚本</span>
+                            </button>
+                            <button class="script-btn secondary" onclick="showFavNotePopup('${fav.id}', '${fav.title.replace(/'/g, "\\'")}', '${fav.platform}', '${fav.heat}')">
+                                <span>✏️</span>
+                                <span>编辑备注</span>
+                            </button>
+                            <button class="script-btn secondary" style="border-color: var(--error); color: var(--error);" onclick="currentFavTopicId='${fav.id}'; removeFavorite();">
+                                <span>🗑️</span>
+                                <span>移除收藏</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                `;
+            });
+            html += '</div>';
+            
+            container.innerHTML = html;
+        }
+        
+        // 导出收藏为 JSON
+        function exportFavoritesJSON() {
+            loadFavorites();
+            const favorites = Object.values(favoritesData);
+            
+            if (favorites.length === 0) {
+                showRefreshToast('暂无收藏内容', 'error');
+                return;
+            }
+            
+            const report = {
+                exported_at: new Date().toISOString(),
+                total_count: favorites.length,
+                favorites: favorites
+            };
+            
+            const ts = new Date().toISOString().slice(0, 19).replace(/[:-]/g, '').replace('T', '_');
+            const filename = `favorites_${ts}.json`;
+            downloadFile(JSON.stringify(report, null, 2), filename, 'application/json');
+            showRefreshToast(`JSON 导出成功！共 ${favorites.length} 条收藏`, 'success');
+        }
+        
+        // 导出收藏为 CSV
+        function exportFavoritesCSV() {
+            loadFavorites();
+            const favorites = Object.values(favoritesData);
+            
+            if (favorites.length === 0) {
+                showRefreshToast('暂无收藏内容', 'error');
+                return;
+            }
+            
+            const headers = ['序号', '标题', '平台', '热度', '备注', '收藏时间'];
+            const rows = favorites.map((fav, i) => [
+                i + 1,
+                fav.title || '',
+                fav.platform || '',
+                fav.heat || '',
+                fav.note || '',
+                new Date(fav.addedAt).toLocaleString('zh-CN')
+            ]);
+            
+            const BOM = '\uFEFF';
+            const csv = BOM + [headers, ...rows].map(r => r.map(v => `"${String(v).replace(/"/g, '""')}"`).join(',')).join('\n');
+            
+            const ts = new Date().toISOString().slice(0, 19).replace(/[:-]/g, '').replace('T', '_');
+            const filename = `favorites_${ts}.csv`;
+            downloadFile(csv, filename, 'text/csv;charset=utf-8');
+            showRefreshToast(`CSV 导出成功！共 ${favorites.length} 条收藏`, 'success');
+        }
+        
+        // 页面加载时初始化收藏
+        document.addEventListener('DOMContentLoaded', () => {
+            loadFavorites();
+            updateFavoriteButtons();
+        });
+        
+        // ========== 数据对比功能 ==========
+        let compareType = 'topic'; // 'topic' 或 'brand'
+        let compareSelectedItems = [];
+        let compareRadarChart = null;
+        const COMPARE_COLORS = ['#6366F1', '#10B981', '#F59E0B'];
+        
+        // 显示对比面板
+        function showComparePanel(event) {
+            if (event) event.preventDefault();
+            const panel = document.getElementById('comparePanel');
+            if (panel) {
+                panel.style.display = 'block';
+                panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                // 初始化选项
+                renderCompareSelectGrid();
+            }
+            // 高亮对比标签
+            const tab = document.getElementById('compareTabBtn');
+            if (tab) tab.classList.add('active');
+        }
+        
+        // 隐藏对比面板
+        function hideComparePanel() {
+            const panel = document.getElementById('comparePanel');
+            if (panel) panel.style.display = 'none';
+            // 取消高亮
+            const tab = document.getElementById('compareTabBtn');
+            if (tab) tab.classList.remove('active');
+            // 清理雷达图
+            if (compareRadarChart) {
+                compareRadarChart.dispose();
+                compareRadarChart = null;
+            }
+        }
+        
+        // 切换对比类型
+        function switchCompareType(type, element) {
+            compareType = type;
+            compareSelectedItems = [];
+            // 更新按钮状态
+            document.querySelectorAll('.compare-type-btn').forEach(btn => btn.classList.remove('active'));
+            if (element) element.classList.add('active');
+            // 重新渲染选项
+            renderCompareSelectGrid();
+            updateCompareSelectedSection();
+            // 隐藏结果
+            document.getElementById('compareResultSection').style.display = 'none';
+        }
+        
+        // 渲染选择网格
+        function renderCompareSelectGrid() {
+            const grid = document.getElementById('compareSelectGrid');
+            if (!grid) return;
+            
+            let items = [];
+            if (compareType === 'topic') {
+                // 热点数据
+                items = allTopics.slice(0, 50).map(t => ({
+                    id: t.id || t.title,
+                    title: t.title,
+                    platform: t.platform,
+                    heat: t.heat || (t.hot_value ? formatHeat(t.hot_value) : '-'),
+                    type: t.type,
+                    keywords: t.keywords || [],
+                    clients: t.c || [],
+                    data: t
+                }));
+            } else {
+                // 品牌/选题数据
+                const brandMap = {};
+                allIdeas.forEach(idea => {
+                    const brand = idea.client?.brand || idea.client || '未知品牌';
+                    if (!brandMap[brand]) {
+                        brandMap[brand] = {
+                            id: brand,
+                            title: brand,
+                            platform: [],
+                            heat: 0,
+                            type: idea.client?.industry || '-',
+                            keywords: [],
+                            clients: [brand],
+                            ideas: [],
+                            data: null
+                        };
+                    }
+                    brandMap[brand].ideas.push(idea);
+                    if (idea.platform && !brandMap[brand].platform.includes(idea.platform)) {
+                        brandMap[brand].platform.push(idea.platform);
+                    }
+                    if (idea.keywords) {
+                        idea.keywords.forEach(kw => {
+                            if (!brandMap[brand].keywords.includes(kw)) {
+                                brandMap[brand].keywords.push(kw);
+                            }
+                        });
+                    }
+                });
+                items = Object.values(brandMap).slice(0, 30);
+            }
+            
+            grid.innerHTML = items.map(item => `
+                <div class="compare-select-item ${compareSelectedItems.find(s => s.id === item.id) ? 'selected' : ''}" 
+                     onclick="toggleCompareSelect('${item.id.replace(/'/g, "\\'")}')" 
+                     data-id="${item.id}">
+                    <div class="compare-select-checkbox">
+                        ${compareSelectedItems.find(s => s.id === item.id) ? '✓' : ''}
+                    </div>
+                    <div class="compare-select-content">
+                        <div class="compare-select-title">${item.title}</div>
+                        <div class="compare-select-meta">
+                            ${item.platform ? `<span class="platform-badge ${PLATFORM_CLASS[item.platform?.split('/')[0]] || ''}" style="padding:1px 6px;font-size:10px;">${Array.isArray(item.platform) ? item.platform.slice(0,2).join('/') : item.platform}</span>` : ''}
+                            ${item.heat ? `<span class="heat-badge" style="font-size:11px;">🔥 ${item.heat}</span>` : ''}
+                            ${item.type ? `<span style="font-size:11px;color:var(--text-secondary);">${item.type}</span>` : ''}
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            
+            // 存储数据供后续使用
+            window._compareItemsData = items;
+        }
+        
+        // 格式化热度值
+        function formatHeat(value) {
+            if (!value) return '-';
+            if (value >= 100000000) return (value / 100000000).toFixed(1) + '亿';
+            if (value >= 10000) return (value / 10000).toFixed(1) + '万';
+            return value.toString();
+        }
+        
+        // 切换选择
+        function toggleCompareSelect(id) {
+            const item = window._compareItemsData?.find(i => i.id === id);
+            if (!item) return;
+            
+            const index = compareSelectedItems.findIndex(s => s.id === id);
+            if (index >= 0) {
+                compareSelectedItems.splice(index, 1);
+            } else if (compareSelectedItems.length < 3) {
+                compareSelectedItems.push(item);
+            } else {
+                showRefreshToast('最多选择3个进行对比', 'error');
+                return;
+            }
+            
+            // 更新UI
+            document.querySelectorAll('.compare-select-item').forEach(el => {
+                const itemId = el.dataset.id;
+                const isSelected = compareSelectedItems.find(s => s.id === itemId);
+                el.classList.toggle('selected', !!isSelected);
+                el.querySelector('.compare-select-checkbox').textContent = isSelected ? '✓' : '';
+            });
+            
+            updateCompareSelectedSection();
+        }
+        
+        // 移除已选项
+        function removeCompareSelected(id) {
+            compareSelectedItems = compareSelectedItems.filter(s => s.id !== id);
+            toggleCompareSelect(id); // 取消选择状态
+        }
+        
+        // 更新已选择区域
+        function updateCompareSelectedSection() {
+            const section = document.getElementById('compareSelectedSection');
+            const tags = document.getElementById('compareSelectedTags');
+            const count = document.getElementById('compareSelectedCount');
+            const btn = document.getElementById('compareRunBtn');
+            
+            if (compareSelectedItems.length > 0) {
+                section.style.display = 'block';
+                count.textContent = compareSelectedItems.length;
+                tags.innerHTML = compareSelectedItems.map((item, idx) => `
+                    <div class="compare-selected-tag" style="background: linear-gradient(135deg, ${COMPARE_COLORS[idx]}, ${COMPARE_COLORS[idx]}dd);">
+                        <span>${item.title.slice(0, 20)}${item.title.length > 20 ? '...' : ''}</span>
+                        <span class="remove" onclick="removeCompareSelected('${item.id.replace(/'/g, "\\'")}')">×</span>
+                    </div>
+                `).join('');
+                btn.disabled = compareSelectedItems.length < 2;
+            } else {
+                section.style.display = 'none';
+            }
+        }
+        
+        // 执行对比
+        function runCompare() {
+            if (compareSelectedItems.length < 2) {
+                showRefreshToast('请至少选择2个进行对比', 'error');
+                return;
+            }
+            
+            const resultSection = document.getElementById('compareResultSection');
+            resultSection.style.display = 'block';
+            
+            // 渲染对比表格
+            renderCompareTable();
+            
+            // 渲染雷达图
+            renderCompareRadar();
+            
+            // 渲染关键词重合度
+            renderCompareKeywords();
+            
+            // 滚动到结果区域
+            resultSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+        
+        // 渲染对比表格
+        function renderCompareTable() {
+            const thead = document.getElementById('compareTableHead');
+            const tbody = document.getElementById('compareTableBody');
+            
+            // 表头
+            thead.innerHTML = `
+                <tr>
+                    <th>对比维度</th>
+                    ${compareSelectedItems.map((item, idx) => `
+                        <th>
+                            <div class="compare-col-header">
+                                <span class="compare-col-color" style="background:${COMPARE_COLORS[idx]}"></span>
+                                <span>${item.title.slice(0, 15)}${item.title.length > 15 ? '...' : ''}</span>
+                            </div>
+                        </th>
+                    `).join('')}
+                </tr>
+            `;
+            
+            // 准备数据
+            const rows = [];
+            
+            // 热度
+            const heatRow = ['🔥 热度'];
+            compareSelectedItems.forEach(item => {
+                if (compareType === 'topic') {
+                    heatRow.push(item.heat || formatHeat(item.data?.hot_value) || '-');
+                } else {
+                    heatRow.push(item.ideas?.length + ' 个选题' || '-');
+                }
+            });
+            rows.push(heatRow);
+            
+            // 平台分布
+            const platformRow = ['📡 平台'];
+            compareSelectedItems.forEach(item => {
+                const platforms = Array.isArray(item.platform) ? item.platform : [item.platform];
+                platformRow.push(platforms.filter(p => p).map(p => 
+                    `<span class="platform-badge ${PLATFORM_CLASS[p?.split('/')[0]] || ''}" style="padding:1px 6px;font-size:10px;margin:2px;">${p}</span>`
+                ).join(' ') || '-');
+            });
+            rows.push(platformRow);
+            
+            // 类型
+            const typeRow = ['📂 类型'];
+            compareSelectedItems.forEach(item => {
+                typeRow.push(item.type || '-');
+            });
+            rows.push(typeRow);
+            
+            // 关键词数量
+            const kwRow = ['🔑 关键词'];
+            compareSelectedItems.forEach(item => {
+                kwRow.push((item.keywords?.length || 0) + ' 个');
+            });
+            rows.push(kwRow);
+            
+            // 可借势客户（仅热点对比）
+            if (compareType === 'topic') {
+                const clientRow = ['🏢 可借势客户'];
+                compareSelectedItems.forEach(item => {
+                    const clients = item.clients || [];
+                    clientRow.push(clients.length > 0 
+                        ? clients.slice(0, 3).map(c => `<span class="client-tag" style="font-size:11px;padding:2px 8px;">${c}</span>`).join(' ') + (clients.length > 3 ? ` +${clients.length - 3}` : '')
+                        : '-');
+                });
+                rows.push(clientRow);
+            }
+            
+            // 行业/领域
+            const industryRow = ['🏭 行业'];
+            compareSelectedItems.forEach(item => {
+                if (compareType === 'topic') {
+                    const industries = item.data?.industries || [];
+                    industryRow.push(industries.length > 0 ? industries.join('、') : '-');
+                } else {
+                    industryRow.push(item.type || '-');
+                }
+            });
+            rows.push(industryRow);
+            
+            // 情感倾向（仅热点对比）
+            if (compareType === 'topic') {
+                const sentimentRow = ['💭 情感倾向'];
+                compareSelectedItems.forEach(item => {
+                    const sentiment = item.data?.sentiment || '中性';
+                    const color = sentiment === '正面' ? '#10B981' : sentiment === '负面' ? '#EF4444' : 'var(--text-secondary)';
+                    sentimentRow.push(`<span style="color:${color};font-weight:600;">${sentiment}</span>`);
+                });
+                rows.push(sentimentRow);
+            }
+            
+            // 趋势
+            const trendRow = ['📈 趋势'];
+            compareSelectedItems.forEach(item => {
+                const trends = item.data?.trends || [];
+                trendRow.push(trends.length > 0 ? trends.map(t => 
+                    `<span style="color:${t === '爆' ? '#EF4444' : t === '热' ? '#F59E0B' : 'var(--text-secondary)'};font-weight:600;">${t}</span>`
+                ).join(' ') : '-');
+            });
+            rows.push(trendRow);
+            
+            // 渲染表格内容
+            tbody.innerHTML = rows.map(row => `
+                <tr>
+                    <td style="font-weight:600;color:var(--text-secondary);">${row[0]}</td>
+                    ${row.slice(1).map(cell => `<td>${cell}</td>`).join('')}
+                </tr>
+            `).join('');
+        }
+        
+        // 渲染雷达图
+        function renderCompareRadar() {
+            const chartEl = document.getElementById('compareRadarChart');
+            if (!chartEl || typeof echarts === 'undefined') return;
+            
+            if (compareRadarChart) {
+                compareRadarChart.dispose();
+            }
+            compareRadarChart = echarts.init(chartEl);
+            
+            // 准备雷达图数据
+            const indicators = [
+                { name: '热度', max: 100 },
+                { name: '平台覆盖', max: 100 },
+                { name: '关键词丰富度', max: 100 },
+                { name: '客户匹配度', max: 100 },
+                { name: '趋势强度', max: 100 }
+            ];
+            
+            // 计算各维度分数
+            const maxHeat = Math.max(...compareSelectedItems.map(item => 
+                compareType === 'topic' ? (item.data?.hot_value || 0) : (item.ideas?.length || 0) * 1000000
+            ));
+            const maxKeywords = Math.max(...compareSelectedItems.map(item => item.keywords?.length || 0));
+            const maxClients = Math.max(...compareSelectedItems.map(item => 
+                compareType === 'topic' ? (item.clients?.length || 0) : 1
+            ));
+            
+            const seriesData = compareSelectedItems.map((item, idx) => {
+                const heat = compareType === 'topic' 
+                    ? (item.data?.hot_value || 0) 
+                    : (item.ideas?.length || 0) * 1000000;
+                const platforms = Array.isArray(item.platform) ? item.platform.length : 1;
+                const trends = item.data?.trends || [];
+                const trendScore = trends.includes('爆') ? 100 : trends.includes('热') ? 70 : trends.includes('新') ? 50 : 30;
+                
+                return {
+                    name: item.title.slice(0, 10),
+                    value: [
+                        Math.round((heat / maxHeat) * 100) || 10,
+                        Math.round((platforms / 3) * 100),
+                        Math.round(((item.keywords?.length || 0) / Math.max(maxKeywords, 1)) * 100) || 10,
+                        Math.round(((compareType === 'topic' ? (item.clients?.length || 0) : 1) / Math.max(maxClients, 1)) * 100) || 10,
+                        trendScore
+                    ],
+                    itemStyle: { color: COMPARE_COLORS[idx] },
+                    lineStyle: { color: COMPARE_COLORS[idx], width: 2 },
+                    areaStyle: { color: COMPARE_COLORS[idx] + '33' }
+                };
+            });
+            
+            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            
+            compareRadarChart.setOption({
+                tooltip: {
+                    trigger: 'item'
+                },
+                legend: {
+                    data: compareSelectedItems.map(item => item.title.slice(0, 10)),
+                    bottom: 10,
+                    textStyle: { color: isDark ? '#9CA3AF' : '#6B7280', fontSize: 12 }
+                },
+                radar: {
+                    indicator: indicators,
+                    shape: 'polygon',
+                    splitNumber: 4,
+                    axisName: {
+                        color: isDark ? '#9CA3AF' : '#6B7280',
+                        fontSize: 12
+                    },
+                    splitLine: {
+                        lineStyle: { color: isDark ? '#374151' : '#E5E7EB' }
+                    },
+                    splitArea: {
+                        areaStyle: { color: isDark ? ['rgba(99,102,241,0.05)', 'rgba(99,102,241,0.1)'] : ['rgba(99,102,241,0.03)', 'rgba(99,102,241,0.06)'] }
+                    }
+                },
+                series: [{
+                    type: 'radar',
+                    data: seriesData
+                }]
+            });
+        }
+        
+        // 渲染关键词重合度
+        function renderCompareKeywords() {
+            const section = document.getElementById('compareKeywordContent');
+            if (!section) return;
+            
+            // 收集所有关键词
+            const allKeywords = new Set();
+            compareSelectedItems.forEach(item => {
+                (item.keywords || []).forEach(kw => allKeywords.add(kw));
+            });
+            
+            // 找出共同关键词
+            const sharedKeywords = [];
+            const uniqueKeywords = compareSelectedItems.map(() => []);
+            
+            allKeywords.forEach(kw => {
+                const count = compareSelectedItems.filter(item => 
+                    (item.keywords || []).includes(kw)
+                ).length;
+                
+                if (count === compareSelectedItems.length) {
+                    sharedKeywords.push(kw);
+                } else {
+                    compareSelectedItems.forEach((item, idx) => {
+                        if ((item.keywords || []).includes(kw)) {
+                            uniqueKeywords[idx].push(kw);
+                        }
+                    });
+                }
+            });
+            
+            // 计算重合度
+            const overlapRate = allKeywords.size > 0 
+                ? Math.round((sharedKeywords.length / allKeywords.size) * 100) 
+                : 0;
+            const overlapClass = overlapRate >= 50 ? 'high' : overlapRate >= 25 ? 'medium' : 'low';
+            
+            // 渲染
+            section.innerHTML = `
+                <div style="width:100%;margin-bottom:16px;">
+                    <span class="compare-overlap-indicator ${overlapClass}">
+                        关键词重合度：${overlapRate}%
+                        (${sharedKeywords.length}/${allKeywords.size} 个共同关键词)
+                    </span>
+                </div>
+                ${sharedKeywords.length > 0 ? `
+                    <div class="compare-keyword-group">
+                        <div class="compare-keyword-group-title">🤝 共同关键词</div>
+                        <div class="compare-keyword-tags">
+                            ${sharedKeywords.slice(0, 10).map(kw => `<span class="compare-keyword-tag shared">${kw}</span>`).join('')}
+                            ${sharedKeywords.length > 10 ? `<span style="font-size:11px;color:var(--text-secondary);">+${sharedKeywords.length - 10}</span>` : ''}
+                        </div>
+                    </div>
+                ` : ''}
+                ${compareSelectedItems.map((item, idx) => `
+                    <div class="compare-keyword-group">
+                        <div class="compare-keyword-group-title" style="display:flex;align-items:center;gap:6px;">
+                            <span class="compare-col-color" style="background:${COMPARE_COLORS[idx]};width:10px;height:10px;border-radius:3px;"></span>
+                            <span>${item.title.slice(0, 12)} 独有关键词</span>
+                        </div>
+                        <div class="compare-keyword-tags">
+                            ${uniqueKeywords[idx].slice(0, 8).map(kw => `<span class="compare-keyword-tag unique">${kw}</span>`).join('')}
+                            ${uniqueKeywords[idx].length > 8 ? `<span style="font-size:11px;color:var(--text-secondary);">+${uniqueKeywords[idx].length - 8}</span>` : ''}
+                            ${uniqueKeywords[idx].length === 0 ? `<span style="font-size:11px;color:var(--text-secondary);">无独有关键词</span>` : ''}
+                        </div>
+                    </div>
+                `).join('')}
+            `;
+        }
         
     </script>
 </body>
