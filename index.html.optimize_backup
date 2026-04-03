@@ -2,13 +2,9 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🔥 热点追踪 - 特赞内容运营平台</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/echarts-wordcloud@2.1.0/dist/echarts-wordcloud.min.js"></script>
     <style>
         *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
         :root {
@@ -32,7 +28,7 @@
             --shadow-lg:0 20px 25px -5px rgba(0,0,0,0.4);
         }
         html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
-        body{font-family:'Noto Sans SC',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg-body);min-height:100vh;color:var(--text-primary);transition:background 0.3s,color 0.3s}
+        body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg-body);min-height:100vh;color:var(--text-primary);transition:background 0.3s,color 0.3s}
         /* 导航栏 */
         .navbar{position:sticky;top:0;left:0;right:0;background:var(--bg-navbar);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);box-shadow:0 2px 10px rgba(0,0,0,0.08);z-index:1000;padding:12px 24px;transition:background 0.3s}
         .nav-container{max-width:1400px;margin:0 auto;display:flex;justify-content:space-between;align-items:center}
@@ -40,9 +36,23 @@
         [data-theme="dark"] .theme-toggle{background:rgba(255,255,255,0.1);border-color:rgba(255,255,255,0.15)}
         .theme-toggle:hover{background:rgba(255,255,255,0.25);transform:scale(1.05)}
         .nav-logo{display:flex;align-items:center;gap:8px;font-size:20px;font-weight:800;color:var(--primary)}
-        .nav-tabs{display:flex;gap:8px;align-items:center}
-        .nav-tab{padding:8px 16px;border-radius:8px;text-decoration:none;color:var(--gray-600);font-weight:500;font-size:14px;transition:all 0.2s;white-space:nowrap}
+        .nav-tabs{display:flex;gap:4px;align-items:center}
+        .nav-tab{padding:8px 14px;border-radius:8px;text-decoration:none;color:var(--gray-600);font-weight:500;font-size:14px;transition:all 0.2s;white-space:nowrap}
         .nav-tab:hover,.nav-tab.active{background:var(--primary);color:#fff}
+        .logo { font-size: 20px; font-weight: 800; color: var(--primary); }
+        .nav-tabs { display: flex; gap: 8px; }
+        .nav-tab {
+            padding: 8px 16px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: var(--gray-600);
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        .nav-tab:hover, .nav-tab.active {
+            background: var(--primary);
+            color: white;
+        }
         /* 主容器 */
         .main-container{max-width:1200px;margin:0 auto;padding:24px 24px 40px}
         /* 页面标题 */
@@ -1350,97 +1360,10 @@
             .heat-badge{font-size:12px}
             .filter-bar{gap:6px;overflow-x:auto;flex-wrap:nowrap;-webkit-overflow-scrolling:touch;padding-bottom:4px}
             .filter-btn{flex-shrink:0;padding:8px 12px;font-size:13px}
-            /* 移动端词云和图表 */
-            .visualization-section { padding: 16px; }
-            .viz-title { font-size: 14px; }
-            .viz-grid { grid-template-columns: 1fr; gap: 12px; }
-            .wordcloud-container, .trend-chart-container { height: 200px; }
         }
         @media(hover:none) and (pointer:coarse){
             .filter-btn,.nav-tab,.client-header{min-height:44px}
             .hot-item{-webkit-tap-highlight-color:rgba(99,102,241,0.1)}
-        }
-        
-        /* ========== 可视化图表区域 ========== */
-        .visualization-section {
-            background: var(--bg-card);
-            border-radius: var(--radius);
-            box-shadow: var(--shadow);
-            padding: 24px;
-            margin-bottom: 24px;
-            display: none;
-        }
-        .visualization-section.loaded { display: block; }
-        .viz-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 20px;
-        }
-        .viz-title {
-            font-size: 16px;
-            font-weight: 700;
-            color: var(--text-primary);
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        .viz-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 16px;
-        }
-        @media (max-width: 768px) {
-            .viz-grid { grid-template-columns: 1fr; }
-        }
-        .wordcloud-container {
-            height: 280px;
-            background: var(--gray-50);
-            border-radius: 12px;
-            border: 1px solid var(--border-color);
-            position: relative;
-            overflow: hidden;
-        }
-        [data-theme="dark"] .wordcloud-container {
-            background: rgba(99,102,241,0.05);
-        }
-        .wordcloud-container #wordcloudChart {
-            width: 100%;
-            height: 100%;
-        }
-        .trend-chart-container {
-            height: 280px;
-            background: var(--gray-50);
-            border-radius: 12px;
-            border: 1px solid var(--border-color);
-            position: relative;
-        }
-        [data-theme="dark"] .trend-chart-container {
-            background: rgba(99,102,241,0.05);
-        }
-        .trend-chart-container #trendChart {
-            width: 100%;
-            height: 100%;
-        }
-        .chart-loading {
-            position: absolute;
-            inset: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: rgba(255,255,255,0.8);
-            z-index: 10;
-        }
-        [data-theme="dark"] .chart-loading {
-            background: rgba(30,39,70,0.8);
-        }
-        .chart-loading-spinner {
-            width: 32px;
-            height: 32px;
-            border: 3px solid var(--gray-200);
-            border-top-color: var(--primary);
-            border-radius: 50%;
-            animation: spin 0.8s linear infinite;
         }
     
         /* 搜索框样式 */
@@ -1760,27 +1683,6 @@
                     <div class="quick-nav-label">脚本生成</div>
                     <div class="quick-nav-desc">一键创作</div>
                 </a>
-            </div>
-        </div>
-        
-        <!-- 可视化图表区域（词云+趋势图） -->
-        <div class="visualization-section" id="visualizationSection">
-            <div class="viz-header">
-                <div class="viz-title">📊 热点数据可视化</div>
-            </div>
-            <div class="viz-grid">
-                <div class="wordcloud-container">
-                    <div id="wordcloudChart"></div>
-                    <div class="chart-loading" id="wordcloudLoading">
-                        <div class="chart-loading-spinner"></div>
-                    </div>
-                </div>
-                <div class="trend-chart-container">
-                    <div id="trendChart"></div>
-                    <div class="chart-loading" id="trendLoading">
-                        <div class="chart-loading-spinner"></div>
-                    </div>
-                </div>
             </div>
         </div>
         
@@ -2122,178 +2024,6 @@
             type: 'all',
             trend: 'all'
         };
-        
-        // ========== 可视化图表初始化 ==========
-        let wordcloudChart = null;
-        let trendChart = null;
-        
-        function initCharts() {
-            // 检查 ECharts 是否加载
-            if (typeof echarts === 'undefined') {
-                console.warn('ECharts not loaded, skipping chart initialization');
-                return;
-            }
-            
-            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-            
-            // 初始化词云图表
-            const wordcloudEl = document.getElementById('wordcloudChart');
-            if (wordcloudEl) {
-                wordcloudChart = echarts.init(wordcloudEl);
-            }
-            
-            // 初始化趋势图表
-            const trendEl = document.getElementById('trendChart');
-            if (trendEl) {
-                trendChart = echarts.init(trendEl);
-            }
-        }
-        
-        function updateWordcloud(topics) {
-            if (!wordcloudChart || !topics.length) return;
-            
-            const loading = document.getElementById('wordcloudLoading');
-            if (loading) loading.style.display = 'flex';
-            
-            // 提取关键词并统计频率
-            const keywordCount = {};
-            topics.forEach(t => {
-                if (t.keywords && Array.isArray(t.keywords)) {
-                    t.keywords.forEach(kw => {
-                        if (kw && kw.length >= 2) {
-                            keywordCount[kw] = (keywordCount[kw] || 0) + 1;
-                        }
-                    });
-                }
-            });
-            
-            // 转换为词云数据格式
-            const wordcloudData = Object.entries(keywordCount)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 50)
-                .map(([name, value]) => ({ name, value: value * 10 }));
-            
-            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-            
-            // 使用简单柱状图代替词云（更可靠）
-            const topKeywords = wordcloudData.slice(0, 10);
-            wordcloudChart.setOption({
-                tooltip: {
-                    trigger: 'axis',
-                    axisPointer: { type: 'shadow' }
-                },
-                grid: {
-                    left: '3%',
-                    right: '4%',
-                    bottom: '3%',
-                    top: '10%',
-                    containLabel: true
-                },
-                xAxis: {
-                    type: 'category',
-                    data: topKeywords.map(d => d.name),
-                    axisLabel: {
-                        rotate: 30,
-                        fontSize: 11,
-                        color: isDark ? '#9CA3AF' : '#6B7280'
-                    },
-                    axisLine: { lineStyle: { color: isDark ? '#374151' : '#E5E7EB' } }
-                },
-                yAxis: {
-                    type: 'value',
-                    axisLabel: { color: isDark ? '#9CA3AF' : '#6B7280' },
-                    splitLine: { lineStyle: { color: isDark ? '#374151' : '#E5E7EB' } }
-                },
-                series: [{
-                    type: 'bar',
-                    data: topKeywords.map(d => d.value),
-                    itemStyle: {
-                        borderRadius: [4, 4, 0, 0],
-                        color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
-                            { offset: 0, color: '#818CF8' },
-                            { offset: 1, color: '#4F46E5' }
-                        ])
-                    },
-                    emphasis: {
-                        itemStyle: { color: '#6366F1' }
-                    }
-                }]
-            });
-            
-            if (loading) loading.style.display = 'none';
-        }
-        
-        function updateTrendChart(topics) {
-            if (!trendChart || !topics.length) return;
-            
-            const loading = document.getElementById('trendLoading');
-            if (loading) loading.style.display = 'flex';
-            
-            // 统计各平台热点数量
-            const platformCount = {};
-            topics.forEach(t => {
-                const p = t.platform || '其他';
-                platformCount[p] = (platformCount[p] || 0) + 1;
-            });
-            
-            // 统计热度类型
-            const typeCount = {};
-            topics.forEach(t => {
-                const type = t.type || '其他';
-                typeCount[type] = (typeCount[type] || 0) + 1;
-            });
-            
-            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-            
-            trendChart.setOption({
-                tooltip: {
-                    trigger: 'item',
-                    formatter: '{b}: {c} ({d}%)'
-                },
-                legend: {
-                    orient: 'vertical',
-                    right: '5%',
-                    top: 'center',
-                    textStyle: { 
-                        fontSize: 11,
-                        color: isDark ? '#9CA3AF' : '#6B7280'
-                    }
-                },
-                series: [{
-                    type: 'pie',
-                    radius: ['35%', '65%'],
-                    center: ['35%', '50%'],
-                    avoidLabelOverlap: false,
-                    itemStyle: {
-                        borderRadius: 6,
-                        borderColor: isDark ? '#1e2746' : '#fff',
-                        borderWidth: 2
-                    },
-                    label: { show: false },
-                    emphasis: {
-                        label: {
-                            show: true,
-                            fontSize: 12,
-                            fontWeight: 'bold'
-                        }
-                    },
-                    data: Object.entries(platformCount).map(([name, value], idx) => ({
-                        name,
-                        value,
-                        itemStyle: {
-                            color: ['#6366F1', '#FF6600', '#FF2442', '#10B981', '#F59E0B'][idx % 5]
-                        }
-                    }))
-                }]
-            });
-            
-            if (loading) loading.style.display = 'none';
-        }
-        
-        function showVisualizationSection() {
-            const section = document.getElementById('visualizationSection');
-            if (section) section.classList.add('loaded');
-        }
         let quickFilterActive = null;
         
         // 平台颜色映射
