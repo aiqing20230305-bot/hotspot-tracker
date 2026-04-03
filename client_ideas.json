@@ -1,5 +1,1683 @@
 [
   {
+    "id": "农夫山泉_202604040416_202604040416000",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉清明节假期首日全国迎来出行高峰矿泉水的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明节假期首日全国迎来出行高峰",
+    "hot_topic_id": "ht_new_021",
+    "heat": "热",
+    "trend": "热",
+    "product": "矿泉水",
+    "keywords": [
+      "清明节假期首日全国迎来出行高峰",
+      "农夫山泉"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "农夫山泉_202604040416_202604040416001",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉清明节假期首日全国迎来出行高峰茶饮料的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明节假期首日全国迎来出行高峰",
+    "hot_topic_id": "ht_new_021",
+    "heat": "热",
+    "trend": "热",
+    "product": "茶饮料",
+    "keywords": [
+      "清明节假期首日全国迎来出行高峰",
+      "农夫山泉"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "元气森林_202604040416_202604040416010",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林清明节假期首日全国迎来出行高峰气泡水的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明节假期首日全国迎来出行高峰",
+    "hot_topic_id": "ht_new_021",
+    "heat": "热",
+    "trend": "热",
+    "product": "气泡水",
+    "keywords": [
+      "清明节假期首日全国迎来出行高峰",
+      "元气森林"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "元气森林_202604040416_202604040416011",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林清明节假期首日全国迎来出行高峰无糖茶的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明节假期首日全国迎来出行高峰",
+    "hot_topic_id": "ht_new_021",
+    "heat": "热",
+    "trend": "热",
+    "product": "无糖茶",
+    "keywords": [
+      "清明节假期首日全国迎来出行高峰",
+      "元气森林"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "OATLY_202604040416_202604040416020",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY清明节假期首日全国迎来出行高峰燕麦奶的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明节假期首日全国迎来出行高峰",
+    "hot_topic_id": "ht_new_021",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦奶",
+    "keywords": [
+      "清明节假期首日全国迎来出行高峰",
+      "OATLY"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "OATLY_202604040416_202604040416021",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY清明节假期首日全国迎来出行高峰燕麦饮的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明节假期首日全国迎来出行高峰",
+    "hot_topic_id": "ht_new_021",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦饮",
+    "keywords": [
+      "清明节假期首日全国迎来出行高峰",
+      "OATLY"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "百威_202604040416_202604040416030",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威清明节假期首日全国迎来出行高峰啤酒的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明节假期首日全国迎来出行高峰",
+    "hot_topic_id": "ht_new_021",
+    "heat": "热",
+    "trend": "热",
+    "product": "啤酒",
+    "keywords": [
+      "清明节假期首日全国迎来出行高峰",
+      "百威"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "百威_202604040416_202604040416031",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威清明节假期首日全国迎来出行高峰精酿的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明节假期首日全国迎来出行高峰",
+    "hot_topic_id": "ht_new_021",
+    "heat": "热",
+    "trend": "热",
+    "product": "精酿",
+    "keywords": [
+      "清明节假期首日全国迎来出行高峰",
+      "百威"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "农夫山泉_202604040416_202604040416040",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉春季踏青露营热潮席卷矿泉水的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "矿泉水",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "农夫山泉"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "农夫山泉_202604040416_202604040416041",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉春季踏青露营热潮席卷茶饮料的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "茶饮料",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "农夫山泉"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "元气森林_202604040416_202604040416050",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林春季踏青露营热潮席卷气泡水的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "气泡水",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "元气森林"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "元气森林_202604040416_202604040416051",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林春季踏青露营热潮席卷无糖茶的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "无糖茶",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "元气森林"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "OATLY_202604040416_202604040416060",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY春季踏青露营热潮席卷燕麦奶的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦奶",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "OATLY"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "OATLY_202604040416_202604040416061",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY春季踏青露营热潮席卷燕麦饮的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦饮",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "OATLY"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "百威_202604040416_202604040416070",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威春季踏青露营热潮席卷啤酒的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "啤酒",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "百威"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "百威_202604040416_202604040416071",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威春季踏青露营热潮席卷精酿的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "精酿",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "百威"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "小米_202604040416_202604040416080",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米春季踏青露营热潮席卷手机的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "手机",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "小米"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "小米_202604040416_202604040416081",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米春季踏青露营热潮席卷智能家居的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季踏青露营热潮席卷",
+    "hot_topic_id": "ht_new_023",
+    "heat": "热",
+    "trend": "热",
+    "product": "智能家居",
+    "keywords": [
+      "春季踏青露营热潮席卷",
+      "小米"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "汤臣倍健_202604040416_202604040416090",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健春季减肥黄金期到来 代餐产品销量暴涨维生素的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季减肥黄金期到来 代餐产品销量暴涨",
+    "hot_topic_id": "ht_new_024",
+    "heat": "热",
+    "trend": "热",
+    "product": "维生素",
+    "keywords": [
+      "春季减肥黄金期到来",
+      "代餐产品销量暴涨",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "汤臣倍健_202604040416_202604040416091",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健春季减肥黄金期到来 代餐产品销量暴涨蛋白粉的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季减肥黄金期到来 代餐产品销量暴涨",
+    "hot_topic_id": "ht_new_024",
+    "heat": "热",
+    "trend": "热",
+    "product": "蛋白粉",
+    "keywords": [
+      "春季减肥黄金期到来",
+      "代餐产品销量暴涨",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "善存_202604040416_202604040416100",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存春季减肥黄金期到来 代餐产品销量暴涨复合维生素的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季减肥黄金期到来 代餐产品销量暴涨",
+    "hot_topic_id": "ht_new_024",
+    "heat": "热",
+    "trend": "热",
+    "product": "复合维生素",
+    "keywords": [
+      "春季减肥黄金期到来",
+      "代餐产品销量暴涨",
+      "善存"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "善存_202604040416_202604040416101",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存春季减肥黄金期到来 代餐产品销量暴涨钙片的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季减肥黄金期到来 代餐产品销量暴涨",
+    "hot_topic_id": "ht_new_024",
+    "heat": "热",
+    "trend": "热",
+    "product": "钙片",
+    "keywords": [
+      "春季减肥黄金期到来",
+      "代餐产品销量暴涨",
+      "善存"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "OATLY_202604040416_202604040416110",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY春季减肥黄金期到来 代餐产品销量暴涨燕麦奶的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季减肥黄金期到来 代餐产品销量暴涨",
+    "hot_topic_id": "ht_new_024",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦奶",
+    "keywords": [
+      "春季减肥黄金期到来",
+      "代餐产品销量暴涨",
+      "OATLY"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "OATLY_202604040416_202604040416111",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY春季减肥黄金期到来 代餐产品销量暴涨燕麦饮的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季减肥黄金期到来 代餐产品销量暴涨",
+    "hot_topic_id": "ht_new_024",
+    "heat": "热",
+    "trend": "热",
+    "product": "燕麦饮",
+    "keywords": [
+      "春季减肥黄金期到来",
+      "代餐产品销量暴涨",
+      "OATLY"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "元气森林_202604040416_202604040416120",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林春季减肥黄金期到来 代餐产品销量暴涨气泡水的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季减肥黄金期到来 代餐产品销量暴涨",
+    "hot_topic_id": "ht_new_024",
+    "heat": "热",
+    "trend": "热",
+    "product": "气泡水",
+    "keywords": [
+      "春季减肥黄金期到来",
+      "代餐产品销量暴涨",
+      "元气森林"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "元气森林_202604040416_202604040416121",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林春季减肥黄金期到来 代餐产品销量暴涨无糖茶的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季减肥黄金期到来 代餐产品销量暴涨",
+    "hot_topic_id": "ht_new_024",
+    "heat": "热",
+    "trend": "热",
+    "product": "无糖茶",
+    "keywords": [
+      "春季减肥黄金期到来",
+      "代餐产品销量暴涨",
+      "元气森林"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "农夫山泉_202604040416_202604040416130",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉清明假期宅家经济爆发矿泉水的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明假期宅家经济爆发",
+    "hot_topic_id": "ht_new_025",
+    "heat": "热",
+    "trend": "热",
+    "product": "矿泉水",
+    "keywords": [
+      "清明假期宅家经济爆发",
+      "农夫山泉"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "农夫山泉_202604040416_202604040416131",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "功能饮料"
+      ]
+    },
+    "title": "农夫山泉清明假期宅家经济爆发茶饮料的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明假期宅家经济爆发",
+    "hot_topic_id": "ht_new_025",
+    "heat": "热",
+    "trend": "热",
+    "product": "茶饮料",
+    "keywords": [
+      "清明假期宅家经济爆发",
+      "农夫山泉"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "元气森林_202604040416_202604040416140",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林清明假期宅家经济爆发气泡水的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明假期宅家经济爆发",
+    "hot_topic_id": "ht_new_025",
+    "heat": "热",
+    "trend": "热",
+    "product": "气泡水",
+    "keywords": [
+      "清明假期宅家经济爆发",
+      "元气森林"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "元气森林_202604040416_202604040416141",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "乳茶"
+      ]
+    },
+    "title": "元气森林清明假期宅家经济爆发无糖茶的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明假期宅家经济爆发",
+    "hot_topic_id": "ht_new_025",
+    "heat": "热",
+    "trend": "热",
+    "product": "无糖茶",
+    "keywords": [
+      "清明假期宅家经济爆发",
+      "元气森林"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "百威_202604040416_202604040416150",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威清明假期宅家经济爆发啤酒的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明假期宅家经济爆发",
+    "hot_topic_id": "ht_new_025",
+    "heat": "热",
+    "trend": "热",
+    "product": "啤酒",
+    "keywords": [
+      "清明假期宅家经济爆发",
+      "百威"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "百威_202604040416_202604040416151",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威清明假期宅家经济爆发精酿的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明假期宅家经济爆发",
+    "hot_topic_id": "ht_new_025",
+    "heat": "热",
+    "trend": "热",
+    "product": "精酿",
+    "keywords": [
+      "清明假期宅家经济爆发",
+      "百威"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "小米_202604040416_202604040416160",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米清明假期宅家经济爆发手机的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "清明假期宅家经济爆发",
+    "hot_topic_id": "ht_new_025",
+    "heat": "热",
+    "trend": "热",
+    "product": "手机",
+    "keywords": [
+      "清明假期宅家经济爆发",
+      "小米"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "小米_202604040416_202604040416161",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米清明假期宅家经济爆发智能家居的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "清明假期宅家经济爆发",
+    "hot_topic_id": "ht_new_025",
+    "heat": "热",
+    "trend": "热",
+    "product": "智能家居",
+    "keywords": [
+      "清明假期宅家经济爆发",
+      "小米"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "AHC_202604040416_202604040416170",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC春季花粉过敏高峰期眼霜的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季花粉过敏高峰期",
+    "hot_topic_id": "ht_new_026",
+    "heat": "热",
+    "trend": "热",
+    "product": "眼霜",
+    "keywords": [
+      "春季花粉过敏高峰期",
+      "AHC"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "AHC_202604040416_202604040416171",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC春季花粉过敏高峰期面霜的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季花粉过敏高峰期",
+    "hot_topic_id": "ht_new_026",
+    "heat": "热",
+    "trend": "热",
+    "product": "面霜",
+    "keywords": [
+      "春季花粉过敏高峰期",
+      "AHC"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "玉兰油_202604040416_202604040416180",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆/护肤",
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "玉兰油春季花粉过敏高峰期面霜的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季花粉过敏高峰期",
+    "hot_topic_id": "ht_new_026",
+    "heat": "热",
+    "trend": "热",
+    "product": "面霜",
+    "keywords": [
+      "春季花粉过敏高峰期",
+      "玉兰油"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "玉兰油_202604040416_202604040416181",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆/护肤",
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "玉兰油春季花粉过敏高峰期精华的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季花粉过敏高峰期",
+    "hot_topic_id": "ht_new_026",
+    "heat": "热",
+    "trend": "热",
+    "product": "精华",
+    "keywords": [
+      "春季花粉过敏高峰期",
+      "玉兰油"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "汤臣倍健_202604040416_202604040416190",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健春季花粉过敏高峰期维生素的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季花粉过敏高峰期",
+    "hot_topic_id": "ht_new_026",
+    "heat": "热",
+    "trend": "热",
+    "product": "维生素",
+    "keywords": [
+      "春季花粉过敏高峰期",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "汤臣倍健_202604040416_202604040416191",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健春季花粉过敏高峰期蛋白粉的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季花粉过敏高峰期",
+    "hot_topic_id": "ht_new_026",
+    "heat": "热",
+    "trend": "热",
+    "product": "蛋白粉",
+    "keywords": [
+      "春季花粉过敏高峰期",
+      "汤臣倍健"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "善存_202604040416_202604040416200",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存春季花粉过敏高峰期复合维生素的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季花粉过敏高峰期",
+    "hot_topic_id": "ht_new_026",
+    "heat": "热",
+    "trend": "热",
+    "product": "复合维生素",
+    "keywords": [
+      "春季花粉过敏高峰期",
+      "善存"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "善存_202604040416_202604040416201",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
+    },
+    "title": "善存春季花粉过敏高峰期钙片的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季花粉过敏高峰期",
+    "hot_topic_id": "ht_new_026",
+    "heat": "热",
+    "trend": "热",
+    "product": "钙片",
+    "keywords": [
+      "春季花粉过敏高峰期",
+      "善存"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "小米_202604040416_202604040416210",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米小米SU7首月销量破10万手机的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "小米SU7首月销量破10万",
+    "hot_topic_id": "ht_new_027",
+    "heat": "热",
+    "trend": "热",
+    "product": "手机",
+    "keywords": [
+      "小米SU7首月销量破10万",
+      "小米"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "小米_202604040416_202604040416211",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/智能家居",
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
+    },
+    "title": "小米小米SU7首月销量破10万智能家居的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "小米SU7首月销量破10万",
+    "hot_topic_id": "ht_new_027",
+    "heat": "热",
+    "trend": "热",
+    "product": "智能家居",
+    "keywords": [
+      "小米SU7首月销量破10万",
+      "小米"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "荣耀_202604040416_202604040416220",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "耳机",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀小米SU7首月销量破10万手机的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "小米SU7首月销量破10万",
+    "hot_topic_id": "ht_new_027",
+    "heat": "热",
+    "trend": "热",
+    "product": "手机",
+    "keywords": [
+      "小米SU7首月销量破10万",
+      "荣耀"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "荣耀_202604040416_202604040416221",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "耳机",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀小米SU7首月销量破10万平板的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "小米SU7首月销量破10万",
+    "hot_topic_id": "ht_new_027",
+    "heat": "热",
+    "trend": "热",
+    "product": "平板",
+    "keywords": [
+      "小米SU7首月销量破10万",
+      "荣耀"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "索尼_202604040416_202604040416230",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼小米SU7首月销量破10万相机的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "小米SU7首月销量破10万",
+    "hot_topic_id": "ht_new_027",
+    "heat": "热",
+    "trend": "热",
+    "product": "相机",
+    "keywords": [
+      "小米SU7首月销量破10万",
+      "索尼"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "索尼_202604040416_202604040416231",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/娱乐",
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼小米SU7首月销量破10万耳机的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "小米SU7首月销量破10万",
+    "hot_topic_id": "ht_new_027",
+    "heat": "热",
+    "trend": "热",
+    "product": "耳机",
+    "keywords": [
+      "小米SU7首月销量破10万",
+      "索尼"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "AHC_202604040416_202604040416240",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC春季护肤正当时 防晒产品搜索量暴涨眼霜的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季护肤正当时 防晒产品搜索量暴涨",
+    "hot_topic_id": "ht_new_028",
+    "heat": "热",
+    "trend": "热",
+    "product": "眼霜",
+    "keywords": [
+      "春季护肤正当时",
+      "防晒产品搜索量暴涨",
+      "AHC"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "AHC_202604040416_202604040416241",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
+    },
+    "title": "AHC春季护肤正当时 防晒产品搜索量暴涨面霜的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季护肤正当时 防晒产品搜索量暴涨",
+    "hot_topic_id": "ht_new_028",
+    "heat": "热",
+    "trend": "热",
+    "product": "面霜",
+    "keywords": [
+      "春季护肤正当时",
+      "防晒产品搜索量暴涨",
+      "AHC"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "玉兰油_202604040416_202604040416250",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆/护肤",
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "玉兰油春季护肤正当时 防晒产品搜索量暴涨面霜的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季护肤正当时 防晒产品搜索量暴涨",
+    "hot_topic_id": "ht_new_028",
+    "heat": "热",
+    "trend": "热",
+    "product": "面霜",
+    "keywords": [
+      "春季护肤正当时",
+      "防晒产品搜索量暴涨",
+      "玉兰油"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "玉兰油_202604040416_202604040416251",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆/护肤",
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "玉兰油春季护肤正当时 防晒产品搜索量暴涨精华的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季护肤正当时 防晒产品搜索量暴涨",
+    "hot_topic_id": "ht_new_028",
+    "heat": "热",
+    "trend": "热",
+    "product": "精华",
+    "keywords": [
+      "春季护肤正当时",
+      "防晒产品搜索量暴涨",
+      "玉兰油"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "多芬_202604040416_202604040416260",
+    "client": {
+      "brand": "多芬",
+      "industry": "个护/美妆",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "护发素",
+        "身体乳"
+      ]
+    },
+    "title": "多芬春季护肤正当时 防晒产品搜索量暴涨沐浴露的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季护肤正当时 防晒产品搜索量暴涨",
+    "hot_topic_id": "ht_new_028",
+    "heat": "热",
+    "trend": "热",
+    "product": "沐浴露",
+    "keywords": [
+      "春季护肤正当时",
+      "防晒产品搜索量暴涨",
+      "多芬"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "多芬_202604040416_202604040416261",
+    "client": {
+      "brand": "多芬",
+      "industry": "个护/美妆",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "护发素",
+        "身体乳"
+      ]
+    },
+    "title": "多芬春季护肤正当时 防晒产品搜索量暴涨洗发水的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季护肤正当时 防晒产品搜索量暴涨",
+    "hot_topic_id": "ht_new_028",
+    "heat": "热",
+    "trend": "热",
+    "product": "洗发水",
+    "keywords": [
+      "春季护肤正当时",
+      "防晒产品搜索量暴涨",
+      "多芬"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "力士_202604040416_202604040416270",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士春季护肤正当时 防晒产品搜索量暴涨沐浴露的场景种草",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "春季护肤正当时 防晒产品搜索量暴涨",
+    "hot_topic_id": "ht_new_028",
+    "heat": "热",
+    "trend": "热",
+    "product": "沐浴露",
+    "keywords": [
+      "春季护肤正当时",
+      "防晒产品搜索量暴涨",
+      "力士"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
+    "id": "力士_202604040416_202604040416271",
+    "client": {
+      "brand": "力士",
+      "industry": "个护",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
+    },
+    "title": "力士春季护肤正当时 防晒产品搜索量暴涨洗发水的情感共鸣",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季护肤正当时 防晒产品搜索量暴涨",
+    "hot_topic_id": "ht_new_028",
+    "heat": "热",
+    "trend": "热",
+    "product": "洗发水",
+    "keywords": [
+      "春季护肤正当时",
+      "防晒产品搜索量暴涨",
+      "力士"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-04T04:16:02"
+  },
+  {
     "id": "荣耀_202604040310_100",
     "client": {
       "brand": "荣耀",
