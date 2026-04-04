@@ -7564,1773 +7564,1685 @@
     "created_at": "2026-04-04T14:22:05"
   },
   {
-    "id": "荣耀_20260404T171651_1",
+    "id": "扩展_000261",
     "client": {
       "brand": "荣耀",
-      "industry": "科技/手机",
-      "products": [
-        "手机",
-        "平板",
-        "耳机",
-        "智能手表"
+      "industry": [
+        "科技",
+        "手机"
       ]
     },
-    "title": "荣耀清明假期余额不足 抓住最后时光手机的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "荣耀与何小鹏称不碰10万以：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "何小鹏称不碰10万以下汽车 新能源价格战引讨论",
+    "hot_topic_id": "ht_202604050105_003",
     "heat": "热",
     "trend": "新",
-    "product": "手机",
+    "product": "科技",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "荣耀",
+      "何小鹏称不碰10万以下汽车",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000262",
+    "client": {
+      "brand": "荣耀",
+      "industry": [
+        "科技",
+        "手机"
+      ]
+    },
+    "title": "荣耀如何借势Claude卸磨杀虾做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "Claude卸磨杀虾开发者工作流中断 AI工具变革引热议",
+    "hot_topic_id": "ht_202604050105_004",
+    "heat": "新",
+    "trend": "热",
+    "product": "科技",
+    "keywords": [
+      "荣耀",
+      "Claude卸磨杀虾开发者工作流中断",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000263",
+    "client": {
+      "brand": "荣耀",
+      "industry": [
+        "科技",
+        "手机"
+      ]
+    },
+    "title": "荣耀联合苹果2026款Air打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "科技",
+    "keywords": [
+      "荣耀",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
     ],
     "quality_score": 0.75,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "50000",
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "荣耀_20260404T171651_2",
-    "client": {
-      "brand": "荣耀",
-      "industry": "科技/手机",
-      "products": [
-        "手机",
-        "平板",
-        "耳机",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀春季过敏高发期自救指南 敏感肌平板的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "平板",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.76,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "60000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "荣耀_20260404T171651_3",
-    "client": {
-      "brand": "荣耀",
-      "industry": "科技/手机",
-      "products": [
-        "手机",
-        "平板",
-        "耳机",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀春季露营装备升级热 轻量化帐篷耳机的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "耳机",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.77,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "70000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "罗技_20260404T171651_1",
+    "id": "扩展_000264",
     "client": {
       "brand": "罗技",
-      "industry": "科技/外设",
-      "products": [
-        "键盘",
-        "鼠标",
-        "耳机",
-        "游戏手柄"
+      "industry": [
+        "科技",
+        "外设"
       ]
     },
-    "title": "罗技清明假期余额不足 抓住最后时光键盘的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "罗技与何小鹏称不碰10万以：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "何小鹏称不碰10万以下汽车 新能源价格战引讨论",
+    "hot_topic_id": "ht_202604050105_003",
     "heat": "热",
     "trend": "新",
-    "product": "键盘",
+    "product": "科技",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "罗技",
+      "何小鹏称不碰10万以下汽车",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.78,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "80000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "罗技_20260404T171651_2",
+    "id": "扩展_000265",
     "client": {
       "brand": "罗技",
-      "industry": "科技/外设",
-      "products": [
-        "键盘",
-        "鼠标",
-        "耳机",
-        "游戏手柄"
+      "industry": [
+        "科技",
+        "外设"
       ]
     },
-    "title": "罗技春季过敏高发期自救指南 敏感肌鼠标的情感共鸣",
+    "title": "罗技如何借势Claude卸磨杀虾做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "鼠标",
+    "hot_topic": "Claude卸磨杀虾开发者工作流中断 AI工具变革引热议",
+    "hot_topic_id": "ht_202604050105_004",
+    "heat": "新",
+    "trend": "热",
+    "product": "科技",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "罗技",
+      "Claude卸磨杀虾开发者工作流中断",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.79,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "90000",
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "罗技_20260404T171651_3",
+    "id": "扩展_000266",
     "client": {
       "brand": "罗技",
-      "industry": "科技/外设",
-      "products": [
-        "键盘",
-        "鼠标",
-        "耳机",
-        "游戏手柄"
+      "industry": [
+        "科技",
+        "外设"
       ]
     },
-    "title": "罗技春季露营装备升级热 轻量化帐篷耳机的科普内容",
+    "title": "罗技联合苹果2026款Air打造爆款内容",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
     "heat": "热",
     "trend": "新",
-    "product": "耳机",
+    "product": "科技",
     "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.8,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "100000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "小米_20260404T171651_1",
-    "client": {
-      "brand": "小米",
-      "industry": "科技/智能家居",
-      "products": [
-        "手机",
-        "智能家居",
-        "电动车",
-        "家电"
-      ]
-    },
-    "title": "小米清明假期余额不足 抓住最后时光手机的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
-    "heat": "热",
-    "trend": "新",
-    "product": "手机",
-    "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
-    ],
-    "quality_score": 0.81,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "110000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "小米_20260404T171651_2",
-    "client": {
-      "brand": "小米",
-      "industry": "科技/智能家居",
-      "products": [
-        "手机",
-        "智能家居",
-        "电动车",
-        "家电"
-      ]
-    },
-    "title": "小米春季过敏高发期自救指南 敏感肌智能家居的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "智能家居",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.82,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "120000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "小米_20260404T171651_3",
-    "client": {
-      "brand": "小米",
-      "industry": "科技/智能家居",
-      "products": [
-        "手机",
-        "智能家居",
-        "电动车",
-        "家电"
-      ]
-    },
-    "title": "小米春季露营装备升级热 轻量化帐篷电动车的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "电动车",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.83,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "130000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "索尼_20260404T171651_1",
-    "client": {
-      "brand": "索尼",
-      "industry": "科技/娱乐",
-      "products": [
-        "相机",
-        "耳机",
-        "游戏机",
-        "电视"
-      ]
-    },
-    "title": "索尼清明假期余额不足 抓住最后时光相机的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
-    "heat": "热",
-    "trend": "新",
-    "product": "相机",
-    "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
-    ],
-    "quality_score": 0.84,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "140000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "索尼_20260404T171651_2",
-    "client": {
-      "brand": "索尼",
-      "industry": "科技/娱乐",
-      "products": [
-        "相机",
-        "耳机",
-        "游戏机",
-        "电视"
-      ]
-    },
-    "title": "索尼春季过敏高发期自救指南 敏感肌耳机的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "耳机",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "50000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "索尼_20260404T171651_3",
-    "client": {
-      "brand": "索尼",
-      "industry": "科技/娱乐",
-      "products": [
-        "相机",
-        "耳机",
-        "游戏机",
-        "电视"
-      ]
-    },
-    "title": "索尼春季露营装备升级热 轻量化帐篷游戏机的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "游戏机",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.86,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "60000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "AHC_20260404T171651_1",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆/护肤",
-      "products": [
-        "眼霜",
-        "面霜",
-        "精华",
-        "面膜"
-      ]
-    },
-    "title": "AHC清明假期余额不足 抓住最后时光眼霜的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
-    "heat": "热",
-    "trend": "新",
-    "product": "眼霜",
-    "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
-    ],
-    "quality_score": 0.87,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "70000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "AHC_20260404T171651_2",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆/护肤",
-      "products": [
-        "眼霜",
-        "面霜",
-        "精华",
-        "面膜"
-      ]
-    },
-    "title": "AHC春季过敏高发期自救指南 敏感肌面霜的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "面霜",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.88,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "80000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "AHC_20260404T171651_3",
-    "client": {
-      "brand": "AHC",
-      "industry": "美妆/护肤",
-      "products": [
-        "眼霜",
-        "面霜",
-        "精华",
-        "面膜"
-      ]
-    },
-    "title": "AHC春季露营装备升级热 轻量化帐篷精华的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "精华",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.89,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "90000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "多芬_20260404T171651_1",
-    "client": {
-      "brand": "多芬",
-      "industry": "个护/美妆",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "护发素",
-        "身体乳"
-      ]
-    },
-    "title": "多芬清明假期余额不足 抓住最后时光沐浴露的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
-    "heat": "热",
-    "trend": "新",
-    "product": "沐浴露",
-    "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
-    ],
-    "quality_score": 0.9,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "100000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "多芬_20260404T171651_2",
-    "client": {
-      "brand": "多芬",
-      "industry": "个护/美妆",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "护发素",
-        "身体乳"
-      ]
-    },
-    "title": "多芬春季过敏高发期自救指南 敏感肌洗发水的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "洗发水",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.91,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "110000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "多芬_20260404T171651_3",
-    "client": {
-      "brand": "多芬",
-      "industry": "个护/美妆",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "护发素",
-        "身体乳"
-      ]
-    },
-    "title": "多芬春季露营装备升级热 轻量化帐篷护发素的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "护发素",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.92,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "120000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "力士_20260404T171651_1",
-    "client": {
-      "brand": "力士",
-      "industry": "个护",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "香皂"
-      ]
-    },
-    "title": "力士清明假期余额不足 抓住最后时光沐浴露的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
-    "heat": "热",
-    "trend": "新",
-    "product": "沐浴露",
-    "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
-    ],
-    "quality_score": 0.93,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "130000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "力士_20260404T171651_2",
-    "client": {
-      "brand": "力士",
-      "industry": "个护",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "香皂"
-      ]
-    },
-    "title": "力士春季过敏高发期自救指南 敏感肌洗发水的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "洗发水",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.94,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "140000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "力士_20260404T171651_3",
-    "client": {
-      "brand": "力士",
-      "industry": "个护",
-      "products": [
-        "沐浴露",
-        "洗发水",
-        "香皂"
-      ]
-    },
-    "title": "力士春季露营装备升级热 轻量化帐篷香皂的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "香皂",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
+      "罗技",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
     ],
     "quality_score": 0.75,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "50000",
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "清扬_20260404T171651_1",
+    "id": "扩展_000267",
     "client": {
-      "brand": "清扬",
-      "industry": "个护/洗护",
-      "products": [
-        "洗发水",
-        "护发素",
-        "去屑产品"
+      "brand": "小米",
+      "industry": [
+        "科技",
+        "智能家居"
       ]
     },
-    "title": "清扬清明假期余额不足 抓住最后时光洗发水的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "小米与何小鹏称不碰10万以：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "何小鹏称不碰10万以下汽车 新能源价格战引讨论",
+    "hot_topic_id": "ht_202604050105_003",
     "heat": "热",
     "trend": "新",
-    "product": "洗发水",
+    "product": "科技",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "小米",
+      "何小鹏称不碰10万以下汽车",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.76,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "60000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "清扬_20260404T171651_2",
+    "id": "扩展_000268",
     "client": {
-      "brand": "清扬",
-      "industry": "个护/洗护",
-      "products": [
-        "洗发水",
-        "护发素",
-        "去屑产品"
+      "brand": "小米",
+      "industry": [
+        "科技",
+        "智能家居"
       ]
     },
-    "title": "清扬春季过敏高发期自救指南 敏感肌护发素的情感共鸣",
+    "title": "小米如何借势Claude卸磨杀虾做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "护发素",
+    "hot_topic": "Claude卸磨杀虾开发者工作流中断 AI工具变革引热议",
+    "hot_topic_id": "ht_202604050105_004",
+    "heat": "新",
+    "trend": "热",
+    "product": "科技",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "小米",
+      "Claude卸磨杀虾开发者工作流中断",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.77,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "70000",
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "清扬_20260404T171651_3",
+    "id": "扩展_000269",
     "client": {
-      "brand": "清扬",
-      "industry": "个护/洗护",
-      "products": [
-        "洗发水",
-        "护发素",
-        "去屑产品"
+      "brand": "小米",
+      "industry": [
+        "科技",
+        "智能家居"
       ]
     },
-    "title": "清扬春季露营装备升级热 轻量化帐篷去屑产品的科普内容",
+    "title": "小米联合苹果2026款Air打造爆款内容",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
     "heat": "热",
     "trend": "新",
-    "product": "去屑产品",
+    "product": "科技",
     "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
+      "小米",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.78,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "80000",
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "玉兰油_20260404T171651_1",
+    "id": "扩展_000270",
     "client": {
-      "brand": "玉兰油",
-      "industry": "美妆/护肤",
-      "products": [
-        "面霜",
-        "精华",
-        "防晒",
-        "洁面"
+      "brand": "索尼",
+      "industry": [
+        "科技",
+        "娱乐"
       ]
     },
-    "title": "玉兰油清明假期余额不足 抓住最后时光面霜的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "索尼与何小鹏称不碰10万以：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "何小鹏称不碰10万以下汽车 新能源价格战引讨论",
+    "hot_topic_id": "ht_202604050105_003",
     "heat": "热",
     "trend": "新",
-    "product": "面霜",
+    "product": "科技",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "索尼",
+      "何小鹏称不碰10万以下汽车",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.79,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "90000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "玉兰油_20260404T171651_2",
+    "id": "扩展_000271",
     "client": {
-      "brand": "玉兰油",
-      "industry": "美妆/护肤",
-      "products": [
-        "面霜",
-        "精华",
-        "防晒",
-        "洁面"
+      "brand": "索尼",
+      "industry": [
+        "科技",
+        "娱乐"
       ]
     },
-    "title": "玉兰油春季过敏高发期自救指南 敏感肌精华的情感共鸣",
+    "title": "索尼如何借势Claude卸磨杀虾做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "精华",
+    "hot_topic": "Claude卸磨杀虾开发者工作流中断 AI工具变革引热议",
+    "hot_topic_id": "ht_202604050105_004",
+    "heat": "新",
+    "trend": "热",
+    "product": "科技",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "索尼",
+      "Claude卸磨杀虾开发者工作流中断",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.8,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "100000",
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "玉兰油_20260404T171651_3",
+    "id": "扩展_000272",
     "client": {
-      "brand": "玉兰油",
-      "industry": "美妆/护肤",
-      "products": [
-        "面霜",
-        "精华",
-        "防晒",
-        "洁面"
+      "brand": "索尼",
+      "industry": [
+        "科技",
+        "娱乐"
       ]
     },
-    "title": "玉兰油春季露营装备升级热 轻量化帐篷防晒的科普内容",
+    "title": "索尼联合苹果2026款Air打造爆款内容",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
     "heat": "热",
     "trend": "新",
-    "product": "防晒",
+    "product": "科技",
     "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
+      "索尼",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.81,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "110000",
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "汤臣倍健_20260404T171651_1",
+    "id": "扩展_000273",
     "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健品",
-      "products": [
-        "维生素",
-        "蛋白粉",
-        "鱼油",
-        "益生菌"
-      ]
-    },
-    "title": "汤臣倍健清明假期余额不足 抓住最后时光维生素的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
-    "heat": "热",
-    "trend": "新",
-    "product": "维生素",
-    "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
-    ],
-    "quality_score": 0.82,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "120000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "汤臣倍健_20260404T171651_2",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健品",
-      "products": [
-        "维生素",
-        "蛋白粉",
-        "鱼油",
-        "益生菌"
-      ]
-    },
-    "title": "汤臣倍健春季过敏高发期自救指南 敏感肌蛋白粉的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "蛋白粉",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.83,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "130000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "汤臣倍健_20260404T171651_3",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "保健品",
-      "products": [
-        "维生素",
-        "蛋白粉",
-        "鱼油",
-        "益生菌"
-      ]
-    },
-    "title": "汤臣倍健春季露营装备升级热 轻量化帐篷鱼油的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "鱼油",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.84,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "140000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "善存_20260404T171651_1",
-    "client": {
-      "brand": "善存",
-      "industry": "保健品",
-      "products": [
-        "复合维生素",
-        "钙片",
-        "叶酸"
-      ]
-    },
-    "title": "善存清明假期余额不足 抓住最后时光复合维生素的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
-    "heat": "热",
-    "trend": "新",
-    "product": "复合维生素",
-    "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "50000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "善存_20260404T171651_2",
-    "client": {
-      "brand": "善存",
-      "industry": "保健品",
-      "products": [
-        "复合维生素",
-        "钙片",
-        "叶酸"
-      ]
-    },
-    "title": "善存春季过敏高发期自救指南 敏感肌钙片的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "钙片",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.86,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "60000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "善存_20260404T171651_3",
-    "client": {
-      "brand": "善存",
-      "industry": "保健品",
-      "products": [
-        "复合维生素",
-        "钙片",
-        "叶酸"
-      ]
-    },
-    "title": "善存春季露营装备升级热 轻量化帐篷叶酸的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "叶酸",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.87,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "70000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "HC_20260404T171651_1",
-    "client": {
-      "brand": "HC",
-      "industry": "美妆/护肤",
-      "products": [
-        "护肤品",
-        "彩妆",
-        "精华"
-      ]
-    },
-    "title": "HC清明假期余额不足 抓住最后时光护肤品的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
-    "heat": "热",
-    "trend": "新",
-    "product": "护肤品",
-    "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
-    ],
-    "quality_score": 0.88,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "80000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "HC_20260404T171651_2",
-    "client": {
-      "brand": "HC",
-      "industry": "美妆/护肤",
-      "products": [
-        "护肤品",
-        "彩妆",
-        "精华"
-      ]
-    },
-    "title": "HC春季过敏高发期自救指南 敏感肌彩妆的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "彩妆",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.89,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "90000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "HC_20260404T171651_3",
-    "client": {
-      "brand": "HC",
-      "industry": "美妆/护肤",
-      "products": [
-        "护肤品",
-        "彩妆",
-        "精华"
-      ]
-    },
-    "title": "HC春季露营装备升级热 轻量化帐篷精华的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "精华",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.9,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "100000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "威猛先生_20260404T171651_1",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "家居清洁",
-      "products": [
-        "清洁剂",
-        "去污剂",
-        "厨房清洁"
-      ]
-    },
-    "title": "威猛先生清明假期余额不足 抓住最后时光清洁剂的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
-    "heat": "热",
-    "trend": "新",
-    "product": "清洁剂",
-    "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
-    ],
-    "quality_score": 0.91,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "110000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "威猛先生_20260404T171651_2",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "家居清洁",
-      "products": [
-        "清洁剂",
-        "去污剂",
-        "厨房清洁"
-      ]
-    },
-    "title": "威猛先生春季过敏高发期自救指南 敏感肌去污剂的情感共鸣",
-    "platform": "小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "去污剂",
-    "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
-    ],
-    "quality_score": 0.92,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "120000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "威猛先生_20260404T171651_3",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "家居清洁",
-      "products": [
-        "清洁剂",
-        "去污剂",
-        "厨房清洁"
-      ]
-    },
-    "title": "威猛先生春季露营装备升级热 轻量化帐篷厨房清洁的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "厨房清洁",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.93,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "130000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "舒适_20260404T171651_1",
-    "client": {
-      "brand": "舒适",
-      "industry": "个护/剃须",
-      "products": [
-        "剃须刀",
-        "剃须膏",
+      "brand": "AHC",
+      "industry": [
+        "美妆",
         "护肤"
       ]
     },
-    "title": "舒适清明假期余额不足 抓住最后时光剃须刀的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "AHC与浪姐第二场和第一场不：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "浪姐第二场和第一场不是一个节目 综艺争议引热议",
+    "hot_topic_id": "ht_202604050105_001",
     "heat": "热",
     "trend": "新",
-    "product": "剃须刀",
+    "product": "美妆",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "AHC",
+      "浪姐第二场和第一场不是一个节目",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.94,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "140000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "舒适_20260404T171651_2",
+    "id": "扩展_000274",
     "client": {
-      "brand": "舒适",
-      "industry": "个护/剃须",
-      "products": [
-        "剃须刀",
-        "剃须膏",
+      "brand": "AHC",
+      "industry": [
+        "美妆",
         "护肤"
       ]
     },
-    "title": "舒适春季过敏高发期自救指南 敏感肌剃须膏的情感共鸣",
+    "title": "AHC如何借势3岁女童被毒蛇咬伤假做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "新",
+    "trend": "热",
+    "product": "美妆",
+    "keywords": [
+      "AHC",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000275",
+    "client": {
+      "brand": "AHC",
+      "industry": [
+        "美妆",
+        "护肤"
+      ]
+    },
+    "title": "AHC联合苹果2026款Air打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
     "heat": "热",
     "trend": "新",
-    "product": "剃须膏",
+    "product": "美妆",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "AHC",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
     ],
     "quality_score": 0.75,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "50000",
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "舒适_20260404T171651_3",
+    "id": "扩展_000276",
     "client": {
-      "brand": "舒适",
-      "industry": "个护/剃须",
-      "products": [
-        "剃须刀",
-        "剃须膏",
+      "brand": "多芬",
+      "industry": [
+        "美妆",
+        "个护"
+      ]
+    },
+    "title": "多芬与浪姐第二场和第一场不：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "浪姐第二场和第一场不是一个节目 综艺争议引热议",
+    "hot_topic_id": "ht_202604050105_001",
+    "heat": "热",
+    "trend": "新",
+    "product": "美妆",
+    "keywords": [
+      "多芬",
+      "浪姐第二场和第一场不是一个节目",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000277",
+    "client": {
+      "brand": "多芬",
+      "industry": [
+        "美妆",
+        "个护"
+      ]
+    },
+    "title": "多芬如何借势3岁女童被毒蛇咬伤假做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "新",
+    "trend": "热",
+    "product": "美妆",
+    "keywords": [
+      "多芬",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000278",
+    "client": {
+      "brand": "多芬",
+      "industry": [
+        "美妆",
+        "个护"
+      ]
+    },
+    "title": "多芬联合苹果2026款Air打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "美妆",
+    "keywords": [
+      "多芬",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000279",
+    "client": {
+      "brand": "力士",
+      "industry": [
+        "美妆",
+        "个护"
+      ]
+    },
+    "title": "力士与浪姐第二场和第一场不：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "浪姐第二场和第一场不是一个节目 综艺争议引热议",
+    "hot_topic_id": "ht_202604050105_001",
+    "heat": "热",
+    "trend": "新",
+    "product": "美妆",
+    "keywords": [
+      "力士",
+      "浪姐第二场和第一场不是一个节目",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000280",
+    "client": {
+      "brand": "力士",
+      "industry": [
+        "美妆",
+        "个护"
+      ]
+    },
+    "title": "力士如何借势3岁女童被毒蛇咬伤假做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "新",
+    "trend": "热",
+    "product": "美妆",
+    "keywords": [
+      "力士",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000281",
+    "client": {
+      "brand": "力士",
+      "industry": [
+        "美妆",
+        "个护"
+      ]
+    },
+    "title": "力士联合苹果2026款Air打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "美妆",
+    "keywords": [
+      "力士",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000282",
+    "client": {
+      "brand": "清扬",
+      "industry": [
+        "美妆",
+        "洗护"
+      ]
+    },
+    "title": "清扬与浪姐第二场和第一场不：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "浪姐第二场和第一场不是一个节目 综艺争议引热议",
+    "hot_topic_id": "ht_202604050105_001",
+    "heat": "热",
+    "trend": "新",
+    "product": "美妆",
+    "keywords": [
+      "清扬",
+      "浪姐第二场和第一场不是一个节目",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000283",
+    "client": {
+      "brand": "清扬",
+      "industry": [
+        "美妆",
+        "洗护"
+      ]
+    },
+    "title": "清扬如何借势3岁女童被毒蛇咬伤假做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "新",
+    "trend": "热",
+    "product": "美妆",
+    "keywords": [
+      "清扬",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000284",
+    "client": {
+      "brand": "清扬",
+      "industry": [
+        "美妆",
+        "洗护"
+      ]
+    },
+    "title": "清扬联合苹果2026款Air打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "美妆",
+    "keywords": [
+      "清扬",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000285",
+    "client": {
+      "brand": "玉兰油",
+      "industry": [
+        "美妆",
         "护肤"
       ]
     },
-    "title": "舒适春季露营装备升级热 轻量化帐篷护肤的科普内容",
+    "title": "玉兰油与浪姐第二场和第一场不：跨界营销新思路",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
+    "angle": "热点借势",
+    "hot_topic": "浪姐第二场和第一场不是一个节目 综艺争议引热议",
+    "hot_topic_id": "ht_202604050105_001",
     "heat": "热",
     "trend": "新",
-    "product": "护肤",
+    "product": "美妆",
     "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
+      "玉兰油",
+      "浪姐第二场和第一场不是一个节目",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.76,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "60000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "希宝_20260404T171651_1",
+    "id": "扩展_000286",
+    "client": {
+      "brand": "玉兰油",
+      "industry": [
+        "美妆",
+        "护肤"
+      ]
+    },
+    "title": "玉兰油如何借势3岁女童被毒蛇咬伤假做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "新",
+    "trend": "热",
+    "product": "美妆",
+    "keywords": [
+      "玉兰油",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000287",
+    "client": {
+      "brand": "玉兰油",
+      "industry": [
+        "美妆",
+        "护肤"
+      ]
+    },
+    "title": "玉兰油联合苹果2026款Air打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "美妆",
+    "keywords": [
+      "玉兰油",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000288",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": [
+        "健康",
+        "保健品"
+      ]
+    },
+    "title": "汤臣倍健与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "健康",
+    "keywords": [
+      "汤臣倍健",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000289",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": [
+        "健康",
+        "保健品"
+      ]
+    },
+    "title": "汤臣倍健如何借势苹果2026款Air做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "新",
+    "trend": "热",
+    "product": "健康",
+    "keywords": [
+      "汤臣倍健",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000290",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": [
+        "健康",
+        "保健品"
+      ]
+    },
+    "title": "汤臣倍健联合中国首款WSBK冠军打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "中国首款WSBK冠军摩托车量产 国产摩托崛起引自豪",
+    "hot_topic_id": "ht_202604050105_007",
+    "heat": "热",
+    "trend": "新",
+    "product": "健康",
+    "keywords": [
+      "汤臣倍健",
+      "中国首款WSBK冠军摩托车量产",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000291",
+    "client": {
+      "brand": "善存",
+      "industry": [
+        "健康",
+        "维生素"
+      ]
+    },
+    "title": "善存与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "健康",
+    "keywords": [
+      "善存",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000292",
+    "client": {
+      "brand": "善存",
+      "industry": [
+        "健康",
+        "维生素"
+      ]
+    },
+    "title": "善存如何借势苹果2026款Air做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "新",
+    "trend": "热",
+    "product": "健康",
+    "keywords": [
+      "善存",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000293",
+    "client": {
+      "brand": "善存",
+      "industry": [
+        "健康",
+        "维生素"
+      ]
+    },
+    "title": "善存联合中国首款WSBK冠军打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "中国首款WSBK冠军摩托车量产 国产摩托崛起引自豪",
+    "hot_topic_id": "ht_202604050105_007",
+    "heat": "热",
+    "trend": "新",
+    "product": "健康",
+    "keywords": [
+      "善存",
+      "中国首款WSBK冠军摩托车量产",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000294",
+    "client": {
+      "brand": "HC",
+      "industry": [
+        "健康",
+        "护理"
+      ]
+    },
+    "title": "HC与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "健康",
+    "keywords": [
+      "HC",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000295",
+    "client": {
+      "brand": "HC",
+      "industry": [
+        "健康",
+        "护理"
+      ]
+    },
+    "title": "HC如何借势苹果2026款Air做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "新",
+    "trend": "热",
+    "product": "健康",
+    "keywords": [
+      "HC",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000296",
+    "client": {
+      "brand": "HC",
+      "industry": [
+        "健康",
+        "护理"
+      ]
+    },
+    "title": "HC联合中国首款WSBK冠军打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "中国首款WSBK冠军摩托车量产 国产摩托崛起引自豪",
+    "hot_topic_id": "ht_202604050105_007",
+    "heat": "热",
+    "trend": "新",
+    "product": "健康",
+    "keywords": [
+      "HC",
+      "中国首款WSBK冠军摩托车量产",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000297",
+    "client": {
+      "brand": "威猛先生",
+      "industry": [
+        "家居",
+        "清洁"
+      ]
+    },
+    "title": "威猛先生与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "家居",
+    "keywords": [
+      "威猛先生",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000298",
+    "client": {
+      "brand": "威猛先生",
+      "industry": [
+        "家居",
+        "清洁"
+      ]
+    },
+    "title": "威猛先生如何借势苹果2026款Air做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "新",
+    "trend": "热",
+    "product": "家居",
+    "keywords": [
+      "威猛先生",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000299",
+    "client": {
+      "brand": "威猛先生",
+      "industry": [
+        "家居",
+        "清洁"
+      ]
+    },
+    "title": "威猛先生联合中国首款WSBK冠军打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "中国首款WSBK冠军摩托车量产 国产摩托崛起引自豪",
+    "hot_topic_id": "ht_202604050105_007",
+    "heat": "热",
+    "trend": "新",
+    "product": "家居",
+    "keywords": [
+      "威猛先生",
+      "中国首款WSBK冠军摩托车量产",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000300",
+    "client": {
+      "brand": "舒适",
+      "industry": [
+        "家居",
+        "个护"
+      ]
+    },
+    "title": "舒适与浪姐第二场和第一场不：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "浪姐第二场和第一场不是一个节目 综艺争议引热议",
+    "hot_topic_id": "ht_202604050105_001",
+    "heat": "热",
+    "trend": "新",
+    "product": "家居",
+    "keywords": [
+      "舒适",
+      "浪姐第二场和第一场不是一个节目",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000301",
+    "client": {
+      "brand": "舒适",
+      "industry": [
+        "家居",
+        "个护"
+      ]
+    },
+    "title": "舒适如何借势3岁女童被毒蛇咬伤假做品牌传播",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
+    "heat": "新",
+    "trend": "热",
+    "product": "家居",
+    "keywords": [
+      "舒适",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000302",
+    "client": {
+      "brand": "舒适",
+      "industry": [
+        "家居",
+        "个护"
+      ]
+    },
+    "title": "舒适联合苹果2026款Air打造爆款内容",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "家居",
+    "keywords": [
+      "舒适",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T01:08:07"
+  },
+  {
+    "id": "扩展_000303",
     "client": {
       "brand": "希宝",
-      "industry": "宠物食品",
-      "products": [
-        "猫粮",
-        "猫罐头",
-        "猫零食"
+      "industry": [
+        "宠物",
+        "食品"
       ]
     },
-    "title": "希宝清明假期余额不足 抓住最后时光猫粮的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "希宝与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
     "heat": "热",
     "trend": "新",
-    "product": "猫粮",
+    "product": "宠物",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "希宝",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.77,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "70000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "希宝_20260404T171651_2",
+    "id": "扩展_000304",
     "client": {
       "brand": "希宝",
-      "industry": "宠物食品",
-      "products": [
-        "猫粮",
-        "猫罐头",
-        "猫零食"
+      "industry": [
+        "宠物",
+        "食品"
       ]
     },
-    "title": "希宝春季过敏高发期自救指南 敏感肌猫罐头的情感共鸣",
+    "title": "希宝如何借势第一批00后开始有登做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "猫罐头",
+    "hot_topic": "第一批00后开始有登味了 代际话题引热议",
+    "hot_topic_id": "ht_202604050105_009",
+    "heat": "新",
+    "trend": "热",
+    "product": "宠物",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "希宝",
+      "第一批00后开始有登味了",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.78,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "80000",
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "希宝_20260404T171651_3",
-    "client": {
-      "brand": "希宝",
-      "industry": "宠物食品",
-      "products": [
-        "猫粮",
-        "猫罐头",
-        "猫零食"
-      ]
-    },
-    "title": "希宝春季露营装备升级热 轻量化帐篷猫零食的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "猫零食",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.79,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "90000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "皇家_20260404T171651_1",
+    "id": "扩展_000305",
     "client": {
       "brand": "皇家",
-      "industry": "宠物食品",
-      "products": [
-        "猫粮",
-        "狗粮",
-        "宠物营养品"
+      "industry": [
+        "宠物",
+        "食品"
       ]
     },
-    "title": "皇家清明假期余额不足 抓住最后时光猫粮的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "皇家与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
     "heat": "热",
     "trend": "新",
-    "product": "猫粮",
+    "product": "宠物",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "皇家",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.8,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "100000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "皇家_20260404T171651_2",
+    "id": "扩展_000306",
     "client": {
       "brand": "皇家",
-      "industry": "宠物食品",
-      "products": [
-        "猫粮",
-        "狗粮",
-        "宠物营养品"
+      "industry": [
+        "宠物",
+        "食品"
       ]
     },
-    "title": "皇家春季过敏高发期自救指南 敏感肌狗粮的情感共鸣",
+    "title": "皇家如何借势第一批00后开始有登做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "狗粮",
+    "hot_topic": "第一批00后开始有登味了 代际话题引热议",
+    "hot_topic_id": "ht_202604050105_009",
+    "heat": "新",
+    "trend": "热",
+    "product": "宠物",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "皇家",
+      "第一批00后开始有登味了",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.81,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "110000",
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "皇家_20260404T171651_3",
-    "client": {
-      "brand": "皇家",
-      "industry": "宠物食品",
-      "products": [
-        "猫粮",
-        "狗粮",
-        "宠物营养品"
-      ]
-    },
-    "title": "皇家春季露营装备升级热 轻量化帐篷宠物营养品的科普内容",
-    "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
-    "heat": "热",
-    "trend": "新",
-    "product": "宠物营养品",
-    "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
-    ],
-    "quality_score": 0.82,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "120000",
-    "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
-  },
-  {
-    "id": "OATLY_20260404T171651_1",
+    "id": "扩展_000307",
     "client": {
       "brand": "OATLY",
-      "industry": "食品/植物奶",
-      "products": [
-        "燕麦奶",
-        "燕麦饮",
-        "咖啡伴侣"
+      "industry": [
+        "食品",
+        "健康饮品"
       ]
     },
-    "title": "OATLY清明假期余额不足 抓住最后时光燕麦奶的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "OATLY与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
     "heat": "热",
     "trend": "新",
-    "product": "燕麦奶",
+    "product": "食品",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "OATLY",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.83,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "130000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "OATLY_20260404T171651_2",
+    "id": "扩展_000308",
     "client": {
       "brand": "OATLY",
-      "industry": "食品/植物奶",
-      "products": [
-        "燕麦奶",
-        "燕麦饮",
-        "咖啡伴侣"
+      "industry": [
+        "食品",
+        "健康饮品"
       ]
     },
-    "title": "OATLY春季过敏高发期自救指南 敏感肌燕麦饮的情感共鸣",
+    "title": "OATLY如何借势苹果2026款Air做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "燕麦饮",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "新",
+    "trend": "热",
+    "product": "食品",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "OATLY",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.84,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "140000",
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "OATLY_20260404T171651_3",
+    "id": "扩展_000309",
     "client": {
       "brand": "OATLY",
-      "industry": "食品/植物奶",
-      "products": [
-        "燕麦奶",
-        "燕麦饮",
-        "咖啡伴侣"
+      "industry": [
+        "食品",
+        "健康饮品"
       ]
     },
-    "title": "OATLY春季露营装备升级热 轻量化帐篷咖啡伴侣的科普内容",
+    "title": "OATLY联合中国首款WSBK冠军打造爆款内容",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
+    "angle": "热点借势",
+    "hot_topic": "中国首款WSBK冠军摩托车量产 国产摩托崛起引自豪",
+    "hot_topic_id": "ht_202604050105_007",
     "heat": "热",
     "trend": "新",
-    "product": "咖啡伴侣",
+    "product": "食品",
     "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
+      "OATLY",
+      "中国首款WSBK冠军摩托车量产",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.85,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "50000",
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "百威_20260404T171651_1",
+    "id": "扩展_000310",
     "client": {
       "brand": "百威",
-      "industry": "酒饮",
-      "products": [
-        "啤酒",
-        "精酿",
-        "低醇啤酒"
+      "industry": [
+        "食品",
+        "饮料"
       ]
     },
-    "title": "百威清明假期余额不足 抓住最后时光啤酒的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "百威与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
     "heat": "热",
     "trend": "新",
-    "product": "啤酒",
+    "product": "食品",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "百威",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.86,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "60000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "百威_20260404T171651_2",
+    "id": "扩展_000311",
     "client": {
       "brand": "百威",
-      "industry": "酒饮",
-      "products": [
-        "啤酒",
-        "精酿",
-        "低醇啤酒"
+      "industry": [
+        "食品",
+        "饮料"
       ]
     },
-    "title": "百威春季过敏高发期自救指南 敏感肌精酿的情感共鸣",
+    "title": "百威如何借势苹果2026款Air做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "精酿",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "新",
+    "trend": "热",
+    "product": "食品",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "百威",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.87,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "70000",
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "百威_20260404T171651_3",
+    "id": "扩展_000312",
     "client": {
       "brand": "百威",
-      "industry": "酒饮",
-      "products": [
-        "啤酒",
-        "精酿",
-        "低醇啤酒"
+      "industry": [
+        "食品",
+        "饮料"
       ]
     },
-    "title": "百威春季露营装备升级热 轻量化帐篷低醇啤酒的科普内容",
+    "title": "百威联合中国首款WSBK冠军打造爆款内容",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
+    "angle": "热点借势",
+    "hot_topic": "中国首款WSBK冠军摩托车量产 国产摩托崛起引自豪",
+    "hot_topic_id": "ht_202604050105_007",
     "heat": "热",
     "trend": "新",
-    "product": "低醇啤酒",
+    "product": "食品",
     "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
+      "百威",
+      "中国首款WSBK冠军摩托车量产",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.88,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "80000",
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "元气森林_20260404T171651_1",
+    "id": "扩展_000313",
     "client": {
       "brand": "元气森林",
-      "industry": "饮料",
-      "products": [
-        "气泡水",
-        "无糖茶",
-        "电解质水",
-        "乳茶"
+      "industry": [
+        "食品",
+        "饮料"
       ]
     },
-    "title": "元气森林清明假期余额不足 抓住最后时光气泡水的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "元气森林与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
     "heat": "热",
     "trend": "新",
-    "product": "气泡水",
+    "product": "食品",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "元气森林",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.89,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "90000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "元气森林_20260404T171651_2",
+    "id": "扩展_000314",
     "client": {
       "brand": "元气森林",
-      "industry": "饮料",
-      "products": [
-        "气泡水",
-        "无糖茶",
-        "电解质水",
-        "乳茶"
+      "industry": [
+        "食品",
+        "饮料"
       ]
     },
-    "title": "元气森林春季过敏高发期自救指南 敏感肌无糖茶的情感共鸣",
+    "title": "元气森林如何借势苹果2026款Air做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "无糖茶",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "新",
+    "trend": "热",
+    "product": "食品",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "元气森林",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.9,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "100000",
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "元气森林_20260404T171651_3",
+    "id": "扩展_000315",
     "client": {
       "brand": "元气森林",
-      "industry": "饮料",
-      "products": [
-        "气泡水",
-        "无糖茶",
-        "电解质水",
-        "乳茶"
+      "industry": [
+        "食品",
+        "饮料"
       ]
     },
-    "title": "元气森林春季露营装备升级热 轻量化帐篷电解质水的科普内容",
+    "title": "元气森林联合中国首款WSBK冠军打造爆款内容",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
+    "angle": "热点借势",
+    "hot_topic": "中国首款WSBK冠军摩托车量产 国产摩托崛起引自豪",
+    "hot_topic_id": "ht_202604050105_007",
     "heat": "热",
     "trend": "新",
-    "product": "电解质水",
+    "product": "食品",
     "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
+      "元气森林",
+      "中国首款WSBK冠军摩托车量产",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.91,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "110000",
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "农夫山泉_20260404T171651_1",
+    "id": "扩展_000316",
     "client": {
       "brand": "农夫山泉",
-      "industry": "饮料/水",
-      "products": [
-        "矿泉水",
-        "茶饮料",
-        "果汁",
-        "功能饮料"
+      "industry": [
+        "食品",
+        "饮料"
       ]
     },
-    "title": "农夫山泉清明假期余额不足 抓住最后时光矿泉水的场景种草",
-    "platform": "微博",
-    "angle": "场景种草",
-    "hot_topic": "清明假期余额不足 抓住最后时光打卡网红景点",
-    "hot_topic_id": "ht_202604041714_001",
+    "title": "农夫山泉与3岁女童被毒蛇咬伤假：跨界营销新思路",
+    "platform": "抖音",
+    "angle": "热点借势",
+    "hot_topic": "3岁女童被毒蛇咬伤假死3天奇迹生还 生命奇迹引关注",
+    "hot_topic_id": "ht_202604050105_002",
     "heat": "热",
     "trend": "新",
-    "product": "矿泉水",
+    "product": "食品",
     "keywords": [
-      "清明假期余额不足",
-      "抓住最后时光打卡网红景点"
+      "农夫山泉",
+      "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.92,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "120000",
+    "quality_score": 0.65,
+    "quality_level": "A级",
+    "engagement_estimate": "8万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "农夫山泉_20260404T171651_2",
+    "id": "扩展_000317",
     "client": {
       "brand": "农夫山泉",
-      "industry": "饮料/水",
-      "products": [
-        "矿泉水",
-        "茶饮料",
-        "果汁",
-        "功能饮料"
+      "industry": [
+        "食品",
+        "饮料"
       ]
     },
-    "title": "农夫山泉春季过敏高发期自救指南 敏感肌茶饮料的情感共鸣",
+    "title": "农夫山泉如何借势苹果2026款Air做品牌传播",
     "platform": "小红书",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发期自救指南 敏感肌人群必看",
-    "hot_topic_id": "ht_202604041714_002",
-    "heat": "热",
-    "trend": "新",
-    "product": "茶饮料",
+    "hot_topic": "苹果2026款AirPods Pro前瞻 红外摄像头新手势引期待",
+    "hot_topic_id": "ht_202604050105_005",
+    "heat": "新",
+    "trend": "热",
+    "product": "食品",
     "keywords": [
-      "春季过敏高发期自救指南",
-      "敏感肌人群必看"
+      "农夫山泉",
+      "苹果2026款AirPods",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.93,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "130000",
+    "quality_score": 0.7000000000000001,
+    "quality_level": "A级",
+    "engagement_estimate": "10万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   },
   {
-    "id": "农夫山泉_20260404T171651_3",
+    "id": "扩展_000318",
     "client": {
       "brand": "农夫山泉",
-      "industry": "饮料/水",
-      "products": [
-        "矿泉水",
-        "茶饮料",
-        "果汁",
-        "功能饮料"
+      "industry": [
+        "食品",
+        "饮料"
       ]
     },
-    "title": "农夫山泉春季露营装备升级热 轻量化帐篷果汁的科普内容",
+    "title": "农夫山泉联合中国首款WSBK冠军打造爆款内容",
     "platform": "抖音",
-    "angle": "科普内容",
-    "hot_topic": "春季露营装备升级热 轻量化帐篷和便携桌椅成爆款",
-    "hot_topic_id": "ht_202604041714_003",
+    "angle": "热点借势",
+    "hot_topic": "中国首款WSBK冠军摩托车量产 国产摩托崛起引自豪",
+    "hot_topic_id": "ht_202604050105_007",
     "heat": "热",
     "trend": "新",
-    "product": "果汁",
+    "product": "食品",
     "keywords": [
-      "春季露营装备升级热",
-      "轻量化帐篷和便携桌椅成爆款"
+      "农夫山泉",
+      "中国首款WSBK冠军摩托车量产",
+      "热点",
+      "营销"
     ],
-    "quality_score": 0.94,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "140000",
+    "quality_score": 0.75,
+    "quality_level": "B级",
+    "engagement_estimate": "12万+",
     "status": "pending",
-    "created_at": "2026-04-04T17:16:51"
+    "created_at": "2026-04-05T01:08:07"
   }
 ]
