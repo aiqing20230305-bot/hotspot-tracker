@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/echarts-wordcloud@2.1.0/dist/echarts-wordcloud.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
     <style>
         *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
         :root {
@@ -4261,7 +4262,7 @@
                                 <span style="color: var(--gray-600); font-size: 12px;">${trend}</span>
                             </div>
                         </div>
-                        <button class="fav-btn" id="fav-btn-${index}" data-topic-id="${topic.title}" onclick="event.stopPropagation(); toggleFavorite('${topic.title}', '${topic.title.replace(/'/g, "\\'")}', '${topic.platform}', '${topic.heat || ""}')">
+                        <button class="fav-btn" id="fav-btn-${index}" data-id="${topic.title}" onclick="event.stopPropagation(); toggleFavorite(this)">
                             <span>☆</span><span>收藏</span>
                         </button>
                         <span class="expand-icon">▼</span>
@@ -4612,8 +4613,17 @@
             }
         }
         
-        // 切换收藏状态
-        function toggleFavorite(topicId, topicTitle, platform, heat) {
+        // 切换收藏状态（XSS安全：使用data-id属性传递，不再拼接title字符串）
+        function toggleFavorite(btn) {
+            const topicId = btn.getAttribute('data-id');
+            if (!topicId) return;
+            
+            // 从 allTopics 中查找对应的话题数据（避免直接使用不可信参数）
+            const topic = allTopics.find(t => t.title === topicId);
+            const topicTitle = topic ? topic.title : topicId;
+            const platform = topic ? topic.platform : '';
+            const heat = topic ? (topic.heat || '') : '';
+            
             loadFavorites();
             
             if (favoritesData[topicId]) {
