@@ -1,8 +1,393 @@
 [
   {
+    "id": "ht_202604041422_001",
+    "title": "清明早间高速拥堵持续 多地启动应急疏导",
+    "hot_value": 492000000,
+    "platform": "微博/抖音",
+    "industries": [
+      "交通",
+      "旅游"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "旅游热点",
+    "sentiment": "中性",
+    "keywords": [
+      "清明",
+      "高速",
+      "拥堵",
+      "出行",
+      "交通"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林",
+      "OATLY"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 1,
+    "category": "旅游热点",
+    "trend_tags": [
+      "#清明出行",
+      "#高速路况",
+      "#假期出行"
+    ],
+    "url": "https://weibo.com",
+    "logic": "假期出行高峰+交通拥堵引发关注",
+    "trend": "🔥🔥🔥 爆发式增长"
+  },
+  {
+    "id": "ht_202604041422_002",
+    "title": "清明祭扫迎来早高峰 文明祭祀成主流",
+    "hot_value": 485000000,
+    "platform": "微博/小红书",
+    "industries": [
+      "社会",
+      "文化"
+    ],
+    "trends": [
+      "爆",
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "清明",
+      "祭扫",
+      "文明祭祀",
+      "环保",
+      "传统"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 2,
+    "category": "社会热点",
+    "trend_tags": [
+      "#文明祭祀",
+      "#清明祭祖",
+      "#环保清明"
+    ],
+    "url": "https://weibo.com",
+    "logic": "传统节日+文明祭祀观念升级",
+    "trend": "🔥🔥🔥 持续上升"
+  },
+  {
+    "id": "ht_202604041422_003",
+    "title": "清明假期露营日出打卡 小红书美图刷屏",
+    "hot_value": 478000000,
+    "platform": "小红书/抖音",
+    "industries": [
+      "旅游",
+      "户外"
+    ],
+    "trends": [
+      "热",
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "清明",
+      "露营",
+      "日出",
+      "踏青",
+      "打卡"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林",
+      "OATLY",
+      "百威"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 3,
+    "category": "旅游热点",
+    "trend_tags": [
+      "#清明露营",
+      "#日出打卡",
+      "#踏青攻略"
+    ],
+    "url": "https://xiaohongshu.com",
+    "logic": "户外生活方式兴起+假期社交打卡",
+    "trend": "🔥🔥🔥 新晋热点"
+  },
+  {
+    "id": "ht_202604041422_004",
+    "title": "清明档电影首日票房破2亿 观影热潮涌动",
+    "hot_value": 468000000,
+    "platform": "微博/抖音",
+    "industries": [
+      "娱乐",
+      "电影"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "正面",
+    "keywords": [
+      "清明档",
+      "电影",
+      "票房",
+      "观影",
+      "娱乐"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林",
+      "百威"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 4,
+    "category": "娱乐热点",
+    "trend_tags": [
+      "#清明档电影",
+      "#电影推荐",
+      "#假期观影"
+    ],
+    "url": "https://weibo.com",
+    "logic": "档期票房爆发+观影社交需求",
+    "trend": "🔥🔥 持续上升"
+  },
+  {
+    "id": "ht_202604041422_005",
+    "title": "春季晨跑热潮兴起 健身博主分享打卡攻略",
+    "hot_value": 455000000,
+    "platform": "抖音/小红书",
+    "industries": [
+      "健身",
+      "健康"
+    ],
+    "trends": [
+      "热",
+      "新"
+    ],
+    "type": "大健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "晨跑",
+      "春季",
+      "健身",
+      "运动",
+      "健康"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存",
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 5,
+    "category": "大健康热点",
+    "trend_tags": [
+      "#春季晨跑",
+      "#健身打卡",
+      "#运动生活"
+    ],
+    "url": "https://douyin.com",
+    "logic": "全民健身热潮+季节性运动需求",
+    "trend": "🔥🔥🔥 新晋热点"
+  },
+  {
+    "id": "ht_202604041422_006",
+    "title": "清明假期早餐消费激增 外卖早茶订单翻倍",
+    "hot_value": 448000000,
+    "platform": "微博/抖音",
+    "industries": [
+      "餐饮",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "快消热点",
+    "sentiment": "正面",
+    "keywords": [
+      "清明",
+      "早餐",
+      "外卖",
+      "消费",
+      "早茶"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林",
+      "OATLY"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 6,
+    "category": "快消热点",
+    "trend_tags": [
+      "#假期早餐",
+      "#外卖推荐",
+      "#早茶文化"
+    ],
+    "url": "https://weibo.com",
+    "logic": "假期消费场景+餐饮外卖需求激增",
+    "trend": "🔥🔥 稳定上升"
+  },
+  {
+    "id": "ht_202604041422_007",
+    "title": "春季敏感肌护理攻略 防晒修护成刚需",
+    "hot_value": 442000000,
+    "platform": "小红书/微博",
+    "industries": [
+      "美妆",
+      "护肤"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "敏感肌",
+      "防晒",
+      "护肤",
+      "春季",
+      "修护"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "多芬",
+      "力士"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 7,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#敏感肌护肤",
+      "#防晒攻略",
+      "#春季护肤"
+    ],
+    "url": "https://xiaohongshu.com",
+    "logic": "换季护肤刚需+敏感肌护理需求",
+    "trend": "🔥🔥 稳定上升"
+  },
+  {
+    "id": "ht_202604041422_008",
+    "title": "AI视频生成工具爆火 创作者效率革命",
+    "hot_value": 435000000,
+    "platform": "微博/B站",
+    "industries": [
+      "科技",
+      "AI"
+    ],
+    "trends": [
+      "爆",
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "AI",
+      "视频生成",
+      "创作",
+      "效率",
+      "科技"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "索尼",
+      "罗技"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 8,
+    "category": "科技热点",
+    "trend_tags": [
+      "#AI创作",
+      "#视频生成",
+      "#科技前沿"
+    ],
+    "url": "https://weibo.com",
+    "logic": "AI技术突破+创作效率变革",
+    "trend": "🔥🔥🔥 爆发式增长"
+  },
+  {
+    "id": "ht_202604041422_009",
+    "title": "清明假期宠物寄养爆满 萌宠酒店一房难求",
+    "hot_value": 428000000,
+    "platform": "抖音/小红书",
+    "industries": [
+      "宠物",
+      "服务"
+    ],
+    "trends": [
+      "热",
+      "新"
+    ],
+    "type": "母婴热点",
+    "sentiment": "正面",
+    "keywords": [
+      "宠物",
+      "寄养",
+      "清明",
+      "萌宠",
+      "假期"
+    ],
+    "c": [
+      "希宝",
+      "皇家"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 9,
+    "category": "母婴热点",
+    "trend_tags": [
+      "#宠物寄养",
+      "#萌宠生活",
+      "#假期养宠"
+    ],
+    "url": "https://douyin.com",
+    "logic": "宠物经济崛起+假期寄养需求爆发",
+    "trend": "🔥🔥🔥 新晋热点"
+  },
+  {
+    "id": "ht_202604041422_010",
+    "title": "新能源汽车清明出行 充电桩排队引热议",
+    "hot_value": 422000000,
+    "platform": "微博/抖音",
+    "industries": [
+      "汽车",
+      "新能源"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "汽车热点",
+    "sentiment": "中性",
+    "keywords": [
+      "新能源",
+      "充电桩",
+      "出行",
+      "电动车",
+      "续航"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-04T14:22:05",
+    "rank": 10,
+    "category": "汽车热点",
+    "trend_tags": [
+      "#新能源出行",
+      "#充电桩",
+      "#电动车续航"
+    ],
+    "url": "https://weibo.com",
+    "logic": "新能源出行普及+假期出行痛点",
+    "trend": "🔥🔥 稳定"
+  },
+  {
     "id": "ht_1",
     "title": "清明假期最后一天返程拥堵 高速多条线路红色预警",
-    "hot_value": 502000000,
+    "hot_value": 506668507,
     "platform": "微博/抖音",
     "industries": [
       "旅游",
@@ -27,7 +412,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 1,
+    "rank": 11,
     "category": "旅游热点",
     "trend_tags": [
       "#清明返程",
@@ -35,12 +420,14 @@
       "#假期出行"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新概念传播+话题裂变",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_2",
     "title": "2026清明档总票房突破8亿 国产片占比超八成",
-    "hot_value": 498000000,
+    "hot_value": 496136473,
     "platform": "微博/B站",
     "industries": [
       "娱乐",
@@ -65,7 +452,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 2,
+    "rank": 12,
     "category": "娱乐热点",
     "trend_tags": [
       "#清明档票房",
@@ -73,12 +460,14 @@
       "#假期观影"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "突发热点+全网刷屏",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_3",
     "title": "清明返程高峰提前到来 高铁站现万人排队场景",
-    "hot_value": 498000000,
+    "hot_value": 512717534,
     "platform": "微博/抖音",
     "industries": [
       "旅游",
@@ -103,7 +492,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 3,
+    "rank": 13,
     "category": "旅游热点",
     "trend_tags": [
       "#清明返程",
@@ -111,12 +500,14 @@
       "#假期出行"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "假日经济带动+文旅消费升级",
+    "trend": "🔥🔥🔥 持续上升"
   },
   {
     "id": "ht_4",
     "title": "AI大模型价格战升级 免费商用时代来临",
-    "hot_value": 495000000,
+    "hot_value": 496600861,
     "platform": "微博/B站",
     "industries": [
       "科技",
@@ -142,7 +533,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 4,
+    "rank": 14,
     "category": "科技热点",
     "trend_tags": [
       "#AI大模型",
@@ -150,12 +541,14 @@
       "#免费商用"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "AI持续火热+全民讨论",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_5",
     "title": "踏青露营成清明假期首选 城市周边营地一帐难求",
-    "hot_value": 495000000,
+    "hot_value": 483559939,
     "platform": "小红书/抖音",
     "industries": [
       "旅游",
@@ -180,7 +573,7 @@
       "百威"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 5,
+    "rank": 15,
     "category": "旅游热点",
     "trend_tags": [
       "#踏青露营",
@@ -188,12 +581,14 @@
       "#周末露营"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新品发布+市场关注",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_6",
     "title": "春日野餐风潮席卷社交媒体 年轻人打卡城市公园",
-    "hot_value": 492000000,
+    "hot_value": 470545058,
     "platform": "小红书/微博",
     "industries": [
       "美食",
@@ -218,7 +613,7 @@
       "百威"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 6,
+    "rank": 16,
     "category": "美食热点",
     "trend_tags": [
       "#春日野餐",
@@ -226,12 +621,14 @@
       "#周末野餐"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "行业趋势+消费者关注",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_7",
     "title": "清明假期后半程迎客流高峰 故宫博物院连续三日预约爆满",
-    "hot_value": 492000000,
+    "hot_value": 510085413,
     "platform": "微博/抖音",
     "industries": [
       "旅游",
@@ -255,7 +652,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 7,
+    "rank": 17,
     "category": "旅游热点",
     "trend_tags": [
       "#清明旅游",
@@ -263,12 +660,14 @@
       "#假期出行"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "旅游旺季+户外休闲需求",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_8",
     "title": "春季限定饮品大战 茶饮品牌推出花果新品",
-    "hot_value": 490000000,
+    "hot_value": 478468407,
     "platform": "小红书/抖音",
     "industries": [
       "食品",
@@ -293,7 +692,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 8,
+    "rank": 18,
     "category": "美食热点",
     "trend_tags": [
       "#春季限定",
@@ -301,12 +700,14 @@
       "#茶饮大战"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "话题传播+社交裂变",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_9",
     "title": "清明档电影票房破5亿 观影成假期热门娱乐方式",
-    "hot_value": 489000000,
+    "hot_value": 483653746,
     "platform": "微博/抖音",
     "industries": [
       "娱乐",
@@ -331,7 +732,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 9,
+    "rank": 19,
     "category": "娱乐热点",
     "trend_tags": [
       "#清明档电影",
@@ -339,12 +740,14 @@
       "#电影推荐"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "档期票房效应+观影消费热潮",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_10",
     "title": "周末brunch文化持续升温 年轻人掀起早午餐社交潮",
-    "hot_value": 489000000,
+    "hot_value": 481327246,
     "platform": "小红书/抖音",
     "industries": [
       "美食",
@@ -370,7 +773,7 @@
       "百威"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 10,
+    "rank": 20,
     "category": "美食热点",
     "trend_tags": [
       "#周末Brunch",
@@ -378,12 +781,14 @@
       "#社交美食"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新品发布+市场关注",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_11",
     "title": "春季换季穿搭话题爆火 极简风成年轻人首选",
-    "hot_value": 487000000,
+    "hot_value": 509675313,
     "platform": "小红书/抖音",
     "industries": [
       "时尚",
@@ -409,7 +814,7 @@
       "HC"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 11,
+    "rank": 21,
     "category": "美妆热点",
     "trend_tags": [
       "#春季穿搭",
@@ -417,12 +822,14 @@
       "#换季时尚"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新品发布+市场关注",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_12",
     "title": "清明节后花粉浓度再创新高 过敏患者需加强防护",
-    "hot_value": 487000000,
+    "hot_value": 485949752,
     "platform": "微博/小红书",
     "industries": [
       "健康",
@@ -448,7 +855,7 @@
       "善存"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 12,
+    "rank": 22,
     "category": "大健康热点",
     "trend_tags": [
       "#花粉过敏",
@@ -456,12 +863,14 @@
       "#健康提醒"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "季节性健康需求+养生话题",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_13",
     "title": "春季养生成热门话题 年轻人掀起朋克养生潮",
-    "hot_value": 486000000,
+    "hot_value": 506049194,
     "platform": "小红书/抖音",
     "industries": [
       "健康",
@@ -487,7 +896,7 @@
       "玉兰油"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 13,
+    "rank": 23,
     "category": "大健康热点",
     "trend_tags": [
       "#春季养生",
@@ -495,12 +904,14 @@
       "#年轻人健康"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "季节性健康需求+养生话题",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_14",
     "title": "宠物外出旅行箱热销 带宠物回家成清明新风尚",
-    "hot_value": 484000000,
+    "hot_value": 477264379,
     "platform": "抖音/小红书",
     "industries": [
       "宠物",
@@ -524,7 +935,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 14,
+    "rank": 24,
     "category": "母婴热点",
     "trend_tags": [
       "#宠物旅行",
@@ -532,12 +943,14 @@
       "#清明出行"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新趋势兴起+用户好奇",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_15",
     "title": "樱花季打卡火爆 各地公园迎来赏花高峰",
-    "hot_value": 484000000,
+    "hot_value": 466857422,
     "platform": "抖音/小红书",
     "industries": [
       "旅游",
@@ -561,7 +974,7 @@
       "小米"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 15,
+    "rank": 25,
     "category": "旅游热点",
     "trend_tags": [
       "#樱花季",
@@ -569,12 +982,14 @@
       "#春日花海"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "季节性旅游高峰+社交打卡传播",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_16",
     "title": "周末商场人流回升 清明特卖带动消费小高峰",
-    "hot_value": 483000000,
+    "hot_value": 459815023,
     "platform": "微博/小红书",
     "industries": [
       "零售",
@@ -599,7 +1014,7 @@
       "力士"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 16,
+    "rank": 26,
     "category": "快消热点",
     "trend_tags": [
       "#周末逛街",
@@ -607,12 +1022,14 @@
       "#消费复苏"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "季节性消费+快消品促销",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_17",
     "title": "春季新品发布会扎堆 科技数码圈迎来发布季",
-    "hot_value": 482000000,
+    "hot_value": 464549688,
     "platform": "微博/B站",
     "industries": [
       "科技",
@@ -638,7 +1055,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 17,
+    "rank": 27,
     "category": "科技热点",
     "trend_tags": [
       "#春季发布会",
@@ -646,12 +1063,14 @@
       "#科技圈"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "科技产品发布+用户期待",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_18",
     "title": "春季护肤防晒指数飙升 防晒衣和防晒帽成出行标配",
-    "hot_value": 481000000,
+    "hot_value": 476917823,
     "platform": "小红书/微博",
     "industries": [
       "美妆",
@@ -677,7 +1096,7 @@
       "力士"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 18,
+    "rank": 28,
     "category": "美妆热点",
     "trend_tags": [
       "#春季防晒",
@@ -685,12 +1104,14 @@
       "#硬防晒"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "美妆趋势+社交平台种草",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_19",
     "title": "AI视频生成工具席卷内容创作圈 创作者效率提升10倍",
-    "hot_value": 481000000,
+    "hot_value": 493978523,
     "platform": "微博/B站",
     "industries": [
       "科技",
@@ -716,7 +1137,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 19,
+    "rank": 29,
     "category": "科技热点",
     "trend_tags": [
       "#AI创作",
@@ -724,12 +1145,14 @@
       "#内容创作"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "爆款内容+病毒式传播",
+    "trend": "🔥🔥🔥 持续上升"
   },
   {
     "id": "ht_20",
     "title": "春茶上市引发抢购热潮 茶文化体验馆预约爆满",
-    "hot_value": 480000000,
+    "hot_value": 482489738,
     "platform": "小红书/微博",
     "industries": [
       "食品",
@@ -753,7 +1176,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 20,
+    "rank": 30,
     "category": "美食热点",
     "trend_tags": [
       "#春茶上市",
@@ -761,12 +1184,14 @@
       "#品茶体验"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "事件驱动+舆论热议",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_21",
     "title": "清明假期宠物寄养需求井喷 专业宠物酒店价格普涨",
-    "hot_value": 479000000,
+    "hot_value": 501589994,
     "platform": "抖音/小红书",
     "industries": [
       "宠物",
@@ -789,7 +1214,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 21,
+    "rank": 31,
     "category": "母婴热点",
     "trend_tags": [
       "#宠物寄养",
@@ -797,12 +1222,14 @@
       "#养宠生活"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "母婴消费升级+品质需求",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_22",
     "title": "露营烧烤装备销量翻倍 户外烹饪成新社交方式",
-    "hot_value": 478000000,
+    "hot_value": 494406130,
     "platform": "抖音/小红书",
     "industries": [
       "旅游",
@@ -827,7 +1254,7 @@
       "百威"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 22,
+    "rank": 32,
     "category": "美食热点",
     "trend_tags": [
       "#露营烧烤",
@@ -835,12 +1262,14 @@
       "#社交露营"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新趋势兴起+用户好奇",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_23",
     "title": "春季装修旺季来临 全屋定制咨询量激增",
-    "hot_value": 478000000,
+    "hot_value": 499809511,
     "platform": "微博/小红书",
     "industries": [
       "家居",
@@ -864,7 +1293,7 @@
       "威猛先生"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 23,
+    "rank": 33,
     "category": "家居热点",
     "trend_tags": [
       "#春季装修",
@@ -872,12 +1301,14 @@
       "#家居设计"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "话题传播+社交裂变",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_24",
     "title": "宠物春游成新风尚 宠物友好景区受追捧",
-    "hot_value": 476000000,
+    "hot_value": 481822459,
     "platform": "抖音/小红书",
     "industries": [
       "宠物",
@@ -901,7 +1332,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T11:58:35",
-    "rank": 24,
+    "rank": 34,
     "category": "母婴热点",
     "trend_tags": [
       "#宠物春游",
@@ -909,12 +1340,14 @@
       "#带宠出游"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "宠物消费+假期寄养需求",
+    "trend": "🔥🔥🔥 持续上升"
   },
   {
     "id": "ht_25",
     "title": "春季护肤进入关键期 功效型精华液销量持续走高",
-    "hot_value": 476000000,
+    "hot_value": 474778254,
     "platform": "小红书/微博",
     "industries": [
       "美妆",
@@ -940,7 +1373,7 @@
       "HC"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 25,
+    "rank": 35,
     "category": "美妆热点",
     "trend_tags": [
       "#春季护肤",
@@ -948,12 +1381,14 @@
       "#功效护肤"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "美妆趋势+社交平台种草",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_26",
     "title": "春季过敏用药需求激增 抗组胺药和鼻喷雾断货",
-    "hot_value": 475000000,
+    "hot_value": 455091600,
     "platform": "微博/小红书",
     "industries": [
       "健康",
@@ -979,7 +1414,7 @@
       "玉兰油"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 26,
+    "rank": 36,
     "category": "大健康热点",
     "trend_tags": [
       "#春季过敏",
@@ -987,12 +1422,14 @@
       "#健康提醒"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "全民健身趋势+健康消费升级",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_27",
     "title": "周末户外运动热潮来袭 骑行跑步成主流健身方式",
-    "hot_value": 475000000,
+    "hot_value": 477048408,
     "platform": "抖音/小红书",
     "industries": [
       "健身",
@@ -1018,7 +1455,7 @@
       "元气森林"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 27,
+    "rank": 37,
     "category": "大健康热点",
     "trend_tags": [
       "#周末运动",
@@ -1026,12 +1463,14 @@
       "#户外跑步"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "健康生活方式+营养品需求",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_28",
     "title": "青团成为清明节令爆款 各大品牌纷纷推出创新口味",
-    "hot_value": 473000000,
+    "hot_value": 474238963,
     "platform": "小红书/抖音",
     "industries": [
       "美食",
@@ -1055,7 +1494,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 28,
+    "rank": 38,
     "category": "美食热点",
     "trend_tags": [
       "#青团推荐",
@@ -1063,12 +1502,14 @@
       "#节令食品"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "话题传播+社交裂变",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_29",
     "title": "居家健身器材热销 智能跳绳和瑜伽垫成入门首选",
-    "hot_value": 472000000,
+    "hot_value": 457475583,
     "platform": "抖音/小红书",
     "industries": [
       "健身",
@@ -1094,7 +1535,7 @@
       "善存"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 29,
+    "rank": 39,
     "category": "大健康热点",
     "trend_tags": [
       "#居家健身",
@@ -1102,12 +1543,14 @@
       "#运动入门"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "季节性健康需求+养生话题",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_30",
     "title": "清明假期新能源车充电难题再现 高速服务区排队数小时",
-    "hot_value": 471000000,
+    "hot_value": 448512670,
     "platform": "微博/抖音",
     "industries": [
       "汽车",
@@ -1130,7 +1573,7 @@
       "荣耀"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 30,
+    "rank": 40,
     "category": "汽车热点",
     "trend_tags": [
       "#新能源充电",
@@ -1138,12 +1581,14 @@
       "#续航焦虑"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "智能驾驶热点+购车需求",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_31",
     "title": "智能扫地机器人市场份额再创新高 追赶式清洁成卖点",
-    "hot_value": 468000000,
+    "hot_value": 484025932,
     "platform": "微博/小红书",
     "industries": [
       "家居",
@@ -1167,7 +1612,7 @@
       "威猛先生"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 31,
+    "rank": 41,
     "category": "家居热点",
     "trend_tags": [
       "#扫地机器人",
@@ -1175,12 +1620,14 @@
       "#清洁科技"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "事件驱动+舆论热议",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_32",
     "title": "智能家居生态持续扩张 全屋智能成为装修新标配",
-    "hot_value": 468000000,
+    "hot_value": 457942108,
     "platform": "微博/小红书",
     "industries": [
       "科技",
@@ -1204,7 +1651,7 @@
       "索尼"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 32,
+    "rank": 42,
     "category": "数码热点",
     "trend_tags": [
       "#智能家居",
@@ -1212,12 +1659,14 @@
       "#科技生活"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "热点事件发酵+全网关注",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_33",
     "title": "春季游戏新品扎堆发布 玩家周末宅家打游戏",
-    "hot_value": 466000000,
+    "hot_value": 484631524,
     "platform": "微博/B站",
     "industries": [
       "游戏",
@@ -1242,7 +1691,7 @@
       "小米"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 33,
+    "rank": 43,
     "category": "娱乐热点",
     "trend_tags": [
       "#周末游戏",
@@ -1250,12 +1699,14 @@
       "#宅家娱乐"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "影视作品热度+粉丝传播效应",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_34",
     "title": "植物基蛋白零食赛道爆发 素食主义渐成主流",
-    "hot_value": 465000000,
+    "hot_value": 468796458,
     "platform": "小红书/抖音",
     "industries": [
       "食品",
@@ -1280,7 +1731,7 @@
       "农夫山泉"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 34,
+    "rank": 44,
     "category": "食品热点",
     "trend_tags": [
       "#植物基",
@@ -1288,12 +1739,14 @@
       "#健康零食"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新品发布+市场关注",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_35",
     "title": "春季头皮护理成刚需 防脱生发产品搜索量激增",
-    "hot_value": 464000000,
+    "hot_value": 483702228,
     "platform": "小红书/微博",
     "industries": [
       "美妆",
@@ -1318,7 +1771,7 @@
       "AHC"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 35,
+    "rank": 45,
     "category": "美妆热点",
     "trend_tags": [
       "#头皮护理",
@@ -1326,12 +1779,14 @@
       "#春季护发"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "成分党护肤理念深化+产品种草",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_36",
     "title": "男生护肤市场持续增长 男士面膜销量同比翻倍",
-    "hot_value": 462000000,
+    "hot_value": 443512217,
     "platform": "小红书/微博",
     "industries": [
       "美妆",
@@ -1357,7 +1812,7 @@
       "力士"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 36,
+    "rank": 46,
     "category": "美妆热点",
     "trend_tags": [
       "#男士护肤",
@@ -1365,12 +1820,14 @@
       "#面膜推荐"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新概念传播+话题裂变",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_37",
     "title": "节后大扫除带动清洁用品热销 厨房重灾区清洁指南",
-    "hot_value": 462000000,
+    "hot_value": 451805765,
     "platform": "抖音/小红书",
     "industries": [
       "家居",
@@ -1393,7 +1850,7 @@
       "舒适"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 37,
+    "rank": 47,
     "category": "家居热点",
     "trend_tags": [
       "#节后清洁",
@@ -1401,12 +1858,14 @@
       "#大扫除"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "行业趋势+消费者关注",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_38",
     "title": "周末咖啡文化持续流行 精品咖啡馆成打卡圣地",
-    "hot_value": 460000000,
+    "hot_value": 457047356,
     "platform": "小红书/微博",
     "industries": [
       "美食",
@@ -1431,7 +1890,7 @@
       "农夫山泉"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 38,
+    "rank": 48,
     "category": "美食热点",
     "trend_tags": [
       "#周末咖啡",
@@ -1439,12 +1898,14 @@
       "#咖啡馆打卡"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新概念传播+话题裂变",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_39",
     "title": "春季踏青骑行路线推荐热帖 小红书骑行内容增长200%",
-    "hot_value": 458000000,
+    "hot_value": 472097406,
     "platform": "小红书/抖音",
     "industries": [
       "健身",
@@ -1469,7 +1930,7 @@
       "汤臣倍健"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 39,
+    "rank": 49,
     "category": "大健康热点",
     "trend_tags": [
       "#春季骑行",
@@ -1477,12 +1938,14 @@
       "#踏青运动"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "健康管理意识提升+运动消费",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_40",
     "title": "科学养宠理念深入人心 宠物营养品市场持续扩容",
-    "hot_value": 458000000,
+    "hot_value": 450319541,
     "platform": "抖音/小红书",
     "industries": [
       "宠物",
@@ -1505,7 +1968,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 40,
+    "rank": 50,
     "category": "母婴热点",
     "trend_tags": [
       "#科学养宠",
@@ -1513,12 +1976,14 @@
       "#健康养宠"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "宠物经济崛起+消费升级",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_41",
     "title": "家长担忧孩子屏幕时间过长 护眼产品迎来销售旺季",
-    "hot_value": 456000000,
+    "hot_value": 459012454,
     "platform": "微博/小红书",
     "industries": [
       "健康",
@@ -1543,7 +2008,7 @@
       "玉兰油"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 41,
+    "rank": 51,
     "category": "大健康热点",
     "trend_tags": [
       "#护眼健康",
@@ -1551,12 +2016,14 @@
       "#孩子健康"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "健康生活方式+营养品需求",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_42",
     "title": "电解质饮料赛道持续火热 运动后补水意识增强",
-    "hot_value": 455000000,
+    "hot_value": 466917512,
     "platform": "抖音/小红书",
     "industries": [
       "食品",
@@ -1580,7 +2047,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 42,
+    "rank": 52,
     "category": "食品热点",
     "trend_tags": [
       "#电解质水",
@@ -1588,12 +2055,14 @@
       "#健康饮料"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "热点事件发酵+全网关注",
+    "trend": "🔥🔥🔥 持续上升"
   },
   {
     "id": "ht_43",
     "title": "智能穿戴设备健康监测功能升级 心电图检测成标配",
-    "hot_value": 454000000,
+    "hot_value": 438536135,
     "platform": "微博/抖音",
     "industries": [
       "科技",
@@ -1617,7 +2086,7 @@
       "索尼"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 43,
+    "rank": 53,
     "category": "科技热点",
     "trend_tags": [
       "#智能穿戴",
@@ -1625,12 +2094,14 @@
       "#心电图"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "科技热点+消费电子需求",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_44",
     "title": "猫咪智能喂食器成为养宠家庭标配 远程投喂成刚需",
-    "hot_value": 452000000,
+    "hot_value": 444300697,
     "platform": "抖音/小红书",
     "industries": [
       "宠物",
@@ -1654,7 +2125,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 44,
+    "rank": 54,
     "category": "母婴热点",
     "trend_tags": [
       "#智能喂食",
@@ -1662,12 +2133,14 @@
       "#猫咪用品"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新概念传播+话题裂变",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_45",
     "title": "春季妆容趋势出炉 清新自然风成主流审美",
-    "hot_value": 452000000,
+    "hot_value": 433692854,
     "platform": "小红书/抖音",
     "industries": [
       "美妆",
@@ -1693,7 +2166,7 @@
       "HC"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 45,
+    "rank": 55,
     "category": "服装热点",
     "trend_tags": [
       "#春季妆容",
@@ -1701,12 +2174,14 @@
       "#自然美妆"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "热点事件发酵+全网关注",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_46",
     "title": "周末宅酒店成新风尚 本地游带动高端酒店预订",
-    "hot_value": 450000000,
+    "hot_value": 466010296,
     "platform": "小红书/微博",
     "industries": [
       "旅游",
@@ -1731,7 +2206,7 @@
       "百威"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 46,
+    "rank": 56,
     "category": "旅游热点",
     "trend_tags": [
       "#周末宅酒店",
@@ -1739,12 +2214,14 @@
       "#staycation"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新品发布+市场关注",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_47",
     "title": "春日Citywalk持续走红 年轻人探索城市新玩法",
-    "hot_value": 449000000,
+    "hot_value": 438790875,
     "platform": "小红书/抖音",
     "industries": [
       "旅游",
@@ -1770,7 +2247,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 47,
+    "rank": 57,
     "category": "旅游热点",
     "trend_tags": [
       "#Citywalk",
@@ -1778,12 +2255,14 @@
       "#春日出行"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新概念传播+话题裂变",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_48",
     "title": "春季健身带动蛋白粉销量增长 运动营养市场火爆",
-    "hot_value": 448000000,
+    "hot_value": 425697388,
     "platform": "抖音/小红书",
     "industries": [
       "健康",
@@ -1806,7 +2285,7 @@
       "善存"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 48,
+    "rank": 58,
     "category": "大健康热点",
     "trend_tags": [
       "#蛋白粉",
@@ -1814,12 +2293,14 @@
       "#运动补剂"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "全民健身趋势+健康消费升级",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_49",
     "title": "运动手表销量持续攀升 跑步爱好者装备升级",
-    "hot_value": 446000000,
+    "hot_value": 444837034,
     "platform": "微博/抖音",
     "industries": [
       "科技",
@@ -1843,7 +2324,7 @@
       "索尼"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 49,
+    "rank": 59,
     "category": "科技热点",
     "trend_tags": [
       "#运动手表",
@@ -1851,12 +2332,14 @@
       "#健身科技"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "前沿科技趋势+行业变革",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_50",
     "title": "周末追剧成为主要娱乐方式 长视频平台会员增长",
-    "hot_value": 446000000,
+    "hot_value": 433030538,
     "platform": "微博/抖音",
     "industries": [
       "娱乐",
@@ -1880,7 +2363,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 50,
+    "rank": 60,
     "category": "娱乐热点",
     "trend_tags": [
       "#周末追剧",
@@ -1888,12 +2371,14 @@
       "#会员"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "明星效应+社交平台传播",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_51",
     "title": "口腔护理升级带动电动牙刷普及 智能洁牙成趋势",
-    "hot_value": 444000000,
+    "hot_value": 435141103,
     "platform": "小红书/微博",
     "industries": [
       "美妆",
@@ -1917,7 +2402,7 @@
       "力士"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 51,
+    "rank": 61,
     "category": "美妆热点",
     "trend_tags": [
       "#电动牙刷",
@@ -1925,12 +2410,14 @@
       "#智能洁牙"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "换季护肤需求+美妆消费旺季",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_52",
     "title": "春季手冲咖啡教学视频走红 家用咖啡器具销量大涨",
-    "hot_value": 443000000,
+    "hot_value": 448848367,
     "platform": "小红书/B站",
     "industries": [
       "美食",
@@ -1955,7 +2442,7 @@
       "农夫山泉"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 52,
+    "rank": 62,
     "category": "美食热点",
     "trend_tags": [
       "#手冲咖啡",
@@ -1963,12 +2450,14 @@
       "#居家咖啡"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "事件驱动+舆论热议",
+    "trend": "🔥🔥🔥 持续上升"
   },
   {
     "id": "ht_53",
     "title": "植物奶市场竞争加剧 国产品牌崛起挑战OATLY地位",
-    "hot_value": 442000000,
+    "hot_value": 434896278,
     "platform": "微博/小红书",
     "industries": [
       "食品",
@@ -1993,7 +2482,7 @@
       "农夫山泉"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 53,
+    "rank": 63,
     "category": "食品热点",
     "trend_tags": [
       "#植物奶",
@@ -2001,12 +2490,14 @@
       "#国产崛起"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新品发布+市场关注",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_54",
     "title": "春季断舍离风潮再起 家居收纳整理师需求激增",
-    "hot_value": 440000000,
+    "hot_value": 423175691,
     "platform": "小红书/抖音",
     "industries": [
       "家居",
@@ -2030,7 +2521,7 @@
       "小米"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 54,
+    "rank": 64,
     "category": "家居热点",
     "trend_tags": [
       "#春季断舍离",
@@ -2038,12 +2529,14 @@
       "#家居生活"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "热点事件发酵+全网关注",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_55",
     "title": "电竞外设市场持续火热 高端机械键盘成 gamers 标配",
-    "hot_value": 440000000,
+    "hot_value": 461477792,
     "platform": "B站/微博",
     "industries": [
       "游戏",
@@ -2067,7 +2560,7 @@
       "荣耀"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 55,
+    "rank": 65,
     "category": "数码热点",
     "trend_tags": [
       "#电竞外设",
@@ -2075,12 +2568,14 @@
       "#游戏装备"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "行业趋势+消费者关注",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_56",
     "title": "春季宠物领养热潮来临 流浪动物救助站迎来高峰",
-    "hot_value": 438000000,
+    "hot_value": 454810301,
     "platform": "抖音/小红书",
     "industries": [
       "宠物",
@@ -2103,7 +2598,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 56,
+    "rank": 66,
     "category": "母婴热点",
     "trend_tags": [
       "#宠物领养",
@@ -2111,12 +2606,14 @@
       "#救助公益"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "育儿话题+宝妈社群传播",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_57",
     "title": "春季面部精华油走俏 以油养肤成护肤新趋势",
-    "hot_value": 437000000,
+    "hot_value": 449782638,
     "platform": "小红书/微博",
     "industries": [
       "美妆",
@@ -2142,7 +2639,7 @@
       "力士"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 57,
+    "rank": 67,
     "category": "美妆热点",
     "trend_tags": [
       "#以油养肤",
@@ -2150,12 +2647,14 @@
       "#春季护肤"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新概念传播+话题裂变",
+    "trend": "🔥🔥🔥 持续上升"
   },
   {
     "id": "ht_58",
     "title": "成分党护肤理念持续流行 烟酰胺视黄醇成热门成分",
-    "hot_value": 436000000,
+    "hot_value": 456913014,
     "platform": "小红书/微博",
     "industries": [
       "美妆",
@@ -2179,7 +2678,7 @@
       "HC"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 58,
+    "rank": 68,
     "category": "美妆热点",
     "trend_tags": [
       "#成分党",
@@ -2187,12 +2686,14 @@
       "#护肤成分"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "美妆趋势+社交平台种草",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_59",
     "title": "无糖气泡水进入竞争下半场 功能性气泡水成新方向",
-    "hot_value": 434000000,
+    "hot_value": 434109760,
     "platform": "小红书/抖音",
     "industries": [
       "食品",
@@ -2216,7 +2717,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 59,
+    "rank": 69,
     "category": "食品热点",
     "trend_tags": [
       "#无糖气泡水",
@@ -2224,12 +2725,14 @@
       "#饮品趋势"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "行业趋势+消费者关注",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_60",
     "title": "旅行收纳神器走红社交平台 出行装备升级成趋势",
-    "hot_value": 434000000,
+    "hot_value": 422797356,
     "platform": "小红书/抖音",
     "industries": [
       "旅游",
@@ -2254,7 +2757,7 @@
       "小米"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 60,
+    "rank": 70,
     "category": "旅游热点",
     "trend_tags": [
       "#旅行收纳",
@@ -2262,12 +2765,14 @@
       "#收纳神器"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新品发布+市场关注",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_61",
     "title": "科学饮水理念普及 电解质水和无糖茶成运动补水首选",
-    "hot_value": 432000000,
+    "hot_value": 410894232,
     "platform": "抖音/小红书",
     "industries": [
       "食品",
@@ -2291,7 +2796,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 61,
+    "rank": 71,
     "category": "食品热点",
     "trend_tags": [
       "#科学饮水",
@@ -2299,12 +2804,14 @@
       "#健康补水"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "话题传播+社交裂变",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_62",
     "title": "春季户外烧烤带动炭火食材销量 烧烤酱料品牌借势营销",
-    "hot_value": 431000000,
+    "hot_value": 421650407,
     "platform": "抖音/小红书",
     "industries": [
       "美食",
@@ -2329,7 +2836,7 @@
       "农夫山泉"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 62,
+    "rank": 72,
     "category": "美食热点",
     "trend_tags": [
       "#户外烧烤",
@@ -2337,12 +2844,14 @@
       "#烧烤社交"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "行业趋势+消费者关注",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_63",
     "title": "智能小家电需求旺盛 空气炸锅扫地机器人成刚需",
-    "hot_value": 430000000,
+    "hot_value": 408777090,
     "platform": "微博/小红书",
     "industries": [
       "家居",
@@ -2365,7 +2874,7 @@
       "荣耀"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 63,
+    "rank": 73,
     "category": "家居热点",
     "trend_tags": [
       "#智能家电",
@@ -2373,12 +2882,14 @@
       "#家居好物"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "行业趋势+消费者关注",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_64",
     "title": "宠物保险购买率上升 铲屎官为毛孩子健康买单",
-    "hot_value": 428000000,
+    "hot_value": 430277622,
     "platform": "微博/小红书",
     "industries": [
       "宠物",
@@ -2402,7 +2913,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 64,
+    "rank": 74,
     "category": "母婴热点",
     "trend_tags": [
       "#宠物保险",
@@ -2410,12 +2921,14 @@
       "#科学养宠"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新趋势兴起+用户好奇",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_65",
     "title": "周末约会经济升温 餐饮电影成为情侣消费主力",
-    "hot_value": 428000000,
+    "hot_value": 416254972,
     "platform": "微博/小红书",
     "industries": [
       "娱乐",
@@ -2439,7 +2952,7 @@
       "百威"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 65,
+    "rank": 75,
     "category": "快消热点",
     "trend_tags": [
       "#周末约会",
@@ -2447,12 +2960,14 @@
       "#约会经济"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "假期消费场景+饮品需求激增",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_66",
     "title": "周末在线学习需求旺盛 知识付费平台用户活跃",
-    "hot_value": 426000000,
+    "hot_value": 413424646,
     "platform": "微博/抖音",
     "industries": [
       "教育",
@@ -2476,7 +2991,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 66,
+    "rank": 76,
     "category": "教育热点",
     "trend_tags": [
       "#在线学习",
@@ -2484,12 +2999,14 @@
       "#周末充电"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "事件驱动+舆论热议",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_67",
     "title": "OATLY与咖啡品牌联名推新品 燕麦奶咖啡文化深化",
-    "hot_value": 425000000,
+    "hot_value": 429421540,
     "platform": "小红书/微博",
     "industries": [
       "食品",
@@ -2513,7 +3030,7 @@
       "元气森林"
     ],
     "created_at": "2026-04-04T12:59:00",
-    "rank": 67,
+    "rank": 77,
     "category": "食品热点",
     "trend_tags": [
       "#燕麦奶",
@@ -2521,12 +3038,14 @@
       "#植物奶"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T12:59:00"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "行业趋势+消费者关注",
+    "trend": "🔥🔥🔥 持续上升"
   },
   {
     "id": "ht_68",
     "title": "男士理容市场快速增长 剃须刀和护肤品成新蓝海",
-    "hot_value": 424000000,
+    "hot_value": 444917120,
     "platform": "微博/小红书",
     "industries": [
       "美妆",
@@ -2552,7 +3071,7 @@
       "力士"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 68,
+    "rank": 78,
     "category": "美妆热点",
     "trend_tags": [
       "#男士理容",
@@ -2560,12 +3079,14 @@
       "#男性美妆"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "成分党护肤理念深化+产品种草",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_69",
     "title": "低糖低卡饮品持续流行 无糖气泡水成年轻人首选",
-    "hot_value": 422000000,
+    "hot_value": 411283636,
     "platform": "小红书/抖音",
     "industries": [
       "食品",
@@ -2589,7 +3110,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 69,
+    "rank": 79,
     "category": "食品热点",
     "trend_tags": [
       "#无糖饮品",
@@ -2597,12 +3118,14 @@
       "#低糖生活"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "事件驱动+舆论热议",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_70",
     "title": "周末拍照打卡带火摄影器材 微单和手机云台销量攀升",
-    "hot_value": 420000000,
+    "hot_value": 412759892,
     "platform": "抖音/小红书",
     "industries": [
       "科技",
@@ -2626,7 +3149,7 @@
       "小米"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 70,
+    "rank": 80,
     "category": "数码热点",
     "trend_tags": [
       "#摄影器材",
@@ -2634,12 +3157,14 @@
       "#打卡装备"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "话题传播+社交裂变",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_71",
     "title": "新式茶饮市场竞争白热化 头部品牌大打价格战",
-    "hot_value": 418000000,
+    "hot_value": 403385833,
     "platform": "微博/小红书",
     "industries": [
       "食品",
@@ -2663,7 +3188,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 71,
+    "rank": 81,
     "category": "食品热点",
     "trend_tags": [
       "#新式茶饮",
@@ -2671,12 +3196,14 @@
       "#价格战"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "事件驱动+舆论热议",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_72",
     "title": "睡眠经济持续升温 助眠产品和智能床垫受追捧",
-    "hot_value": 416000000,
+    "hot_value": 427390932,
     "platform": "小红书/微博",
     "industries": [
       "健康",
@@ -2700,7 +3227,7 @@
       "汤臣倍健"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 72,
+    "rank": 82,
     "category": "大健康热点",
     "trend_tags": [
       "#睡眠经济",
@@ -2708,12 +3235,14 @@
       "#健康睡眠"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "健康管理意识提升+运动消费",
+    "trend": "🔥🔥🔥 持续上升"
   },
   {
     "id": "ht_73",
     "title": "数字人民币应用场景持续扩展 更多城市支持刷手机乘车",
-    "hot_value": 414000000,
+    "hot_value": 418402484,
     "platform": "微博/抖音",
     "industries": [
       "科技",
@@ -2736,7 +3265,7 @@
       "荣耀"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 73,
+    "rank": 83,
     "category": "科技热点",
     "trend_tags": [
       "#数字人民币",
@@ -2744,11 +3273,13 @@
       "#智慧出行"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "前沿科技趋势+行业变革",
+    "trend": "🔥🔥🔥 持续上升"
   },
   {
     "title": "OpenAI完成1220亿美元融资 估值达8520亿美元",
-    "hot_value": 412060700,
+    "hot_value": 424503114,
     "url": "https://finance.sina.com.cn/stock/relnews/2026-04-01/doc-inhsxzph1878185.shtml",
     "platform": "微博/全网",
     "industries": [
@@ -2773,13 +3304,16 @@
       "索尼"
     ],
     "created_at": "2026-04-02T07:00:00",
-    "rank": 74,
-    "id": "ht_74"
+    "rank": 84,
+    "id": "ht_74",
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "事件爆发+舆论热议",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_75",
     "title": "周末户外用餐需求旺盛 露台餐酒吧成聚会首选",
-    "hot_value": 412000000,
+    "hot_value": 414603830,
     "platform": "小红书/抖音",
     "industries": [
       "美食",
@@ -2804,7 +3338,7 @@
       "农夫山泉"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 75,
+    "rank": 85,
     "category": "美食热点",
     "trend_tags": [
       "#户外用餐",
@@ -2812,12 +3346,14 @@
       "#周末聚会"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "热点事件发酵+全网关注",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_76",
     "title": "宠物美容服务持续走俏 专业宠物SPA馆遍地开花",
-    "hot_value": 410000000,
+    "hot_value": 408582848,
     "platform": "抖音/小红书",
     "industries": [
       "宠物",
@@ -2840,7 +3376,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 76,
+    "rank": 86,
     "category": "母婴热点",
     "trend_tags": [
       "#宠物美容",
@@ -2848,12 +3384,14 @@
       "#养宠生活"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "宠物消费+假期寄养需求",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_77",
     "title": "春季防晒意识增强 SPF50+防晒产品搜索量上涨",
-    "hot_value": 408000000,
+    "hot_value": 423087333,
     "platform": "小红书/微博",
     "industries": [
       "美妆",
@@ -2878,7 +3416,7 @@
       "力士"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 77,
+    "rank": 87,
     "category": "美妆热点",
     "trend_tags": [
       "#春季防晒",
@@ -2886,12 +3424,14 @@
       "#防晒霜"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "美妆趋势+社交平台种草",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_78",
     "title": "健康零食赛道持续火热 每日坚果和蛋白棒成爆款",
-    "hot_value": 406000000,
+    "hot_value": 401631932,
     "platform": "抖音/小红书",
     "industries": [
       "食品",
@@ -2915,7 +3455,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 78,
+    "rank": 88,
     "category": "美食热点",
     "trend_tags": [
       "#健康零食",
@@ -2923,12 +3463,14 @@
       "#代餐零食"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "事件驱动+舆论热议",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_79",
     "title": "智能安防产品走入千家万户 智能门锁普及率提升",
-    "hot_value": 404000000,
+    "hot_value": 400525703,
     "platform": "微博/抖音",
     "industries": [
       "家居",
@@ -2951,7 +3493,7 @@
       "荣耀"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 79,
+    "rank": 89,
     "category": "家居热点",
     "trend_tags": [
       "#智能门锁",
@@ -2959,12 +3501,14 @@
       "#智能家居"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "热点事件发酵+全网关注",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_80",
     "title": "周末听歌时长创新高 无损音质耳机成音乐爱好者刚需",
-    "hot_value": 402000000,
+    "hot_value": 394431994,
     "platform": "微博/小红书",
     "industries": [
       "娱乐",
@@ -2988,7 +3532,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 80,
+    "rank": 90,
     "category": "娱乐热点",
     "trend_tags": [
       "#无损音乐",
@@ -2996,12 +3540,14 @@
       "#周末听歌"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "明星效应+社交平台传播",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_81",
     "title": "露营经济持续火爆 天幕帐篷等装备销量倍增",
-    "hot_value": 400000000,
+    "hot_value": 384179582,
     "platform": "抖音/小红书",
     "industries": [
       "旅游",
@@ -3025,7 +3571,7 @@
       "百威"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 81,
+    "rank": 91,
     "category": "旅游热点",
     "trend_tags": [
       "#露营装备",
@@ -3033,12 +3579,14 @@
       "#帐篷推荐"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "旅游旺季+户外休闲需求",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_82",
     "title": "春季过敏性结膜炎高发 眼科医院迎来就诊高峰",
-    "hot_value": 398000000,
+    "hot_value": 396110147,
     "platform": "微博/小红书",
     "industries": [
       "健康",
@@ -3063,7 +3611,7 @@
       "玉兰油"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 82,
+    "rank": 92,
     "category": "大健康热点",
     "trend_tags": [
       "#春季过敏",
@@ -3071,11 +3619,13 @@
       "#眼睛健康"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "全民健身趋势+健康消费升级",
+    "trend": "🔥🔥 稳定"
   },
   {
     "title": "站姐愚人节互换门面引爆热搜 橹穆CP话题阅读量破2.4亿",
-    "hot_value": 397635676,
+    "hot_value": 417124986,
     "url": "https://new.qq.com/rain/a/20260401A04UGW00",
     "platform": "微博/全网",
     "industries": [
@@ -3098,13 +3648,16 @@
       "玉兰油"
     ],
     "created_at": "2026-04-02T00:00:00",
-    "rank": 83,
-    "id": "ht_83"
+    "rank": 93,
+    "id": "ht_83",
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "爆款内容+病毒式传播",
+    "trend": "🔥🔥🔥 爆发式增长"
   },
   {
     "id": "ht_84",
     "title": "周末厨房成为社交新场景 朋友圈晒厨艺成潮流",
-    "hot_value": 396000000,
+    "hot_value": 390476661,
     "platform": "小红书/抖音",
     "industries": [
       "美食",
@@ -3129,7 +3682,7 @@
       "农夫山泉"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 84,
+    "rank": 94,
     "category": "美食热点",
     "trend_tags": [
       "#周末下厨",
@@ -3137,12 +3690,14 @@
       "#厨房社交"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "新概念传播+话题裂变",
+    "trend": "🔥 下降"
   },
   {
     "id": "ht_85",
     "title": "洗地机成家居清洁新刚需 智能清洁赛道持续扩容",
-    "hot_value": 394000000,
+    "hot_value": 378435064,
     "platform": "微博/小红书",
     "industries": [
       "家居",
@@ -3166,7 +3721,7 @@
       "威猛先生"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 85,
+    "rank": 95,
     "category": "家居热点",
     "trend_tags": [
       "#洗地机",
@@ -3174,12 +3729,14 @@
       "#家居好物"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "话题传播+社交裂变",
+    "trend": "📉 明显下降"
   },
   {
     "id": "ht_86",
     "title": "周末亲子时光受重视 室内游乐场和绘本馆生意火爆",
-    "hot_value": 392000000,
+    "hot_value": 393810701,
     "platform": "抖音/小红书",
     "industries": [
       "母婴",
@@ -3203,7 +3760,7 @@
       "希宝"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 86,
+    "rank": 96,
     "category": "母婴热点",
     "trend_tags": [
       "#亲子周末",
@@ -3211,12 +3768,14 @@
       "#室内游乐"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "母婴消费升级+品质需求",
+    "trend": "🔥🔥 稳定"
   },
   {
     "id": "ht_87",
     "title": "春季过敏高发带动空气净化器热销 除甲醛需求同步上升",
-    "hot_value": 390000000,
+    "hot_value": 384465153,
     "platform": "微博/小红书",
     "industries": [
       "家居",
@@ -3240,7 +3799,7 @@
       "汤臣倍健"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 87,
+    "rank": 97,
     "category": "家居热点",
     "trend_tags": [
       "#空气净化器",
@@ -3248,11 +3807,13 @@
       "#春季过敏"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-04T11:58:35"
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "话题传播+社交裂变",
+    "trend": "🔥 下降"
   },
   {
     "title": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
-    "hot_value": 370068027,
+    "hot_value": 368503865,
     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903usn2.html",
     "platform": "微博/全网",
     "industries": [
@@ -3277,12 +3838,15 @@
       "罗技"
     ],
     "created_at": "2026-04-02T06:30:00",
-    "rank": 88,
-    "id": "ht_88"
+    "rank": 98,
+    "id": "ht_88",
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "爆款内容+病毒式传播",
+    "trend": "🔥🔥 稳定"
   },
   {
     "title": "清明节高速免费通行 全国迎来出行高峰",
-    "hot_value": 355496114,
+    "hot_value": 341081616,
     "url": "https://weibo.com",
     "platform": "全网",
     "industries": [
@@ -3306,12 +3870,15 @@
       "中国联通"
     ],
     "created_at": "2026-04-02T06:00:00",
-    "rank": 89,
-    "id": "ht_89"
+    "rank": 99,
+    "id": "ht_89",
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "传统节日文化+公众情感共鸣",
+    "trend": "📉 明显下降"
   },
   {
     "title": "东契奇轰42+12迎15000分里程碑 詹姆斯胜场超天勾",
-    "hot_value": 353023613,
+    "hot_value": 335791531,
     "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qgqi.html",
     "platform": "微博/抖音",
     "industries": [
@@ -3331,1680 +3898,10 @@
     ],
     "c": [],
     "created_at": "2026-04-02T07:15:00",
-    "rank": 90,
-    "id": "ht_90"
-  },
-  {
-    "title": "OpenAI宣布放弃视频生成工具Sora 成本过高成主因",
-    "hot_value": 341909066,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wiaq.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "中性",
-    "keywords": [
-      "OpenAI",
-      "Sora",
-      "视频生成",
-      "AI工具",
-      "成本"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T07:10:00",
-    "rank": 91,
-    "id": "ht_91"
-  },
-  {
-    "title": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
-    "hot_value": 319562288,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wg5a.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "航天"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "SpaceX",
-      "IPO",
-      "马斯克",
-      "太空探索",
-      "航天"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 92,
-    "id": "ht_92"
-  },
-  {
-    "title": "《黑神话:悟空》DLC预告发布 国产游戏再引全球关注",
-    "hot_value": 315949168,
-    "url": "https://bilibili.com",
-    "platform": "B站/微博",
-    "industries": [
-      "游戏"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "游戏热点",
-    "sentiment": "正面",
-    "keywords": [
-      "黑神话悟空",
-      "DLC",
-      "国产游戏",
-      "游戏预告"
-    ],
-    "c": [
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 93,
-    "id": "ht_93"
-  },
-  {
-    "title": "清明假期赏花游火爆 全国各地花期正当时",
-    "hot_value": 304606220,
-    "url": "https://weibo.com",
-    "platform": "小红书/抖音",
-    "industries": [
-      "旅游",
-      "生活"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "踏青",
-      "赏花",
-      "春游",
-      "旅游攻略"
-    ],
-    "c": [
-      "元气森林",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 94,
-    "id": "ht_94"
-  },
-  {
-    "title": "台湾艺人邱胜翊涉嫌伪造病历逃避兵役遭拘捕",
-    "hot_value": 302328233,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_94569cda3e090665",
-    "platform": "微博/全网",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "负面",
-    "keywords": [
-      "邱胜翊",
-      "王子",
-      "逃避兵役",
-      "台湾艺人",
-      "伪造病历"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T07:01:00",
-    "rank": 95,
-    "id": "ht_95"
-  },
-  {
-    "title": "全国多地迎来清明祭扫高峰 文明祭扫成主流",
-    "hot_value": 296823388,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "中性",
-    "keywords": [
-      "清明节",
-      "祭扫",
-      "祭祖",
-      "传统文化",
-      "缅怀先人"
-    ],
-    "c": [
-      "农夫山泉",
-      "康师傅"
-    ],
-    "created_at": "2026-04-02T06:30:00",
-    "rank": 96,
-    "id": "ht_96"
-  },
-  {
-    "title": "小米SU7交付量突破10万台 新能源汽车市场竞争加剧",
-    "hot_value": 257178575,
-    "url": "https://weibo.com",
-    "platform": "微博",
-    "industries": [
-      "汽车",
-      "科技"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "小米SU7",
-      "电动车",
-      "交付",
-      "雷军",
-      "新能源"
-    ],
-    "c": [
-      "小米"
-    ],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 97,
-    "id": "ht_97"
-  },
-  {
-    "title": "国产大飞机C919商业运营满一年 运送旅客超50万人次",
-    "hot_value": 255685199,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "航空"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "C919",
-      "大飞机",
-      "商业运营",
-      "中国制造",
-      "航空"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 98,
-    "id": "ht_98"
-  },
-  {
-    "title": "4月新规实施:后排未系安全带全国严查 违规将处罚",
-    "hot_value": 255544875,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "社会",
-      "交通"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "安全带",
-      "新规",
-      "交通法规",
-      "后排乘客",
-      "执法"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 99,
-    "id": "ht_99"
-  },
-  {
-    "title": "2026年全国高考改革方案公布 新变化引关注",
-    "hot_value": 241151171,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "教育"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "中性",
-    "keywords": [
-      "高考改革",
-      "教育改革",
-      "高考方案",
-      "新高考"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:00:00",
     "rank": 100,
-    "id": "ht_100"
-  },
-  {
-    "title": "全国两会精神学习贯彻热潮 各地掀起学习新高潮",
-    "hot_value": 238683533,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "社会",
-      "政治"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "两会",
-      "学习",
-      "贯彻",
-      "精神",
-      "发展"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 101,
-    "id": "ht_101"
-  },
-  {
-    "title": "中国空间站完成新一轮太空实验 航天员创造新纪录",
-    "hot_value": 235968058,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "航天"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "空间站",
-      "航天员",
-      "太空实验",
-      "中国航天"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 102,
-    "id": "ht_102"
-  },
-  {
-    "title": "孙俪新剧《危险关系》获赞 悬疑转型成功引热议",
-    "hot_value": 235187299,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_54669cd0e2212552",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "孙俪",
-      "危险关系",
-      "新剧",
-      "转型",
-      "悬疑剧"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士"
-    ],
-    "created_at": "2026-04-02T05:40:00",
-    "rank": 103,
-    "id": "ht_103"
-  },
-  {
-    "title": "智谱AI年营收7.24亿 同比增长132% MaaS平台ARR达17亿",
-    "hot_value": 232249171,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903v1ky.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "智谱AI",
-      "财报",
-      "大模型",
-      "商业化",
-      "MaaS"
-    ],
-    "c": [
-      "小米",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T06:45:00",
-    "rank": 104,
-    "id": "ht_104"
-  },
-  {
-    "title": "A股4月开门红 创业板指涨近2% 科创50涨超3%",
-    "hot_value": 229606756,
-    "url": "https://finance.sina.com.cn/jjxw/2026-04-01/doc-inhsysmc5034499.html",
-    "platform": "微博/全网",
-    "industries": [
-      "金融"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": [
-      "A股",
-      "创业板",
-      "科创50",
-      "股市",
-      "反弹"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 105,
-    "id": "ht_105"
-  },
-  {
-    "title": "青团销量暴增成网红爆款 清明传统美食受热捧",
-    "hot_value": 224362718,
-    "url": "https://weibo.com",
-    "platform": "全网",
-    "industries": [
-      "食品",
-      "电商"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明节",
-      "青团",
-      "传统美食",
-      "网红美食",
-      "春日限定"
-    ],
-    "c": [
-      "盒马",
-      "美团",
-      "饿了么"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 106,
-    "id": "ht_106"
-  },
-  {
-    "title": "中国科学家实现量子计算新突破 国际影响力提升",
-    "hot_value": 222976181,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "量子计算",
-      "科学家",
-      "技术突破",
-      "中国科技"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 107,
-    "id": "ht_107"
-  },
-  {
-    "title": "伊朗愿在诉求满足下结束战争 中东局势现转机",
-    "hot_value": 220261966,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_57869cccdcd11752",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "伊朗",
-      "中东",
-      "战争",
-      "和平",
-      "国际局势"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:40:00",
-    "rank": 108,
-    "id": "ht_108"
-  },
-  {
-    "title": "微软Microsoft 365 Copilot推三大升级 AI从助手变代理",
-    "hot_value": 213595907,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wdi4.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "互联网"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "微软",
-      "Copilot",
-      "AI代理",
-      "Office",
-      "人工智能"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T05:10:00",
-    "rank": 109,
-    "id": "ht_109"
-  },
-  {
-    "title": "孙颖莎轻取对手强势开启世界杯淘汰赛征程",
-    "hot_value": 209684885,
-    "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qk78.html",
-    "platform": "微博/全网",
-    "industries": [
-      "体育"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "体育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "孙颖莎",
-      "乒乓球",
-      "世界杯",
-      "国乒",
-      "淘汰赛"
-    ],
-    "c": [
-      "农夫山泉",
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-02T06:20:00",
-    "rank": 110,
-    "id": "ht_110"
-  },
-  {
-    "title": "2026清明档电影激战 《我,许可》《我的妈耶》领跑",
-    "hot_value": 206676678,
-    "url": "https://new.qq.com/rain/a/20260401A03KCB00",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清明档",
-      "电影",
-      "我许可",
-      "我的妈耶",
-      "马思纯"
-    ],
-    "c": [
-      "猫眼",
-      "淘票票"
-    ],
-    "created_at": "2026-04-02T06:00:00",
-    "rank": 111,
-    "id": "ht_111"
-  },
-  {
-    "title": "蚊子史诗级加强引热议 疾控部门紧急提醒防蚊",
-    "hot_value": 203443278,
-    "url": "https://www.xhby.net/content/s69cd371ce4b0639de44f4deb.html",
-    "platform": "微博/全网",
-    "industries": [
-      "生活",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "负面",
-    "keywords": [
-      "蚊子",
-      "疾控",
-      "健康提醒",
-      "夏季",
-      "防护"
-    ],
-    "c": [
-      "威猛先生",
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 112,
-    "id": "ht_112"
-  },
-  {
-    "title": "欧盟通过新数字法案 全球科技巨头面临更严格监管",
-    "hot_value": 203431266,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "国际"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "欧盟",
-      "数字法案",
-      "科技监管",
-      "隐私保护",
-      "反垄断"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 113,
-    "id": "ht_113"
-  },
-  {
-    "title": "Visa警告:AI不足以遏制新型诈骗浪潮 金融安全引关注",
-    "hot_value": 199412788,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wbx8.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "金融"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "负面",
-    "keywords": [
-      "Visa",
-      "AI诈骗",
-      "金融安全",
-      "深度伪造",
-      "网络安全"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 114,
-    "id": "ht_114"
-  },
-  {
-    "title": "数字人民币试点范围再扩大 应用场景持续丰富",
-    "hot_value": 189611861,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "金融",
-      "科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "数字人民币",
-      "试点",
-      "应用场景",
-      "数字货币"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 115,
-    "id": "ht_115"
-  },
-  {
-    "title": "王者荣耀世界英雄PV发布 玩家期待值拉满",
-    "hot_value": 187986748,
-    "url": "https://www.douyin.com/search/王者荣耀世界英雄PV",
-    "platform": "抖音/微博",
-    "industries": [
-      "游戏"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "游戏热点",
-    "sentiment": "正面",
-    "keywords": [
-      "王者荣耀",
-      "世界",
-      "英雄PV",
-      "手游",
-      "腾讯游戏"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:20:00",
-    "rank": 116,
-    "id": "ht_116"
-  },
-  {
-    "title": "张国荣逝世23周年 粉丝自发缅怀致敬传奇",
-    "hot_value": 186780475,
-    "url": "https://www.douyin.com/search/张国荣逝世23周年",
-    "platform": "抖音/微博",
-    "industries": [
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "中性",
-    "keywords": [
-      "张国荣",
-      "逝世23周年",
-      "愚人节",
-      "纪念",
-      "传奇"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士",
-      "多芬"
-    ],
-    "created_at": "2026-04-02T00:00:00",
-    "rank": 117,
-    "id": "ht_117"
-  },
-  {
-    "title": "美国通胀数据发布 美联储加息预期再起",
-    "hot_value": 184508212,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "经济"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "美国通胀",
-      "美联储",
-      "加息",
-      "CPI",
-      "货币政策"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 118,
-    "id": "ht_118"
-  },
-  {
-    "title": "乘风2026陶昕然人气飙升 安陵容浪姐连线甄嬛引爆情怀",
-    "hot_value": 184031589,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903udzm.html",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "综艺"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "乘风2026",
-      "陶昕然",
-      "浪姐",
-      "甄嬛传",
-      "安陵容"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "力士"
-    ],
-    "created_at": "2026-04-02T00:01:00",
-    "rank": 119,
-    "id": "ht_119"
-  },
-  {
-    "title": "G20峰会召开在即 全球经济治理成焦点",
-    "hot_value": 183899539,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "经济"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "G20",
-      "峰会",
-      "全球经济",
-      "治理",
-      "国际合作"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 120,
-    "id": "ht_120"
-  },
-  {
-    "title": "高校毕业生就业季来临 就业形势引关注",
-    "hot_value": 183164712,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "教育",
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "中性",
-    "keywords": [
-      "毕业生",
-      "就业",
-      "就业形势",
-      "求职",
-      "大学生"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 121,
-    "id": "ht_121"
-  },
-  {
-    "title": "碳达峰碳中和工作取得新进展 绿色发展成效显著",
-    "hot_value": 181944421,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "环保",
-      "经济"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "碳达峰",
-      "碳中和",
-      "绿色发展",
-      "环保",
-      "低碳"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 122,
-    "id": "ht_122"
-  },
-  {
-    "title": "新能源汽车下乡补贴政策出台 农村市场迎来发展新机遇",
-    "hot_value": 179805489,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "汽车",
-      "消费"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "新能源汽车",
-      "下乡补贴",
-      "农村市场",
-      "政策",
-      "消费"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 123,
-    "id": "ht_123"
-  },
-  {
-    "title": "春季招聘季开启 各大企业加大人才引进力度",
-    "hot_value": 173658776,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "社会",
-      "经济"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "春季招聘",
-      "就业",
-      "人才引进",
-      "求职",
-      "招聘季"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 124,
-    "id": "ht_124"
-  },
-  {
-    "title": "赵露思新剧《朝花不见愁》女主暂定 古装仙侠引期待",
-    "hot_value": 171993825,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_15569cd19bd48752",
-    "platform": "微博/小红书",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "赵露思",
-      "朝花不见愁",
-      "古装剧",
-      "仙侠",
-      "新剧"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "多芬"
-    ],
-    "created_at": "2026-04-02T04:25:00",
-    "rank": 125,
-    "id": "ht_125"
-  },
-  {
-    "title": "中科曙光发布全球首个单机柜级640卡超节点 算力龙头加速布局",
-    "hot_value": 169350548,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wdi4.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "中科曙光",
-      "超节点",
-      "AI算力",
-      "芯片",
-      "国产化"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 126,
-    "id": "ht_126"
-  },
-  {
-    "title": "2026LPL第二赛段赛程公布 4月4日开赛引期待",
-    "hot_value": 164044322,
-    "url": "http://weibo.com/u/5756404150",
-    "platform": "微博/B站",
-    "industries": [
-      "游戏",
-      "电竞"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "游戏热点",
-    "sentiment": "正面",
-    "keywords": [
-      "LPL",
-      "英雄联盟",
-      "电竞",
-      "赛程"
-    ],
-    "c": [
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 127,
-    "id": "ht_127"
-  },
-  {
-    "title": "意大利连续3届无缘世界杯 足球强国陷入低谷",
-    "hot_value": 163648671,
-    "url": "https://www.douyin.com/search/意大利连续3届无缘世界杯",
-    "platform": "抖音/微博",
-    "industries": [
-      "体育"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "体育热点",
-    "sentiment": "负面",
-    "keywords": [
-      "意大利",
-      "世界杯",
-      "足球",
-      "欧洲杯",
-      "出局"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 128,
-    "id": "ht_128"
-  },
-  {
-    "title": "全国植树节活动蓬勃开展 生态文明建设深入人心",
-    "hot_value": 163333837,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "环保",
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "植树节",
-      "生态环境",
-      "绿化",
-      "环保活动"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 129,
-    "id": "ht_129"
-  },
-  {
-    "title": "故宫博物院推出春季特展 传统文化受热捧",
-    "hot_value": 160049991,
-    "url": "https://weibo.com",
-    "platform": "微博/小红书",
-    "industries": [
-      "文化",
-      "旅游"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "文化热点",
-    "sentiment": "正面",
-    "keywords": [
-      "故宫",
-      "特展",
-      "传统文化",
-      "文物",
-      "博物馆"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 130,
-    "id": "ht_130"
-  },
-  {
-    "title": "张雪机车备战达喀尔拉力赛 中国摩托车队再创历史",
-    "hot_value": 155877665,
-    "url": "https://www.douyin.com/search/张雪备战达喀尔",
-    "platform": "抖音/微博",
-    "industries": [
-      "体育",
-      "消费"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "体育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "张雪机车",
-      "达喀尔",
-      "WSBK",
-      "中国制造",
-      "赛车"
-    ],
-    "c": [
-      "百威",
-      "元气森林"
-    ],
-    "created_at": "2026-04-02T06:10:00",
-    "rank": 131,
-    "id": "ht_131"
-  },
-  {
-    "title": "超级厄尔尼诺来袭 2026或成史上最热年 气候变化引关注",
-    "hot_value": 154600078,
-    "url": "https://finance.sina.com.cn/jjxw/2026-04-01/doc-inhsxvfm8772012.shtml",
-    "platform": "全网",
-    "industries": [
-      "社会",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "负面",
-    "keywords": [
-      "厄尔尼诺",
-      "全球变暖",
-      "最热年",
-      "气候",
-      "极端天气"
-    ],
-    "c": [
-      "农夫山泉",
-      "百威",
-      "OATLY",
-      "元气森林"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 132,
-    "id": "ht_132"
-  },
-  {
-    "title": "李子柒自编自导纪录片电影《温室》完成备案",
-    "hot_value": 149159487,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_15569cd19bd48752",
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "李子柒",
-      "纪录片",
-      "电影",
-      "温室",
-      "导演"
-    ],
-    "c": [
-      "农夫山泉",
-      "OATLY"
-    ],
-    "created_at": "2026-04-02T04:20:00",
-    "rank": 133,
-    "id": "ht_133"
-  },
-  {
-    "title": "鸣潮新角色绯雪达妮娅实机演示发布 玩家热议",
-    "hot_value": 145926610,
-    "url": "https://www.douyin.com/search/鸣潮绯雪达妮娅实机演示",
-    "platform": "抖音/B站",
-    "industries": [
-      "游戏"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "游戏热点",
-    "sentiment": "正面",
-    "keywords": [
-      "鸣潮",
-      "绯雪达妮娅",
-      "实机演示",
-      "二次元游戏"
-    ],
-    "c": [
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-02T03:50:00",
-    "rank": 134,
-    "id": "ht_134"
-  },
-  {
-    "title": "英国正式加入CPTPP 全球贸易格局生变",
-    "hot_value": 145719275,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "经济"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "英国",
-      "CPTPP",
-      "贸易协定",
-      "全球化",
-      "经贸合作"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 135,
-    "id": "ht_135"
-  },
-  {
-    "title": "5G应用场景持续扩展 智慧城市建设加速推进",
-    "hot_value": 144614331,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "通信"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "5G",
-      "智慧城市",
-      "应用场景",
-      "数字化转型"
-    ],
-    "c": [
-      "中国移动",
-      "中国联通"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 136,
-    "id": "ht_136"
-  },
-  {
-    "title": "橡鹿机器人获3亿元融资 AI炒菜机器人商业化提速",
-    "hot_value": 141430348,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903wg5a.html",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "餐饮"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "商业新闻",
-    "sentiment": "正面",
-    "keywords": [
-      "橡鹿机器人",
-      "融资",
-      "AI炒菜",
-      "餐饮机器人",
-      "商业化"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T06:15:00",
-    "rank": 137,
-    "id": "ht_137"
-  },
-  {
-    "title": "APEC会议聚焦数字经济 中国提出数据治理新方案",
-    "hot_value": 140816009,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "经济"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "国际热点",
-    "sentiment": "正面",
-    "keywords": [
-      "APEC",
-      "数字经济",
-      "数据治理",
-      "国际合作",
-      "中国方案"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 138,
-    "id": "ht_138"
-  },
-  {
-    "title": "春茶上市受热捧 明前茶价格创历史新高",
-    "hot_value": 140003327,
-    "url": "https://weibo.com",
-    "platform": "微博/小红书",
-    "industries": [
-      "食品",
-      "消费"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "消费热点",
-    "sentiment": "中性",
-    "keywords": [
-      "春茶",
-      "明前茶",
-      "茶叶",
-      "价格",
-      "上市"
-    ],
-    "c": [
-      "农夫山泉",
-      "康师傅"
-    ],
-    "created_at": "2026-04-02T05:30:00",
-    "rank": 139,
-    "id": "ht_139"
-  },
-  {
-    "title": "银行业数字化转型加速 智能金融服务升级",
-    "hot_value": 139937345,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "金融",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "经济热点",
-    "sentiment": "正面",
-    "keywords": [
-      "银行",
-      "数字化转型",
-      "智能金融",
-      "金融科技"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 140,
-    "id": "ht_140"
-  },
-  {
-    "title": "中国非遗走向世界 传统技艺国际影响力提升",
-    "hot_value": 139903112,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "文化"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "文化热点",
-    "sentiment": "正面",
-    "keywords": [
-      "非遗",
-      "传统文化",
-      "技艺",
-      "文化遗产"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 141,
-    "id": "ht_141"
-  },
-  {
-    "title": "日本1:0英格兰 国际足球友谊赛爆冷门",
-    "hot_value": 135519500,
-    "url": "https://www.douyin.com/search/日本1:0英格兰",
-    "platform": "抖音",
-    "industries": [
-      "体育"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "体育热点",
-    "sentiment": "中性",
-    "keywords": [
-      "日本",
-      "英格兰",
-      "足球",
-      "友谊赛",
-      "爆冷"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 142,
-    "id": "ht_142"
-  },
-  {
-    "title": "魏哲鸣新剧《凤不栖》4月开机 古偶复仇题材引期待",
-    "hot_value": 131916137,
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_15569cd19bd48752",
-    "platform": "微博/小红书",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "魏哲鸣",
-      "凤不栖",
-      "古偶",
-      "新剧",
-      "开机"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 143,
-    "id": "ht_143"
-  },
-  {
-    "title": "教育部发布新规 加强中小学生心理健康教育",
-    "hot_value": 130992337,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "教育"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "正面",
-    "keywords": [
-      "教育部",
-      "心理健康",
-      "中小学生",
-      "教育新规"
-    ],
-    "c": [
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 144,
-    "id": "ht_144"
-  },
-  {
-    "title": "跨境电商新政实施 消费者海淘更加便利",
-    "hot_value": 116064993,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "电商",
-      "消费"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "跨境电商",
-      "新政",
-      "海淘",
-      "消费者",
-      "便利"
-    ],
-    "c": [
-      "天猫",
-      "京东",
-      "拼多多"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 145,
-    "id": "ht_145"
-  },
-  {
-    "title": "龙旗科技成立机器人科技公司 注册资本5000万元",
-    "hot_value": 112324499,
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903vbkk.html",
-    "platform": "微博",
-    "industries": [
-      "科技",
-      "制造"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "商业新闻",
-    "sentiment": "正面",
-    "keywords": [
-      "龙旗科技",
-      "机器人",
-      "智能机器人",
-      "AI",
-      "注册资本"
-    ],
-    "c": [
-      "小米"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 146,
-    "id": "ht_146"
-  },
-  {
-    "title": "春季装修旺季来临 家装市场迎来消费高峰",
-    "hot_value": 105286606,
-    "url": "https://weibo.com",
-    "platform": "微博/小红书",
-    "industries": [
-      "房产",
-      "消费"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "春季装修",
-      "家装",
-      "装修市场",
-      "消费高峰"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 147,
-    "id": "ht_147"
-  },
-  {
-    "title": "网络文学出海成果显著 中国故事走向世界",
-    "hot_value": 102959367,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "文化",
-      "互联网"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "文化热点",
-    "sentiment": "正面",
-    "keywords": [
-      "网络文学",
-      "出海",
-      "中国故事",
-      "文化输出"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:00:00",
-    "rank": 148,
-    "id": "ht_148"
-  },
-  {
-    "title": "春季减肥热潮来袭 健身房迎来旺季",
-    "hot_value": 99879525,
-    "url": "https://weibo.com",
-    "platform": "微博/小红书",
-    "industries": [
-      "生活",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "减肥",
-      "健身",
-      "春季减肥",
-      "健身房",
-      "健康生活"
-    ],
-    "c": [
-      "汤臣倍健",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-02T04:30:00",
-    "rank": 149,
-    "id": "ht_149"
-  },
-  {
-    "title": "春季过敏高发期来临 专家提醒注意防护",
-    "hot_value": 92303370,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "生活",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "社会热点",
-    "sentiment": "中性",
-    "keywords": [
-      "春季过敏",
-      "花粉症",
-      "健康防护",
-      "过敏源"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-02T05:00:00",
-    "rank": 150,
-    "id": "ht_150"
+    "id": "ht_90",
+    "updated_at": "2026-04-04T14:22:05",
+    "logic": "突发热点+全网刷屏",
+    "trend": "📉 明显下降"
   }
 ]
