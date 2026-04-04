@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """
 热点追踪器更新脚本 - 2026-04-04 16:10
+自动生成完整字段：platforms, heat, isNew, logic, trend
 """
 import json
 import uuid
 from datetime import datetime, timedelta
+from pathlib import Path
 
 now = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
 
@@ -127,6 +129,128 @@ trend_client_map = {
 
 angles = ["场景种草", "情感共鸣", "科普内容", "生活方式", "产品测评"]
 
+# ============ 数据处理辅助函数 ============
+
+def format_heat(hot_value):
+    """格式化热度值为人类可读格式"""
+    if hot_value >= 100000000:  # 1亿
+        return f"{hot_value / 100000000:.1f}亿"
+    elif hot_value >= 10000000:  # 1000万
+        return f"{hot_value / 10000000:.0f}万"
+    elif hot_value >= 1000000:  # 100万
+        return f"{hot_value / 1000000:.0f}万"
+    elif hot_value >= 10000:  # 1万
+        return f"{hot_value / 10000:.0f}万"
+    else:
+        return str(hot_value)
+
+def parse_platforms(platform_str):
+    """将平台字符串解析为数组"""
+    if not platform_str:
+        return []
+    platforms = []
+    for sep in ["/", "|", "，", ","]:
+        if sep in platform_str:
+            platforms = [p.strip() for p in platform_str.split(sep) if p.strip()]
+            break
+    if not platforms:
+        platforms = [platform_str.strip()]
+    return platforms
+
+def generate_logic(topic, clients):
+    """生成逻辑分析字段"""
+    title = topic.get("title", "")
+    industries = topic.get("industries", [])
+    keywords = topic.get("keywords", [])
+    
+    logic_templates = {
+        "旅游": "假日经济效应显著，出行/文旅消费场景丰富，适合饮料、休闲食品品牌植入",
+        "交通": "出行场景刚需，适合功能饮料、快消品牌场景营销",
+        "美妆": "换季护肤/妆容需求旺盛，美妆品牌可借势种草推广",
+        "健康": "健康意识提升，保健品/功能食品品牌可切入养生话题",
+        "科技": "科技热点关注度高，数码品牌可借势产品推广",
+        "娱乐": "娱乐话题热度高，适合饮料/零食品牌娱乐营销",
+        "美食": "美食话题自带流量，食品饮料品牌可直接借势",
+        "家居": "家居生活方式升级，家电/清洁品牌可切入场景",
+        "宠物": "宠物经济持续升温，宠物食品品牌机会明显",
+        "健身": "运动健身热潮，功能饮料/保健品品牌契合",
+        "汽车": "汽车出行话题，新能源/科技品牌可借势",
+        "电影": "档期票房效应，饮料/零食品牌观影场景营销",
+        "教育": "教育话题社会关注度高，保健品/文具品牌可借势",
+        "财经": "财经热点关注度强，适合品牌联名或话题营销",
+        "国际": "国际话题引发讨论，适合科技品牌借势",
+        "职场": "职场话题引发共鸣，保健品/个护品牌可切入",
+    }
+    
+    for industry in industries:
+        if industry in logic_templates:
+            return logic_templates[industry]
+    
+    for kw in keywords:
+        if kw in ["清明", "假期", "返程", "出行"]:
+            return "假日出行高峰，适合饮料/快消品牌场景营销"
+        if kw in ["春季", "换季", "护肤"]:
+            return "换季护肤刚需，美妆个护品牌种草窗口"
+        if kw in ["AI", "科技", "智能"]:
+            return "科技热点关注度高，数码品牌可借势推广"
+        if kw in ["游戏", "玩家"]:
+            return "游戏热点热度高，电竞外设品牌机会明显"
+    
+    return "话题传播度广，可根据品牌调性选择借势角度"
+
+def load_history():
+    """加载历史数据用于趋势判断"""
+    try:
+        history_file = Path(__file__).parent / "hotspot_history.json"
+        if history_file.exists():
+            with open(history_file, "r", encoding="utf-8") as f:
+                return json.load(f)
+    except:
+        pass
+    return {}
+
+def generate_trend(topic, history_data):
+    """生成趋势标记"""
+    title = topic.get("title", "")
+    current_value = topic.get("heat", 0)
+    trends = topic.get("trends", [])
+    
+    if title in history_data:
+        prev_value = history_data[title].get("hot_value", 0)
+        if current_value > prev_value * 1.2:
+            return "🔥🔥🔥 持续上升"
+        elif current_value > prev_value * 1.05:
+            return "🔥🔥 稳定上升"
+        elif current_value < prev_value * 0.8:
+            return "📉 明显下降"
+        elif current_value < prev_value * 0.95:
+            return "🔥 下降"
+        else:
+            return "🔥🔥 稳定"
+    
+    if "爆" in trends:
+        return "🔥🔥🔥 爆发式增长"
+    if "新" in trends:
+        return "🔥🔥🔥 新晋热点"
+    if "热" in trends:
+        return "🔥🔥🔥 持续上升"
+    
+    if current_value > 500000000:
+        return "🔥🔥🔥 爆发式增长"
+    elif current_value > 100000000:
+        return "🔥🔥🔥 持续上升"
+    else:
+        return "🔥🔥 稳定"
+
+def check_is_new(topic, history_data):
+    """判断是否为新增热点"""
+    title = topic.get("title", "")
+    if title not in history_data:
+        return True
+    return False
+
+# ============ 原有函数 ============
+
 def get_related_clients(title, keywords):
     related = set()
     for kw, client_list in trend_client_map.items():
@@ -136,16 +260,32 @@ def get_related_clients(title, keywords):
         related = {"农夫山泉", "元气森林"}
     return list(related)[:3]
 
-# 生成热点
+# 加载历史数据用于趋势判断
+history_data = load_history()
+
+# 生成热点（含完整字段）
 new_hot_topics = []
 for i, trend in enumerate(all_new_trends):
     hot_id = f"ht_202604041610_{i+1:03d}"
     related_clients = get_related_clients(trend["title"], trend["keywords"])
+    
+    # 生成完整字段
+    platforms = parse_platforms(trend["platform"])
+    heat_formatted = format_heat(trend["heat"])
+    is_new = check_is_new(trend, history_data)
+    logic = generate_logic(trend, related_clients)
+    trend_mark = generate_trend(trend, history_data)
+    
     new_hot_topics.append({
         "id": hot_id,
         "title": trend["title"],
         "hot_value": trend["heat"],
         "platform": trend["platform"],
+        "platforms": platforms,  # 新增：数组格式
+        "heat": heat_formatted,   # 新增：格式化热度
+        "isNew": is_new,          # 新增：新增标记
+        "logic": logic,           # 新增：逻辑分析
+        "trend": trend_mark,      # 新增：趋势标记
         "industries": trend["industries"],
         "trends": ["热", "新"],
         "type": trend["type"],
@@ -157,9 +297,7 @@ for i, trend in enumerate(all_new_trends):
         "category": trend["type"],
         "trend_tags": [f"#{kw}" for kw in trend["keywords"][:3]],
         "url": "https://weibo.com",
-        "updated_at": now,
-        "logic": "实时热点抓取+话题热度分析",
-        "trend": "🔥🔥🔥 新晋热点"
+        "updated_at": now
     })
 
 # 读取现有热点，保留近期的并更新
@@ -236,6 +374,35 @@ with open("hot_topics.json", "w", encoding="utf-8") as f:
     json.dump(updated_topics[:100], f, ensure_ascii=False, indent=2)
 
 print("hot_topics.json 已更新")
+
+# 更新历史数据
+history_file = Path("hotspot_history.json")
+try:
+    existing_history = json.loads(history_file.read_text(encoding="utf-8")) if history_file.exists() else {}
+except:
+    existing_history = {}
+
+# 追加当前热点到历史
+for topic in updated_topics[:100]:
+    history_key = topic.get("title", "")
+    existing_history[history_key] = {
+        "hot_value": topic.get("hot_value", 0),
+        "platform": topic.get("platform", ""),
+        "updated_at": now,
+        "trend": topic.get("trend", "")
+    }
+
+# 只保留最近7天的热点历史（按updated_at清理）
+import datetime as dt
+seven_days_ago = (dt.datetime.now() - dt.timedelta(days=7)).isoformat()
+cleaned_history = {
+    k: v for k, v in existing_history.items()
+    if v.get("updated_at", "") > seven_days_ago
+}
+
+with open("hotspot_history.json", "w", encoding="utf-8") as f:
+    json.dump(cleaned_history, f, ensure_ascii=False, indent=2)
+print(f"热点历史已更新（保留{len(cleaned_history)}条）")
 
 # 读取并追加选题
 try:

@@ -2872,6 +2872,7 @@
                 <button class="filter-btn" onclick="filterByPlatform('抖音')">抖音</button>
                 <button class="filter-btn" onclick="filterByPlatform('微博')">微博</button>
                 <button class="filter-btn" onclick="filterByPlatform('小红书')">小红书</button>
+                <button class="filter-btn" onclick="filterByPlatform('B站')">B站</button>
             </div>
             <div class="sort-group">
                 <select class="sort-select" id="sortSelect" onchange="sortTopics(this.value)">
@@ -4353,7 +4354,16 @@
                 });
                 
                 // 同平台加分
-                if (idea.platform === topic.platform) score += 0.5;
+                if (idea.platform === topic.platform) {
+                    score += 0.5;
+                } else {
+                    // 处理组合平台格式（如 "微博/抖音"）
+                    const topicPlatforms = (topic.platform || '').split('/');
+                    const ideaPlatforms = (idea.platform || '').split('/');
+                    if (topicPlatforms.some(p => ideaPlatforms.includes(p))) {
+                        score += 0.3;
+                    }
+                }
                 
                 return { idea, score };
             });
@@ -4371,24 +4381,48 @@
                 }));
         }
         
-        // Mini 图表 mock 数据生成
-        function generateChartData(topicTitle) {
-            // 基于标题生成伪随机数据，让不同热点显示不同数据
-            const seed = topicTitle.split('').reduce((a, c) => a + c.charCodeAt(0), 0);
+        // Mini 图表：使用真实热度数据生成趋势
+        function generateChartData(topic) {
+            // 基于真实热度值生成趋势数据，而非伪随机
+            const hotValue = topic.hot_value || 0;
+            const baseValue = Math.min(100, Math.max(20, hotValue / 1000000)); // 转换为百万级别基准
+
+            // 根据趋势状态调整数据走向
+            const trend = topic.trend || '';
+            const isRising = trend.includes('上升') || trend.includes('爆发');
+            const isFalling = trend.includes('下降') || trend.includes('衰退');
+
+            // 生成5个时间点的热度数据（模拟最近5个时段的趋势）
             const items = [
-                { label: '视频', value: 60 + (seed % 40) },
-                { label: '图文', value: 40 + ((seed * 2) % 50) },
-                { label: '话题', value: 50 + ((seed * 3) % 45) },
-                { label: '直播', value: 30 + ((seed * 4) % 35) },
-                { label: '评论', value: 45 + ((seed * 5) % 40) }
+                { label: '5时前', value: Math.round(baseValue * (isRising ? 0.6 : isFalling ? 1.0 : 0.8)) },
+                { label: '4时前', value: Math.round(baseValue * (isRising ? 0.7 : isFalling ? 0.95 : 0.85)) },
+                { label: '3时前', value: Math.round(baseValue * (isRising ? 0.8 : isFalling ? 0.9 : 0.9)) },
+                { label: '2时前', value: Math.round(baseValue * (isRising ? 0.9 : isFalling ? 0.85 : 0.95)) },
+                { label: '当前', value: Math.round(baseValue) }
             ];
-            return items;
+
+            // 确保数值在合理范围内
+            return items.map(item => ({
+                ...item,
+                value: Math.min(100, Math.max(5, item.value))
+            }));
         }
         
         // 渲染热点列表（懒加载）
         function renderTopics() {
             const container = document.getElementById('hotList');
-            let topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => (t.platform || '').includes(currentFilter));
+            let topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => {
+                // 支持 platforms 数组格式
+                if (t.platforms && Array.isArray(t.platforms)) {
+                    return t.platforms.includes(currentFilter);
+                }
+                // 兼容字符串格式（可能是组合格式如 "微博/抖音"）
+                const platform = t.platform || '';
+                if (platform.includes('/')) {
+                    return platform.split('/').includes(currentFilter);
+                }
+                return platform.includes(currentFilter);
+            });
             
             // 分类筛选
             if (currentCategory !== 'all') {
@@ -4421,136 +4455,266 @@
                 return;
             }
             
-            let html = '';
+            // 使用 DocumentFragment 构建 DOM，避免 XSS（textContent 安全赋值）
+            container.innerHTML = '';
+            const fragment = document.createDocumentFragment();
+            
             topics.forEach((topic, index) => {
                 const rankClass = index < 3 ? `top${index + 1}` : '';
                 const platformClass = PLATFORM_CLASS[topic.platform] || '';
                 const trend = topic.trend || '🔥 稳定';
-                const chartData = generateChartData(topic.title);
+                const chartData = generateChartData(topic);
                 const relatedTopics = getRelatedTopics(topic, 3 + (index % 3));
                 
-                html += `
-                <div class="hot-item lazy-hidden" data-index="${index}" role="button" tabindex="0" aria-expanded="false" data-title="${encodeURIComponent(topic.title || '')}" data-platform="${encodeURIComponent(topic.platform || '')}" data-heat="${encodeURIComponent(topic.heat || '')}">
-                    <div class="hot-header" onclick="toggleHotspot(this.closest('.hot-item'))">
-                        <div class="rank ${rankClass}">${index + 1}</div>
-                        <div class="hot-info">
-                            <div class="hot-title">${topic.title}</div>
-                            <div class="hot-meta">
-                                <span class="platform-badge ${platformClass}">${topic.platform}</span>
-                                <span class="heat-badge">🔥 ${topic.heat}</span>
-                                <span style="color: var(--gray-600); font-size: 12px;">${trend}</span>
-                            </div>
-                        </div>
-                        <button class="fav-btn" id="fav-btn-${index}" data-id="${encodeURIComponent(topic.title || '')}" onclick="event.stopPropagation(); toggleFavorite(this)">
-                            <span>☆</span><span>收藏</span>
-                        </button>
-                        <span class="expand-icon">▼</span>
-                    </div>
-                    <div class="hot-detail">
-                        <div class="detail-grid">
-                            <div class="detail-card">
-                                <div class="detail-label">热度趋势</div>
-                                <div class="detail-value" style="color: #D97706;">${trend}</div>
-                            </div>
-                            <div class="detail-card">
-                                <div class="detail-label">内容类型</div>
-                                <div class="detail-value">${topic.type || '综合'}</div>
-                            </div>
-                            <div class="detail-card">
-                                <div class="detail-label">受众人群</div>
-                                <div class="detail-value">${topic.aud || '全年龄段'}</div>
-                            </div>
-                            <div class="detail-card">
-                                <div class="detail-label">最佳发布时间</div>
-                                <div class="detail-value">${topic.time || '全天'}</div>
-                            </div>
-                        </div>
-                        
-                        <!-- Mini 可视化图表区 -->
-                        <div class="mini-chart-section">
-                            <div class="mini-chart-title">相关内容热度对比</div>
-                            <div class="mini-chart-container">
-                                ${chartData.map((item, i) => `
-                                    <div class="chart-bar-wrapper">
-                                        <div class="chart-bar bar-${i + 1}" style="height: ${item.value}%" data-value="${item.value}"></div>
-                                        <div class="chart-label">${item.label}</div>
-                                    </div>
-                                `).join('')}
-                            </div>
-                        </div>
-                        
-                        ${topic.logic ? `
-                        <div class="logic-box">
-                            <div class="logic-title">🧠 热点背后逻辑</div>
-                            <div class="logic-content">${topic.logic}</div>
-                        </div>
-                        ` : ''}
-                        
-                        ${topic.c && topic.c.length > 0 ? `
-                        <div>
-                            <div class="detail-label" style="margin-bottom: 8px;">💡 可借势客户</div>
-                            <div class="client-tags">
-                                ${topic.c.map(client => `<span class="client-tag">${client}</span>`).join('')}
-                            </div>
-                        </div>
-                        ` : ''}
-                        
-                        <!-- 相关选题推荐 -->
-                        <div class="related-topics">
-                            <div class="related-title">相关选题推荐</div>
-                            <div class="related-cards">
-                                ${relatedTopics.map(related => `
-                                    <div class="related-card">
-                                        <div class="related-card-title">${related.title}</div>
-                                        <div class="related-card-meta">
-                                            <span>${related.platform}</span>
-                                            <span class="related-card-heat">🔥 ${related.heat}</span>
-                                        </div>
-                                    </div>
-                                `).join('')}
-                            </div>
-                        </div>
-                        
-                        <!-- 生成内容脚本按钮 -->
-                        <div class="script-btn-section">
-                            <button class="script-btn script-btn-generate" data-title="${encodeURIComponent(topic.title || '')}" data-platform="${encodeURIComponent(topic.platform || '')}">
-                                <span>📝</span>
-                                <span>生成内容脚本</span>
-                            </button>
-                            <button class="script-btn secondary script-btn-copy" data-title="${encodeURIComponent(topic.title || '')}">
-                                <span>📋</span>
-                                <span>复制标题</span>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                `;
+                // 使用 DOMPurify 净化 HTML 内容（已引入 purify.min.js）
+                const cleanLogic = topic.logic ? DOMPurify.sanitize(topic.logic) : '';
+                
+                const item = document.createElement('div');
+                item.className = 'hot-item lazy-hidden';
+                item.dataset.index = index;
+                item.setAttribute('role', 'button');
+                item.setAttribute('tabindex', '0');
+                item.setAttribute('aria-expanded', 'false');
+                item.dataset.title = topic.title || '';
+                item.dataset.platform = topic.platform || '';
+                item.dataset.heat = topic.heat || '';
+                
+                // --- 构建头部 ---
+                const header = document.createElement('div');
+                header.className = 'hot-header';
+                
+                const rankEl = document.createElement('div');
+                rankEl.className = `rank ${rankClass}`;
+                rankEl.textContent = index + 1;
+                
+                const infoEl = document.createElement('div');
+                infoEl.className = 'hot-info';
+                
+                const titleEl = document.createElement('div');
+                titleEl.className = 'hot-title';
+                titleEl.textContent = topic.title; // textContent 防 XSS
+                
+                const metaEl = document.createElement('div');
+                metaEl.className = 'hot-meta';
+                
+                const platformBadge = document.createElement('span');
+                platformBadge.className = `platform-badge ${platformClass}`;
+                platformBadge.textContent = topic.platform || '';
+                
+                const heatBadge = document.createElement('span');
+                heatBadge.className = 'heat-badge';
+                heatBadge.textContent = `🔥 ${topic.heat || ''}`;
+                
+                const trendSpan = document.createElement('span');
+                trendSpan.style.cssText = 'color: var(--gray-600); font-size: 12px;';
+                trendSpan.textContent = trend;
+                
+                metaEl.appendChild(platformBadge);
+                metaEl.appendChild(heatBadge);
+                metaEl.appendChild(trendSpan);
+                infoEl.appendChild(titleEl);
+                infoEl.appendChild(metaEl);
+                
+                // 收藏按钮（使用 data 属性，不拼接字符串）
+                const favBtn = document.createElement('button');
+                favBtn.className = 'fav-btn';
+                favBtn.dataset.topicId = topic.title || '';
+                favBtn.innerHTML = '<span>☆</span><span>收藏</span>';
+                favBtn.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    toggleFavorite(this);
+                });
+                
+                const expandIcon = document.createElement('span');
+                expandIcon.className = 'expand-icon';
+                expandIcon.textContent = '▼';
+                
+                header.appendChild(rankEl);
+                header.appendChild(infoEl);
+                header.appendChild(favBtn);
+                header.appendChild(expandIcon);
+                
+                header.addEventListener('click', function() {
+                    toggleHotspot(item);
+                });
+                
+                // --- 构建详情区 ---
+                const detail = document.createElement('div');
+                detail.className = 'hot-detail';
+                
+                // 详情网格
+                const detailGrid = document.createElement('div');
+                detailGrid.className = 'detail-grid';
+                
+                const detailCards = [
+                    { label: '热度趋势', value: trend, color: '#D97706' },
+                    { label: '内容类型', value: topic.type || '综合' },
+                    { label: '受众人群', value: topic.aud || '全年龄段' },
+                    { label: '最佳发布时间', value: topic.time || '全天' }
+                ];
+                
+                detailCards.forEach(card => {
+                    const cardEl = document.createElement('div');
+                    cardEl.className = 'detail-card';
+                    const labelEl = document.createElement('div');
+                    labelEl.className = 'detail-label';
+                    labelEl.textContent = card.label;
+                    const valueEl = document.createElement('div');
+                    valueEl.className = 'detail-value';
+                    if (card.color) valueEl.style.color = card.color;
+                    valueEl.textContent = card.value;
+                    cardEl.appendChild(labelEl);
+                    cardEl.appendChild(valueEl);
+                    detailGrid.appendChild(cardEl);
+                });
+                
+                detail.appendChild(detailGrid);
+                
+                // Mini 可视化图表区
+                const miniChartSection = document.createElement('div');
+                miniChartSection.className = 'mini-chart-section';
+                const miniChartTitle = document.createElement('div');
+                miniChartTitle.className = 'mini-chart-title';
+                miniChartTitle.textContent = '📈 热度趋势';
+                const miniChartContainer = document.createElement('div');
+                miniChartContainer.className = 'mini-chart-container';
+                
+                chartData.forEach((barItem, i) => {
+                    const barWrapper = document.createElement('div');
+                    barWrapper.className = 'chart-bar-wrapper';
+                    const bar = document.createElement('div');
+                    bar.className = `chart-bar bar-${i + 1}`;
+                    bar.style.height = barItem.value + '%';
+                    bar.dataset.value = barItem.value;
+                    const label = document.createElement('div');
+                    label.className = 'chart-label';
+                    label.textContent = barItem.label;
+                    barWrapper.appendChild(bar);
+                    barWrapper.appendChild(label);
+                    miniChartContainer.appendChild(barWrapper);
+                });
+                
+                miniChartSection.appendChild(miniChartTitle);
+                miniChartSection.appendChild(miniChartContainer);
+                detail.appendChild(miniChartSection);
+                
+                // 热点逻辑（使用 DOMPurify 净化）
+                if (cleanLogic) {
+                    const logicBox = document.createElement('div');
+                    logicBox.className = 'logic-box';
+                    const logicTitle = document.createElement('div');
+                    logicTitle.className = 'logic-title';
+                    logicTitle.textContent = '🧠 热点背后逻辑';
+                    const logicContent = document.createElement('div');
+                    logicContent.className = 'logic-content';
+                    logicContent.innerHTML = cleanLogic; // DOMPurify 已净化
+                    logicBox.appendChild(logicTitle);
+                    logicBox.appendChild(logicContent);
+                    detail.appendChild(logicBox);
+                }
+                
+                // 可借势客户
+                if (topic.c && topic.c.length > 0) {
+                    const clientSection = document.createElement('div');
+                    const clientLabel = document.createElement('div');
+                    clientLabel.className = 'detail-label';
+                    clientLabel.style.marginBottom = '8px';
+                    clientLabel.textContent = '💡 可借势客户';
+                    const clientTags = document.createElement('div');
+                    clientTags.className = 'client-tags';
+                    topic.c.forEach(client => {
+                        const tag = document.createElement('span');
+                        tag.className = 'client-tag';
+                        tag.textContent = client; // textContent 防 XSS
+                        clientTags.appendChild(tag);
+                    });
+                    clientSection.appendChild(clientLabel);
+                    clientSection.appendChild(clientTags);
+                    detail.appendChild(clientSection);
+                }
+                
+                // 相关选题推荐
+                const relatedSection = document.createElement('div');
+                relatedSection.className = 'related-topics';
+                const relatedTitle = document.createElement('div');
+                relatedTitle.className = 'related-title';
+                relatedTitle.textContent = '💡 相关选题推荐';
+                const relatedCards = document.createElement('div');
+                relatedCards.className = 'related-cards';
+                relatedTopics.forEach(related => {
+                    const card = document.createElement('div');
+                    card.className = 'related-card';
+                    const cardTitle = document.createElement('div');
+                    cardTitle.className = 'related-card-title';
+                    cardTitle.textContent = related.title; // textContent 防 XSS
+                    const cardMeta = document.createElement('div');
+                    cardMeta.className = 'related-card-meta';
+                    const platformSpan = document.createElement('span');
+                    platformSpan.textContent = related.platform || '';
+                    const heatSpan = document.createElement('span');
+                    heatSpan.className = 'related-card-heat';
+                    heatSpan.textContent = `🔥 ${related.heat || ''}`;
+                    cardMeta.appendChild(platformSpan);
+                    cardMeta.appendChild(heatSpan);
+                    card.appendChild(cardTitle);
+                    card.appendChild(cardMeta);
+                    relatedCards.appendChild(card);
+                });
+                relatedSection.appendChild(relatedTitle);
+                relatedSection.appendChild(relatedCards);
+                detail.appendChild(relatedSection);
+                
+                // 脚本按钮区域
+                const scriptSection = document.createElement('div');
+                scriptSection.className = 'script-btn-section';
+                
+                const generateBtn = document.createElement('button');
+                generateBtn.className = 'script-btn script-btn-generate';
+                generateBtn.dataset.title = topic.title || '';
+                generateBtn.dataset.platform = topic.platform || '';
+                generateBtn.innerHTML = '<span>📝</span><span>生成内容脚本</span>';
+                generateBtn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    showScriptPopup(this.dataset.title || '', this.dataset.platform || '');
+                });
+                
+                const copyBtn = document.createElement('button');
+                copyBtn.className = 'script-btn secondary script-btn-copy';
+                copyBtn.dataset.title = topic.title || '';
+                copyBtn.innerHTML = '<span>📋</span><span>复制标题</span>';
+                copyBtn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    copyToClipboard(this.dataset.title || '');
+                });
+                
+                scriptSection.appendChild(generateBtn);
+                scriptSection.appendChild(copyBtn);
+                detail.appendChild(scriptSection);
+                
+                item.appendChild(header);
+                item.appendChild(detail);
+                
+                // 键盘可访问性：Enter / Space 键展开/收起
+                item.addEventListener('keydown', function(e) {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        toggleHotspot(item);
+                        // 更新 aria 状态
+                        const isExpanded = item.classList.contains('expanded');
+                        item.setAttribute('aria-expanded', isExpanded);
+                    }
+                });
+                
+                fragment.appendChild(item);
             });
             
-            container.innerHTML = html;
+            container.appendChild(fragment);
             
             // 懒加载：渐进式显示
             lazyLoadItems();
             
             // 更新收藏按钮状态
             updateFavoriteButtons();
-            
-            // 事件委托：处理脚本按钮点击（避免XSS）
-            container.addEventListener('click', function(e) {
-                const generateBtn = e.target.closest('.script-btn-generate');
-                const copyBtn = e.target.closest('.script-btn-copy');
-                
-                if (generateBtn) {
-                    e.preventDefault();
-                    const title = decodeURIComponent(generateBtn.dataset.title || '');
-                    const platform = decodeURIComponent(generateBtn.dataset.platform || '');
-                    showScriptPopup(title, platform);
-                } else if (copyBtn) {
-                    e.preventDefault();
-                    const title = decodeURIComponent(copyBtn.dataset.title || '');
-                    copyToClipboard(title);
-                }
-            });
         }
         
         // 懒加载实现（IntersectionObserver）
@@ -4580,7 +4744,12 @@
         
         // 导出功能（增强版：带时间戳、BOM支持、完整字段）
         function exportToCSV() {
-            const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => (t.platform || '').includes(currentFilter));
+            const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => {
+                if (t.platforms && Array.isArray(t.platforms)) return t.platforms.includes(currentFilter);
+                const platform = t.platform || '';
+                if (platform.includes('/')) return platform.split('/').includes(currentFilter);
+                return platform.includes(currentFilter);
+            });
             if (!topics.length) { showRefreshToast('无数据可导出', 'error'); return; }
             
             // 增强字段：包含更多有用信息
@@ -4611,7 +4780,12 @@
         }
         
         function exportToJSON() {
-            const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => (t.platform || '').includes(currentFilter));
+            const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => {
+                if (t.platforms && Array.isArray(t.platforms)) return t.platforms.includes(currentFilter);
+                const platform = t.platform || '';
+                if (platform.includes('/')) return platform.split('/').includes(currentFilter);
+                return platform.includes(currentFilter);
+            });
             if (!topics.length) { showRefreshToast('无数据可导出', 'error'); return; }
             
             // 构建完整的导出报告
@@ -4809,9 +4983,9 @@
             }
         }
         
-        // 切换收藏状态（XSS安全：使用data-id属性传递，不再拼接title字符串）
+        // 切换收藏状态（XSS安全：使用data-topic-id属性传递，不再拼接title字符串）
         function toggleFavorite(btn) {
-            const topicId = decodeURIComponent(btn.getAttribute('data-id') || '');
+            const topicId = btn.getAttribute('data-topic-id') || btn.getAttribute('data-id') || '';
             if (!topicId) return;
             
             // 从 allTopics 中查找对应的话题数据（避免直接使用不可信参数）
