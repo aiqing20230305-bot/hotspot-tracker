@@ -282,6 +282,9 @@ print(f"\n✅ 选题数据已更新保存")
 industry_count = {}
 for idea in new_ideas:
     industry = idea['client']['industry']
+    # 处理industry可能是列表的情况
+    if isinstance(industry, list):
+        industry = ', '.join(industry)
     industry_count[industry] = industry_count.get(industry, 0) + 1
 
 print("\n选题行业分布:")
