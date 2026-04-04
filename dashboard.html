@@ -2,11 +2,15 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>📊 数据看板 - 特赞内容运营平台</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
             --primary: #6366F1;
+            --primary-light: #818CF8;
             --primary-dark: #4F46E5;
             --primary-50: #EEF2FF;
             --success: #10B981;
@@ -19,29 +23,58 @@
             --gray-100: #F3F4F6;
             --gray-200: #E5E7EB;
             --gray-300: #D1D5DB;
-            --gray-600: #6B7280;
+            --gray-400: #9CA3AF;
+            --gray-600: #4B5563;
             --gray-700: #374151;
             --gray-800: #1F2937;
             --gray-900: #111827;
             --radius: 12px;
             --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
             --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1);
+            --shadow-lg2: 0 20px 25px -5px rgba(0,0,0,0.1);
+            --bg-body: linear-gradient(135deg, #EEF2FF 0%, #F5F3FF 100%);
+            --bg-card: #fff;
+            --bg-navbar: rgba(255,255,255,0.95);
+            --text-primary: var(--gray-800);
+            --text-secondary: var(--gray-600);
+            --border-color: var(--gray-200);
+            --hover-bg: var(--gray-50);
+        }
+
+        [data-theme="dark"] {
+            --bg-body: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            --bg-card: #1e2746;
+            --bg-navbar: rgba(30,39,70,0.95);
+            --text-primary: #E5E7EB;
+            --text-secondary: #9CA3AF;
+            --border-color: #374151;
+            --hover-bg: #263352;
+            --gray-50: #111827;
+            --gray-100: #1F2937;
+            --gray-200: #374151;
+            --gray-800: #E5E7EB;
+            --gray-900: #F9FAFB;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.3);
+            --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.4);
+            --shadow-lg2: 0 20px 25px -5px rgba(0,0,0,0.4);
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: #F5F3FF;
+            font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: var(--bg-body);
             min-height: 100vh;
-            color: var(--gray-800);
+            color: var(--text-primary);
+            transition: background 0.3s, color 0.3s;
         }
 
         /* 加载动画 */
         .loading-overlay {
             position: fixed;
             inset: 0;
-            background: white;
+            background: var(--bg-card);
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -65,8 +98,9 @@
 
         /* 导航栏 */
         .navbar {
-            background: rgba(255,255,255,0.95);
+            background: var(--bg-navbar);
             backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
             box-shadow: var(--shadow);
             padding: 0 24px;
             position: sticky;
@@ -89,6 +123,28 @@
             align-items: center;
             gap: 8px;
         }
+        .theme-toggle {
+            background: rgba(255,255,255,0.15);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 8px;
+            padding: 8px 12px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.2s;
+            line-height: 1;
+            min-height: 44px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        [data-theme="dark"] .theme-toggle {
+            background: rgba(255,255,255,0.1);
+            border-color: rgba(255,255,255,0.15);
+        }
+        .theme-toggle:hover {
+            background: rgba(255,255,255,0.25);
+            transform: scale(1.05);
+        }
         .nav-tabs {
             display: flex;
             gap: 4px;
@@ -98,7 +154,7 @@
         .nav-tab {
             padding: 8px 14px;
             border-radius: 8px;
-            color: var(--gray-600);
+            color: var(--text-secondary);
             font-weight: 500;
             font-size: 14px;
             transition: all 0.2s;
@@ -121,13 +177,28 @@
             min-height: 48px;
             justify-content: center;
             align-items: center;
+            background: var(--gray-100);
+            border-radius: 8px;
+            transition: background 0.2s;
+        }
+        [data-theme="dark"] .hamburger {
+            background: rgba(255,255,255,0.1);
+        }
+        .hamburger:hover {
+            background: var(--primary-50);
+        }
+        [data-theme="dark"] .hamburger:hover {
+            background: rgba(99,102,241,0.2);
         }
         .hamburger span {
             width: 24px;
             height: 2px;
-            background: var(--gray-600);
+            background: var(--gray-700);
             border-radius: 2px;
             transition: all 0.3s;
+        }
+        [data-theme="dark"] .hamburger span {
+            background: var(--gray-200);
         }
         .hamburger.active span:nth-child(1) {
             transform: rotate(45deg) translate(5px, 5px);
@@ -148,14 +219,14 @@
                 top: 64px;
                 left: 0;
                 right: 0;
-                background: white;
+                background: var(--bg-card);
                 flex-direction: column;
                 padding: 16px;
                 box-shadow: 0 4px 20px rgba(0,0,0,0.15);
                 gap: 4px;
                 height: auto;
                 z-index: 99;
-                border-top: 1px solid var(--gray-100);
+                border-top: 1px solid var(--border-color);
             }
             .nav-tabs.show { display: flex; }
             .nav-tab {
@@ -209,6 +280,9 @@
             margin-bottom: 28px;
             position: relative;
             overflow: hidden;
+        }
+        [data-theme="dark"] .page-header {
+            background: linear-gradient(135deg, #4338ca 0%, #3730a3 100%);
         }
         .page-header::after {
             content: '';
@@ -305,13 +379,13 @@
         }
 
         .stat-card {
-            background: white;
+            background: var(--bg-card);
             padding: 22px 24px;
             border-radius: var(--radius);
             box-shadow: var(--shadow);
             position: relative;
             overflow: hidden;
-            transition: transform 0.2s, box-shadow 0.2s;
+            transition: transform 0.2s, box-shadow 0.2s, background 0.3s;
         }
         .stat-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
         .stat-card::before {
@@ -331,19 +405,19 @@
         }
         .stat-label {
             font-size: 13px;
-            color: var(--gray-600);
+            color: var(--text-secondary);
             margin-bottom: 6px;
             font-weight: 500;
         }
         .stat-value {
             font-size: 32px;
             font-weight: 800;
-            color: var(--gray-900);
+            color: var(--text-primary);
             line-height: 1;
         }
         .stat-sub {
             font-size: 12px;
-            color: var(--gray-600);
+            color: var(--text-secondary);
             margin-top: 6px;
         }
         .stat-change {
@@ -367,19 +441,21 @@
 
         /* 卡片 */
         .card {
-            background: white;
+            background: var(--bg-card);
             border-radius: var(--radius);
             box-shadow: var(--shadow);
             overflow: hidden;
+            transition: background 0.3s, box-shadow 0.2s;
         }
         .card-header {
             padding: 18px 24px;
-            border-bottom: 1px solid var(--gray-100);
+            border-bottom: 1px solid var(--border-color);
             font-size: 15px;
             font-weight: 700;
             display: flex;
             align-items: center;
             justify-content: space-between;
+            color: var(--text-primary);
         }
         .card-header .card-action {
             font-size: 12px;
@@ -388,6 +464,15 @@
             cursor: pointer;
         }
         .card-body { padding: 20px 24px; }
+
+        [data-theme="dark"] .card-header { border-bottom-color: var(--border-color); }
+        [data-theme="dark"] .ranking-item { border-bottom-color: var(--border-color); }
+        [data-theme="dark"] .progress-item .progress-bar { background: rgba(255,255,255,0.1); }
+        [data-theme="dark"] .stat-card { box-shadow: var(--shadow); }
+        [data-theme="dark"] .insight-card { background: var(--bg-card); }
+        [data-theme="dark"] .insight-suggestion { background: rgba(99,102,241,0.08); border-color: rgba(99,102,241,0.2); }
+        [data-theme="dark"] .prediction-item, [data-theme="dark"] .competitor-item { background: rgba(99,102,241,0.08); border-color: rgba(99,102,241,0.15); }
+        [data-theme="dark"] .prediction-item:hover, [data-theme="dark"] .competitor-item:hover { background: rgba(99,102,241,0.12); }
 
         /* 趋势图 - CSS柱状图 */
         .trend-chart {
@@ -744,22 +829,52 @@
         }
         .insight-card-header {
             padding: 16px 20px;
-            border-bottom: 1px solid var(--gray-100);
+            border-bottom: 1px solid var(--border-color);
             font-size: 14px;
             font-weight: 700;
             display: flex;
             align-items: center;
             gap: 8px;
+            color: var(--text-primary);
         }
         .insight-card-body {
             padding: 16px 20px;
         }
+        [data-theme="dark"] .chart-label { color: #9CA3AF; }
+        [data-theme="dark"] .chart-legend { color: #9CA3AF; }
+        [data-theme="dark"] .ranking-title { color: var(--text-primary); }
+        [data-theme="dark"] .ranking-meta { color: #9CA3AF; }
+        [data-theme="dark"] .success-title { color: var(--text-primary); }
+        [data-theme="dark"] .success-meta { color: #9CA3AF; }
+        [data-theme="dark"] .method-name { color: var(--text-primary); }
+        [data-theme="dark"] .method-stats { color: #9CA3AF; }
+        [data-theme="dark"] .competitor-name { color: var(--text-primary); }
+        [data-theme="dark"] .competitor-meta { color: #9CA3AF; }
+        [data-theme="dark"] .comp-stat-label { color: #9CA3AF; }
+        [data-theme="dark"] .comp-stat-val { color: var(--text-primary) !important; }
+        [data-theme="dark"] .suggestion-title .title-text { color: var(--primary-light); }
+        [data-theme="dark"] .suggestion-body { color: #9CA3AF; }
+        [data-theme="dark"] .error-state { color: #9CA3AF; }
+        [data-theme="dark"] .insight-suggestion .text { color: #9CA3AF; }
+        [data-theme="dark"] .insight-card-body .error-state { color: #9CA3AF; }
+        [data-theme="dark"] .radar-label { color: var(--text-primary); }
 
         /* 雷达图 */
         .radar-chart-wrap {
             display: flex;
             align-items: center;
             gap: 16px;
+            flex-wrap: wrap;
+        }
+        @media (max-width: 640px) {
+            .radar-chart-wrap {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            #radarCanvas {
+                width: 160px !important;
+                height: 160px !important;
+            }
         }
         .radar-canvas-wrap {
             flex-shrink: 0;
@@ -978,11 +1093,16 @@
         }
         .insight-meta {
             font-size: 12px;
-            color: var(--gray-600);
+            color: rgba(255,255,255,0.8);
             display: flex;
             align-items: center;
             gap: 8px;
         }
+        [data-theme="dark"] .insight-meta { color: #9CA3AF; }
+        [data-theme="dark"] .insight-badge { background: rgba(255,255,255,0.1); }
+        [data-theme="dark"] .chart-bar { opacity: 0.8; }
+        [data-theme="dark"] .progress-fill.low { background: linear-gradient(90deg, #059669, #10B981); }
+        [data-theme="dark"] .prediction-bar-fill { background: linear-gradient(90deg, var(--primary), #a5b4fc); }
     </style>
 </head>
 <body>
@@ -1007,10 +1127,13 @@
                 <a href="dashboard.html" class="nav-tab active">数据看板</a>
                 <a href="script_generator.html" class="nav-tab">脚本生成</a>
             </div>
-            <div class="hamburger" id="hamburger" onclick="toggleMenu()">
-                <span></span>
-                <span></span>
-                <span></span>
+            <div style="display:flex;align-items:center;gap:8px">
+                <button class="theme-toggle" id="themeToggle" title="切换主题">🌙</button>
+                <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
             </div>
         </div>
     </nav>
@@ -1232,6 +1355,24 @@
     </div>
 
     <script>
+        // ========== 暗色模式 ==========
+        (function initTheme(){
+            const saved = localStorage.getItem('theme');
+            const prefersDark = window.matchMedia('(prefers-color-scheme:dark)').matches;
+            const theme = saved || (prefersDark ? 'dark' : 'light');
+            applyTheme(theme);
+        })();
+        function applyTheme(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            const btn = document.getElementById('themeToggle');
+            if (btn) btn.textContent = theme === 'dark' ? '☀️' : '🌙';
+            localStorage.setItem('theme', theme);
+        }
+        document.getElementById('themeToggle')?.addEventListener('click', () => {
+            const current = document.documentElement.getAttribute('data-theme') || 'light';
+            applyTheme(current === 'dark' ? 'light' : 'dark');
+        });
+
         // 移动端菜单切换
         function toggleMenu() {
             const navTabs = document.getElementById('navTabs');
