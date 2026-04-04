@@ -3783,6 +3783,7 @@
         }
         
         // 平台筛选
+        // 平台筛选 - 使用 includes 模糊匹配
         function filterByPlatform(platform) {
             currentFilter = platform;
             document.querySelectorAll('.filter-btn').forEach(btn => {
@@ -4184,13 +4185,42 @@
         }
         
         // 相关选题 mock 数据
-        const RELATED_TOPICS_MOCK = [
-            { title: '春季穿搭分享', heat: '89.2万', platform: '小红书' },
-            { title: '好物推荐清单', heat: '76.8万', platform: '抖音' },
-            { title: '生活小妙招', heat: '65.3万', platform: '微博' },
-            { title: '美食探店日记', heat: '58.9万', platform: '小红书' },
-            { title: '健身打卡记录', heat: '45.2万', platform: '抖音' }
-        ];
+        // 从 client_ideas.json 获取相关选题数据
+        function getRelatedTopics(topic, count = 3) {
+            if (!allIdeas || allIdeas.length === 0) return [];
+            
+            // 根据当前热点的关键词匹配相关选题
+            const topicKeywords = (topic.keywords || []).concat(topic.title?.split(/[\s,，]+/) || []);
+            
+            // 计算每个选题的匹配分数
+            const scoredIdeas = allIdeas.map(idea => {
+                let score = 0;
+                const ideaText = `${idea.title} ${idea.hot_topic || ''} ${(idea.keywords || []).join(' ')}`.toLowerCase();
+                
+                topicKeywords.forEach(kw => {
+                    if (kw && ideaText.includes(kw.toLowerCase())) {
+                        score += 1;
+                    }
+                });
+                
+                // 同平台加分
+                if (idea.platform === topic.platform) score += 0.5;
+                
+                return { idea, score };
+            });
+            
+            // 按分数排序并返回前 count 个
+            return scoredIdeas
+                .filter(item => item.score > 0)
+                .sort((a, b) => b.score - a.score)
+                .slice(0, count)
+                .map(item => ({
+                    title: item.idea.title,
+                    heat: item.idea.engagement_estimate || '10万+',
+                    platform: item.idea.platform || '微博',
+                    client: item.idea.client?.brand || ''
+                }));
+        }
         
         // Mini 图表 mock 数据生成
         function generateChartData(topicTitle) {
@@ -4248,10 +4278,10 @@
                 const platformClass = PLATFORM_CLASS[topic.platform] || '';
                 const trend = topic.trend || '🔥 稳定';
                 const chartData = generateChartData(topic.title);
-                const relatedTopics = RELATED_TOPICS_MOCK.slice(0, 3 + (index % 3));
+                const relatedTopics = getRelatedTopics(topic, 3 + (index % 3));
                 
                 html += `
-                <div class="hot-item lazy-hidden" data-index="${index}" role="button" tabindex="0" aria-expanded="false">
+                <div class="hot-item lazy-hidden" data-index="${index}" role="button" tabindex="0" aria-expanded="false" data-title="${encodeURIComponent(topic.title || '')}" data-platform="${encodeURIComponent(topic.platform || '')}" data-heat="${encodeURIComponent(topic.heat || '')}">
                     <div class="hot-header" onclick="toggleHotspot(this.closest('.hot-item'))">
                         <div class="rank ${rankClass}">${index + 1}</div>
                         <div class="hot-info">
@@ -4262,7 +4292,7 @@
                                 <span style="color: var(--gray-600); font-size: 12px;">${trend}</span>
                             </div>
                         </div>
-                        <button class="fav-btn" id="fav-btn-${index}" data-id="${topic.title}" onclick="event.stopPropagation(); toggleFavorite(this)">
+                        <button class="fav-btn" id="fav-btn-${index}" data-id="${encodeURIComponent(topic.title || '')}" onclick="event.stopPropagation(); toggleFavorite(this)">
                             <span>☆</span><span>收藏</span>
                         </button>
                         <span class="expand-icon">▼</span>
@@ -4334,11 +4364,11 @@
                         
                         <!-- 生成内容脚本按钮 -->
                         <div class="script-btn-section">
-                            <button class="script-btn" onclick="showScriptPopup('${topic.title.replace(/'/g, "\\'")}', '${topic.platform}')">
+                            <button class="script-btn script-btn-generate" data-title="${encodeURIComponent(topic.title || '')}" data-platform="${encodeURIComponent(topic.platform || '')}">
                                 <span>📝</span>
                                 <span>生成内容脚本</span>
                             </button>
-                            <button class="script-btn secondary" onclick="copyToClipboard('${topic.title.replace(/'/g, "\\'")}')">
+                            <button class="script-btn secondary script-btn-copy" data-title="${encodeURIComponent(topic.title || '')}">
                                 <span>📋</span>
                                 <span>复制标题</span>
                             </button>
@@ -4355,6 +4385,23 @@
             
             // 更新收藏按钮状态
             updateFavoriteButtons();
+            
+            // 事件委托：处理脚本按钮点击（避免XSS）
+            container.addEventListener('click', function(e) {
+                const generateBtn = e.target.closest('.script-btn-generate');
+                const copyBtn = e.target.closest('.script-btn-copy');
+                
+                if (generateBtn) {
+                    e.preventDefault();
+                    const title = decodeURIComponent(generateBtn.dataset.title || '');
+                    const platform = decodeURIComponent(generateBtn.dataset.platform || '');
+                    showScriptPopup(title, platform);
+                } else if (copyBtn) {
+                    e.preventDefault();
+                    const title = decodeURIComponent(copyBtn.dataset.title || '');
+                    copyToClipboard(title);
+                }
+            });
         }
         
         // 懒加载实现（IntersectionObserver）
@@ -4615,7 +4662,7 @@
         
         // 切换收藏状态（XSS安全：使用data-id属性传递，不再拼接title字符串）
         function toggleFavorite(btn) {
-            const topicId = btn.getAttribute('data-id');
+            const topicId = decodeURIComponent(btn.getAttribute('data-id') || '');
             if (!topicId) return;
             
             // 从 allTopics 中查找对应的话题数据（避免直接使用不可信参数）
@@ -4903,15 +4950,15 @@
                         </div>
                         ${noteHtml}
                         <div class="script-btn-section">
-                            <button class="script-btn" onclick="showScriptPopup('${fav.title.replace(/'/g, "\\'")}', '${fav.platform}')">
+                            <button class="script-btn script-btn-generate" data-title="${encodeURIComponent(fav.title || '')}" data-platform="${encodeURIComponent(fav.platform || '')}">
                                 <span>📝</span>
                                 <span>生成内容脚本</span>
                             </button>
-                            <button class="script-btn secondary" onclick="showFavNotePopup('${fav.id}', '${fav.title.replace(/'/g, "\\'")}', '${fav.platform}', '${fav.heat}')">
+                            <button class="script-btn secondary script-btn-fav-edit" data-fav-id="${encodeURIComponent(fav.id || '')}">
                                 <span>✏️</span>
                                 <span>编辑备注</span>
                             </button>
-                            <button class="script-btn secondary" style="border-color: var(--error); color: var(--error);" onclick="currentFavTopicId='${fav.id}'; removeFavorite();">
+                            <button class="script-btn secondary script-btn-fav-remove" data-fav-id="${encodeURIComponent(fav.id || '')}" style="border-color: var(--error); color: var(--error);">
                                 <span>🗑️</span>
                                 <span>移除收藏</span>
                             </button>
@@ -4923,6 +4970,32 @@
             html += '</div>';
             
             container.innerHTML = html;
+            
+            // 事件委托：处理收藏列表按钮点击（避免XSS）
+            container.addEventListener('click', function(e) {
+                const generateBtn = e.target.closest('.script-btn-generate');
+                const editBtn = e.target.closest('.script-btn-fav-edit');
+                const removeBtn = e.target.closest('.script-btn-fav-remove');
+                
+                if (generateBtn) {
+                    e.preventDefault();
+                    const title = decodeURIComponent(generateBtn.dataset.title || '');
+                    const platform = decodeURIComponent(generateBtn.dataset.platform || '');
+                    showScriptPopup(title, platform);
+                } else if (editBtn) {
+                    e.preventDefault();
+                    const favId = decodeURIComponent(editBtn.dataset.favId || '');
+                    loadFavorites();
+                    const fav = favoritesData[favId];
+                    if (fav) {
+                        showFavNotePopup(favId, fav.title, fav.platform, fav.heat);
+                    }
+                } else if (removeBtn) {
+                    e.preventDefault();
+                    currentFavTopicId = decodeURIComponent(removeBtn.dataset.favId || '');
+                    removeFavorite();
+                }
+            });
         }
         
         // 导出收藏为 JSON
