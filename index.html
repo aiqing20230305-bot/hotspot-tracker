@@ -4208,7 +4208,7 @@
         // 渲染热点列表（懒加载）
         function renderTopics() {
             const container = document.getElementById('hotList');
-            let topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => t.platform === currentFilter);
+            let topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => (t.platform || '').includes(currentFilter));
             
             // 分类筛选
             if (currentCategory !== 'all') {
@@ -4383,7 +4383,7 @@
         
         // 导出功能（增强版：带时间戳、BOM支持、完整字段）
         function exportToCSV() {
-            const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => t.platform === currentFilter);
+            const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => (t.platform || '').includes(currentFilter));
             if (!topics.length) { showRefreshToast('无数据可导出', 'error'); return; }
             
             // 增强字段：包含更多有用信息
@@ -4414,7 +4414,7 @@
         }
         
         function exportToJSON() {
-            const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => t.platform === currentFilter);
+            const topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => (t.platform || '').includes(currentFilter));
             if (!topics.length) { showRefreshToast('无数据可导出', 'error'); return; }
             
             // 构建完整的导出报告
