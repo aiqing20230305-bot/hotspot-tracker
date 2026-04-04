@@ -1,5 +1,1258 @@
 [
   {
+    "id": "扩展_000261",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀清明假期结束倒计时 ...的手机内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "手机",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "手机",
+      "荣耀",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000262",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀深夜emo话题升温 ...的平板内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "平板",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "平板",
+      "荣耀",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000263",
+    "client": {
+      "brand": "荣耀",
+      "industry": "科技/手机",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀明日开工在即 打工人...的笔记本内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "笔记本",
+    "keywords": [
+      "明日开工在即 打工人",
+      "笔记本",
+      "荣耀",
+      "推荐"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "C级-普通",
+    "engagement_estimate": "30万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000264",
+    "client": {
+      "brand": "罗技",
+      "industry": "科技/外设",
+      "products": [
+        "鼠标",
+        "键盘",
+        "耳机",
+        "摄像头"
+      ]
+    },
+    "title": "罗技深夜追剧党活跃 假期...的鼠标内容",
+    "platform": "B站",
+    "angle": "场景借势",
+    "hot_topic": "深夜追剧党活跃 假期最后狂欢刷剧不停",
+    "hot_topic_id": "ht_202604050005_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "鼠标",
+    "keywords": [
+      "深夜追剧党活跃 假期",
+      "鼠标",
+      "罗技",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000265",
+    "client": {
+      "brand": "小米",
+      "industry": "科技/生态",
+      "products": [
+        "手机",
+        "平板",
+        "智能家居",
+        "电视"
+      ]
+    },
+    "title": "小米深夜追剧党活跃 假期...的手机内容",
+    "platform": "B站",
+    "angle": "场景借势",
+    "hot_topic": "深夜追剧党活跃 假期最后狂欢刷剧不停",
+    "hot_topic_id": "ht_202604050005_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "手机",
+    "keywords": [
+      "深夜追剧党活跃 假期",
+      "手机",
+      "小米",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000266",
+    "client": {
+      "brand": "索尼",
+      "industry": "科技/影音",
+      "products": [
+        "耳机",
+        "相机",
+        "游戏机",
+        "电视"
+      ]
+    },
+    "title": "索尼深夜追剧党活跃 假期...的耳机内容",
+    "platform": "B站",
+    "angle": "场景借势",
+    "hot_topic": "深夜追剧党活跃 假期最后狂欢刷剧不停",
+    "hot_topic_id": "ht_202604050005_005",
+    "heat": "热",
+    "trend": "新",
+    "product": "耳机",
+    "keywords": [
+      "深夜追剧党活跃 假期",
+      "耳机",
+      "索尼",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000267",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "防晒",
+        "精华",
+        "面膜",
+        "水乳"
+      ]
+    },
+    "title": "AHC深夜emo话题升温 ...的防晒内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "防晒",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "防晒",
+      "AHC",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000268",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆/护肤",
+      "products": [
+        "防晒",
+        "精华",
+        "面膜",
+        "水乳"
+      ]
+    },
+    "title": "AHC假期最后一天护肤急救...的精华内容",
+    "platform": "小红书",
+    "angle": "产品种草",
+    "hot_topic": "假期最后一天护肤急救 晒后修复成刚需",
+    "hot_topic_id": "ht_202604050005_004",
+    "heat": "热",
+    "trend": "新",
+    "product": "精华",
+    "keywords": [
+      "假期最后一天护肤急救",
+      "精华",
+      "AHC",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000269",
+    "client": {
+      "brand": "多芬",
+      "industry": "个护/清洁",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "身体乳",
+        "香皂"
+      ]
+    },
+    "title": "多芬假期最后一天护肤急救...的沐浴露内容",
+    "platform": "小红书",
+    "angle": "产品种草",
+    "hot_topic": "假期最后一天护肤急救 晒后修复成刚需",
+    "hot_topic_id": "ht_202604050005_004",
+    "heat": "热",
+    "trend": "新",
+    "product": "沐浴露",
+    "keywords": [
+      "假期最后一天护肤急救",
+      "沐浴露",
+      "多芬",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000270",
+    "client": {
+      "brand": "力士",
+      "industry": "个护/清洁",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "护发素",
+        "香皂"
+      ]
+    },
+    "title": "力士假期最后一天护肤急救...的沐浴露内容",
+    "platform": "小红书",
+    "angle": "产品种草",
+    "hot_topic": "假期最后一天护肤急救 晒后修复成刚需",
+    "hot_topic_id": "ht_202604050005_004",
+    "heat": "热",
+    "trend": "新",
+    "product": "沐浴露",
+    "keywords": [
+      "假期最后一天护肤急救",
+      "沐浴露",
+      "力士",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000271",
+    "client": {
+      "brand": "清扬",
+      "industry": "个护/洗发",
+      "products": [
+        "洗发水",
+        "护发素",
+        "头皮护理"
+      ]
+    },
+    "title": "清扬清明假期结束倒计时 ...的洗发水内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "洗发水",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "洗发水",
+      "清扬",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000272",
+    "client": {
+      "brand": "清扬",
+      "industry": "个护/洗发",
+      "products": [
+        "洗发水",
+        "护发素",
+        "头皮护理"
+      ]
+    },
+    "title": "清扬深夜emo话题升温 ...的护发素内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "护发素",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "护发素",
+      "清扬",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000273",
+    "client": {
+      "brand": "清扬",
+      "industry": "个护/洗发",
+      "products": [
+        "洗发水",
+        "护发素",
+        "头皮护理"
+      ]
+    },
+    "title": "清扬明日开工在即 打工人...的头皮护理内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "头皮护理",
+    "keywords": [
+      "明日开工在即 打工人",
+      "头皮护理",
+      "清扬",
+      "推荐"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "C级-普通",
+    "engagement_estimate": "30万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000274",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆/护肤",
+      "products": [
+        "精华",
+        "面霜",
+        "防晒",
+        "抗衰"
+      ]
+    },
+    "title": "玉兰油假期最后一天护肤急救...的精华内容",
+    "platform": "小红书",
+    "angle": "产品种草",
+    "hot_topic": "假期最后一天护肤急救 晒后修复成刚需",
+    "hot_topic_id": "ht_202604050005_004",
+    "heat": "热",
+    "trend": "新",
+    "product": "精华",
+    "keywords": [
+      "假期最后一天护肤急救",
+      "精华",
+      "玉兰油",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000275",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "健康/保健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "钙片",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健清明假期结束倒计时 ...的蛋白粉内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "蛋白粉",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "蛋白粉",
+      "汤臣倍健",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000276",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "健康/保健",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "钙片",
+        "益生菌"
+      ]
+    },
+    "title": "汤臣倍健深夜emo话题升温 ...的维生素内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "维生素",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "维生素",
+      "汤臣倍健",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000277",
+    "client": {
+      "brand": "善存",
+      "industry": "健康/保健",
+      "products": [
+        "维生素",
+        "矿物质",
+        "钙片"
+      ]
+    },
+    "title": "善存深夜emo话题升温 ...的维生素内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "维生素",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "维生素",
+      "善存",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000278",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "精华",
+        "面膜",
+        "防晒"
+      ]
+    },
+    "title": "HC清明假期结束倒计时 ...的精华内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "精华",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "精华",
+      "HC",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000279",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "精华",
+        "面膜",
+        "防晒"
+      ]
+    },
+    "title": "HC深夜emo话题升温 ...的面膜内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "面膜",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "面膜",
+      "HC",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000280",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆/护肤",
+      "products": [
+        "精华",
+        "面膜",
+        "防晒"
+      ]
+    },
+    "title": "HC明日开工在即 打工人...的防晒内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "防晒",
+    "keywords": [
+      "明日开工在即 打工人",
+      "防晒",
+      "HC",
+      "推荐"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "C级-普通",
+    "engagement_estimate": "30万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000281",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居/清洁",
+      "products": [
+        "清洁剂",
+        "消毒液",
+        "去污剂"
+      ]
+    },
+    "title": "威猛先生清明假期结束倒计时 ...的清洁剂内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "清洁剂",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "清洁剂",
+      "威猛先生",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000282",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居/清洁",
+      "products": [
+        "清洁剂",
+        "消毒液",
+        "去污剂"
+      ]
+    },
+    "title": "威猛先生深夜emo话题升温 ...的消毒液内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "消毒液",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "消毒液",
+      "威猛先生",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000283",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居/清洁",
+      "products": [
+        "清洁剂",
+        "消毒液",
+        "去污剂"
+      ]
+    },
+    "title": "威猛先生明日开工在即 打工人...的去污剂内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "去污剂",
+    "keywords": [
+      "明日开工在即 打工人",
+      "去污剂",
+      "威猛先生",
+      "推荐"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "C级-普通",
+    "engagement_estimate": "30万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000284",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护/剃须",
+      "products": [
+        "剃须刀",
+        "剃须膏",
+        "刀片"
+      ]
+    },
+    "title": "舒适清明假期结束倒计时 ...的剃须刀内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "剃须刀",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "剃须刀",
+      "舒适",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000285",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护/剃须",
+      "products": [
+        "剃须刀",
+        "剃须膏",
+        "刀片"
+      ]
+    },
+    "title": "舒适深夜emo话题升温 ...的剃须膏内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "剃须膏",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "剃须膏",
+      "舒适",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000286",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护/剃须",
+      "products": [
+        "剃须刀",
+        "剃须膏",
+        "刀片"
+      ]
+    },
+    "title": "舒适明日开工在即 打工人...的刀片内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "刀片",
+    "keywords": [
+      "明日开工在即 打工人",
+      "刀片",
+      "舒适",
+      "推荐"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "C级-普通",
+    "engagement_estimate": "30万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000287",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物/食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物零食"
+      ]
+    },
+    "title": "希宝清明假期结束倒计时 ...的猫粮内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "猫粮",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "猫粮",
+      "希宝",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000288",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物/食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物零食"
+      ]
+    },
+    "title": "希宝深夜emo话题升温 ...的狗粮内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "狗粮",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "狗粮",
+      "希宝",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000289",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物/食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物零食"
+      ]
+    },
+    "title": "希宝明日开工在即 打工人...的宠物零食内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "宠物零食",
+    "keywords": [
+      "明日开工在即 打工人",
+      "宠物零食",
+      "希宝",
+      "推荐"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "C级-普通",
+    "engagement_estimate": "30万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000290",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物/食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "处方粮"
+      ]
+    },
+    "title": "皇家清明假期结束倒计时 ...的猫粮内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "猫粮",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "猫粮",
+      "皇家",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000291",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物/食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "处方粮"
+      ]
+    },
+    "title": "皇家深夜emo话题升温 ...的狗粮内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "狗粮",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "狗粮",
+      "皇家",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000292",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物/食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "处方粮"
+      ]
+    },
+    "title": "皇家明日开工在即 打工人...的处方粮内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "处方粮",
+    "keywords": [
+      "明日开工在即 打工人",
+      "处方粮",
+      "皇家",
+      "推荐"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "C级-普通",
+    "engagement_estimate": "30万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000293",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品/植物奶",
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY明日开工在即 打工人...的燕麦奶内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "燕麦奶",
+    "keywords": [
+      "明日开工在即 打工人",
+      "燕麦奶",
+      "OATLY",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000294",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威清明假期结束倒计时 ...的啤酒内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "啤酒",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "啤酒",
+      "百威",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000295",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威深夜emo话题升温 ...的精酿内容",
+    "platform": "小红书",
+    "angle": "健康科普",
+    "hot_topic": "深夜emo话题升温 假期综合症引发共鸣",
+    "hot_topic_id": "ht_202604050005_002",
+    "heat": "热",
+    "trend": "新",
+    "product": "精酿",
+    "keywords": [
+      "深夜emo话题升温 ",
+      "精酿",
+      "百威",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000296",
+    "client": {
+      "brand": "百威",
+      "industry": "酒饮",
+      "products": [
+        "啤酒",
+        "精酿",
+        "低醇啤酒"
+      ]
+    },
+    "title": "百威明日开工在即 打工人...的低醇啤酒内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "低醇啤酒",
+    "keywords": [
+      "明日开工在即 打工人",
+      "低醇啤酒",
+      "百威",
+      "推荐"
+    ],
+    "quality_score": 0.7,
+    "quality_level": "C级-普通",
+    "engagement_estimate": "30万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000297",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料/气泡水",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水"
+      ]
+    },
+    "title": "元气森林清明假期结束倒计时 ...的气泡水内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "气泡水",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "气泡水",
+      "元气森林",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000298",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料/气泡水",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水"
+      ]
+    },
+    "title": "元气森林明日开工在即 打工人...的无糖茶内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "无糖茶",
+    "keywords": [
+      "明日开工在即 打工人",
+      "无糖茶",
+      "元气森林",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000299",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水饮",
+      "products": [
+        "矿泉水",
+        "茶饮",
+        "果汁"
+      ]
+    },
+    "title": "农夫山泉清明假期结束倒计时 ...的矿泉水内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "清明假期结束倒计时 打工人收心攻略成热议",
+    "hot_topic_id": "ht_202604050005_001",
+    "heat": "爆",
+    "trend": "新",
+    "product": "矿泉水",
+    "keywords": [
+      "清明假期结束倒计时 ",
+      "矿泉水",
+      "农夫山泉",
+      "推荐"
+    ],
+    "quality_score": 0.6,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "10万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
+    "id": "扩展_000300",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料/水饮",
+      "products": [
+        "矿泉水",
+        "茶饮",
+        "果汁"
+      ]
+    },
+    "title": "农夫山泉明日开工在即 打工人...的茶饮内容",
+    "platform": "抖音",
+    "angle": "创意借势",
+    "hot_topic": "明日开工在即 打工人备好开工利是和开工咖啡",
+    "hot_topic_id": "ht_202604050005_003",
+    "heat": "热",
+    "trend": "新",
+    "product": "茶饮",
+    "keywords": [
+      "明日开工在即 打工人",
+      "茶饮",
+      "农夫山泉",
+      "推荐"
+    ],
+    "quality_score": 0.65,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T00:05:04"
+  },
+  {
     "id": "扩展_001500",
     "client": {
       "brand": "百威",
