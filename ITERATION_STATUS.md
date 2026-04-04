@@ -3,7 +3,7 @@
 ### 数据量检查
 - 热点(hot_topics): 100条 ✅
 - 选题(client_ideas): 1500条 ✅ (已达标)
-- SKU场景(sku_scenes): 103个
+- SKU场景(sku_scenes): 100个SKU, 4560个场景 ✅ (已达标)
 
 ### 功能状态
 - 平台筛选: 已修复 ✅ (includes模糊匹配)
