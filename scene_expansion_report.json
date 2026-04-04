@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-04-05T02:19:51.027755",
+  "total_skus": 90,
+  "total_scenarios": 4500,
+  "avg_scenarios_per_sku": 50.0,
+  "categories_covered": [
+    "3C数码",
+    "美妆",
+    "母婴",
+    "家居",
+    "食品饮料",
+    "服装",
+    "个护",
+    "宠物",
+    "运动户外"
+  ]
+}
