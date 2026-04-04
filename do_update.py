@@ -1,10 +1,129 @@
 import json
+from datetime import datetime
 
 ts = "2026-04-04T09:36:00"
 
+# ============ 字段补全函数 ============
+
+def format_heat_value(value):
+    """将数值格式化为 '766万' 形式"""
+    if value >= 100000000:
+        return f"{value / 100000000:.1f}亿"
+    elif value >= 10000000:
+        return f"{value / 10000000:.1f}千万"
+    elif value >= 1000000:
+        return f"{value / 1000000:.1f}百万"
+    elif value >= 10000:
+        return f"{value / 10000:.0f}万"
+    else:
+        return str(value)
+
+def generate_logic(title, industries):
+    """基于热点标题和行业生成简短分析（50字以内）"""
+    industry_features = {
+        "旅游": "假期出游", "文化": "文旅融合", "美食": "餐饮消费", "社交": "社交生活",
+        "健康": "健康关注", "医疗": "医疗服务", "零售": "零售消费", "消费": "消费升级",
+        "科技": "科技创新", "AI": "人工智能", "宠物": "宠物经济", "母婴": "母婴育儿",
+        "美妆": "美妆护肤", "护肤": "护肤需求", "健身": "健身运动", "食品": "食品饮料",
+        "汽车": "汽车出行", "新能源": "新能源车", "家居": "家居生活", "游戏": "游戏娱乐",
+        "娱乐": "娱乐休闲", "个护": "个人护理", "时尚": "时尚潮流", "酒店": "酒店住宿",
+        "教育": "教育培训", "互联网": "互联网服务", "服装": "服饰穿搭", "户外": "户外运动",
+        "健康": "健康生活", "健身": "健身运动"
+    }
+    
+    features = [industry_features.get(ind, ind) for ind in industries if ind in industry_features]
+    
+    analysis_patterns = []
+    if any(kw in title for kw in ["假期", "清明", "周末", "出行", "旅游"]):
+        analysis_patterns.append("节假日出行热度攀升")
+    if any(kw in title for kw in ["新能源", "充电", "续航"]):
+        analysis_patterns.append("新能源汽车充电痛点受关注")
+    if any(kw in title for kw in ["AI", "视频生成", "工具"]):
+        analysis_patterns.append("AI工具赋能内容创作")
+    if any(kw in title for kw in ["护肤", "精华", "美妆", "防晒"]):
+        analysis_patterns.append("护肤品类进入季节性旺季")
+    if any(kw in title for kw in ["brunch", "咖啡", "美食"]):
+        analysis_patterns.append("休闲餐饮消费持续升温")
+    if any(kw in title for kw in ["宠物", "寄养", "美容"]):
+        analysis_patterns.append("宠物服务需求快速增长")
+    if any(kw in title for kw in ["过敏", "花粉", "健康"]):
+        analysis_patterns.append("季节性健康问题引发关注")
+    if any(kw in title for kw in ["智能", "家居", "设备"]):
+        analysis_patterns.append("智能家居渗透率持续提升")
+    if any(kw in title for kw in ["运动", "骑行", "户外"]):
+        analysis_patterns.append("户外运动参与度显著上升")
+    if any(kw in title for kw in ["青团", "节令", "传统"]):
+        analysis_patterns.append("传统节令食品创新热销")
+    
+    if not analysis_patterns:
+        if features:
+            analysis_patterns.append(f"{'、'.join(features[:2])}需求旺盛")
+        else:
+            analysis_patterns.append("话题热度持续攀升")
+    
+    logic = analysis_patterns[0]
+    if features and features[0] not in logic:
+        logic = f"{features[0]}话题热度上升"
+    
+    return logic[:50] if len(logic) > 50 else logic
+
+def calculate_trend(hot_value, rank):
+    """根据排名判断趋势（越高越热）"""
+    if rank <= 5:
+        return "爆发"
+    elif rank <= 15:
+        return "上升"
+    elif rank <= 30:
+        return "稳定"
+    else:
+        return "下降"
+
+def add_data_fields(topic, rank=1, history_data=None):
+    """为热点添加 logic/trend/heat/isNew 字段"""
+    import json
+    import os
+    
+    title = topic.get('title', '')
+    industries = topic.get('industries', [])
+    hot_value = topic.get('hot_value', 0)
+    
+    topic['heat'] = format_heat_value(hot_value)
+    topic['logic'] = generate_logic(title, industries)
+    
+    # 与历史数据对比判断趋势
+    if history_data:
+        history_value = None
+        for history_title, history_info in history_data.items():
+            if title in history_title or history_title in title:
+                history_value = history_info.get('hot_value')
+                break
+        
+        if history_value:
+            change_rate = (hot_value - history_value) / history_value if history_value > 0 else 0
+            if change_rate > 0.15:
+                topic['trend'] = "上升"
+            elif change_rate < -0.10:
+                topic['trend'] = "下降"
+            elif change_rate > 0.05:
+                topic['trend'] = "稳定"
+            else:
+                topic['trend'] = "稳定"
+        else:
+            topic['trend'] = "爆发"  # 新出现的
+    else:
+        topic['trend'] = calculate_trend(hot_value, rank)
+    
+    # 判断是否为新热点（在历史中未出现）
+    if history_data:
+        topic['isNew'] = not any(title in h or h in title for h in history_data.keys())
+    else:
+        topic['isNew'] = rank <= 10  # 前10名为新热点
+    
+    return topic
+
 # 50 new topics replacing old batch
 new_topics = [
-    {"id":"ht_202604040936_001","title":"清明假期后半程迎客流高峰 故宫博物院连续三日预约爆满","hot_value":492000000,"platform":"微博/抖音","industries":["旅游","文化"],"trends":["爆"],"type":"旅游热点","sentiment":"正面","keywords":["清明","故宫","预约","假期后半程","旅游"],"c":["农夫山泉","元气森林","OATLY"],"created_at":ts,"rank":1,"category":"旅游热点","trend_tags":["#清明旅游","#故宫预约","#假期出行"],"url":"https://weibo.com","updated_at":ts},
+    {"id":"ht_202604040936_001","title":"清明假期后半程迎客流高峰 故宫博物院连续三日预约爆满","hot_value":492000000,"platform":"微博/抖音","industries":["旅游","文化"],"trends":["爆"],"type":"旅游热点","sentiment":"正面","keywords":["清明","故宫","预约","假期后半程","旅游"],"c":["农夫山泉","元气森林","OATLY"],"created_at":ts,"rank":1,"category":"旅游热点","trend_tags":["#清明旅游","#故宫预约","#假期出行"],"url":"https://weibo.com","updated_at":ts,"heat":"4.9亿","logic":"假期出行热度攀升","trend":"爆发","isNew":true},
     {"id":"ht_202604040936_002","title":"周末brunch文化持续升温 年轻人掀起早午餐社交潮","hot_value":489000000,"platform":"小红书/抖音","industries":["美食","社交"],"trends":["热","新"],"type":"美食热点","sentiment":"正面","keywords":["brunch","周末","早午餐","社交","年轻人"],"c":["元气森林","农夫山泉","OATLY","百威"],"created_at":ts,"rank":2,"category":"美食热点","trend_tags":["#周末Brunch","#早午餐文化","#社交美食"],"url":"https://xiaohongshu.com","updated_at":ts},
     {"id":"ht_202604040936_003","title":"清明节后花粉浓度再创新高 过敏患者需加强防护","hot_value":487000000,"platform":"微博/小红书","industries":["健康","医疗"],"trends":["爆","热"],"type":"大健康热点","sentiment":"中性","keywords":["花粉","过敏","清明后","防护","健康"],"c":["AHC","玉兰油","汤臣倍健","善存"],"created_at":ts,"rank":3,"category":"大健康热点","trend_tags":["#花粉过敏","#春季防护","#健康提醒"],"url":"https://weibo.com","updated_at":ts},
     {"id":"ht_202604040936_004","title":"周末商场人流回升 清明特卖带动消费小高峰","hot_value":483000000,"platform":"微博/小红书","industries":["零售","消费"],"trends":["热"],"type":"快消热点","sentiment":"正面","keywords":["周末","商场","特卖","消费","清明"],"c":["农夫山泉","元气森林","多芬","力士"],"created_at":ts,"rank":4,"category":"快消热点","trend_tags":["#周末逛街","#清明特卖","#消费复苏"],"url":"https://weibo.com","updated_at":ts},
@@ -114,6 +233,11 @@ for topic in new_topics[:20]:  # Top 20 topics
             seq_counter += 1
 
 # === UPDATE FILES ===
+
+# 为所有热点添加缺失字段
+for i, topic in enumerate(new_topics):
+    topic = add_data_fields(topic, rank=i+1)
+
 with open("/Users/zhangjingwei/.qclaw/workspace/hotspot-tracker/hot_topics.json","w",encoding="utf-8") as f:
     json.dump(new_topics, f, ensure_ascii=False, indent=2)
 

@@ -4080,6 +4080,39 @@
         };
         let quickFilterActive = null;
         
+        // ========== XSS 安全防护函数 ==========
+        /**
+         * HTML 实体转义，防止 XSS 攻击
+         * 用于将用户输入安全地插入到 HTML 内容中
+         */
+        function escapeHtml(str) {
+            if (str == null) return '';
+            const s = String(str);
+            return s.replace(/[&<>"']/g, char => ({
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#x27;'
+            })[char]);
+        }
+        
+        /**
+         * HTML 属性转义，防止 XSS 攻击
+         * 用于将用户输入安全地插入到 HTML 属性值中
+         */
+        function escapeAttr(str) {
+            if (str == null) return '';
+            const s = String(str);
+            return s.replace(/[&<>"']/g, char => ({
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#x27;'
+            })[char]);
+        }
+        
         // 平台颜色映射
         const PLATFORM_CLASS = {
             '抖音': 'douyin',
@@ -5097,14 +5130,17 @@
             const dateStr = now.toLocaleDateString('zh-CN');
             const timeStr = now.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
             
+            const safeTitle = escapeHtml(title);
+            const safePlatform = escapeHtml(platform);
+            
             const scriptContent = `
 <div class="script-section">
     <div class="script-section-title">📌 热点选题</div>
-    <div>${title}</div>
+    <div>${safeTitle}</div>
 </div>
 <div class="script-section">
     <div class="script-section-title">📍 目标平台</div>
-    <div>${platform}</div>
+    <div>${safePlatform}</div>
 </div>
 <div class="script-section">
     <div class="script-section-title">🎯 内容定位</div>
@@ -5473,17 +5509,21 @@
             favorites.forEach((fav, index) => {
                 const rankClass = index < 3 ? `top${index + 1}` : '';
                 const platformClass = PLATFORM_CLASS[fav.platform] || '';
-                const noteHtml = fav.note ? `<div class="fav-note-display"><span class="note-tag">备注</span>${fav.note}</div>` : '';
+                const safeNote = escapeHtml(fav.note);
+                const safeTitle = escapeHtml(fav.title);
+                const safePlatform = escapeHtml(fav.platform);
+                const safeHeat = escapeHtml(fav.heat);
+                const noteHtml = fav.note ? `<div class="fav-note-display"><span class="note-tag">备注</span>${safeNote}</div>` : '';
                 
                 html += `
                 <div class="hot-item" data-index="${index}">
                     <div class="hot-header" onclick="toggleHotspot(this.closest('.hot-item'))">
                         <div class="rank ${rankClass}">${index + 1}</div>
                         <div class="hot-info">
-                            <div class="hot-title">${fav.title}</div>
+                            <div class="hot-title">${safeTitle}</div>
                             <div class="hot-meta">
-                                <span class="platform-badge ${platformClass}">${fav.platform}</span>
-                                <span class="heat-badge">🔥 ${fav.heat}</span>
+                                <span class="platform-badge ${platformClass}">${safePlatform}</span>
+                                <span class="heat-badge">🔥 ${safeHeat}</span>
                             </div>
                         </div>
                         <span class="expand-icon">▼</span>
@@ -5496,7 +5536,7 @@
                             </div>
                             <div class="detail-card">
                                 <div class="detail-label">平台</div>
-                                <div class="detail-value">${fav.platform}</div>
+                                <div class="detail-value">${safePlatform}</div>
                             </div>
                         </div>
                         ${noteHtml}
@@ -5706,23 +5746,32 @@
                 items = Object.values(brandMap).slice(0, 30);
             }
             
-            grid.innerHTML = items.map(item => `
-                <div class="compare-select-item ${compareSelectedItems.find(s => s.id === item.id) ? 'selected' : ''}" 
-                     onclick="toggleCompareSelect('${item.id.replace(/'/g, "\\'")}')" 
-                     data-id="${item.id}">
+            grid.innerHTML = items.map(item => {
+                const safeTitle = escapeHtml(item.title);
+                const safeId = escapeAttr(item.id);
+                const safePlatform = Array.isArray(item.platform) 
+                    ? escapeHtml(item.platform.slice(0,2).join('/')) 
+                    : escapeHtml(item.platform);
+                const safeHeat = escapeHtml(item.heat);
+                const safeType = escapeHtml(item.type);
+                const isSelected = compareSelectedItems.find(s => s.id === item.id);
+                return `
+                <div class="compare-select-item ${isSelected ? 'selected' : ''}" 
+                     onclick="toggleCompareSelect(this.dataset.id)" 
+                     data-id="${safeId}">
                     <div class="compare-select-checkbox">
-                        ${compareSelectedItems.find(s => s.id === item.id) ? '✓' : ''}
+                        ${isSelected ? '✓' : ''}
                     </div>
                     <div class="compare-select-content">
-                        <div class="compare-select-title">${item.title}</div>
+                        <div class="compare-select-title">${safeTitle}</div>
                         <div class="compare-select-meta">
-                            ${item.platform ? `<span class="platform-badge ${PLATFORM_CLASS[item.platform?.split('/')[0]] || ''}" style="padding:1px 6px;font-size:10px;">${Array.isArray(item.platform) ? item.platform.slice(0,2).join('/') : item.platform}</span>` : ''}
-                            ${item.heat ? `<span class="heat-badge" style="font-size:11px;">🔥 ${item.heat}</span>` : ''}
-                            ${item.type ? `<span style="font-size:11px;color:var(--text-secondary);">${item.type}</span>` : ''}
+                            ${item.platform ? `<span class="platform-badge ${PLATFORM_CLASS[item.platform?.split('/')[0]] || ''}" style="padding:1px 6px;font-size:10px;">${safePlatform}</span>` : ''}
+                            ${item.heat ? `<span class="heat-badge" style="font-size:11px;">🔥 ${safeHeat}</span>` : ''}
+                            ${item.type ? `<span style="font-size:11px;color:var(--text-secondary);">${safeType}</span>` : ''}
                         </div>
                     </div>
                 </div>
-            `).join('');
+            `}).join('');
             
             // 存储数据供后续使用
             window._compareItemsData = items;
@@ -5778,12 +5827,15 @@
             if (compareSelectedItems.length > 0) {
                 section.style.display = 'block';
                 count.textContent = compareSelectedItems.length;
-                tags.innerHTML = compareSelectedItems.map((item, idx) => `
+                tags.innerHTML = compareSelectedItems.map((item, idx) => {
+                    const safeTitle = escapeHtml(item.title.slice(0, 20) + (item.title.length > 20 ? '...' : ''));
+                    const safeId = escapeAttr(item.id);
+                    return `
                     <div class="compare-selected-tag" style="background: linear-gradient(135deg, ${COMPARE_COLORS[idx]}, ${COMPARE_COLORS[idx]}dd);">
-                        <span>${item.title.slice(0, 20)}${item.title.length > 20 ? '...' : ''}</span>
-                        <span class="remove" onclick="removeCompareSelected('${item.id.replace(/'/g, "\\'")}')">×</span>
+                        <span>${safeTitle}</span>
+                        <span class="remove" onclick="removeCompareSelected(this.dataset.id)" data-id="${safeId}">×</span>
                     </div>
-                `).join('');
+                `}).join('');
                 btn.disabled = compareSelectedItems.length < 2;
             } else {
                 section.style.display = 'none';
@@ -5822,14 +5874,16 @@
             thead.innerHTML = `
                 <tr>
                     <th>对比维度</th>
-                    ${compareSelectedItems.map((item, idx) => `
+                    ${compareSelectedItems.map((item, idx) => {
+                        const safeTitle = escapeHtml(item.title.slice(0, 15) + (item.title.length > 15 ? '...' : ''));
+                        return `
                         <th>
                             <div class="compare-col-header">
                                 <span class="compare-col-color" style="background:${COMPARE_COLORS[idx]}"></span>
-                                <span>${item.title.slice(0, 15)}${item.title.length > 15 ? '...' : ''}</span>
+                                <span>${safeTitle}</span>
                             </div>
                         </th>
-                    `).join('')}
+                    `}).join('')}
                 </tr>
             `;
             
@@ -5852,7 +5906,7 @@
             compareSelectedItems.forEach(item => {
                 const platforms = Array.isArray(item.platform) ? item.platform : [item.platform];
                 platformRow.push(platforms.filter(p => p).map(p => 
-                    `<span class="platform-badge ${PLATFORM_CLASS[p?.split('/')[0]] || ''}" style="padding:1px 6px;font-size:10px;margin:2px;">${p}</span>`
+                    `<span class="platform-badge ${PLATFORM_CLASS[p?.split('/')[0]] || ''}" style="padding:1px 6px;font-size:10px;margin:2px;">${escapeHtml(p)}</span>`
                 ).join(' ') || '-');
             });
             rows.push(platformRow);
@@ -5877,7 +5931,7 @@
                 compareSelectedItems.forEach(item => {
                     const clients = item.clients || [];
                     clientRow.push(clients.length > 0 
-                        ? clients.slice(0, 3).map(c => `<span class="client-tag" style="font-size:11px;padding:2px 8px;">${c}</span>`).join(' ') + (clients.length > 3 ? ` +${clients.length - 3}` : '')
+                        ? clients.slice(0, 3).map(c => `<span class="client-tag" style="font-size:11px;padding:2px 8px;">${escapeHtml(c)}</span>`).join(' ') + (clients.length > 3 ? ` +${clients.length - 3}` : '')
                         : '-');
                 });
                 rows.push(clientRow);
@@ -5888,9 +5942,9 @@
             compareSelectedItems.forEach(item => {
                 if (compareType === 'topic') {
                     const industries = item.data?.industries || [];
-                    industryRow.push(industries.length > 0 ? industries.join('、') : '-');
+                    industryRow.push(industries.length > 0 ? escapeHtml(industries.join('、')) : '-');
                 } else {
-                    industryRow.push(item.type || '-');
+                    industryRow.push(escapeHtml(item.type) || '-');
                 }
             });
             rows.push(industryRow);
@@ -5899,7 +5953,7 @@
             if (compareType === 'topic') {
                 const sentimentRow = ['💭 情感倾向'];
                 compareSelectedItems.forEach(item => {
-                    const sentiment = item.data?.sentiment || '中性';
+                    const sentiment = escapeHtml(item.data?.sentiment || '中性');
                     const color = sentiment === '正面' ? '#10B981' : sentiment === '负面' ? '#EF4444' : 'var(--text-secondary)';
                     sentimentRow.push(`<span style="color:${color};font-weight:600;">${sentiment}</span>`);
                 });
@@ -5910,9 +5964,11 @@
             const trendRow = ['📈 趋势'];
             compareSelectedItems.forEach(item => {
                 const trends = item.data?.trends || [];
-                trendRow.push(trends.length > 0 ? trends.map(t => 
-                    `<span style="color:${t === '爆' ? '#EF4444' : t === '热' ? '#F59E0B' : 'var(--text-secondary)'};font-weight:600;">${t}</span>`
-                ).join(' ') : '-');
+                trendRow.push(trends.length > 0 ? trends.map(t => {
+                    const safeT = escapeHtml(t);
+                    const color = t === '爆' ? '#EF4444' : t === '热' ? '#F59E0B' : 'var(--text-secondary)';
+                    return `<span style="color:${color};font-weight:600;">${safeT}</span>`;
+                }).join(' ') : '-');
             });
             rows.push(trendRow);
             
@@ -6058,24 +6114,26 @@
                     <div class="compare-keyword-group">
                         <div class="compare-keyword-group-title">🤝 共同关键词</div>
                         <div class="compare-keyword-tags">
-                            ${sharedKeywords.slice(0, 10).map(kw => `<span class="compare-keyword-tag shared">${kw}</span>`).join('')}
+                            ${sharedKeywords.slice(0, 10).map(kw => `<span class="compare-keyword-tag shared">${escapeHtml(kw)}</span>`).join('')}
                             ${sharedKeywords.length > 10 ? `<span style="font-size:11px;color:var(--text-secondary);">+${sharedKeywords.length - 10}</span>` : ''}
                         </div>
                     </div>
                 ` : ''}
-                ${compareSelectedItems.map((item, idx) => `
+                ${compareSelectedItems.map((item, idx) => {
+                    const safeTitle = escapeHtml(item.title.slice(0, 12));
+                    return `
                     <div class="compare-keyword-group">
                         <div class="compare-keyword-group-title" style="display:flex;align-items:center;gap:6px;">
                             <span class="compare-col-color" style="background:${COMPARE_COLORS[idx]};width:10px;height:10px;border-radius:3px;"></span>
-                            <span>${item.title.slice(0, 12)} 独有关键词</span>
+                            <span>${safeTitle} 独有关键词</span>
                         </div>
                         <div class="compare-keyword-tags">
-                            ${uniqueKeywords[idx].slice(0, 8).map(kw => `<span class="compare-keyword-tag unique">${kw}</span>`).join('')}
+                            ${uniqueKeywords[idx].slice(0, 8).map(kw => `<span class="compare-keyword-tag unique">${escapeHtml(kw)}</span>`).join('')}
                             ${uniqueKeywords[idx].length > 8 ? `<span style="font-size:11px;color:var(--text-secondary);">+${uniqueKeywords[idx].length - 8}</span>` : ''}
                             ${uniqueKeywords[idx].length === 0 ? `<span style="font-size:11px;color:var(--text-secondary);">无独有关键词</span>` : ''}
                         </div>
                     </div>
-                `).join('')}
+                `}).join('')}
             `;
         }
         
