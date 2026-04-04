@@ -52,9 +52,11 @@
         .page-header h1{font-size:32px;margin-bottom:8px}
         .page-header p{opacity:0.9}
         .update-time{background:rgba(255,255,255,0.2);padding:6px 16px;border-radius:20px;font-size:14px;display:inline-flex;align-items:center;gap:8px;margin-top:12px;flex-wrap:wrap}
-        .refresh-btn{background:rgba(255,255,255,0.2);border:none;color:#fff;padding:4px 8px;border-radius:6px;cursor:pointer;font-size:13px;transition:all 0.2s;display:flex;align-items:center;gap:4px}
-        .refresh-btn:hover{background:rgba(255,255,255,0.3)}
-        .refresh-btn.loading .icon{animation:spin 1s linear infinite}
+        .refresh-btn{background:rgba(255,255,255,0.2);border:none;color:#fff;padding:4px 8px;border-radius:6px;cursor:pointer;font-size:13px;transition:all 0.3s;display:flex;align-items:center;gap:4px;min-height:32px}
+        .refresh-btn:hover{background:rgba(255,255,255,0.3);transform:scale(1.02)}
+        .refresh-btn.loading{background:rgba(255,255,255,0.3);cursor:wait;opacity:0.8}
+        .refresh-btn.loading .icon{animation:spin 0.8s linear infinite}
+        .refresh-btn:disabled{opacity:0.5;cursor:not-allowed;transform:none}
         @keyframes spin{to{transform:rotate(360deg)}}
         /* 导出按钮样式 */
         .export-btn {
@@ -1274,6 +1276,51 @@
             letter-spacing: 0.5px;
         }
         
+        /* ========== 返回顶部按钮 ========== */
+        .back-to-top {
+            position: fixed;
+            bottom: 32px;
+            right: 32px;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 20px;
+            box-shadow: 0 4px 16px rgba(99, 102, 241, 0.4);
+            transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            z-index: 999;
+            opacity: 0;
+            transform: translateY(20px) scale(0.8);
+            pointer-events: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .back-to-top.visible {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+            pointer-events: auto;
+        }
+        .back-to-top:hover {
+            transform: translateY(-4px) scale(1.1);
+            box-shadow: 0 8px 24px rgba(99, 102, 241, 0.5);
+        }
+        .back-to-top:active {
+            transform: translateY(-2px) scale(1.05);
+        }
+        @media (max-width: 768px) {
+            .back-to-top {
+                bottom: 20px;
+                right: 20px;
+                width: 44px;
+                height: 44px;
+                font-size: 18px;
+            }
+        }
+
         /* ========== 响应式布局 ========== */
         .hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;min-width:44px;min-height:44px;justify-content:center;align-items:center}
         .hamburger span{width:24px;height:2px;background:var(--gray-600);border-radius:2px;transition:all 0.3s}
@@ -3684,6 +3731,92 @@
             updateAdvancedCharts(allTopics);
         }
         
+        // ========== 返回顶部功能 ==========
+        function initBackToTop() {
+            const btn = document.createElement('button');
+            btn.className = 'back-to-top';
+            btn.innerHTML = '↑';
+            btn.title = '返回顶部';
+            btn.onclick = scrollToTop;
+            document.body.appendChild(btn);
+            
+            // 监听滚动显示/隐藏
+            let scrollTimer = null;
+            window.addEventListener('scroll', () => {
+                if (scrollTimer) clearTimeout(scrollTimer);
+                scrollTimer = setTimeout(() => {
+                    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                    if (scrollTop > 300) {
+                        btn.classList.add('visible');
+                    } else {
+                        btn.classList.remove('visible');
+                    }
+                }, 100);
+            });
+        }
+        
+        function scrollToTop() {
+            // 平滑滚动到顶部，带有缓动效果
+            const start = window.pageYOffset;
+            const duration = 500;
+            const startTime = performance.now();
+            
+            function easeOutCubic(t) {
+                return 1 - Math.pow(1 - t, 3);
+            }
+            
+            function animateScroll(currentTime) {
+                const elapsed = currentTime - startTime;
+                const progress = Math.min(elapsed / duration, 1);
+                const eased = easeOutCubic(progress);
+                window.scrollTo(0, start * (1 - eased));
+                
+                if (progress < 1) {
+                    requestAnimationFrame(animateScroll);
+                }
+            }
+            
+            requestAnimationFrame(animateScroll);
+        }
+        
+        // ========== 可视化图表懒加载 ==========
+        function initChartLazyLoad() {
+            const vizSection = document.getElementById('visualizationSection');
+            const advancedVizSection = document.getElementById('advancedVizSection');
+            
+            if (!vizSection || !advancedVizSection) return;
+            
+            const chartObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const section = entry.target;
+                        
+                        // 延迟初始化图表
+                        setTimeout(() => {
+                            if (section.id === 'visualizationSection') {
+                                showVisualizationSection();
+                                if (allTopics.length > 0) {
+                                    initCharts();
+                                    updateWordcloud(allTopics);
+                                    updateTrendChart(allTopics);
+                                }
+                            } else if (section.id === 'advancedVizSection') {
+                                if (allTopics.length > 0) {
+                                    initAdvancedCharts();
+                                    showAdvancedVisualization();
+                                }
+                            }
+                        }, 200);
+                        
+                        chartObserver.unobserve(section);
+                    }
+                });
+            }, { rootMargin: '200px', threshold: 0 });
+            
+            chartObserver.observe(vizSection);
+            chartObserver.observe(advancedVizSection);
+        }
+        
         // 响应式图表 resize
         function resizeAllCharts() {
             if (wordcloudChart) wordcloudChart.resize();
@@ -3775,11 +3908,21 @@
         
         // 展开/收起热点（点击header区域，不影响detail内容交互）
         function toggleHotspot(element) {
+            const wasExpanded = element.classList.contains('expanded');
+            
             // 先收起其他已展开的项
             document.querySelectorAll('.hot-item.expanded').forEach(item => {
                 if (item !== element) item.classList.remove('expanded');
             });
+            
             element.classList.toggle('expanded');
+            
+            // 展开时平滑滚动到可视区域
+            if (!wasExpanded) {
+                setTimeout(() => {
+                    element.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                }, 100);
+            }
         }
         
         // 平台筛选
@@ -3999,6 +4142,12 @@
         async function loadData() {
             // 先显示骨架屏
             showSkeleton();
+            
+            // 初始化返回顶部按钮
+            initBackToTop();
+            
+            // 初始化图表懒加载
+            initChartLazyLoad();
             
             let topicsFresh = false, ideasFresh = false;
             let cachedTopics = getCache(CACHE_KEY.topics);
