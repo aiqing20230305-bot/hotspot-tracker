@@ -1,5 +1,1391 @@
 [
   {
+    "id": "hourly_202604051449_荣耀_1",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
+    },
+    "title": "长途出行必备好物清单 荣耀手机平板陪你堵车不无聊",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "清明返程高峰 高速拥堵持续 多地发布出行提醒",
+    "hot_topic_type": "交通热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "手机/平板",
+    "keywords": [
+      "荣耀",
+      "手机/平板",
+      "交通",
+      "场景种草"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "12万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515854",
+    "content": "基于热点「清明返程高峰 高速拥堵持续 多地发布出行提醒」，为荣耀策划场景种草内容，结合手机/平板进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_小米_2",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "智能家居",
+        "手表",
+        "充电宝"
+      ]
+    },
+    "title": "高速堵车不焦虑 小米耳机+平板打造移动娱乐舱",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "清明返程高峰 高速拥堵持续 多地发布出行提醒",
+    "hot_topic_type": "交通热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "耳机/平板",
+    "keywords": [
+      "小米",
+      "耳机/平板",
+      "交通",
+      "场景种草"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "14万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515864",
+    "content": "基于热点「清明返程高峰 高速拥堵持续 多地发布出行提醒」，为小米策划场景种草内容，结合耳机/平板进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_索尼_3",
+    "client": {
+      "brand": "索尼",
+      "industry": "消费电子",
+      "products": [
+        "耳机",
+        "相机",
+        "游戏机",
+        "音箱"
+      ]
+    },
+    "title": "索尼降噪耳机 让堵车变成独处时光",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品体验",
+    "hot_topic": "清明返程高峰 高速拥堵持续 多地发布出行提醒",
+    "hot_topic_type": "交通热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "耳机",
+    "keywords": [
+      "索尼",
+      "耳机",
+      "交通",
+      "产品体验"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "16万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515869",
+    "content": "基于热点「清明返程高峰 高速拥堵持续 多地发布出行提醒」，为索尼策划产品体验内容，结合耳机进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_农夫山泉_4",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品饮料",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "运动饮料"
+      ]
+    },
+    "title": "自驾返程别忘了补水 农夫山泉伴你平安到家",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "清明返程高峰 高速拥堵持续 多地发布出行提醒",
+    "hot_topic_type": "交通热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "交通",
+      "场景种草"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "18万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515872",
+    "content": "基于热点「清明返程高峰 高速拥堵持续 多地发布出行提醒」，为农夫山泉策划场景种草内容，结合矿泉水进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_荣耀_5",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
+    },
+    "title": "AI创作新纪元 荣耀平板轻松驾驭创意工作流",
+    "platform": "微博/抖音/小红书",
+    "angle": "科技借势",
+    "hot_topic": "AI绘画工具Midjourney V7发布 画质大幅提升",
+    "hot_topic_type": "科技热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "科技",
+      "科技借势"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "20万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515876",
+    "content": "基于热点「AI绘画工具Midjourney V7发布 画质大幅提升」，为荣耀策划科技借势内容，结合平板进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_罗技_6",
+    "client": {
+      "brand": "罗技",
+      "industry": "电脑外设",
+      "products": [
+        "鼠标",
+        "键盘",
+        "耳机",
+        "摄像头"
+      ]
+    },
+    "title": "设计师必备生产力工具 罗技外设+AI绘画如虎添翼",
+    "platform": "微博/抖音/小红书",
+    "angle": "科技借势",
+    "hot_topic": "AI绘画工具Midjourney V7发布 画质大幅提升",
+    "hot_topic_type": "科技热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "鼠标/键盘",
+    "keywords": [
+      "罗技",
+      "鼠标/键盘",
+      "科技",
+      "科技借势"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "22万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515880",
+    "content": "基于热点「AI绘画工具Midjourney V7发布 画质大幅提升」，为罗技策划科技借势内容，结合鼠标/键盘进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_小米_7",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "智能家居",
+        "手表",
+        "充电宝"
+      ]
+    },
+    "title": "小米笔记本跑AI绘画 性价比创作神器",
+    "platform": "微博/抖音/小红书",
+    "angle": "科技借势",
+    "hot_topic": "AI绘画工具Midjourney V7发布 画质大幅提升",
+    "hot_topic_type": "科技热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "科技",
+      "科技借势"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "24万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515883",
+    "content": "基于热点「AI绘画工具Midjourney V7发布 画质大幅提升」，为小米策划科技借势内容，结合笔记本进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_AHC_8",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆护肤",
+      "products": [
+        "精华",
+        "面膜",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "AHC神仙水精华 春季换肤首选 击退暗沉焕亮新生",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "春季护肤攻略刷屏 精华液使用技巧成热门话题",
+    "hot_topic_type": "美妆热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "精华",
+    "keywords": [
+      "AHC",
+      "精华",
+      "美妆",
+      "产品种草"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "26万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515887",
+    "content": "基于热点「春季护肤攻略刷屏 精华液使用技巧成热门话题」，为AHC策划产品种草内容，结合精华进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_玉兰油_9",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆护肤",
+      "products": [
+        "精华",
+        "面霜",
+        "眼霜",
+        "美白精华"
+      ]
+    },
+    "title": "玉兰油小白瓶精华 春季美白黄金期别错过",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "春季护肤攻略刷屏 精华液使用技巧成热门话题",
+    "hot_topic_type": "美妆热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "美白精华",
+    "keywords": [
+      "玉兰油",
+      "美白精华",
+      "美妆",
+      "产品种草"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "28万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515891",
+    "content": "基于热点「春季护肤攻略刷屏 精华液使用技巧成热门话题」，为玉兰油策划产品种草内容，结合美白精华进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_多芬_10",
+    "client": {
+      "brand": "多芬",
+      "industry": "个人护理",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂",
+        "身体乳"
+      ]
+    },
+    "title": "春季护肤从洁面开始 多芬氨基酸温和清洁",
+    "platform": "微博/抖音/小红书",
+    "angle": "科普教育",
+    "hot_topic": "春季护肤攻略刷屏 精华液使用技巧成热门话题",
+    "hot_topic_type": "美妆热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "洁面",
+    "keywords": [
+      "多芬",
+      "洁面",
+      "美妆",
+      "科普教育"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "30万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515894",
+    "content": "基于热点「春季护肤攻略刷屏 精华液使用技巧成热门话题」，为多芬策划科普教育内容，结合洁面进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_汤臣倍健_11",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健食品",
+      "products": [
+        "蛋白粉",
+        "维生素",
+        "鱼油",
+        "钙片"
+      ]
+    },
+    "title": "运动后蛋白粉怎么选 汤臣倍健科学补充指南",
+    "platform": "微博/抖音/小红书",
+    "angle": "科普教育",
+    "hot_topic": "健身博主推荐居家训练器材 哑铃销量暴涨300%",
+    "hot_topic_type": "健身热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "蛋白粉",
+    "keywords": [
+      "汤臣倍健",
+      "蛋白粉",
+      "健身",
+      "科普教育"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "32万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515898",
+    "content": "基于热点「健身博主推荐居家训练器材 哑铃销量暴涨300%」，为汤臣倍健策划科普教育内容，结合蛋白粉进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_HC_12",
+    "client": {
+      "brand": "HC",
+      "industry": "保健食品",
+      "products": [
+        "鱼油",
+        "益生菌",
+        "胶原蛋白",
+        "辅酶Q10"
+      ]
+    },
+    "title": "健身后修复秘籍 HC胶原蛋白+益生菌双重护航",
+    "platform": "微博/抖音/小红书",
+    "angle": "科普教育",
+    "hot_topic": "健身博主推荐居家训练器材 哑铃销量暴涨300%",
+    "hot_topic_type": "健身热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "胶原蛋白",
+    "keywords": [
+      "HC",
+      "胶原蛋白",
+      "健身",
+      "科普教育"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "34万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515901",
+    "content": "基于热点「健身博主推荐居家训练器材 哑铃销量暴涨300%」，为HC策划科普教育内容，结合胶原蛋白进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_善存_13",
+    "client": {
+      "brand": "善存",
+      "industry": "保健食品",
+      "products": [
+        "多种维生素",
+        "矿物质",
+        "膳食纤维",
+        "叶酸"
+      ]
+    },
+    "title": "运动人群营养缺口 善存多维片一站式补齐",
+    "platform": "微博/抖音/小红书",
+    "angle": "科普教育",
+    "hot_topic": "健身博主推荐居家训练器材 哑铃销量暴涨300%",
+    "hot_topic_type": "健身热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "多种维生素",
+    "keywords": [
+      "善存",
+      "多种维生素",
+      "健身",
+      "科普教育"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "36万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515907",
+    "content": "基于热点「健身博主推荐居家训练器材 哑铃销量暴涨300%」，为善存策划科普教育内容，结合多种维生素进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_元气森林_14",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "能量饮料"
+      ]
+    },
+    "title": "运动补水新选择 元气森林电解质水健身搭档",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "健身博主推荐居家训练器材 哑铃销量暴涨300%",
+    "hot_topic_type": "健身热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "电解质水",
+    "keywords": [
+      "元气森林",
+      "电解质水",
+      "健身",
+      "场景种草"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "38万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515910",
+    "content": "基于热点「健身博主推荐居家训练器材 哑铃销量暴涨300%」，为元气森林策划场景种草内容，结合电解质水进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_皇家_15",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物食品",
+      "products": [
+        "猫粮",
+        "狗粮",
+        "处方粮",
+        "营养品"
+      ]
+    },
+    "title": "皇家处方粮 宠物健康的第一道防线 专业营养科普",
+    "platform": "微博/抖音/小红书",
+    "angle": "科普教育",
+    "hot_topic": "宠物经济持续升温 猫粮狗粮高端化趋势明显",
+    "hot_topic_type": "宠物热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "处方粮",
+    "keywords": [
+      "皇家",
+      "处方粮",
+      "宠物",
+      "科普教育"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "40万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515914",
+    "content": "基于热点「宠物经济持续升温 猫粮狗粮高端化趋势明显」，为皇家策划科普教育内容，结合处方粮进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_希宝_16",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物食品",
+      "products": [
+        "猫粮",
+        "猫罐头",
+        "猫零食",
+        "猫砂"
+      ]
+    },
+    "title": "猫咪挑食怎么办 希宝多口味猫罐头拯救铲屎官",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "宠物经济持续升温 猫粮狗粮高端化趋势明显",
+    "hot_topic_type": "宠物热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "猫罐头",
+    "keywords": [
+      "希宝",
+      "猫罐头",
+      "宠物",
+      "场景种草"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "42万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515917",
+    "content": "基于热点「宠物经济持续升温 猫粮狗粮高端化趋势明显」，为希宝策划场景种草内容，结合猫罐头进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_元气森林_17",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "能量饮料"
+      ]
+    },
+    "title": "元气森林新品发布 无糖赛道再出王牌",
+    "platform": "微博/抖音/小红书",
+    "angle": "新品推广",
+    "hot_topic": "无糖饮料市场争夺战 元气森林推新品迎战",
+    "hot_topic_type": "美食热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "气泡水/能量饮料",
+    "keywords": [
+      "元气森林",
+      "气泡水/能量饮料",
+      "美食",
+      "新品推广"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "44万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515920",
+    "content": "基于热点「无糖饮料市场争夺战 元气森林推新品迎战」，为元气森林策划新品推广内容，结合气泡水/能量饮料进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_农夫山泉_18",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品饮料",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "运动饮料"
+      ]
+    },
+    "title": "无糖不等于无味 农夫山泉茶π经典之选",
+    "platform": "微博/抖音/小红书",
+    "angle": "竞品对比",
+    "hot_topic": "无糖饮料市场争夺战 元气森林推新品迎战",
+    "hot_topic_type": "美食热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "茶饮料",
+    "keywords": [
+      "农夫山泉",
+      "茶饮料",
+      "美食",
+      "竞品对比"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "46万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515923",
+    "content": "基于热点「无糖饮料市场争夺战 元气森林推新品迎战」，为农夫山泉策划竞品对比内容，结合茶饮料进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_百威_19",
+    "client": {
+      "brand": "百威",
+      "industry": "啤酒饮料",
+      "products": [
+        "啤酒",
+        "无醇啤酒",
+        "预调酒",
+        "啤酒礼盒"
+      ]
+    },
+    "title": "聚会也能无负担 百威无醇啤酒畅饮无忧",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "无糖饮料市场争夺战 元气森林推新品迎战",
+    "hot_topic_type": "美食热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "无醇啤酒",
+    "keywords": [
+      "百威",
+      "无醇啤酒",
+      "美食",
+      "场景种草"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "48万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515927",
+    "content": "基于热点「无糖饮料市场争夺战 元气森林推新品迎战」，为百威策划场景种草内容，结合无醇啤酒进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_小米_20",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "智能家居",
+        "手表",
+        "充电宝"
+      ]
+    },
+    "title": "小米全屋智能 一句话搞定回家模式",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "智能家居联动场景受追捧 语音控制成标配",
+    "hot_topic_type": "家居热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "智能家居",
+    "keywords": [
+      "小米",
+      "智能家居",
+      "家居",
+      "场景种草"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "50万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515930",
+    "content": "基于热点「智能家居联动场景受追捧 语音控制成标配」，为小米策划场景种草内容，结合智能家居进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_荣耀_21",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
+    },
+    "title": "荣耀智慧屏联动 全家人的智能生活中枢",
+    "platform": "微博/抖音/小红书",
+    "angle": "科技借势",
+    "hot_topic": "智能家居联动场景受追捧 语音控制成标配",
+    "hot_topic_type": "家居热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "智能设备",
+    "keywords": [
+      "荣耀",
+      "智能设备",
+      "家居",
+      "科技借势"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "52万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515933",
+    "content": "基于热点「智能家居联动场景受追捧 语音控制成标配」，为荣耀策划科技借势内容，结合智能设备进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_罗技_22",
+    "client": {
+      "brand": "罗技",
+      "industry": "电脑外设",
+      "products": [
+        "鼠标",
+        "键盘",
+        "耳机",
+        "摄像头"
+      ]
+    },
+    "title": "智能家居时代 罗技智能键盘提升操控体验",
+    "platform": "微博/抖音/小红书",
+    "angle": "科技借势",
+    "hot_topic": "智能家居联动场景受追捧 语音控制成标配",
+    "hot_topic_type": "家居热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "键盘",
+    "keywords": [
+      "罗技",
+      "键盘",
+      "家居",
+      "科技借势"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "54万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515936",
+    "content": "基于热点「智能家居联动场景受追捧 语音控制成标配」，为罗技策划科技借势内容，结合键盘进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_AHC_23",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆护肤",
+      "products": [
+        "精华",
+        "面膜",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "春季出游防晒不踩坑 AHC防晒霜实测推荐",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "春季出游穿搭指南 小红书博主分享防晒技巧",
+    "hot_topic_type": "旅游热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "防晒",
+    "keywords": [
+      "AHC",
+      "防晒",
+      "旅游",
+      "产品种草"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "56万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515941",
+    "content": "基于热点「春季出游穿搭指南 小红书博主分享防晒技巧」，为AHC策划产品种草内容，结合防晒进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_玉兰油_24",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆护肤",
+      "products": [
+        "精华",
+        "面霜",
+        "眼霜",
+        "美白精华"
+      ]
+    },
+    "title": "出游拍美照的秘密 玉兰油防晒+隔离双重防护",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "春季出游穿搭指南 小红书博主分享防晒技巧",
+    "hot_topic_type": "旅游热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "面霜",
+    "keywords": [
+      "玉兰油",
+      "面霜",
+      "旅游",
+      "产品种草"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "58万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515944",
+    "content": "基于热点「春季出游穿搭指南 小红书博主分享防晒技巧」，为玉兰油策划产品种草内容，结合面霜进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_舒适_25",
+    "client": {
+      "brand": "舒适",
+      "industry": "母婴护理",
+      "products": [
+        "纸尿裤",
+        "湿巾",
+        "棉柔巾",
+        "婴儿护肤"
+      ]
+    },
+    "title": "带娃出游必备 舒适棉柔巾随时随地清洁",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "春季出游穿搭指南 小红书博主分享防晒技巧",
+    "hot_topic_type": "旅游热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "棉柔巾",
+    "keywords": [
+      "舒适",
+      "棉柔巾",
+      "旅游",
+      "场景种草"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "60万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515947",
+    "content": "基于热点「春季出游穿搭指南 小红书博主分享防晒技巧」，为舒适策划场景种草内容，结合棉柔巾进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_舒适_26",
+    "client": {
+      "brand": "舒适",
+      "industry": "母婴护理",
+      "products": [
+        "纸尿裤",
+        "湿巾",
+        "棉柔巾",
+        "婴儿护肤"
+      ]
+    },
+    "title": "宝宝红屁屁克星 舒适纸尿裤透气实测",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "母婴博主推荐新生儿护理神器 湿巾销量激增",
+    "hot_topic_type": "母婴热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "纸尿裤",
+    "keywords": [
+      "舒适",
+      "纸尿裤",
+      "母婴",
+      "产品种草"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "62万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515952",
+    "content": "基于热点「母婴博主推荐新生儿护理神器 湿巾销量激增」，为舒适策划产品种草内容，结合纸尿裤进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_威猛先生_27",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居清洁",
+      "products": [
+        "清洁剂",
+        "除垢剂",
+        "厨房清洁",
+        "浴室清洁"
+      ]
+    },
+    "title": "有娃家庭清洁指南 威猛先生守护宝宝成长环境",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "母婴博主推荐新生儿护理神器 湿巾销量激增",
+    "hot_topic_type": "母婴热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "清洁剂",
+    "keywords": [
+      "威猛先生",
+      "清洁剂",
+      "母婴",
+      "场景种草"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "64万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515955",
+    "content": "基于热点「母婴博主推荐新生儿护理神器 湿巾销量激增」，为威猛先生策划场景种草内容，结合清洁剂进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_小米_28",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "智能家居",
+        "手表",
+        "充电宝"
+      ]
+    },
+    "title": "小米SU7成性价比之王 降价潮中的明智之选",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "汽车降价潮持续 新能源车企价格战白热化",
+    "hot_topic_type": "汽车热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "汽车",
+    "keywords": [
+      "小米",
+      "汽车",
+      "汽车",
+      "产品种草"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "66万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515958",
+    "content": "基于热点「汽车降价潮持续 新能源车企价格战白热化」，为小米策划产品种草内容，结合汽车进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_荣耀_29",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
+    },
+    "title": "车载荣耀平板 打造你的智能座舱第二屏",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "汽车降价潮持续 新能源车企价格战白热化",
+    "hot_topic_type": "汽车热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "汽车",
+      "场景种草"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "68万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515961",
+    "content": "基于热点「汽车降价潮持续 新能源车企价格战白热化」，为荣耀策划场景种草内容，结合平板进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_力士_30",
+    "client": {
+      "brand": "力士",
+      "industry": "个人护理",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "护发素",
+        "香氛"
+      ]
+    },
+    "title": "力士留香黑科技 洗完衣服持久留香72小时",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "洗衣凝珠使用攻略刷屏 留香珠成新宠",
+    "hot_topic_type": "家居热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "香氛",
+    "keywords": [
+      "力士",
+      "香氛",
+      "家居",
+      "产品种草"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "70万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515965",
+    "content": "基于热点「洗衣凝珠使用攻略刷屏 留香珠成新宠」，为力士策划产品种草内容，结合香氛进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_清扬_31",
+    "client": {
+      "brand": "清扬",
+      "industry": "个人护理",
+      "products": [
+        "洗发水",
+        "护发素",
+        "发膜",
+        "头皮护理"
+      ]
+    },
+    "title": "头皮也需要SPA 清扬头皮精华+洗发双管齐下",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "洗衣凝珠使用攻略刷屏 留香珠成新宠",
+    "hot_topic_type": "家居热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "头皮护理",
+    "keywords": [
+      "清扬",
+      "头皮护理",
+      "家居",
+      "产品种草"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "72万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515968",
+    "content": "基于热点「洗衣凝珠使用攻略刷屏 留香珠成新宠」，为清扬策划产品种草内容，结合头皮护理进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_多芬_32",
+    "client": {
+      "brand": "多芬",
+      "industry": "个人护理",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂",
+        "身体乳"
+      ]
+    },
+    "title": "多芬洗护合一 一颗搞定洗衣+柔顺",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "洗衣凝珠使用攻略刷屏 留香珠成新宠",
+    "hot_topic_type": "家居热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "沐浴露",
+    "keywords": [
+      "多芬",
+      "沐浴露",
+      "家居",
+      "产品种草"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "74万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515971",
+    "content": "基于热点「洗衣凝珠使用攻略刷屏 留香珠成新宠」，为多芬策划产品种草内容，结合沐浴露进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_AHC_33",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆护肤",
+      "products": [
+        "精华",
+        "面膜",
+        "防晒",
+        "洁面"
+      ]
+    },
+    "title": "敏感肌春季自救指南 AHC玻尿酸精华深层修护",
+    "platform": "微博/抖音/小红书",
+    "angle": "科普教育",
+    "hot_topic": "春季过敏高发期 护肤品温和成分受关注",
+    "hot_topic_type": "美妆热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "精华",
+    "keywords": [
+      "AHC",
+      "精华",
+      "美妆",
+      "科普教育"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "76万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515974",
+    "content": "基于热点「春季过敏高发期 护肤品温和成分受关注」，为AHC策划科普教育内容，结合精华进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_玉兰油_34",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆护肤",
+      "products": [
+        "精华",
+        "面霜",
+        "眼霜",
+        "美白精华"
+      ]
+    },
+    "title": "换季过敏别慌 玉兰油温和成分安心护肤",
+    "platform": "微博/抖音/小红书",
+    "angle": "科普教育",
+    "hot_topic": "春季过敏高发期 护肤品温和成分受关注",
+    "hot_topic_type": "美妆热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "面霜",
+    "keywords": [
+      "玉兰油",
+      "面霜",
+      "美妆",
+      "科普教育"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "78万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515977",
+    "content": "基于热点「春季过敏高发期 护肤品温和成分受关注」，为玉兰油策划科普教育内容，结合面霜进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_多芬_35",
+    "client": {
+      "brand": "多芬",
+      "industry": "个人护理",
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂",
+        "身体乳"
+      ]
+    },
+    "title": "春季敏感肌洗护 多芬无刺激配方呵护每一寸肌肤",
+    "platform": "微博/抖音/小红书",
+    "angle": "科普教育",
+    "hot_topic": "春季过敏高发期 护肤品温和成分受关注",
+    "hot_topic_type": "美妆热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "沐浴露",
+    "keywords": [
+      "多芬",
+      "沐浴露",
+      "美妆",
+      "科普教育"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "80万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515980",
+    "content": "基于热点「春季过敏高发期 护肤品温和成分受关注」，为多芬策划科普教育内容，结合沐浴露进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_元气森林_36",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品饮料",
+      "products": [
+        "气泡水",
+        "无糖茶",
+        "电解质水",
+        "能量饮料"
+      ]
+    },
+    "title": "健身补水新物种 元气森林电解质水秒杀传统运动饮料",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "运动饮料市场新格局 电解质水成健身标配",
+    "hot_topic_type": "美食热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "电解质水",
+    "keywords": [
+      "元气森林",
+      "电解质水",
+      "美食",
+      "产品种草"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "82万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515984",
+    "content": "基于热点「运动饮料市场新格局 电解质水成健身标配」，为元气森林策划产品种草内容，结合电解质水进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_农夫山泉_37",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品饮料",
+      "products": [
+        "矿泉水",
+        "茶饮料",
+        "果汁",
+        "运动饮料"
+      ]
+    },
+    "title": "农夫山泉运动系列 专业补水科学配比",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "运动饮料市场新格局 电解质水成健身标配",
+    "hot_topic_type": "美食热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "运动饮料",
+    "keywords": [
+      "农夫山泉",
+      "运动饮料",
+      "美食",
+      "场景种草"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "84万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515987",
+    "content": "基于热点「运动饮料市场新格局 电解质水成健身标配」，为农夫山泉策划场景种草内容，结合运动饮料进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_罗技_38",
+    "client": {
+      "brand": "罗技",
+      "industry": "电脑外设",
+      "products": [
+        "鼠标",
+        "键盘",
+        "耳机",
+        "摄像头"
+      ]
+    },
+    "title": "机械键盘怎么选 罗技G系列电竞外设深度评测",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品评测",
+    "hot_topic": "游戏外设销量暴涨 机械键盘成年轻人新宠",
+    "hot_topic_type": "科技热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "键盘",
+    "keywords": [
+      "罗技",
+      "键盘",
+      "科技",
+      "产品评测"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "86万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515990",
+    "content": "基于热点「游戏外设销量暴涨 机械键盘成年轻人新宠」，为罗技策划产品评测内容，结合键盘进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_索尼_39",
+    "client": {
+      "brand": "索尼",
+      "industry": "消费电子",
+      "products": [
+        "耳机",
+        "相机",
+        "游戏机",
+        "音箱"
+      ]
+    },
+    "title": "游戏体验升级 索尼INZONE耳机+音箱沉浸式声场",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "游戏外设销量暴涨 机械键盘成年轻人新宠",
+    "hot_topic_type": "科技热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "耳机/音箱",
+    "keywords": [
+      "索尼",
+      "耳机/音箱",
+      "科技",
+      "产品种草"
+    ],
+    "quality_score": 0.95,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "88万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.515997",
+    "content": "基于热点「游戏外设销量暴涨 机械键盘成年轻人新宠」，为索尼策划产品种草内容，结合耳机/音箱进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_小米_40",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "智能家居",
+        "手表",
+        "充电宝"
+      ]
+    },
+    "title": "百元电竞装备 小米游戏外设高性价比之选",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品种草",
+    "hot_topic": "游戏外设销量暴涨 机械键盘成年轻人新宠",
+    "hot_topic_type": "科技热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "外设",
+    "keywords": [
+      "小米",
+      "外设",
+      "科技",
+      "产品种草"
+    ],
+    "quality_score": 0.75,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "90万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.516000",
+    "content": "基于热点「游戏外设销量暴涨 机械键盘成年轻人新宠」，为小米策划产品种草内容，结合外设进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_索尼_41",
+    "client": {
+      "brand": "索尼",
+      "industry": "消费电子",
+      "products": [
+        "耳机",
+        "相机",
+        "游戏机",
+        "音箱"
+      ]
+    },
+    "title": "家庭影院升级 索尼4K投影+回音壁打造客厅影院",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "清明假期电影票房破10亿 家庭观影成主流",
+    "hot_topic_type": "娱乐热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "音箱",
+    "keywords": [
+      "索尼",
+      "音箱",
+      "娱乐",
+      "场景种草"
+    ],
+    "quality_score": 0.8,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.516004",
+    "content": "基于热点「清明假期电影票房破10亿 家庭观影成主流」，为索尼策划场景种草内容，结合音箱进行营销推广。"
+  },
+  {
+    "id": "hourly_202604051449_小米_42",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "智能家居",
+        "手表",
+        "充电宝"
+      ]
+    },
+    "title": "在家也能看大片 小米电视+音箱组合观影攻略",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景种草",
+    "hot_topic": "清明假期电影票房破10亿 家庭观影成主流",
+    "hot_topic_type": "娱乐热点",
+    "heat": "热",
+    "trend": "🔥🔥",
+    "product": "智能设备",
+    "keywords": [
+      "小米",
+      "智能设备",
+      "娱乐",
+      "场景种草"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-05T14:49:15.516007",
+    "content": "基于热点「清明假期电影票房破10亿 家庭观影成主流」，为小米策划场景种草内容，结合智能设备进行营销推广。"
+  },
+  {
     "id": "hourly_202604050720_荣耀_1",
     "client": {
       "brand": "荣耀",
