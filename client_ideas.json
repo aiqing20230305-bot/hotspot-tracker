@@ -4,7 +4,12 @@
     "client": {
       "brand": "荣耀",
       "industry": "消费电子",
-      "products": ["手机", "平板", "笔记本", "智能手表"]
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
     },
     "title": "荣耀节后综合症来袭 打工人集体emo 附带的手机场景种草内容",
     "platform": "微博/抖音",
@@ -14,7 +19,12 @@
     "heat": "5.6亿",
     "trend": "上升",
     "product": "手机",
-    "keywords": ["荣耀", "手机", "热点", "种草"],
+    "keywords": [
+      "荣耀",
+      "手机",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.88,
     "quality_level": "A级-优秀",
     "engagement_estimate": "28万+",
@@ -27,7 +37,12 @@
     "client": {
       "brand": "荣耀",
       "industry": "消费电子",
-      "products": ["手机", "平板", "笔记本", "智能手表"]
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
     },
     "title": "荣耀春季养生正当时 年轻人加入保温杯大军 附带的智能手表产品测评内容",
     "platform": "小红书",
@@ -37,7 +52,12 @@
     "heat": "5.4亿",
     "trend": "上升",
     "product": "智能手表",
-    "keywords": ["荣耀", "智能手表", "热点", "种草"],
+    "keywords": [
+      "荣耀",
+      "智能手表",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.82,
     "quality_level": "A级-优秀",
     "engagement_estimate": "35万+",
@@ -50,7 +70,12 @@
     "client": {
       "brand": "荣耀",
       "industry": "消费电子",
-      "products": ["手机", "平板", "笔记本", "智能手表"]
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能手表"
+      ]
     },
     "title": "荣耀春天最后一波花海 周末打卡攻略 附带的平板情感共鸣内容",
     "platform": "抖音",
@@ -60,7 +85,12 @@
     "heat": "5.0亿",
     "trend": "上升",
     "product": "平板",
-    "keywords": ["荣耀", "平板", "热点", "种草"],
+    "keywords": [
+      "荣耀",
+      "平板",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.79,
     "quality_level": "B级-良好",
     "engagement_estimate": "22万+",
@@ -73,7 +103,12 @@
     "client": {
       "brand": "罗技",
       "industry": "科技/外设",
-      "products": ["键盘", "鼠标", "耳机", "游戏手柄"]
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
     },
     "title": "罗技节后综合症来袭 打工人集体emo 附带的键盘场景种草内容",
     "platform": "微博/抖音",
@@ -83,7 +118,12 @@
     "heat": "5.6亿",
     "trend": "上升",
     "product": "键盘",
-    "keywords": ["罗技", "键盘", "热点", "种草"],
+    "keywords": [
+      "罗技",
+      "键盘",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.85,
     "quality_level": "A级-优秀",
     "engagement_estimate": "32万+",
@@ -96,7 +136,12 @@
     "client": {
       "brand": "罗技",
       "industry": "科技/外设",
-      "products": ["键盘", "鼠标", "耳机", "游戏手柄"]
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
     },
     "title": "罗技国漫崛起 这几部4月新番必追 附带的游戏手柄生活方式内容",
     "platform": "B站",
@@ -106,7 +151,12 @@
     "heat": "4.4亿",
     "trend": "稳定",
     "product": "游戏手柄",
-    "keywords": ["罗技", "游戏手柄", "热点", "种草"],
+    "keywords": [
+      "罗技",
+      "游戏手柄",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.91,
     "quality_level": "A级-优秀",
     "engagement_estimate": "45万+",
@@ -119,7 +169,12 @@
     "client": {
       "brand": "罗技",
       "industry": "科技/外设",
-      "products": ["键盘", "鼠标", "耳机", "游戏手柄"]
+      "products": [
+        "键盘",
+        "鼠标",
+        "耳机",
+        "游戏手柄"
+      ]
     },
     "title": "罗技智能手表成健康新宠 运动数据大比拼 附带的耳机产品测评内容",
     "platform": "小红书",
@@ -129,7 +184,12 @@
     "heat": "4.2亿",
     "trend": "上升",
     "product": "耳机",
-    "keywords": ["罗技", "耳机", "热点", "种草"],
+    "keywords": [
+      "罗技",
+      "耳机",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.77,
     "quality_level": "B级-良好",
     "engagement_estimate": "18万+",
@@ -142,7 +202,12 @@
     "client": {
       "brand": "小米",
       "industry": "科技/智能家居",
-      "products": ["手机", "智能家居", "电动车", "家电"]
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
     },
     "title": "小米AI换脸诈骗频发 警方紧急提醒 附带的手机知识科普内容",
     "platform": "微博",
@@ -152,7 +217,12 @@
     "heat": "4.8亿",
     "trend": "上升",
     "product": "手机",
-    "keywords": ["小米", "手机", "热点", "种草"],
+    "keywords": [
+      "小米",
+      "手机",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.89,
     "quality_level": "A级-优秀",
     "engagement_estimate": "56万+",
@@ -165,7 +235,12 @@
     "client": {
       "brand": "小米",
       "industry": "科技/智能家居",
-      "products": ["手机", "智能家居", "电动车", "家电"]
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
     },
     "title": "小米租房神器推荐 打工人必备好物 附带的智能家居场景种草内容",
     "platform": "小红书",
@@ -175,7 +250,12 @@
     "heat": "4.6亿",
     "trend": "上升",
     "product": "智能家居",
-    "keywords": ["小米", "智能家居", "热点", "种草"],
+    "keywords": [
+      "小米",
+      "智能家居",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.84,
     "quality_level": "B级-良好",
     "engagement_estimate": "42万+",
@@ -188,7 +268,12 @@
     "client": {
       "brand": "小米",
       "industry": "科技/智能家居",
-      "products": ["手机", "智能家居", "电动车", "家电"]
+      "products": [
+        "手机",
+        "智能家居",
+        "电动车",
+        "家电"
+      ]
     },
     "title": "小米五一假期倒计时27天 网友开始规划行程 附带的家电产品测评内容",
     "platform": "抖音",
@@ -198,7 +283,12 @@
     "heat": "5.5亿",
     "trend": "上升",
     "product": "家电",
-    "keywords": ["小米", "家电", "热点", "种草"],
+    "keywords": [
+      "小米",
+      "家电",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.76,
     "quality_level": "B级-良好",
     "engagement_estimate": "29万+",
@@ -211,7 +301,12 @@
     "client": {
       "brand": "索尼",
       "industry": "科技/娱乐",
-      "products": ["相机", "耳机", "游戏机", "电视"]
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
     },
     "title": "索尼AI换脸诈骗频发 警方紧急提醒 附带的相机情感共鸣内容",
     "platform": "抖音",
@@ -221,7 +316,12 @@
     "heat": "4.8亿",
     "trend": "上升",
     "product": "相机",
-    "keywords": ["索尼", "相机", "热点", "种草"],
+    "keywords": [
+      "索尼",
+      "相机",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.93,
     "quality_level": "A级-优秀",
     "engagement_estimate": "38万+",
@@ -234,7 +334,12 @@
     "client": {
       "brand": "索尼",
       "industry": "科技/娱乐",
-      "products": ["相机", "耳机", "游戏机", "电视"]
+      "products": [
+        "相机",
+        "耳机",
+        "游戏机",
+        "电视"
+      ]
     },
     "title": "索尼国漫崛起 这几部4月新番必追 附带的游戏机生活方式内容",
     "platform": "B站",
@@ -244,7 +349,12 @@
     "heat": "4.4亿",
     "trend": "稳定",
     "product": "游戏机",
-    "keywords": ["索尼", "游戏机", "热点", "种草"],
+    "keywords": [
+      "索尼",
+      "游戏机",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.88,
     "quality_level": "A级-优秀",
     "engagement_estimate": "52万+",
@@ -257,7 +367,12 @@
     "client": {
       "brand": "AHC",
       "industry": "美妆/护肤",
-      "products": ["眼霜", "面霜", "精华", "面膜"]
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
     },
     "title": "AHC早C晚A之后 现在流行早B晚C 附带的眼霜产品测评内容",
     "platform": "小红书",
@@ -267,7 +382,12 @@
     "heat": "5.2亿",
     "trend": "上升",
     "product": "眼霜",
-    "keywords": ["AHC", "眼霜", "热点", "种草"],
+    "keywords": [
+      "AHC",
+      "眼霜",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.94,
     "quality_level": "A级-优秀",
     "engagement_estimate": "68万+",
@@ -280,7 +400,12 @@
     "client": {
       "brand": "AHC",
       "industry": "美妆/护肤",
-      "products": ["眼霜", "面霜", "精华", "面膜"]
+      "products": [
+        "眼霜",
+        "面霜",
+        "精华",
+        "面膜"
+      ]
     },
     "title": "AHC春困来袭 上班族如何提神醒脑 附带的面膜情感共鸣内容",
     "platform": "抖音",
@@ -290,7 +415,12 @@
     "heat": "4.3亿",
     "trend": "上升",
     "product": "面膜",
-    "keywords": ["AHC", "面膜", "热点", "种草"],
+    "keywords": [
+      "AHC",
+      "面膜",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.81,
     "quality_level": "B级-良好",
     "engagement_estimate": "35万+",
@@ -303,7 +433,12 @@
     "client": {
       "brand": "多芬",
       "industry": "个护/美妆",
-      "products": ["沐浴露", "洗发水", "护发素", "身体乳"]
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "护发素",
+        "身体乳"
+      ]
     },
     "title": "多芬节后综合症来袭 打工人集体emo 附带的洗发水场景种草内容",
     "platform": "微博/抖音",
@@ -313,7 +448,12 @@
     "heat": "5.6亿",
     "trend": "上升",
     "product": "洗发水",
-    "keywords": ["多芬", "洗发水", "热点", "种草"],
+    "keywords": [
+      "多芬",
+      "洗发水",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.87,
     "quality_level": "A级-优秀",
     "engagement_estimate": "41万+",
@@ -326,7 +466,12 @@
     "client": {
       "brand": "多芬",
       "industry": "个护/美妆",
-      "products": ["沐浴露", "洗发水", "护发素", "身体乳"]
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "护发素",
+        "身体乳"
+      ]
     },
     "title": "多芬早C晚A之后 现在流行早B晚C 附带的护发素产品测评内容",
     "platform": "小红书",
@@ -336,7 +481,12 @@
     "heat": "5.2亿",
     "trend": "上升",
     "product": "护发素",
-    "keywords": ["多芬", "护发素", "热点", "种草"],
+    "keywords": [
+      "多芬",
+      "护发素",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.79,
     "quality_level": "B级-良好",
     "engagement_estimate": "27万+",
@@ -349,7 +499,11 @@
     "client": {
       "brand": "力士",
       "industry": "个护",
-      "products": ["沐浴露", "洗发水", "香皂"]
+      "products": [
+        "沐浴露",
+        "洗发水",
+        "香皂"
+      ]
     },
     "title": "力士春季养生正当时 年轻人加入保温杯大军 附带的香皂产品测评内容",
     "platform": "小红书",
@@ -359,7 +513,12 @@
     "heat": "5.4亿",
     "trend": "上升",
     "product": "香皂",
-    "keywords": ["力士", "香皂", "热点", "种草"],
+    "keywords": [
+      "力士",
+      "香皂",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.86,
     "quality_level": "A级-优秀",
     "engagement_estimate": "33万+",
@@ -372,7 +531,11 @@
     "client": {
       "brand": "清扬",
       "industry": "个护/洗护",
-      "products": ["洗发水", "护发素", "去屑产品"]
+      "products": [
+        "洗发水",
+        "护发素",
+        "去屑产品"
+      ]
     },
     "title": "清扬春困来袭 上班族如何提神醒脑 附带的护发素情感共鸣内容",
     "platform": "抖音",
@@ -382,7 +545,12 @@
     "heat": "4.3亿",
     "trend": "上升",
     "product": "护发素",
-    "keywords": ["清扬", "护发素", "热点", "种草"],
+    "keywords": [
+      "清扬",
+      "护发素",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.83,
     "quality_level": "B级-良好",
     "engagement_estimate": "29万+",
@@ -395,7 +563,12 @@
     "client": {
       "brand": "玉兰油",
       "industry": "美妆/护肤",
-      "products": ["面霜", "精华", "防晒", "洁面"]
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
     },
     "title": "玉兰油早C晚A之后 现在流行早B晚C 附带的面霜产品测评内容",
     "platform": "小红书",
@@ -405,7 +578,12 @@
     "heat": "5.2亿",
     "trend": "上升",
     "product": "面霜",
-    "keywords": ["玉兰油", "面霜", "热点", "种草"],
+    "keywords": [
+      "玉兰油",
+      "面霜",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.92,
     "quality_level": "A级-优秀",
     "engagement_estimate": "55万+",
@@ -418,7 +596,12 @@
     "client": {
       "brand": "玉兰油",
       "industry": "美妆/护肤",
-      "products": ["面霜", "精华", "防晒", "洁面"]
+      "products": [
+        "面霜",
+        "精华",
+        "防晒",
+        "洁面"
+      ]
     },
     "title": "玉兰油春季养生正时 年轻人加入保温杯大军 附带的防晒生活方式内容",
     "platform": "微博",
@@ -428,7 +611,12 @@
     "heat": "5.4亿",
     "trend": "上升",
     "product": "防晒",
-    "keywords": ["玉兰油", "防晒", "热点", "种草"],
+    "keywords": [
+      "玉兰油",
+      "防晒",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.78,
     "quality_level": "B级-良好",
     "engagement_estimate": "24万+",
@@ -441,7 +629,12 @@
     "client": {
       "brand": "汤臣倍健",
       "industry": "保健品",
-      "products": ["维生素", "蛋白粉", "鱼油", "益生菌"]
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
     },
     "title": "汤臣倍健节后综合症来袭 打工人集体emo 附带的维生素场景种草内容",
     "platform": "微博/抖音",
@@ -451,7 +644,12 @@
     "heat": "5.6亿",
     "trend": "上升",
     "product": "维生素",
-    "keywords": ["汤臣倍健", "维生素", "热点", "种草"],
+    "keywords": [
+      "汤臣倍健",
+      "维生素",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.91,
     "quality_level": "A级-优秀",
     "engagement_estimate": "48万+",
@@ -464,7 +662,12 @@
     "client": {
       "brand": "汤臣倍健",
       "industry": "保健品",
-      "products": ["维生素", "蛋白粉", "鱼油", "益生菌"]
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
     },
     "title": "汤臣倍健春困来袭 上班族如何提神醒脑 附带的蛋白粉情感共鸣内容",
     "platform": "抖音",
@@ -474,7 +677,12 @@
     "heat": "4.3亿",
     "trend": "上升",
     "product": "蛋白粉",
-    "keywords": ["汤臣倍健", "蛋白粉", "热点", "种草"],
+    "keywords": [
+      "汤臣倍健",
+      "蛋白粉",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.85,
     "quality_level": "A级-优秀",
     "engagement_estimate": "38万+",
@@ -487,7 +695,12 @@
     "client": {
       "brand": "汤臣倍健",
       "industry": "保健品",
-      "products": ["维生素", "蛋白粉", "鱼油", "益生菌"]
+      "products": [
+        "维生素",
+        "蛋白粉",
+        "鱼油",
+        "益生菌"
+      ]
     },
     "title": "汤臣倍健春季养生正当时 年轻人加入保温杯大军 附带的鱼油生活方式内容",
     "platform": "小红书",
@@ -497,7 +710,12 @@
     "heat": "5.4亿",
     "trend": "上升",
     "product": "鱼油",
-    "keywords": ["汤臣倍健", "鱼油", "热点", "种草"],
+    "keywords": [
+      "汤臣倍健",
+      "鱼油",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.88,
     "quality_level": "A级-优秀",
     "engagement_estimate": "44万+",
@@ -510,7 +728,11 @@
     "client": {
       "brand": "善存",
       "industry": "保健品",
-      "products": ["复合维生素", "钙片", "叶酸"]
+      "products": [
+        "复合维生素",
+        "钙片",
+        "叶酸"
+      ]
     },
     "title": "善存春季养生正当时 年轻人加入保温杯大军 附带的复合维生素产品测评内容",
     "platform": "小红书",
@@ -520,7 +742,12 @@
     "heat": "5.4亿",
     "trend": "上升",
     "product": "复合维生素",
-    "keywords": ["善存", "复合维生素", "热点", "种草"],
+    "keywords": [
+      "善存",
+      "复合维生素",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.9,
     "quality_level": "A级-优秀",
     "engagement_estimate": "51万+",
@@ -533,7 +760,11 @@
     "client": {
       "brand": "HC",
       "industry": "美妆/护肤",
-      "products": ["护肤品", "彩妆", "精华"]
+      "products": [
+        "护肤品",
+        "彩妆",
+        "精华"
+      ]
     },
     "title": "HC早C晚A之后 现在流行早B晚C 附带的精华产品测评内容",
     "platform": "小红书",
@@ -543,7 +774,12 @@
     "heat": "5.2亿",
     "trend": "上升",
     "product": "精华",
-    "keywords": ["HC", "精华", "热点", "种草"],
+    "keywords": [
+      "HC",
+      "精华",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.87,
     "quality_level": "A级-优秀",
     "engagement_estimate": "46万+",
@@ -556,7 +792,11 @@
     "client": {
       "brand": "威猛先生",
       "industry": "家居清洁",
-      "products": ["清洁剂", "去污剂", "厨房清洁"]
+      "products": [
+        "清洁剂",
+        "去污剂",
+        "厨房清洁"
+      ]
     },
     "title": "威猛先生租房神器推荐 打工人必备好物 附带的厨房清洁产品测评内容",
     "platform": "小红书",
@@ -566,7 +806,12 @@
     "heat": "4.6亿",
     "trend": "上升",
     "product": "厨房清洁",
-    "keywords": ["威猛先生", "厨房清洁", "热点", "种草"],
+    "keywords": [
+      "威猛先生",
+      "厨房清洁",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.82,
     "quality_level": "B级-良好",
     "engagement_estimate": "28万+",
@@ -579,7 +824,11 @@
     "client": {
       "brand": "舒适",
       "industry": "个护/剃须",
-      "products": ["剃须刀", "剃须膏", "护肤"]
+      "products": [
+        "剃须刀",
+        "剃须膏",
+        "护肤"
+      ]
     },
     "title": "舒适节后综合症来袭 打工人集体emo 附带的剃须刀场景种草内容",
     "platform": "微博/抖音",
@@ -589,7 +838,12 @@
     "heat": "5.6亿",
     "trend": "上升",
     "product": "剃须刀",
-    "keywords": ["舒适", "剃须刀", "热点", "种草"],
+    "keywords": [
+      "舒适",
+      "剃须刀",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.86,
     "quality_level": "A级-优秀",
     "engagement_estimate": "36万+",
@@ -602,7 +856,11 @@
     "client": {
       "brand": "希宝",
       "industry": "宠物食品",
-      "products": ["猫粮", "猫罐头", "猫零食"]
+      "products": [
+        "猫粮",
+        "猫罐头",
+        "猫零食"
+      ]
     },
     "title": "希宝宠物经济持续升温 年轻人养宠新趋势 附带的猫罐头生活方式内容",
     "platform": "小红书",
@@ -612,7 +870,12 @@
     "heat": "4.0亿",
     "trend": "稳定",
     "product": "猫罐头",
-    "keywords": ["希宝", "猫罐头", "热点", "种草"],
+    "keywords": [
+      "希宝",
+      "猫罐头",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.89,
     "quality_level": "A级-优秀",
     "engagement_estimate": "42万+",
@@ -625,7 +888,11 @@
     "client": {
       "brand": "皇家",
       "industry": "宠物食品",
-      "products": ["猫粮", "狗粮", "宠物营养品"]
+      "products": [
+        "猫粮",
+        "狗粮",
+        "宠物营养品"
+      ]
     },
     "title": "皇家宠物经济持续升温 年轻人养宠新趋势 附带的猫粮情感共鸣内容",
     "platform": "抖音",
@@ -635,7 +902,12 @@
     "heat": "4.0亿",
     "trend": "稳定",
     "product": "猫粮",
-    "keywords": ["皇家", "猫粮", "热点", "种草"],
+    "keywords": [
+      "皇家",
+      "猫粮",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.93,
     "quality_level": "A级-优秀",
     "engagement_estimate": "55万+",
@@ -648,7 +920,11 @@
     "client": {
       "brand": "OATLY",
       "industry": "食品/植物奶",
-      "products": ["燕麦奶", "燕麦饮", "咖啡伴侣"]
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
     },
     "title": "OATLY春季养生正当时 年轻人加入保温杯大军 附带的燕麦奶产品测评内容",
     "platform": "小红书",
@@ -658,7 +934,12 @@
     "heat": "5.4亿",
     "trend": "上升",
     "product": "燕麦奶",
-    "keywords": ["OATLY", "燕麦奶", "热点", "种草"],
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.91,
     "quality_level": "A级-优秀",
     "engagement_estimate": "49万+",
@@ -671,7 +952,11 @@
     "client": {
       "brand": "OATLY",
       "industry": "食品/植物奶",
-      "products": ["燕麦奶", "燕麦饮", "咖啡伴侣"]
+      "products": [
+        "燕麦奶",
+        "燕麦饮",
+        "咖啡伴侣"
+      ]
     },
     "title": "OATLY轻食减脂餐天花板 这几家绝了 附带的燕麦饮情感共鸣内容",
     "platform": "抖音",
@@ -681,19 +966,17 @@
     "heat": "4.7亿",
     "trend": "稳定",
     "product": "燕麦饮",
-    "keywords": ["OATLY", "燕麦饮", "热点", "种草"],
+    "keywords": [
+      "OATLY",
+      "燕麦饮",
+      "热点",
+      "种草"
+    ],
     "quality_score": 0.84,
     "quality_level": "B级-良好",
     "engagement_estimate": "31万+",
     "status": "pending",
     "created_at": "2026-04-05T10:30:00",
     "content": "聚焦轻食减脂餐天花板 这几家绝了热点，OATLY 燕麦饮的情感共鸣策略成功引发用户讨论。"
-  },
-  {
-    "id": "hourly_20260405103000_百威_1631",
-    "client": {
-      "brand": "百威",
-      "industry": "酒饮",
-      "products": ["啤酒", "精酿", "低醇啤酒"]
-    },
-    "title": "百威五一假期倒计时27天 网友开始规划行程 附带的啤酒场景种草内容
+  }
+]
