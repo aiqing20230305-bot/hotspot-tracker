@@ -1,8 +1,148 @@
 [
   {
+    "id": "ht_20260405082917_690",
+    "title": "春季最后一个周末 踏青赏花最后时机",
+    "hot_value": 437241911,
+    "platform": "微博/小红书",
+    "industries": [
+      "旅游",
+      "生活"
+    ],
+    "trends": [
+      "热",
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "春季",
+      "周末",
+      "踏青",
+      "赏花",
+      "最后时机"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林",
+      "百威",
+      "OATLY"
+    ],
+    "created_at": "2026-04-05T08:29:17",
+    "rank": 1,
+    "category": "旅游热点",
+    "trend_tags": [
+      "#春季踏青",
+      "#赏花",
+      "#周末游"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "3.7亿",
+    "logic": "春季旅游话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "小红书"
+    ]
+  },
+  {
+    "id": "ht_20260405082917_139",
+    "title": "五一假期请假攻略 拼假出游成热门话题",
+    "hot_value": 409929402,
+    "platform": "微博/抖音",
+    "industries": [
+      "旅游",
+      "职场"
+    ],
+    "trends": [
+      "热",
+      "新"
+    ],
+    "type": "旅游热点",
+    "sentiment": "正面",
+    "keywords": [
+      "五一",
+      "假期",
+      "请假",
+      "拼假",
+      "出游"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林",
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-05T08:29:17",
+    "rank": 2,
+    "category": "旅游热点",
+    "trend_tags": [
+      "#五一假期",
+      "#请假攻略",
+      "#拼假"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "4.0亿",
+    "logic": "假期话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_20260405082917_130",
+    "title": "春季过敏高发期 护肤品牌借势营销",
+    "hot_value": 303220513,
+    "platform": "小红书/抖音",
+    "industries": [
+      "美妆",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "春季",
+      "过敏",
+      "护肤",
+      "敏感肌",
+      "急救"
+    ],
+    "c": [
+      "玉兰油",
+      "AHC",
+      "多芬",
+      "力士"
+    ],
+    "created_at": "2026-04-05T08:29:17",
+    "rank": 3,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#春季过敏",
+      "#敏感肌",
+      "#护肤"
+    ],
+    "url": "https://xiaohongshu.com",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "3.7亿",
+    "logic": "季节性护肤话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "小红书",
+      "抖音"
+    ]
+  },
+  {
     "id": "ht_202604050720_001",
     "title": "清明假期结束 打工人开启收心模式",
-    "hot_value": 520000000,
+    "hot_value": 547194608,
     "platform": "微博/抖音",
     "industries": [
       "生活",
@@ -35,8 +175,8 @@
       "#收心攻略"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-05T07:20:00",
-    "heat": "5.2亿",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "5.5亿",
     "logic": "假期结束话题热度上升",
     "trend": "上升",
     "isNew": true,
@@ -48,7 +188,7 @@
   {
     "id": "ht_202604050720_002",
     "title": "高铁轻装行服务扩大试点 111城覆盖春运出行",
-    "hot_value": 510000000,
+    "hot_value": 519357107,
     "platform": "微博/抖音",
     "industries": [
       "交通",
@@ -82,8 +222,8 @@
       "#便民服务"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-05T07:20:00",
-    "heat": "5.1亿",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "5.2亿",
     "logic": "交通出行便民服务话题热度上升",
     "trend": "上升",
     "isNew": true,
@@ -95,7 +235,7 @@
   {
     "id": "ht_202604050720_003",
     "title": "李湘全平台账号被禁止关注 多平台同步限制",
-    "hot_value": 480000000,
+    "hot_value": 533109386,
     "platform": "微博/抖音/小红书",
     "industries": [
       "娱乐",
@@ -127,8 +267,8 @@
       "#平台治理"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-05T07:20:00",
-    "heat": "4.8亿",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "5.3亿",
     "logic": "娱乐明星话题热度上升",
     "trend": "上升",
     "isNew": true,
@@ -141,7 +281,7 @@
   {
     "id": "ht_202604050720_004",
     "title": "菲律宾免签首日 14天限时福利引发旅游热",
-    "hot_value": 465000000,
+    "hot_value": 477873738,
     "platform": "微博/小红书",
     "industries": [
       "旅游",
@@ -175,10 +315,10 @@
       "#周末游"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-05T07:20:00",
-    "heat": "4.7亿",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "4.8亿",
     "logic": "出境旅游政策话题热度上升",
-    "trend": "上升",
+    "trend": "稳定",
     "isNew": true,
     "platforms": [
       "微博",
@@ -188,7 +328,7 @@
   {
     "id": "ht_202604050720_005",
     "title": "8岁女孩清明节给妈妈扫墓展示奖状 感动全网",
-    "hot_value": 458000000,
+    "hot_value": 507183119,
     "platform": "抖音/微博",
     "industries": [
       "情感",
@@ -221,10 +361,10 @@
       "#亲情"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-05T07:20:00",
-    "heat": "4.6亿",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "5.1亿",
     "logic": "情感故事话题热度上升",
-    "trend": "稳定",
+    "trend": "上升",
     "isNew": true,
     "platforms": [
       "抖音",
@@ -234,7 +374,7 @@
   {
     "id": "ht_202604050720_006",
     "title": "澳门世界杯乒乓球女单四强出炉 国乒强势",
-    "hot_value": 445000000,
+    "hot_value": 494942315,
     "platform": "微博/抖音",
     "industries": [
       "体育",
@@ -267,8 +407,8 @@
       "#国乒"
     ],
     "url": "https://weibo.com",
-    "updated_at": "2026-04-05T07:20:00",
-    "heat": "4.5亿",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "4.9亿",
     "logic": "体育赛事话题热度上升",
     "trend": "上升",
     "isNew": true,
@@ -280,7 +420,7 @@
   {
     "id": "ht_202604050720_007",
     "title": "拼豆成为消费顶流 年轻人解压新宠",
-    "hot_value": 432000000,
+    "hot_value": 489156460,
     "platform": "小红书/抖音",
     "industries": [
       "消费",
@@ -313,10 +453,10 @@
       "#年轻人"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-05T07:20:00",
-    "heat": "4.3亿",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "4.9亿",
     "logic": "新兴消费话题热度上升",
-    "trend": "上升",
+    "trend": "稳定",
     "isNew": true,
     "platforms": [
       "小红书",
@@ -326,7 +466,7 @@
   {
     "id": "ht_202604050720_008",
     "title": "水果为什么越来越甜了 科普揭秘引发热议",
-    "hot_value": 428000000,
+    "hot_value": 442569400,
     "platform": "小红书/抖音",
     "industries": [
       "美食",
@@ -358,10 +498,10 @@
       "#健康饮食"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-05T07:20:00",
-    "heat": "4.3亿",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "4.4亿",
     "logic": "健康科普话题热度上升",
-    "trend": "稳定",
+    "trend": "上升",
     "isNew": true,
     "platforms": [
       "小红书",
@@ -371,7 +511,7 @@
   {
     "id": "ht_202604050720_009",
     "title": "小孩哥放春假在鱼档帮父母杀鱼 劳动教育获赞",
-    "hot_value": 415000000,
+    "hot_value": 424086746,
     "platform": "抖音/微博",
     "industries": [
       "教育",
@@ -403,10 +543,10 @@
       "#家庭教育"
     ],
     "url": "https://douyin.com",
-    "updated_at": "2026-04-05T07:20:00",
+    "updated_at": "2026-04-05T08:29:17",
     "heat": "4.2亿",
     "logic": "教育话题热度上升",
-    "trend": "上升",
+    "trend": "稳定",
     "isNew": true,
     "platforms": [
       "抖音",
@@ -416,7 +556,7 @@
   {
     "id": "ht_202604050720_010",
     "title": "春季户外露营热潮 周末好去处推荐",
-    "hot_value": 405000000,
+    "hot_value": 461692349,
     "platform": "小红书/抖音",
     "industries": [
       "旅游",
@@ -449,10 +589,10 @@
       "#周末游"
     ],
     "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-05T07:20:00",
-    "heat": "4.1亿",
+    "updated_at": "2026-04-05T08:29:17",
+    "heat": "4.6亿",
     "logic": "户外旅游话题热度上升",
-    "trend": "稳定",
+    "trend": "上升",
     "isNew": true,
     "platforms": [
       "小红书",
