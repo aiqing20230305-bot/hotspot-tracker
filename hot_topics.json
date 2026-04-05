@@ -1,5 +1,881 @@
 [
   {
+    "id": "ht_1775420129_20",
+    "title": "都江堰淘出800克狗头金 官方辟谣不实",
+    "platform": "微博/抖音",
+    "industries": [
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "都江堰",
+      "狗头金",
+      "辟谣",
+      "旅游"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 20,
+    "category": "社会热点",
+    "trend_tags": [
+      "#辟谣",
+      "#都江堰"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "150万",
+    "logic": "辟谣类内容说明信息核实需求",
+    "trend": "下降",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_1775420129_19",
+    "title": "伊媒：多名美军士兵在营救行动中身亡",
+    "platform": "微博",
+    "industries": [
+      "国际",
+      "军事"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "国际热点",
+    "sentiment": "负面",
+    "keywords": [
+      "美军",
+      "营救行动",
+      "中东",
+      "国际局势"
+    ],
+    "c": [],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 19,
+    "category": "国际热点",
+    "trend_tags": [
+      "#中东局势"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "160万",
+    "logic": "国际局势紧张 不适合品牌借势",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博"
+    ]
+  },
+  {
+    "id": "ht_1775420129_18",
+    "title": "王楚钦哭了 夺冠后情绪爆发引发全网心疼",
+    "platform": "微博/抖音/B站",
+    "industries": [
+      "体育",
+      "情感"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "情感热点",
+    "sentiment": "正面",
+    "keywords": [
+      "王楚钦",
+      "哭了",
+      "夺冠",
+      "情绪",
+      "共鸣"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "力士",
+      "舒适"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 18,
+    "category": "情感热点",
+    "trend_tags": [
+      "#王楚钦哭了",
+      "#心疼"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "280万",
+    "logic": "夺冠含泪引发共情 品牌情感营销可借势",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音",
+      "B站"
+    ]
+  },
+  {
+    "id": "ht_1775420129_17",
+    "title": "王楚钦16拍极限对轰松岛辉空 乒乓球神仙打架",
+    "platform": "B站/抖音/微博",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "王楚钦",
+      "乒乓球",
+      "极限对轰",
+      "运动精神"
+    ],
+    "c": [
+      "荣耀",
+      "小米",
+      "索尼",
+      "百威",
+      "罗技"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 17,
+    "category": "体育热点",
+    "trend_tags": [
+      "#乒乓球",
+      "#运动精神",
+      "#神仙打架"
+    ],
+    "url": "https://www.bilibili.com",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "300万",
+    "logic": "精彩体育瞬间适合二创传播 品牌运动营销绝佳素材",
+    "trend": "爆",
+    "isNew": true,
+    "platforms": [
+      "B站",
+      "抖音",
+      "微博"
+    ]
+  },
+  {
+    "id": "ht_1775420129_16",
+    "title": "男子载乘客2505公里4千多元未到账 滴滴回应",
+    "platform": "微博/抖音",
+    "industries": [
+      "社会",
+      "互联网"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "负面",
+    "keywords": [
+      "网约车",
+      "滴滴",
+      "司机",
+      "消费者权益"
+    ],
+    "c": [
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 16,
+    "category": "社会热点",
+    "trend_tags": [
+      "#网约车",
+      "#消费者权益"
+    ],
+    "url": "https://www.douyin.com/hot",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "170万",
+    "logic": "互联网平台权益问题引发讨论",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_1775420129_15",
+    "title": "千亿级消费新引擎来了 经济消费升级",
+    "platform": "微博/抖音",
+    "industries": [
+      "经济",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "消费热点",
+    "sentiment": "正面",
+    "keywords": [
+      "消费",
+      "经济",
+      "新消费",
+      "升级",
+      "内需"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "元气森林",
+      "农夫山泉",
+      "OATLY"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 15,
+    "category": "消费热点",
+    "trend_tags": [
+      "#消费升级",
+      "#新消费"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "210万",
+    "logic": "消费升级趋势利好品牌营销 消费电子和食品饮料受益",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_1775420129_14",
+    "title": "清明节为啥不属农历属公历 网友科普讨论",
+    "platform": "微博/小红书",
+    "industries": [
+      "教育",
+      "文化"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "教育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "清明节",
+      "农历",
+      "公历",
+      "传统文化",
+      "科普"
+    ],
+    "c": [
+      "农夫山泉",
+      "OATLY",
+      "百威",
+      "汤臣倍健"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 14,
+    "category": "教育热点",
+    "trend_tags": [
+      "#清明节",
+      "#传统文化"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "190万",
+    "logic": "传统文化科普类内容受关注 品牌可借势文化营销",
+    "trend": "平稳",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "小红书"
+    ]
+  },
+  {
+    "id": "ht_1775420129_13",
+    "title": "邓亚萍张怡宁没做到的事 孙颖莎完成",
+    "platform": "微博/B站",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "孙颖莎",
+      "邓亚萍",
+      "张怡宁",
+      "乒乓球",
+      "传承"
+    ],
+    "c": [
+      "荣耀",
+      "小米",
+      "百威",
+      "力士"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 13,
+    "category": "体育热点",
+    "trend_tags": [
+      "#孙颖莎",
+      "#乒乓传承"
+    ],
+    "url": "https://www.douyin.com/hot",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "250万",
+    "logic": "新一代超越前辈 传承与突破话题引发共鸣",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "B站"
+    ]
+  },
+  {
+    "id": "ht_1775420129_12",
+    "title": "黄晓明已去交警部门接受处罚",
+    "platform": "微博/抖音",
+    "industries": [
+      "娱乐",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "中性",
+    "keywords": [
+      "黄晓明",
+      "交通违规",
+      "明星",
+      "法律"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "荣耀"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 12,
+    "category": "娱乐热点",
+    "trend_tags": [
+      "#黄晓明",
+      "#交通法规"
+    ],
+    "url": "https://www.douyin.com/hot",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "180万",
+    "logic": "明星知错就改引发法律意识讨论",
+    "trend": "平稳",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_1775420129_11",
+    "title": "胖东来再回应鸡蛋被检出角黄素",
+    "platform": "抖音/微博",
+    "industries": [
+      "消费",
+      "食品"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "胖东来",
+      "鸡蛋",
+      "食品安全",
+      "角黄素"
+    ],
+    "c": [
+      "农夫山泉",
+      "元气森林",
+      "汤臣倍健",
+      "善存"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 11,
+    "category": "美食热点",
+    "trend_tags": [
+      "#食品安全",
+      "#胖东来"
+    ],
+    "url": "https://www.douyin.com/hot",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "220万",
+    "logic": "食品安全话题持续发酵 消费者对品质要求提升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "抖音",
+      "微博"
+    ]
+  },
+  {
+    "id": "ht_1775420129_10",
+    "title": "周杰伦3小时演唱会实唱不足90分钟",
+    "platform": "微博/抖音/小红书",
+    "industries": [
+      "娱乐"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "娱乐热点",
+    "sentiment": "负面",
+    "keywords": [
+      "周杰伦",
+      "演唱会",
+      "实唱",
+      "音乐",
+      "live"
+    ],
+    "c": [
+      "索尼",
+      "荣耀",
+      "小米",
+      "百威"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 10,
+    "category": "娱乐热点",
+    "trend_tags": [
+      "#周杰伦",
+      "#演唱会",
+      "#音乐live"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "340万",
+    "logic": "演唱会体验争议引发音乐消费话题讨论",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音",
+      "小红书"
+    ]
+  },
+  {
+    "id": "ht_1775420129_9",
+    "title": "曹操墓前为何全是布洛芬 网友热议",
+    "platform": "微博/抖音",
+    "industries": [
+      "历史",
+      "社会"
+    ],
+    "trends": [
+      "新"
+    ],
+    "type": "社会热点",
+    "sentiment": "中性",
+    "keywords": [
+      "曹操墓",
+      "布洛芬",
+      "历史",
+      "考古",
+      "梗"
+    ],
+    "c": [
+      "百威",
+      "OATLY",
+      "元气森林"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 9,
+    "category": "社会热点",
+    "trend_tags": [
+      "#曹操墓",
+      "#历史梗"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "200万",
+    "logic": "考古发现与网络梗结合 轻松内容引发讨论",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_1775420129_8",
+    "title": "孙颖莎4-1王曼昱 3连冠创历史纪录",
+    "platform": "微博/抖音/B站",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "孙颖莎",
+      "乒乓球",
+      "世界杯",
+      "三连冠",
+      "纪录"
+    ],
+    "c": [
+      "荣耀",
+      "小米",
+      "索尼",
+      "百威",
+      "元气森林"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 8,
+    "category": "体育热点",
+    "trend_tags": [
+      "#孙颖莎",
+      "#三连冠",
+      "#国乒"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "360万",
+    "logic": "女乒三连冠创造历史 女性力量话题升温",
+    "trend": "爆",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音",
+      "B站"
+    ]
+  },
+  {
+    "id": "ht_1775420129_7",
+    "title": "女子住酒店发现装饰画后还有道门 惊悚体验",
+    "platform": "抖音/小红书/微博",
+    "industries": [
+      "旅游",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "旅游热点",
+    "sentiment": "中性",
+    "keywords": [
+      "酒店",
+      "旅游",
+      "安全",
+      "奇葩经历",
+      "住酒店"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "多芬",
+      "希宝"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 7,
+    "category": "旅游热点",
+    "trend_tags": [
+      "#酒店安全",
+      "#旅游经历"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "260万",
+    "logic": "酒店住宿安全话题引发旅行者关注",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "抖音",
+      "小红书",
+      "微博"
+    ]
+  },
+  {
+    "id": "ht_1775420129_6",
+    "title": "洗衣机快洗模式不能乱用 专家提醒伤衣物",
+    "platform": "微博/小红书/抖音",
+    "industries": [
+      "家居",
+      "消费"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "洗衣机",
+      "生活技巧",
+      "家电",
+      "快洗",
+      "洗衣"
+    ],
+    "c": [
+      "威猛先生",
+      "清扬",
+      "力士",
+      "多芬",
+      "舒适"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 6,
+    "category": "家居热点",
+    "trend_tags": [
+      "#洗衣技巧",
+      "#家电使用"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "280万",
+    "logic": "家居生活技巧类内容热度高 洗护品牌可借势科普",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "小红书",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_1775420129_5",
+    "title": "女生托闺蜜照顾5只猫不料全被饿死",
+    "platform": "微博/小红书/B站",
+    "industries": [
+      "宠物",
+      "社会"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "负面",
+    "keywords": [
+      "猫咪",
+      "宠物",
+      "养猫",
+      "宠物寄养",
+      "宠物安全"
+    ],
+    "c": [
+      "希宝",
+      "皇家",
+      "舒适",
+      "玉兰油",
+      "多芬"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 5,
+    "category": "宠物热点",
+    "trend_tags": [
+      "#宠物安全",
+      "#养猫须知"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "350万",
+    "logic": "宠物寄养安全引发养宠群体高度关注",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "小红书",
+      "B站"
+    ]
+  },
+  {
+    "id": "ht_1775420129_4",
+    "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
+    "platform": "微博/抖音/小红书",
+    "industries": [
+      "科技",
+      "情感"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "科技热点",
+    "sentiment": "负面",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "亲情",
+      "科技伦理",
+      "AI陪伴"
+    ],
+    "c": [
+      "荣耀",
+      "小米",
+      "索尼",
+      "OATLY",
+      "元气森林"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 4,
+    "category": "科技热点",
+    "trend_tags": [
+      "#AI伦理",
+      "#科技与情感"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "380万",
+    "logic": "AI伦理争议引发科技与人性的深度讨论",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音",
+      "小红书"
+    ]
+  },
+  {
+    "id": "ht_1775420129_3",
+    "title": "曝郭艾伦及家人遭诈骗近千万元 警方已介入",
+    "platform": "微博/抖音",
+    "industries": [
+      "社会",
+      "体育"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "社会热点",
+    "sentiment": "负面",
+    "keywords": [
+      "郭艾伦",
+      "诈骗",
+      "反诈",
+      "网络安全",
+      "理财"
+    ],
+    "c": [
+      "小米",
+      "荣耀",
+      "罗技",
+      "索尼"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 3,
+    "category": "社会热点",
+    "trend_tags": [
+      "#郭艾伦",
+      "#反诈",
+      "#网络安全"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "450万",
+    "logic": "体育明星被骗引发全民反诈讨论 信息安全话题升温",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_1775420129_2",
+    "title": "王楚钦4-3险胜松岛辉空 首夺世界杯冠军",
+    "platform": "微博/抖音/B站",
+    "industries": [
+      "体育"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "体育热点",
+    "sentiment": "正面",
+    "keywords": [
+      "王楚钦",
+      "乒乓球",
+      "世界杯",
+      "夺冠",
+      "国乒"
+    ],
+    "c": [
+      "荣耀",
+      "小米",
+      "索尼",
+      "罗技",
+      "力士",
+      "百威"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 2,
+    "category": "体育热点",
+    "trend_tags": [
+      "#王楚钦",
+      "#国乒",
+      "#世界杯冠军"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "480万",
+    "logic": "国乒夺冠激发民族自豪感 运动品牌借势良机",
+    "trend": "爆",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音",
+      "B站"
+    ]
+  },
+  {
+    "id": "ht_1775420129_1",
+    "title": "烈士们的英名万古流芳 清明节全网缅怀",
+    "platform": "微博/百度",
+    "industries": [
+      "社会",
+      "时事"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "社会热点",
+    "sentiment": "正面",
+    "keywords": [
+      "清明",
+      "烈士",
+      "缅怀",
+      "爱国"
+    ],
+    "c": [
+      "荣耀",
+      "小米",
+      "百威",
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-06T04:13:00",
+    "rank": 1,
+    "category": "社会热点",
+    "trend_tags": [
+      "#清明缅怀",
+      "#英名万古流芳"
+    ],
+    "url": "https://top.baidu.com/board?tab=realtime",
+    "updated_at": "2026-04-06T04:13:00",
+    "heat": "520万",
+    "logic": "清明节全网缅怀烈士 引发爱国情感共鸣",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "百度"
+    ]
+  },
+  {
     "id": "ht_1775416345386_1",
     "title": "郭艾伦被诈骗近千万 警方介入调查",
     "platform": "微博/抖音",
@@ -37,7 +913,7 @@
     "heat": "440万",
     "logic": "体育明星被骗引发全民反诈讨论",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -81,7 +957,7 @@
     "heat": "320万",
     "logic": "国乒双冠引发全民体育热潮",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -124,7 +1000,7 @@
     "heat": "240万",
     "logic": "明星演唱会演出质量引热议",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -170,7 +1046,7 @@
     "heat": "120万",
     "logic": "AI情感陪伴话题引发科技伦理讨论",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -214,7 +1090,7 @@
     "heat": "130万",
     "logic": "食品安全话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -258,7 +1134,7 @@
     "heat": "100万",
     "logic": "明星亲子安全话题引关注",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -303,7 +1179,7 @@
     "heat": "110万",
     "logic": "综艺选秀话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -348,7 +1224,7 @@
     "heat": "70万",
     "logic": "创业故事引发餐饮行业讨论",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -395,7 +1271,7 @@
     "heat": "90万",
     "logic": "苹果新品发布引发消费电子话题",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "B站",
@@ -441,7 +1317,7 @@
     "heat": "85万",
     "logic": "苹果平价产品引发消费讨论",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "B站",
@@ -486,7 +1362,7 @@
     "heat": "70万",
     "logic": "宠物托管安全话题引关注",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -527,7 +1403,7 @@
     "heat": "70万",
     "logic": "国际军事局势引发关注",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博"
     ]
@@ -569,7 +1445,7 @@
     "heat": "80万",
     "logic": "影视演技话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -612,7 +1488,7 @@
     "heat": "80万",
     "logic": "餐饮卫生话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -659,7 +1535,7 @@
     "heat": "70万",
     "logic": "年轻人心理健康话题引发共鸣",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "小红书"
@@ -3474,481 +4350,5 @@
       "抖音",
       "小红书"
     ]
-  },
-  {
-    "rank": 86,
-    "title": "粉底测评避坑指南消费者必看",
-    "hot_value": 289847892,
-    "url": "https://weibo.com",
-    "platform": "抖音/小红书",
-    "industries": [
-      "美妆",
-      "教育"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆热点",
-    "sentiment": "中性",
-    "keywords": [
-      "粉底测评",
-      "面膜推荐",
-      "彩妆教程"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:14:39",
-    "id": "ht_72b93ab3",
-    "isNew": false
-  },
-  {
-    "rank": 87,
-    "title": "穿搭技巧成新晋网红打卡超火爆",
-    "hot_value": 289357306,
-    "url": "https://weibo.com",
-    "platform": "抖音/小红书",
-    "industries": [
-      "时尚"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "时尚热点",
-    "sentiment": "正面",
-    "keywords": [
-      "穿搭技巧",
-      "显高显瘦",
-      "搭配原则"
-    ],
-    "c": [
-      "李宁"
-    ],
-    "created_at": "2026-03-30T06:17:00",
-    "id": "ht_0cc1ae66",
-    "isNew": false
-  },
-  {
-    "rank": 88,
-    "title": "软装搭配避坑指南消费者必看",
-    "hot_value": 289295230,
-    "url": "https://weibo.com",
-    "platform": "小红书",
-    "industries": [
-      "家居"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居热点",
-    "sentiment": "正面",
-    "keywords": [
-      "软装搭配",
-      "家居美学",
-      "风格统一"
-    ],
-    "c": [],
-    "created_at": "2026-03-29T04:17:00",
-    "id": "ht_4e7d78cf",
-    "isNew": false
-  },
-  {
-    "rank": 89,
-    "title": "宝宝睡眠使用体验分享真实评价",
-    "hot_value": 288606259,
-    "url": "https://weibo.com",
-    "platform": "小红书/抖音",
-    "industries": [
-      "母婴"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "母婴热点",
-    "sentiment": "正面",
-    "keywords": [
-      "宝宝睡眠",
-      "睡眠训练",
-      "安睡技巧"
-    ],
-    "c": [
-      "飞鹤",
-      "雀巢"
-    ],
-    "created_at": "2026-03-30T22:17:00",
-    "id": "ht_ecbb06a6",
-    "isNew": false
-  },
-  {
-    "id": "ht_37",
-    "title": "周末遛娃好去处 室内乐园推荐攻略",
-    "hot_value": 285000000,
-    "platform": "小红书/微博",
-    "industries": [
-      "亲子",
-      "旅游"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "亲子热点",
-    "sentiment": "正面",
-    "keywords": [
-      "遛娃",
-      "室内乐园",
-      "亲子游",
-      "周末去哪",
-      "遛娃圣地"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林"
-    ],
-    "created_at": "2026-04-03T14:00:00",
-    "rank": 90,
-    "category": "亲子热点",
-    "trend_tags": [
-      "#遛娃",
-      "#室内乐园",
-      "#亲子游"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-03T14:00:00",
-    "heat": "2.9亿",
-    "logic": "亲子周末话题热度上升",
-    "trend": "稳定",
-    "isNew": false,
-    "platforms": [
-      "小红书",
-      "微博"
-    ]
-  },
-  {
-    "rank": 91,
-    "title": "护肤成分新品首发秒售罄引热议",
-    "hot_value": 284829927,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "美妆"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "美妆热点",
-    "sentiment": "负面",
-    "keywords": [
-      "护肤成分",
-      "视黄醇",
-      "水杨酸"
-    ],
-    "c": [
-      "SK-II"
-    ],
-    "created_at": "2026-04-02T01:17:00",
-    "id": "ht_a184d1d0",
-    "isNew": false
-  },
-  {
-    "rank": 92,
-    "title": "收纳技巧成新晋网红打卡超火爆",
-    "hot_value": 283192731,
-    "url": "https://weibo.com",
-    "platform": "B站",
-    "industries": [
-      "家居"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居热点",
-    "sentiment": "正面",
-    "keywords": [
-      "收纳技巧",
-      "空间利用",
-      "整洁有序"
-    ],
-    "c": [
-      "宜家"
-    ],
-    "created_at": "2026-03-29T21:17:00",
-    "id": "ht_57838f32",
-    "isNew": false
-  },
-  {
-    "id": "ht_38",
-    "title": "脑机接口临床试验突破 瘫痪患者重新行走",
-    "hot_value": 280973908,
-    "platform": "微博/全网",
-    "industries": [
-      "科技",
-      "医疗"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "脑机接口",
-      "Neuralink",
-      "医疗突破"
-    ],
-    "c": [
-      "Neuralink",
-      "马斯克",
-      "中科院"
-    ],
-    "created_at": "2026-04-05T13:06:13.115868",
-    "rank": 93,
-    "category": "科技热点",
-    "trend_tags": [
-      "#脑机接口",
-      "#Neuralink",
-      "#医疗突破"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T13:06:13.115870",
-    "heat": "2亿",
-    "logic": "科技热点话题热度上升",
-    "trend": "上升",
-    "isNew": false,
-    "platforms": [
-      "微博",
-      "全网"
-    ]
-  },
-  {
-    "rank": 94,
-    "title": "充电设备成为新趋势年轻人追捧",
-    "hot_value": 280121225,
-    "url": "https://weibo.com",
-    "platform": "抖音",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "科技热点",
-    "sentiment": "中性",
-    "keywords": [
-      "充电设备",
-      "快充技术",
-      "充电宝"
-    ],
-    "c": [],
-    "created_at": "2026-03-28T19:17:00",
-    "id": "ht_f6e8bcf4",
-    "isNew": false
-  },
-  {
-    "rank": 95,
-    "title": "充电设备年度榜单发布这些产品上榜",
-    "hot_value": 280047044,
-    "url": "https://weibo.com",
-    "platform": "微博/小红书",
-    "industries": [
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "充电设备",
-      "快充技术",
-      "充电宝"
-    ],
-    "c": [
-      "索尼",
-      "华为"
-    ],
-    "created_at": "2026-04-01T17:17:00",
-    "id": "ht_7ae5cc7f",
-    "isNew": false
-  },
-  {
-    "id": "ht_20260405155223_9788",
-    "title": "春季育儿知识科普 儿童过敏防护",
-    "platform": "小红书/微博",
-    "hot_value": 278095692,
-    "industries": [
-      "母婴"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "母婴热点",
-    "sentiment": "正面",
-    "keywords": [
-      "育儿",
-      "春季",
-      "过敏",
-      "儿童",
-      "健康"
-    ],
-    "c": [
-      "力士",
-      "清扬",
-      "善存"
-    ],
-    "created_at": "2026-04-05T15:52:23.057626",
-    "rank": 96,
-    "category": "母婴热点",
-    "trend_tags": [
-      "#育儿",
-      "#春季",
-      "#过敏"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T15:52:23.057626",
-    "heat": "4.8亿",
-    "logic": "母婴话题热度上升",
-    "trend": "上升",
-    "isNew": false,
-    "platforms": [
-      "小红书",
-      "微博"
-    ]
-  },
-  {
-    "id": "ht_39",
-    "title": "猫meme成流量密码 品牌营销新玩法",
-    "hot_value": 278000000,
-    "platform": "抖音/小红书",
-    "industries": [
-      "互联网",
-      "营销"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "互联网热点",
-    "sentiment": "正面",
-    "keywords": [
-      "猫meme",
-      "品牌营销",
-      "病毒传播",
-      "社交媒体",
-      "内容营销"
-    ],
-    "c": [
-      "元气森林",
-      "农夫山泉",
-      "小米"
-    ],
-    "created_at": "2026-04-02T16:00:00",
-    "rank": 97,
-    "category": "互联网热点",
-    "trend_tags": [
-      "#猫meme",
-      "#品牌营销",
-      "#内容营销"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-02T16:00:00",
-    "heat": "2.8亿",
-    "logic": "营销话题热度上升",
-    "trend": "上升",
-    "isNew": false,
-    "platforms": [
-      "抖音",
-      "小红书"
-    ]
-  },
-  {
-    "id": "ht_40",
-    "title": "苹果Vision Pro 2发布 轻量化设计成亮点",
-    "hot_value": 277349836,
-    "platform": "微博/抖音/B站",
-    "industries": [
-      "3C数码",
-      "科技"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "数码热点",
-    "sentiment": "正面",
-    "keywords": [
-      "VisionPro",
-      "苹果",
-      "VR"
-    ],
-    "c": [
-      "苹果",
-      "Meta",
-      "PICO"
-    ],
-    "created_at": "2026-04-05T13:06:13.115888",
-    "rank": 98,
-    "category": "数码热点",
-    "trend_tags": [
-      "#VisionPro",
-      "#苹果",
-      "#VR"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T13:06:13.115890",
-    "heat": "2亿",
-    "logic": "数码热点话题热度上升",
-    "trend": "上升",
-    "isNew": false,
-    "platforms": [
-      "微博",
-      "抖音",
-      "B站"
-    ]
-  },
-  {
-    "rank": 99,
-    "title": "街头风格选购攻略专业人士解读",
-    "hot_value": 276491421,
-    "url": "https://weibo.com",
-    "platform": "抖音",
-    "industries": [
-      "时尚"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "时尚热点",
-    "sentiment": "中性",
-    "keywords": [
-      "街头风格",
-      "潮流穿搭",
-      "个性搭配"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T04:17:00",
-    "id": "ht_afd7feb5",
-    "isNew": false
-  },
-  {
-    "rank": 100,
-    "title": "睫毛膏省钱攻略学生党必看",
-    "hot_value": 275458722,
-    "url": "https://weibo.com",
-    "platform": "微博/全网",
-    "industries": [
-      "美妆"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆热点",
-    "sentiment": "正面",
-    "keywords": [
-      "睫毛膏",
-      "纤长卷翘",
-      "浓密睫毛"
-    ],
-    "c": [
-      "自然堂"
-    ],
-    "created_at": "2026-03-28T10:17:00",
-    "id": "ht_279e9134",
-    "isNew": false
   }
 ]
