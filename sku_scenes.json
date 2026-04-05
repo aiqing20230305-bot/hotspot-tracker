@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-04-04T13:18:26.700235",
-  "updated_at": "2026-04-05T07:39:22.740578",
-  "total_skus": 100,
-  "total_scenarios": 4700,
+  "updated_at": "2026-04-06T02:14:01.395062",
+  "total_skus": 121,
+  "total_scenarios": 4743,
   "categories_covered": [
     "3C数码",
     "个护",
@@ -77199,6 +77199,966 @@
         "跑步爱好者",
         "白领上班族"
       ]
+    },
+    {
+      "sku_name": "特斯拉Model Y",
+      "client": "汽车-特斯拉",
+      "specs": "后驱版/长续航版/高性能版",
+      "selling_points": [
+        "OTA远程升级，常用常新",
+        "Autopilot自动辅助驾驶",
+        "超充网络覆盖广",
+        "三电系统行业领先"
+      ],
+      "scenarios": [
+        {
+          "name": "新能源车牌指标",
+          "pain_point": "摇号多年未中签",
+          "resonance": "想要快速获得车牌",
+          "content_angles": [
+            "绿牌优势",
+            "中签率",
+            "提车周期"
+          ],
+          "hot_topics": [
+            "新能源汽车",
+            "绿牌",
+            "摇号"
+          ]
+        },
+        {
+          "name": "家庭首辆车",
+          "pain_point": "第一辆车不知道选什么",
+          "resonance": "需要安全可靠的家庭用车",
+          "content_angles": [
+            "家庭用车推荐",
+            "安全性能",
+            "空间表现"
+          ],
+          "hot_topics": [
+            "家庭用车",
+            "首辆车",
+            "安全"
+          ]
+        },
+        {
+          "name": "智能驾驶体验",
+          "pain_point": "对智能驾驶感兴趣但担心不安全",
+          "resonance": "想要体验前沿科技",
+          "content_angles": [
+            "AP功能",
+            "FSD体验",
+            "科技感"
+          ],
+          "hot_topics": [
+            "智能驾驶",
+            "自动驾驶",
+            "特斯拉"
+          ]
+        }
+      ],
+      "industry": "汽车",
+      "target_audience": "科技爱好者/家庭用户"
+    },
+    {
+      "sku_name": "比亚迪汉EV",
+      "client": "汽车-比亚迪",
+      "specs": "506km/605km/715km续航",
+      "selling_points": [
+        "刀片电池，安全可靠",
+        "Dragon Face设计语言",
+        "DiLink智能网联",
+        "性价比高"
+      ],
+      "scenarios": [
+        {
+          "name": "国产新能源对比",
+          "pain_point": "在比亚迪和其他国产新能源之间纠结",
+          "resonance": "想要高性价比选择",
+          "content_angles": [
+            "性价比",
+            "配置对比",
+            "续航"
+          ],
+          "hot_topics": [
+            "比亚迪",
+            "国产新能源",
+            "性价比"
+          ]
+        },
+        {
+          "name": "网约车首选",
+          "pain_point": "想跑网约车不知道选什么车",
+          "resonance": "需要低能耗高收益的车型",
+          "content_angles": [
+            "运营成本",
+            "充电便利",
+            "耐用性"
+          ],
+          "hot_topics": [
+            "网约车",
+            "新能源",
+            "运营"
+          ]
+        }
+      ],
+      "industry": "汽车",
+      "target_audience": "务实用户/网约车司机"
+    },
+    {
+      "sku_name": "小米智能门锁",
+      "client": "家居-小米",
+      "specs": "指纹/密码/NFC/蓝牙解锁",
+      "selling_points": [
+        "多种开锁方式",
+        "米家生态联动",
+        "C级锁芯安全",
+        "长续航"
+      ],
+      "scenarios": [
+        {
+          "name": "智能门锁换装",
+          "pain_point": "忘记带钥匙经常被锁门外",
+          "resonance": "想要更便捷的开门方式",
+          "content_angles": [
+            "指纹解锁",
+            "便利性",
+            "安全性"
+          ],
+          "hot_topics": [
+            "智能门锁",
+            "指纹锁",
+            "便利"
+          ]
+        },
+        {
+          "name": "智能家居入门",
+          "pain_point": "想打造智能家居不知道从哪开始",
+          "resonance": "想要低门槛体验智能生活",
+          "content_angles": [
+            "入门推荐",
+            "生态联动",
+            "性价比"
+          ],
+          "hot_topics": [
+            "智能家居",
+            "米家",
+            "入门"
+          ]
+        }
+      ],
+      "industry": "家居家电",
+      "target_audience": "年轻家庭/科技爱好者"
+    },
+    {
+      "sku_name": "戴森吸尘器V15",
+      "client": "家居-戴森",
+      "specs": "230AW吸力/60分钟续航",
+      "selling_points": [
+        "激光探测技术",
+        "LCD灰尘数显",
+        "多配件多场景",
+        "HEPA过滤"
+      ],
+      "scenarios": [
+        {
+          "name": "深度清洁",
+          "pain_point": "家里有宠物毛发难清理",
+          "resonance": "想要彻底清洁家居环境",
+          "content_angles": [
+            "宠物毛发",
+            "深度清洁",
+            "除螨"
+          ],
+          "hot_topics": [
+            "除螨",
+            "宠物清洁",
+            "深度清洁"
+          ]
+        },
+        {
+          "name": "送父母礼物",
+          "pain_point": "想送父母实用礼物",
+          "resonance": "想让父母家务更轻松",
+          "content_angles": [
+            "孝心礼物",
+            "实用礼物",
+            "品质生活"
+          ],
+          "hot_topics": [
+            "礼物",
+            "孝心",
+            "清洁"
+          ]
+        }
+      ],
+      "industry": "家居家电",
+      "target_audience": "品质家庭/养宠用户"
+    },
+    {
+      "sku_name": "SK-II神仙水",
+      "client": "美妆-SK-II",
+      "specs": "230ml/330ml",
+      "selling_points": [
+        "PITERA™酵母精粹",
+        "调节肌肤水油平衡",
+        "改善肌肤状态",
+        "明星同款"
+      ],
+      "scenarios": [
+        {
+          "name": "护肤升级",
+          "pain_point": "普通护肤品效果不明显",
+          "resonance": "想要更有效的护肤品",
+          "content_angles": [
+            "精华水",
+            "护肤升级",
+            "明星同款"
+          ],
+          "hot_topics": [
+            "神仙水",
+            "精华水",
+            "护肤"
+          ]
+        },
+        {
+          "name": "母亲节礼物",
+          "pain_point": "母亲节不知道送什么",
+          "resonance": "想送妈妈高端护肤品",
+          "content_angles": [
+            "母亲节礼物",
+            "高端护肤品",
+            "抗老"
+          ],
+          "hot_topics": [
+            "母亲节",
+            "礼物",
+            "抗老"
+          ]
+        }
+      ],
+      "industry": "美妆护肤",
+      "target_audience": "都市白领/成熟肌肤"
+    },
+    {
+      "sku_name": "雅诗兰黛小棕瓶",
+      "client": "美妆-雅诗兰黛",
+      "specs": "30ml/50ml/75ml",
+      "selling_points": [
+        " ChronoluxCB™科技",
+        "夜间修护",
+        "抗老淡纹",
+        "维稳修护"
+      ],
+      "scenarios": [
+        {
+          "name": "初抗老",
+          "pain_point": "25岁后开始出现细纹",
+          "resonance": "想要预防衰老",
+          "content_angles": [
+            "初抗老",
+            "抗皱",
+            "修护"
+          ],
+          "hot_topics": [
+            "抗老",
+            "初抗老",
+            "精华"
+          ]
+        },
+        {
+          "name": "敏感肌修护",
+          "pain_point": "敏感肌护肤品不敢乱用",
+          "resonance": "需要温和不刺激的修护产品",
+          "content_angles": [
+            "敏感肌",
+            "温和",
+            "修护"
+          ],
+          "hot_topics": [
+            "敏感肌",
+            "修护",
+            "温和"
+          ]
+        }
+      ],
+      "industry": "美妆护肤",
+      "target_audience": "轻熟肌/敏感肌"
+    },
+    {
+      "sku_name": "Lululemon瑜伽裤",
+      "client": "运动户外-Lululemon",
+      "specs": "Align/Define/Wunder Train系列",
+      "selling_points": [
+        "裸感面料",
+        "高弹力舒适",
+        "提臀显瘦",
+        "明星同款"
+      ],
+      "scenarios": [
+        {
+          "name": "健身穿搭",
+          "pain_point": "健身穿什么裤子好看",
+          "resonance": "想要既舒适又时尚的健身服",
+          "content_angles": [
+            "健身穿搭",
+            "瑜伽裤",
+            "运动时尚"
+          ],
+          "hot_topics": [
+            "瑜伽裤",
+            "健身穿搭",
+            "运动"
+          ]
+        },
+        {
+          "name": "瑜伽入门",
+          "pain_point": "刚开始练瑜伽不知道买什么装备",
+          "resonance": "想要专业的瑜伽装备",
+          "content_angles": [
+            "瑜伽装备",
+            "初学者",
+            "专业"
+          ],
+          "hot_topics": [
+            "瑜伽",
+            "装备",
+            "初学者"
+          ]
+        }
+      ],
+      "industry": "运动户外",
+      "target_audience": "健身爱好者/时尚女性"
+    },
+    {
+      "sku_name": "Nike Air Max",
+      "client": "运动户外-Nike",
+      "specs": "经典气垫/最新迭代",
+      "selling_points": [
+        "Max Air气垫",
+        "舒适缓震",
+        "百搭款式",
+        "潮流时尚"
+      ],
+      "scenarios": [
+        {
+          "name": "运动鞋推荐",
+          "pain_point": "想买一双既舒服又潮流的运动鞋",
+          "resonance": "追求舒适与时尚兼具",
+          "content_angles": [
+            "运动鞋",
+            "舒适",
+            "潮流"
+          ],
+          "hot_topics": [
+            "运动鞋",
+            "Air Max",
+            "潮流"
+          ]
+        },
+        {
+          "name": "送礼选择",
+          "pain_point": "想送朋友运动装备不知道选什么",
+          "resonance": "想要时尚又实用的运动礼物",
+          "content_angles": [
+            "礼物",
+            "运动装备",
+            "时尚"
+          ],
+          "hot_topics": [
+            "礼物",
+            "运动鞋",
+            "送礼"
+          ]
+        }
+      ],
+      "industry": "运动户外",
+      "target_audience": "运动爱好者/潮流人士"
+    },
+    {
+      "sku_name": "元气森林气泡水",
+      "client": "食品饮料-元气森林",
+      "specs": "0糖0脂0卡/多种口味",
+      "selling_points": [
+        "赤藓糖醇代糖",
+        "气泡足口感好",
+        "无糖健康",
+        "年轻品牌"
+      ],
+      "scenarios": [
+        {
+          "name": "减脂期饮品",
+          "pain_point": "减脂想喝饮料又怕胖",
+          "resonance": "想要无负担的快乐水",
+          "content_angles": [
+            "无糖饮料",
+            "减脂",
+            "健康"
+          ],
+          "hot_topics": [
+            "无糖",
+            "气泡水",
+            "健康"
+          ]
+        },
+        {
+          "name": "聚会饮品",
+          "pain_point": "聚会不知道准备什么饮料",
+          "resonance": "想要好喝又健康的饮品",
+          "content_angles": [
+            "聚会",
+            "饮品",
+            "年轻"
+          ],
+          "hot_topics": [
+            "聚会",
+            "饮品",
+            "派对"
+          ]
+        }
+      ],
+      "industry": "食品饮料",
+      "target_audience": "年轻群体/健身人群"
+    },
+    {
+      "sku_name": "瑞幸酱香拿铁",
+      "client": "食品饮料-瑞幸",
+      "specs": "茅台联名/含酒精咖啡",
+      "selling_points": [
+        "茅台联名款",
+        "酱香口味独特",
+        "社交属性强",
+        "网红爆款"
+      ],
+      "scenarios": [
+        {
+          "name": "网红打卡",
+          "pain_point": "想尝试最新网红产品",
+          "resonance": "想要跟上潮流热点",
+          "content_angles": [
+            "网红",
+            "打卡",
+            "酱香拿铁"
+          ],
+          "hot_topics": [
+            "酱香拿铁",
+            "瑞幸",
+            "网红"
+          ]
+        },
+        {
+          "name": "新品尝鲜",
+          "pain_point": "想知道新品好不好喝",
+          "resonance": "想要尝试新鲜口味",
+          "content_angles": [
+            "新品",
+            "评测",
+            "尝鲜"
+          ],
+          "hot_topics": [
+            "新品",
+            "咖啡",
+            "评测"
+          ]
+        }
+      ],
+      "industry": "食品饮料",
+      "target_audience": "年轻消费者/咖啡爱好者"
+    },
+    {
+      "sku_name": "Babycare推车",
+      "client": "母婴-Babycare",
+      "specs": "高景观/轻便伞车/多功能",
+      "selling_points": [
+        "一键收车",
+        "双向推行",
+        "避震设计",
+        "颜值高"
+      ],
+      "scenarios": [
+        {
+          "name": "新生儿大件",
+          "pain_point": "准备待产包不知道买什么推车",
+          "resonance": "想要安全舒适的婴儿推车",
+          "content_angles": [
+            "婴儿推车",
+            "待产包",
+            "新生儿"
+          ],
+          "hot_topics": [
+            "婴儿车",
+            "待产",
+            "新生儿"
+          ]
+        },
+        {
+          "name": "遛娃神器",
+          "pain_point": "带娃出门不方便",
+          "resonance": "想要轻松遛娃",
+          "content_angles": [
+            "遛娃",
+            "轻便",
+            "出行"
+          ],
+          "hot_topics": [
+            "遛娃",
+            "婴儿车",
+            "出行"
+          ]
+        }
+      ],
+      "industry": "母婴用品",
+      "target_audience": "新手父母/全职妈妈"
+    },
+    {
+      "sku_name": "巅峰猫罐头",
+      "client": "宠物-巅峰",
+      "specs": "主食罐/零食罐/多种口味",
+      "selling_points": [
+        "新西兰原装进口",
+        "高蛋白低碳水",
+        "无谷配方",
+        "品质保证"
+      ],
+      "scenarios": [
+        {
+          "name": "高端猫粮",
+          "pain_point": "想给猫咪最好的食物",
+          "resonance": "关注猫咪饮食健康",
+          "content_angles": [
+            "高端猫粮",
+            "进口",
+            "主食"
+          ],
+          "hot_topics": [
+            "猫罐头",
+            "巅峰",
+            "进口猫粮"
+          ]
+        },
+        {
+          "name": "挑食猫咪",
+          "pain_point": "猫咪挑食不爱吃饭",
+          "resonance": "想要猫咪好好吃饭",
+          "content_angles": [
+            "挑食",
+            "猫咪零食",
+            "骗粮"
+          ],
+          "hot_topics": [
+            "猫咪挑食",
+            "猫零食",
+            "骗粮"
+          ]
+        }
+      ],
+      "industry": "宠物用品",
+      "target_audience": "猫主人/精致养宠"
+    },
+    {
+      "sku_name": "戴森吹风机",
+      "client": "个护-戴森",
+      "specs": "Supersonic/HD15",
+      "selling_points": [
+        "V9数码马达",
+        "智能温控",
+        "负离子护发",
+        "快速干发"
+      ],
+      "scenarios": [
+        {
+          "name": "护发神器",
+          "pain_point": "吹风机伤发质",
+          "resonance": "想要保护头发",
+          "content_angles": [
+            "护发",
+            "吹风机",
+            "负离子"
+          ],
+          "hot_topics": [
+            "护发",
+            "吹风机",
+            "戴森"
+          ]
+        },
+        {
+          "name": "送礼佳品",
+          "pain_point": "想送女友/妈妈实用礼物",
+          "resonance": "想要高端实用的个护礼物",
+          "content_angles": [
+            "礼物",
+            "吹风机",
+            "高端"
+          ],
+          "hot_topics": [
+            "礼物",
+            "吹风机",
+            "女友"
+          ]
+        }
+      ],
+      "industry": "个护美妆",
+      "target_audience": "品质女性/送礼需求"
+    },
+    {
+      "sku_name": "松下电动牙刷",
+      "client": "个护-松下",
+      "specs": "声波震动/正畸专用",
+      "selling_points": [
+        "3D声波科技",
+        "敏感模式",
+        "长续航",
+        "性价比高"
+      ],
+      "scenarios": [
+        {
+          "name": "口腔护理",
+          "pain_point": "刷牙出血/牙龈敏感",
+          "resonance": "想要温和有效的刷牙体验",
+          "content_angles": [
+            "电动牙刷",
+            "敏感",
+            "口腔"
+          ],
+          "hot_topics": [
+            "电动牙刷",
+            "口腔护理",
+            "敏感"
+          ]
+        },
+        {
+          "name": "正畸护理",
+          "pain_point": "戴牙套不好清洁",
+          "resonance": "想要彻底清洁牙齿",
+          "content_angles": [
+            "正畸",
+            "牙套清洁",
+            "正畸专用"
+          ],
+          "hot_topics": [
+            "正畸",
+            "牙套",
+            "清洁"
+          ]
+        }
+      ],
+      "industry": "个护美妆",
+      "target_audience": "敏感牙龈/正畸人群"
+    },
+    {
+      "sku_name": "iPhone 15 Pro",
+      "client": "3C数码-苹果",
+      "specs": "A17 Pro芯片/钛金属/120Hz",
+      "selling_points": [
+        "钛金属设计",
+        "A17 Pro性能强劲",
+        "ProMotion自适应刷新",
+        "Action Button自定义"
+      ],
+      "scenarios": [
+        {
+          "name": "苹果换机",
+          "pain_point": "想换新iPhone但不知道选哪款",
+          "resonance": "想要最新的苹果体验",
+          "content_angles": [
+            "iPhone15",
+            "换机",
+            "苹果"
+          ],
+          "hot_topics": [
+            "iPhone15",
+            "苹果",
+            "换机"
+          ]
+        },
+        {
+          "name": "拍照神器",
+          "pain_point": "想要一部拍照好的手机",
+          "resonance": "喜欢用手机记录生活",
+          "content_angles": [
+            "拍照",
+            "影像",
+            "摄影"
+          ],
+          "hot_topics": [
+            "拍照手机",
+            "影像",
+            "摄影"
+          ]
+        }
+      ],
+      "industry": "家电数码",
+      "target_audience": "苹果用户/摄影爱好者"
+    },
+    {
+      "sku_name": "华为Mate 60 Pro",
+      "client": "3C数码-华为",
+      "specs": "麒麟9000s/卫星通话/昆仑玻璃",
+      "selling_points": [
+        "麒麟芯片回归",
+        "卫星通话功能",
+        "XMAGE影像",
+        "鸿蒙系统"
+      ],
+      "scenarios": [
+        {
+          "name": "支持国产",
+          "pain_point": "想支持国产但担心性能",
+          "resonance": "想要国产高端机",
+          "content_angles": [
+            "国产",
+            "华为",
+            "支持"
+          ],
+          "hot_topics": [
+            "华为Mate60",
+            "国产",
+            "麒麟"
+          ]
+        },
+        {
+          "name": "商务旗舰",
+          "pain_point": "需要一部高端商务手机",
+          "resonance": "想要得体的工作手机",
+          "content_angles": [
+            "商务",
+            "旗舰",
+            "高端"
+          ],
+          "hot_topics": [
+            "商务手机",
+            "旗舰",
+            "华为"
+          ]
+        }
+      ],
+      "industry": "家电数码",
+      "target_audience": "商务人士/国产支持者"
+    },
+    {
+      "sku_name": "大疆无人机Mini 4 Pro",
+      "client": "3C数码-大疆",
+      "specs": "249g/4K/全向避障",
+      "selling_points": [
+        "轻巧便携",
+        "4K高清视频",
+        "全向避障",
+        "无损竖拍"
+      ],
+      "scenarios": [
+        {
+          "name": "航拍入门",
+          "pain_point": "想学航拍不知道选什么无人机",
+          "resonance": "想要轻便好上手的无人机",
+          "content_angles": [
+            "航拍",
+            "无人机",
+            "入门"
+          ],
+          "hot_topics": [
+            "无人机",
+            "航拍",
+            "大疆"
+          ]
+        },
+        {
+          "name": "旅行记录",
+          "pain_point": "旅行想拍震撼大片",
+          "resonance": "想要独特的旅行视角",
+          "content_angles": [
+            "旅行",
+            "航拍",
+            "风景"
+          ],
+          "hot_topics": [
+            "旅行拍",
+            "风景",
+            "旅拍"
+          ]
+        }
+      ],
+      "industry": "家电数码",
+      "target_audience": "摄影爱好者/旅行达人"
+    },
+    {
+      "sku_name": "AirPods Pro 2",
+      "client": "3C数码-苹果",
+      "specs": "H2芯片/主动降噪/空间音频",
+      "selling_points": [
+        "主动降噪升级",
+        "自适应音频",
+        "MagSafe充电盒",
+        "查找功能"
+      ],
+      "scenarios": [
+        {
+          "name": "通勤降噪",
+          "pain_point": "通勤路上太吵",
+          "resonance": "想要安静的通勤体验",
+          "content_angles": [
+            "降噪",
+            "通勤",
+            "安静"
+          ],
+          "hot_topics": [
+            "降噪耳机",
+            "AirPods",
+            "通勤"
+          ]
+        },
+        {
+          "name": "运动耳机",
+          "pain_point": "运动时耳机容易掉",
+          "resonance": "想要稳固舒适的耳机",
+          "content_angles": [
+            "运动",
+            "稳固",
+            "舒适"
+          ],
+          "hot_topics": [
+            "运动耳机",
+            "AirPods",
+            "健身"
+          ]
+        }
+      ],
+      "industry": "家电数码",
+      "target_audience": "通勤族/运动爱好者"
+    },
+    {
+      "sku_name": "索尼PS5游戏机",
+      "client": "3C数码-索尼",
+      "specs": "光驱版/数字版/手柄套装",
+      "selling_points": [
+        "4K 120Hz画面",
+        "快速加载",
+        "DualSense手柄",
+        "独占大作"
+      ],
+      "scenarios": [
+        {
+          "name": "客厅娱乐",
+          "pain_point": "想在家体验主机游戏",
+          "resonance": "想要沉浸式游戏体验",
+          "content_angles": [
+            "主机游戏",
+            "客厅",
+            "4K"
+          ],
+          "hot_topics": [
+            "PS5",
+            "主机游戏",
+            "客厅娱乐"
+          ]
+        },
+        {
+          "name": "送男友礼物",
+          "pain_point": "不知道送男朋友什么礼物",
+          "resonance": "想要送到男友心坎的礼物",
+          "content_angles": [
+            "礼物",
+            "游戏机",
+            "男友"
+          ],
+          "hot_topics": [
+            "礼物",
+            "PS5",
+            "男友"
+          ]
+        }
+      ],
+      "industry": "家电数码",
+      "target_audience": "游戏玩家/礼品需求"
+    },
+    {
+      "sku_name": "优衣库联名UT",
+      "client": "服装-优衣库",
+      "specs": "设计师联名/动漫联名",
+      "selling_points": [
+        "百联设计",
+        "舒适面料",
+        "性价比高",
+        "限时发售"
+      ],
+      "scenarios": [
+        {
+          "name": "动漫联名",
+          "pain_point": "想get动漫同款",
+          "resonance": "想要动漫联名款",
+          "content_angles": [
+            "联名",
+            "动漫",
+            "UT"
+          ],
+          "hot_topics": [
+            "优衣库联名",
+            "动漫T恤",
+            "UT"
+          ]
+        },
+        {
+          "name": "基础穿搭",
+          "pain_point": "衣柜里缺少基础款",
+          "resonance": "想要百搭的基础款",
+          "content_angles": [
+            "基础款",
+            "百搭",
+            "T恤"
+          ],
+          "hot_topics": [
+            "基础款",
+            "白T恤",
+            "百搭"
+          ]
+        }
+      ],
+      "industry": "服装配饰",
+      "target_audience": "年轻群体/动漫爱好者"
+    },
+    {
+      "sku_name": "蕉下防晒伞",
+      "client": "服装-蕉下",
+      "specs": "晴雨两用/UPF50+/轻量化",
+      "selling_points": [
+        "高效防晒",
+        "晴雨两用",
+        "便携轻巧",
+        "高颜值"
+      ],
+      "scenarios": [
+        {
+          "name": "夏季防晒",
+          "pain_point": "夏天太阳太晒",
+          "resonance": "想要有效的防晒方式",
+          "content_angles": [
+            "防晒",
+            "遮阳",
+            "夏季"
+          ],
+          "hot_topics": [
+            "防晒伞",
+            "蕉下",
+            "遮阳"
+          ]
+        },
+        {
+          "name": "阴雨天气",
+          "pain_point": "出门忘带伞",
+          "resonance": "想要随时有伞可用",
+          "content_angles": [
+            "雨伞",
+            "便携",
+            "晴雨两用"
+          ],
+          "hot_topics": [
+            "雨伞",
+            "便携",
+            "晴天"
+          ]
+        }
+      ],
+      "industry": "服装配饰",
+      "target_audience": "女性用户/日常通勤"
     }
   ]
 }
