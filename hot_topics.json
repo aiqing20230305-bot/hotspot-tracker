@@ -38,7 +38,7 @@
     "heat": "5.0亿",
     "logic": "AI智能体话题热度爆发",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -127,7 +127,7 @@
     "heat": "4.7亿",
     "logic": "汽车行业话题热度持续",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -172,7 +172,7 @@
     "heat": "4.0亿",
     "logic": "健身话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "抖音",
       "小红书"
@@ -217,7 +217,7 @@
     "heat": "5.2亿",
     "logic": "旅游话题热度爆发",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -263,7 +263,7 @@
     "heat": "3.8亿",
     "logic": "宠物话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "抖音"
@@ -308,7 +308,7 @@
     "heat": "3.6亿",
     "logic": "家居话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -353,7 +353,7 @@
     "heat": "3.4亿",
     "logic": "母婴话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "微博"
@@ -398,7 +398,7 @@
     "heat": "3.2亿",
     "logic": "饮品话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -443,7 +443,7 @@
     "heat": "3.0亿",
     "logic": "就业话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "全网"
@@ -532,7 +532,7 @@
     "heat": "1.9亿",
     "logic": "科技话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "B站"
@@ -575,7 +575,7 @@
     "heat": "1.9亿",
     "logic": "美妆话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "抖音"
@@ -619,7 +619,7 @@
     "heat": "2.3亿",
     "logic": "健身话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "抖音",
       "小红书"
@@ -664,7 +664,7 @@
     "heat": "5.4亿",
     "logic": "美食话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -709,7 +709,7 @@
     "heat": "3.1亿",
     "logic": "汽车话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "全网"
@@ -754,7 +754,7 @@
     "heat": "4.5亿",
     "logic": "宠物话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "抖音"
@@ -799,7 +799,7 @@
     "heat": "1.5亿",
     "logic": "家居话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -843,7 +843,7 @@
     "heat": "4.8亿",
     "logic": "母婴话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "微博"
@@ -887,7 +887,7 @@
     "heat": "3.6亿",
     "logic": "教育话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "全网"
@@ -911,7 +911,8 @@
       "小米",
       "荣耀",
       "索尼"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "AI绘画工具Midjourney V7发布 画质大幅提升",
@@ -931,7 +932,8 @@
       "荣耀",
       "小米",
       "索尼"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "春季护肤攻略刷屏 精华液使用技巧成热门话题",
@@ -952,7 +954,8 @@
       "多芬",
       "力士",
       "玉兰油"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "健身博主推荐居家训练器材 哑铃销量暴涨300%",
@@ -972,7 +975,8 @@
       "汤臣倍健",
       "善存",
       "HC"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "宠物经济持续升温 猫粮狗粮高端化趋势明显",
@@ -991,7 +995,8 @@
     "c": [
       "皇家",
       "希宝"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "无糖饮料市场争夺战 元气森林推新品迎战",
@@ -1011,7 +1016,8 @@
       "元气森林",
       "农夫山泉",
       "百威"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "智能家居联动场景受追捧 语音控制成标配",
@@ -1031,7 +1037,8 @@
       "小米",
       "荣耀",
       "罗技"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "春季出游穿搭指南 小红书博主分享防晒技巧",
@@ -1051,7 +1058,8 @@
       "AHC",
       "玉兰油",
       "舒适"
-    ]
+    ],
+    "isNew": true
   },
   {
     "title": "母婴博主推荐新生儿护理神器 湿巾销量激增",
@@ -1070,7 +1078,8 @@
     "c": [
       "舒适",
       "威猛先生"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "汽车降价潮持续 新能源车企价格战白热化",
@@ -1089,7 +1098,8 @@
     "c": [
       "小米",
       "荣耀"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "清明假期电影票房破10亿 家庭观影成主流",
@@ -1108,7 +1118,8 @@
     "c": [
       "索尼",
       "小米"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "洗衣凝珠使用攻略刷屏 留香珠成新宠",
@@ -1128,7 +1139,8 @@
       "力士",
       "清扬",
       "多芬"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "春季过敏高发期 护肤品温和成分受关注",
@@ -1148,7 +1160,8 @@
       "AHC",
       "玉兰油",
       "多芬"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "运动饮料市场新格局 电解质水成健身标配",
@@ -1167,7 +1180,8 @@
     "c": [
       "元气森林",
       "农夫山泉"
-    ]
+    ],
+    "isNew": false
   },
   {
     "title": "游戏外设销量暴涨 机械键盘成年轻人新宠",
@@ -1187,7 +1201,8 @@
       "罗技",
       "小米",
       "荣耀"
-    ]
+    ],
+    "isNew": false
   },
   {
     "id": "ht_1",
@@ -1229,7 +1244,7 @@
     "heat": "5.2亿",
     "logic": "假期结束话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -1276,7 +1291,7 @@
     "heat": "5.1亿",
     "logic": "交通出行便民服务话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -1322,7 +1337,7 @@
     "heat": "5.0亿",
     "logic": "AI技术话题热度爆发",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博"
     ]
@@ -1366,7 +1381,7 @@
     "heat": "4.8亿",
     "logic": "娱乐明星话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -1414,7 +1429,7 @@
     "heat": "4.7亿",
     "logic": "出境旅游政策话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "小红书"
@@ -1458,7 +1473,7 @@
     "heat": "4.6亿",
     "logic": "国产新能源话题持续火爆",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -1504,7 +1519,7 @@
     "heat": "4.6亿",
     "logic": "情感故事话题热度上升",
     "trend": "稳定",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "抖音",
       "微博"
@@ -1550,7 +1565,7 @@
     "heat": "4.5亿",
     "logic": "体育赛事话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -1596,7 +1611,7 @@
     "heat": "4.3亿",
     "logic": "新兴消费话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "抖音"
@@ -1641,7 +1656,7 @@
     "heat": "4.3亿",
     "logic": "健康科普话题热度上升",
     "trend": "稳定",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "抖音"
@@ -1686,7 +1701,7 @@
     "heat": "4.2亿",
     "logic": "教育话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "抖音",
       "微博"
@@ -1730,7 +1745,7 @@
     "heat": "4亿",
     "logic": "数码热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -1777,7 +1792,7 @@
     "heat": "4.1亿",
     "logic": "户外旅游话题热度上升",
     "trend": "稳定",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "抖音"
@@ -1822,7 +1837,7 @@
     "heat": "4.1亿",
     "logic": "动漫新番话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "B站",
       "微博"
@@ -1867,7 +1882,7 @@
     "heat": "4.0亿",
     "logic": "国产游戏话题持续火爆",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "B站",
       "抖音"
@@ -1912,7 +1927,7 @@
     "heat": "3.9亿",
     "logic": "电影票房话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -1957,7 +1972,7 @@
     "heat": "3.8亿",
     "logic": "自动驾驶话题热度爆发",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -2000,7 +2015,7 @@
     "heat": "3亿",
     "logic": "数码热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -2046,7 +2061,7 @@
     "heat": "3.7亿",
     "logic": "季节性时尚话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书"
     ]
@@ -2088,7 +2103,7 @@
     "heat": "3亿",
     "logic": "科技热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -2134,7 +2149,7 @@
     "heat": "3.6亿",
     "logic": "航天话题热度爆发",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -2179,7 +2194,7 @@
     "heat": "3.5亿",
     "logic": "健康饮食话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书"
     ]
@@ -2221,7 +2236,7 @@
     "heat": "3亿",
     "logic": "科技热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "全网"
@@ -2266,7 +2281,7 @@
     "heat": "3.5亿",
     "logic": "电竞赛事话题热度爆发",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "B站",
       "微博"
@@ -2309,7 +2324,7 @@
     "heat": "3亿",
     "logic": "科技热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "小红书",
@@ -2355,7 +2370,7 @@
     "heat": "3.4亿",
     "logic": "游戏版本更新话题热度爆炸",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "B站",
       "抖音"
@@ -2399,7 +2414,7 @@
     "heat": "3.3亿",
     "logic": "职场话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "抖音",
       "微博"
@@ -2445,7 +2460,7 @@
     "heat": "3.3亿",
     "logic": "美妆护肤话题热度上升",
     "trend": "稳定",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书"
     ]
@@ -2533,7 +2548,7 @@
     "heat": "3.1亿",
     "logic": "美食话题热度稳定",
     "trend": "稳定",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "抖音",
       "微博"
@@ -2577,7 +2592,7 @@
     "heat": "3.1亿",
     "logic": "家居改造话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "抖音"
@@ -2667,7 +2682,7 @@
     "heat": "3.0亿",
     "logic": "时尚流行话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "抖音"
     ]
@@ -2711,7 +2726,7 @@
     "heat": "2.9亿",
     "logic": "健康话题热度季节性上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -2755,7 +2770,7 @@
     "heat": "2亿",
     "logic": "游戏硬件话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "B站",
@@ -2799,7 +2814,7 @@
     "heat": "2亿",
     "logic": "餐饮热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -2844,7 +2859,7 @@
     "heat": "2.9亿",
     "logic": "亲子周末话题热度上升",
     "trend": "稳定",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "微博"
@@ -2887,7 +2902,7 @@
     "heat": "2亿",
     "logic": "科技热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "全网"
@@ -2933,7 +2948,7 @@
     "heat": "2.8亿",
     "logic": "营销话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "抖音",
       "小红书"
@@ -2976,7 +2991,7 @@
     "heat": "2亿",
     "logic": "数码热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -3023,7 +3038,7 @@
     "heat": "2.8亿",
     "logic": "纪念日话题热度上升",
     "trend": "稳定",
-    "isNew": false,
+    "isNew": true,
     "platforms": [
       "微博",
       "抖音"
@@ -3066,7 +3081,7 @@
     "heat": "2亿",
     "logic": "游戏热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -3109,7 +3124,7 @@
     "heat": "2亿",
     "logic": "旅游热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -3153,7 +3168,7 @@
     "heat": "2亿",
     "logic": "科技热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "全网"
@@ -3196,7 +3211,7 @@
     "heat": "2亿",
     "logic": "数码热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -3242,7 +3257,7 @@
     "heat": "2.7亿",
     "logic": "节日美食话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音",
@@ -3330,7 +3345,7 @@
     "heat": "2.6亿",
     "logic": "茶叶消费话题热度上升",
     "trend": "稳定",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "小红书"
@@ -3373,7 +3388,7 @@
     "heat": "2亿",
     "logic": "科技热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "全网"
@@ -3418,7 +3433,7 @@
     "heat": "2.6亿",
     "logic": "航天科技话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博"
     ]
@@ -3460,7 +3475,7 @@
     "heat": "2亿",
     "logic": "科技热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -3505,7 +3520,7 @@
     "heat": "2.5亿",
     "logic": "国产科技话题热度稳定",
     "trend": "稳定",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博"
     ]
@@ -3547,7 +3562,7 @@
     "heat": "2亿",
     "logic": "汽车热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -3590,7 +3605,7 @@
     "heat": "2亿",
     "logic": "汽车热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -3674,7 +3689,7 @@
     "heat": "2.4亿",
     "logic": "股市话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博"
     ]
@@ -3716,7 +3731,7 @@
     "heat": "2亿",
     "logic": "家电热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "小红书",
@@ -3761,7 +3776,7 @@
     "heat": "2.4亿",
     "logic": "金融科技话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博"
     ]
@@ -3803,7 +3818,7 @@
     "heat": "2亿",
     "logic": "汽车热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -3844,7 +3859,7 @@
     "heat": "2.3亿",
     "logic": "就业话题热度上升",
     "trend": "稳定",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博"
     ]
@@ -3886,7 +3901,7 @@
     "heat": "2亿",
     "logic": "科技热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "微博",
       "抖音"
@@ -3929,7 +3944,7 @@
     "heat": "2亿",
     "logic": "美妆热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "小红书",
       "微博"
@@ -3972,7 +3987,7 @@
     "heat": "2亿",
     "logic": "游戏热点话题热度上升",
     "trend": "上升",
-    "isNew": true,
+    "isNew": false,
     "platforms": [
       "B站",
       "微博",
