@@ -1,5 +1,449 @@
 [
   {
+    "id": "ht_20260405155223_3865",
+    "title": "五一旅游预订火爆 机票酒店价格飙升",
+    "platform": "微博/抖音",
+    "hot_value": 358631337,
+    "industries": [
+      "旅游"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "旅游热点",
+    "sentiment": "中性",
+    "keywords": [
+      "五一",
+      "旅游",
+      "预订",
+      "机票",
+      "酒店"
+    ],
+    "c": [
+      "OATLY",
+      "威猛先生",
+      "舒适",
+      "善存"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 1,
+    "category": "旅游热点",
+    "trend_tags": [
+      "#五一",
+      "#旅游",
+      "#预订"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "1.2亿",
+    "logic": "旅游话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_20260405155223_8488",
+    "title": "AI助手功能大比拼 ChatGPT vs Claude谁更强",
+    "platform": "微博/B站",
+    "hot_value": 290428494,
+    "industries": [
+      "科技"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "AI",
+      "ChatGPT",
+      "Claude",
+      "对比",
+      "智能助手"
+    ],
+    "c": [
+      "荣耀",
+      "清扬",
+      "罗技"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 2,
+    "category": "科技热点",
+    "trend_tags": [
+      "#AI",
+      "#ChatGPT",
+      "#Claude"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "1.9亿",
+    "logic": "科技话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "B站"
+    ]
+  },
+  {
+    "id": "ht_20260405155223_3965",
+    "title": "夏季防晒新品上市 物理防晒成主流",
+    "platform": "小红书/抖音",
+    "hot_value": 433078007,
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "防晒",
+      "夏季",
+      "物理防晒",
+      "新品",
+      "护肤"
+    ],
+    "c": [
+      "小米",
+      "舒适"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 3,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#防晒",
+      "#夏季",
+      "#物理防晒"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "1.9亿",
+    "logic": "美妆话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "小红书",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_20260405155223_2318",
+    "title": "居家健身新趋势 瑜伽垫销量暴涨",
+    "platform": "抖音/小红书",
+    "hot_value": 206337868,
+    "industries": [
+      "健身"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健身热点",
+    "sentiment": "正面",
+    "keywords": [
+      "健身",
+      "瑜伽",
+      "居家",
+      "运动",
+      "健康"
+    ],
+    "c": [
+      "希宝",
+      "元气森林",
+      "多芬"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 4,
+    "category": "健身热点",
+    "trend_tags": [
+      "#健身",
+      "#瑜伽",
+      "#居家"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "2.3亿",
+    "logic": "健身话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "抖音",
+      "小红书"
+    ]
+  },
+  {
+    "id": "ht_20260405155223_3466",
+    "title": "预制菜争议再起 食品安全引关注",
+    "platform": "微博/抖音",
+    "hot_value": 337268163,
+    "industries": [
+      "美食"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美食热点",
+    "sentiment": "负面",
+    "keywords": [
+      "预制菜",
+      "食品安全",
+      "争议",
+      "健康",
+      "饮食"
+    ],
+    "c": [
+      "清扬",
+      "威猛先生",
+      "多芬",
+      "农夫山泉"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 5,
+    "category": "美食热点",
+    "trend_tags": [
+      "#预制菜",
+      "#食品安全",
+      "#争议"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "5.4亿",
+    "logic": "美食话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_20260405155223_7102",
+    "title": "新能源汽车充电难 充电桩建设提速",
+    "platform": "微博/全网",
+    "hot_value": 198174707,
+    "industries": [
+      "汽车"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "汽车热点",
+    "sentiment": "中性",
+    "keywords": [
+      "新能源",
+      "充电",
+      "充电桩",
+      "汽车",
+      "基建"
+    ],
+    "c": [
+      "索尼",
+      "元气森林",
+      "OATLY",
+      "汤臣倍健"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 6,
+    "category": "汽车热点",
+    "trend_tags": [
+      "#新能源",
+      "#充电",
+      "#充电桩"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "3.1亿",
+    "logic": "汽车话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "全网"
+    ]
+  },
+  {
+    "id": "ht_20260405155223_2298",
+    "title": "宠物友好商场增多 带宠出行成新潮流",
+    "platform": "小红书/抖音",
+    "hot_value": 380140716,
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "正面",
+    "keywords": [
+      "宠物",
+      "商场",
+      "友好",
+      "出行",
+      "潮流"
+    ],
+    "c": [
+      "清扬",
+      "力士",
+      "舒适",
+      "希宝"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 7,
+    "category": "宠物热点",
+    "trend_tags": [
+      "#宠物",
+      "#商场",
+      "#友好"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "4.5亿",
+    "logic": "宠物话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "小红书",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_20260405155223_3470",
+    "title": "智能家居价格战 百元智能设备普及",
+    "platform": "微博/抖音",
+    "hot_value": 172871858,
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "正面",
+    "keywords": [
+      "智能家居",
+      "价格战",
+      "普及",
+      "科技",
+      "生活"
+    ],
+    "c": [
+      "罗技",
+      "小米",
+      "HC",
+      "善存"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 8,
+    "category": "家居热点",
+    "trend_tags": [
+      "#智能家居",
+      "#价格战",
+      "#普及"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "1.5亿",
+    "logic": "家居话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "抖音"
+    ]
+  },
+  {
+    "id": "ht_20260405155223_9788",
+    "title": "春季育儿知识科普 儿童过敏防护",
+    "platform": "小红书/微博",
+    "hot_value": 278095692,
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "母婴热点",
+    "sentiment": "正面",
+    "keywords": [
+      "育儿",
+      "春季",
+      "过敏",
+      "儿童",
+      "健康"
+    ],
+    "c": [
+      "力士",
+      "清扬",
+      "善存"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 9,
+    "category": "母婴热点",
+    "trend_tags": [
+      "#育儿",
+      "#春季",
+      "#过敏"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "4.8亿",
+    "logic": "母婴话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "小红书",
+      "微博"
+    ]
+  },
+  {
+    "id": "ht_20260405155223_6700",
+    "title": "考研复试结果公布 调剂信息汇总",
+    "platform": "微博/全网",
+    "hot_value": 347784474,
+    "industries": [
+      "教育"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "教育热点",
+    "sentiment": "中性",
+    "keywords": [
+      "考研",
+      "复试",
+      "调剂",
+      "教育",
+      "升学"
+    ],
+    "c": [
+      "索尼",
+      "皇家",
+      "百威"
+    ],
+    "created_at": "2026-04-05T15:52:23.057626",
+    "rank": 10,
+    "category": "教育热点",
+    "trend_tags": [
+      "#考研",
+      "#复试",
+      "#调剂"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-05T15:52:23.057626",
+    "heat": "3.6亿",
+    "logic": "教育话题热度上升",
+    "trend": "上升",
+    "isNew": true,
+    "platforms": [
+      "微博",
+      "全网"
+    ]
+  },
+  {
     "title": "清明返程高峰 高速拥堵持续 多地发布出行提醒",
     "platform": "微博/抖音",
     "heat": "爆",
@@ -3600,859 +4044,6 @@
     "platforms": [
       "微博",
       "抖音"
-    ]
-  },
-  {
-    "id": "ht_76",
-    "title": "问界M7销量暴涨 华为智选车模式成功",
-    "hot_value": 204370045,
-    "platform": "微博/抖音",
-    "industries": [
-      "汽车",
-      "科技"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "汽车热点",
-    "sentiment": "正面",
-    "keywords": [
-      "问界",
-      "华为",
-      "智能汽车"
-    ],
-    "c": [
-      "华为",
-      "赛力斯",
-      "小米"
-    ],
-    "created_at": "2026-04-05T12:04:04.900981",
-    "rank": 76,
-    "category": "汽车热点",
-    "trend_tags": [
-      "#问界",
-      "#华为",
-      "#智能汽车"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.900982",
-    "heat": "2亿",
-    "logic": "汽车热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_77",
-    "title": "李宁国潮系列热销 国产运动品牌崛起",
-    "hot_value": 203445230,
-    "platform": "微博/抖音",
-    "industries": [
-      "服装",
-      "国货"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "时尚热点",
-    "sentiment": "正面",
-    "keywords": [
-      "李宁",
-      "国潮",
-      "运动品牌"
-    ],
-    "c": [
-      "李宁",
-      "安踏",
-      "特步"
-    ],
-    "created_at": "2026-04-05T12:04:04.900992",
-    "rank": 77,
-    "category": "时尚热点",
-    "trend_tags": [
-      "#李宁",
-      "#国潮",
-      "#运动品牌"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.900994",
-    "heat": "2亿",
-    "logic": "时尚热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_78",
-    "title": "比亚迪海豹销量破10万 纯电轿车市场升温",
-    "hot_value": 202880271,
-    "platform": "微博/抖音",
-    "industries": [
-      "汽车",
-      "新能源"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "汽车热点",
-    "sentiment": "正面",
-    "keywords": [
-      "比亚迪",
-      "海豹",
-      "纯电轿车"
-    ],
-    "c": [
-      "比亚迪",
-      "特斯拉",
-      "蔚来"
-    ],
-    "created_at": "2026-04-05T12:04:04.900956",
-    "rank": 78,
-    "category": "汽车热点",
-    "trend_tags": [
-      "#比亚迪",
-      "#海豹",
-      "#纯电轿车"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.900958",
-    "heat": "2亿",
-    "logic": "汽车热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_79",
-    "title": "新能源汽车下乡补贴政策出台 农村市场迎新机遇",
-    "hot_value": 202000000,
-    "platform": "微博/全网",
-    "industries": [
-      "汽车",
-      "消费"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "新能源汽车",
-      "下乡补贴",
-      "农村市场",
-      "政策",
-      "消费"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "比亚迪"
-    ],
-    "created_at": "2026-04-03T11:00:00",
-    "rank": 79,
-    "category": "消费热点",
-    "trend_tags": [
-      "#新能源汽车",
-      "#下乡补贴",
-      "#农村市场"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-03T11:00:00",
-    "heat": "2.0亿",
-    "logic": "汽车消费话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博"
-    ]
-  },
-  {
-    "id": "ht_80",
-    "title": "可回收火箭技术突破 发射成本降低90%",
-    "hot_value": 200957470,
-    "platform": "微博/B站",
-    "industries": [
-      "科技",
-      "航天"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "可回收火箭",
-      "SpaceX",
-      "航天"
-    ],
-    "c": [
-      "SpaceX",
-      "蓝色起源",
-      "中国航天"
-    ],
-    "created_at": "2026-04-05T13:06:13.115948",
-    "rank": 80,
-    "category": "科技热点",
-    "trend_tags": [
-      "#可回收火箭",
-      "#SpaceX",
-      "#航天"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T13:06:13.115949",
-    "heat": "2亿",
-    "logic": "科技热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "B站"
-    ]
-  },
-  {
-    "id": "ht_81",
-    "title": "6G技术研发取得突破 网速将达5G的100倍",
-    "hot_value": 199781264,
-    "platform": "微博/B站",
-    "industries": [
-      "科技",
-      "通信"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "6G",
-      "通信技术",
-      "网速"
-    ],
-    "c": [
-      "华为",
-      "中兴",
-      "中国移动"
-    ],
-    "created_at": "2026-04-05T13:06:13.115911",
-    "rank": 81,
-    "category": "科技热点",
-    "trend_tags": [
-      "#6G",
-      "#通信技术",
-      "#网速"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T13:06:13.115912",
-    "heat": "1亿",
-    "logic": "科技热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "B站"
-    ]
-  },
-  {
-    "id": "ht_82",
-    "title": "星巴克中国推出限定春季新品 樱花系列受热捧",
-    "hot_value": 199335825,
-    "platform": "微博/小红书",
-    "industries": [
-      "快消",
-      "餐饮"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "餐饮热点",
-    "sentiment": "正面",
-    "keywords": [
-      "星巴克",
-      "春季限定",
-      "樱花"
-    ],
-    "c": [
-      "星巴克",
-      "瑞幸",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-05T12:04:04.900662",
-    "rank": 82,
-    "category": "餐饮热点",
-    "trend_tags": [
-      "#星巴克",
-      "#春季限定",
-      "#樱花"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.900663",
-    "heat": "1亿",
-    "logic": "餐饮热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "小红书"
-    ]
-  },
-  {
-    "id": "ht_83",
-    "title": "理想汽车L系列销量增长 家庭用车成刚需",
-    "hot_value": 198066884,
-    "platform": "微博/抖音",
-    "industries": [
-      "汽车",
-      "新能源"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "汽车热点",
-    "sentiment": "正面",
-    "keywords": [
-      "理想汽车",
-      "SUV",
-      "家庭用车"
-    ],
-    "c": [
-      "理想",
-      "蔚来",
-      "小鹏"
-    ],
-    "created_at": "2026-04-05T12:04:04.900962",
-    "rank": 83,
-    "category": "汽车热点",
-    "trend_tags": [
-      "#理想汽车",
-      "#SUV",
-      "#家庭用车"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.900964",
-    "heat": "1亿",
-    "logic": "汽车热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_84",
-    "title": "伊朗愿在诉求满足下结束战争 中东局势现转机",
-    "hot_value": 198000000,
-    "platform": "微博/全网",
-    "industries": [
-      "国际",
-      "社会"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "国际热点",
-    "sentiment": "中性",
-    "keywords": [
-      "伊朗",
-      "中东",
-      "战争",
-      "和平",
-      "国际局势"
-    ],
-    "c": [],
-    "created_at": "2026-04-03T06:00:00",
-    "rank": 84,
-    "category": "国际热点",
-    "trend_tags": [
-      "#伊朗",
-      "#中东",
-      "#国际局势"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-03T06:00:00",
-    "heat": "2.0亿",
-    "logic": "国际新闻话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博"
-    ]
-  },
-  {
-    "id": "ht_85",
-    "title": "2026年全国高考改革方案公布 新变化引关注",
-    "hot_value": 195000000,
-    "platform": "微博/全网",
-    "industries": [
-      "教育"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "社会热点",
-    "sentiment": "中性",
-    "keywords": [
-      "高考改革",
-      "教育改革",
-      "高考方案",
-      "新高考"
-    ],
-    "c": [],
-    "created_at": "2026-04-02T10:00:00",
-    "rank": 85,
-    "category": "社会热点",
-    "trend_tags": [
-      "#高考改革",
-      "#教育改革",
-      "#高考"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-02T10:00:00",
-    "heat": "2.0亿",
-    "logic": "教育政策话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博"
-    ]
-  },
-  {
-    "id": "ht_86",
-    "title": "蛋仔派对用户破5亿 休闲游戏市场爆发",
-    "hot_value": 193372490,
-    "platform": "抖音/微博",
-    "industries": [
-      "游戏",
-      "休闲"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "游戏热点",
-    "sentiment": "正面",
-    "keywords": [
-      "蛋仔派对",
-      "休闲游戏",
-      "用户增长"
-    ],
-    "c": [
-      "网易",
-      "腾讯",
-      "米哈游"
-    ],
-    "created_at": "2026-04-05T12:04:04.901073",
-    "rank": 86,
-    "category": "游戏热点",
-    "trend_tags": [
-      "#蛋仔派对",
-      "#休闲游戏",
-      "#用户增长"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.901074",
-    "heat": "1亿",
-    "logic": "游戏热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "抖音",
-      "微博"
-    ]
-  },
-  {
-    "id": "ht_87",
-    "title": "雅诗兰黛DW粉底液持久度升级 油皮救星",
-    "hot_value": 189994392,
-    "platform": "小红书/抖音",
-    "industries": [
-      "美妆",
-      "护肤"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆热点",
-    "sentiment": "正面",
-    "keywords": [
-      "雅诗兰黛",
-      "粉底液",
-      "油皮"
-    ],
-    "c": [
-      "雅诗兰黛",
-      "兰蔻",
-      "MAC"
-    ],
-    "created_at": "2026-04-05T12:04:04.900847",
-    "rank": 87,
-    "category": "美妆热点",
-    "trend_tags": [
-      "#雅诗兰黛",
-      "#粉底液",
-      "#油皮"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.900848",
-    "heat": "1亿",
-    "logic": "美妆热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "小红书",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_88",
-    "title": "宠物经济持续升温 猫粮狗粮销量增长40%",
-    "hot_value": 188626600,
-    "platform": "微博/小红书/抖音",
-    "industries": [
-      "宠物",
-      "快消"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "消费热点",
-    "sentiment": "正面",
-    "keywords": [
-      "宠物",
-      "猫粮",
-      "狗粮"
-    ],
-    "c": [
-      "皇家",
-      "冠能",
-      "渴望"
-    ],
-    "created_at": "2026-04-05T12:04:04.900800",
-    "rank": 88,
-    "category": "消费热点",
-    "trend_tags": [
-      "#宠物",
-      "#猫粮",
-      "#狗粮"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.900801",
-    "heat": "1亿",
-    "logic": "消费热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "小红书",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_89",
-    "title": "基金投资热度回升 投资者信心增强",
-    "hot_value": 188481937,
-    "platform": "微博/全网",
-    "industries": [
-      "金融",
-      "投资"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "金融热点",
-    "sentiment": "正面",
-    "keywords": [
-      "基金",
-      "投资",
-      "理财"
-    ],
-    "c": [
-      "蚂蚁基金",
-      "天天基金",
-      "招商银行"
-    ],
-    "created_at": "2026-04-05T12:04:04.901102",
-    "rank": 89,
-    "category": "金融热点",
-    "trend_tags": [
-      "#基金",
-      "#投资",
-      "#理财"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.901103",
-    "heat": "1亿",
-    "logic": "金融热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "全网"
-    ]
-  },
-  {
-    "id": "ht_90",
-    "title": "NBA季后赛对阵出炉 湖人vs勇士首轮对决",
-    "hot_value": 188000000,
-    "platform": "微博/抖音",
-    "industries": [
-      "体育"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "体育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "NBA",
-      "季后赛",
-      "湖人",
-      "勇士",
-      "詹姆斯"
-    ],
-    "c": [
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-04T08:00:00",
-    "rank": 90,
-    "category": "体育热点",
-    "trend_tags": [
-      "#NBA",
-      "#季后赛",
-      "#湖人vs勇士"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T08:00:00",
-    "heat": "1.9亿",
-    "logic": "NBA赛事话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_91",
-    "title": "云南旅游热度不减 大理丽江成热门目的地",
-    "hot_value": 187389881,
-    "platform": "小红书/抖音",
-    "industries": [
-      "旅游",
-      "云南"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "旅游热点",
-    "sentiment": "正面",
-    "keywords": [
-      "云南",
-      "大理",
-      "丽江"
-    ],
-    "c": [
-      "携程",
-      "飞猪",
-      "民宿"
-    ],
-    "created_at": "2026-04-05T12:04:04.901025",
-    "rank": 91,
-    "category": "旅游热点",
-    "trend_tags": [
-      "#云南",
-      "#大理",
-      "#丽江"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.901026",
-    "heat": "1亿",
-    "logic": "旅游热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "小红书",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_92",
-    "title": "公考培训市场火热 考公成为就业首选",
-    "hot_value": 185922722,
-    "platform": "微博/抖音",
-    "industries": [
-      "教育",
-      "就业"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "教育热点",
-    "sentiment": "中性",
-    "keywords": [
-      "公考",
-      "公务员",
-      "就业"
-    ],
-    "c": [
-      "华图",
-      "中公",
-      "粉笔"
-    ],
-    "created_at": "2026-04-05T12:04:04.901085",
-    "rank": 92,
-    "category": "教育热点",
-    "trend_tags": [
-      "#公考",
-      "#公务员",
-      "#就业"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.901086",
-    "heat": "1亿",
-    "logic": "教育热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_93",
-    "title": "永劫无间手游公测 国产动作游戏出海",
-    "hot_value": 183254809,
-    "platform": "微博/B站",
-    "industries": [
-      "游戏",
-      "电竞"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "游戏热点",
-    "sentiment": "正面",
-    "keywords": [
-      "永劫无间",
-      "手游",
-      "国产游戏"
-    ],
-    "c": [
-      "网易",
-      "腾讯",
-      "完美世界"
-    ],
-    "created_at": "2026-04-05T12:04:04.901067",
-    "rank": 93,
-    "category": "游戏热点",
-    "trend_tags": [
-      "#永劫无间",
-      "#手游",
-      "#国产游戏"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.901068",
-    "heat": "1亿",
-    "logic": "游戏热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "B站"
-    ]
-  },
-  {
-    "id": "ht_94",
-    "title": "美的空调销量领先 变频节能成主流",
-    "hot_value": 182789849,
-    "platform": "微博/抖音",
-    "industries": [
-      "家电",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家电热点",
-    "sentiment": "正面",
-    "keywords": [
-      "美的",
-      "空调",
-      "变频节能"
-    ],
-    "c": [
-      "美的",
-      "格力",
-      "海尔"
-    ],
-    "created_at": "2026-04-05T12:04:04.900919",
-    "rank": 94,
-    "category": "家电热点",
-    "trend_tags": [
-      "#美的",
-      "#空调",
-      "#变频节能"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-05T12:04:04.900922",
-    "heat": "1亿",
-    "logic": "家电热点话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博",
-      "抖音"
-    ]
-  },
-  {
-    "id": "ht_95",
-    "title": "孙颖莎轻取对手强势开启世界杯淘汰赛征程",
-    "hot_value": 182000000,
-    "platform": "微博/全网",
-    "industries": [
-      "体育"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "体育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "孙颖莎",
-      "乒乓球",
-      "世界杯",
-      "国乒",
-      "淘汰赛"
-    ],
-    "c": [
-      "农夫山泉",
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-04T14:00:00",
-    "rank": 95,
-    "category": "体育热点",
-    "trend_tags": [
-      "#孙颖莎",
-      "#乒乓球",
-      "#国乒"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T14:00:00",
-    "heat": "1.8亿",
-    "logic": "乒乓球赛事话题热度上升",
-    "trend": "上升",
-    "isNew": true,
-    "platforms": [
-      "微博"
     ]
   }
 ]
