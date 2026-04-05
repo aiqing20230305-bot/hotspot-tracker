@@ -1,0 +1,77 @@
+================================================================================
+  sku_scenes.json 诊断报告
+  诊断时间: 2026-04-06 05:24 CST
+================================================================================
+
+【1. sku_scenes.json 当前状态 — ✅ 正常】
+--------------------------------------------------------------------------------
+文件大小: 2,568,231 bytes (2.4 MB)
+顶层类型: dict
+顶层keys: generated_at, updated_at, total_skus, total_scenarios, categories_covered, skus
+
+generated_at: 2026-04-04T13:18:26
+updated_at:   2026-04-06T04:22:46
+
+SKUs 结构:
+  - 类型: list
+  - 长度: 111 个 SKU
+  - 每个 SKU 是 dict，包含以下字段:
+    sku_name, client, specs, selling_points, scenarios, industry, target_audience
+  - 每个 SKU 的 scenarios 是 list of dict，每条包含:
+    name, pain_point, resonance, content_angles, hot_topics
+
+实际场景总数: 5,550 (声称 total_scenarios: 5,550 → 一致 ✅)
+每个 SKU 平均 50 个场景
+所有 111 个 SKU 都有 scenarios 数据 (0 个缺失)
+
+【2. 备份文件检查】
+--------------------------------------------------------------------------------
+sku_scenes.json.bak: 不存在
+其他 sku_*.json 变体: 不存在
+
+发现的关联文件:
+  - sku_scenarios.json (旧文件, 23.8 MB) — ⚠️ 这是旧版独立场景库，不是 sku_scenes.json 的备份
+  - sku_recovery_report.json (4.5 KB) — 之前的恢复报告
+
+【3. sku_scenarios.json 旧文件分析 — ⚠️ 数据丰富但结构不同】
+--------------------------------------------------------------------------------
+文件大小: 24,996,921 bytes (23.8 MB) — 是当前文件的 ~10 倍
+顶层类型: dict
+顶层keys: generated_at, updated_at, total_count, expansion_info, scenarios
+
+total_count: 54,480 场景
+expansion_info:
+  original_count: 285
+  target_count: 50,000
+  actual_count: 54,480
+  templates_used: [开箱测评, 产品讲解, 使用教程, 产品对比]
+  industries_covered: 13个行业
+
+scenarios 结构 (扁平 list, 54,480 条):
+  每条包含: id, client, product, industry, scenario_type, description, content_angle, style, target_audience, keywords
+
+⚠️ 注意: 旧文件没有 sku_name 字段，而是用 client/product 分离
+  且没有按 SKU 分组，是扁平的场景列表
+
+【4. 两份文件对比】
+--------------------------------------------------------------------------------
+                    sku_scenes.json (新)    sku_scenarios.json (旧)
+文件大小:           2.4 MB                  23.8 MB
+SKU/产品数:         111 个                  ~N/A (扁平)
+场景总数:           5,550                   54,480
+结构:               SKU分组嵌套              扁平列表
+每个场景字段:       name/pain_point/        id/client/product/
+                    resonance/content_angles industry/scenario_type/
+                    /hot_topics             description/content_angle/
+                                            style/target_audience/keywords
+覆盖行业:           10                      13
+
+【5. 结论】
+--------------------------------------------------------------------------------
+✅ sku_scenes.json 当前数据完整，结构正常，111个SKU共5550个场景，无损坏
+✅ 元数据 (generated_at, updated_at, total_skus, total_scenarios) 与实际数据一致
+⚠️ sku_scenarios.json 旧文件 (23.8MB) 包含54480条扁平场景，是不同数据源/格式，
+    不是 sku_scenes.json 的备份，不适合直接合并（字段结构不同）
+💡 如需补充场景，建议将旧文件数据按 SKU 匹配后作为补充来源，而非直接合并
+
+================================================================================
