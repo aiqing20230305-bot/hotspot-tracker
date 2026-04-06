@@ -1,763 +1,482 @@
 [
   {
-    "id": "hourly_202604060622_荣耀_0",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "荣耀手机 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_荣耀_0",
+    "client": {"brand": "荣耀", "industry": "消费品", "products": ["手机"]},
+    "title": "荣耀手机 | 赵心童夺2026斯诺克巡回锦标赛冠军...",
+    "platform": "微博/抖音",
     "angle": "情感共鸣",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "赵心童夺2026斯诺克巡回锦标赛冠军 中国选手再创历史",
+    "hot_topic_type": "体育热点",
+    "heat": "771万",
+    "trend": "🔥🔥🔥 爆发式增长",
     "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "健身热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["荣耀", "手机", "体育热点", "情感共鸣", "赵心童"],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "80万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为荣耀策划情感共鸣内容，结合手机进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「赵心童夺2026斯诺克巡回锦标赛冠军」，为荣耀策划情感共鸣内容，结合手机进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_罗技_1",
-    "client": {
-      "brand": "罗技",
-      "industry": "消费品",
-      "products": [
-        "鼠标"
-      ]
-    },
-    "title": "罗技鼠标 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_罗技_1",
+    "client": {"brand": "罗技", "industry": "消费品", "products": ["鼠标"]},
+    "title": "罗技鼠标 | 赵心童夺2026斯诺克巡回锦标赛冠军...",
+    "platform": "微博/抖音",
     "angle": "场景种草",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "赵心童夺2026斯诺克巡回锦标赛冠军 中国选手再创历史",
+    "hot_topic_type": "体育热点",
+    "heat": "771万",
+    "trend": "🔥🔥🔥 爆发式增长",
     "product": "鼠标",
-    "keywords": [
-      "罗技",
-      "鼠标",
-      "健身热点",
-      "场景种草"
-    ],
+    "keywords": ["罗技", "鼠标", "体育热点", "场景种草", "斯诺克"],
     "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "70万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为罗技策划场景种草内容，结合鼠标进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「赵心童夺2026斯诺克巡回锦标赛冠军」，为罗技策划场景种草内容，结合鼠标进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_小米_2",
-    "client": {
-      "brand": "小米",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "小米手机 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_小米_2",
+    "client": {"brand": "小米", "industry": "消费品", "products": ["手机"]},
+    "title": "小米手机 | 赵心童夺2026斯诺克巡回锦标赛冠军...",
+    "platform": "微博/抖音",
     "angle": "科普教育",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "赵心童夺2026斯诺克巡回锦标赛冠军 中国选手再创历史",
+    "hot_topic_type": "体育热点",
+    "heat": "771万",
+    "trend": "🔥🔥🔥 爆发式增长",
     "product": "手机",
-    "keywords": [
-      "小米",
-      "手机",
-      "健身热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["小米", "手机", "体育热点", "科普教育", "中国选手"],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "75万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为小米策划科普教育内容，结合手机进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「赵心童夺2026斯诺克巡回锦标赛冠军」，为小米策划科普教育内容，结合手机进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_索尼_3",
-    "client": {
-      "brand": "索尼",
-      "industry": "消费品",
-      "products": [
-        "耳机"
-      ]
-    },
-    "title": "索尼耳机 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_索尼_3",
+    "client": {"brand": "索尼", "industry": "消费品", "products": ["耳机"]},
+    "title": "索尼耳机 | 赵心童夺2026斯诺克巡回锦标赛冠军...",
+    "platform": "微博/抖音",
     "angle": "生活方式",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "赵心童夺2026斯诺克巡回锦标赛冠军 中国选手再创历史",
+    "hot_topic_type": "体育热点",
+    "heat": "771万",
+    "trend": "🔥🔥🔥 爆发式增长",
     "product": "耳机",
-    "keywords": [
-      "索尼",
-      "耳机",
-      "健身热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["索尼", "耳机", "体育热点", "生活方式", "冠军"],
+    "quality_score": 0.86,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "78万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为索尼策划生活方式内容，结合耳机进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「赵心童夺2026斯诺克巡回锦标赛冠军」，为索尼策划生活方式内容，结合耳机进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_AHC_4",
-    "client": {
-      "brand": "AHC",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "AHC护肤品 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_AHC_4",
+    "client": {"brand": "AHC", "industry": "消费品", "products": ["护肤品"]},
+    "title": "AHC护肤品 | 妈妈不知儿子去世 跟AI儿子聊了1年...",
+    "platform": "微博/抖音/小红书",
     "angle": "借势营销",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "妈妈不知儿子去世 跟AI儿子聊了1年 AI情感陪伴引热议",
+    "hot_topic_type": "科技热点",
+    "heat": "714万",
+    "trend": "🔥🔥 持续上升",
     "product": "护肤品",
-    "keywords": [
-      "AHC",
-      "护肤品",
-      "健身热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
+    "keywords": ["AHC", "护肤品", "科技热点", "借势营销", "AI情感"],
+    "quality_score": 0.83,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "65万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为AHC策划借势营销内容，结合护肤品进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「妈妈不知儿子去世 跟AI儿子聊了1年」，为AHC策划借势营销内容，结合护肤品进行情感营销。"
   },
   {
-    "id": "hourly_202604060622_多芬_5",
-    "client": {
-      "brand": "多芬",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
-    "title": "多芬沐浴露 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_多芬_5",
+    "client": {"brand": "多芬", "industry": "消费品", "products": ["沐浴露"]},
+    "title": "多芬沐浴露 | 四川一超市上演现实版《西虹市首富》...",
+    "platform": "微博/抖音",
     "angle": "产品测评",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "四川一超市上演现实版《西虹市首富》 减肥换牛肉活动火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "742万",
+    "trend": "🔥🔥 持续上升",
     "product": "沐浴露",
-    "keywords": [
-      "多芬",
-      "沐浴露",
-      "健身热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
+    "keywords": ["多芬", "沐浴露", "美食热点", "产品测评", "健康"],
+    "quality_score": 0.84,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "68万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为多芬策划产品测评内容，结合沐浴露进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「四川一超市上演现实版《西虹市首富》」，为多芬策划产品测评内容，结合沐浴露进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_力士_6",
-    "client": {
-      "brand": "力士",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
-    "title": "力士沐浴露 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_力士_6",
+    "client": {"brand": "力士", "industry": "消费品", "products": ["沐浴露"]},
+    "title": "力士沐浴露 | 周杰伦3小时演唱会实唱不足90分钟...",
+    "platform": "微博/抖音",
     "angle": "热点解读",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "周杰伦3小时演唱会实唱不足90分钟 引发争议讨论",
+    "hot_topic_type": "娱乐热点",
+    "heat": "752万",
+    "trend": "🔥🔥 持续上升",
     "product": "沐浴露",
-    "keywords": [
-      "力士",
-      "沐浴露",
-      "健身热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
+    "keywords": ["力士", "沐浴露", "娱乐热点", "热点解读", "演唱会"],
+    "quality_score": 0.82,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "60万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为力士策划热点解读内容，结合沐浴露进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「周杰伦3小时演唱会实唱不足90分钟」，为力士策划热点解读内容，结合沐浴露进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_清扬_7",
-    "client": {
-      "brand": "清扬",
-      "industry": "消费品",
-      "products": [
-        "洗发水"
-      ]
-    },
+    "id": "hourly_202604060828_清扬_7",
+    "client": {"brand": "清扬", "industry": "消费品", "products": ["洗发水"]},
     "title": "清扬洗发水 | 清晨运动成新时尚 晨跑打卡成社交货币...",
     "platform": "小红书/抖音",
     "angle": "情感共鸣",
     "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
+    "hot_topic_type": "生活方式热点",
     "heat": "520万",
     "trend": "🔥🔥🔥 持续上升",
     "product": "洗发水",
-    "keywords": [
-      "清扬",
-      "洗发水",
-      "健身热点",
-      "情感共鸣"
-    ],
+    "keywords": ["清扬", "洗发水", "生活方式热点", "情感共鸣", "晨跑"],
     "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "70万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
+    "created_at": "2026-04-06T08:28:00",
     "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为清扬策划情感共鸣内容，结合洗发水进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_玉兰油_8",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "玉兰油护肤品 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_玉兰油_8",
+    "client": {"brand": "玉兰油", "industry": "消费品", "products": ["护肤品"]},
+    "title": "玉兰油护肤品 | 春季过敏高发季 敏感肌护肤需求激增...",
+    "platform": "小红书/微博",
     "angle": "场景种草",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
+    "hot_topic_type": "美妆热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
     "product": "护肤品",
-    "keywords": [
-      "玉兰油",
-      "护肤品",
-      "健身热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["玉兰油", "护肤品", "美妆热点", "场景种草", "敏感肌"],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "85万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为玉兰油策划场景种草内容，结合护肤品进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为玉兰油策划场景种草内容，结合护肤品进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_汤臣倍健_9",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "汤臣倍健维生素 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_汤臣倍健_9",
+    "client": {"brand": "汤臣倍健", "industry": "消费品", "products": ["维生素"]},
+    "title": "汤臣倍健维生素 | 四川一超市上演现实版《西虹市首富》...",
+    "platform": "微博/抖音",
     "angle": "科普教育",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "四川一超市上演现实版《西虹市首富》 减肥换牛肉活动火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "742万",
+    "trend": "🔥🔥 持续上升",
     "product": "维生素",
-    "keywords": [
-      "汤臣倍健",
-      "维生素",
-      "健身热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["汤臣倍健", "维生素", "美食热点", "科普教育", "健康"],
+    "quality_score": 0.86,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "72万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为汤臣倍健策划科普教育内容，结合维生素进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「四川一超市上演现实版《西虹市首富》」，为汤臣倍健策划科普教育内容，结合维生素进行健康营销。"
   },
   {
-    "id": "hourly_202604060622_善存_10",
-    "client": {
-      "brand": "善存",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "善存维生素 | 清晨运动成新时尚 晨跑打卡成社交货币...",
+    "id": "hourly_202604060828_善存_10",
+    "client": {"brand": "善存", "industry": "消费品", "products": ["维生素"]},
+    "title": "善存维生素 | 春季健身热潮 瘦身塑形正当时...",
     "platform": "小红书/抖音",
     "angle": "生活方式",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
+    "hot_topic": "春季健身热潮 瘦身塑形正当时",
     "hot_topic_type": "健身热点",
-    "heat": "520万",
+    "heat": "480万",
     "trend": "🔥🔥🔥 持续上升",
     "product": "维生素",
-    "keywords": [
-      "善存",
-      "维生素",
-      "健身热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["善存", "维生素", "健身热点", "生活方式", "健康"],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "78万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为善存策划生活方式内容，结合维生素进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「春季健身热潮 瘦身塑形正当时」，为善存策划生活方式内容，结合维生素进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_HC_11",
-    "client": {
-      "brand": "HC",
-      "industry": "消费品",
-      "products": [
-        "清洁剂"
-      ]
-    },
-    "title": "HC清洁剂 | 清晨运动成新时尚 晨跑打卡成社交货币...",
+    "id": "hourly_202604060828_HC_11",
+    "client": {"brand": "HC", "industry": "消费品", "products": ["清洁剂"]},
+    "title": "HC清洁剂 | 家居清洁小妙招 春季大扫除攻略...",
     "platform": "小红书/抖音",
     "angle": "借势营销",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "家居清洁小妙招 春季大扫除攻略",
+    "hot_topic_type": "家居热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
     "product": "清洁剂",
-    "keywords": [
-      "HC",
-      "清洁剂",
-      "健身热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
+    "keywords": ["HC", "清洁剂", "家居热点", "借势营销", "大扫除"],
+    "quality_score": 0.84,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "65万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为HC策划借势营销内容，结合清洁剂进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「家居清洁小妙招 春季大扫除攻略」，为HC策划借势营销内容，结合清洁剂进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_威猛先生_12",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "消费品",
-      "products": [
-        "厨房清洁"
-      ]
-    },
-    "title": "威猛先生厨房清洁 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_威猛先生_12",
+    "client": {"brand": "威猛先生", "industry": "消费品", "products": ["厨房清洁"]},
+    "title": "威猛先生厨房清洁 | 春季过敏高发季...",
+    "platform": "小红书/微博",
     "angle": "产品测评",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
+    "hot_topic_type": "美妆热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
     "product": "厨房清洁",
-    "keywords": [
-      "威猛先生",
-      "厨房清洁",
-      "健身热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["威猛先生", "厨房清洁", "美妆热点", "产品测评"],
+    "quality_score": 0.75,
+    "quality_level": "C级-合格",
+    "engagement_estimate": "45万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为威猛先生策划产品测评内容，结合厨房清洁进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「春季过敏高发季」，为威猛先生策划产品测评内容，结合厨房清洁进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_舒适_13",
-    "client": {
-      "brand": "舒适",
-      "industry": "消费品",
-      "products": [
-        "牙刷"
-      ]
-    },
+    "id": "hourly_202604060828_舒适_13",
+    "client": {"brand": "舒适", "industry": "消费品", "products": ["牙刷"]},
     "title": "舒适牙刷 | 清晨运动成新时尚 晨跑打卡成社交货币...",
     "platform": "小红书/抖音",
     "angle": "热点解读",
     "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
+    "hot_topic_type": "生活方式热点",
     "heat": "520万",
     "trend": "🔥🔥🔥 持续上升",
     "product": "牙刷",
-    "keywords": [
-      "舒适",
-      "牙刷",
-      "健身热点",
-      "热点解读"
-    ],
+    "keywords": ["舒适", "牙刷", "生活方式热点", "热点解读", "晨跑"],
     "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "68万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
+    "created_at": "2026-04-06T08:28:00",
     "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为舒适策划热点解读内容，结合牙刷进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_希宝_14",
-    "client": {
-      "brand": "希宝",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "希宝猫粮 | 清晨运动成新时尚 晨跑打卡成社交货币...",
+    "id": "hourly_202604060828_希宝_14",
+    "client": {"brand": "希宝", "industry": "消费品", "products": ["猫粮"]},
+    "title": "希宝猫粮 | 宠物经济升温 春季宠物护理指南...",
     "platform": "小红书/抖音",
     "angle": "情感共鸣",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "宠物经济升温 春季宠物护理指南",
+    "hot_topic_type": "宠物热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
     "product": "猫粮",
-    "keywords": [
-      "希宝",
-      "猫粮",
-      "健身热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["希宝", "猫粮", "宠物热点", "情感共鸣", "萌宠"],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "80万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为希宝策划情感共鸣内容，结合猫粮进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「宠物经济升温 春季宠物护理指南」，为希宝策划情感共鸣内容，结合猫粮进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_皇家_15",
-    "client": {
-      "brand": "皇家",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "皇家猫粮 | 清晨运动成新时尚 晨跑打卡成社交货币...",
+    "id": "hourly_202604060828_皇家_15",
+    "client": {"brand": "皇家", "industry": "消费品", "products": ["猫粮"]},
+    "title": "皇家猫粮 | 宠物经济升温 春季宠物护理指南...",
     "platform": "小红书/抖音",
     "angle": "场景种草",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "宠物经济升温 春季宠物护理指南",
+    "hot_topic_type": "宠物热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
     "product": "猫粮",
-    "keywords": [
-      "皇家",
-      "猫粮",
-      "健身热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["皇家", "猫粮", "宠物热点", "场景种草", "萌宠"],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "82万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为皇家策划场景种草内容，结合猫粮进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「宠物经济升温 春季宠物护理指南」，为皇家策划场景种草内容，结合猫粮进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_OATLY_16",
-    "client": {
-      "brand": "OATLY",
-      "industry": "消费品",
-      "products": [
-        "燕麦奶"
-      ]
-    },
-    "title": "OATLY燕麦奶 | 清晨运动成新时尚 晨跑打卡成社交货币...",
+    "id": "hourly_202604060828_OATLY_16",
+    "client": {"brand": "OATLY", "industry": "消费品", "products": ["燕麦奶"]},
+    "title": "OATLY燕麦奶 | 水果为什么越来越甜了 科普揭秘...",
     "platform": "小红书/抖音",
     "angle": "科普教育",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
+    "hot_topic": "水果为什么越来越甜了 科普揭秘引发热议",
+    "hot_topic_type": "美食热点",
+    "heat": "733万",
     "trend": "🔥🔥🔥 持续上升",
     "product": "燕麦奶",
-    "keywords": [
-      "OATLY",
-      "燕麦奶",
-      "健身热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["OATLY", "燕麦奶", "美食热点", "科普教育", "健康"],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "78万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为OATLY策划科普教育内容，结合燕麦奶进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「水果为什么越来越甜了 科普揭秘」，为OATLY策划科普教育内容，结合燕麦奶进行健康营销。"
   },
   {
-    "id": "hourly_202604060622_百威_17",
-    "client": {
-      "brand": "百威",
-      "industry": "消费品",
-      "products": [
-        "啤酒"
-      ]
-    },
-    "title": "百威啤酒 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_百威_17",
+    "client": {"brand": "百威", "industry": "消费品", "products": ["啤酒"]},
+    "title": "百威啤酒 | 清明节为啥不属农历属公历...",
+    "platform": "微博/小红书",
     "angle": "生活方式",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "清明节为啥不属农历属公历 网友科普讨论传统文化",
+    "hot_topic_type": "教育热点",
+    "heat": "762万",
+    "trend": "🔥🔥 持续上升",
     "product": "啤酒",
-    "keywords": [
-      "百威",
-      "啤酒",
-      "健身热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
+    "keywords": ["百威", "啤酒", "教育热点", "生活方式", "传统文化"],
+    "quality_score": 0.83,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "62万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为百威策划生活方式内容，结合啤酒进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「清明节为啥不属农历属公历」，为百威策划生活方式内容，结合啤酒进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_元气森林_18",
-    "client": {
-      "brand": "元气森林",
-      "industry": "消费品",
-      "products": [
-        "气泡水"
-      ]
-    },
-    "title": "元气森林气泡水 | 清晨运动成新时尚 晨跑打卡成社交货币...",
-    "platform": "小红书/抖音",
+    "id": "hourly_202604060828_元气森林_18",
+    "client": {"brand": "元气森林", "industry": "消费品", "products": ["气泡水"]},
+    "title": "元气森林气泡水 | 四川一超市上演现实版《西虹市首富》...",
+    "platform": "微博/抖音",
     "angle": "借势营销",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
-    "trend": "🔥🔥🔥 持续上升",
+    "hot_topic": "四川一超市上演现实版《西虹市首富》 减肥换牛肉活动火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "742万",
+    "trend": "🔥🔥 持续上升",
     "product": "气泡水",
-    "keywords": [
-      "元气森林",
-      "气泡水",
-      "健身热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["元气森林", "气泡水", "美食热点", "借势营销", "健康"],
+    "quality_score": 0.86,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "75万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为元气森林策划借势营销内容，结合气泡水进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「四川一超市上演现实版《西虹市首富》」，为元气森林策划借势营销内容，结合气泡水进行健康营销。"
   },
   {
-    "id": "hourly_202604060622_农夫山泉_19",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "消费品",
-      "products": [
-        "饮用水"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 清晨运动成新时尚 晨跑打卡成社交货币...",
+    "id": "hourly_202604060828_农夫山泉_19",
+    "client": {"brand": "农夫山泉", "industry": "消费品", "products": ["饮用水"]},
+    "title": "农夫山泉饮用水 | 五一假期预订火爆 旅游市场持续升温...",
+    "platform": "微博/抖音/小红书",
+    "angle": "产品测评",
+    "hot_topic": "五一假期预订火爆 旅游市场持续升温",
+    "hot_topic_type": "旅游热点",
+    "heat": "5.3亿",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "饮用水",
+    "keywords": ["农夫山泉", "饮用水", "旅游热点", "产品测评", "五一"],
+    "quality_score": 0.92,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "150万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「五一假期预订火爆 旅游市场持续升温」，为农夫山泉策划产品测评内容，结合饮用水进行营销推广。"
+  },
+  {
+    "id": "hourly_202604060828_荣耀_20",
+    "client": {"brand": "荣耀", "industry": "消费品", "products": ["手机"]},
+    "title": "荣耀手机 | AI智能体爆发元年 Agent成为科技圈新宠...",
+    "platform": "微博/抖音/B站",
+    "angle": "场景种草",
+    "hot_topic": "AI智能体爆发元年 Agent成为科技圈新宠",
+    "hot_topic_type": "科技热点",
+    "heat": "5.0亿",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": ["荣耀", "手机", "科技热点", "场景种草", "AI"],
+    "quality_score": 0.90,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "120万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「AI智能体爆发元年 Agent成为科技圈新宠」，为荣耀策划场景种草内容，结合手机进行营销推广。"
+  },
+  {
+    "id": "hourly_202604060828_罗技_21",
+    "client": {"brand": "罗技", "industry": "消费品", "products": ["鼠标"]},
+    "title": "罗技鼠标 | 孙颖莎王楚钦澳门世界杯双双夺冠...",
+    "platform": "微博/抖音/B站",
+    "angle": "科普教育",
+    "hot_topic": "孙颖莎王楚钦澳门世界杯双双夺冠 国乒包揽冠亚军",
+    "hot_topic_type": "体育热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "鼠标",
+    "keywords": ["罗技", "鼠标", "体育热点", "科普教育", "国乒"],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "78万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「孙颖莎王楚钦澳门世界杯双双夺冠」，为罗技策划科普教育内容，结合鼠标进行营销推广。"
+  },
+  {
+    "id": "hourly_202604060828_小米_22",
+    "client": {"brand": "小米", "industry": "消费品", "products": ["手机"]},
+    "title": "小米手机 | 小米汽车SU7交付量突破10万台...",
+    "platform": "微博/抖音",
+    "angle": "生活方式",
+    "hot_topic": "小米汽车SU7交付量突破10万台 雷军发文感谢",
+    "hot_topic_type": "汽车热点",
+    "heat": "4.6亿",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": ["小米", "手机", "汽车热点", "生活方式", "SU7"],
+    "quality_score": 0.93,
+    "quality_level": "A级-优秀",
+    "engagement_estimate": "180万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「小米汽车SU7交付量突破10万台」，为小米策划生活方式内容，结合手机进行营销推广。"
+  },
+  {
+    "id": "hourly_202604060828_索尼_23",
+    "client": {"brand": "索尼", "industry": "消费品", "products": ["耳机"]},
+    "title": "索尼耳机 | 黑神话悟空DLC开发进度曝光...",
+    "platform": "B站/抖音",
+    "angle": "借势营销",
+    "hot_topic": "黑神话悟空DLC开发进度曝光 新Boss设计引热议",
+    "hot_topic_type": "游戏热点",
+    "heat": "4.0亿",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "耳机",
+    "keywords": ["索尼", "耳机", "游戏热点", "借势营销", "黑神话"],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「黑神话悟空DLC开发进度曝光」，为索尼策划借势营销内容，结合耳机进行营销推广。"
+  },
+  {
+    "id": "hourly_202604060828_AHC_24",
+    "client": {"brand": "AHC", "industry": "消费品", "products": ["护肤品"]},
+    "title": "AHC护肤品 | 春季穿搭分享 换季时尚指南...",
     "platform": "小红书/抖音",
     "angle": "产品测评",
-    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
-    "hot_topic_type": "健身热点",
-    "heat": "520万",
+    "hot_topic": "春季穿搭分享 换季时尚指南",
+    "hot_topic_type": "时尚热点",
+    "heat": "550万",
     "trend": "🔥🔥🔥 持续上升",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "健身热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为农夫山泉策划产品测评内容，结合饮用水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_荣耀_20",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "荣耀手机 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "场景种草",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "美妆热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为荣耀策划场景种草内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_罗技_21",
-    "client": {
-      "brand": "罗技",
-      "industry": "消费品",
-      "products": [
-        "鼠标"
-      ]
-    },
-    "title": "罗技鼠标 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "科普教育",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "鼠标",
-    "keywords": [
-      "罗技",
-      "鼠标",
-      "美妆热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为罗技策划科普教育内容，结合鼠标进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_小米_22",
-    "client": {
-      "brand": "小米",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "小米手机 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "生活方式",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "手机",
-    "keywords": [
-      "小米",
-      "手机",
-      "美妆热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为小米策划生活方式内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_索尼_23",
-    "client": {
-      "brand": "索尼",
-      "industry": "消费品",
-      "products": [
-        "耳机"
-      ]
-    },
-    "title": "索尼耳机 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "借势营销",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "耳机",
-    "keywords": [
-      "索尼",
-      "耳机",
-      "美妆热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为索尼策划借势营销内容，结合耳机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_AHC_24",
-    "client": {
-      "brand": "AHC",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "AHC护肤品 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "产品测评",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
     "product": "护肤品",
-    "keywords": [
-      "AHC",
-      "护肤品",
-      "美妆热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["AHC", "护肤品", "时尚热点", "产品测评", "春季穿搭"],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "80万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为AHC策划产品测评内容，结合护肤品进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「春季穿搭分享 换季时尚指南」，为AHC策划产品测评内容，结合护肤品进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_多芬_25",
-    "client": {
-      "brand": "多芬",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
+    "id": "hourly_202604060828_多芬_25",
+    "client": {"brand": "多芬", "industry": "消费品", "products": ["沐浴露"]},
     "title": "多芬沐浴露 | 春季过敏高发季 敏感肌护肤需求激增...",
     "platform": "小红书/微博",
     "angle": "热点解读",
@@ -766,3838 +485,114 @@
     "heat": "480万",
     "trend": "🔥🔥 持续上升",
     "product": "沐浴露",
-    "keywords": [
-      "多芬",
-      "沐浴露",
-      "美妆热点",
-      "热点解读"
-    ],
+    "keywords": ["多芬", "沐浴露", "美妆热点", "热点解读", "敏感肌"],
     "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "72万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
+    "created_at": "2026-04-06T08:28:00",
     "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为多芬策划热点解读内容，结合沐浴露进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_力士_26",
-    "client": {
-      "brand": "力士",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
-    "title": "力士沐浴露 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
+    "id": "hourly_202604060828_力士_26",
+    "client": {"brand": "力士", "industry": "消费品", "products": ["沐浴露"]},
+    "title": "力士沐浴露 | 春季穿搭分享 换季时尚指南...",
+    "platform": "小红书/抖音",
     "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
+    "hot_topic": "春季穿搭分享 换季时尚指南",
+    "hot_topic_type": "时尚热点",
+    "heat": "550万",
+    "trend": "🔥🔥🔥 持续上升",
     "product": "沐浴露",
-    "keywords": [
-      "力士",
-      "沐浴露",
-      "美妆热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
+    "keywords": ["力士", "沐浴露", "时尚热点", "情感共鸣", "春季穿搭"],
+    "quality_score": 0.84,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "68万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为力士策划情感共鸣内容，结合沐浴露进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「春季穿搭分享 换季时尚指南」，为力士策划情感共鸣内容，结合沐浴露进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_清扬_27",
-    "client": {
-      "brand": "清扬",
-      "industry": "消费品",
-      "products": [
-        "洗发水"
-      ]
-    },
-    "title": "清扬洗发水 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
+    "id": "hourly_202604060828_清扬_27",
+    "client": {"brand": "清扬", "industry": "消费品", "products": ["洗发水"]},
+    "title": "清扬洗发水 | 春季健身热潮 瘦身塑形正当时...",
+    "platform": "小红书/抖音",
     "angle": "场景种草",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
+    "hot_topic": "春季健身热潮 瘦身塑形正当时",
+    "hot_topic_type": "健身热点",
     "heat": "480万",
-    "trend": "🔥🔥 持续上升",
+    "trend": "🔥🔥🔥 持续上升",
     "product": "洗发水",
-    "keywords": [
-      "清扬",
-      "洗发水",
-      "美妆热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["清扬", "洗发水", "健身热点", "场景种草", "健康"],
+    "quality_score": 0.86,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "74万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为清扬策划场景种草内容，结合洗发水进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「春季健身热潮 瘦身塑形正当时」，为清扬策划场景种草内容，结合洗发水进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_玉兰油_28",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "玉兰油护肤品 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
+    "id": "hourly_202604060828_玉兰油_28",
+    "client": {"brand": "玉兰油", "industry": "消费品", "products": ["护肤品"]},
+    "title": "玉兰油护肤品 | 清晨运动成新时尚 晨跑打卡成社交货币...",
+    "platform": "小红书/抖音",
     "angle": "科普教育",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
+    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥🔥 持续上升",
     "product": "护肤品",
-    "keywords": [
-      "玉兰油",
-      "护肤品",
-      "美妆热点",
-      "科普教育"
-    ],
+    "keywords": ["玉兰油", "护肤品", "生活方式热点", "科普教育", "晨跑"],
     "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "70万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为玉兰油策划科普教育内容，结合护肤品进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为玉兰油策划科普教育内容，结合护肤品进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_汤臣倍健_29",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "汤臣倍健维生素 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
+    "id": "hourly_202604060828_汤臣倍健_29",
+    "client": {"brand": "汤臣倍健", "industry": "消费品", "products": ["维生素"]},
+    "title": "汤臣倍健维生素 | 清晨运动成新时尚 晨跑打卡成社交货币...",
+    "platform": "小红书/抖音",
     "angle": "生活方式",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
+    "hot_topic": "清晨运动成新时尚 晨跑打卡成社交货币",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥🔥 持续上升",
     "product": "维生素",
-    "keywords": [
-      "汤臣倍健",
-      "维生素",
-      "美妆热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "keywords": ["汤臣倍健", "维生素", "生活方式热点", "生活方式", "晨跑"],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "78万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为汤臣倍健策划生活方式内容，结合维生素进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「清晨运动成新时尚 晨跑打卡成社交货币」，为汤臣倍健策划生活方式内容，结合维生素进行营销推广。"
   },
   {
-    "id": "hourly_202604060622_善存_30",
-    "client": {
-      "brand": "善存",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "善存维生素 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
+    "id": "hourly_202604060828_善存_30",
+    "client": {"brand": "善存", "industry": "消费品", "products": ["维生素"]},
+    "title": "善存维生素 | 水果为什么越来越甜了 科普揭秘...",
+    "platform": "小红书/抖音",
     "angle": "借势营销",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
+    "hot_topic": "水果为什么越来越甜了 科普揭秘引发热议",
+    "hot_topic_type": "美食热点",
+    "heat": "733万",
+    "trend": "🔥🔥🔥 持续上升",
     "product": "维生素",
-    "keywords": [
-      "善存",
-      "维生素",
-      "美妆热点",
-      "借势营销"
-    ],
+    "keywords": ["善存", "维生素", "美食热点", "借势营销", "健康"],
     "quality_score": 0.85,
     "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
+    "engagement_estimate": "70万+",
     "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为善存策划借势营销内容，结合维生素进行营销推广。"
+    "created_at": "2026-04-06T08:28:00",
+    "content": "基于热点「水果为什么越来越甜了 科普揭秘」，为善存策划借势营销内容，结合维生素进行健康营销。"
   },
   {
-    "id": "hourly_202604060622_HC_31",
-    "client": {
-      "brand": "HC",
-      "industry": "消费品",
-      "products": [
-        "清洁剂"
-      ]
-    },
-    "title": "HC清洁剂 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "产品测评",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "清洁剂",
-    "keywords": [
-      "HC",
-      "清洁剂",
-      "美妆热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为HC策划产品测评内容，结合清洁剂进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_威猛先生_32",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "消费品",
-      "products": [
-        "厨房清洁"
-      ]
-    },
-    "title": "威猛先生厨房清洁 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "热点解读",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "厨房清洁",
-    "keywords": [
-      "威猛先生",
-      "厨房清洁",
-      "美妆热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为威猛先生策划热点解读内容，结合厨房清洁进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_舒适_33",
-    "client": {
-      "brand": "舒适",
-      "industry": "消费品",
-      "products": [
-        "牙刷"
-      ]
-    },
-    "title": "舒适牙刷 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "情感共鸣",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "牙刷",
-    "keywords": [
-      "舒适",
-      "牙刷",
-      "美妆热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为舒适策划情感共鸣内容，结合牙刷进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_希宝_34",
-    "client": {
-      "brand": "希宝",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "希宝猫粮 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "场景种草",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "猫粮",
-    "keywords": [
-      "希宝",
-      "猫粮",
-      "美妆热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为希宝策划场景种草内容，结合猫粮进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_皇家_35",
-    "client": {
-      "brand": "皇家",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "皇家猫粮 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "科普教育",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "猫粮",
-    "keywords": [
-      "皇家",
-      "猫粮",
-      "美妆热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为皇家策划科普教育内容，结合猫粮进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_OATLY_36",
-    "client": {
-      "brand": "OATLY",
-      "industry": "消费品",
-      "products": [
-        "燕麦奶"
-      ]
-    },
-    "title": "OATLY燕麦奶 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "生活方式",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "燕麦奶",
-    "keywords": [
-      "OATLY",
-      "燕麦奶",
-      "美妆热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为OATLY策划生活方式内容，结合燕麦奶进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_百威_37",
-    "client": {
-      "brand": "百威",
-      "industry": "消费品",
-      "products": [
-        "啤酒"
-      ]
-    },
-    "title": "百威啤酒 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "借势营销",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "啤酒",
-    "keywords": [
-      "百威",
-      "啤酒",
-      "美妆热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为百威策划借势营销内容，结合啤酒进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_元气森林_38",
-    "client": {
-      "brand": "元气森林",
-      "industry": "消费品",
-      "products": [
-        "气泡水"
-      ]
-    },
-    "title": "元气森林气泡水 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "产品测评",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "气泡水",
-    "keywords": [
-      "元气森林",
-      "气泡水",
-      "美妆热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为元气森林策划产品测评内容，结合气泡水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_农夫山泉_39",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "消费品",
-      "products": [
-        "饮用水"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 春季过敏高发季 敏感肌护肤需求激增...",
-    "platform": "小红书/微博",
-    "angle": "热点解读",
-    "hot_topic": "春季过敏高发季 敏感肌护肤需求激增",
-    "hot_topic_type": "美妆热点",
-    "heat": "480万",
-    "trend": "🔥🔥 持续上升",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "美妆热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季过敏高发季 敏感肌护肤需求激增」，为农夫山泉策划热点解读内容，结合饮用水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_荣耀_40",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "荣耀手机 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "科普教育",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "社会热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为荣耀策划科普教育内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_罗技_41",
-    "client": {
-      "brand": "罗技",
-      "industry": "消费品",
-      "products": [
-        "鼠标"
-      ]
-    },
-    "title": "罗技鼠标 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "生活方式",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "鼠标",
-    "keywords": [
-      "罗技",
-      "鼠标",
-      "社会热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为罗技策划生活方式内容，结合鼠标进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_小米_42",
-    "client": {
-      "brand": "小米",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "小米手机 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "借势营销",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "手机",
-    "keywords": [
-      "小米",
-      "手机",
-      "社会热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为小米策划借势营销内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_索尼_43",
-    "client": {
-      "brand": "索尼",
-      "industry": "消费品",
-      "products": [
-        "耳机"
-      ]
-    },
-    "title": "索尼耳机 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "产品测评",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "耳机",
-    "keywords": [
-      "索尼",
-      "耳机",
-      "社会热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为索尼策划产品测评内容，结合耳机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_AHC_44",
-    "client": {
-      "brand": "AHC",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "AHC护肤品 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "热点解读",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "护肤品",
-    "keywords": [
-      "AHC",
-      "护肤品",
-      "社会热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为AHC策划热点解读内容，结合护肤品进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_多芬_45",
-    "client": {
-      "brand": "多芬",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
-    "title": "多芬沐浴露 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "沐浴露",
-    "keywords": [
-      "多芬",
-      "沐浴露",
-      "社会热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为多芬策划情感共鸣内容，结合沐浴露进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_力士_46",
-    "client": {
-      "brand": "力士",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
-    "title": "力士沐浴露 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "场景种草",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "沐浴露",
-    "keywords": [
-      "力士",
-      "沐浴露",
-      "社会热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为力士策划场景种草内容，结合沐浴露进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_清扬_47",
-    "client": {
-      "brand": "清扬",
-      "industry": "消费品",
-      "products": [
-        "洗发水"
-      ]
-    },
-    "title": "清扬洗发水 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "科普教育",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "洗发水",
-    "keywords": [
-      "清扬",
-      "洗发水",
-      "社会热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为清扬策划科普教育内容，结合洗发水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_玉兰油_48",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "玉兰油护肤品 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "生活方式",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "护肤品",
-    "keywords": [
-      "玉兰油",
-      "护肤品",
-      "社会热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为玉兰油策划生活方式内容，结合护肤品进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_汤臣倍健_49",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "汤臣倍健维生素 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "借势营销",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "维生素",
-    "keywords": [
-      "汤臣倍健",
-      "维生素",
-      "社会热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为汤臣倍健策划借势营销内容，结合维生素进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_善存_50",
-    "client": {
-      "brand": "善存",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "善存维生素 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "产品测评",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "维生素",
-    "keywords": [
-      "善存",
-      "维生素",
-      "社会热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为善存策划产品测评内容，结合维生素进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_HC_51",
-    "client": {
-      "brand": "HC",
-      "industry": "消费品",
-      "products": [
-        "清洁剂"
-      ]
-    },
-    "title": "HC清洁剂 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "热点解读",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "清洁剂",
-    "keywords": [
-      "HC",
-      "清洁剂",
-      "社会热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为HC策划热点解读内容，结合清洁剂进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_威猛先生_52",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "消费品",
-      "products": [
-        "厨房清洁"
-      ]
-    },
-    "title": "威猛先生厨房清洁 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "厨房清洁",
-    "keywords": [
-      "威猛先生",
-      "厨房清洁",
-      "社会热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为威猛先生策划情感共鸣内容，结合厨房清洁进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_舒适_53",
-    "client": {
-      "brand": "舒适",
-      "industry": "消费品",
-      "products": [
-        "牙刷"
-      ]
-    },
-    "title": "舒适牙刷 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "场景种草",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "牙刷",
-    "keywords": [
-      "舒适",
-      "牙刷",
-      "社会热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为舒适策划场景种草内容，结合牙刷进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_希宝_54",
-    "client": {
-      "brand": "希宝",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "希宝猫粮 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "科普教育",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "猫粮",
-    "keywords": [
-      "希宝",
-      "猫粮",
-      "社会热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为希宝策划科普教育内容，结合猫粮进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_皇家_55",
-    "client": {
-      "brand": "皇家",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "皇家猫粮 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "生活方式",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "猫粮",
-    "keywords": [
-      "皇家",
-      "猫粮",
-      "社会热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为皇家策划生活方式内容，结合猫粮进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_OATLY_56",
-    "client": {
-      "brand": "OATLY",
-      "industry": "消费品",
-      "products": [
-        "燕麦奶"
-      ]
-    },
-    "title": "OATLY燕麦奶 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "借势营销",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "燕麦奶",
-    "keywords": [
-      "OATLY",
-      "燕麦奶",
-      "社会热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为OATLY策划借势营销内容，结合燕麦奶进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_百威_57",
-    "client": {
-      "brand": "百威",
-      "industry": "消费品",
-      "products": [
-        "啤酒"
-      ]
-    },
-    "title": "百威啤酒 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "产品测评",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "啤酒",
-    "keywords": [
-      "百威",
-      "啤酒",
-      "社会热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为百威策划产品测评内容，结合啤酒进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_元气森林_58",
-    "client": {
-      "brand": "元气森林",
-      "industry": "消费品",
-      "products": [
-        "气泡水"
-      ]
-    },
-    "title": "元气森林气泡水 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "热点解读",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "气泡水",
-    "keywords": [
-      "元气森林",
-      "气泡水",
-      "社会热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为元气森林策划热点解读内容，结合气泡水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_农夫山泉_59",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "消费品",
-      "products": [
-        "饮用水"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 清明假期后遗症 收假综合症引热议...",
-    "platform": "微博/抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "清明假期后遗症 收假综合症引热议",
-    "hot_topic_type": "社会热点",
-    "heat": "450万",
-    "trend": "🔥🔥 持续上升",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "社会热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「清明假期后遗症 收假综合症引热议」，为农夫山泉策划情感共鸣内容，结合饮用水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_荣耀_60",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "荣耀手机 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "生活方式",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "生活方式热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为荣耀策划生活方式内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_罗技_61",
-    "client": {
-      "brand": "罗技",
-      "industry": "消费品",
-      "products": [
-        "鼠标"
-      ]
-    },
-    "title": "罗技鼠标 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "借势营销",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "鼠标",
-    "keywords": [
-      "罗技",
-      "鼠标",
-      "生活方式热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为罗技策划借势营销内容，结合鼠标进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_小米_62",
-    "client": {
-      "brand": "小米",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "小米手机 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "产品测评",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "手机",
-    "keywords": [
-      "小米",
-      "手机",
-      "生活方式热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为小米策划产品测评内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_索尼_63",
-    "client": {
-      "brand": "索尼",
-      "industry": "消费品",
-      "products": [
-        "耳机"
-      ]
-    },
-    "title": "索尼耳机 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "热点解读",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "耳机",
-    "keywords": [
-      "索尼",
-      "耳机",
-      "生活方式热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为索尼策划热点解读内容，结合耳机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_AHC_64",
-    "client": {
-      "brand": "AHC",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "AHC护肤品 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "护肤品",
-    "keywords": [
-      "AHC",
-      "护肤品",
-      "生活方式热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为AHC策划情感共鸣内容，结合护肤品进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_多芬_65",
-    "client": {
-      "brand": "多芬",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
-    "title": "多芬沐浴露 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "场景种草",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "沐浴露",
-    "keywords": [
-      "多芬",
-      "沐浴露",
-      "生活方式热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为多芬策划场景种草内容，结合沐浴露进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_力士_66",
-    "client": {
-      "brand": "力士",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
-    "title": "力士沐浴露 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "科普教育",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "沐浴露",
-    "keywords": [
-      "力士",
-      "沐浴露",
-      "生活方式热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为力士策划科普教育内容，结合沐浴露进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_清扬_67",
-    "client": {
-      "brand": "清扬",
-      "industry": "消费品",
-      "products": [
-        "洗发水"
-      ]
-    },
-    "title": "清扬洗发水 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "生活方式",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "洗发水",
-    "keywords": [
-      "清扬",
-      "洗发水",
-      "生活方式热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为清扬策划生活方式内容，结合洗发水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_玉兰油_68",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "玉兰油护肤品 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "借势营销",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "护肤品",
-    "keywords": [
-      "玉兰油",
-      "护肤品",
-      "生活方式热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为玉兰油策划借势营销内容，结合护肤品进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_汤臣倍健_69",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "汤臣倍健维生素 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "产品测评",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "维生素",
-    "keywords": [
-      "汤臣倍健",
-      "维生素",
-      "生活方式热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为汤臣倍健策划产品测评内容，结合维生素进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_善存_70",
-    "client": {
-      "brand": "善存",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "善存维生素 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "热点解读",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "维生素",
-    "keywords": [
-      "善存",
-      "维生素",
-      "生活方式热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为善存策划热点解读内容，结合维生素进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_HC_71",
-    "client": {
-      "brand": "HC",
-      "industry": "消费品",
-      "products": [
-        "清洁剂"
-      ]
-    },
-    "title": "HC清洁剂 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "清洁剂",
-    "keywords": [
-      "HC",
-      "清洁剂",
-      "生活方式热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为HC策划情感共鸣内容，结合清洁剂进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_威猛先生_72",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "消费品",
-      "products": [
-        "厨房清洁"
-      ]
-    },
-    "title": "威猛先生厨房清洁 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "场景种草",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "厨房清洁",
-    "keywords": [
-      "威猛先生",
-      "厨房清洁",
-      "生活方式热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为威猛先生策划场景种草内容，结合厨房清洁进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_舒适_73",
-    "client": {
-      "brand": "舒适",
-      "industry": "消费品",
-      "products": [
-        "牙刷"
-      ]
-    },
-    "title": "舒适牙刷 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "科普教育",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "牙刷",
-    "keywords": [
-      "舒适",
-      "牙刷",
-      "生活方式热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为舒适策划科普教育内容，结合牙刷进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_希宝_74",
-    "client": {
-      "brand": "希宝",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "希宝猫粮 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "生活方式",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "猫粮",
-    "keywords": [
-      "希宝",
-      "猫粮",
-      "生活方式热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为希宝策划生活方式内容，结合猫粮进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_皇家_75",
-    "client": {
-      "brand": "皇家",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "皇家猫粮 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "借势营销",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "猫粮",
-    "keywords": [
-      "皇家",
-      "猫粮",
-      "生活方式热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为皇家策划借势营销内容，结合猫粮进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_OATLY_76",
-    "client": {
-      "brand": "OATLY",
-      "industry": "消费品",
-      "products": [
-        "燕麦奶"
-      ]
-    },
-    "title": "OATLY燕麦奶 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "产品测评",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "燕麦奶",
-    "keywords": [
-      "OATLY",
-      "燕麦奶",
-      "生活方式热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为OATLY策划产品测评内容，结合燕麦奶进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_百威_77",
-    "client": {
-      "brand": "百威",
-      "industry": "消费品",
-      "products": [
-        "啤酒"
-      ]
-    },
-    "title": "百威啤酒 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "热点解读",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "啤酒",
-    "keywords": [
-      "百威",
-      "啤酒",
-      "生活方式热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为百威策划热点解读内容，结合啤酒进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_元气森林_78",
-    "client": {
-      "brand": "元气森林",
-      "industry": "消费品",
-      "products": [
-        "气泡水"
-      ]
-    },
-    "title": "元气森林气泡水 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "情感共鸣",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "气泡水",
-    "keywords": [
-      "元气森林",
-      "气泡水",
-      "生活方式热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为元气森林策划情感共鸣内容，结合气泡水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_农夫山泉_79",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "消费品",
-      "products": [
-        "饮用水"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 周一早高峰地铁惊现读书角 白领新生活方式...",
-    "platform": "微博/小红书",
-    "angle": "场景种草",
-    "hot_topic": "周一早高峰地铁惊现读书角 白领新生活方式",
-    "hot_topic_type": "生活方式热点",
-    "heat": "380万",
-    "trend": "🔥🔥 新兴热点",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "生活方式热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「周一早高峰地铁惊现读书角 白领新生活方式」，为农夫山泉策划场景种草内容，结合饮用水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_荣耀_80",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "荣耀手机 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "借势营销",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "家居热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为荣耀策划借势营销内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_罗技_81",
-    "client": {
-      "brand": "罗技",
-      "industry": "消费品",
-      "products": [
-        "鼠标"
-      ]
-    },
-    "title": "罗技鼠标 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "产品测评",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "鼠标",
-    "keywords": [
-      "罗技",
-      "鼠标",
-      "家居热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为罗技策划产品测评内容，结合鼠标进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_小米_82",
-    "client": {
-      "brand": "小米",
-      "industry": "消费品",
-      "products": [
-        "手机"
-      ]
-    },
-    "title": "小米手机 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "热点解读",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "手机",
-    "keywords": [
-      "小米",
-      "手机",
-      "家居热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为小米策划热点解读内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_索尼_83",
-    "client": {
-      "brand": "索尼",
-      "industry": "消费品",
-      "products": [
-        "耳机"
-      ]
-    },
-    "title": "索尼耳机 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "耳机",
-    "keywords": [
-      "索尼",
-      "耳机",
-      "家居热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为索尼策划情感共鸣内容，结合耳机进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_AHC_84",
-    "client": {
-      "brand": "AHC",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "AHC护肤品 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "场景种草",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "护肤品",
-    "keywords": [
-      "AHC",
-      "护肤品",
-      "家居热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为AHC策划场景种草内容，结合护肤品进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_多芬_85",
-    "client": {
-      "brand": "多芬",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
-    "title": "多芬沐浴露 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "科普教育",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "沐浴露",
-    "keywords": [
-      "多芬",
-      "沐浴露",
-      "家居热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为多芬策划科普教育内容，结合沐浴露进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_力士_86",
-    "client": {
-      "brand": "力士",
-      "industry": "消费品",
-      "products": [
-        "沐浴露"
-      ]
-    },
-    "title": "力士沐浴露 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "生活方式",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "沐浴露",
-    "keywords": [
-      "力士",
-      "沐浴露",
-      "家居热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为力士策划生活方式内容，结合沐浴露进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_清扬_87",
-    "client": {
-      "brand": "清扬",
-      "industry": "消费品",
-      "products": [
-        "洗发水"
-      ]
-    },
-    "title": "清扬洗发水 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "借势营销",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "洗发水",
-    "keywords": [
-      "清扬",
-      "洗发水",
-      "家居热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为清扬策划借势营销内容，结合洗发水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_玉兰油_88",
-    "client": {
-      "brand": "玉兰油",
-      "industry": "消费品",
-      "products": [
-        "护肤品"
-      ]
-    },
-    "title": "玉兰油护肤品 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "产品测评",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "护肤品",
-    "keywords": [
-      "玉兰油",
-      "护肤品",
-      "家居热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为玉兰油策划产品测评内容，结合护肤品进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_汤臣倍健_89",
-    "client": {
-      "brand": "汤臣倍健",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "汤臣倍健维生素 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "热点解读",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "维生素",
-    "keywords": [
-      "汤臣倍健",
-      "维生素",
-      "家居热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为汤臣倍健策划热点解读内容，结合维生素进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_善存_90",
-    "client": {
-      "brand": "善存",
-      "industry": "消费品",
-      "products": [
-        "维生素"
-      ]
-    },
-    "title": "善存维生素 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "维生素",
-    "keywords": [
-      "善存",
-      "维生素",
-      "家居热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为善存策划情感共鸣内容，结合维生素进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_HC_91",
-    "client": {
-      "brand": "HC",
-      "industry": "消费品",
-      "products": [
-        "清洁剂"
-      ]
-    },
+    "id": "hourly_202604060828_HC_31",
+    "client": {"brand": "HC", "industry": "消费品", "products": ["清洁剂"]},
     "title": "HC清洁剂 | 春季家装焕新季 智能家居成首选...",
     "platform": "小红书/抖音",
-    "angle": "场景种草",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "清洁剂",
-    "keywords": [
-      "HC",
-      "清洁剂",
-      "家居热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为HC策划场景种草内容，结合清洁剂进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_威猛先生_92",
-    "client": {
-      "brand": "威猛先生",
-      "industry": "消费品",
-      "products": [
-        "厨房清洁"
-      ]
-    },
-    "title": "威猛先生厨房清洁 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "科普教育",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "厨房清洁",
-    "keywords": [
-      "威猛先生",
-      "厨房清洁",
-      "家居热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为威猛先生策划科普教育内容，结合厨房清洁进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_舒适_93",
-    "client": {
-      "brand": "舒适",
-      "industry": "消费品",
-      "products": [
-        "牙刷"
-      ]
-    },
-    "title": "舒适牙刷 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "生活方式",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "牙刷",
-    "keywords": [
-      "舒适",
-      "牙刷",
-      "家居热点",
-      "生活方式"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为舒适策划生活方式内容，结合牙刷进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_希宝_94",
-    "client": {
-      "brand": "希宝",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "希宝猫粮 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "借势营销",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "猫粮",
-    "keywords": [
-      "希宝",
-      "猫粮",
-      "家居热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为希宝策划借势营销内容，结合猫粮进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_皇家_95",
-    "client": {
-      "brand": "皇家",
-      "industry": "消费品",
-      "products": [
-        "猫粮"
-      ]
-    },
-    "title": "皇家猫粮 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
     "angle": "产品测评",
     "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "猫粮",
-    "keywords": [
-      "皇家",
-      "猫粮",
-      "家居热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为皇家策划产品测评内容，结合猫粮进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_OATLY_96",
-    "client": {
-      "brand": "OATLY",
-      "industry": "消费品",
-      "products": [
-        "燕麦奶"
-      ]
-    },
-    "title": "OATLY燕麦奶 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "热点解读",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "燕麦奶",
-    "keywords": [
-      "OATLY",
-      "燕麦奶",
-      "家居热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为OATLY策划热点解读内容，结合燕麦奶进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_百威_97",
-    "client": {
-      "brand": "百威",
-      "industry": "消费品",
-      "products": [
-        "啤酒"
-      ]
-    },
-    "title": "百威啤酒 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "啤酒",
-    "keywords": [
-      "百威",
-      "啤酒",
-      "家居热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为百威策划情感共鸣内容，结合啤酒进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_元气森林_98",
-    "client": {
-      "brand": "元气森林",
-      "industry": "消费品",
-      "products": [
-        "气泡水"
-      ]
-    },
-    "title": "元气森林气泡水 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "场景种草",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "气泡水",
-    "keywords": [
-      "元气森林",
-      "气泡水",
-      "家居热点",
-      "场景种草"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为元气森林策划场景种草内容，结合气泡水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604060622_农夫山泉_99",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "消费品",
-      "products": [
-        "饮用水"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 春季家装焕新季 智能家居成首选...",
-    "platform": "小红书/抖音",
-    "angle": "科普教育",
-    "hot_topic": "春季家装焕新季 智能家居成首选",
-    "hot_topic_type": "家居热点",
-    "heat": "420万",
-    "trend": "🔥🔥 持续上升",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "家居热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T06:22:00",
-    "content": "基于热点「春季家装焕新季 智能家居成首选」，为农夫山泉策划科普教育内容，结合饮用水进行营销推广。"
-  },
-  {
-    "id": "hourly_202604050619_荣耀_0",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀上海废品回收站惊现退役歼-6战的平板内容",
-    "platform": "微博/抖音/头条",
-    "angle": "知识科普",
-    "hot_topic": "上海废品回收站惊现退役歼-6战斗机",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "平板",
-    "keywords": [
-      "歼-6",
-      "战斗机",
-      "退役",
-      "上海"
-    ],
-    "quality_score": 0.97,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "29万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_荣耀_4",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀人民日报评歌曲李白版权风波 \"的笔记本内容",
-    "platform": "微博/抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "人民日报评歌曲李白版权风波 \"又能怎\"引热议",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "笔记本",
-    "keywords": [
-      "李白",
-      "版权",
-      "歌曲",
-      "人民日报"
-    ],
-    "quality_score": 0.83,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "73万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_荣耀_8",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀8岁女孩清明节给妈妈扫墓展示奖的手机内容",
-    "platform": "抖音/微博",
-    "angle": "生活方式",
-    "hot_topic": "8岁女孩清明节给妈妈扫墓展示奖状",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "手机",
-    "keywords": [
-      "清明",
-      "扫墓",
-      "女孩",
-      "奖状"
-    ],
-    "quality_score": 0.78,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "94万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_荣耀_17",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀拼豆成为消费顶流 年轻人解压新的智能手表内容",
-    "platform": "小红书/抖音",
-    "angle": "知识科普",
-    "hot_topic": "拼豆成为消费顶流 年轻人解压新宠",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "智能手表",
-    "keywords": [
-      "拼豆",
-      "解压",
-      "年轻人",
-      "DIY"
-    ],
-    "quality_score": 0.94,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "88万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_荣耀_21",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀澳门世界杯乒乓球女单四强全部出的笔记本内容",
-    "platform": "微博/抖音",
-    "angle": "场景植入",
-    "hot_topic": "澳门世界杯乒乓球女单四强全部出炉",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "笔记本",
-    "keywords": [
-      "乒乓球",
-      "澳门世界杯",
-      "王曼昱",
-      "王楚钦"
-    ],
-    "quality_score": 0.79,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "33万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_荣耀_29",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀小孩哥放春假在鱼档帮父母杀鱼的笔记本内容",
-    "platform": "抖音/微博",
-    "angle": "知识科普",
-    "hot_topic": "小孩哥放春假在鱼档帮父母杀鱼",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "笔记本",
-    "keywords": [
-      "小孩",
-      "春假",
-      "鱼档",
-      "劳动教育"
-    ],
-    "quality_score": 0.86,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "33万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_荣耀_34",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀张雪为新车设置500km新手模的手机内容",
-    "platform": "微博/抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "张雪为新车设置500km新手模式",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥",
-    "product": "手机",
-    "keywords": [
-      "张雪",
-      "新车",
-      "新手模式",
-      "汽车科技"
-    ],
-    "quality_score": 0.78,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "99万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_荣耀_37",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀春季户外露营热潮 周末好去处推的笔记本内容",
-    "platform": "小红书/抖音",
-    "angle": "场景植入",
-    "hot_topic": "春季户外露营热潮 周末好去处推荐",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥",
-    "product": "笔记本",
-    "keywords": [
-      "露营",
-      "春季",
-      "户外",
-      "旅游"
-    ],
-    "quality_score": 0.84,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "80万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_荣耀_41",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀清明假期出行攻略 各地景点推荐的智能手表内容",
-    "platform": "小红书/抖音",
-    "angle": "情感共鸣",
-    "hot_topic": "清明假期出行攻略 各地景点推荐",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥",
-    "product": "智能手表",
-    "keywords": [
-      "清明",
-      "假期",
-      "旅游",
-      "景点"
-    ],
-    "quality_score": 0.92,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "45万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_1775420_荣耀_1508",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机 | 尾号8888888手机号260万起拍 已流拍...",
-    "platform": "微博/抖音",
-    "angle": "借势营销",
-    "hot_topic": "尾号8888888手机号260万起拍 已流拍",
-    "hot_topic_type": "社会热点",
-    "heat": "483万",
-    "trend": "🔥",
-    "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "社会热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T05:22:39",
-    "content": "基于热点「尾号8888888手机号260万起拍 已流拍」，为荣耀策划借势营销内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_1775420_荣耀_1521",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机 | 王楚钦：太难了 首夺世界杯冠军感言...",
-    "platform": "抖音/小红书/B站/微博",
-    "angle": "产品测评",
-    "hot_topic": "王楚钦：太难了 首夺世界杯冠军感言",
-    "hot_topic_type": "体育热点",
-    "heat": "598万",
-    "trend": "🔥",
-    "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "体育热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T05:22:39",
-    "content": "基于热点「王楚钦：太难了 首夺世界杯冠军感言」，为荣耀策划产品测评内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_1775420_荣耀_1525",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机 | 孙颖莎回应世界杯三连冠...",
-    "platform": "抖音/小红书/B站/微博",
-    "angle": "科普教育",
-    "hot_topic": "孙颖莎回应世界杯三连冠",
-    "hot_topic_type": "体育热点",
-    "heat": "628万",
-    "trend": "🔥",
-    "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "体育热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T05:22:39",
-    "content": "基于热点「孙颖莎回应世界杯三连冠」，为荣耀策划科普教育内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_1775420_荣耀_1529",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机 | 24小时连掉两架主力战机 美军怎么了...",
-    "platform": "抖音/小红书",
-    "angle": "借势营销",
-    "hot_topic": "24小时连掉两架主力战机 美军怎么了",
-    "hot_topic_type": "国际热点",
-    "heat": "588万",
-    "trend": "🔥",
-    "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "国际热点",
-      "借势营销"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T05:22:39",
-    "content": "基于热点「24小时连掉两架主力战机 美军怎么了」，为荣耀策划借势营销内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_1775420_荣耀_1532",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机 | 25岁数学天才少女拿下超14亿融资...",
-    "platform": "抖音/小红书/B站",
-    "angle": "科普教育",
-    "hot_topic": "25岁数学天才少女拿下超14亿融资",
-    "hot_topic_type": "科技热点",
-    "heat": "637万",
-    "trend": "🔥",
-    "product": "手机",
-    "keywords": [
-      "荣耀",
-      "手机",
-      "科技热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T05:22:39",
-    "content": "基于热点「25岁数学天才少女拿下超14亿融资」，为荣耀策划科普教育内容，结合手机进行营销推广。"
-  },
-  {
-    "id": "hourly_1775420129_荣耀_136",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机/手表 | 王楚钦16拍极限对轰松岛辉空 乒乓球神仙打架...",
-    "platform": "抖音/小红书/B站",
-    "angle": "科普教育",
-    "hot_topic": "王楚钦16拍极限对轰松岛辉空 乒乓球神仙打架",
-    "hot_topic_type": "体育热点",
-    "heat": "300万",
-    "trend": "🔥🔥",
-    "product": "手机/手表",
-    "keywords": [
-      "荣耀",
-      "手机/手表",
-      "体育热点",
-      "科普教育"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "60万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「王楚钦16拍极限对轰松岛辉空 乒乓球神仙打架」，为荣耀策划科普教育内容，结合手机/手表进行营销推广。以专业知识建立品牌信任感。"
-  },
-  {
-    "id": "hourly_1775420129_荣耀_142",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机/家电 | 千亿级消费新引擎来了 经济消费升级...",
-    "platform": "抖音/小红书/B站",
-    "angle": "热点解读",
-    "hot_topic": "千亿级消费新引擎来了 经济消费升级",
-    "hot_topic_type": "消费热点",
-    "heat": "210万",
-    "trend": "🔥",
-    "product": "手机/家电",
-    "keywords": [
-      "荣耀",
-      "手机/家电",
-      "消费热点",
-      "热点解读"
-    ],
-    "quality_score": 0.87,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "42万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「千亿级消费新引擎来了 经济消费升级」，为荣耀策划热点解读内容，结合手机/家电进行营销推广。以品牌视角解读热点，提升品牌专业形象。"
-  },
-  {
-    "id": "hourly_1775420129_荣耀_150",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机/手表 | 邓亚萍张怡宁没做到的事 孙颖莎完成...",
-    "platform": "抖音/小红书/B站",
-    "angle": "情感共鸣",
-    "hot_topic": "邓亚萍张怡宁没做到的事 孙颖莎完成",
-    "hot_topic_type": "体育热点",
-    "heat": "250万",
-    "trend": "🔥",
-    "product": "手机/手表",
-    "keywords": [
-      "荣耀",
-      "手机/手表",
-      "体育热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.95,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "75万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「邓亚萍张怡宁没做到的事 孙颖莎完成」，为荣耀策划情感共鸣内容，结合手机/手表进行营销推广。以积极正能量情感切入，引发用户共鸣。"
-  },
-  {
-    "id": "hourly_1775420129_荣耀_156",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀耳机/相机 | 黄晓明已去交警部门接受处罚...",
-    "platform": "抖音/小红书/B站",
-    "angle": "场景种草",
-    "hot_topic": "黄晓明已去交警部门接受处罚",
-    "hot_topic_type": "娱乐热点",
-    "heat": "180万",
-    "trend": "🔥",
-    "product": "耳机/相机",
-    "keywords": [
-      "荣耀",
-      "耳机/相机",
-      "娱乐热点",
-      "场景种草"
-    ],
-    "quality_score": 0.76,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "54万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「黄晓明已去交警部门接受处罚」，为荣耀策划场景种草内容，结合耳机/相机进行营销推广。用户在关注黄晓明已去交警部门接受处罚时，自然联想到荣耀耳机/相机的使用场景。"
-  },
-  {
-    "id": "hourly_1775420129_荣耀_164",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机/手表 | 孙颖莎4-1王曼昱 3连冠创历史纪录...",
-    "platform": "抖音/小红书/B站",
-    "angle": "生活方式",
-    "hot_topic": "孙颖莎4-1王曼昱 3连冠创历史纪录",
-    "hot_topic_type": "体育热点",
-    "heat": "360万",
-    "trend": "🔥🔥",
-    "product": "手机/手表",
-    "keywords": [
-      "荣耀",
-      "手机/手表",
-      "体育热点",
-      "生活方式"
-    ],
-    "quality_score": 0.84,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "144万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「孙颖莎4-1王曼昱 3连冠创历史纪录」，为荣耀策划生活方式内容，结合手机/手表进行营销推广。将荣耀手机/手表融入健康/积极的生活方式。"
-  },
-  {
-    "id": "hourly_1775420129_荣耀_178",
-    "client": {
-      "brand": "荣耀",
-      "industry": "消费电子",
-      "products": [
-        "手机",
-        "平板",
-        "笔记本",
-        "智能手表"
-      ]
-    },
-    "title": "荣耀手机/手表 | 王楚钦4-3险胜松岛辉空 首夺世界杯冠军...",
-    "platform": "抖音/小红书/B站",
-    "angle": "科普教育",
-    "hot_topic": "王楚钦4-3险胜松岛辉空 首夺世界杯冠军",
-    "hot_topic_type": "体育热点",
-    "heat": "480万",
-    "trend": "🔥🔥",
-    "product": "手机/手表",
-    "keywords": [
-      "荣耀",
-      "手机/手表",
-      "体育热点",
-      "科普教育"
-    ],
-    "quality_score": 0.97,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "192万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「王楚钦4-3险胜松岛辉空 首夺世界杯冠军」，为荣耀策划科普教育内容，结合手机/手表进行营销推广。以专业知识建立品牌信任感。"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_1",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉上海废品回收站惊现退役歼-6战的咖啡内容",
-    "platform": "微博/抖音/头条",
-    "angle": "产品种草",
-    "hot_topic": "上海废品回收站惊现退役歼-6战斗机",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "咖啡",
-    "keywords": [
-      "歼-6",
-      "战斗机",
-      "退役",
-      "上海"
-    ],
-    "quality_score": 0.94,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "66万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_5",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉人民日报评歌曲李白版权风波 \"的矿泉水内容",
-    "platform": "微博/抖音",
-    "angle": "生活方式",
-    "hot_topic": "人民日报评歌曲李白版权风波 \"又能怎\"引热议",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "矿泉水",
-    "keywords": [
-      "李白",
-      "版权",
-      "歌曲",
-      "人民日报"
-    ],
-    "quality_score": 0.96,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "51万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_9",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉8岁女孩清明节给妈妈扫墓展示奖的果汁内容",
-    "platform": "抖音/微博",
-    "angle": "知识科普",
-    "hot_topic": "8岁女孩清明节给妈妈扫墓展示奖状",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "果汁",
-    "keywords": [
-      "清明",
-      "扫墓",
-      "女孩",
-      "奖状"
-    ],
-    "quality_score": 0.83,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "44万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_12",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉水果为什么越来越甜了 科普揭秘的茶π内容",
-    "platform": "小红书/抖音",
-    "angle": "场景植入",
-    "hot_topic": "水果为什么越来越甜了 科普揭秘",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "茶π",
-    "keywords": [
-      "水果",
-      "甜度",
-      "科普",
-      "健康"
-    ],
-    "quality_score": 0.75,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "53万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_18",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉拼豆成为消费顶流 年轻人解压新的咖啡内容",
-    "platform": "小红书/抖音",
-    "angle": "生活方式",
-    "hot_topic": "拼豆成为消费顶流 年轻人解压新宠",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "咖啡",
-    "keywords": [
-      "拼豆",
-      "解压",
-      "年轻人",
-      "DIY"
-    ],
-    "quality_score": 0.95,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "29万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_22",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉澳门世界杯乒乓球女单四强全部出的咖啡内容",
-    "platform": "微博/抖音",
-    "angle": "知识科普",
-    "hot_topic": "澳门世界杯乒乓球女单四强全部出炉",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "咖啡",
-    "keywords": [
-      "乒乓球",
-      "澳门世界杯",
-      "王曼昱",
-      "王楚钦"
-    ],
-    "quality_score": 0.88,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "23万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_25",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉今麦郎1桶半是商标 网友热议产的咖啡内容",
-    "platform": "微博/抖音",
-    "angle": "场景植入",
-    "hot_topic": "今麦郎1桶半是商标 网友热议产品命名",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "咖啡",
-    "keywords": [
-      "今麦郎",
-      "商标",
-      "方便面",
-      "消费者"
-    ],
-    "quality_score": 0.78,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "51万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_30",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉小孩哥放春假在鱼档帮父母杀鱼的茶π内容",
-    "platform": "抖音/微博",
-    "angle": "生活方式",
-    "hot_topic": "小孩哥放春假在鱼档帮父母杀鱼",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "茶π",
-    "keywords": [
-      "小孩",
-      "春假",
-      "鱼档",
-      "劳动教育"
-    ],
-    "quality_score": 0.83,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "26万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_38",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉春季户外露营热潮 周末好去处推的茶π内容",
-    "platform": "小红书/抖音",
-    "angle": "知识科普",
-    "hot_topic": "春季户外露营热潮 周末好去处推荐",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥",
-    "product": "茶π",
-    "keywords": [
-      "露营",
-      "春季",
-      "户外",
-      "旅游"
-    ],
-    "quality_score": 0.77,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "84万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_42",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉清明假期出行攻略 各地景点推荐的咖啡内容",
-    "platform": "小红书/抖音",
-    "angle": "生活方式",
-    "hot_topic": "清明假期出行攻略 各地景点推荐",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥",
-    "product": "咖啡",
-    "keywords": [
-      "清明",
-      "假期",
-      "旅游",
-      "景点"
-    ],
-    "quality_score": 0.83,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "45万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_农夫山泉_45",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "饮品",
-      "products": [
-        "矿泉水",
-        "茶π",
-        "果汁",
-        "咖啡"
-      ]
-    },
-    "title": "农夫山泉春季健身热潮 瘦身塑形正当时的矿泉水内容",
-    "platform": "小红书/抖音",
-    "angle": "场景植入",
-    "hot_topic": "春季健身热潮 瘦身塑形正当时",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥",
-    "product": "矿泉水",
-    "keywords": [
-      "健身",
-      "春季",
-      "瘦身",
-      "塑形"
-    ],
-    "quality_score": 0.89,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "63万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_1775420_农夫山泉_1503",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "食品饮料",
-      "products": [
-        "饮用水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 清明档总票房破2亿《我许可》暂居第一...",
-    "platform": "抖音/小红书/微博",
-    "angle": "情感共鸣",
-    "hot_topic": "清明档总票房破2亿《我许可》暂居第一",
-    "hot_topic_type": "娱乐热点",
-    "heat": "438万",
-    "trend": "🔥",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "娱乐热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T05:22:39",
-    "content": "基于热点「清明档总票房破2亿《我许可》暂居第一」，为农夫山泉策划情感共鸣内容，结合饮用水进行营销推广。"
-  },
-  {
-    "id": "hourly_1775420_农夫山泉_1507",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "食品饮料",
-      "products": [
-        "饮用水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 四川一超市上演现实版《西虹市首富》...",
-    "platform": "抖音/小红书/微博",
-    "angle": "产品测评",
-    "hot_topic": "四川一超市上演现实版《西虹市首富》",
-    "hot_topic_type": "美食热点",
-    "heat": "446万",
-    "trend": "🔥",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "美食热点",
-      "产品测评"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T05:22:39",
-    "content": "基于热点「四川一超市上演现实版《西虹市首富》」，为农夫山泉策划产品测评内容，结合饮用水进行营销推广。"
-  },
-  {
-    "id": "hourly_1775420_农夫山泉_1517",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "食品饮料",
-      "products": [
-        "饮用水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 1年上30多座坟 年轻人为何爱上扫墓...",
-    "platform": "小红书/抖音/微博",
-    "angle": "情感共鸣",
-    "hot_topic": "1年上30多座坟 年轻人为何爱上扫墓",
-    "hot_topic_type": "旅游热点",
-    "heat": "521万",
-    "trend": "🔥",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "旅游热点",
-      "情感共鸣"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T05:22:39",
-    "content": "基于热点「1年上30多座坟 年轻人为何爱上扫墓」，为农夫山泉策划情感共鸣内容，结合饮用水进行营销推广。"
-  },
-  {
-    "id": "hourly_1775420_农夫山泉_1520",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "食品饮料",
-      "products": [
-        "饮用水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 广东鸡煲店老板称杀气太重不行...",
-    "platform": "抖音/小红书/微博",
-    "angle": "热点解读",
-    "hot_topic": "广东鸡煲店老板称杀气太重不行",
-    "hot_topic_type": "美食热点",
-    "heat": "550万",
-    "trend": "🔥",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "美食热点",
-      "热点解读"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "50万+",
-    "status": "pending",
-    "created_at": "2026-04-06T05:22:39",
-    "content": "基于热点「广东鸡煲店老板称杀气太重不行」，为农夫山泉策划热点解读内容，结合饮用水进行营销推广。"
-  },
-  {
-    "id": "hourly_1775420129_农夫山泉_130",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "食品饮料",
-      "products": [
-        "饮用水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 都江堰淘出800克狗头金 官方辟谣不实...",
-    "platform": "抖音/小红书/微博",
-    "angle": "生活方式",
-    "hot_topic": "都江堰淘出800克狗头金 官方辟谣不实",
-    "hot_topic_type": "社会热点",
-    "heat": "150万",
-    "trend": "🔥",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "社会热点",
-      "生活方式"
-    ],
-    "quality_score": 0.72,
-    "quality_level": "C级-合格",
-    "engagement_estimate": "30万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「都江堰淘出800克狗头金 官方辟谣不实」，为农夫山泉策划生活方式内容，结合饮用水进行营销推广。将农夫山泉饮用水融入健康/积极的生活方式。"
-  },
-  {
-    "id": "hourly_1775420129_农夫山泉_144",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "食品饮料",
-      "products": [
-        "饮用水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "农夫山泉气泡水/饮用水 | 千亿级消费新引擎来了 经济消费升级...",
-    "platform": "抖音/小红书/微博",
-    "angle": "科普教育",
-    "hot_topic": "千亿级消费新引擎来了 经济消费升级",
-    "hot_topic_type": "消费热点",
-    "heat": "210万",
-    "trend": "🔥",
-    "product": "气泡水/饮用水",
-    "keywords": [
-      "农夫山泉",
-      "气泡水/饮用水",
-      "消费热点",
-      "科普教育"
-    ],
-    "quality_score": 0.91,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "42万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「千亿级消费新引擎来了 经济消费升级」，为农夫山泉策划科普教育内容，结合气泡水/饮用水进行营销推广。以专业知识建立品牌信任感。"
-  },
-  {
-    "id": "hourly_1775420129_农夫山泉_146",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "食品饮料",
-      "products": [
-        "饮用水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "农夫山泉饮用水/牛奶 | 清明节为啥不属农历属公历 网友科普讨论...",
-    "platform": "抖音/小红书/微博",
-    "angle": "生活方式",
-    "hot_topic": "清明节为啥不属农历属公历 网友科普讨论",
-    "hot_topic_type": "教育热点",
-    "heat": "190万",
-    "trend": "🔥",
-    "product": "饮用水/牛奶",
-    "keywords": [
-      "农夫山泉",
-      "饮用水/牛奶",
-      "教育热点",
-      "生活方式"
-    ],
-    "quality_score": 0.72,
-    "quality_level": "C级-合格",
-    "engagement_estimate": "38万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「清明节为啥不属农历属公历 网友科普讨论」，为农夫山泉策划生活方式内容，结合饮用水/牛奶进行营销推广。将农夫山泉饮用水/牛奶融入健康/积极的生活方式。"
-  },
-  {
-    "id": "hourly_1775420129_农夫山泉_157",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "食品饮料",
-      "products": [
-        "饮用水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "农夫山泉啤酒/茶饮/气泡水 | 胖东来再回应鸡蛋被检出角黄素...",
-    "platform": "抖音/小红书/微博",
-    "angle": "场景种草",
-    "hot_topic": "胖东来再回应鸡蛋被检出角黄素",
-    "hot_topic_type": "美食热点",
-    "heat": "220万",
-    "trend": "🔥",
-    "product": "啤酒/茶饮/气泡水",
-    "keywords": [
-      "农夫山泉",
-      "啤酒/茶饮/气泡水",
-      "美食热点",
-      "场景种草"
-    ],
-    "quality_score": 0.94,
-    "quality_level": "A级-优秀",
-    "engagement_estimate": "88万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「胖东来再回应鸡蛋被检出角黄素」，为农夫山泉策划场景种草内容，结合啤酒/茶饮/气泡水进行营销推广。用户在关注胖东来再回应鸡蛋被检出角黄素时，自然联想到农夫山泉啤酒/茶饮/气泡水的使用场景。"
-  },
-  {
-    "id": "hourly_1775420129_农夫山泉_187",
-    "client": {
-      "brand": "农夫山泉",
-      "industry": "食品饮料",
-      "products": [
-        "饮用水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "农夫山泉饮用水 | 烈士们的英名万古流芳 清明节全网缅怀...",
-    "platform": "抖音/小红书/微博",
-    "angle": "生活方式",
-    "hot_topic": "烈士们的英名万古流芳 清明节全网缅怀",
-    "hot_topic_type": "社会热点",
-    "heat": "520万",
-    "trend": "🔥",
-    "product": "饮用水",
-    "keywords": [
-      "农夫山泉",
-      "饮用水",
-      "社会热点",
-      "生活方式"
-    ],
-    "quality_score": 0.78,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "208万+",
-    "status": "pending",
-    "created_at": "2026-04-06T04:13:00",
-    "content": "基于热点「烈士们的英名万古流芳 清明节全网缅怀」，为农夫山泉策划生活方式内容，结合饮用水进行营销推广。将农夫山泉饮用水融入健康/积极的生活方式。"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_2",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林上海废品回收站惊现退役歼-6战的气泡水内容",
-    "platform": "微博/抖音/头条",
-    "angle": "知识科普",
-    "hot_topic": "上海废品回收站惊现退役歼-6战斗机",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "气泡水",
-    "keywords": [
-      "歼-6",
-      "战斗机",
-      "退役",
-      "上海"
-    ],
-    "quality_score": 0.82,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "75万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_6",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林人民日报评歌曲李白版权风波 \"的果汁内容",
-    "platform": "微博/抖音",
-    "angle": "产品种草",
-    "hot_topic": "人民日报评歌曲李白版权风波 \"又能怎\"引热议",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "果汁",
-    "keywords": [
-      "李白",
-      "版权",
-      "歌曲",
-      "人民日报"
-    ],
-    "quality_score": 0.85,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "39万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_10",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林8岁女孩清明节给妈妈扫墓展示奖的气泡水内容",
-    "platform": "抖音/微博",
-    "angle": "情感共鸣",
-    "hot_topic": "8岁女孩清明节给妈妈扫墓展示奖状",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "气泡水",
-    "keywords": [
-      "清明",
-      "扫墓",
-      "女孩",
-      "奖状"
-    ],
-    "quality_score": 0.88,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "88万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_15",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林水果为什么越来越甜了 科普揭秘的果汁内容",
-    "platform": "小红书/抖音",
-    "angle": "知识科普",
-    "hot_topic": "水果为什么越来越甜了 科普揭秘",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "果汁",
-    "keywords": [
-      "水果",
-      "甜度",
-      "科普",
-      "健康"
-    ],
-    "quality_score": 0.93,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "25万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_19",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林拼豆成为消费顶流 年轻人解压新的气泡水内容",
-    "platform": "小红书/抖音",
-    "angle": "产品种草",
-    "hot_topic": "拼豆成为消费顶流 年轻人解压新宠",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "气泡水",
-    "keywords": [
-      "拼豆",
-      "解压",
-      "年轻人",
-      "DIY"
-    ],
-    "quality_score": 0.91,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "34万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_23",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林澳门世界杯乒乓球女单四强全部出的茶饮内容",
-    "platform": "微博/抖音",
-    "angle": "场景植入",
-    "hot_topic": "澳门世界杯乒乓球女单四强全部出炉",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "茶饮",
-    "keywords": [
-      "乒乓球",
-      "澳门世界杯",
-      "王曼昱",
-      "王楚钦"
-    ],
-    "quality_score": 0.89,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "60万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_27",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林今麦郎1桶半是商标 网友热议产的茶饮内容",
-    "platform": "微博/抖音",
-    "angle": "知识科普",
-    "hot_topic": "今麦郎1桶半是商标 网友热议产品命名",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "茶饮",
-    "keywords": [
-      "今麦郎",
-      "商标",
-      "方便面",
-      "消费者"
-    ],
-    "quality_score": 0.8,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "49万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_31",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林小孩哥放春假在鱼档帮父母杀鱼的茶饮内容",
-    "platform": "抖音/微博",
-    "angle": "生活方式",
-    "hot_topic": "小孩哥放春假在鱼档帮父母杀鱼",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥🔥",
-    "product": "茶饮",
-    "keywords": [
-      "小孩",
-      "春假",
-      "鱼档",
-      "劳动教育"
-    ],
-    "quality_score": 0.87,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "52万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_39",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林春季户外露营热潮 周末好去处推的茶饮内容",
-    "platform": "小红书/抖音",
-    "angle": "生活方式",
-    "hot_topic": "春季户外露营热潮 周末好去处推荐",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥",
-    "product": "茶饮",
-    "keywords": [
-      "露营",
-      "春季",
-      "户外",
-      "旅游"
-    ],
-    "quality_score": 0.86,
-    "quality_level": "B级-良好",
-    "engagement_estimate": "61万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  },
-  {
-    "id": "hourly_202604050619_元气森林_43",
-    "client": {
-      "brand": "元气森林",
-      "industry": "饮品",
-      "products": [
-        "气泡水",
-        "茶饮",
-        "果汁"
-      ]
-    },
-    "title": "元气森林清明假期出行攻略 各地景点推荐的果汁内容",
-    "platform": "小红书/抖音",
-    "angle": "生活方式",
-    "hot_topic": "清明假期出行攻略 各地景点推荐",
-    "hot_topic_id": "",
-    "heat": "0亿",
-    "trend": "🔥🔥",
-    "product": "果汁",
-    "keywords": [
-      "清明",
-      "假期",
-      "旅游",
-      "景点"
-    ],
-    "quality_score": 0.87,
-    "quality_level": "A级-优质",
-    "engagement_estimate": "42万+",
-    "status": "pending",
-    "created_at": "2026-04-05T06:19:00"
-  }
-]
+    "
