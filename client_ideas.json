@@ -50551,5 +50551,485 @@
     "status": "pending",
     "created_at": "2026-04-07T04:29:22",
     "content": "结合热点「春季养生茶」，为农夫山泉策划DIY饮品内容。"
+  },
+  {
+    "id": "exp_202604070529_001",
+    "client": {
+      "brand": "清扬",
+      "industry": "美妆",
+      "products": [
+        "洗发水"
+      ]
+    },
+    "title": "清扬洗发水 | 早高峰挤地铁发型急救指南",
+    "platform": "小红书/抖音",
+    "angle": "场景营销",
+    "hot_topic": "春季头皮出油问题加剧",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "洗发水",
+    "keywords": [
+      "清扬",
+      "洗发水",
+      "通勤",
+      "头皮",
+      "控油",
+      "早起"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合早高峰通勤场景，展示清扬控油洗发水在拥挤地铁中的发型保持能力"
+  },
+  {
+    "id": "exp_202604070529_002",
+    "client": {
+      "brand": "罗技",
+      "industry": "消费电子",
+      "products": [
+        "键盘"
+      ]
+    },
+    "title": "罗技键盘 | 早起办公效率翻倍 外设选购指南",
+    "platform": "B站/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早起办公人群增加",
+    "hot_topic_type": "职场热点",
+    "heat": "4.5亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "键盘",
+    "keywords": [
+      "罗技",
+      "键盘",
+      "早起",
+      "办公",
+      "效率",
+      "外设"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合早起办公热点，推荐罗技键盘提升晨间工作效率"
+  },
+  {
+    "id": "exp_202604070529_003",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手表"
+      ]
+    },
+    "title": "荣耀手表 | 晨跑配速管理 5点早起健身新选择",
+    "platform": "抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "晨跑健身成为新时尚",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.6亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "手表",
+    "keywords": [
+      "荣耀",
+      "手表",
+      "晨跑",
+      "配速",
+      "健身",
+      "早起"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合春季晨跑热点，展示荣耀手表的GPS配速和心率监测功能"
+  },
+  {
+    "id": "exp_202604070529_004",
+    "client": {
+      "brand": "多芬",
+      "industry": "美妆",
+      "products": [
+        "沐浴露"
+      ]
+    },
+    "title": "多芬沐浴露 | 早起一杯热水澡 唤醒活力每一天",
+    "platform": "抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "早起族清晨习惯成热议",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.5亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "沐浴露",
+    "keywords": [
+      "多芬",
+      "沐浴露",
+      "早起",
+      "清晨",
+      "唤醒",
+      "活力"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合早起话题，用多芬沐浴露打造清晨唤醒仪式感"
+  },
+  {
+    "id": "exp_202604070529_005",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 早起减脂早餐搭配 0糖无负担",
+    "platform": "小红书/微博",
+    "angle": "场景种草",
+    "hot_topic": "春季减脂早餐食谱热传",
+    "hot_topic_type": "美食热点",
+    "heat": "4.7亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "早餐",
+      "减脂",
+      "0糖",
+      "健康"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合春季减脂和早起话题，推荐元气森林气泡水作为早餐解腻饮品"
+  },
+  {
+    "id": "exp_202604070529_006",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "复合维生素"
+      ]
+    },
+    "title": "汤臣倍健复合维生素 | 早起第一件事 科学补充维生素",
+    "platform": "小红书/抖音",
+    "angle": "专业场景",
+    "hot_topic": "春季维生素补充热潮",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.6亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "复合维生素",
+    "keywords": [
+      "汤臣倍健",
+      "维生素",
+      "早起",
+      "健康",
+      "补充",
+      "春季"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "105万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合春季养生热点，强调早起补充维生素的健康理念"
+  },
+  {
+    "id": "exp_202604070529_007",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 早起第一杯水 唤醒身体新一天",
+    "platform": "微博/小红书",
+    "angle": "生活方式",
+    "hot_topic": "早起健康习惯成热点",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.5亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "早起",
+      "健康",
+      "补水",
+      "习惯"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合早起健康习惯热点，突出农夫山泉作为早起第一杯水的品质"
+  },
+  {
+    "id": "exp_202604070529_008",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物",
+      "products": [
+        "猫粮"
+      ]
+    },
+    "title": "希宝猫粮 | 早起第一件事 给猫咪准备营养早餐",
+    "platform": "小红书/抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "宠物早餐时间管理成热议",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.5亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "猫粮",
+    "keywords": [
+      "希宝",
+      "猫粮",
+      "猫咪",
+      "早餐",
+      "早起",
+      "营养"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合早起和宠物话题，展示希宝猫粮作为猫咪早餐的营养配方"
+  },
+  {
+    "id": "exp_202604070529_009",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "耳机"
+      ]
+    },
+    "title": "小米耳机 | 早高峰通勤降噪神器 开启宁静一天",
+    "platform": "抖音/B站",
+    "angle": "场景种草",
+    "hot_topic": "降噪耳机成为通勤刚需",
+    "hot_topic_type": "数码热点",
+    "heat": "4.6亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "耳机",
+    "keywords": [
+      "小米",
+      "耳机",
+      "降噪",
+      "通勤",
+      "早高峰",
+      "宁静"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合早高峰通勤降噪需求，展示小米耳机的主动降噪功能"
+  },
+  {
+    "id": "exp_202604070529_010",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "精华"
+      ]
+    },
+    "title": "玉兰油精华 | 早起第一步护肤 春季抗氧化指南",
+    "platform": "小红书/微博",
+    "angle": "产品测评",
+    "hot_topic": "春季护肤步骤成热议",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.7亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "精华",
+    "keywords": [
+      "玉兰油",
+      "精华",
+      "早起",
+      "护肤",
+      "春季",
+      "抗氧化"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合春季护肤热点，强调早起第一步用玉兰油精华打底"
+  },
+  {
+    "id": "exp_202604070529_011",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "面膜"
+      ]
+    },
+    "title": "AHC面膜 | 早起5分钟急救 打造清爽出门妆",
+    "platform": "抖音/小红书",
+    "angle": "教程种草",
+    "hot_topic": "早起快速妆容成刚需",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "面膜",
+    "keywords": [
+      "AHC",
+      "面膜",
+      "早起",
+      "急救",
+      "妆容",
+      "快速"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合早起快速妆容需求，展示AHC面膜5分钟急救护肤效果"
+  },
+  {
+    "id": "exp_202604070529_012",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 早起DIY燕麦拿铁 开启能量满满一天",
+    "platform": "小红书/B站",
+    "angle": "DIY教程",
+    "hot_topic": "早餐饮品DIY成新趋势",
+    "hot_topic_type": "美食热点",
+    "heat": "4.5亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "早起",
+      "拿铁",
+      "DIY",
+      "早餐"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合早餐饮品DIY热点，用OATLY燕麦奶DIY燕麦拿铁"
+  },
+  {
+    "id": "exp_202604070529_013",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素"
+      ]
+    },
+    "title": "善存复合维生素 | 春季早起补充 增强免疫力",
+    "platform": "小红书/微博",
+    "angle": "痛点解决",
+    "hot_topic": "春季免疫力话题受关注",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.6亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "复合维生素",
+    "keywords": [
+      "善存",
+      "维生素",
+      "春季",
+      "免疫力",
+      "早起",
+      "健康"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合春季免疫力热点，推荐善存复合维生素增强体质"
+  },
+  {
+    "id": "exp_202604070529_014",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆",
+      "products": [
+        "护肤品"
+      ]
+    },
+    "title": "HC护肤品 | 早起敏感肌护理 温和护肤不刺激",
+    "platform": "小红书/抖音",
+    "angle": "产品测评",
+    "hot_topic": "春季敏感肌护理成刚需",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "护肤品",
+    "keywords": [
+      "HC",
+      "护肤品",
+      "敏感肌",
+      "早起",
+      "温和",
+      "春季"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合春季敏感肌热点，展示HC护肤品早起温和护肤方案"
+  },
+  {
+    "id": "exp_202604070529_015",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "狗粮"
+      ]
+    },
+    "title": "皇家狗粮 | 早起科学养宠 营养均衡从早餐开始",
+    "platform": "小红书/抖音",
+    "angle": "专业场景",
+    "hot_topic": "宠物营养早餐受关注",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.5亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "狗粮",
+    "keywords": [
+      "皇家",
+      "狗粮",
+      "养宠",
+      "营养",
+      "早餐",
+      "早起"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-07T05:29:00",
+    "content": "结合早起科学养宠热点，强调皇家狗粮的营养均衡配方"
   }
 ]
