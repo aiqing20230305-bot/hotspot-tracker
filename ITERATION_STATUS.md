@@ -10,17 +10,10 @@
 - XSS防护: 已修复 ✅
 - logic/trend字段: 已填充 ✅
 
-### 本次执行 (2026-04-06)
-- **热点数据合并**: 100→442条 ✅
-  - 来源: new_hotspots.json (342条)
-  - 去重: 无重复
-  - 数据质量: 442条均包含完整字段 ✅
-- **SKU场景**: 121个SKU, 4743个场景 ✅ (已验证数据完整性)
-- **选题数据合并**: 500→2598条 ✅
-  - 去重: 0条重复 (按title去重)
-  - 数据质量: 所有2598条均包含完整字段 ✅
-  - 覆盖类别: 美妆、母婴、数码、服装、食品、汽车、大健康、快消、家电等29个类别
-- 数据字段一致性: ✅ (id/client/title/platform/angle/hot_topic/heat/trend/product/keywords/quality_score/quality_level/engagement_estimate/status/created_at/content)
+### 本次执行 (2026-04-06 10:52)
+- **JSON修复**: hot_topics.json + client_ideas.json 损坏，已从Git恢复 ✅
+- **GitHub推送**: dec66b5 ✅
+- **数据状态**: 热点32条, 选题254条, 均需扩展
 
 ### 历史执行 (2026-04-05)
 - 热点数据扩展: 142→162条 ✅
