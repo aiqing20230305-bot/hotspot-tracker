@@ -214,6 +214,48 @@
     "isNew": true
   },
   {
+    "id": "ht_202604070113_001",
+    "title": "凌晨失眠话题冲上热搜 打工人睡眠焦虑引共鸣",
+    "hot_value": 485000000,
+    "platform": "微博/抖音",
+    "industries": [
+      "健康",
+      "职场"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "大健康热点",
+    "sentiment": "中性",
+    "keywords": [
+      "失眠",
+      "睡眠",
+      "焦虑",
+      "打工人",
+      "健康"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存",
+      "小米",
+      "荣耀"
+    ],
+    "created_at": "2026-04-07T01:13:00",
+    "rank": 6,
+    "category": "大健康热点",
+    "trend_tags": [
+      "#失眠",
+      "#睡眠焦虑",
+      "#打工人"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-07T01:13:00",
+    "heat": "4.9亿",
+    "logic": "凌晨时段失眠话题热度飙升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
     "id": "ht_202604070012_006",
     "title": "周末商场人流回升 清明特卖带动消费小高峰",
     "hot_value": 483000000,
@@ -241,7 +283,7 @@
       "力士"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 6,
+    "rank": 7,
     "category": "快消热点",
     "trend_tags": [
       "#周末逛街",
@@ -284,7 +326,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 7,
+    "rank": 8,
     "category": "科技热点",
     "trend_tags": [
       "#AI创作",
@@ -324,7 +366,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 8,
+    "rank": 9,
     "category": "母婴热点",
     "trend_tags": [
       "#宠物寄养",
@@ -337,6 +379,49 @@
     "logic": "宠物经济话题热度上升",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070113_002",
+    "title": "熬夜党必看 护肝产品搜索量凌晨激增",
+    "hot_value": 478000000,
+    "platform": "抖音/小红书",
+    "industries": [
+      "健康",
+      "美妆"
+    ],
+    "trends": [
+      "热",
+      "新"
+    ],
+    "type": "大健康热点",
+    "sentiment": "中性",
+    "keywords": [
+      "熬夜",
+      "护肝",
+      "养生",
+      "健康",
+      "年轻人"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存",
+      "AHC",
+      "玉兰油"
+    ],
+    "created_at": "2026-04-07T01:13:00",
+    "rank": 10,
+    "category": "大健康热点",
+    "trend_tags": [
+      "#熬夜党",
+      "#护肝",
+      "#养生"
+    ],
+    "url": "https://douyin.com",
+    "updated_at": "2026-04-07T01:13:00",
+    "heat": "4.8亿",
+    "logic": "熬夜人群健康关注上升",
+    "trend": "上升",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_009",
@@ -367,7 +452,7 @@
       "HC"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 9,
+    "rank": 11,
     "category": "美妆热点",
     "trend_tags": [
       "#春季护肤",
@@ -410,7 +495,7 @@
       "元气森林"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 10,
+    "rank": 12,
     "category": "大健康热点",
     "trend_tags": [
       "#周末运动",
@@ -423,6 +508,75 @@
     "logic": "健身运动话题热度上升",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_101",
+    "title": "春日限定唇釉试色 温柔豆沙色成2026年开春爆款",
+    "hot_value": 475000000,
+    "platform": "小红书",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "唇釉",
+      "豆沙色",
+      "试色",
+      "春日妆容"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 13,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#唇釉",
+      "#豆沙色",
+      "#试色"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.8亿",
+    "logic": "豆沙色系唇釉搜索量暴涨300%",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_185",
+    "title": "iPhone16系列爆料 全系高刷屏真的来了",
+    "hot_value": 473400000,
+    "platform": "微博",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "iPhone16",
+      "苹果",
+      "爆料"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 14,
+    "category": "数码热点",
+    "trend_tags": [
+      "#iPhone16",
+      "#苹果",
+      "#爆料"
+    ],
+    "url": "https://微博.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.7亿",
+    "logic": "iPhone新品爆料话题热度飙升",
+    "trend": "爆发",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_011",
@@ -451,7 +605,7 @@
       "OATLY"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 11,
+    "rank": 15,
     "category": "美食热点",
     "trend_tags": [
       "#青团推荐",
@@ -494,7 +648,7 @@
       "罗技"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 12,
+    "rank": 16,
     "category": "科技热点",
     "trend_tags": [
       "#AI眼镜",
@@ -505,6 +659,48 @@
     "updated_at": "2026-04-07T00:12:00",
     "heat": "4.7亿",
     "logic": "科技创新话题热度上升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070113_003",
+    "title": "深夜追剧必备零食清单 减脂党也能放心吃",
+    "hot_value": 472000000,
+    "platform": "小红书/抖音",
+    "industries": [
+      "美食",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美食热点",
+    "sentiment": "正面",
+    "keywords": [
+      "深夜零食",
+      "追剧",
+      "减脂",
+      "健康",
+      "低卡"
+    ],
+    "c": [
+      "元气森林",
+      "农夫山泉",
+      "OATLY",
+      "百威"
+    ],
+    "created_at": "2026-04-07T01:13:00",
+    "rank": 17,
+    "category": "美食热点",
+    "trend_tags": [
+      "#深夜零食",
+      "#追剧必备",
+      "#低卡"
+    ],
+    "url": "https://xiaohongshu.com",
+    "updated_at": "2026-04-07T01:13:00",
+    "heat": "4.7亿",
+    "logic": "深夜时段追剧零食话题热度上升",
     "trend": "上升",
     "isNew": true
   },
@@ -534,7 +730,7 @@
       "荣耀"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 13,
+    "rank": 18,
     "category": "汽车热点",
     "trend_tags": [
       "#新能源充电",
@@ -575,7 +771,7 @@
       "索尼"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 14,
+    "rank": 19,
     "category": "数码热点",
     "trend_tags": [
       "#智能家居",
@@ -616,7 +812,7 @@
       "皇家"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 15,
+    "rank": 20,
     "category": "母婴热点",
     "trend_tags": [
       "#宠物经济",
@@ -628,6 +824,40 @@
     "heat": "4.7亿",
     "logic": "宠物经济话题热度持续",
     "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_113",
+    "title": "早C晚A进阶版 敏感肌也能用的温和配方",
+    "hot_value": 466200000,
+    "platform": "小红书",
+    "industries": [
+      "护肤"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "护肤热点",
+    "sentiment": "中性",
+    "keywords": [
+      "早C晚A",
+      "敏感肌",
+      "护肤 routine"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 21,
+    "category": "护肤热点",
+    "trend_tags": [
+      "#早C晚A",
+      "#敏感肌",
+      "#护肤 routine"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.7亿",
+    "logic": "温和版早C晚A话题热度攀升",
+    "trend": "上升",
     "isNew": true
   },
   {
@@ -658,7 +888,7 @@
       "小米"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 16,
+    "rank": 22,
     "category": "娱乐热点",
     "trend_tags": [
       "#周末游戏",
@@ -702,7 +932,7 @@
       "善存"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 17,
+    "rank": 23,
     "category": "食品热点",
     "trend_tags": [
       "#春季减脂",
@@ -714,6 +944,117 @@
     "heat": "4.7亿",
     "logic": "健康关注话题热度上升",
     "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070113_004",
+    "title": "凌晨咖啡文化 夜班打工人续命指南",
+    "hot_value": 465000000,
+    "platform": "微博/小红书",
+    "industries": [
+      "美食",
+      "职场"
+    ],
+    "trends": [
+      "热",
+      "新"
+    ],
+    "type": "美食热点",
+    "sentiment": "中性",
+    "keywords": [
+      "咖啡",
+      "夜班",
+      "打工人",
+      "续命",
+      "职场"
+    ],
+    "c": [
+      "OATLY",
+      "元气森林",
+      "农夫山泉",
+      "百威"
+    ],
+    "created_at": "2026-04-07T01:13:00",
+    "rank": 24,
+    "category": "美食热点",
+    "trend_tags": [
+      "#夜班咖啡",
+      "#打工人续命",
+      "#深夜"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-07T01:13:00",
+    "heat": "4.7亿",
+    "logic": "夜班人群咖啡需求话题上升",
+    "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_150",
+    "title": "预制菜进校园争议 家长担忧营养与安全",
+    "hot_value": 464900000,
+    "platform": "微博",
+    "industries": [
+      "食品"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "食品热点",
+    "sentiment": "中性",
+    "keywords": [
+      "预制菜",
+      "校园",
+      "食品安全"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 25,
+    "category": "食品热点",
+    "trend_tags": [
+      "#预制菜",
+      "#校园",
+      "#食品安全"
+    ],
+    "url": "https://微博.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.6亿",
+    "logic": "预制菜话题引发社会关注",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_197",
+    "title": "AI绘画工具实测 Midjourney vs Stable Diffusion",
+    "hot_value": 464600000,
+    "platform": "B站",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "AI绘画",
+      "Midjourney",
+      "Stable Diffusion"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 26,
+    "category": "数码热点",
+    "trend_tags": [
+      "#AI绘画",
+      "#Midjourney",
+      "#Stable Diffusion"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.6亿",
+    "logic": "AI工具话题热度飙升",
+    "trend": "爆发",
     "isNew": true
   },
   {
@@ -744,7 +1085,7 @@
       "AHC"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 18,
+    "rank": 27,
     "category": "美妆热点",
     "trend_tags": [
       "#头皮护理",
@@ -784,7 +1125,7 @@
       "舒适"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 19,
+    "rank": 28,
     "category": "家居热点",
     "trend_tags": [
       "#节后清洁",
@@ -797,6 +1138,74 @@
     "logic": "家居生活需求旺盛",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_161",
+    "title": "帕梅拉新手友好版 零基础也能跟上的燃脂操",
+    "hot_value": 461000000,
+    "platform": "B站",
+    "industries": [
+      "健身"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "健身热点",
+    "sentiment": "中性",
+    "keywords": [
+      "帕梅拉",
+      "燃脂操",
+      "新手"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 29,
+    "category": "健身热点",
+    "trend_tags": [
+      "#帕梅拉",
+      "#燃脂操",
+      "#新手"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.6亿",
+    "logic": "帕梅拉健身视频热度飙升",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_102",
+    "title": "素颜霜3.0时代 养肤型素颜霜成懒人手残党救星",
+    "hot_value": 460100000,
+    "platform": "抖音",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "素颜霜",
+      "伪素颜",
+      "懒人妆容"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 30,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#素颜霜",
+      "#伪素颜",
+      "#懒人妆容"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.6亿",
+    "logic": "养肤素颜霜话题播放量破10亿",
+    "trend": "上升",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_020",
@@ -826,7 +1235,7 @@
       "农夫山泉"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 20,
+    "rank": 31,
     "category": "美食热点",
     "trend_tags": [
       "#周末咖啡",
@@ -839,6 +1248,75 @@
     "logic": "餐饮消费话题热度上升",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_191",
+    "title": "游戏本选购攻略 显卡CPU怎么搭配",
+    "hot_value": 459000000,
+    "platform": "抖音",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "游戏本",
+      "显卡",
+      "CPU",
+      "选购"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 32,
+    "category": "数码热点",
+    "trend_tags": [
+      "#游戏本",
+      "#显卡",
+      "#CPU"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.6亿",
+    "logic": "游戏本选购话题热度高",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_132",
+    "title": "儿童安全座椅立法 家长必看选购指南",
+    "hot_value": 458100000,
+    "platform": "微博",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "母婴热点",
+    "sentiment": "中性",
+    "keywords": [
+      "安全座椅",
+      "立法",
+      "儿童安全"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 33,
+    "category": "母婴热点",
+    "trend_tags": [
+      "#安全座椅",
+      "#立法",
+      "#儿童安全"
+    ],
+    "url": "https://微博.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.6亿",
+    "logic": "安全座椅立法引发关注",
+    "trend": "爆发",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_021",
@@ -866,7 +1344,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 21,
+    "rank": 34,
     "category": "母婴热点",
     "trend_tags": [
       "#科学养宠",
@@ -910,7 +1388,7 @@
       "荣耀"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 22,
+    "rank": 35,
     "category": "旅游热点",
     "trend_tags": [
       "#精致露营",
@@ -922,6 +1400,83 @@
     "heat": "4.6亿",
     "logic": "假期出游话题热度上升",
     "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070113_005",
+    "title": "春季护肤夜修法 熬夜肌急救攻略",
+    "hot_value": 458000000,
+    "platform": "小红书/抖音",
+    "industries": [
+      "美妆",
+      "护肤"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "正面",
+    "keywords": [
+      "熬夜肌",
+      "夜修",
+      "护肤",
+      "急救",
+      "春季"
+    ],
+    "c": [
+      "AHC",
+      "玉兰油",
+      "多芬",
+      "力士",
+      "HC"
+    ],
+    "created_at": "2026-04-07T01:13:00",
+    "rank": 36,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#熬夜肌",
+      "#夜修护肤",
+      "#春季护肤"
+    ],
+    "url": "https://xiaohongshu.com",
+    "updated_at": "2026-04-07T01:13:00",
+    "heat": "4.6亿",
+    "logic": "熬夜人群护肤需求上升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_173",
+    "title": "新手养猫指南 接猫回家前必做准备",
+    "hot_value": 457200000,
+    "platform": "小红书",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "新手养猫",
+      "接猫",
+      "养猫准备"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 37,
+    "category": "宠物热点",
+    "trend_tags": [
+      "#新手养猫",
+      "#接猫",
+      "#养猫准备"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.6亿",
+    "logic": "新手养猫话题热度飙升",
+    "trend": "爆发",
     "isNew": true
   },
   {
@@ -952,7 +1507,7 @@
       "玉兰油"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 23,
+    "rank": 38,
     "category": "大健康热点",
     "trend_tags": [
       "#护眼健康",
@@ -965,6 +1520,108 @@
     "logic": "健康关注、教育培训需求旺盛",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_110",
+    "title": "YSL新色口红试色 玫瑰豆沙色成断货王",
+    "hot_value": 455900000,
+    "platform": "微博",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "YSL",
+      "口红",
+      "豆沙色"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 39,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#YSL",
+      "#口红",
+      "#豆沙色"
+    ],
+    "url": "https://微博.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.6亿",
+    "logic": "新品口红发布引发抢购潮",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_149",
+    "title": "低卡零食推荐 减脂期也能吃的解馋好物",
+    "hot_value": 454800000,
+    "platform": "小红书",
+    "industries": [
+      "食品"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "食品热点",
+    "sentiment": "中性",
+    "keywords": [
+      "低卡零食",
+      "减脂",
+      "健康食品"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 40,
+    "category": "食品热点",
+    "trend_tags": [
+      "#低卡零食",
+      "#减脂",
+      "#健康食品"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "低卡零食话题热度飙升",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_195",
+    "title": "充电宝安全使用 这些品牌被召回",
+    "hot_value": 454400000,
+    "platform": "微博",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "充电宝",
+      "安全",
+      "召回"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 41,
+    "category": "数码热点",
+    "trend_tags": [
+      "#充电宝",
+      "#安全",
+      "#召回"
+    ],
+    "url": "https://微博.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "充电宝安全问题引发关注",
+    "trend": "爆发",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_024",
@@ -993,7 +1650,7 @@
       "索尼"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 24,
+    "rank": 42,
     "category": "科技热点",
     "trend_tags": [
       "#智能穿戴",
@@ -1006,6 +1663,142 @@
     "logic": "科技创新话题热度上升",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_139",
+    "title": "扫地机器人测评 2026年最值得买型号",
+    "hot_value": 453800000,
+    "platform": "B站",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "扫地机器人",
+      "测评",
+      "智能家居"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 43,
+    "category": "家居热点",
+    "trend_tags": [
+      "#扫地机器人",
+      "#测评",
+      "#智能家居"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "扫地机器人选购话题热度高",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_187",
+    "title": "真无线耳机横评 2026年最值得买型号",
+    "hot_value": 453600000,
+    "platform": "小红书",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "真无线耳机",
+      "横评",
+      "选购"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 44,
+    "category": "数码热点",
+    "trend_tags": [
+      "#真无线耳机",
+      "#横评",
+      "#选购"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "耳机选购话题热度攀升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_177",
+    "title": "流浪猫救助指南 如何科学投喂和TNR",
+    "hot_value": 452600000,
+    "platform": "微博",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "流浪猫",
+      "救助",
+      "TNR"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 45,
+    "category": "宠物热点",
+    "trend_tags": [
+      "#流浪猫",
+      "#救助",
+      "#TNR"
+    ],
+    "url": "https://微博.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "流浪动物救助话题引发关注",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_126",
+    "title": "辅食添加时间表 6-12月龄宝宝喂养指南",
+    "hot_value": 452500000,
+    "platform": "抖音",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "母婴热点",
+    "sentiment": "中性",
+    "keywords": [
+      "辅食",
+      "宝宝喂养",
+      "育儿知识"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 46,
+    "category": "母婴热点",
+    "trend_tags": [
+      "#辅食",
+      "#宝宝喂养",
+      "#育儿知识"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "辅食添加话题热度飙升",
+    "trend": "爆发",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_025",
@@ -1036,7 +1829,7 @@
       "HC"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 25,
+    "rank": 47,
     "category": "服装热点",
     "trend_tags": [
       "#春季妆容",
@@ -1077,7 +1870,7 @@
       "索尼"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 26,
+    "rank": 48,
     "category": "数码热点",
     "trend_tags": [
       "#智能家居",
@@ -1089,6 +1882,183 @@
     "heat": "4.5亿",
     "logic": "科技创新话题热度上升",
     "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_121",
+    "title": "国货护肤品崛起 珀莱雅双抗精华卖断货",
+    "hot_value": 452000000,
+    "platform": "微博",
+    "industries": [
+      "护肤"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "护肤热点",
+    "sentiment": "中性",
+    "keywords": [
+      "国货护肤",
+      "珀莱雅",
+      "双抗精华"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 49,
+    "category": "护肤热点",
+    "trend_tags": [
+      "#国货护肤",
+      "#珀莱雅",
+      "#双抗精华"
+    ],
+    "url": "https://微博.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "国货护肤品销量创新高",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070113_006",
+    "title": "智能手表睡眠监测功能受关注 数据焦虑引讨论",
+    "hot_value": 452000000,
+    "platform": "微博/抖音",
+    "industries": [
+      "科技",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "科技热点",
+    "sentiment": "中性",
+    "keywords": [
+      "智能手表",
+      "睡眠监测",
+      "数据焦虑",
+      "健康",
+      "科技"
+    ],
+    "c": [
+      "荣耀",
+      "小米",
+      "索尼"
+    ],
+    "created_at": "2026-04-07T01:13:00",
+    "rank": 50,
+    "category": "科技热点",
+    "trend_tags": [
+      "#智能手表",
+      "#睡眠监测",
+      "#数据焦虑"
+    ],
+    "url": "https://weibo.com",
+    "updated_at": "2026-04-07T01:13:00",
+    "heat": "4.5亿",
+    "logic": "智能穿戴设备健康功能受关注",
+    "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_167",
+    "title": "健身房避坑指南 新手办卡前必看",
+    "hot_value": 451600000,
+    "platform": "B站",
+    "industries": [
+      "健身"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健身热点",
+    "sentiment": "中性",
+    "keywords": [
+      "健身房",
+      "避坑",
+      "新手"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 51,
+    "category": "健身热点",
+    "trend_tags": [
+      "#健身房",
+      "#避坑",
+      "#新手"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "健身房消费陷阱话题热度高",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_105",
+    "title": "磁吸假睫毛测评 3秒上眼妆新手福音",
+    "hot_value": 450400000,
+    "platform": "抖音",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "爆"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "假睫毛",
+      "磁吸睫毛",
+      "新手化妆"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 52,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#假睫毛",
+      "#磁吸睫毛",
+      "#新手化妆"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "磁吸假睫毛话题热度飙升",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_154",
+    "title": "0糖饮料真的0糖吗 代糖健康风险解析",
+    "hot_value": 450300000,
+    "platform": "小红书",
+    "industries": [
+      "食品"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "食品热点",
+    "sentiment": "中性",
+    "keywords": [
+      "0糖",
+      "代糖",
+      "健康风险"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 53,
+    "category": "食品热点",
+    "trend_tags": [
+      "#0糖",
+      "#代糖",
+      "#健康风险"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "0糖饮料话题引发健康讨论",
+    "trend": "上升",
     "isNew": true
   },
   {
@@ -1119,7 +2089,7 @@
       "百威"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 27,
+    "rank": 54,
     "category": "旅游热点",
     "trend_tags": [
       "#周末宅酒店",
@@ -1132,6 +2102,108 @@
     "logic": "假期出游话题热度上升",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_192",
+    "title": "手机摄影技巧 用手机拍出大片感",
+    "hot_value": 449100000,
+    "platform": "小红书",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "手机摄影",
+      "拍照技巧",
+      "大片"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 55,
+    "category": "数码热点",
+    "trend_tags": [
+      "#手机摄影",
+      "#拍照技巧",
+      "#大片"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "手机摄影话题热度攀升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_188",
+    "title": "折叠屏手机耐用性测试 折痕问题解决了么",
+    "hot_value": 448700000,
+    "platform": "抖音",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "折叠屏",
+      "耐用性",
+      "折痕"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 56,
+    "category": "数码热点",
+    "trend_tags": [
+      "#折叠屏",
+      "#耐用性",
+      "#折痕"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "折叠屏手机话题热度高",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_137",
+    "title": "奶油风装修翻车案例 如何避免廉价感",
+    "hot_value": 448600000,
+    "platform": "小红书",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "奶油风",
+      "装修",
+      "避坑"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 57,
+    "category": "家居热点",
+    "trend_tags": [
+      "#奶油风",
+      "#装修",
+      "#避坑"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "奶油风装修避坑话题热度高",
+    "trend": "上升",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_028",
@@ -1158,7 +2230,7 @@
       "舒适"
     ],
     "created_at": "2026-04-06T15:00:00",
-    "rank": 28,
+    "rank": 58,
     "category": "数码热点",
     "trend_tags": [
       "#飞行",
@@ -1171,6 +2243,40 @@
     "logic": "数码相关话题热度上升",
     "trend": "上升",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_182",
+    "title": "猫砂测评 除臭结团哪款最强",
+    "hot_value": 448100000,
+    "platform": "小红书",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "猫砂",
+      "测评",
+      "除臭"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 59,
+    "category": "宠物热点",
+    "trend_tags": [
+      "#猫砂",
+      "#测评",
+      "#除臭"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "猫砂测评话题热度高",
+    "trend": "爆发",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_029",
@@ -1198,7 +2304,7 @@
       "善存"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 29,
+    "rank": 60,
     "category": "大健康热点",
     "trend_tags": [
       "#蛋白粉",
@@ -1241,7 +2347,7 @@
       "HC"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 30,
+    "rank": 61,
     "category": "美妆热点",
     "trend_tags": [
       "#春季护肤",
@@ -1253,6 +2359,74 @@
     "heat": "4.5亿",
     "logic": "美妆护肤话题热度上升",
     "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_130",
+    "title": "宝宝湿疹护理指南 皮肤科医生推荐方案",
+    "hot_value": 447900000,
+    "platform": "小红书",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "中性",
+    "keywords": [
+      "湿疹",
+      "宝宝护肤",
+      "医生推荐"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 62,
+    "category": "母婴热点",
+    "trend_tags": [
+      "#湿疹",
+      "#宝宝护肤",
+      "#医生推荐"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "婴儿湿疹护理话题热度高",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_175",
+    "title": "猫咪绝育最佳时间 术前术后护理要点",
+    "hot_value": 447400000,
+    "platform": "B站",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "猫咪绝育",
+      "护理",
+      "最佳时间"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 63,
+    "category": "宠物热点",
+    "trend_tags": [
+      "#猫咪绝育",
+      "#护理",
+      "#最佳时间"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "宠物绝育话题热度高",
+    "trend": "上升",
     "isNew": true
   },
   {
@@ -1283,7 +2457,7 @@
       "HC"
     ],
     "created_at": "2026-04-06T15:00:00",
-    "rank": 31,
+    "rank": 64,
     "category": "旅游热点",
     "trend_tags": [
       "#烘焙",
@@ -1296,6 +2470,108 @@
     "logic": "旅游相关话题热度上升",
     "trend": "下降",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_119",
+    "title": "刷酸后修复指南 避免烂脸的关键步骤",
+    "hot_value": 446800000,
+    "platform": "抖音",
+    "industries": [
+      "护肤"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "护肤热点",
+    "sentiment": "中性",
+    "keywords": [
+      "刷酸",
+      "修复",
+      "护肤步骤"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 65,
+    "category": "护肤热点",
+    "trend_tags": [
+      "#刷酸",
+      "#修复",
+      "#护肤步骤"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "刷酸修复话题热度飙升",
+    "trend": "爆发",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_168",
+    "title": "产后恢复训练 盆底肌腹直肌修复动作",
+    "hot_value": 446700000,
+    "platform": "小红书",
+    "industries": [
+      "健身"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健身热点",
+    "sentiment": "中性",
+    "keywords": [
+      "产后恢复",
+      "盆底肌",
+      "腹直肌"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 66,
+    "category": "健身热点",
+    "trend_tags": [
+      "#产后恢复",
+      "#盆底肌",
+      "#腹直肌"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "产后健身话题热度攀升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_163",
+    "title": "跑步膝盖疼怎么办 正确的跑步姿势教学",
+    "hot_value": 446200000,
+    "platform": "抖音",
+    "industries": [
+      "健身"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健身热点",
+    "sentiment": "中性",
+    "keywords": [
+      "跑步",
+      "膝盖保护",
+      "正确姿势"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 67,
+    "category": "健身热点",
+    "trend_tags": [
+      "#跑步",
+      "#膝盖保护",
+      "#正确姿势"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "跑步损伤预防话题热度高",
+    "trend": "上升",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_032",
@@ -1324,7 +2600,7 @@
       "罗技"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 32,
+    "rank": 68,
     "category": "娱乐热点",
     "trend_tags": [
       "#周末追剧",
@@ -1337,6 +2613,74 @@
     "logic": "娱乐休闲话题热度上升",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_111",
+    "title": "毛戈平改妆视频爆火 专业化妆师技巧揭秘",
+    "hot_value": 446000000,
+    "platform": "抖音",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "毛戈平",
+      "改妆",
+      "化妆技巧"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 69,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#毛戈平",
+      "#改妆",
+      "#化妆技巧"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "专业化妆师改妆视频热度高",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_159",
+    "title": "功能性食品走红 益生菌软糖真的有效吗",
+    "hot_value": 445800000,
+    "platform": "小红书",
+    "industries": [
+      "食品"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "食品热点",
+    "sentiment": "中性",
+    "keywords": [
+      "功能性食品",
+      "益生菌",
+      "软糖"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 70,
+    "category": "食品热点",
+    "trend_tags": [
+      "#功能性食品",
+      "#益生菌",
+      "#软糖"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "功能性食品话题热度飙升",
+    "trend": "爆发",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_033",
@@ -1367,7 +2711,7 @@
       "元气森林"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 33,
+    "rank": 71,
     "category": "大健康热点",
     "trend_tags": [
       "#城市骑行",
@@ -1378,6 +2722,83 @@
     "updated_at": "2026-04-07T00:12:00",
     "heat": "4.5亿",
     "logic": "健身运动话题热度上升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_151",
+    "title": "空气炸锅食谱大全 懒人快手菜合集",
+    "hot_value": 445000000,
+    "platform": "抖音",
+    "industries": [
+      "食品"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "食品热点",
+    "sentiment": "中性",
+    "keywords": [
+      "空气炸锅",
+      "食谱",
+      "快手菜"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 72,
+    "category": "食品热点",
+    "trend_tags": [
+      "#空气炸锅",
+      "#食谱",
+      "#快手菜"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.5亿",
+    "logic": "空气炸锅食谱热度持续",
+    "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070113_007",
+    "title": "深夜办公装备推荐 远程打工人效率神器",
+    "hot_value": 445000000,
+    "platform": "抖音/小红书",
+    "industries": [
+      "科技",
+      "职场"
+    ],
+    "trends": [
+      "热",
+      "新"
+    ],
+    "type": "科技热点",
+    "sentiment": "正面",
+    "keywords": [
+      "深夜办公",
+      "远程办公",
+      "效率",
+      "装备",
+      "神器"
+    ],
+    "c": [
+      "荣耀",
+      "小米",
+      "罗技",
+      "索尼"
+    ],
+    "created_at": "2026-04-07T01:13:00",
+    "rank": 73,
+    "category": "科技热点",
+    "trend_tags": [
+      "#深夜办公",
+      "#远程办公",
+      "#效率神器"
+    ],
+    "url": "https://douyin.com",
+    "updated_at": "2026-04-07T01:13:00",
+    "heat": "4.5亿",
+    "logic": "深夜办公场景需求上升",
     "trend": "上升",
     "isNew": true
   },
@@ -1406,7 +2827,7 @@
       "皇家"
     ],
     "created_at": "2026-04-06T15:00:00",
-    "rank": 34,
+    "rank": 74,
     "category": "母婴热点",
     "trend_tags": [
       "#母婴",
@@ -1419,6 +2840,74 @@
     "logic": "母婴相关话题热度上升",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_146",
+    "title": "床垫选购指南 弹簧vs乳胶vs记忆棉",
+    "hot_value": 444500000,
+    "platform": "抖音",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "床垫",
+      "选购",
+      "睡眠质量"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 75,
+    "category": "家居热点",
+    "trend_tags": [
+      "#床垫",
+      "#选购",
+      "#睡眠质量"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "床垫选购话题热度攀升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_193",
+    "title": "智能家居生态对比 米家vs华为vs苹果",
+    "hot_value": 444200000,
+    "platform": "B站",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "智能家居",
+      "生态对比",
+      "米家华为苹果"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 76,
+    "category": "数码热点",
+    "trend_tags": [
+      "#智能家居",
+      "#生态对比",
+      "#米家华为苹果"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "智能家居生态话题持续热门",
+    "trend": "稳定",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_035",
@@ -1447,7 +2936,7 @@
       "力士"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 35,
+    "rank": 77,
     "category": "美妆热点",
     "trend_tags": [
       "#电动牙刷",
@@ -1460,6 +2949,210 @@
     "logic": "美妆护肤话题热度上升",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_140",
+    "title": "除甲醛最有效方法 通风vs活性炭vs光触媒",
+    "hot_value": 443900000,
+    "platform": "小红书",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "除甲醛",
+      "装修后",
+      "健康"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 78,
+    "category": "家居热点",
+    "trend_tags": [
+      "#除甲醛",
+      "#装修后",
+      "#健康"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "除甲醛方法话题持续受关注",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_186",
+    "title": "机械键盘选购指南 轴体怎么选",
+    "hot_value": 443500000,
+    "platform": "B站",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "机械键盘",
+      "轴体",
+      "选购"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 79,
+    "category": "数码热点",
+    "trend_tags": [
+      "#机械键盘",
+      "#轴体",
+      "#选购"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "机械键盘选购话题持续热门",
+    "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_135",
+    "title": "宝宝疫苗接种时间表 新手爸妈必收藏",
+    "hot_value": 443400000,
+    "platform": "小红书",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "中性",
+    "keywords": [
+      "疫苗",
+      "接种",
+      "新手爸妈"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 80,
+    "category": "母婴热点",
+    "trend_tags": [
+      "#疫苗",
+      "#接种",
+      "#新手爸妈"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "疫苗接种科普内容热度高",
+    "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_180",
+    "title": "自制猫饭食谱 健康又省钱的喂养方式",
+    "hot_value": 442900000,
+    "platform": "B站",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "自制猫饭",
+      "食谱",
+      "健康喂养"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 81,
+    "category": "宠物热点",
+    "trend_tags": [
+      "#自制猫饭",
+      "#食谱",
+      "#健康喂养"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "自制宠物食品话题热度攀升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_125",
+    "title": "新生儿睡眠训练法 让宝宝睡整觉的秘密",
+    "hot_value": 442400000,
+    "platform": "小红书",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "中性",
+    "keywords": [
+      "新生儿",
+      "睡眠训练",
+      "育儿"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 82,
+    "category": "母婴热点",
+    "trend_tags": [
+      "#新生儿",
+      "#睡眠训练",
+      "#育儿"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "婴儿睡眠话题热度攀升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_174",
+    "title": "狗粮选购攻略 成分表怎么看",
+    "hot_value": 442300000,
+    "platform": "抖音",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "狗粮",
+      "选购",
+      "成分表"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 83,
+    "category": "宠物热点",
+    "trend_tags": [
+      "#狗粮",
+      "#选购",
+      "#成分表"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "狗粮选购话题热度攀升",
+    "trend": "上升",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_036",
@@ -1489,7 +3182,7 @@
       "农夫山泉"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 36,
+    "rank": 84,
     "category": "食品热点",
     "trend_tags": [
       "#植物奶",
@@ -1531,7 +3224,7 @@
       "百威"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 37,
+    "rank": 85,
     "category": "美食热点",
     "trend_tags": [
       "#早八人",
@@ -1543,6 +3236,177 @@
     "heat": "4.4亿",
     "logic": "餐饮消费话题热度上升",
     "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_165",
+    "title": "瑜伽入门体式 每天10分钟改善体态",
+    "hot_value": 441400000,
+    "platform": "小红书",
+    "industries": [
+      "健身"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健身热点",
+    "sentiment": "中性",
+    "keywords": [
+      "瑜伽",
+      "入门",
+      "体态改善"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 86,
+    "category": "健身热点",
+    "trend_tags": [
+      "#瑜伽",
+      "#入门",
+      "#体态改善"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "瑜伽入门话题热度攀升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_114",
+    "title": "以油养肤新思路 精华油叠加面霜法",
+    "hot_value": 441300000,
+    "platform": "抖音",
+    "industries": [
+      "护肤"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "护肤热点",
+    "sentiment": "中性",
+    "keywords": [
+      "以油养肤",
+      "精华油",
+      "护肤方法"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 87,
+    "category": "护肤热点",
+    "trend_tags": [
+      "#以油养肤",
+      "#精华油",
+      "#护肤方法"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "精华油使用方法创新引发讨论",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_103",
+    "title": "韩系水光肌妆容教程 清透底妆秘诀全网疯传",
+    "hot_value": 440200000,
+    "platform": "B站",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "水光肌",
+      "韩系妆容",
+      "底妆"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 88,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#水光肌",
+      "#韩系妆容",
+      "#底妆"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "水光肌相关教程视频播放量激增",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_153",
+    "title": "国产咖啡品牌崛起 瑞幸库迪价格战背后",
+    "hot_value": 440200000,
+    "platform": "微博",
+    "industries": [
+      "食品"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "食品热点",
+    "sentiment": "中性",
+    "keywords": [
+      "咖啡",
+      "瑞幸",
+      "库迪",
+      "国货"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 89,
+    "category": "食品热点",
+    "trend_tags": [
+      "#咖啡",
+      "#瑞幸",
+      "#库迪"
+    ],
+    "url": "https://微博.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "国产咖啡品牌竞争话题热度高",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_199",
+    "title": "AI写作工具实测 哪款最适合打工人",
+    "hot_value": 440100000,
+    "platform": "B站",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "AI写作",
+      "效率工具",
+      "打工人"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:40",
+    "rank": 90,
+    "category": "数码热点",
+    "trend_tags": [
+      "#AI写作",
+      "#效率工具",
+      "#打工人"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:40",
+    "heat": "4.4亿",
+    "logic": "AI工具效率话题热度飙升",
+    "trend": "爆发",
     "isNew": true
   },
   {
@@ -1572,7 +3436,7 @@
       "荣耀"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 38,
+    "rank": 91,
     "category": "数码热点",
     "trend_tags": [
       "#电竞外设",
@@ -1585,6 +3449,74 @@
     "logic": "游戏娱乐、科技创新需求旺盛",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_190",
+    "title": "智能手表健康监测 血氧心率睡眠数据准吗",
+    "hot_value": 438900000,
+    "platform": "小红书",
+    "industries": [
+      "数码"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "数码热点",
+    "sentiment": "中性",
+    "keywords": [
+      "智能手表",
+      "健康监测",
+      "数据准确性"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 92,
+    "category": "数码热点",
+    "trend_tags": [
+      "#智能手表",
+      "#健康监测",
+      "#数据准确性"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "智能手表健康功能话题持续",
+    "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_138",
+    "title": "小户型收纳神器 空间利用率翻倍技巧",
+    "hot_value": 438700000,
+    "platform": "抖音",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "收纳",
+      "小户型",
+      "空间利用"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 93,
+    "category": "家居热点",
+    "trend_tags": [
+      "#收纳",
+      "#小户型",
+      "#空间利用"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "小户型收纳话题热度攀升",
+    "trend": "上升",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_039",
@@ -1612,7 +3544,7 @@
       "皇家"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 39,
+    "rank": 94,
     "category": "母婴热点",
     "trend_tags": [
       "#宠物领养",
@@ -1653,7 +3585,7 @@
       "清扬"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 40,
+    "rank": 95,
     "category": "家居热点",
     "trend_tags": [
       "#春季大扫除",
@@ -1664,6 +3596,150 @@
     "updated_at": "2026-04-07T00:12:00",
     "heat": "4.4亿",
     "logic": "家居生活需求旺盛",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070113_008",
+    "title": "凌晨健身人群增加 夜跑族安全指南",
+    "hot_value": 438000000,
+    "platform": "抖音/小红书",
+    "industries": [
+      "健身",
+      "健康"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "大健康热点",
+    "sentiment": "正面",
+    "keywords": [
+      "凌晨健身",
+      "夜跑",
+      "安全",
+      "健康",
+      "运动"
+    ],
+    "c": [
+      "汤臣倍健",
+      "善存",
+      "农夫山泉",
+      "元气森林"
+    ],
+    "created_at": "2026-04-07T01:13:00",
+    "rank": 96,
+    "category": "大健康热点",
+    "trend_tags": [
+      "#凌晨健身",
+      "#夜跑",
+      "#运动安全"
+    ],
+    "url": "https://douyin.com",
+    "updated_at": "2026-04-07T01:13:00",
+    "heat": "4.4亿",
+    "logic": "深夜健身人群增加话题上升",
+    "trend": "稳定",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_129",
+    "title": "早教班有必要吗 0-3岁早教真相揭秘",
+    "hot_value": 437800000,
+    "platform": "抖音",
+    "industries": [
+      "母婴"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "母婴热点",
+    "sentiment": "中性",
+    "keywords": [
+      "早教",
+      "育儿观念",
+      "0-3岁"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 97,
+    "category": "母婴热点",
+    "trend_tags": [
+      "#早教",
+      "#育儿观念",
+      "#0-3岁"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "早教必要性话题引发讨论",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_176",
+    "title": "宠物智能用品推荐 自动喂食器饮水机测评",
+    "hot_value": 437500000,
+    "platform": "小红书",
+    "industries": [
+      "宠物"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "宠物热点",
+    "sentiment": "中性",
+    "keywords": [
+      "宠物智能",
+      "自动喂食器",
+      "测评"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 98,
+    "category": "宠物热点",
+    "trend_tags": [
+      "#宠物智能",
+      "#自动喂食器",
+      "#测评"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "宠物智能用品话题热度攀升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_170",
+    "title": "跳绳减肥真的有效吗 一个月能瘦多少",
+    "hot_value": 436900000,
+    "platform": "B站",
+    "industries": [
+      "健身"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健身热点",
+    "sentiment": "中性",
+    "keywords": [
+      "跳绳",
+      "减肥",
+      "运动效果"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 99,
+    "category": "健身热点",
+    "trend_tags": [
+      "#跳绳",
+      "#减肥",
+      "#运动效果"
+    ],
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "跳绳减肥话题热度攀升",
     "trend": "上升",
     "isNew": true
   },
@@ -1694,7 +3770,7 @@
       "百威"
     ],
     "created_at": "2026-04-06T15:00:00",
-    "rank": 41,
+    "rank": 100,
     "category": "汽车热点",
     "trend_tags": [
       "#旅行",
@@ -1707,6 +3783,74 @@
     "logic": "汽车相关话题热度上升",
     "trend": "下降",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_118",
+    "title": "抗初老精华推荐 25+女生护肤重点",
+    "hot_value": 436700000,
+    "platform": "小红书",
+    "industries": [
+      "护肤"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "护肤热点",
+    "sentiment": "中性",
+    "keywords": [
+      "抗初老",
+      "精华",
+      "25岁护肤"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 101,
+    "category": "护肤热点",
+    "trend_tags": [
+      "#抗初老",
+      "#精华",
+      "#25岁护肤"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "抗初老话题热度持续攀升",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_162",
+    "title": "居家健身器材推荐 小户型也能拥有健身房",
+    "hot_value": 436100000,
+    "platform": "小红书",
+    "industries": [
+      "健身"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "健身热点",
+    "sentiment": "中性",
+    "keywords": [
+      "健身器材",
+      "居家",
+      "小户型"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 102,
+    "category": "健身热点",
+    "trend_tags": [
+      "#健身器材",
+      "#居家",
+      "#小户型"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "居家健身话题热度攀升",
+    "trend": "上升",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_042",
@@ -1735,7 +3879,7 @@
       "HC"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 42,
+    "rank": 103,
     "category": "美妆热点",
     "trend_tags": [
       "#成分党",
@@ -1748,6 +3892,74 @@
     "logic": "美妆护肤话题热度上升",
     "trend": "稳定",
     "isNew": false
+  },
+  {
+    "id": "ht_202604070026_106",
+    "title": "多巴胺妆容回潮 彩色眼线笔销量暴涨",
+    "hot_value": 435500000,
+    "platform": "小红书",
+    "industries": [
+      "美妆"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "美妆热点",
+    "sentiment": "中性",
+    "keywords": [
+      "多巴胺",
+      "彩色眼线",
+      "创意妆"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 104,
+    "category": "美妆热点",
+    "trend_tags": [
+      "#多巴胺",
+      "#彩色眼线",
+      "#创意妆"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "多巴胺妆容春夏再度流行",
+    "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_156",
+    "title": "轻食沙拉搭配公式 减脂餐也能很好吃",
+    "hot_value": 435500000,
+    "platform": "小红书",
+    "industries": [
+      "食品"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "食品热点",
+    "sentiment": "中性",
+    "keywords": [
+      "轻食",
+      "沙拉",
+      "减脂餐"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 105,
+    "category": "食品热点",
+    "trend_tags": [
+      "#轻食",
+      "#沙拉",
+      "#减脂餐"
+    ],
+    "url": "https://小红书.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.4亿",
+    "logic": "轻食搭配话题热度攀升",
+    "trend": "上升",
+    "isNew": true
   },
   {
     "id": "ht_202604070012_043",
@@ -1777,7 +3989,7 @@
       "荣耀"
     ],
     "created_at": "2026-04-07T00:12:00",
-    "rank": 43,
+    "rank": 106,
     "category": "数码热点",
     "trend_tags": [
       "#电竞外设",
@@ -1789,6 +4001,40 @@
     "heat": "4.4亿",
     "logic": "游戏娱乐话题热度上升",
     "trend": "上升",
+    "isNew": true
+  },
+  {
+    "id": "ht_202604070026_144",
+    "title": "断舍离收纳法 日本整理师技巧分享",
+    "hot_value": 434300000,
+    "platform": "抖音",
+    "industries": [
+      "家居"
+    ],
+    "trends": [
+      "热"
+    ],
+    "type": "家居热点",
+    "sentiment": "中性",
+    "keywords": [
+      "断舍离",
+      "收纳",
+      "整理"
+    ],
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 107,
+    "category": "家居热点",
+    "trend_tags": [
+      "#断舍离",
+      "#收纳",
+      "#整理"
+    ],
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.3亿",
+    "logic": "断舍离收纳话题持续热门",
+    "trend": "稳定",
     "isNew": true
   },
   {
@@ -1819,7 +4065,7 @@
       "小米"
     ],
     "created_at": "2026-04-04T09:36:00",
-    "rank": 44,
+    "rank": 108,
     "category": "旅游热点",
     "trend_tags": [
       "#旅行收纳",
@@ -1834,2273 +4080,71 @@
     "isNew": false
   },
   {
-    "id": "ht_202604070012_045",
-    "title": "科学饮水理念普及 电解质水和无糖茶成运动补水首选",
-    "hot_value": 432000000,
-    "platform": "抖音/小红书",
+    "id": "ht_202604070026_189",
+    "title": "NAS入门搭建指南 打造私人云存储",
+    "hot_value": 433800000,
+    "platform": "B站",
     "industries": [
-      "食品",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "食品热点",
-    "sentiment": "正面",
-    "keywords": [
-      "饮水",
-      "电解质水",
-      "无糖茶",
-      "健康",
-      "补水"
-    ],
-    "c": [
-      "元气森林",
-      "农夫山泉",
-      "OATLY"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 45,
-    "category": "食品热点",
-    "trend_tags": [
-      "#科学饮水",
-      "#电解质水",
-      "#健康补水"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.3亿",
-    "logic": "食品饮料话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_046",
-    "title": "植物基饮品持续升温 OATLY引领健康新风尚",
-    "hot_value": 432000000,
-    "platform": "小红书/微博",
-    "industries": [
-      "食品",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "食品热点",
-    "sentiment": "正面",
-    "keywords": [
-      "植物基",
-      "燕麦奶",
-      "健康",
-      "OATLY",
-      "环保"
-    ],
-    "c": [
-      "OATLY",
-      "元气森林",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-07T00:12:00",
-    "rank": 46,
-    "category": "食品热点",
-    "trend_tags": [
-      "#植物基",
-      "#燕麦奶",
-      "#健康饮品"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-07T00:12:00",
-    "heat": "4.3亿",
-    "logic": "食品饮料话题热度上升",
-    "trend": "稳定",
-    "isNew": true
-  },
-  {
-    "id": "ht_202604070012_047",
-    "title": "春季足球消费旺季 团队运动促销活动热闹非凡",
-    "hot_value": 430441402,
-    "platform": "微博/抖音",
-    "industries": [
-      "教育",
-      "培训"
-    ],
-    "trends": [
-      "爆",
-      "新"
-    ],
-    "type": "教育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "足球",
-      "团队运动",
-      "周末"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 47,
-    "category": "教育热点",
-    "trend_tags": [
-      "#足球",
-      "#团队运动",
-      "#热门话题"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "4.3亿",
-    "logic": "教育相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_048",
-    "title": "智能小家电需求旺盛 空气炸锅扫地机器人成刚需",
-    "hot_value": 430000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "家居",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居热点",
-    "sentiment": "正面",
-    "keywords": [
-      "智能家电",
-      "空气炸锅",
-      "扫地机器人",
-      "家居",
-      "科技"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 48,
-    "category": "家居热点",
-    "trend_tags": [
-      "#智能家电",
-      "#空气炸锅",
-      "#家居好物"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.3亿",
-    "logic": "家居生活话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_049",
-    "title": "周末约会经济升温 餐饮电影成为情侣消费主力",
-    "hot_value": 428000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "娱乐",
-      "消费"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "快消热点",
-    "sentiment": "正面",
-    "keywords": [
-      "约会",
-      "周末",
-      "情侣",
-      "餐饮",
-      "电影"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林",
-      "百威"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 49,
-    "category": "快消热点",
-    "trend_tags": [
-      "#周末约会",
-      "#情侣消费",
-      "#约会经济"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.3亿",
-    "logic": "娱乐休闲话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_050",
-    "title": "睡眠经济崛起 助眠产品市场持续扩容",
-    "hot_value": 428000000,
-    "platform": "小红书/微博",
-    "industries": [
-      "健康",
-      "家居"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "大健康热点",
-    "sentiment": "正面",
-    "keywords": [
-      "睡眠",
-      "助眠",
-      "健康",
-      "失眠",
-      "养生"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存",
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-07T00:12:00",
-    "rank": 50,
-    "category": "大健康热点",
-    "trend_tags": [
-      "#睡眠经济",
-      "#助眠",
-      "#健康睡眠"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-07T00:12:00",
-    "heat": "4.3亿",
-    "logic": "健康关注话题热度上升",
-    "trend": "上升",
-    "isNew": true
-  },
-  {
-    "id": "ht_202604070012_051",
-    "title": "周末在线学习需求旺盛 知识付费平台用户活跃",
-    "hot_value": 426000000,
-    "platform": "微博/抖音",
-    "industries": [
-      "教育",
-      "互联网"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "教育热点",
-    "sentiment": "正面",
-    "keywords": [
-      "在线学习",
-      "知识付费",
-      "周末",
-      "教育",
-      "平台"
-    ],
-    "c": [
-      "荣耀",
-      "小米",
-      "罗技"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 51,
-    "category": "教育热点",
-    "trend_tags": [
-      "#在线学习",
-      "#知识付费",
-      "#周末充电"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.3亿",
-    "logic": "教育培训话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_052",
-    "title": "男士护肤市场快速增长 男性美妆成新蓝海",
-    "hot_value": 425000000,
-    "platform": "小红书/抖音",
-    "industries": [
-      "美妆",
-      "个护"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "美妆热点",
-    "sentiment": "正面",
-    "keywords": [
-      "男士护肤",
-      "男性美妆",
-      "护肤",
-      "理容",
-      "美妆"
-    ],
-    "c": [
-      "清扬",
-      "多芬",
-      "力士",
-      "舒适",
-      "AHC"
-    ],
-    "created_at": "2026-04-07T00:12:00",
-    "rank": 52,
-    "category": "美妆热点",
-    "trend_tags": [
-      "#男士护肤",
-      "#男性美妆",
-      "#理容"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-07T00:12:00",
-    "heat": "4.3亿",
-    "logic": "美妆护肤话题热度上升",
-    "trend": "上升",
-    "isNew": true
-  },
-  {
-    "id": "ht_202604070012_053",
-    "title": "环保理念深入人心 清洁与家居清洁成消费新选择",
-    "hot_value": 424906831,
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "清洁",
-      "家居清洁",
-      "热门"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 53,
-    "category": "娱乐热点",
-    "trend_tags": [
-      "#清洁",
-      "#家居清洁",
-      "#热门话题"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "4.2亿",
-    "logic": "娱乐相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_054",
-    "title": "男士理容市场快速增长 剃须刀和护肤品成新蓝海",
-    "hot_value": 424000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "美妆",
-      "个护"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "美妆热点",
-    "sentiment": "正面",
-    "keywords": [
-      "男士",
-      "理容",
-      "剃须",
-      "护肤",
-      "美妆"
-    ],
-    "c": [
-      "舒适",
-      "清扬",
-      "多芬",
-      "力士"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 54,
-    "category": "美妆热点",
-    "trend_tags": [
-      "#男士理容",
-      "#剃须护肤",
-      "#男性美妆"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.2亿",
-    "logic": "美妆护肤话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_055",
-    "title": "低糖低卡饮品持续流行 无糖气泡水成年轻人首选",
-    "hot_value": 422000000,
-    "platform": "小红书/抖音",
-    "industries": [
-      "食品",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "食品热点",
-    "sentiment": "正面",
-    "keywords": [
-      "无糖",
-      "气泡水",
-      "低糖",
-      "饮品",
-      "健康"
-    ],
-    "c": [
-      "元气森林",
-      "农夫山泉",
-      "OATLY"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 55,
-    "category": "食品热点",
-    "trend_tags": [
-      "#无糖饮品",
-      "#气泡水",
-      "#低糖生活"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.2亿",
-    "logic": "食品饮料、健康关注需求旺盛",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_056",
-    "title": "无糖茶饮市场竞争白热化 头部品牌大打健康牌",
-    "hot_value": 422000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "食品",
-      "饮料"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "食品热点",
-    "sentiment": "中性",
-    "keywords": [
-      "无糖茶",
-      "茶饮",
-      "健康",
-      "竞争",
-      "品牌"
-    ],
-    "c": [
-      "元气森林",
-      "农夫山泉",
-      "OATLY"
-    ],
-    "created_at": "2026-04-07T00:12:00",
-    "rank": 56,
-    "category": "食品热点",
-    "trend_tags": [
-      "#无糖茶饮",
-      "#健康饮品",
-      "#茶饮市场"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-07T00:12:00",
-    "heat": "4.2亿",
-    "logic": "食品饮料需求旺盛",
-    "trend": "稳定",
-    "isNew": true
-  },
-  {
-    "id": "ht_202604070012_057",
-    "title": "周末拍照打卡带火摄影器材 微单和手机云台销量攀升",
-    "hot_value": 420000000,
-    "platform": "抖音/小红书",
-    "industries": [
-      "科技",
-      "摄影"
+      "数码"
     ],
     "trends": [
       "热"
     ],
     "type": "数码热点",
-    "sentiment": "正面",
-    "keywords": [
-      "摄影",
-      "拍照",
-      "微单",
-      "云台",
-      "打卡"
-    ],
-    "c": [
-      "索尼",
-      "荣耀",
-      "小米"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 57,
-    "category": "数码热点",
-    "trend_tags": [
-      "#摄影器材",
-      "#周末拍照",
-      "#打卡装备"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.2亿",
-    "logic": "科技创新话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_058",
-    "title": "新式茶饮市场竞争白热化 头部品牌大打价格战",
-    "hot_value": 418000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "食品",
-      "餐饮"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "食品热点",
     "sentiment": "中性",
     "keywords": [
-      "茶饮",
-      "新式茶饮",
-      "竞争",
-      "价格战",
-      "品牌"
+      "NAS",
+      "云存储",
+      "搭建"
     ],
-    "c": [
-      "元气森林",
-      "农夫山泉",
-      "OATLY"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 58,
-    "category": "食品热点",
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 109,
+    "category": "数码热点",
     "trend_tags": [
-      "#新式茶饮",
-      "#茶饮品牌",
-      "#价格战"
+      "#NAS",
+      "#云存储",
+      "#搭建"
     ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.2亿",
-    "logic": "食品饮料需求旺盛",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_059",
-    "title": "智能手表健康监测功能升级 心电图检测成标配",
-    "hot_value": 418000000,
-    "platform": "微博/抖音",
-    "industries": [
-      "科技",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "智能手表",
-      "健康监测",
-      "心电图",
-      "穿戴设备",
-      "科技"
-    ],
-    "c": [
-      "荣耀",
-      "小米",
-      "索尼"
-    ],
-    "created_at": "2026-04-07T00:12:00",
-    "rank": 59,
-    "category": "科技热点",
-    "trend_tags": [
-      "#智能手表",
-      "#健康监测",
-      "#心电图"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-07T00:12:00",
-    "heat": "4.2亿",
-    "logic": "科技创新话题热度上升",
-    "trend": "稳定",
-    "isNew": true
-  },
-  {
-    "id": "ht_202604070012_060",
-    "title": "春季漂流消费旺季 水上探险促销活动热闹非凡",
-    "hot_value": 416950552,
-    "platform": "抖音/小红书",
-    "industries": [
-      "健康",
-      "医疗"
-    ],
-    "trends": [
-      "爆",
-      "新"
-    ],
-    "type": "大健康热点",
-    "sentiment": "正面",
-    "keywords": [
-      "漂流",
-      "水上探险",
-      "春季"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 60,
-    "category": "大健康热点",
-    "trend_tags": [
-      "#漂流",
-      "#水上探险",
-      "#热门话题"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "4.2亿",
-    "logic": "健康相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_061",
-    "title": "睡眠经济持续升温 助眠产品和智能床垫受追捧",
-    "hot_value": 416000000,
-    "platform": "小红书/微博",
-    "industries": [
-      "健康",
-      "家居"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "大健康热点",
-    "sentiment": "正面",
-    "keywords": [
-      "睡眠",
-      "助眠",
-      "床垫",
-      "健康",
-      "智能"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 61,
-    "category": "大健康热点",
-    "trend_tags": [
-      "#睡眠经济",
-      "#助眠好物",
-      "#健康睡眠"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.2亿",
-    "logic": "健康关注话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_062",
-    "title": "周末市集文化升温 文创产品成年轻人消费新宠",
-    "hot_value": 415000000,
-    "platform": "小红书/抖音",
-    "industries": [
-      "文创",
-      "消费"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "快消热点",
-    "sentiment": "正面",
-    "keywords": [
-      "市集",
-      "文创",
-      "周末",
-      "消费",
-      "年轻人"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林",
-      "百威"
-    ],
-    "created_at": "2026-04-07T00:12:00",
-    "rank": 62,
-    "category": "快消热点",
-    "trend_tags": [
-      "#市集文化",
-      "#文创",
-      "#周末消费"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-07T00:12:00",
-    "heat": "4.2亿",
-    "logic": "娱乐休闲话题热度上升",
+    "url": "https://b站.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.3亿",
+    "logic": "NAS搭建话题热度攀升",
     "trend": "上升",
     "isNew": true
   },
   {
-    "id": "ht_202604070012_063",
-    "title": "数字人民币应用场景持续扩展 更多城市支持刷手机乘车",
-    "hot_value": 414000000,
-    "platform": "微博/抖音",
+    "id": "ht_202604070026_134",
+    "title": "产后修复是智商税吗 盆底肌修复真相",
+    "hot_value": 433300000,
+    "platform": "抖音",
     "industries": [
-      "科技",
-      "金融"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "数字人民币",
-      "移动支付",
-      "科技",
-      "便民",
-      "出行"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 63,
-    "category": "科技热点",
-    "trend_tags": [
-      "#数字人民币",
-      "#移动支付",
-      "#智慧出行"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.1亿",
-    "logic": "科技创新需求旺盛",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_064",
-    "title": "周末户外用餐需求旺盛 露台餐酒吧成聚会首选",
-    "hot_value": 412000000,
-    "platform": "小红书/抖音",
-    "industries": [
-      "美食",
-      "餐饮"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "美食热点",
-    "sentiment": "正面",
-    "keywords": [
-      "户外用餐",
-      "露台",
-      "餐酒吧",
-      "聚会",
-      "周末"
-    ],
-    "c": [
-      "百威",
-      "元气森林",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 64,
-    "category": "美食热点",
-    "trend_tags": [
-      "#户外用餐",
-      "#露台餐厅",
-      "#周末聚会"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.1亿",
-    "logic": "餐饮消费话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_065",
-    "title": "春季养生茶热销 药食同源概念受追捧",
-    "hot_value": 412000000,
-    "platform": "小红书/微博",
-    "industries": [
-      "食品",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "食品热点",
-    "sentiment": "正面",
-    "keywords": [
-      "养生茶",
-      "药食同源",
-      "春季",
-      "健康",
-      "养生"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-07T00:12:00",
-    "rank": 65,
-    "category": "食品热点",
-    "trend_tags": [
-      "#养生茶",
-      "#药食同源",
-      "#春季养生"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-07T00:12:00",
-    "heat": "4.1亿",
-    "logic": "健康关注话题热度上升",
-    "trend": "上升",
-    "isNew": true
-  },
-  {
-    "id": "ht_202604070012_066",
-    "title": "宠物美容服务持续走俏 专业宠物SPA馆遍地开花",
-    "hot_value": 410000000,
-    "platform": "抖音/小红书",
-    "industries": [
-      "宠物",
-      "服务"
+      "母婴"
     ],
     "trends": [
       "热"
     ],
     "type": "母婴热点",
-    "sentiment": "正面",
+    "sentiment": "中性",
     "keywords": [
-      "宠物美容",
-      "SPA",
-      "猫咪",
-      "狗狗",
-      "服务"
+      "产后修复",
+      "盆底肌",
+      "智商税"
     ],
-    "c": [
-      "希宝",
-      "皇家"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 66,
+    "c": [],
+    "created_at": "2026-04-07T00:26:22",
+    "rank": 110,
     "category": "母婴热点",
     "trend_tags": [
-      "#宠物美容",
-      "#宠物SPA",
-      "#养宠生活"
+      "#产后修复",
+      "#盆底肌",
+      "#智商税"
     ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.1亿",
-    "logic": "宠物经济话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_067",
-    "title": "春季防晒意识增强 SPF50+防晒产品搜索量上涨",
-    "hot_value": 408000000,
-    "platform": "小红书/微博",
-    "industries": [
-      "美妆",
-      "护肤"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆热点",
-    "sentiment": "正面",
-    "keywords": [
-      "防晒",
-      "SPF50",
-      "春季",
-      "护肤",
-      "紫外线"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "多芬",
-      "力士"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 67,
-    "category": "美妆热点",
-    "trend_tags": [
-      "#春季防晒",
-      "#SPF50",
-      "#防晒霜"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.1亿",
-    "logic": "美妆护肤话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_068",
-    "title": "洗地机成家居清洁新刚需 智能清洁赛道持续扩容",
-    "hot_value": 408000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "家居",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居热点",
-    "sentiment": "正面",
-    "keywords": [
-      "洗地机",
-      "清洁",
-      "智能",
-      "家居",
-      "科技"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "威猛先生"
-    ],
-    "created_at": "2026-04-07T00:12:00",
-    "rank": 68,
-    "category": "家居热点",
-    "trend_tags": [
-      "#洗地机",
-      "#智能清洁",
-      "#家居好物"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-07T00:12:00",
-    "heat": "4.1亿",
-    "logic": "家居生活话题热度上升",
-    "trend": "稳定",
+    "url": "https://抖音.com",
+    "updated_at": "2026-04-07T00:26:22",
+    "heat": "4.3亿",
+    "logic": "产后修复话题引发热议",
+    "trend": "上升",
     "isNew": true
-  },
-  {
-    "id": "ht_202604070012_069",
-    "title": "银发经济崛起 播客与音频内容市场潜力大",
-    "hot_value": 406766836,
-    "platform": "微博/小红书",
-    "industries": [
-      "零售",
-      "消费"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "快消热点",
-    "sentiment": "负面",
-    "keywords": [
-      "播客",
-      "音频内容",
-      "消费"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 69,
-    "category": "快消热点",
-    "trend_tags": [
-      "#播客",
-      "#音频内容",
-      "#消费趋势"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "4.1亿",
-    "logic": "零售相关话题热度上升",
-    "trend": "下降",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_070",
-    "title": "互联网+摄影 影像器材线上化进程加速",
-    "hot_value": 406108558,
-    "platform": "小红书/微博",
-    "industries": [
-      "时尚",
-      "服装"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "服装热点",
-    "sentiment": "负面",
-    "keywords": [
-      "摄影",
-      "影像器材",
-      "春季"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 70,
-    "category": "服装热点",
-    "trend_tags": [
-      "#摄影",
-      "#影像器材",
-      "#消费趋势"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "4.1亿",
-    "logic": "时尚相关话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_071",
-    "title": "健康零食赛道持续火热 每日坚果和蛋白棒成爆款",
-    "hot_value": 406000000,
-    "platform": "抖音/小红书",
-    "industries": [
-      "食品",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美食热点",
-    "sentiment": "正面",
-    "keywords": [
-      "健康零食",
-      "每日坚果",
-      "蛋白棒",
-      "零食",
-      "健康"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存",
-      "OATLY"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 71,
-    "category": "美食热点",
-    "trend_tags": [
-      "#健康零食",
-      "#每日坚果",
-      "#代餐零食"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.1亿",
-    "logic": "食品饮料话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_072",
-    "title": "节假日睡眠需求旺盛 助眠产品行业迎来小高峰",
-    "hot_value": 404348155,
-    "platform": "小红书/抖音",
-    "industries": [
-      "美妆",
-      "护肤"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "美妆热点",
-    "sentiment": "正面",
-    "keywords": [
-      "睡眠",
-      "助眠产品",
-      "热门"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 72,
-    "category": "美妆热点",
-    "trend_tags": [
-      "#睡眠",
-      "#助眠产品",
-      "#生活新方式"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "4.0亿",
-    "logic": "美妆相关话题热度上升",
-    "trend": "下降",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_073",
-    "title": "智能安防产品走入千家万户 智能门锁普及率提升",
-    "hot_value": 404000000,
-    "platform": "微博/抖音",
-    "industries": [
-      "家居",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居热点",
-    "sentiment": "正面",
-    "keywords": [
-      "智能门锁",
-      "安防",
-      "智能家居",
-      "安全",
-      "科技"
-    ],
-    "c": [
-      "小米",
-      "荣耀"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 73,
-    "category": "家居热点",
-    "trend_tags": [
-      "#智能门锁",
-      "#家庭安防",
-      "#智能家居"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.0亿",
-    "logic": "家居生活话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_074",
-    "title": "周末听歌时长创新高 无损音质耳机成音乐爱好者刚需",
-    "hot_value": 402000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "娱乐",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "正面",
-    "keywords": [
-      "音乐",
-      "耳机",
-      "无损音质",
-      "周末",
-      "流媒体"
-    ],
-    "c": [
-      "索尼",
-      "荣耀",
-      "罗技"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 74,
-    "category": "娱乐热点",
-    "trend_tags": [
-      "#无损音乐",
-      "#耳机推荐",
-      "#周末听歌"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.0亿",
-    "logic": "娱乐休闲话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_075",
-    "title": "露营经济持续火爆 天幕帐篷等装备销量倍增",
-    "hot_value": 400000000,
-    "platform": "抖音/小红书",
-    "industries": [
-      "旅游",
-      "户外"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "旅游热点",
-    "sentiment": "正面",
-    "keywords": [
-      "露营",
-      "天幕",
-      "帐篷",
-      "户外",
-      "装备"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林",
-      "百威"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 75,
-    "category": "旅游热点",
-    "trend_tags": [
-      "#露营装备",
-      "#户外生活",
-      "#帐篷推荐"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.0亿",
-    "logic": "假期出游、户外运动需求旺盛",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_076",
-    "title": "周末越野经济升温 户外探险消费成新趋势",
-    "hot_value": 398789341,
-    "platform": "抖音/小红书",
-    "industries": [
-      "零售",
-      "消费"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "快消热点",
-    "sentiment": "中性",
-    "keywords": [
-      "越野",
-      "户外探险",
-      "消费"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 76,
-    "category": "快消热点",
-    "trend_tags": [
-      "#越野",
-      "#户外探险",
-      "#热门话题"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "4.0亿",
-    "logic": "零售相关话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_077",
-    "title": "春季过敏性结膜炎高发 眼科医院迎来就诊高峰",
-    "hot_value": 398000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "健康",
-      "医疗"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "大健康热点",
-    "sentiment": "中性",
-    "keywords": [
-      "过敏",
-      "结膜炎",
-      "春季",
-      "眼睛",
-      "健康"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存",
-      "AHC",
-      "玉兰油"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 77,
-    "category": "大健康热点",
-    "trend_tags": [
-      "#春季过敏",
-      "#结膜炎",
-      "#眼睛健康"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.0亿",
-    "logic": "健康关注话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_078",
-    "title": "周末厨房成为社交新场景 朋友圈晒厨艺成潮流",
-    "hot_value": 396000000,
-    "platform": "小红书/抖音",
-    "industries": [
-      "美食",
-      "社交"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "美食热点",
-    "sentiment": "正面",
-    "keywords": [
-      "厨房",
-      "周末",
-      "厨艺",
-      "社交",
-      "晒图"
-    ],
-    "c": [
-      "OATLY",
-      "元气森林",
-      "农夫山泉"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 78,
-    "category": "美食热点",
-    "trend_tags": [
-      "#周末下厨",
-      "#厨艺分享",
-      "#厨房社交"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "4.0亿",
-    "logic": "餐饮消费话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_079",
-    "title": "洗地机成家居清洁新刚需 智能清洁赛道持续扩容",
-    "hot_value": 394000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "家居",
-      "科技"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居热点",
-    "sentiment": "正面",
-    "keywords": [
-      "洗地机",
-      "清洁",
-      "智能",
-      "家居",
-      "科技"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "威猛先生"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 79,
-    "category": "家居热点",
-    "trend_tags": [
-      "#洗地机",
-      "#智能清洁",
-      "#家居好物"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "3.9亿",
-    "logic": "家居生活话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_080",
-    "title": "陶艺品牌年轻化 手工艺术营销策略不断创新",
-    "hot_value": 393059878,
-    "platform": "小红书/微博",
-    "industries": [
-      "教育",
-      "培训"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "教育热点",
-    "sentiment": "负面",
-    "keywords": [
-      "陶艺",
-      "手工艺术",
-      "消费"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 80,
-    "category": "教育热点",
-    "trend_tags": [
-      "#陶艺",
-      "#手工艺术",
-      "#热门话题"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.9亿",
-    "logic": "教育相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_081",
-    "title": "周末亲子时光受重视 室内游乐场和绘本馆生意火爆",
-    "hot_value": 392000000,
-    "platform": "抖音/小红书",
-    "industries": [
-      "母婴",
-      "娱乐"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "母婴热点",
-    "sentiment": "正面",
-    "keywords": [
-      "亲子",
-      "周末",
-      "游乐场",
-      "绘本",
-      "遛娃"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林",
-      "希宝"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 81,
-    "category": "母婴热点",
-    "trend_tags": [
-      "#亲子周末",
-      "#遛娃好去处",
-      "#室内游乐"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "3.9亿",
-    "logic": "母婴育儿话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_082",
-    "title": "春季过敏高发带动空气净化器热销 除甲醛需求同步上升",
-    "hot_value": 390000000,
-    "platform": "微博/小红书",
-    "industries": [
-      "家居",
-      "健康"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "家居热点",
-    "sentiment": "正面",
-    "keywords": [
-      "空气净化器",
-      "过敏",
-      "除甲醛",
-      "春季",
-      "家居"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "汤臣倍健"
-    ],
-    "created_at": "2026-04-04T09:36:00",
-    "rank": 82,
-    "category": "家居热点",
-    "trend_tags": [
-      "#空气净化器",
-      "#除甲醛",
-      "#春季过敏"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-04T09:36:00",
-    "heat": "3.9亿",
-    "logic": "家居生活话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_083",
-    "title": "酒吧技术革新 社交场所智能化程度提升",
-    "hot_value": 381271917,
-    "platform": "小红书/抖音",
-    "industries": [
-      "旅游",
-      "出行"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "旅游热点",
-    "sentiment": "负面",
-    "keywords": [
-      "酒吧",
-      "社交场所",
-      "春季"
-    ],
-    "c": [
-      "希宝",
-      "皇家"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 83,
-    "category": "旅游热点",
-    "trend_tags": [
-      "#酒吧",
-      "#社交场所",
-      "#消费趋势"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.8亿",
-    "logic": "旅游相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_084",
-    "title": "消费者健康意识觉醒 空手道与冲绳武道成新宠",
-    "hot_value": 379755403,
-    "platform": "微博/抖音",
-    "industries": [
-      "科技",
-      "AI"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "科技热点",
-    "sentiment": "正面",
-    "keywords": [
-      "空手道",
-      "冲绳武道",
-      "热门"
-    ],
-    "c": [
-      "希宝",
-      "皇家"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 84,
-    "category": "科技热点",
-    "trend_tags": [
-      "#空手道",
-      "#冲绳武道",
-      "#生活新方式"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.8亿",
-    "logic": "科技相关话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_085",
-    "title": "社交媒体助力滑雪 冬季运动话题热度持续攀升",
-    "hot_value": 375638149,
-    "platform": "微博/B站",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "负面",
-    "keywords": [
-      "滑雪",
-      "冬季运动",
-      "流行"
-    ],
-    "c": [
-      "希宝",
-      "皇家"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 85,
-    "category": "娱乐热点",
-    "trend_tags": [
-      "#滑雪",
-      "#冬季运动",
-      "#消费趋势"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.8亿",
-    "logic": "娱乐相关话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_086",
-    "title": "周末展览经济升温 艺术鉴赏消费成新趋势",
-    "hot_value": 374676319,
-    "platform": "小红书/微博",
-    "industries": [
-      "汽车",
-      "新能源"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "汽车热点",
-    "sentiment": "负面",
-    "keywords": [
-      "展览",
-      "艺术鉴赏",
-      "周末"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "多芬",
-      "力士",
-      "HC"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 86,
-    "category": "汽车热点",
-    "trend_tags": [
-      "#展览",
-      "#艺术鉴赏",
-      "#消费趋势"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.7亿",
-    "logic": "汽车相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_087",
-    "title": "乒乓球消费场景拓展 休闲运动迎来新增长点",
-    "hot_value": 369248173,
-    "platform": "微博/小红书",
-    "industries": [
-      "零售",
-      "消费"
-    ],
-    "trends": [
-      "新",
-      "爆"
-    ],
-    "type": "快消热点",
-    "sentiment": "负面",
-    "keywords": [
-      "乒乓球",
-      "休闲运动",
-      "流行"
-    ],
-    "c": [
-      "清扬",
-      "威猛先生",
-      "舒适"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 87,
-    "category": "快消热点",
-    "trend_tags": [
-      "#乒乓球",
-      "#休闲运动",
-      "#生活新方式"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.7亿",
-    "logic": "零售相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_088",
-    "title": "咖啡市场竞争加剧 头部品牌精品文化策略引关注",
-    "hot_value": 367861216,
-    "platform": "小红书/微博",
-    "industries": [
-      "母婴",
-      "亲子"
-    ],
-    "trends": [
-      "热",
-      "新"
-    ],
-    "type": "母婴热点",
-    "sentiment": "负面",
-    "keywords": [
-      "咖啡",
-      "精品文化",
-      "周末"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林",
-      "OATLY",
-      "百威"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 88,
-    "category": "母婴热点",
-    "trend_tags": [
-      "#咖啡",
-      "#精品文化",
-      "#生活新方式"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.7亿",
-    "logic": "母婴相关话题热度上升",
-    "trend": "下降",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_089",
-    "title": "攀岩消费年轻化 Z世代极限运动偏好明显",
-    "hot_value": 366116964,
-    "platform": "微博/抖音",
-    "industries": [
-      "旅游",
-      "出行"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "旅游热点",
-    "sentiment": "中性",
-    "keywords": [
-      "攀岩",
-      "极限运动",
-      "周末"
-    ],
-    "c": [
-      "清扬",
-      "威猛先生",
-      "舒适"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 89,
-    "category": "旅游热点",
-    "trend_tags": [
-      "#攀岩",
-      "#极限运动",
-      "#生活新方式"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.7亿",
-    "logic": "旅游相关话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_090",
-    "title": "图书馆品牌年轻化 知识海洋营销策略不断创新",
-    "hot_value": 361166690,
-    "platform": "微博/小红书",
-    "industries": [
-      "数码",
-      "电子"
-    ],
-    "trends": [
-      "热",
-      "爆"
-    ],
-    "type": "数码热点",
-    "sentiment": "负面",
-    "keywords": [
-      "图书馆",
-      "知识海洋",
-      "消费"
-    ],
-    "c": [
-      "小米",
-      "荣耀",
-      "索尼",
-      "罗技"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 90,
-    "category": "数码热点",
-    "trend_tags": [
-      "#图书馆",
-      "#知识海洋",
-      "#热门话题"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.6亿",
-    "logic": "数码相关话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_091",
-    "title": "减肥消费升级 用户对身材管理要求更高",
-    "hot_value": 359335556,
-    "platform": "B站/微博",
-    "industries": [
-      "数码",
-      "电子"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "数码热点",
-    "sentiment": "负面",
-    "keywords": [
-      "减肥",
-      "身材管理",
-      "流行"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "多芬",
-      "力士",
-      "HC"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 91,
-    "category": "数码热点",
-    "trend_tags": [
-      "#减肥",
-      "#身材管理",
-      "#生活新方式"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.6亿",
-    "logic": "数码相关话题热度上升",
-    "trend": "下降",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_092",
-    "title": "消费者健康意识觉醒 咖啡与精品咖啡馆成新宠",
-    "hot_value": 356852960,
-    "platform": "小红书/微博",
-    "industries": [
-      "时尚",
-      "服装"
-    ],
-    "trends": [
-      "新",
-      "热"
-    ],
-    "type": "服装热点",
-    "sentiment": "中性",
-    "keywords": [
-      "咖啡",
-      "精品咖啡馆",
-      "春季"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "多芬",
-      "力士",
-      "HC"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 92,
-    "category": "服装热点",
-    "trend_tags": [
-      "#咖啡",
-      "#精品咖啡馆",
-      "#热门话题"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.6亿",
-    "logic": "时尚相关话题热度上升",
-    "trend": "下降",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_093",
-    "title": "甜品细分市场崛起 甜蜜时光垂直领域受关注",
-    "hot_value": 354975518,
-    "platform": "小红书/抖音",
-    "industries": [
-      "家居",
-      "生活"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "家居热点",
-    "sentiment": "负面",
-    "keywords": [
-      "甜品",
-      "甜蜜时光",
-      "流行"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林",
-      "OATLY",
-      "百威"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 93,
-    "category": "家居热点",
-    "trend_tags": [
-      "#甜品",
-      "#甜蜜时光",
-      "#消费趋势"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.5亿",
-    "logic": "家居相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_094",
-    "title": "音乐体验式消费兴起 音频设备场景化营销受追捧",
-    "hot_value": 341900343,
-    "platform": "微博/小红书",
-    "industries": [
-      "家居",
-      "生活"
-    ],
-    "trends": [
-      "新",
-      "热"
-    ],
-    "type": "家居热点",
-    "sentiment": "中性",
-    "keywords": [
-      "音乐",
-      "音频设备",
-      "春季"
-    ],
-    "c": [
-      "清扬",
-      "威猛先生",
-      "舒适"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 94,
-    "category": "家居热点",
-    "trend_tags": [
-      "#音乐",
-      "#音频设备",
-      "#消费趋势"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.4亿",
-    "logic": "家居相关话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_095",
-    "title": "攀岩创新升级 用户对垂直挑战期待值攀升",
-    "hot_value": 338426897,
-    "platform": "微博/抖音",
-    "industries": [
-      "教育",
-      "培训"
-    ],
-    "trends": [
-      "新",
-      "爆"
-    ],
-    "type": "教育热点",
-    "sentiment": "中性",
-    "keywords": [
-      "攀岩",
-      "垂直挑战",
-      "热门"
-    ],
-    "c": [
-      "清扬",
-      "威猛先生",
-      "舒适"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 95,
-    "category": "教育热点",
-    "trend_tags": [
-      "#攀岩",
-      "#垂直挑战",
-      "#消费趋势"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.4亿",
-    "logic": "教育相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_096",
-    "title": "周末休闲方式升级 市场带动市集文化消费增长",
-    "hot_value": 324131968,
-    "platform": "微博/小红书",
-    "industries": [
-      "健康",
-      "医疗"
-    ],
-    "trends": [
-      "新"
-    ],
-    "type": "大健康热点",
-    "sentiment": "负面",
-    "keywords": [
-      "市场",
-      "市集文化",
-      "消费"
-    ],
-    "c": [
-      "农夫山泉",
-      "元气森林",
-      "OATLY",
-      "百威"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 96,
-    "category": "大健康热点",
-    "trend_tags": [
-      "#市场",
-      "#市集文化",
-      "#生活新方式"
-    ],
-    "url": "https://xiaohongshu.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.2亿",
-    "logic": "健康相关话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_097",
-    "title": "环保理念深入人心 攀岩与极限运动成消费新选择",
-    "hot_value": 314397380,
-    "platform": "小红书/微博",
-    "industries": [
-      "时尚",
-      "服装"
-    ],
-    "trends": [
-      "新",
-      "爆"
-    ],
-    "type": "服装热点",
-    "sentiment": "正面",
-    "keywords": [
-      "攀岩",
-      "极限运动",
-      "春季"
-    ],
-    "c": [
-      "希宝",
-      "皇家"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 97,
-    "category": "服装热点",
-    "trend_tags": [
-      "#攀岩",
-      "#极限运动",
-      "#热门话题"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.1亿",
-    "logic": "时尚相关话题热度上升",
-    "trend": "下降",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_098",
-    "title": "年轻消费者青睐技能培训 职业发展市场快速扩张",
-    "hot_value": 310020755,
-    "platform": "微博/小红书",
-    "industries": [
-      "美食",
-      "餐饮"
-    ],
-    "trends": [
-      "爆",
-      "热"
-    ],
-    "type": "美食热点",
-    "sentiment": "正面",
-    "keywords": [
-      "技能培训",
-      "职业发展",
-      "周末"
-    ],
-    "c": [
-      "AHC",
-      "玉兰油",
-      "多芬",
-      "力士",
-      "HC"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 98,
-    "category": "美食热点",
-    "trend_tags": [
-      "#技能培训",
-      "#职业发展",
-      "#生活新方式"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.1亿",
-    "logic": "美食相关话题热度上升",
-    "trend": "上升",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_099",
-    "title": "防晒技术革新 护肤防晒智能化程度提升",
-    "hot_value": 307986658,
-    "platform": "微博/抖音",
-    "industries": [
-      "娱乐",
-      "影视"
-    ],
-    "trends": [
-      "爆"
-    ],
-    "type": "娱乐热点",
-    "sentiment": "中性",
-    "keywords": [
-      "防晒",
-      "护肤防晒",
-      "春季"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 99,
-    "category": "娱乐热点",
-    "trend_tags": [
-      "#防晒",
-      "#护肤防晒",
-      "#热门话题"
-    ],
-    "url": "https://weibo.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.1亿",
-    "logic": "娱乐相关话题热度上升",
-    "trend": "稳定",
-    "isNew": false
-  },
-  {
-    "id": "ht_202604070012_100",
-    "title": "滑雪消费年轻化 Z世代冰雪旅游偏好明显",
-    "hot_value": 300737601,
-    "platform": "微博/抖音",
-    "industries": [
-      "汽车",
-      "新能源"
-    ],
-    "trends": [
-      "热"
-    ],
-    "type": "汽车热点",
-    "sentiment": "正面",
-    "keywords": [
-      "滑雪",
-      "冰雪旅游",
-      "流行"
-    ],
-    "c": [
-      "汤臣倍健",
-      "善存"
-    ],
-    "created_at": "2026-04-06T15:00:00",
-    "rank": 100,
-    "category": "汽车热点",
-    "trend_tags": [
-      "#滑雪",
-      "#冰雪旅游",
-      "#热门话题"
-    ],
-    "url": "https://douyin.com",
-    "updated_at": "2026-04-06T15:00:00",
-    "heat": "3.0亿",
-    "logic": "汽车相关话题热度上升",
-    "trend": "下降",
-    "isNew": false
   }
 ]

@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>🔥 热点追踪 - 特赞内容运营平台</title>
+    <title>热点追踪 - 实时热搜监控与选题分析平台 | 特赞内容运营</title>
+    <meta name="description" content="实时监控抖音、微博、小红书等平台热搜榜单，智能分析热点趋势，自动匹配可借势客户，助力内容创作与选题决策。">
+    <meta name="keywords" content="热点追踪,热搜监控,抖音热搜,微博热搜,小红书热搜,选题分析,内容运营,特赞">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -2770,6 +2772,123 @@
                 height: 280px;
             }
         }
+        
+        /* ========== 页面底部数据统计 ========== */
+        .page-stats-section {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 24px;
+            margin-top: 32px;
+            border: 1px solid var(--border-color);
+        }
+        .page-stats-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .page-stats-title {
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .page-stats-time {
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+        .page-stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+            margin-bottom: 20px;
+        }
+        @media (max-width: 640px) {
+            .page-stats-grid {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+        }
+        .page-stats-card {
+            background: linear-gradient(135deg, var(--gray-50) 0%, var(--gray-100) 100%);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: 1px solid var(--border-color);
+        }
+        [data-theme="dark"] .page-stats-card {
+            background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(99,102,241,0.12) 100%);
+        }
+        .page-stats-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(99,102,241,0.15);
+        }
+        .page-stats-icon {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        .page-stats-value {
+            font-size: 32px;
+            font-weight: 800;
+            color: var(--primary);
+            line-height: 1;
+            margin-bottom: 6px;
+        }
+        .page-stats-label {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+        .page-stats-detail {
+            padding-top: 16px;
+            border-top: 1px solid var(--border-color);
+        }
+        .page-stats-platform {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .platform-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 600;
+            color: white;
+        }
+        .platform-tag.douyin {
+            background: linear-gradient(135deg, #1C1C1D, #3D3D3E);
+        }
+        .platform-tag.weibo {
+            background: linear-gradient(135deg, #FF6600, #FF9944);
+        }
+        .platform-tag.xhs {
+            background: linear-gradient(135deg, #FF2442, #FF6680);
+        }
+        
+        /* 加载状态遮罩 */
+        .loading-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(255,255,255,0.9);
+            backdrop-filter: blur(4px);
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        [data-theme="dark"] .loading-overlay {
+            background: rgba(30,39,70,0.9);
+        }
 </style>
 </head>
 <body>
@@ -2805,7 +2924,7 @@
         <!-- 页面标题 -->
         <div class="page-header">
             <h1>🔥 热点追踪</h1>
-            <p>🤖 实时热点监控 | 📊 抖音/微博/小红书热搜 | 🎯 可借势客户分析</p>
+            <p>实时监控抖音、微博、小红书等平台热搜，智能匹配可借势客户与选题</p>
             <div class="update-time" id="updateTime">
                 <span class="time-text">📅 更新时间：加载中...</span>
                 <span class="data-freshness" id="dataFreshness" style="display:none;">
@@ -3207,6 +3326,14 @@
             </div>
         </div>
         
+        <!-- 加载状态提示 -->
+        <div class="loading-overlay" id="loadingOverlay" style="display:none;">
+            <div class="loading">
+                <div class="loading-spinner"></div>
+                <div id="loadingText">正在加载热点数据...</div>
+            </div>
+        </div>
+        
         <!-- 热点列表 -->
         <div class="hot-list main-view" id="hotList">
             <div class="loading">
@@ -3303,6 +3430,38 @@
                 <div class="compare-keyword-section" id="compareKeywordSection">
                     <div class="compare-keyword-title">🔑 关键词重合分析</div>
                     <div class="compare-keyword-content" id="compareKeywordContent"></div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- ========== 页面底部数据统计 ========== -->
+        <div class="page-stats-section" id="pageStatsSection" style="display:none;">
+            <div class="page-stats-header">
+                <div class="page-stats-title">📈 数据统计</div>
+                <div class="page-stats-time" id="pageStatsTime">最后更新: --</div>
+            </div>
+            <div class="page-stats-grid">
+                <div class="page-stats-card">
+                    <div class="page-stats-icon">🔥</div>
+                    <div class="page-stats-value" id="statsTotalTopics">0</div>
+                    <div class="page-stats-label">热点总数</div>
+                </div>
+                <div class="page-stats-card">
+                    <div class="page-stats-icon">💡</div>
+                    <div class="page-stats-value" id="statsTotalIdeas">0</div>
+                    <div class="page-stats-label">选题总数</div>
+                </div>
+                <div class="page-stats-card">
+                    <div class="page-stats-icon">📦</div>
+                    <div class="page-stats-value" id="statsTotalSku">0</div>
+                    <div class="page-stats-label">SKU场景数</div>
+                </div>
+            </div>
+            <div class="page-stats-detail" id="pageStatsDetail">
+                <div class="page-stats-platform">
+                    <span class="platform-tag douyin">抖音: <span id="statsDouyin">0</span></span>
+                    <span class="platform-tag weibo">微博: <span id="statsWeibo">0</span></span>
+                    <span class="platform-tag xhs">小红书: <span id="statsXhs">0</span></span>
                 </div>
             </div>
         </div>
@@ -4188,11 +4347,11 @@
         }
         
         // 平台筛选
-        // 平台筛选 - 使用 includes 模糊匹配
+        // 平台筛选 - 精确匹配，兼容单值字符串和数组格式
         function filterByPlatform(platform) {
             currentFilter = platform;
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                btn.classList.toggle('active', btn.textContent.includes(platform === 'all' ? '全部' : platform));
+            document.querySelectorAll('.filter-group .filter-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.textContent.trim() === (platform === 'all' ? '全部' : platform));
             });
             renderTopics();
         }
@@ -4491,6 +4650,8 @@
             if (quickNav) quickNav.style.display = 'block';
             // 更新收藏按钮状态
             updateFavoriteButtons();
+            // 更新页面底部统计
+            updatePageStats(allTopics, allIdeas);
         }
         
         // 更新统计数据
@@ -4590,6 +4751,55 @@
             }
         }
         
+        // 更新页面底部统计数据
+        function updatePageStats(topics, ideas) {
+            const section = document.getElementById('pageStatsSection');
+            if (!section) return;
+            
+            // 显示统计区域
+            section.style.display = 'block';
+            
+            // 统计各平台数量
+            const platformCount = {
+                '抖音': 0,
+                '微博': 0,
+                '小红书': 0
+            };
+            
+            topics.forEach(t => {
+                const platform = t.platform || '';
+                if (platform.includes('抖音')) platformCount['抖音']++;
+                if (platform.includes('微博')) platformCount['微博']++;
+                if (platform.includes('小红书')) platformCount['小红书']++;
+            });
+            
+            // SKU场景数（从 localStorage 或默认值获取）
+            let skuCount = 54480;
+            try {
+                const skuData = localStorage.getItem('ht_sku_scenes');
+                if (skuData) {
+                    const parsed = JSON.parse(skuData);
+                    skuCount = Array.isArray(parsed) ? parsed.length : skuCount;
+                }
+            } catch {}
+            
+            // 更新统计数值
+            document.getElementById('statsTotalTopics').textContent = topics.length.toLocaleString();
+            document.getElementById('statsTotalIdeas').textContent = (ideas?.length || 0).toLocaleString();
+            document.getElementById('statsTotalSku').textContent = skuCount.toLocaleString();
+            
+            // 更新平台分布
+            document.getElementById('statsDouyin').textContent = platformCount['抖音'];
+            document.getElementById('statsWeibo').textContent = platformCount['微博'];
+            document.getElementById('statsXhs').textContent = platformCount['小红书'];
+            
+            // 更新时间戳
+            const timeEl = document.getElementById('pageStatsTime');
+            if (timeEl) {
+                timeEl.textContent = '最后更新: ' + new Date().toLocaleString('zh-CN');
+            }
+        }
+        
         function renderTopicsCount(count) {
             const countEl = document.getElementById('topicsCount');
             if (countEl) countEl.textContent = count;
@@ -4672,18 +4882,24 @@
         // 渲染热点列表（懒加载）
         function renderTopics() {
             const container = document.getElementById('hotList');
-            let topics = currentFilter === 'all' ? allTopics : allTopics.filter(t => {
-                // 支持 platforms 数组格式
-                if (t.platforms && Array.isArray(t.platforms)) {
-                    return t.platforms.includes(currentFilter);
-                }
-                // 兼容字符串格式（可能是组合格式如 "微博/抖音"）
-                const platform = t.platform || '';
-                if (platform.includes('/')) {
-                    return platform.split('/').includes(currentFilter);
-                }
-                return platform.includes(currentFilter);
-            });
+            let topics = allTopics;
+            
+            // 平台筛选 - 支持 platforms 数组和 platform 字符串（含组合格式如"微博/抖音"）
+            if (currentFilter !== 'all') {
+                topics = allTopics.filter(t => {
+                    // 优先检查 platforms 数组
+                    if (t.platforms && Array.isArray(t.platforms)) {
+                        return t.platforms.includes(currentFilter);
+                    }
+                    // 兼容 platform 字符串（可能是组合格式如"微博/抖音"）
+                    const platform = t.platform || '';
+                    if (platform.includes('/')) {
+                        return platform.split('/').includes(currentFilter);
+                    }
+                    // 精确匹配
+                    return platform === currentFilter;
+                });
+            }
             
             // 分类筛选
             if (currentCategory !== 'all') {
@@ -4711,8 +4927,35 @@
                 topics = [...topics].sort((a, b) => (a.platform || '').localeCompare(b.platform || ''));
             }
             
+            // 搜索过滤
+            if (searchQuery) {
+                topics = topics.filter(t => {
+                    const searchText = [
+                        t.title,
+                        t.type,
+                        t.trend,
+                        t.logic,
+                        t.aud,
+                        t.time,
+                        (t.keywords || []).join(' '),
+                        (t.c || []).join(' '),
+                        (t.industries || []).join(' '),
+                        t.platform
+                    ].filter(Boolean).join(' ').toLowerCase();
+                    return searchText.includes(searchQuery);
+                });
+            }
+            
             if (topics.length === 0) {
-                container.innerHTML = '<div class="loading">暂无热点数据</div>';
+                const query = escapeHtml(searchQuery);
+                const platformLabel = currentFilter === 'all' ? '' : `（平台: ${escapeHtml(currentFilter)}）`;
+                container.innerHTML = `
+                    <div class="loading">
+                        <div style="font-size:48px;margin-bottom:16px;opacity:0.5;">🔍</div>
+                        <div style="font-size:16px;font-weight:600;margin-bottom:8px;">未找到匹配的热点</div>
+                        <div style="font-size:13px;opacity:0.7;">${query ? '搜索关键词: "' + query + '"' : ''}${platformLabel}</div>
+                    </div>
+                `;
                 return;
             }
             

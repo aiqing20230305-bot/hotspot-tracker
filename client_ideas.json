@@ -45896,5 +45896,2394 @@
     "status": "pending",
     "created_at": "2026-04-07T00:12:00",
     "content": "结合美食热点「早八人咖啡续命 精品咖啡文化持续渗透」，为农夫山泉矿泉水策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_1564",
+    "client": {
+      "brand": "花西子",
+      "industry": "美妆",
+      "products": [
+        "花西子产品"
+      ]
+    },
+    "title": "【产品测评】春日限定唇釉试色 温柔豆沙色成2026年开春爆款...",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "春日限定唇釉试色 温柔豆沙色成2026年开春爆款",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.8亿",
+    "trend": "上升",
+    "product": "花西子相关产品",
+    "keywords": [
+      "唇釉",
+      "豆沙色",
+      "试色"
+    ],
+    "quality_score": 75,
+    "quality_level": "良好",
+    "engagement_estimate": "50万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合春日限定唇釉试色 温柔豆沙色成2026年开春爆款热点，以产品测评角度切入，推荐花西子相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1565",
+    "client": {
+      "brand": "完美日记",
+      "industry": "美妆",
+      "products": [
+        "完美日记产品"
+      ]
+    },
+    "title": "【使用教程】素颜霜3.0时代 养肤型素颜霜成懒人手残党救星...",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "素颜霜3.0时代 养肤型素颜霜成懒人手残党救星",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "上升",
+    "product": "完美日记相关产品",
+    "keywords": [
+      "素颜霜",
+      "伪素颜",
+      "懒人妆容"
+    ],
+    "quality_score": 76,
+    "quality_level": "良好",
+    "engagement_estimate": "51万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合素颜霜3.0时代 养肤型素颜霜成懒人手残党救星热点，以使用教程角度切入，推荐完美日记相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1566",
+    "client": {
+      "brand": "colorkey",
+      "industry": "美妆",
+      "products": [
+        "colorkey产品"
+      ]
+    },
+    "title": "【避坑指南】韩系水光肌妆容教程 清透底妆秘诀全网疯传...",
+    "platform": "微博",
+    "angle": "避坑指南",
+    "hot_topic": "韩系水光肌妆容教程 清透底妆秘诀全网疯传",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.4亿",
+    "trend": "上升",
+    "product": "colorkey相关产品",
+    "keywords": [
+      "水光肌",
+      "韩系妆容",
+      "底妆"
+    ],
+    "quality_score": 77,
+    "quality_level": "良好",
+    "engagement_estimate": "52万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合韩系水光肌妆容教程 清透底妆秘诀全网疯传热点，以避坑指南角度切入，推荐colorkey相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1567",
+    "client": {
+      "brand": "橘朵",
+      "industry": "美妆",
+      "products": [
+        "橘朵产品"
+      ]
+    },
+    "title": "【好物推荐】国货彩妆出海 花西子东南亚市场销量翻倍...",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "国货彩妆出海 花西子东南亚市场销量翻倍",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.3亿",
+    "trend": "上升",
+    "product": "橘朵相关产品",
+    "keywords": [
+      "国货彩妆",
+      "花西子",
+      "出海"
+    ],
+    "quality_score": 78,
+    "quality_level": "良好",
+    "engagement_estimate": "53万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合国货彩妆出海 花西子东南亚市场销量翻倍热点，以好物推荐角度切入，推荐橘朵相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1568",
+    "client": {
+      "brand": "毛戈平",
+      "industry": "美妆",
+      "products": [
+        "毛戈平产品"
+      ]
+    },
+    "title": "【成分解析】磁吸假睫毛测评 3秒上眼妆新手福音...",
+    "platform": "抖音",
+    "angle": "成分解析",
+    "hot_topic": "磁吸假睫毛测评 3秒上眼妆新手福音",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.5亿",
+    "trend": "爆发",
+    "product": "毛戈平相关产品",
+    "keywords": [
+      "假睫毛",
+      "磁吸睫毛",
+      "新手化妆"
+    ],
+    "quality_score": 79,
+    "quality_level": "良好",
+    "engagement_estimate": "54万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合磁吸假睫毛测评 3秒上眼妆新手福音热点，以成分解析角度切入，推荐毛戈平相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1569",
+    "client": {
+      "brand": "YSL",
+      "industry": "美妆",
+      "products": [
+        "YSL产品"
+      ]
+    },
+    "title": "【场景种草】多巴胺妆容回潮 彩色眼线笔销量暴涨...",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "多巴胺妆容回潮 彩色眼线笔销量暴涨",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.4亿",
+    "trend": "上升",
+    "product": "YSL相关产品",
+    "keywords": [
+      "多巴胺",
+      "彩色眼线",
+      "创意妆"
+    ],
+    "quality_score": 80,
+    "quality_level": "良好",
+    "engagement_estimate": "55万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合多巴胺妆容回潮 彩色眼线笔销量暴涨热点，以场景种草角度切入，推荐YSL相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1570",
+    "client": {
+      "brand": "MAC",
+      "industry": "美妆",
+      "products": [
+        "MAC产品"
+      ]
+    },
+    "title": "【对比横评】气垫粉底持妆12小时挑战 油皮亲妈产品盘点...",
+    "platform": "微博",
+    "angle": "对比横评",
+    "hot_topic": "气垫粉底持妆12小时挑战 油皮亲妈产品盘点",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.3亿",
+    "trend": "稳定",
+    "product": "MAC相关产品",
+    "keywords": [
+      "气垫",
+      "持妆",
+      "油皮"
+    ],
+    "quality_score": 81,
+    "quality_level": "良好",
+    "engagement_estimate": "56万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合气垫粉底持妆12小时挑战 油皮亲妈产品盘点热点，以对比横评角度切入，推荐MAC相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1571",
+    "client": {
+      "brand": "3CE",
+      "industry": "美妆",
+      "products": [
+        "3CE产品"
+      ]
+    },
+    "title": "【新手入门】液体腮红画法 妈生好气色自然妆感...",
+    "platform": "B站",
+    "angle": "新手入门",
+    "hot_topic": "液体腮红画法 妈生好气色自然妆感",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.2亿",
+    "trend": "上升",
+    "product": "3CE相关产品",
+    "keywords": [
+      "液体腮红",
+      "自然妆",
+      "腮红画法"
+    ],
+    "quality_score": 82,
+    "quality_level": "良好",
+    "engagement_estimate": "57万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合液体腮红画法 妈生好气色自然妆感热点，以新手入门角度切入，推荐3CE相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1572",
+    "client": {
+      "brand": "花西子",
+      "industry": "美妆",
+      "products": [
+        "花西子产品"
+      ]
+    },
+    "title": "【产品测评】定妆喷雾vs散粉 春夏定妆产品大PK...",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "定妆喷雾vs散粉 春夏定妆产品大PK",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.2亿",
+    "trend": "稳定",
+    "product": "花西子相关产品",
+    "keywords": [
+      "定妆",
+      "定妆喷雾",
+      "散粉"
+    ],
+    "quality_score": 83,
+    "quality_level": "良好",
+    "engagement_estimate": "58万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合定妆喷雾vs散粉 春夏定妆产品大PK热点，以产品测评角度切入，推荐花西子相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1573",
+    "client": {
+      "brand": "完美日记",
+      "industry": "美妆",
+      "products": [
+        "完美日记产品"
+      ]
+    },
+    "title": "【使用教程】YSL新色口红试色 玫瑰豆沙色成断货王...",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "YSL新色口红试色 玫瑰豆沙色成断货王",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "爆发",
+    "product": "完美日记相关产品",
+    "keywords": [
+      "YSL",
+      "口红",
+      "豆沙色"
+    ],
+    "quality_score": 84,
+    "quality_level": "良好",
+    "engagement_estimate": "59万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合YSL新色口红试色 玫瑰豆沙色成断货王热点，以使用教程角度切入，推荐完美日记相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1574",
+    "client": {
+      "brand": "colorkey",
+      "industry": "美妆",
+      "products": [
+        "colorkey产品"
+      ]
+    },
+    "title": "【避坑指南】毛戈平改妆视频爆火 专业化妆师技巧揭秘...",
+    "platform": "微博",
+    "angle": "避坑指南",
+    "hot_topic": "毛戈平改妆视频爆火 专业化妆师技巧揭秘",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.5亿",
+    "trend": "上升",
+    "product": "colorkey相关产品",
+    "keywords": [
+      "毛戈平",
+      "改妆",
+      "化妆技巧"
+    ],
+    "quality_score": 85,
+    "quality_level": "优质",
+    "engagement_estimate": "60万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合毛戈平改妆视频爆火 专业化妆师技巧揭秘热点，以避坑指南角度切入，推荐colorkey相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1575",
+    "client": {
+      "brand": "橘朵",
+      "industry": "美妆",
+      "products": [
+        "橘朵产品"
+      ]
+    },
+    "title": "【好物推荐】学生党平价彩妆合集 50元以下好物推荐...",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "学生党平价彩妆合集 50元以下好物推荐",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.1亿",
+    "trend": "稳定",
+    "product": "橘朵相关产品",
+    "keywords": [
+      "平价彩妆",
+      "学生党",
+      "好物推荐"
+    ],
+    "quality_score": 86,
+    "quality_level": "优质",
+    "engagement_estimate": "61万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合学生党平价彩妆合集 50元以下好物推荐热点，以好物推荐角度切入，推荐橘朵相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1576",
+    "client": {
+      "brand": "兰蔻",
+      "industry": "护肤",
+      "products": [
+        "兰蔻产品"
+      ]
+    },
+    "title": "【成分解析】早C晚A进阶版 敏感肌也能用的温和配方...",
+    "platform": "抖音",
+    "angle": "成分解析",
+    "hot_topic": "早C晚A进阶版 敏感肌也能用的温和配方",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.7亿",
+    "trend": "上升",
+    "product": "兰蔻相关产品",
+    "keywords": [
+      "早C晚A",
+      "敏感肌",
+      "护肤 routine"
+    ],
+    "quality_score": 87,
+    "quality_level": "优质",
+    "engagement_estimate": "62万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合早C晚A进阶版 敏感肌也能用的温和配方热点，以成分解析角度切入，推荐兰蔻相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1577",
+    "client": {
+      "brand": "SK-II",
+      "industry": "护肤",
+      "products": [
+        "SK-II产品"
+      ]
+    },
+    "title": "【场景种草】以油养肤新思路 精华油叠加面霜法...",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "以油养肤新思路 精华油叠加面霜法",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.4亿",
+    "trend": "上升",
+    "product": "SK-II相关产品",
+    "keywords": [
+      "以油养肤",
+      "精华油",
+      "护肤方法"
+    ],
+    "quality_score": 88,
+    "quality_level": "优质",
+    "engagement_estimate": "63万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合以油养肤新思路 精华油叠加面霜法热点，以场景种草角度切入，推荐SK-II相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1578",
+    "client": {
+      "brand": "修丽可",
+      "industry": "护肤",
+      "products": [
+        "修丽可产品"
+      ]
+    },
+    "title": "【对比横评】屏障修护面霜测评 换季敏感肌必备...",
+    "platform": "微博",
+    "angle": "对比横评",
+    "hot_topic": "屏障修护面霜测评 换季敏感肌必备",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.3亿",
+    "trend": "上升",
+    "product": "修丽可相关产品",
+    "keywords": [
+      "屏障修护",
+      "敏感肌",
+      "面霜"
+    ],
+    "quality_score": 89,
+    "quality_level": "优质",
+    "engagement_estimate": "64万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合屏障修护面霜测评 换季敏感肌必备热点，以对比横评角度切入，推荐修丽可相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1579",
+    "client": {
+      "brand": "科颜氏",
+      "industry": "护肤",
+      "products": [
+        "科颜氏产品"
+      ]
+    },
+    "title": "【新手入门】美白精华成分解析 烟酰胺vsVC怎么选...",
+    "platform": "B站",
+    "angle": "新手入门",
+    "hot_topic": "美白精华成分解析 烟酰胺vsVC怎么选",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.3亿",
+    "trend": "稳定",
+    "product": "科颜氏相关产品",
+    "keywords": [
+      "美白",
+      "烟酰胺",
+      "VC"
+    ],
+    "quality_score": 90,
+    "quality_level": "优质",
+    "engagement_estimate": "65万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合美白精华成分解析 烟酰胺vsVC怎么选热点，以新手入门角度切入，推荐科颜氏相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1580",
+    "client": {
+      "brand": "珀莱雅",
+      "industry": "护肤",
+      "products": [
+        "珀莱雅产品"
+      ]
+    },
+    "title": "【产品测评】洁面仪是智商税吗 皮肤科医生专业解读...",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "洁面仪是智商税吗 皮肤科医生专业解读",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.2亿",
+    "trend": "稳定",
+    "product": "珀莱雅相关产品",
+    "keywords": [
+      "洁面仪",
+      "智商税",
+      "皮肤科医生"
+    ],
+    "quality_score": 91,
+    "quality_level": "优质",
+    "engagement_estimate": "66万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合洁面仪是智商税吗 皮肤科医生专业解读热点，以产品测评角度切入，推荐珀莱雅相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1581",
+    "client": {
+      "brand": "薇诺娜",
+      "industry": "护肤",
+      "products": [
+        "薇诺娜产品"
+      ]
+    },
+    "title": "【使用教程】抗初老精华推荐 25+女生护肤重点...",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "抗初老精华推荐 25+女生护肤重点",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.4亿",
+    "trend": "上升",
+    "product": "薇诺娜相关产品",
+    "keywords": [
+      "抗初老",
+      "精华",
+      "25岁护肤"
+    ],
+    "quality_score": 92,
+    "quality_level": "优质",
+    "engagement_estimate": "67万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合抗初老精华推荐 25+女生护肤重点热点，以使用教程角度切入，推荐薇诺娜相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1582",
+    "client": {
+      "brand": "理肤泉",
+      "industry": "护肤",
+      "products": [
+        "理肤泉产品"
+      ]
+    },
+    "title": "【避坑指南】刷酸后修复指南 避免烂脸的关键步骤...",
+    "platform": "微博",
+    "angle": "避坑指南",
+    "hot_topic": "刷酸后修复指南 避免烂脸的关键步骤",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.5亿",
+    "trend": "爆发",
+    "product": "理肤泉相关产品",
+    "keywords": [
+      "刷酸",
+      "修复",
+      "护肤步骤"
+    ],
+    "quality_score": 93,
+    "quality_level": "优质",
+    "engagement_estimate": "68万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合刷酸后修复指南 避免烂脸的关键步骤热点，以避坑指南角度切入，推荐理肤泉相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1583",
+    "client": {
+      "brand": "雅诗兰黛",
+      "industry": "护肤",
+      "products": [
+        "雅诗兰黛产品"
+      ]
+    },
+    "title": "【好物推荐】防晒喷雾真的有用吗 实测数据说话...",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "防晒喷雾真的有用吗 实测数据说话",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.2亿",
+    "trend": "稳定",
+    "product": "雅诗兰黛相关产品",
+    "keywords": [
+      "防晒",
+      "防晒喷雾",
+      "实测"
+    ],
+    "quality_score": 94,
+    "quality_level": "优质",
+    "engagement_estimate": "69万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合防晒喷雾真的有用吗 实测数据说话热点，以好物推荐角度切入，推荐雅诗兰黛相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1584",
+    "client": {
+      "brand": "兰蔻",
+      "industry": "护肤",
+      "products": [
+        "兰蔻产品"
+      ]
+    },
+    "title": "【成分解析】国货护肤品崛起 珀莱雅双抗精华卖断货...",
+    "platform": "抖音",
+    "angle": "成分解析",
+    "hot_topic": "国货护肤品崛起 珀莱雅双抗精华卖断货",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.5亿",
+    "trend": "爆发",
+    "product": "兰蔻相关产品",
+    "keywords": [
+      "国货护肤",
+      "珀莱雅",
+      "双抗精华"
+    ],
+    "quality_score": 75,
+    "quality_level": "良好",
+    "engagement_estimate": "70万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合国货护肤品崛起 珀莱雅双抗精华卖断货热点，以成分解析角度切入，推荐兰蔻相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1585",
+    "client": {
+      "brand": "SK-II",
+      "industry": "护肤",
+      "products": [
+        "SK-II产品"
+      ]
+    },
+    "title": "【场景种草】精简护肤理念 less is more护肤新趋势...",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "精简护肤理念 less is more护肤新趋势",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.1亿",
+    "trend": "上升",
+    "product": "SK-II相关产品",
+    "keywords": [
+      "精简护肤",
+      "护肤理念",
+      "less is more"
+    ],
+    "quality_score": 76,
+    "quality_level": "良好",
+    "engagement_estimate": "71万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合精简护肤理念 less is more护肤新趋势热点，以场景种草角度切入，推荐SK-II相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1586",
+    "client": {
+      "brand": "修丽可",
+      "industry": "护肤",
+      "products": [
+        "修丽可产品"
+      ]
+    },
+    "title": "【对比横评】面膜敷多久最合适 皮肤科专家给出答案...",
+    "platform": "微博",
+    "angle": "对比横评",
+    "hot_topic": "面膜敷多久最合适 皮肤科专家给出答案",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.1亿",
+    "trend": "稳定",
+    "product": "修丽可相关产品",
+    "keywords": [
+      "面膜",
+      "护肤误区",
+      "专家解读"
+    ],
+    "quality_score": 77,
+    "quality_level": "良好",
+    "engagement_estimate": "72万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合面膜敷多久最合适 皮肤科专家给出答案热点，以对比横评角度切入，推荐修丽可相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1587",
+    "client": {
+      "brand": "科颜氏",
+      "industry": "护肤",
+      "products": [
+        "科颜氏产品"
+      ]
+    },
+    "title": "【新手入门】眼霜是不是智商税 眼部护理真相揭秘...",
+    "platform": "B站",
+    "angle": "新手入门",
+    "hot_topic": "眼霜是不是智商税 眼部护理真相揭秘",
+    "hot_topic_type": "护肤热点",
+    "heat": "4.0亿",
+    "trend": "稳定",
+    "product": "科颜氏相关产品",
+    "keywords": [
+      "眼霜",
+      "眼部护理",
+      "智商税"
+    ],
+    "quality_score": 78,
+    "quality_level": "良好",
+    "engagement_estimate": "73万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合眼霜是不是智商税 眼部护理真相揭秘热点，以新手入门角度切入，推荐科颜氏相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1588",
+    "client": {
+      "brand": "飞鹤",
+      "industry": "母婴",
+      "products": [
+        "飞鹤产品"
+      ]
+    },
+    "title": "【产品测评】新生儿睡眠训练法 让宝宝睡整觉的秘密...",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "新生儿睡眠训练法 让宝宝睡整觉的秘密",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.4亿",
+    "trend": "上升",
+    "product": "飞鹤相关产品",
+    "keywords": [
+      "新生儿",
+      "睡眠训练",
+      "育儿"
+    ],
+    "quality_score": 79,
+    "quality_level": "良好",
+    "engagement_estimate": "74万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合新生儿睡眠训练法 让宝宝睡整觉的秘密热点，以产品测评角度切入，推荐飞鹤相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1589",
+    "client": {
+      "brand": "君乐宝",
+      "industry": "母婴",
+      "products": [
+        "君乐宝产品"
+      ]
+    },
+    "title": "【使用教程】辅食添加时间表 6-12月龄宝宝喂养指南...",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "辅食添加时间表 6-12月龄宝宝喂养指南",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.5亿",
+    "trend": "爆发",
+    "product": "君乐宝相关产品",
+    "keywords": [
+      "辅食",
+      "宝宝喂养",
+      "育儿知识"
+    ],
+    "quality_score": 80,
+    "quality_level": "良好",
+    "engagement_estimate": "75万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合辅食添加时间表 6-12月龄宝宝喂养指南热点，以使用教程角度切入，推荐君乐宝相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1590",
+    "client": {
+      "brand": "贝亲",
+      "industry": "母婴",
+      "products": [
+        "贝亲产品"
+      ]
+    },
+    "title": "【避坑指南】国产奶粉品质升级 飞鹤君乐宝口碑逆袭...",
+    "platform": "微博",
+    "angle": "避坑指南",
+    "hot_topic": "国产奶粉品质升级 飞鹤君乐宝口碑逆袭",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.3亿",
+    "trend": "上升",
+    "product": "贝亲相关产品",
+    "keywords": [
+      "国产奶粉",
+      "飞鹤",
+      "君乐宝"
+    ],
+    "quality_score": 81,
+    "quality_level": "良好",
+    "engagement_estimate": "76万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合国产奶粉品质升级 飞鹤君乐宝口碑逆袭热点，以避坑指南角度切入，推荐贝亲相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1591",
+    "client": {
+      "brand": "花王",
+      "industry": "母婴",
+      "products": [
+        "花王产品"
+      ]
+    },
+    "title": "【好物推荐】婴儿车选购攻略 避震轻便如何取舍...",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "婴儿车选购攻略 避震轻便如何取舍",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.2亿",
+    "trend": "稳定",
+    "product": "花王相关产品",
+    "keywords": [
+      "婴儿车",
+      "选购攻略",
+      "母婴用品"
+    ],
+    "quality_score": 82,
+    "quality_level": "良好",
+    "engagement_estimate": "77万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合婴儿车选购攻略 避震轻便如何取舍热点，以好物推荐角度切入，推荐花王相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1592",
+    "client": {
+      "brand": "好奇",
+      "industry": "母婴",
+      "products": [
+        "好奇产品"
+      ]
+    },
+    "title": "【成分解析】早教班有必要吗 0-3岁早教真相揭秘...",
+    "platform": "抖音",
+    "angle": "成分解析",
+    "hot_topic": "早教班有必要吗 0-3岁早教真相揭秘",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.4亿",
+    "trend": "上升",
+    "product": "好奇相关产品",
+    "keywords": [
+      "早教",
+      "育儿观念",
+      "0-3岁"
+    ],
+    "quality_score": 83,
+    "quality_level": "良好",
+    "engagement_estimate": "78万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合早教班有必要吗 0-3岁早教真相揭秘热点，以成分解析角度切入，推荐好奇相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1593",
+    "client": {
+      "brand": "帮宝适",
+      "industry": "母婴",
+      "products": [
+        "帮宝适产品"
+      ]
+    },
+    "title": "【场景种草】宝宝湿疹护理指南 皮肤科医生推荐方案...",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "宝宝湿疹护理指南 皮肤科医生推荐方案",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.5亿",
+    "trend": "爆发",
+    "product": "帮宝适相关产品",
+    "keywords": [
+      "湿疹",
+      "宝宝护肤",
+      "医生推荐"
+    ],
+    "quality_score": 84,
+    "quality_level": "良好",
+    "engagement_estimate": "79万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合宝宝湿疹护理指南 皮肤科医生推荐方案热点，以场景种草角度切入，推荐帮宝适相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1594",
+    "client": {
+      "brand": "爱他美",
+      "industry": "母婴",
+      "products": [
+        "爱他美产品"
+      ]
+    },
+    "title": "【对比横评】哺乳期饮食禁忌 科学辟谣vs传统观念...",
+    "platform": "微博",
+    "angle": "对比横评",
+    "hot_topic": "哺乳期饮食禁忌 科学辟谣vs传统观念",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.2亿",
+    "trend": "稳定",
+    "product": "爱他美相关产品",
+    "keywords": [
+      "哺乳期",
+      "饮食",
+      "科学育儿"
+    ],
+    "quality_score": 85,
+    "quality_level": "优质",
+    "engagement_estimate": "80万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合哺乳期饮食禁忌 科学辟谣vs传统观念热点，以对比横评角度切入，推荐爱他美相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1595",
+    "client": {
+      "brand": "美赞臣",
+      "industry": "母婴",
+      "products": [
+        "美赞臣产品"
+      ]
+    },
+    "title": "【新手入门】儿童安全座椅立法 家长必看选购指南...",
+    "platform": "B站",
+    "angle": "新手入门",
+    "hot_topic": "儿童安全座椅立法 家长必看选购指南",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.6亿",
+    "trend": "爆发",
+    "product": "美赞臣相关产品",
+    "keywords": [
+      "安全座椅",
+      "立法",
+      "儿童安全"
+    ],
+    "quality_score": 86,
+    "quality_level": "优质",
+    "engagement_estimate": "81万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合儿童安全座椅立法 家长必看选购指南热点，以新手入门角度切入，推荐美赞臣相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1596",
+    "client": {
+      "brand": "飞鹤",
+      "industry": "母婴",
+      "products": [
+        "飞鹤产品"
+      ]
+    },
+    "title": "【产品测评】绘本阅读启蒙 0-6岁分龄书单推荐...",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "绘本阅读启蒙 0-6岁分龄书单推荐",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.1亿",
+    "trend": "上升",
+    "product": "飞鹤相关产品",
+    "keywords": [
+      "绘本",
+      "阅读启蒙",
+      "书单推荐"
+    ],
+    "quality_score": 87,
+    "quality_level": "优质",
+    "engagement_estimate": "82万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合绘本阅读启蒙 0-6岁分龄书单推荐热点，以产品测评角度切入，推荐飞鹤相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1597",
+    "client": {
+      "brand": "君乐宝",
+      "industry": "母婴",
+      "products": [
+        "君乐宝产品"
+      ]
+    },
+    "title": "【使用教程】产后修复是智商税吗 盆底肌修复真相...",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "产后修复是智商税吗 盆底肌修复真相",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.3亿",
+    "trend": "上升",
+    "product": "君乐宝相关产品",
+    "keywords": [
+      "产后修复",
+      "盆底肌",
+      "智商税"
+    ],
+    "quality_score": 88,
+    "quality_level": "优质",
+    "engagement_estimate": "83万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合产后修复是智商税吗 盆底肌修复真相热点，以使用教程角度切入，推荐君乐宝相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1598",
+    "client": {
+      "brand": "贝亲",
+      "industry": "母婴",
+      "products": [
+        "贝亲产品"
+      ]
+    },
+    "title": "【避坑指南】宝宝疫苗接种时间表 新手爸妈必收藏...",
+    "platform": "微博",
+    "angle": "避坑指南",
+    "hot_topic": "宝宝疫苗接种时间表 新手爸妈必收藏",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.4亿",
+    "trend": "稳定",
+    "product": "贝亲相关产品",
+    "keywords": [
+      "疫苗",
+      "接种",
+      "新手爸妈"
+    ],
+    "quality_score": 89,
+    "quality_level": "优质",
+    "engagement_estimate": "84万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合宝宝疫苗接种时间表 新手爸妈必收藏热点，以避坑指南角度切入，推荐贝亲相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1599",
+    "client": {
+      "brand": "花王",
+      "industry": "母婴",
+      "products": [
+        "花王产品"
+      ]
+    },
+    "title": "【好物推荐】哄睡神器白噪音 真的能帮助宝宝入睡吗...",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "哄睡神器白噪音 真的能帮助宝宝入睡吗",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.1亿",
+    "trend": "稳定",
+    "product": "花王相关产品",
+    "keywords": [
+      "白噪音",
+      "哄睡",
+      "育儿工具"
+    ],
+    "quality_score": 90,
+    "quality_level": "优质",
+    "engagement_estimate": "85万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合哄睡神器白噪音 真的能帮助宝宝入睡吗热点，以好物推荐角度切入，推荐花王相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1600",
+    "client": {
+      "brand": "戴森",
+      "industry": "家居",
+      "products": [
+        "戴森产品"
+      ]
+    },
+    "title": "【成分解析】奶油风装修翻车案例 如何避免廉价感...",
+    "platform": "抖音",
+    "angle": "成分解析",
+    "hot_topic": "奶油风装修翻车案例 如何避免廉价感",
+    "hot_topic_type": "家居热点",
+    "heat": "4.5亿",
+    "trend": "上升",
+    "product": "戴森相关产品",
+    "keywords": [
+      "奶油风",
+      "装修",
+      "避坑"
+    ],
+    "quality_score": 91,
+    "quality_level": "优质",
+    "engagement_estimate": "86万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合奶油风装修翻车案例 如何避免廉价感热点，以成分解析角度切入，推荐戴森相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1601",
+    "client": {
+      "brand": "科沃斯",
+      "industry": "家居",
+      "products": [
+        "科沃斯产品"
+      ]
+    },
+    "title": "【场景种草】小户型收纳神器 空间利用率翻倍技巧...",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "小户型收纳神器 空间利用率翻倍技巧",
+    "hot_topic_type": "家居热点",
+    "heat": "4.4亿",
+    "trend": "上升",
+    "product": "科沃斯相关产品",
+    "keywords": [
+      "收纳",
+      "小户型",
+      "空间利用"
+    ],
+    "quality_score": 92,
+    "quality_level": "优质",
+    "engagement_estimate": "87万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合小户型收纳神器 空间利用率翻倍技巧热点，以场景种草角度切入，推荐科沃斯相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1602",
+    "client": {
+      "brand": "石头",
+      "industry": "家居",
+      "products": [
+        "石头产品"
+      ]
+    },
+    "title": "【对比横评】扫地机器人测评 2026年最值得买型号...",
+    "platform": "微博",
+    "angle": "对比横评",
+    "hot_topic": "扫地机器人测评 2026年最值得买型号",
+    "hot_topic_type": "家居热点",
+    "heat": "4.5亿",
+    "trend": "爆发",
+    "product": "石头相关产品",
+    "keywords": [
+      "扫地机器人",
+      "测评",
+      "智能家居"
+    ],
+    "quality_score": 93,
+    "quality_level": "优质",
+    "engagement_estimate": "88万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合扫地机器人测评 2026年最值得买型号热点，以对比横评角度切入，推荐石头相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1603",
+    "client": {
+      "brand": "云鲸",
+      "industry": "家居",
+      "products": [
+        "云鲸产品"
+      ]
+    },
+    "title": "【新手入门】除甲醛最有效方法 通风vs活性炭vs光触媒...",
+    "platform": "B站",
+    "angle": "新手入门",
+    "hot_topic": "除甲醛最有效方法 通风vs活性炭vs光触媒",
+    "hot_topic_type": "家居热点",
+    "heat": "4.4亿",
+    "trend": "上升",
+    "product": "云鲸相关产品",
+    "keywords": [
+      "除甲醛",
+      "装修后",
+      "健康"
+    ],
+    "quality_score": 94,
+    "quality_level": "优质",
+    "engagement_estimate": "89万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合除甲醛最有效方法 通风vs活性炭vs光触媒热点，以新手入门角度切入，推荐云鲸相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1604",
+    "client": {
+      "brand": "宜家",
+      "industry": "家居",
+      "products": [
+        "宜家产品"
+      ]
+    },
+    "title": "【产品测评】智能家居入门指南 5000元打造全屋智能...",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "智能家居入门指南 5000元打造全屋智能",
+    "hot_topic_type": "家居热点",
+    "heat": "4.3亿",
+    "trend": "上升",
+    "product": "宜家相关产品",
+    "keywords": [
+      "智能家居",
+      "全屋智能",
+      "入门指南"
+    ],
+    "quality_score": 75,
+    "quality_level": "良好",
+    "engagement_estimate": "90万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合智能家居入门指南 5000元打造全屋智能热点，以产品测评角度切入，推荐宜家相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1605",
+    "client": {
+      "brand": "无印良品",
+      "industry": "家居",
+      "products": [
+        "无印良品产品"
+      ]
+    },
+    "title": "【使用教程】宜家平替好物 低价高质的家居替代品...",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "宜家平替好物 低价高质的家居替代品",
+    "hot_topic_type": "家居热点",
+    "heat": "4.2亿",
+    "trend": "稳定",
+    "product": "无印良品相关产品",
+    "keywords": [
+      "宜家",
+      "平替",
+      "好物推荐"
+    ],
+    "quality_score": 76,
+    "quality_level": "良好",
+    "engagement_estimate": "91万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合宜家平替好物 低价高质的家居替代品热点，以使用教程角度切入，推荐无印良品相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1606",
+    "client": {
+      "brand": "小米",
+      "industry": "家居",
+      "products": [
+        "小米产品"
+      ]
+    },
+    "title": "【避坑指南】卧室灯光设计 营造氛围感的秘诀...",
+    "platform": "微博",
+    "angle": "避坑指南",
+    "hot_topic": "卧室灯光设计 营造氛围感的秘诀",
+    "hot_topic_type": "家居热点",
+    "heat": "4.1亿",
+    "trend": "上升",
+    "product": "小米相关产品",
+    "keywords": [
+      "灯光设计",
+      "卧室",
+      "氛围感"
+    ],
+    "quality_score": 77,
+    "quality_level": "良好",
+    "engagement_estimate": "92万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合卧室灯光设计 营造氛围感的秘诀热点，以避坑指南角度切入，推荐小米相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1607",
+    "client": {
+      "brand": "华为",
+      "industry": "家居",
+      "products": [
+        "华为产品"
+      ]
+    },
+    "title": "【好物推荐】断舍离收纳法 日本整理师技巧分享...",
+    "platform": "B站",
+    "angle": "好物推荐",
+    "hot_topic": "断舍离收纳法 日本整理师技巧分享",
+    "hot_topic_type": "家居热点",
+    "heat": "4.3亿",
+    "trend": "稳定",
+    "product": "华为相关产品",
+    "keywords": [
+      "断舍离",
+      "收纳",
+      "整理"
+    ],
+    "quality_score": 78,
+    "quality_level": "良好",
+    "engagement_estimate": "93万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合断舍离收纳法 日本整理师技巧分享热点，以好物推荐角度切入，推荐华为相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1608",
+    "client": {
+      "brand": "戴森",
+      "industry": "家居",
+      "products": [
+        "戴森产品"
+      ]
+    },
+    "title": "【成分解析】阳台改造方案 封窗vs开放式怎么选...",
+    "platform": "抖音",
+    "angle": "成分解析",
+    "hot_topic": "阳台改造方案 封窗vs开放式怎么选",
+    "hot_topic_type": "家居热点",
+    "heat": "4.2亿",
+    "trend": "稳定",
+    "product": "戴森相关产品",
+    "keywords": [
+      "阳台改造",
+      "封窗",
+      "装修"
+    ],
+    "quality_score": 79,
+    "quality_level": "良好",
+    "engagement_estimate": "94万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合阳台改造方案 封窗vs开放式怎么选热点，以成分解析角度切入，推荐戴森相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1609",
+    "client": {
+      "brand": "科沃斯",
+      "industry": "家居",
+      "products": [
+        "科沃斯产品"
+      ]
+    },
+    "title": "【场景种草】床垫选购指南 弹簧vs乳胶vs记忆棉...",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "床垫选购指南 弹簧vs乳胶vs记忆棉",
+    "hot_topic_type": "家居热点",
+    "heat": "4.4亿",
+    "trend": "上升",
+    "product": "科沃斯相关产品",
+    "keywords": [
+      "床垫",
+      "选购",
+      "睡眠质量"
+    ],
+    "quality_score": 80,
+    "quality_level": "良好",
+    "engagement_estimate": "95万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合床垫选购指南 弹簧vs乳胶vs记忆棉热点，以场景种草角度切入，推荐科沃斯相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1610",
+    "client": {
+      "brand": "石头",
+      "industry": "家居",
+      "products": [
+        "石头产品"
+      ]
+    },
+    "title": "【对比横评】厨房收纳神器推荐 让台面整洁如新...",
+    "platform": "微博",
+    "angle": "对比横评",
+    "hot_topic": "厨房收纳神器推荐 让台面整洁如新",
+    "hot_topic_type": "家居热点",
+    "heat": "4.3亿",
+    "trend": "稳定",
+    "product": "石头相关产品",
+    "keywords": [
+      "厨房收纳",
+      "神器",
+      "整洁"
+    ],
+    "quality_score": 81,
+    "quality_level": "良好",
+    "engagement_estimate": "96万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合厨房收纳神器推荐 让台面整洁如新热点，以对比横评角度切入，推荐石头相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1611",
+    "client": {
+      "brand": "云鲸",
+      "industry": "家居",
+      "products": [
+        "云鲸产品"
+      ]
+    },
+    "title": "【新手入门】租房改造灵感 低成本提升居住幸福感...",
+    "platform": "B站",
+    "angle": "新手入门",
+    "hot_topic": "租房改造灵感 低成本提升居住幸福感",
+    "hot_topic_type": "家居热点",
+    "heat": "4.1亿",
+    "trend": "上升",
+    "product": "云鲸相关产品",
+    "keywords": [
+      "租房改造",
+      "低成本",
+      "幸福感"
+    ],
+    "quality_score": 82,
+    "quality_level": "良好",
+    "engagement_estimate": "97万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合租房改造灵感 低成本提升居住幸福感热点，以新手入门角度切入，推荐云鲸相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1612",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品",
+      "products": [
+        "元气森林产品"
+      ]
+    },
+    "title": "【产品测评】低卡零食推荐 减脂期也能吃的解馋好物...",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "低卡零食推荐 减脂期也能吃的解馋好物",
+    "hot_topic_type": "食品热点",
+    "heat": "4.5亿",
+    "trend": "爆发",
+    "product": "元气森林相关产品",
+    "keywords": [
+      "低卡零食",
+      "减脂",
+      "健康食品"
+    ],
+    "quality_score": 83,
+    "quality_level": "良好",
+    "engagement_estimate": "98万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合低卡零食推荐 减脂期也能吃的解馋好物热点，以产品测评角度切入，推荐元气森林相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1613",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品",
+      "products": [
+        "农夫山泉产品"
+      ]
+    },
+    "title": "【使用教程】预制菜进校园争议 家长担忧营养与安全...",
+    "platform": "小红书",
+    "angle": "使用教程",
+    "hot_topic": "预制菜进校园争议 家长担忧营养与安全",
+    "hot_topic_type": "食品热点",
+    "heat": "4.6亿",
+    "trend": "爆发",
+    "product": "农夫山泉相关产品",
+    "keywords": [
+      "预制菜",
+      "校园",
+      "食品安全"
+    ],
+    "quality_score": 84,
+    "quality_level": "良好",
+    "engagement_estimate": "99万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T00:26:22",
+    "content": "结合预制菜进校园争议 家长担忧营养与安全热点，以使用教程角度切入，推荐农夫山泉相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1614",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本"
+      ]
+    },
+    "title": "【创意玩法】智能手表睡眠监测功能受关注 数据焦虑引讨...",
+    "platform": "知乎",
+    "angle": "创意玩法",
+    "hot_topic": "智能手表睡眠监测功能受关注 数据焦虑引讨论",
+    "hot_topic_type": "科技热点",
+    "heat": "4.5亿",
+    "trend": "稳定",
+    "product": "平板",
+    "keywords": [
+      "智能手表睡眠监测功能受关注",
+      "数据焦虑引讨论"
+    ],
+    "quality_score": 84,
+    "quality_level": "优质",
+    "engagement_estimate": "89万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合智能手表睡眠监测功能受关注 数据焦虑引讨论热点，以创意玩法角度切入，推荐荣耀相关产品，目标平台知乎。"
+  },
+  {
+    "id": "exp_1615",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本"
+      ]
+    },
+    "title": "【痛点解决】深夜办公装备推荐 远程打工人效率神器...",
+    "platform": "B站",
+    "angle": "痛点解决",
+    "hot_topic": "深夜办公装备推荐 远程打工人效率神器",
+    "hot_topic_type": "科技热点",
+    "heat": "4.5亿",
+    "trend": "上升",
+    "product": "手机",
+    "keywords": [
+      "深夜办公装备推荐",
+      "远程打工人效率神器"
+    ],
+    "quality_score": 81,
+    "quality_level": "优质",
+    "engagement_estimate": "94万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合深夜办公装备推荐 远程打工人效率神器热点，以痛点解决角度切入，推荐荣耀相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1616",
+    "client": {
+      "brand": "罗技",
+      "industry": "消费电子",
+      "products": [
+        "鼠标",
+        "键盘",
+        "耳机"
+      ]
+    },
+    "title": "【季节种草】深夜办公装备推荐 远程打工人效率神器...",
+    "platform": "小红书",
+    "angle": "季节种草",
+    "hot_topic": "深夜办公装备推荐 远程打工人效率神器",
+    "hot_topic_type": "科技热点",
+    "heat": "4.5亿",
+    "trend": "上升",
+    "product": "耳机",
+    "keywords": [
+      "深夜办公装备推荐",
+      "远程打工人效率神器"
+    ],
+    "quality_score": 85,
+    "quality_level": "良好",
+    "engagement_estimate": "103万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合深夜办公装备推荐 远程打工人效率神器热点，以季节种草角度切入，推荐罗技相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1617",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能家居"
+      ]
+    },
+    "title": "【场景种草】智能手表睡眠监测功能受关注 数据焦虑引讨...",
+    "platform": "小红书",
+    "angle": "场景种草",
+    "hot_topic": "智能手表睡眠监测功能受关注 数据焦虑引讨论",
+    "hot_topic_type": "科技热点",
+    "heat": "4.5亿",
+    "trend": "稳定",
+    "product": "智能家居",
+    "keywords": [
+      "智能手表睡眠监测功能受关注",
+      "数据焦虑引讨论"
+    ],
+    "quality_score": 89,
+    "quality_level": "优质",
+    "engagement_estimate": "91万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合智能手表睡眠监测功能受关注 数据焦虑引讨论热点，以场景种草角度切入，推荐小米相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1618",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能家居"
+      ]
+    },
+    "title": "【产品测评】深夜办公装备推荐 远程打工人效率神器...",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "深夜办公装备推荐 远程打工人效率神器",
+    "hot_topic_type": "科技热点",
+    "heat": "4.5亿",
+    "trend": "上升",
+    "product": "手机",
+    "keywords": [
+      "深夜办公装备推荐",
+      "远程打工人效率神器"
+    ],
+    "quality_score": 86,
+    "quality_level": "优质",
+    "engagement_estimate": "95万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合深夜办公装备推荐 远程打工人效率神器热点，以产品测评角度切入，推荐小米相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1619",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机",
+        "平板",
+        "笔记本",
+        "智能家居"
+      ]
+    },
+    "title": "【品牌故事】清洁好物深夜测评 洗地机vs扫地机器人谁...",
+    "platform": "知乎",
+    "angle": "品牌故事",
+    "hot_topic": "清洁好物深夜测评 洗地机vs扫地机器人谁更强",
+    "hot_topic_type": "家居热点",
+    "heat": "4.3亿",
+    "trend": "稳定",
+    "product": "智能家居",
+    "keywords": [
+      "清洁好物深夜测评",
+      "洗地机vs扫地机器人谁更强"
+    ],
+    "quality_score": 92,
+    "quality_level": "良好",
+    "engagement_estimate": "99万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合清洁好物深夜测评 洗地机vs扫地机器人谁更强热点，以品牌故事角度切入，推荐小米相关产品，目标平台知乎。"
+  },
+  {
+    "id": "exp_1620",
+    "client": {
+      "brand": "索尼",
+      "industry": "消费电子",
+      "products": [
+        "耳机",
+        "相机",
+        "游戏机"
+      ]
+    },
+    "title": "【痛点解决】智能手表睡眠监测功能受关注 数据焦虑引讨...",
+    "platform": "微博",
+    "angle": "痛点解决",
+    "hot_topic": "智能手表睡眠监测功能受关注 数据焦虑引讨论",
+    "hot_topic_type": "科技热点",
+    "heat": "4.5亿",
+    "trend": "稳定",
+    "product": "相机",
+    "keywords": [
+      "智能手表睡眠监测功能受关注",
+      "数据焦虑引讨论"
+    ],
+    "quality_score": 80,
+    "quality_level": "良好",
+    "engagement_estimate": "102万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合智能手表睡眠监测功能受关注 数据焦虑引讨论热点，以痛点解决角度切入，推荐索尼相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1621",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "护肤品",
+        "防晒"
+      ]
+    },
+    "title": "【创意玩法】春季护肤夜修法 熬夜肌急救攻略...",
+    "platform": "知乎",
+    "angle": "创意玩法",
+    "hot_topic": "春季护肤夜修法 熬夜肌急救攻略",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "上升",
+    "product": "防晒",
+    "keywords": [
+      "春季护肤夜修法",
+      "熬夜肌急救攻略"
+    ],
+    "quality_score": 82,
+    "quality_level": "优质",
+    "engagement_estimate": "91万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合春季护肤夜修法 熬夜肌急救攻略热点，以创意玩法角度切入，推荐AHC相关产品，目标平台知乎。"
+  },
+  {
+    "id": "exp_1622",
+    "client": {
+      "brand": "多芬",
+      "industry": "美妆",
+      "products": [
+        "沐浴露",
+        "洗发水"
+      ]
+    },
+    "title": "【情感共鸣】春季护肤夜修法 熬夜肌急救攻略...",
+    "platform": "微博",
+    "angle": "情感共鸣",
+    "hot_topic": "春季护肤夜修法 熬夜肌急救攻略",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "上升",
+    "product": "沐浴露",
+    "keywords": [
+      "春季护肤夜修法",
+      "熬夜肌急救攻略"
+    ],
+    "quality_score": 81,
+    "quality_level": "优质",
+    "engagement_estimate": "85万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合春季护肤夜修法 熬夜肌急救攻略热点，以情感共鸣角度切入，推荐多芬相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1623",
+    "client": {
+      "brand": "力士",
+      "industry": "美妆",
+      "products": [
+        "沐浴露",
+        "洗发水"
+      ]
+    },
+    "title": "【情感共鸣】春季护肤夜修法 熬夜肌急救攻略...",
+    "platform": "知乎",
+    "angle": "情感共鸣",
+    "hot_topic": "春季护肤夜修法 熬夜肌急救攻略",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "上升",
+    "product": "洗发水",
+    "keywords": [
+      "春季护肤夜修法",
+      "熬夜肌急救攻略"
+    ],
+    "quality_score": 88,
+    "quality_level": "良好",
+    "engagement_estimate": "104万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合春季护肤夜修法 熬夜肌急救攻略热点，以情感共鸣角度切入，推荐力士相关产品，目标平台知乎。"
+  },
+  {
+    "id": "exp_1624",
+    "client": {
+      "brand": "清扬",
+      "industry": "美妆",
+      "products": [
+        "洗发水",
+        "护发素"
+      ]
+    },
+    "title": "【情感共鸣】春季护肤夜修法 熬夜肌急救攻略...",
+    "platform": "小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季护肤夜修法 熬夜肌急救攻略",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "上升",
+    "product": "洗发水",
+    "keywords": [
+      "春季护肤夜修法",
+      "熬夜肌急救攻略"
+    ],
+    "quality_score": 83,
+    "quality_level": "良好",
+    "engagement_estimate": "105万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合春季护肤夜修法 熬夜肌急救攻略热点，以情感共鸣角度切入，推荐清扬相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1625",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "护肤品",
+        "抗衰老产品"
+      ]
+    },
+    "title": "【品牌故事】春季护肤夜修法 熬夜肌急救攻略...",
+    "platform": "小红书",
+    "angle": "品牌故事",
+    "hot_topic": "春季护肤夜修法 熬夜肌急救攻略",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "上升",
+    "product": "抗衰老产品",
+    "keywords": [
+      "春季护肤夜修法",
+      "熬夜肌急救攻略"
+    ],
+    "quality_score": 89,
+    "quality_level": "良好",
+    "engagement_estimate": "89万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合春季护肤夜修法 熬夜肌急救攻略热点，以品牌故事角度切入，推荐玉兰油相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1626",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "护肤品",
+        "抗衰老产品"
+      ]
+    },
+    "title": "【产品测评】熬夜党必看 护肝产品搜索量凌晨激增...",
+    "platform": "抖音",
+    "angle": "产品测评",
+    "hot_topic": "熬夜党必看 护肝产品搜索量凌晨激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "上升",
+    "product": "抗衰老产品",
+    "keywords": [
+      "熬夜党必看",
+      "护肝产品搜索量凌晨激增"
+    ],
+    "quality_score": 82,
+    "quality_level": "优质",
+    "engagement_estimate": "92万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合熬夜党必看 护肝产品搜索量凌晨激增热点，以产品测评角度切入，推荐玉兰油相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1627",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "健康",
+      "products": [
+        "保健品",
+        "维生素"
+      ]
+    },
+    "title": "【品牌故事】凌晨失眠话题冲上热搜 打工人睡眠焦虑引共...",
+    "platform": "B站",
+    "angle": "品牌故事",
+    "hot_topic": "凌晨失眠话题冲上热搜 打工人睡眠焦虑引共鸣",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.9亿",
+    "trend": "上升",
+    "product": "维生素",
+    "keywords": [
+      "凌晨失眠话题冲上热搜",
+      "打工人睡眠焦虑引共鸣"
+    ],
+    "quality_score": 90,
+    "quality_level": "优质",
+    "engagement_estimate": "93万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合凌晨失眠话题冲上热搜 打工人睡眠焦虑引共鸣热点，以品牌故事角度切入，推荐汤臣倍健相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1628",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "健康",
+      "products": [
+        "保健品",
+        "维生素"
+      ]
+    },
+    "title": "【创意玩法】熬夜党必看 护肝产品搜索量凌晨激增...",
+    "platform": "小红书",
+    "angle": "创意玩法",
+    "hot_topic": "熬夜党必看 护肝产品搜索量凌晨激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "上升",
+    "product": "保健品",
+    "keywords": [
+      "熬夜党必看",
+      "护肝产品搜索量凌晨激增"
+    ],
+    "quality_score": 83,
+    "quality_level": "良好",
+    "engagement_estimate": "97万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合熬夜党必看 护肝产品搜索量凌晨激增热点，以创意玩法角度切入，推荐汤臣倍健相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1629",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "健康",
+      "products": [
+        "保健品",
+        "维生素"
+      ]
+    },
+    "title": "【场景种草】凌晨健身人群增加 夜跑族安全指南...",
+    "platform": "抖音",
+    "angle": "场景种草",
+    "hot_topic": "凌晨健身人群增加 夜跑族安全指南",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.4亿",
+    "trend": "稳定",
+    "product": "维生素",
+    "keywords": [
+      "凌晨健身人群增加",
+      "夜跑族安全指南"
+    ],
+    "quality_score": 81,
+    "quality_level": "优质",
+    "engagement_estimate": "94万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合凌晨健身人群增加 夜跑族安全指南热点，以场景种草角度切入，推荐汤臣倍健相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1630",
+    "client": {
+      "brand": "善存",
+      "industry": "健康",
+      "products": [
+        "维生素",
+        "保健品"
+      ]
+    },
+    "title": "【品牌故事】凌晨失眠话题冲上热搜 打工人睡眠焦虑引共...",
+    "platform": "抖音",
+    "angle": "品牌故事",
+    "hot_topic": "凌晨失眠话题冲上热搜 打工人睡眠焦虑引共鸣",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.9亿",
+    "trend": "上升",
+    "product": "维生素",
+    "keywords": [
+      "凌晨失眠话题冲上热搜",
+      "打工人睡眠焦虑引共鸣"
+    ],
+    "quality_score": 91,
+    "quality_level": "良好",
+    "engagement_estimate": "86万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合凌晨失眠话题冲上热搜 打工人睡眠焦虑引共鸣热点，以品牌故事角度切入，推荐善存相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1631",
+    "client": {
+      "brand": "善存",
+      "industry": "健康",
+      "products": [
+        "维生素",
+        "保健品"
+      ]
+    },
+    "title": "【健康理念】熬夜党必看 护肝产品搜索量凌晨激增...",
+    "platform": "抖音",
+    "angle": "健康理念",
+    "hot_topic": "熬夜党必看 护肝产品搜索量凌晨激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "上升",
+    "product": "保健品",
+    "keywords": [
+      "熬夜党必看",
+      "护肝产品搜索量凌晨激增"
+    ],
+    "quality_score": 84,
+    "quality_level": "优质",
+    "engagement_estimate": "98万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合熬夜党必看 护肝产品搜索量凌晨激增热点，以健康理念角度切入，推荐善存相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1632",
+    "client": {
+      "brand": "善存",
+      "industry": "健康",
+      "products": [
+        "维生素",
+        "保健品"
+      ]
+    },
+    "title": "【品牌故事】凌晨健身人群增加 夜跑族安全指南...",
+    "platform": "微博",
+    "angle": "品牌故事",
+    "hot_topic": "凌晨健身人群增加 夜跑族安全指南",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.4亿",
+    "trend": "稳定",
+    "product": "维生素",
+    "keywords": [
+      "凌晨健身人群增加",
+      "夜跑族安全指南"
+    ],
+    "quality_score": 84,
+    "quality_level": "优质",
+    "engagement_estimate": "92万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合凌晨健身人群增加 夜跑族安全指南热点，以品牌故事角度切入，推荐善存相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1633",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆",
+      "products": [
+        "护肤品"
+      ]
+    },
+    "title": "【痛点解决】春季护肤夜修法 熬夜肌急救攻略...",
+    "platform": "知乎",
+    "angle": "痛点解决",
+    "hot_topic": "春季护肤夜修法 熬夜肌急救攻略",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "上升",
+    "product": "护肤品",
+    "keywords": [
+      "春季护肤夜修法",
+      "熬夜肌急救攻略"
+    ],
+    "quality_score": 90,
+    "quality_level": "优质",
+    "engagement_estimate": "87万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合春季护肤夜修法 熬夜肌急救攻略热点，以痛点解决角度切入，推荐HC相关产品，目标平台知乎。"
+  },
+  {
+    "id": "exp_1634",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居",
+      "products": [
+        "清洁用品"
+      ]
+    },
+    "title": "【健康理念】清洁好物深夜测评 洗地机vs扫地机器人谁...",
+    "platform": "知乎",
+    "angle": "健康理念",
+    "hot_topic": "清洁好物深夜测评 洗地机vs扫地机器人谁更强",
+    "hot_topic_type": "家居热点",
+    "heat": "4.3亿",
+    "trend": "稳定",
+    "product": "清洁用品",
+    "keywords": [
+      "清洁好物深夜测评",
+      "洗地机vs扫地机器人谁更强"
+    ],
+    "quality_score": 86,
+    "quality_level": "良好",
+    "engagement_estimate": "98万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合清洁好物深夜测评 洗地机vs扫地机器人谁更强热点，以健康理念角度切入，推荐威猛先生相关产品，目标平台知乎。"
+  },
+  {
+    "id": "exp_1635",
+    "client": {
+      "brand": "舒适",
+      "industry": "美妆",
+      "products": [
+        "剃须刀",
+        "个人护理"
+      ]
+    },
+    "title": "【创意玩法】春季护肤夜修法 熬夜肌急救攻略...",
+    "platform": "微博",
+    "angle": "创意玩法",
+    "hot_topic": "春季护肤夜修法 熬夜肌急救攻略",
+    "hot_topic_type": "美妆热点",
+    "heat": "4.6亿",
+    "trend": "上升",
+    "product": "个人护理",
+    "keywords": [
+      "春季护肤夜修法",
+      "熬夜肌急救攻略"
+    ],
+    "quality_score": 81,
+    "quality_level": "优质",
+    "engagement_estimate": "101万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合春季护肤夜修法 熬夜肌急救攻略热点，以创意玩法角度切入，推荐舒适相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1636",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物",
+      "products": [
+        "猫粮",
+        "宠物食品"
+      ]
+    },
+    "title": "【功能种草】宠物夜生活 猫咪凌晨活跃引铲屎官共鸣...",
+    "platform": "微博",
+    "angle": "功能种草",
+    "hot_topic": "宠物夜生活 猫咪凌晨活跃引铲屎官共鸣",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.3亿",
+    "trend": "上升",
+    "product": "猫粮",
+    "keywords": [
+      "宠物夜生活",
+      "猫咪凌晨活跃引铲屎官共鸣"
+    ],
+    "quality_score": 87,
+    "quality_level": "优质",
+    "engagement_estimate": "104万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合宠物夜生活 猫咪凌晨活跃引铲屎官共鸣热点，以功能种草角度切入，推荐希宝相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1637",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "宠物食品",
+        "猫粮",
+        "狗粮"
+      ]
+    },
+    "title": "【场景种草】宠物夜生活 猫咪凌晨活跃引铲屎官共鸣...",
+    "platform": "B站",
+    "angle": "场景种草",
+    "hot_topic": "宠物夜生活 猫咪凌晨活跃引铲屎官共鸣",
+    "hot_topic_type": "母婴热点",
+    "heat": "4.3亿",
+    "trend": "上升",
+    "product": "猫粮",
+    "keywords": [
+      "宠物夜生活",
+      "猫咪凌晨活跃引铲屎官共鸣"
+    ],
+    "quality_score": 91,
+    "quality_level": "良好",
+    "engagement_estimate": "95万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合宠物夜生活 猫咪凌晨活跃引铲屎官共鸣热点，以场景种草角度切入，推荐皇家相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1638",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "燕麦奶",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "【功能种草】凌晨咖啡文化 夜班打工人续命指南...",
+    "platform": "小红书",
+    "angle": "功能种草",
+    "hot_topic": "凌晨咖啡文化 夜班打工人续命指南",
+    "hot_topic_type": "美食热点",
+    "heat": "4.7亿",
+    "trend": "稳定",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "凌晨咖啡文化",
+      "夜班打工人续命指南"
+    ],
+    "quality_score": 88,
+    "quality_level": "优质",
+    "engagement_estimate": "101万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合凌晨咖啡文化 夜班打工人续命指南热点，以功能种草角度切入，推荐OATLY相关产品，目标平台小红书。"
+  },
+  {
+    "id": "exp_1639",
+    "client": {
+      "brand": "OATLY",
+      "industry": "食品",
+      "products": [
+        "燕麦奶",
+        "咖啡伴侣"
+      ]
+    },
+    "title": "【产品测评】深夜追剧必备零食清单 减脂党也能放心吃...",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "深夜追剧必备零食清单 减脂党也能放心吃",
+    "hot_topic_type": "美食热点",
+    "heat": "4.7亿",
+    "trend": "上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "深夜追剧必备零食清单",
+      "减脂党也能放心吃"
+    ],
+    "quality_score": 88,
+    "quality_level": "优质",
+    "engagement_estimate": "101万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合深夜追剧必备零食清单 减脂党也能放心吃热点，以产品测评角度切入，推荐OATLY相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1640",
+    "client": {
+      "brand": "百威",
+      "industry": "食品",
+      "products": [
+        "啤酒",
+        "饮品"
+      ]
+    },
+    "title": "【季节种草】深夜追剧必备零食清单 减脂党也能放心吃...",
+    "platform": "抖音",
+    "angle": "季节种草",
+    "hot_topic": "深夜追剧必备零食清单 减脂党也能放心吃",
+    "hot_topic_type": "美食热点",
+    "heat": "4.7亿",
+    "trend": "上升",
+    "product": "啤酒",
+    "keywords": [
+      "深夜追剧必备零食清单",
+      "减脂党也能放心吃"
+    ],
+    "quality_score": 91,
+    "quality_level": "良好",
+    "engagement_estimate": "103万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合深夜追剧必备零食清单 减脂党也能放心吃热点，以季节种草角度切入，推荐百威相关产品，目标平台抖音。"
+  },
+  {
+    "id": "exp_1641",
+    "client": {
+      "brand": "百威",
+      "industry": "食品",
+      "products": [
+        "啤酒",
+        "饮品"
+      ]
+    },
+    "title": "【场景种草】凌晨咖啡文化 夜班打工人续命指南...",
+    "platform": "微博",
+    "angle": "场景种草",
+    "hot_topic": "凌晨咖啡文化 夜班打工人续命指南",
+    "hot_topic_type": "美食热点",
+    "heat": "4.7亿",
+    "trend": "稳定",
+    "product": "啤酒",
+    "keywords": [
+      "凌晨咖啡文化",
+      "夜班打工人续命指南"
+    ],
+    "quality_score": 85,
+    "quality_level": "优质",
+    "engagement_estimate": "89万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合凌晨咖啡文化 夜班打工人续命指南热点，以场景种草角度切入，推荐百威相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1642",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品",
+      "products": [
+        "气泡水",
+        "乳茶",
+        "饮品"
+      ]
+    },
+    "title": "【产品测评】深夜追剧必备零食清单 减脂党也能放心吃...",
+    "platform": "B站",
+    "angle": "产品测评",
+    "hot_topic": "深夜追剧必备零食清单 减脂党也能放心吃",
+    "hot_topic_type": "美食热点",
+    "heat": "4.7亿",
+    "trend": "上升",
+    "product": "乳茶",
+    "keywords": [
+      "深夜追剧必备零食清单",
+      "减脂党也能放心吃"
+    ],
+    "quality_score": 92,
+    "quality_level": "良好",
+    "engagement_estimate": "101万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合深夜追剧必备零食清单 减脂党也能放心吃热点，以产品测评角度切入，推荐元气森林相关产品，目标平台B站。"
+  },
+  {
+    "id": "exp_1643",
+    "client": {
+      "brand": "元气森林",
+      "industry": "食品",
+      "products": [
+        "气泡水",
+        "乳茶",
+        "饮品"
+      ]
+    },
+    "title": "【专业场景】凌晨健身人群增加 夜跑族安全指南...",
+    "platform": "微博",
+    "angle": "专业场景",
+    "hot_topic": "凌晨健身人群增加 夜跑族安全指南",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.4亿",
+    "trend": "稳定",
+    "product": "乳茶",
+    "keywords": [
+      "凌晨健身人群增加",
+      "夜跑族安全指南"
+    ],
+    "quality_score": 92,
+    "quality_level": "良好",
+    "engagement_estimate": "103万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合凌晨健身人群增加 夜跑族安全指南热点，以专业场景角度切入，推荐元气森林相关产品，目标平台微博。"
+  },
+  {
+    "id": "exp_1644",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品",
+      "products": [
+        "矿泉水",
+        "饮料"
+      ]
+    },
+    "title": "【情感共鸣】深夜追剧必备零食清单 减脂党也能放心吃...",
+    "platform": "知乎",
+    "angle": "情感共鸣",
+    "hot_topic": "深夜追剧必备零食清单 减脂党也能放心吃",
+    "hot_topic_type": "美食热点",
+    "heat": "4.7亿",
+    "trend": "上升",
+    "product": "矿泉水",
+    "keywords": [
+      "深夜追剧必备零食清单",
+      "减脂党也能放心吃"
+    ],
+    "quality_score": 87,
+    "quality_level": "优质",
+    "engagement_estimate": "93万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合深夜追剧必备零食清单 减脂党也能放心吃热点，以情感共鸣角度切入，推荐农夫山泉相关产品，目标平台知乎。"
+  },
+  {
+    "id": "exp_1645",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "食品",
+      "products": [
+        "矿泉水",
+        "饮料"
+      ]
+    },
+    "title": "【创意玩法】凌晨健身人群增加 夜跑族安全指南...",
+    "platform": "B站",
+    "angle": "创意玩法",
+    "hot_topic": "凌晨健身人群增加 夜跑族安全指南",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.4亿",
+    "trend": "稳定",
+    "product": "饮料",
+    "keywords": [
+      "凌晨健身人群增加",
+      "夜跑族安全指南"
+    ],
+    "quality_score": 89,
+    "quality_level": "优质",
+    "engagement_estimate": "92万+",
+    "status": "待创作",
+    "created_at": "2026-04-07T01:16:37",
+    "content": "结合凌晨健身人群增加 夜跑族安全指南热点，以创意玩法角度切入，推荐农夫山泉相关产品，目标平台B站。"
   }
 ]
