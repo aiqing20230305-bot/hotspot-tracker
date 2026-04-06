@@ -4618,6 +4618,7 @@
             updateStats(allTopics, allIdeas);
             renderTopics();
             renderTopicsCount(allTopics.length);
+            updateQuickFilterCounts(allTopics); // 更新快捷筛选计数
             showCacheIndicator(topicsFresh && ideasFresh);
             
             // 初始化并更新高级可视化图表
@@ -4660,10 +4661,11 @@
             const clients = new Set();
             topics.forEach(t => { if (t.c) t.c.forEach(c => clients.add(c)); });
             
-            // 统计各平台热点数
-            const douyinCount = topics.filter(t => t.platform === '抖音').length;
-            const weiboCount = topics.filter(t => t.platform === '微博').length;
-            const xhsCount = topics.filter(t => t.platform === '小红书').length;
+            // 统计各平台热点数（使用 includes 模糊匹配，兼容组合格式如"微博/抖音"）
+            const getPlatformCount = (name) => topics.filter(t => (t.platform || '').includes(name)).length;
+            const douyinCount = getPlatformCount('抖音');
+            const weiboCount = getPlatformCount('微博');
+            const xhsCount = getPlatformCount('小红书');
             
             // 统计选题覆盖的客户数
             const ideaClients = new Set();
@@ -4886,7 +4888,7 @@
             
             // 平台筛选 - 支持 platforms 数组和 platform 字符串（含组合格式如"微博/抖音"）
             if (currentFilter !== 'all') {
-                topics = allTopics.filter(t => {
+                topics = topics.filter(t => {
                     // 优先检查 platforms 数组
                     if (t.platforms && Array.isArray(t.platforms)) {
                         return t.platforms.includes(currentFilter);
@@ -4898,6 +4900,24 @@
                     }
                     // 精确匹配
                     return platform === currentFilter;
+                });
+            }
+            
+            // 快捷筛选（热度上升、今日新增、有客户匹配、TOP10）
+            if (quickFilterActive) {
+                topics = topics.filter(t => {
+                    switch (quickFilterActive) {
+                        case 'hasClient':
+                            return t.c && t.c.length > 0;
+                        case 'rising':
+                            return (t.trend || '').includes('上升');
+                        case 'today':
+                            return t.isNew === true;
+                        case 'top10':
+                            return (t.rank || 999) <= 10;
+                        default:
+                            return true;
+                    }
                 });
             }
             
