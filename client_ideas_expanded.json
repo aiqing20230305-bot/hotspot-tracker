@@ -1,0 +1,7876 @@
+[
+  {
+    "id": "exp_001",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 笔记本游戏性能热...",
+    "platform": "抖音/小红书",
+    "angle": "创意玩法",
+    "hot_topic": "笔记本游戏性能热",
+    "hot_topic_type": "游戏热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "续航",
+      "屏幕",
+      "AI"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合游戏热点「笔记本游戏性能热」，为荣耀手机策划创意玩法内容。"
+  },
+  {
+    "id": "exp_002",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 低卡奶茶成新趋势...",
+    "platform": "知乎/B站",
+    "angle": "产品测评",
+    "hot_topic": "低卡奶茶成新趋势",
+    "hot_topic_type": "美食热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "影像",
+      "快充",
+      "续航"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "90万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「低卡奶茶成新趋势」，为荣耀手机策划产品测评内容。"
+  },
+  {
+    "id": "exp_003",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 春日饮品上新热...",
+    "platform": "B站/知乎",
+    "angle": "季节种草",
+    "hot_topic": "春日饮品上新热",
+    "hot_topic_type": "美食热点",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "续航",
+      "AI",
+      "摄影"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "104万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「春日饮品上新热」，为荣耀手机策划季节种草内容。"
+  },
+  {
+    "id": "exp_004",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 可持续消费受关注...",
+    "platform": "抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "可持续消费受关注",
+    "hot_topic_type": "环保热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "屏幕",
+      "日常",
+      "影像"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "90万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合环保热点「可持续消费受关注」，为荣耀手机策划功能种草内容。"
+  },
+  {
+    "id": "exp_005",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 多设备协同办公成热话题...",
+    "platform": "B站/小红书",
+    "angle": "功能种草",
+    "hot_topic": "多设备协同办公成热话题",
+    "hot_topic_type": "科技热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "影像",
+      "AI",
+      "日常"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「多设备协同办公成热话题」，为荣耀手机策划功能种草内容。"
+  },
+  {
+    "id": "exp_006",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 商务出差装备热...",
+    "platform": "微博/小红书",
+    "angle": "专业场景",
+    "hot_topic": "商务出差装备热",
+    "hot_topic_type": "职场热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "日常",
+      "续航",
+      "游戏"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "89万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「商务出差装备热」，为荣耀手机策划专业场景内容。"
+  },
+  {
+    "id": "exp_007",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 夏日饮品推荐热...",
+    "platform": "抖音/B站",
+    "angle": "商务场景",
+    "hot_topic": "夏日饮品推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "性能",
+      "续航",
+      "AI"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品推荐热」，为荣耀手机策划商务场景内容。"
+  },
+  {
+    "id": "exp_008",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 功能饮料市场竞争激烈...",
+    "platform": "抖音/B站",
+    "angle": "场景种草",
+    "hot_topic": "功能饮料市场竞争激烈",
+    "hot_topic_type": "体育热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "日常",
+      "摄影",
+      "AI"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合体育热点「功能饮料市场竞争激烈」，为荣耀手机策划场景种草内容。"
+  },
+  {
+    "id": "exp_009",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 精品咖啡文化兴起...",
+    "platform": "B站/小红书",
+    "angle": "品牌故事",
+    "hot_topic": "精品咖啡文化兴起",
+    "hot_topic_type": "美食热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "性能",
+      "AI",
+      "日常"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「精品咖啡文化兴起」，为荣耀手机策划品牌故事内容。"
+  },
+  {
+    "id": "exp_010",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 手机隐私安全热...",
+    "platform": "知乎/B站",
+    "angle": "专业场景",
+    "hot_topic": "手机隐私安全热",
+    "hot_topic_type": "科技热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "屏幕",
+      "游戏",
+      "续航"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机隐私安全热」，为荣耀手机策划专业场景内容。"
+  },
+  {
+    "id": "exp_011",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 卫星通信技术热...",
+    "platform": "抖音/B站",
+    "angle": "健康理念",
+    "hot_topic": "卫星通信技术热",
+    "hot_topic_type": "科技热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "续航",
+      "屏幕",
+      "拍照"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「卫星通信技术热」，为荣耀手机策划健康理念内容。"
+  },
+  {
+    "id": "exp_012",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 奶茶周边收藏热...",
+    "platform": "微博/小红书",
+    "angle": "生态种草",
+    "hot_topic": "奶茶周边收藏热",
+    "hot_topic_type": "收藏热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "影像",
+      "日常",
+      "游戏"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合收藏热点「奶茶周边收藏热」，为荣耀手机策划生态种草内容。"
+  },
+  {
+    "id": "exp_013",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 燕麦拿铁成咖啡店标配...",
+    "platform": "知乎/B站",
+    "angle": "生活方式",
+    "hot_topic": "燕麦拿铁成咖啡店标配",
+    "hot_topic_type": "美食热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "创作",
+      "学习",
+      "轻办公"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「燕麦拿铁成咖啡店标配」，为荣耀平板策划生活方式内容。"
+  },
+  {
+    "id": "exp_014",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 手机续航焦虑成热话题...",
+    "platform": "小红书/微博",
+    "angle": "技术创新",
+    "hot_topic": "手机续航焦虑成热话题",
+    "hot_topic_type": "科技热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "绘画",
+      "教育",
+      "学习"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机续航焦虑成热话题」，为荣耀平板策划技术创新内容。"
+  },
+  {
+    "id": "exp_015",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 奶茶隐藏菜单热...",
+    "platform": "小红书/微博",
+    "angle": "痛点解决",
+    "hot_topic": "奶茶隐藏菜单热",
+    "hot_topic_type": "美食热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "便携",
+      "教育",
+      "学习"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「奶茶隐藏菜单热」，为荣耀平板策划痛点解决内容。"
+  },
+  {
+    "id": "exp_016",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 办公室下午茶文化...",
+    "platform": "抖音/小红书",
+    "angle": "产品测评",
+    "hot_topic": "办公室下午茶文化",
+    "hot_topic_type": "职场热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "创作",
+      "学习",
+      "娱乐"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「办公室下午茶文化」，为荣耀平板策划产品测评内容。"
+  },
+  {
+    "id": "exp_017",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 露营户外热潮持续...",
+    "platform": "微博/小红书",
+    "angle": "商务场景",
+    "hot_topic": "露营户外热潮持续",
+    "hot_topic_type": "生活方式热点",
+    "heat": "650万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "创作",
+      "追剧",
+      "娱乐"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「露营户外热潮持续」，为荣耀平板策划商务场景内容。"
+  },
+  {
+    "id": "exp_018",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 乳糖不耐受人群关注...",
+    "platform": "微博/抖音",
+    "angle": "季节种草",
+    "hot_topic": "乳糖不耐受人群关注",
+    "hot_topic_type": "健康热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "教育",
+      "便携",
+      "轻办公"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "87万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「乳糖不耐受人群关注」，为荣耀平板策划季节种草内容。"
+  },
+  {
+    "id": "exp_019",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 清明踏青赏花成热门...",
+    "platform": "微博/抖音",
+    "angle": "产品测评",
+    "hot_topic": "清明踏青赏花成热门",
+    "hot_topic_type": "生活方式热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "绘画",
+      "教育",
+      "娱乐"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「清明踏青赏花成热门」，为荣耀平板策划产品测评内容。"
+  },
+  {
+    "id": "exp_020",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 开学季笔记本选购...",
+    "platform": "微博/抖音",
+    "angle": "健康理念",
+    "hot_topic": "开学季笔记本选购",
+    "hot_topic_type": "教育热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "娱乐",
+      "办公",
+      "大屏"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「开学季笔记本选购」，为荣耀平板策划健康理念内容。"
+  },
+  {
+    "id": "exp_021",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 无卡出行成趋势...",
+    "platform": "抖音/B站",
+    "angle": "生态种草",
+    "hot_topic": "无卡出行成趋势",
+    "hot_topic_type": "生活方式热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "大屏",
+      "办公",
+      "追剧"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「无卡出行成趋势」，为荣耀平板策划生态种草内容。"
+  },
+  {
+    "id": "exp_022",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 早C晚A生活方式...",
+    "platform": "B站/知乎",
+    "angle": "创意玩法",
+    "hot_topic": "早C晚A生活方式",
+    "hot_topic_type": "生活方式热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "办公",
+      "绘画",
+      "娱乐"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「早C晚A生活方式」，为荣耀平板策划创意玩法内容。"
+  },
+  {
+    "id": "exp_023",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 新式茶饮持续火爆...",
+    "platform": "抖音/B站",
+    "angle": "创意玩法",
+    "hot_topic": "新式茶饮持续火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "教育",
+      "大屏",
+      "轻办公"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「新式茶饮持续火爆」，为荣耀平板策划创意玩法内容。"
+  },
+  {
+    "id": "exp_024",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 手机隐私安全热...",
+    "platform": "B站/知乎",
+    "angle": "创意玩法",
+    "hot_topic": "手机隐私安全热",
+    "hot_topic_type": "科技热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "办公",
+      "追剧",
+      "大屏"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "90万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机隐私安全热」，为荣耀平板策划创意玩法内容。"
+  },
+  {
+    "id": "exp_025",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 冬季热饮推荐热...",
+    "platform": "微博/抖音",
+    "angle": "DIY教程",
+    "hot_topic": "冬季热饮推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "出差",
+      "轻薄",
+      "便携"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「冬季热饮推荐热」，为荣耀笔记本策划DIY教程内容。"
+  },
+  {
+    "id": "exp_026",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 手机快充技术比拼...",
+    "platform": "B站/知乎",
+    "angle": "品牌故事",
+    "hot_topic": "手机快充技术比拼",
+    "hot_topic_type": "科技热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "轻薄",
+      "性能",
+      "设计"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机快充技术比拼」，为荣耀笔记本策划品牌故事内容。"
+  },
+  {
+    "id": "exp_027",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | AI修图工具爆火...",
+    "platform": "B站/小红书",
+    "angle": "生态种草",
+    "hot_topic": "AI修图工具爆火",
+    "hot_topic_type": "科技热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "续航",
+      "学生",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「AI修图工具爆火」，为荣耀笔记本策划生态种草内容。"
+  },
+  {
+    "id": "exp_028",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 低卡奶茶成新趋势...",
+    "platform": "知乎/B站",
+    "angle": "品牌故事",
+    "hot_topic": "低卡奶茶成新趋势",
+    "hot_topic_type": "美食热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "游戏",
+      "轻薄",
+      "设计"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "88万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「低卡奶茶成新趋势」，为荣耀笔记本策划品牌故事内容。"
+  },
+  {
+    "id": "exp_029",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 手机游戏性能测试热...",
+    "platform": "抖音/小红书",
+    "angle": "季节种草",
+    "hot_topic": "手机游戏性能测试热",
+    "hot_topic_type": "游戏热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "设计",
+      "办公",
+      "轻薄"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合游戏热点「手机游戏性能测试热」，为荣耀笔记本策划季节种草内容。"
+  },
+  {
+    "id": "exp_030",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 周末宅家追剧成主流...",
+    "platform": "抖音/B站",
+    "angle": "情感共鸣",
+    "hot_topic": "周末宅家追剧成主流",
+    "hot_topic_type": "生活方式热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "续航",
+      "出差",
+      "轻薄"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「周末宅家追剧成主流」，为荣耀笔记本策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_031",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 无卡出行成趋势...",
+    "platform": "B站/小红书",
+    "angle": "生态种草",
+    "hot_topic": "无卡出行成趋势",
+    "hot_topic_type": "生活方式热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "便携",
+      "游戏",
+      "学生"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "105万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「无卡出行成趋势」，为荣耀笔记本策划生态种草内容。"
+  },
+  {
+    "id": "exp_032",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 手机长焦摄影热...",
+    "platform": "B站/知乎",
+    "angle": "生态种草",
+    "hot_topic": "手机长焦摄影热",
+    "hot_topic_type": "摄影热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "续航",
+      "游戏",
+      "商务"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机长焦摄影热」，为荣耀笔记本策划生态种草内容。"
+  },
+  {
+    "id": "exp_033",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 环保与自然受关注...",
+    "platform": "小红书/微博",
+    "angle": "创意玩法",
+    "hot_topic": "环保与自然受关注",
+    "hot_topic_type": "环保热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "办公",
+      "续航",
+      "商务"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合环保热点「环保与自然受关注」，为荣耀笔记本策划创意玩法内容。"
+  },
+  {
+    "id": "exp_034",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 商务笔记本选购热...",
+    "platform": "抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "商务笔记本选购热",
+    "hot_topic_type": "职场热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "便携",
+      "出差",
+      "学生"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「商务笔记本选购热」，为荣耀笔记本策划功能种草内容。"
+  },
+  {
+    "id": "exp_035",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 饮料测评内容火爆...",
+    "platform": "微博/抖音",
+    "angle": "社交种草",
+    "hot_topic": "饮料测评内容火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "设计",
+      "商务",
+      "性能"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「饮料测评内容火爆」，为荣耀笔记本策划社交种草内容。"
+  },
+  {
+    "id": "exp_036",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 夏日饮品DIY热潮...",
+    "platform": "小红书/B站",
+    "angle": "商务场景",
+    "hot_topic": "夏日饮品DIY热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "便携",
+      "设计",
+      "续航"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品DIY热潮」，为荣耀笔记本策划商务场景内容。"
+  },
+  {
+    "id": "exp_037",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 低卡奶茶成新趋势...",
+    "platform": "微博/抖音",
+    "angle": "DIY教程",
+    "hot_topic": "低卡奶茶成新趋势",
+    "hot_topic_type": "美食热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "水源",
+      "运动",
+      "补水"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「低卡奶茶成新趋势」，为农夫山泉矿泉水策划DIY教程内容。"
+  },
+  {
+    "id": "exp_038",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 手机续航焦虑成热话题...",
+    "platform": "小红书/微博",
+    "angle": "产品测评",
+    "hot_topic": "手机续航焦虑成热话题",
+    "hot_topic_type": "科技热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "运动",
+      "泡茶",
+      "补水"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机续航焦虑成热话题」，为农夫山泉矿泉水策划产品测评内容。"
+  },
+  {
+    "id": "exp_039",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 奶茶周边收藏热...",
+    "platform": "B站/小红书",
+    "angle": "产品测评",
+    "hot_topic": "奶茶周边收藏热",
+    "hot_topic_type": "收藏热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "健康",
+      "日常",
+      "母婴"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合收藏热点「奶茶周边收藏热」，为农夫山泉矿泉水策划产品测评内容。"
+  },
+  {
+    "id": "exp_040",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 素食主义生活方式流行...",
+    "platform": "抖音/B站",
+    "angle": "场景种草",
+    "hot_topic": "素食主义生活方式流行",
+    "hot_topic_type": "生活方式热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "补水",
+      "品质",
+      "天然"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「素食主义生活方式流行」，为农夫山泉矿泉水策划场景种草内容。"
+  },
+  {
+    "id": "exp_041",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 卫星通信技术热...",
+    "platform": "微博/小红书",
+    "angle": "场景营销",
+    "hot_topic": "卫星通信技术热",
+    "hot_topic_type": "科技热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "泡茶",
+      "补水",
+      "品质"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「卫星通信技术热」，为农夫山泉矿泉水策划场景营销内容。"
+  },
+  {
+    "id": "exp_042",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 运动后营养补充热...",
+    "platform": "抖音/B站",
+    "angle": "攻略分享",
+    "hot_topic": "运动后营养补充热",
+    "hot_topic_type": "体育热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "日常",
+      "厨房",
+      "天然"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合体育热点「运动后营养补充热」，为农夫山泉矿泉水策划攻略分享内容。"
+  },
+  {
+    "id": "exp_043",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 家庭教育受关注...",
+    "platform": "微博/抖音",
+    "angle": "品牌故事",
+    "hot_topic": "家庭教育受关注",
+    "hot_topic_type": "教育热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "厨房",
+      "天然",
+      "品质"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「家庭教育受关注」，为农夫山泉矿泉水策划品牌故事内容。"
+  },
+  {
+    "id": "exp_044",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 手机续航焦虑成热话题...",
+    "platform": "B站/小红书",
+    "angle": "DIY教程",
+    "hot_topic": "手机续航焦虑成热话题",
+    "hot_topic_type": "科技热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "补水",
+      "泡茶",
+      "母婴"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机续航焦虑成热话题」，为农夫山泉矿泉水策划DIY教程内容。"
+  },
+  {
+    "id": "exp_045",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 多设备协同办公成热话题...",
+    "platform": "小红书/B站",
+    "angle": "季节种草",
+    "hot_topic": "多设备协同办公成热话题",
+    "hot_topic_type": "科技热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "水源",
+      "母婴",
+      "泡茶"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "88万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「多设备协同办公成热话题」，为农夫山泉矿泉水策划季节种草内容。"
+  },
+  {
+    "id": "exp_046",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 精品咖啡文化兴起...",
+    "platform": "微博/抖音",
+    "angle": "功能种草",
+    "hot_topic": "精品咖啡文化兴起",
+    "hot_topic_type": "美食热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "泡茶",
+      "天然",
+      "日常"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「精品咖啡文化兴起」，为农夫山泉矿泉水策划功能种草内容。"
+  },
+  {
+    "id": "exp_047",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 运动后营养补充热...",
+    "platform": "B站/小红书",
+    "angle": "周边种草",
+    "hot_topic": "运动后营养补充热",
+    "hot_topic_type": "体育热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "厨房",
+      "日常",
+      "品质"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "104万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合体育热点「运动后营养补充热」，为农夫山泉矿泉水策划周边种草内容。"
+  },
+  {
+    "id": "exp_048",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 家庭烘焙热潮...",
+    "platform": "B站/小红书",
+    "angle": "生活方式",
+    "hot_topic": "家庭烘焙热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "天然",
+      "母婴",
+      "健康"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「家庭烘焙热潮」，为农夫山泉矿泉水策划生活方式内容。"
+  },
+  {
+    "id": "exp_049",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 周末宅家追剧成主流...",
+    "platform": "小红书/抖音",
+    "angle": "场景种草",
+    "hot_topic": "周末宅家追剧成主流",
+    "hot_topic_type": "生活方式热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "解渴",
+      "日常",
+      "口味"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「周末宅家追剧成主流」，为农夫山泉饮料策划场景种草内容。"
+  },
+  {
+    "id": "exp_050",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 卫星通信技术热...",
+    "platform": "小红书/微博",
+    "angle": "技术创新",
+    "hot_topic": "卫星通信技术热",
+    "hot_topic_type": "科技热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "清爽",
+      "新品",
+      "低卡"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「卫星通信技术热」，为农夫山泉饮料策划技术创新内容。"
+  },
+  {
+    "id": "exp_051",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 平板生产力热...",
+    "platform": "小红书/B站",
+    "angle": "功能种草",
+    "hot_topic": "平板生产力热",
+    "hot_topic_type": "职场热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "日常",
+      "聚会",
+      "低卡"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「平板生产力热」，为农夫山泉饮料策划功能种草内容。"
+  },
+  {
+    "id": "exp_052",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 手机人像摄影技巧热...",
+    "platform": "抖音/小红书",
+    "angle": "痛点解决",
+    "hot_topic": "手机人像摄影技巧热",
+    "hot_topic_type": "摄影热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "搭配",
+      "聚会",
+      "推荐"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "89万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机人像摄影技巧热」，为农夫山泉饮料策划痛点解决内容。"
+  },
+  {
+    "id": "exp_053",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 手机摄影专业热...",
+    "platform": "小红书/B站",
+    "angle": "痛点解决",
+    "hot_topic": "手机摄影专业热",
+    "hot_topic_type": "摄影热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "日常",
+      "解渴",
+      "健康"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机摄影专业热」，为农夫山泉饮料策划痛点解决内容。"
+  },
+  {
+    "id": "exp_054",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 居家烹饪技巧热...",
+    "platform": "抖音/B站",
+    "angle": "健康理念",
+    "hot_topic": "居家烹饪技巧热",
+    "hot_topic_type": "生活方式热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "健康",
+      "低卡",
+      "搭配"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「居家烹饪技巧热」，为农夫山泉饮料策划健康理念内容。"
+  },
+  {
+    "id": "exp_055",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 清明踏青赏花成热门...",
+    "platform": "知乎/B站",
+    "angle": "情感共鸣",
+    "hot_topic": "清明踏青赏花成热门",
+    "hot_topic_type": "生活方式热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "低卡",
+      "健康",
+      "推荐"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「清明踏青赏花成热门」，为农夫山泉饮料策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_056",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 手机快充技术比拼...",
+    "platform": "小红书/抖音",
+    "angle": "揭秘种草",
+    "hot_topic": "手机快充技术比拼",
+    "hot_topic_type": "科技热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "解渴",
+      "口味",
+      "日常"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机快充技术比拼」，为农夫山泉饮料策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_057",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 设备生态互联热...",
+    "platform": "小红书/B站",
+    "angle": "专业场景",
+    "hot_topic": "设备生态互联热",
+    "hot_topic_type": "科技热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "搭配",
+      "健康",
+      "解渴"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「设备生态互联热」，为农夫山泉饮料策划专业场景内容。"
+  },
+  {
+    "id": "exp_058",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 精品咖啡文化兴起...",
+    "platform": "微博/小红书",
+    "angle": "场景种草",
+    "hot_topic": "精品咖啡文化兴起",
+    "hot_topic_type": "美食热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "新品",
+      "推荐",
+      "聚会"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「精品咖啡文化兴起」，为农夫山泉饮料策划场景种草内容。"
+  },
+  {
+    "id": "exp_059",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 网红门店打卡热...",
+    "platform": "小红书/B站",
+    "angle": "专业场景",
+    "hot_topic": "网红门店打卡热",
+    "hot_topic_type": "社交热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "口味",
+      "新品",
+      "搭配"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合社交热点「网红门店打卡热」，为农夫山泉饮料策划专业场景内容。"
+  },
+  {
+    "id": "exp_060",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 家庭烘焙热潮...",
+    "platform": "微博/抖音",
+    "angle": "攻略分享",
+    "hot_topic": "家庭烘焙热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "聚会",
+      "口味",
+      "解渴"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「家庭烘焙热潮」，为农夫山泉饮料策划攻略分享内容。"
+  },
+  {
+    "id": "exp_061",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 运动后营养补充热...",
+    "platform": "微博/小红书",
+    "angle": "专业场景",
+    "hot_topic": "运动后营养补充热",
+    "hot_topic_type": "体育热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "减脂",
+      "0糖",
+      "搭配"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合体育热点「运动后营养补充热」，为元气森林气泡水策划专业场景内容。"
+  },
+  {
+    "id": "exp_062",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 咖啡减脂效果热...",
+    "platform": "小红书/微博",
+    "angle": "社交种草",
+    "hot_topic": "咖啡减脂效果热",
+    "hot_topic_type": "健康热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "夏日",
+      "DIY",
+      "清爽"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "104万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「咖啡减脂效果热」，为元气森林气泡水策划社交种草内容。"
+  },
+  {
+    "id": "exp_063",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 设计师工具推荐热...",
+    "platform": "微博/抖音",
+    "angle": "场景营销",
+    "hot_topic": "设计师工具推荐热",
+    "hot_topic_type": "职业热点",
+    "heat": "320万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "0糖",
+      "搭配",
+      "清爽"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职业热点「设计师工具推荐热」，为元气森林气泡水策划场景营销内容。"
+  },
+  {
+    "id": "exp_064",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 触控笔记本热...",
+    "platform": "B站/小红书",
+    "angle": "品牌故事",
+    "hot_topic": "触控笔记本热",
+    "hot_topic_type": "科技热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "健康",
+      "搭配",
+      "清爽"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「触控笔记本热」，为元气森林气泡水策划品牌故事内容。"
+  },
+  {
+    "id": "exp_065",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 办公室养生热潮...",
+    "platform": "小红书/B站",
+    "angle": "情感共鸣",
+    "hot_topic": "办公室养生热潮",
+    "hot_topic_type": "职场热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "0糖",
+      "解腻",
+      "健康"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「办公室养生热潮」，为元气森林气泡水策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_066",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 冬季热饮推荐热...",
+    "platform": "微博/小红书",
+    "angle": "痛点解决",
+    "hot_topic": "冬季热饮推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "无负担",
+      "减脂",
+      "DIY"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「冬季热饮推荐热」，为元气森林气泡水策划痛点解决内容。"
+  },
+  {
+    "id": "exp_067",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 居家烹饪技巧热...",
+    "platform": "抖音/B站",
+    "angle": "周边种草",
+    "hot_topic": "居家烹饪技巧热",
+    "hot_topic_type": "生活方式热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "无负担",
+      "减脂",
+      "0糖"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「居家烹饪技巧热」，为元气森林气泡水策划周边种草内容。"
+  },
+  {
+    "id": "exp_068",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 居家烹饪技巧热...",
+    "platform": "抖音/B站",
+    "angle": "生活方式",
+    "hot_topic": "居家烹饪技巧热",
+    "hot_topic_type": "生活方式热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "解腻",
+      "夏日",
+      "搭配"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「居家烹饪技巧热」，为元气森林气泡水策划生活方式内容。"
+  },
+  {
+    "id": "exp_069",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 商务出差装备热...",
+    "platform": "B站/小红书",
+    "angle": "商务场景",
+    "hot_topic": "商务出差装备热",
+    "hot_topic_type": "职场热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "清爽",
+      "解腻",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「商务出差装备热」，为元气森林气泡水策划商务场景内容。"
+  },
+  {
+    "id": "exp_070",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 新式茶饮持续火爆...",
+    "platform": "小红书/B站",
+    "angle": "品牌故事",
+    "hot_topic": "新式茶饮持续火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "减脂",
+      "0糖",
+      "无负担"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「新式茶饮持续火爆」，为元气森林气泡水策划品牌故事内容。"
+  },
+  {
+    "id": "exp_071",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 家庭教育受关注...",
+    "platform": "知乎/B站",
+    "angle": "场景种草",
+    "hot_topic": "家庭教育受关注",
+    "hot_topic_type": "教育热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "聚会",
+      "减脂",
+      "DIY"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「家庭教育受关注」，为元气森林气泡水策划场景种草内容。"
+  },
+  {
+    "id": "exp_072",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 酱香拿铁热潮...",
+    "platform": "B站/小红书",
+    "angle": "生活方式",
+    "hot_topic": "酱香拿铁热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "夏日",
+      "搭配",
+      "减脂"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "107万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「酱香拿铁热潮」，为元气森林气泡水策划生活方式内容。"
+  },
+  {
+    "id": "exp_073",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 多设备协同办公成热话题...",
+    "platform": "小红书/B站",
+    "angle": "DIY教程",
+    "hot_topic": "多设备协同办公成热话题",
+    "hot_topic_type": "科技热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "追剧",
+      "下午茶",
+      "小确幸"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「多设备协同办公成热话题」，为元气森林乳茶策划DIY教程内容。"
+  },
+  {
+    "id": "exp_074",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 奶茶拍照打卡热...",
+    "platform": "小红书/抖音",
+    "angle": "痛点解决",
+    "hot_topic": "奶茶拍照打卡热",
+    "hot_topic_type": "社交热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "低卡",
+      "追剧",
+      "减脂"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合社交热点「奶茶拍照打卡热」，为元气森林乳茶策划痛点解决内容。"
+  },
+  {
+    "id": "exp_075",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 手机人像摄影技巧热...",
+    "platform": "抖音/B站",
+    "angle": "季节种草",
+    "hot_topic": "手机人像摄影技巧热",
+    "hot_topic_type": "摄影热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "小确幸",
+      "好喝",
+      "低卡"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机人像摄影技巧热」，为元气森林乳茶策划季节种草内容。"
+  },
+  {
+    "id": "exp_076",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 新式茶饮持续火爆...",
+    "platform": "B站/知乎",
+    "angle": "技术创新",
+    "hot_topic": "新式茶饮持续火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "下午茶",
+      "奶茶",
+      "健康"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「新式茶饮持续火爆」，为元气森林乳茶策划技术创新内容。"
+  },
+  {
+    "id": "exp_077",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 手机续航焦虑成热话题...",
+    "platform": "小红书/B站",
+    "angle": "季节种草",
+    "hot_topic": "手机续航焦虑成热话题",
+    "hot_topic_type": "科技热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "好喝",
+      "奶茶",
+      "低卡"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机续航焦虑成热话题」，为元气森林乳茶策划季节种草内容。"
+  },
+  {
+    "id": "exp_078",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 商务笔记本选购热...",
+    "platform": "抖音/B站",
+    "angle": "功能种草",
+    "hot_topic": "商务笔记本选购热",
+    "hot_topic_type": "职场热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "替代",
+      "减脂",
+      "小确幸"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「商务笔记本选购热」，为元气森林乳茶策划功能种草内容。"
+  },
+  {
+    "id": "exp_079",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 咖啡减脂效果热...",
+    "platform": "知乎/B站",
+    "angle": "周边种草",
+    "hot_topic": "咖啡减脂效果热",
+    "hot_topic_type": "健康热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "下午茶",
+      "替代",
+      "小确幸"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「咖啡减脂效果热」，为元气森林乳茶策划周边种草内容。"
+  },
+  {
+    "id": "exp_080",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | AI摄影普及热...",
+    "platform": "微博/小红书",
+    "angle": "生活方式",
+    "hot_topic": "AI摄影普及热",
+    "hot_topic_type": "科技热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "替代",
+      "小确幸",
+      "好喝"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「AI摄影普及热」，为元气森林乳茶策划生活方式内容。"
+  },
+  {
+    "id": "exp_081",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 早C晚A生活方式...",
+    "platform": "小红书/B站",
+    "angle": "健康理念",
+    "hot_topic": "早C晚A生活方式",
+    "hot_topic_type": "生活方式热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "健康",
+      "低卡",
+      "减脂"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「早C晚A生活方式」，为元气森林乳茶策划健康理念内容。"
+  },
+  {
+    "id": "exp_082",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 网红门店打卡热...",
+    "platform": "微博/抖音",
+    "angle": "社交种草",
+    "hot_topic": "网红门店打卡热",
+    "hot_topic_type": "社交热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "小确幸",
+      "好喝",
+      "替代"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合社交热点「网红门店打卡热」，为元气森林乳茶策划社交种草内容。"
+  },
+  {
+    "id": "exp_083",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 茶文化复兴热潮...",
+    "platform": "小红书/抖音",
+    "angle": "商务场景",
+    "hot_topic": "茶文化复兴热潮",
+    "hot_topic_type": "文化热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "减脂",
+      "好喝",
+      "追剧"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合文化热点「茶文化复兴热潮」，为元气森林乳茶策划商务场景内容。"
+  },
+  {
+    "id": "exp_084",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 奶茶隐藏菜单热...",
+    "platform": "抖音/B站",
+    "angle": "场景营销",
+    "hot_topic": "奶茶隐藏菜单热",
+    "hot_topic_type": "美食热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "低卡",
+      "健康",
+      "奶茶"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「奶茶隐藏菜单热」，为元气森林乳茶策划场景营销内容。"
+  },
+  {
+    "id": "exp_085",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 素食主义生活方式流行...",
+    "platform": "微博/小红书",
+    "angle": "创意玩法",
+    "hot_topic": "素食主义生活方式流行",
+    "hot_topic_type": "生活方式热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "运动",
+      "素食",
+      "早餐"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「素食主义生活方式流行」，为OATLY燕麦奶策划创意玩法内容。"
+  },
+  {
+    "id": "exp_086",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 熬夜追剧党必看...",
+    "platform": "抖音/小红书",
+    "angle": "生态种草",
+    "hot_topic": "熬夜追剧党必看",
+    "hot_topic_type": "生活方式热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "烘焙",
+      "乳糖不耐",
+      "咖啡伴侣"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「熬夜追剧党必看」，为OATLY燕麦奶策划生态种草内容。"
+  },
+  {
+    "id": "exp_087",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 设计师工具推荐热...",
+    "platform": "小红书/微博",
+    "angle": "生态种草",
+    "hot_topic": "设计师工具推荐热",
+    "hot_topic_type": "职业热点",
+    "heat": "320万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "植物蛋白",
+      "健康",
+      "素食"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职业热点「设计师工具推荐热」，为OATLY燕麦奶策划生态种草内容。"
+  },
+  {
+    "id": "exp_088",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 冬季热饮推荐热...",
+    "platform": "微博/小红书",
+    "angle": "攻略分享",
+    "hot_topic": "冬季热饮推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "乳糖不耐",
+      "运动",
+      "素食"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「冬季热饮推荐热」，为OATLY燕麦奶策划攻略分享内容。"
+  },
+  {
+    "id": "exp_089",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 设计师工具推荐热...",
+    "platform": "小红书/抖音",
+    "angle": "场景营销",
+    "hot_topic": "设计师工具推荐热",
+    "hot_topic_type": "职业热点",
+    "heat": "320万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "烘焙",
+      "健康",
+      "运动"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职业热点「设计师工具推荐热」，为OATLY燕麦奶策划场景营销内容。"
+  },
+  {
+    "id": "exp_090",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 商务出差装备热...",
+    "platform": "B站/小红书",
+    "angle": "商务场景",
+    "hot_topic": "商务出差装备热",
+    "hot_topic_type": "职场热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "运动",
+      "咖啡伴侣",
+      "植物蛋白"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「商务出差装备热」，为OATLY燕麦奶策划商务场景内容。"
+  },
+  {
+    "id": "exp_091",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 夏日饮品DIY热潮...",
+    "platform": "微博/抖音",
+    "angle": "社交种草",
+    "hot_topic": "夏日饮品DIY热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "烘焙",
+      "素食",
+      "咖啡伴侣"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品DIY热潮」，为OATLY燕麦奶策划社交种草内容。"
+  },
+  {
+    "id": "exp_092",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 即饮咖啡市场升温...",
+    "platform": "B站/知乎",
+    "angle": "周边种草",
+    "hot_topic": "即饮咖啡市场升温",
+    "hot_topic_type": "美食热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "环保",
+      "咖啡伴侣",
+      "儿童"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「即饮咖啡市场升温」，为OATLY燕麦奶策划周边种草内容。"
+  },
+  {
+    "id": "exp_093",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 卫星通信技术热...",
+    "platform": "抖音/小红书",
+    "angle": "DIY教程",
+    "hot_topic": "卫星通信技术热",
+    "hot_topic_type": "科技热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "环保",
+      "咖啡伴侣",
+      "儿童"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「卫星通信技术热」，为OATLY燕麦奶策划DIY教程内容。"
+  },
+  {
+    "id": "exp_094",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 全民健身热潮持续...",
+    "platform": "小红书/抖音",
+    "angle": "社交种草",
+    "hot_topic": "全民健身热潮持续",
+    "hot_topic_type": "体育热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "环保",
+      "早餐",
+      "咖啡伴侣"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合体育热点「全民健身热潮持续」，为OATLY燕麦奶策划社交种草内容。"
+  },
+  {
+    "id": "exp_095",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 城市夜景摄影热...",
+    "platform": "微博/小红书",
+    "angle": "健康理念",
+    "hot_topic": "城市夜景摄影热",
+    "hot_topic_type": "摄影热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "健康",
+      "植物蛋白",
+      "运动"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「城市夜景摄影热」，为OATLY燕麦奶策划健康理念内容。"
+  },
+  {
+    "id": "exp_096",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 精品咖啡文化兴起...",
+    "platform": "知乎/B站",
+    "angle": "场景营销",
+    "hot_topic": "精品咖啡文化兴起",
+    "hot_topic_type": "美食热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "早餐",
+      "素食",
+      "儿童"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「精品咖啡文化兴起」，为OATLY燕麦奶策划场景营销内容。"
+  },
+  {
+    "id": "exp_097",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 卫星通信技术热...",
+    "platform": "知乎/B站",
+    "angle": "功能种草",
+    "hot_topic": "卫星通信技术热",
+    "hot_topic_type": "科技热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "咖啡",
+      "精品",
+      "环保"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "89万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「卫星通信技术热」，为OATLY咖啡伴侣策划功能种草内容。"
+  },
+  {
+    "id": "exp_098",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | AI摄影普及热...",
+    "platform": "微博/抖音",
+    "angle": "生活方式",
+    "hot_topic": "AI摄影普及热",
+    "hot_topic_type": "科技热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "燕麦",
+      "环保",
+      "咖啡"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「AI摄影普及热」，为OATLY咖啡伴侣策划生活方式内容。"
+  },
+  {
+    "id": "exp_099",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 宅家追剧成主流...",
+    "platform": "小红书/微博",
+    "angle": "揭秘种草",
+    "hot_topic": "宅家追剧成主流",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "燕麦",
+      "环保",
+      "拿铁"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「宅家追剧成主流」，为OATLY咖啡伴侣策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_100",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 咖啡DIY教程热...",
+    "platform": "微博/抖音",
+    "angle": "品牌故事",
+    "hot_topic": "咖啡DIY教程热",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "燕麦",
+      "DIY",
+      "咖啡"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「咖啡DIY教程热」，为OATLY咖啡伴侣策划品牌故事内容。"
+  },
+  {
+    "id": "exp_101",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 减脂控糖成生活方式...",
+    "platform": "小红书/B站",
+    "angle": "社交种草",
+    "hot_topic": "减脂控糖成生活方式",
+    "hot_topic_type": "健康热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "拿铁",
+      "精品",
+      "环保"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「减脂控糖成生活方式」，为OATLY咖啡伴侣策划社交种草内容。"
+  },
+  {
+    "id": "exp_102",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 智能家居控制热...",
+    "platform": "B站/小红书",
+    "angle": "功能种草",
+    "hot_topic": "智能家居控制热",
+    "hot_topic_type": "科技热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "咖啡",
+      "咖啡师",
+      "拿铁"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「智能家居控制热」，为OATLY咖啡伴侣策划功能种草内容。"
+  },
+  {
+    "id": "exp_103",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 周末宅家追剧成主流...",
+    "platform": "小红书/微博",
+    "angle": "场景种草",
+    "hot_topic": "周末宅家追剧成主流",
+    "hot_topic_type": "生活方式热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "拿铁",
+      "燕麦",
+      "拉花"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「周末宅家追剧成主流」，为OATLY咖啡伴侣策划场景种草内容。"
+  },
+  {
+    "id": "exp_104",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 考研备考季来临...",
+    "platform": "微博/抖音",
+    "angle": "攻略分享",
+    "hot_topic": "考研备考季来临",
+    "hot_topic_type": "教育热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "环保",
+      "燕麦",
+      "DIY"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「考研备考季来临」，为OATLY咖啡伴侣策划攻略分享内容。"
+  },
+  {
+    "id": "exp_105",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 饮料测评内容火爆...",
+    "platform": "小红书/B站",
+    "angle": "揭秘种草",
+    "hot_topic": "饮料测评内容火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "咖啡",
+      "燕麦",
+      "拉花"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「饮料测评内容火爆」，为OATLY咖啡伴侣策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_106",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 城市夜景摄影热...",
+    "platform": "微博/小红书",
+    "angle": "周边种草",
+    "hot_topic": "城市夜景摄影热",
+    "hot_topic_type": "摄影热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "精品",
+      "拉花",
+      "居家"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「城市夜景摄影热」，为OATLY咖啡伴侣策划周边种草内容。"
+  },
+  {
+    "id": "exp_107",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 儿童教育设备热...",
+    "platform": "小红书/抖音",
+    "angle": "季节种草",
+    "hot_topic": "儿童教育设备热",
+    "hot_topic_type": "教育热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "可持续",
+      "精品",
+      "DIY"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「儿童教育设备热」，为OATLY咖啡伴侣策划季节种草内容。"
+  },
+  {
+    "id": "exp_108",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 远程办公成新常态...",
+    "platform": "小红书/抖音",
+    "angle": "痛点解决",
+    "hot_topic": "远程办公成新常态",
+    "hot_topic_type": "职场热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "燕麦",
+      "居家",
+      "可持续"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「远程办公成新常态」，为OATLY咖啡伴侣策划痛点解决内容。"
+  },
+  {
+    "id": "exp_109",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 减脂期饮食困扰...",
+    "platform": "小红书/抖音",
+    "angle": "痛点解决",
+    "hot_topic": "减脂期饮食困扰",
+    "hot_topic_type": "健康热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "日常",
+      "AI",
+      "性能"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「减脂期饮食困扰」，为小米手机策划痛点解决内容。"
+  },
+  {
+    "id": "exp_110",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 功能饮料市场竞争激烈...",
+    "platform": "抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "功能饮料市场竞争激烈",
+    "hot_topic_type": "体育热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "拍照",
+      "影像",
+      "AI"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合体育热点「功能饮料市场竞争激烈」，为小米手机策划功能种草内容。"
+  },
+  {
+    "id": "exp_111",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 即饮咖啡市场升温...",
+    "platform": "小红书/抖音",
+    "angle": "产品测评",
+    "hot_topic": "即饮咖啡市场升温",
+    "hot_topic_type": "美食热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "影像",
+      "摄影",
+      "游戏"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「即饮咖啡市场升温」，为小米手机策划产品测评内容。"
+  },
+  {
+    "id": "exp_112",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 咖啡减脂效果热...",
+    "platform": "小红书/微博",
+    "angle": "DIY教程",
+    "hot_topic": "咖啡减脂效果热",
+    "hot_topic_type": "健康热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "游戏",
+      "日常",
+      "性能"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「咖啡减脂效果热」，为小米手机策划DIY教程内容。"
+  },
+  {
+    "id": "exp_113",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 设计师工具推荐热...",
+    "platform": "B站/知乎",
+    "angle": "生活方式",
+    "hot_topic": "设计师工具推荐热",
+    "hot_topic_type": "职业热点",
+    "heat": "320万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "续航",
+      "AI",
+      "拍照"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职业热点「设计师工具推荐热」，为小米手机策划生活方式内容。"
+  },
+  {
+    "id": "exp_114",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 卫星通信技术热...",
+    "platform": "小红书/抖音",
+    "angle": "揭秘种草",
+    "hot_topic": "卫星通信技术热",
+    "hot_topic_type": "科技热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "影像",
+      "快充",
+      "屏幕"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「卫星通信技术热」，为小米手机策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_115",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 新式茶饮持续火爆...",
+    "platform": "小红书/B站",
+    "angle": "商务场景",
+    "hot_topic": "新式茶饮持续火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "影像",
+      "快充",
+      "性能"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「新式茶饮持续火爆」，为小米手机策划商务场景内容。"
+  },
+  {
+    "id": "exp_116",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 奶茶周边收藏热...",
+    "platform": "知乎/B站",
+    "angle": "健康理念",
+    "hot_topic": "奶茶周边收藏热",
+    "hot_topic_type": "收藏热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "影像",
+      "续航",
+      "性能"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合收藏热点「奶茶周边收藏热」，为小米手机策划健康理念内容。"
+  },
+  {
+    "id": "exp_117",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 办公室养生热潮...",
+    "platform": "B站/知乎",
+    "angle": "场景营销",
+    "hot_topic": "办公室养生热潮",
+    "hot_topic_type": "职场热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "游戏",
+      "拍照",
+      "屏幕"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「办公室养生热潮」，为小米手机策划场景营销内容。"
+  },
+  {
+    "id": "exp_118",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 快手早餐成刚需...",
+    "platform": "微博/小红书",
+    "angle": "痛点解决",
+    "hot_topic": "快手早餐成刚需",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "拍照",
+      "游戏",
+      "影像"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「快手早餐成刚需」，为小米手机策划痛点解决内容。"
+  },
+  {
+    "id": "exp_119",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 酱香拿铁热潮...",
+    "platform": "知乎/B站",
+    "angle": "生活方式",
+    "hot_topic": "酱香拿铁热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "快充",
+      "日常",
+      "影像"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「酱香拿铁热潮」，为小米手机策划生活方式内容。"
+  },
+  {
+    "id": "exp_120",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 减脂控糖成生活方式...",
+    "platform": "B站/小红书",
+    "angle": "专业场景",
+    "hot_topic": "减脂控糖成生活方式",
+    "hot_topic_type": "健康热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "续航",
+      "日常",
+      "拍照"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「减脂控糖成生活方式」，为小米手机策划专业场景内容。"
+  },
+  {
+    "id": "exp_121",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 手机操作系统对比热...",
+    "platform": "小红书/B站",
+    "angle": "生活方式",
+    "hot_topic": "手机操作系统对比热",
+    "hot_topic_type": "科技热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "追剧",
+      "办公",
+      "创作"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机操作系统对比热」，为小米平板策划生活方式内容。"
+  },
+  {
+    "id": "exp_122",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 家庭烘焙热潮...",
+    "platform": "知乎/B站",
+    "angle": "技术创新",
+    "hot_topic": "家庭烘焙热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "轻办公",
+      "学习",
+      "娱乐"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「家庭烘焙热潮」，为小米平板策划技术创新内容。"
+  },
+  {
+    "id": "exp_123",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 环保与自然受关注...",
+    "platform": "抖音/B站",
+    "angle": "场景种草",
+    "hot_topic": "环保与自然受关注",
+    "hot_topic_type": "环保热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "教育",
+      "追剧",
+      "创作"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "88万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合环保热点「环保与自然受关注」，为小米平板策划场景种草内容。"
+  },
+  {
+    "id": "exp_124",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 运动后营养补充热...",
+    "platform": "微博/抖音",
+    "angle": "健康理念",
+    "hot_topic": "运动后营养补充热",
+    "hot_topic_type": "体育热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "追剧",
+      "教育",
+      "娱乐"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合体育热点「运动后营养补充热」，为小米平板策划健康理念内容。"
+  },
+  {
+    "id": "exp_125",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 手机摄影电影感热...",
+    "platform": "B站/小红书",
+    "angle": "DIY教程",
+    "hot_topic": "手机摄影电影感热",
+    "hot_topic_type": "摄影热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "便携",
+      "办公",
+      "绘画"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机摄影电影感热」，为小米平板策划DIY教程内容。"
+  },
+  {
+    "id": "exp_126",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 夏日饮品DIY热潮...",
+    "platform": "微博/抖音",
+    "angle": "商务场景",
+    "hot_topic": "夏日饮品DIY热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "创作",
+      "娱乐",
+      "轻办公"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品DIY热潮」，为小米平板策划商务场景内容。"
+  },
+  {
+    "id": "exp_127",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 城市夜景摄影热...",
+    "platform": "抖音/小红书",
+    "angle": "产品测评",
+    "hot_topic": "城市夜景摄影热",
+    "hot_topic_type": "摄影热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "追剧",
+      "创作",
+      "办公"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「城市夜景摄影热」，为小米平板策划产品测评内容。"
+  },
+  {
+    "id": "exp_128",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 奶茶拍照打卡热...",
+    "platform": "抖音/B站",
+    "angle": "产品测评",
+    "hot_topic": "奶茶拍照打卡热",
+    "hot_topic_type": "社交热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "教育",
+      "绘画",
+      "娱乐"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合社交热点「奶茶拍照打卡热」，为小米平板策划产品测评内容。"
+  },
+  {
+    "id": "exp_129",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 冬季热饮推荐热...",
+    "platform": "小红书/B站",
+    "angle": "专业场景",
+    "hot_topic": "冬季热饮推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "绘画",
+      "追剧",
+      "大屏"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「冬季热饮推荐热」，为小米平板策划专业场景内容。"
+  },
+  {
+    "id": "exp_130",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 手机隐私安全热...",
+    "platform": "微博/抖音",
+    "angle": "品牌故事",
+    "hot_topic": "手机隐私安全热",
+    "hot_topic_type": "科技热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "绘画",
+      "轻办公",
+      "便携"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机隐私安全热」，为小米平板策划品牌故事内容。"
+  },
+  {
+    "id": "exp_131",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 奶茶拍照打卡热...",
+    "platform": "小红书/微博",
+    "angle": "场景营销",
+    "hot_topic": "奶茶拍照打卡热",
+    "hot_topic_type": "社交热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "娱乐",
+      "学习",
+      "绘画"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合社交热点「奶茶拍照打卡热」，为小米平板策划场景营销内容。"
+  },
+  {
+    "id": "exp_132",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 奶茶拍照打卡热...",
+    "platform": "B站/知乎",
+    "angle": "攻略分享",
+    "hot_topic": "奶茶拍照打卡热",
+    "hot_topic_type": "社交热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "轻办公",
+      "绘画",
+      "办公"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合社交热点「奶茶拍照打卡热」，为小米平板策划攻略分享内容。"
+  },
+  {
+    "id": "exp_133",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 功能饮料市场竞争激烈...",
+    "platform": "微博/小红书",
+    "angle": "周边种草",
+    "hot_topic": "功能饮料市场竞争激烈",
+    "hot_topic_type": "体育热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "轻薄",
+      "商务",
+      "办公"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合体育热点「功能饮料市场竞争激烈」，为小米笔记本策划周边种草内容。"
+  },
+  {
+    "id": "exp_134",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 手机游戏性能测试热...",
+    "platform": "抖音/B站",
+    "angle": "揭秘种草",
+    "hot_topic": "手机游戏性能测试热",
+    "hot_topic_type": "游戏热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "性能",
+      "设计",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合游戏热点「手机游戏性能测试热」，为小米笔记本策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_135",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 减脂控糖成生活方式...",
+    "platform": "知乎/B站",
+    "angle": "创意玩法",
+    "hot_topic": "减脂控糖成生活方式",
+    "hot_topic_type": "健康热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "性能",
+      "商务",
+      "轻薄"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「减脂控糖成生活方式」，为小米笔记本策划创意玩法内容。"
+  },
+  {
+    "id": "exp_136",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 儿童教育设备热...",
+    "platform": "小红书/微博",
+    "angle": "技术创新",
+    "hot_topic": "儿童教育设备热",
+    "hot_topic_type": "教育热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "续航",
+      "轻薄",
+      "性能"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「儿童教育设备热」，为小米笔记本策划技术创新内容。"
+  },
+  {
+    "id": "exp_137",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 网红门店打卡热...",
+    "platform": "微博/抖音",
+    "angle": "揭秘种草",
+    "hot_topic": "网红门店打卡热",
+    "hot_topic_type": "社交热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "便携",
+      "出差",
+      "续航"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合社交热点「网红门店打卡热」，为小米笔记本策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_138",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 即饮咖啡市场升温...",
+    "platform": "抖音/B站",
+    "angle": "季节种草",
+    "hot_topic": "即饮咖啡市场升温",
+    "hot_topic_type": "美食热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "设计",
+      "性能",
+      "续航"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「即饮咖啡市场升温」，为小米笔记本策划季节种草内容。"
+  },
+  {
+    "id": "exp_139",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 酱香拿铁热潮...",
+    "platform": "微博/小红书",
+    "angle": "周边种草",
+    "hot_topic": "酱香拿铁热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "性能",
+      "出差",
+      "续航"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「酱香拿铁热潮」，为小米笔记本策划周边种草内容。"
+  },
+  {
+    "id": "exp_140",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 熬夜追剧党必看...",
+    "platform": "B站/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "熬夜追剧党必看",
+    "hot_topic_type": "生活方式热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "便携",
+      "办公",
+      "出差"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "88万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「熬夜追剧党必看」，为小米笔记本策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_141",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 设备生态互联热...",
+    "platform": "抖音/小红书",
+    "angle": "生活方式",
+    "hot_topic": "设备生态互联热",
+    "hot_topic_type": "科技热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "续航",
+      "学生",
+      "办公"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「设备生态互联热」，为小米笔记本策划生活方式内容。"
+  },
+  {
+    "id": "exp_142",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 手机摄影专业热...",
+    "platform": "知乎/B站",
+    "angle": "季节种草",
+    "hot_topic": "手机摄影专业热",
+    "hot_topic_type": "摄影热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "出差",
+      "学生",
+      "续航"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机摄影专业热」，为小米笔记本策划季节种草内容。"
+  },
+  {
+    "id": "exp_143",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 夏日饮品推荐热...",
+    "platform": "B站/小红书",
+    "angle": "技术创新",
+    "hot_topic": "夏日饮品推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "出差",
+      "续航",
+      "商务"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品推荐热」，为小米笔记本策划技术创新内容。"
+  },
+  {
+    "id": "exp_144",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 手机摄影电影感热...",
+    "platform": "B站/小红书",
+    "angle": "揭秘种草",
+    "hot_topic": "手机摄影电影感热",
+    "hot_topic_type": "摄影热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "性能",
+      "轻薄",
+      "设计"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机摄影电影感热」，为小米笔记本策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_145",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 平板绘画工具热...",
+    "platform": "小红书/抖音",
+    "angle": "技术创新",
+    "hot_topic": "平板绘画工具热",
+    "hot_topic_type": "艺术热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "日常",
+      "拍照",
+      "游戏"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合艺术热点「平板绘画工具热」，为华为手机策划技术创新内容。"
+  },
+  {
+    "id": "exp_146",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 居家咖啡制作热...",
+    "platform": "B站/小红书",
+    "angle": "生态种草",
+    "hot_topic": "居家咖啡制作热",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "续航",
+      "AI",
+      "拍照"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「居家咖啡制作热」，为华为手机策划生态种草内容。"
+  },
+  {
+    "id": "exp_147",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 考研备考季来临...",
+    "platform": "微博/小红书",
+    "angle": "揭秘种草",
+    "hot_topic": "考研备考季来临",
+    "hot_topic_type": "教育热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "日常",
+      "AI",
+      "摄影"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「考研备考季来临」，为华为手机策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_148",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 儿童健康饮食关注...",
+    "platform": "微博/抖音",
+    "angle": "场景营销",
+    "hot_topic": "儿童健康饮食关注",
+    "hot_topic_type": "母婴热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "日常",
+      "影像",
+      "屏幕"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合母婴热点「儿童健康饮食关注」，为华为手机策划场景营销内容。"
+  },
+  {
+    "id": "exp_149",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 手机游戏性能测试热...",
+    "platform": "B站/知乎",
+    "angle": "专业场景",
+    "hot_topic": "手机游戏性能测试热",
+    "hot_topic_type": "游戏热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "性能",
+      "拍照",
+      "快充"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合游戏热点「手机游戏性能测试热」，为华为手机策划专业场景内容。"
+  },
+  {
+    "id": "exp_150",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 母婴健康受关注...",
+    "platform": "抖音/B站",
+    "angle": "功能种草",
+    "hot_topic": "母婴健康受关注",
+    "hot_topic_type": "母婴热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "续航",
+      "性能",
+      "日常"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合母婴热点「母婴健康受关注」，为华为手机策划功能种草内容。"
+  },
+  {
+    "id": "exp_151",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 茶文化复兴热潮...",
+    "platform": "小红书/B站",
+    "angle": "场景营销",
+    "hot_topic": "茶文化复兴热潮",
+    "hot_topic_type": "文化热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "游戏",
+      "屏幕",
+      "性能"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合文化热点「茶文化复兴热潮」，为华为手机策划场景营销内容。"
+  },
+  {
+    "id": "exp_152",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | AI摄影普及热...",
+    "platform": "小红书/B站",
+    "angle": "DIY教程",
+    "hot_topic": "AI摄影普及热",
+    "hot_topic_type": "科技热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "屏幕",
+      "影像",
+      "性能"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「AI摄影普及热」，为华为手机策划DIY教程内容。"
+  },
+  {
+    "id": "exp_153",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 燕麦拿铁成咖啡店标配...",
+    "platform": "小红书/微博",
+    "angle": "商务场景",
+    "hot_topic": "燕麦拿铁成咖啡店标配",
+    "hot_topic_type": "美食热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "拍照",
+      "快充",
+      "摄影"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「燕麦拿铁成咖啡店标配」，为华为手机策划商务场景内容。"
+  },
+  {
+    "id": "exp_154",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 火锅季来临...",
+    "platform": "B站/小红书",
+    "angle": "场景营销",
+    "hot_topic": "火锅季来临",
+    "hot_topic_type": "美食热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "快充",
+      "游戏",
+      "性能"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「火锅季来临」，为华为手机策划场景营销内容。"
+  },
+  {
+    "id": "exp_155",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 家庭教育受关注...",
+    "platform": "微博/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "家庭教育受关注",
+    "hot_topic_type": "教育热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "游戏",
+      "屏幕",
+      "性能"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「家庭教育受关注」，为华为手机策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_156",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 新式茶饮持续火爆...",
+    "platform": "小红书/微博",
+    "angle": "场景种草",
+    "hot_topic": "新式茶饮持续火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "AI",
+      "续航",
+      "性能"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「新式茶饮持续火爆」，为华为手机策划场景种草内容。"
+  },
+  {
+    "id": "exp_157",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 环保与自然受关注...",
+    "platform": "抖音/B站",
+    "angle": "商务场景",
+    "hot_topic": "环保与自然受关注",
+    "hot_topic_type": "环保热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "创作",
+      "办公",
+      "娱乐"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "88万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合环保热点「环保与自然受关注」，为华为平板策划商务场景内容。"
+  },
+  {
+    "id": "exp_158",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 家庭烘焙热潮...",
+    "platform": "微博/抖音",
+    "angle": "周边种草",
+    "hot_topic": "家庭烘焙热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "追剧",
+      "创作",
+      "大屏"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「家庭烘焙热潮」，为华为平板策划周边种草内容。"
+  },
+  {
+    "id": "exp_159",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 素食主义生活方式流行...",
+    "platform": "微博/小红书",
+    "angle": "攻略分享",
+    "hot_topic": "素食主义生活方式流行",
+    "hot_topic_type": "生活方式热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "轻办公",
+      "学习",
+      "追剧"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「素食主义生活方式流行」，为华为平板策划攻略分享内容。"
+  },
+  {
+    "id": "exp_160",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 年轻人聚会新方式...",
+    "platform": "小红书/B站",
+    "angle": "创意玩法",
+    "hot_topic": "年轻人聚会新方式",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "追剧",
+      "轻办公",
+      "便携"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「年轻人聚会新方式」，为华为平板策划创意玩法内容。"
+  },
+  {
+    "id": "exp_161",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 乳糖不耐受人群关注...",
+    "platform": "微博/小红书",
+    "angle": "季节种草",
+    "hot_topic": "乳糖不耐受人群关注",
+    "hot_topic_type": "健康热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "办公",
+      "创作",
+      "娱乐"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "105万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「乳糖不耐受人群关注」，为华为平板策划季节种草内容。"
+  },
+  {
+    "id": "exp_162",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 商务出差装备热...",
+    "platform": "B站/小红书",
+    "angle": "场景营销",
+    "hot_topic": "商务出差装备热",
+    "hot_topic_type": "职场热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "学习",
+      "娱乐",
+      "便携"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「商务出差装备热」，为华为平板策划场景营销内容。"
+  },
+  {
+    "id": "exp_163",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 手机游戏性能测试热...",
+    "platform": "小红书/微博",
+    "angle": "生态种草",
+    "hot_topic": "手机游戏性能测试热",
+    "hot_topic_type": "游戏热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "创作",
+      "大屏",
+      "追剧"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合游戏热点「手机游戏性能测试热」，为华为平板策划生态种草内容。"
+  },
+  {
+    "id": "exp_164",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 触控笔记本热...",
+    "platform": "抖音/B站",
+    "angle": "攻略分享",
+    "hot_topic": "触控笔记本热",
+    "hot_topic_type": "科技热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "轻办公",
+      "学习",
+      "追剧"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「触控笔记本热」，为华为平板策划攻略分享内容。"
+  },
+  {
+    "id": "exp_165",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 手机摄影专业热...",
+    "platform": "小红书/B站",
+    "angle": "功能种草",
+    "hot_topic": "手机摄影专业热",
+    "hot_topic_type": "摄影热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "轻办公",
+      "学习",
+      "教育"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机摄影专业热」，为华为平板策划功能种草内容。"
+  },
+  {
+    "id": "exp_166",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 沉浸式观影体验热...",
+    "platform": "微博/小红书",
+    "angle": "DIY教程",
+    "hot_topic": "沉浸式观影体验热",
+    "hot_topic_type": "娱乐热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "轻办公",
+      "大屏",
+      "办公"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合娱乐热点「沉浸式观影体验热」，为华为平板策划DIY教程内容。"
+  },
+  {
+    "id": "exp_167",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 即饮咖啡市场升温...",
+    "platform": "知乎/B站",
+    "angle": "技术创新",
+    "hot_topic": "即饮咖啡市场升温",
+    "hot_topic_type": "美食热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "大屏",
+      "轻办公",
+      "创作"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「即饮咖啡市场升温」，为华为平板策划技术创新内容。"
+  },
+  {
+    "id": "exp_168",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 城市夜景摄影热...",
+    "platform": "小红书/抖音",
+    "angle": "DIY教程",
+    "hot_topic": "城市夜景摄影热",
+    "hot_topic_type": "摄影热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "办公",
+      "教育",
+      "学习"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「城市夜景摄影热」，为华为平板策划DIY教程内容。"
+  },
+  {
+    "id": "exp_169",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 考研备考季来临...",
+    "platform": "小红书/B站",
+    "angle": "揭秘种草",
+    "hot_topic": "考研备考季来临",
+    "hot_topic_type": "教育热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "出差",
+      "学生",
+      "便携"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「考研备考季来临」，为华为笔记本策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_170",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 夏日饮品推荐热...",
+    "platform": "小红书/B站",
+    "angle": "健康理念",
+    "hot_topic": "夏日饮品推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "办公",
+      "游戏",
+      "商务"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品推荐热」，为华为笔记本策划健康理念内容。"
+  },
+  {
+    "id": "exp_171",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 宅家追剧成主流...",
+    "platform": "抖音/B站",
+    "angle": "产品测评",
+    "hot_topic": "宅家追剧成主流",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "商务",
+      "游戏",
+      "轻薄"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「宅家追剧成主流」，为华为笔记本策划产品测评内容。"
+  },
+  {
+    "id": "exp_172",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 母婴健康受关注...",
+    "platform": "小红书/微博",
+    "angle": "功能种草",
+    "hot_topic": "母婴健康受关注",
+    "hot_topic_type": "母婴热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "商务",
+      "办公",
+      "便携"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合母婴热点「母婴健康受关注」，为华为笔记本策划功能种草内容。"
+  },
+  {
+    "id": "exp_173",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 移动办公设备热...",
+    "platform": "小红书/B站",
+    "angle": "品牌故事",
+    "hot_topic": "移动办公设备热",
+    "hot_topic_type": "职场热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "轻薄",
+      "出差",
+      "办公"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "104万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「移动办公设备热」，为华为笔记本策划品牌故事内容。"
+  },
+  {
+    "id": "exp_174",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 数字绘画创作热潮...",
+    "platform": "抖音/B站",
+    "angle": "季节种草",
+    "hot_topic": "数字绘画创作热潮",
+    "hot_topic_type": "艺术热点",
+    "heat": "350万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "便携",
+      "续航",
+      "游戏"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合艺术热点「数字绘画创作热潮」，为华为笔记本策划季节种草内容。"
+  },
+  {
+    "id": "exp_175",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | AI摄影普及热...",
+    "platform": "微博/小红书",
+    "angle": "产品测评",
+    "hot_topic": "AI摄影普及热",
+    "hot_topic_type": "科技热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "设计",
+      "办公",
+      "出差"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「AI摄影普及热」，为华为笔记本策划产品测评内容。"
+  },
+  {
+    "id": "exp_176",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 饮料测评内容火爆...",
+    "platform": "抖音/B站",
+    "angle": "季节种草",
+    "hot_topic": "饮料测评内容火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "设计",
+      "学生",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「饮料测评内容火爆」，为华为笔记本策划季节种草内容。"
+  },
+  {
+    "id": "exp_177",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 商务出差装备热...",
+    "platform": "B站/知乎",
+    "angle": "DIY教程",
+    "hot_topic": "商务出差装备热",
+    "hot_topic_type": "职场热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "商务",
+      "学生",
+      "游戏"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「商务出差装备热」，为华为笔记本策划DIY教程内容。"
+  },
+  {
+    "id": "exp_178",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 办公室养生热潮...",
+    "platform": "知乎/B站",
+    "angle": "场景种草",
+    "hot_topic": "办公室养生热潮",
+    "hot_topic_type": "职场热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "续航",
+      "游戏",
+      "设计"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「办公室养生热潮」，为华为笔记本策划场景种草内容。"
+  },
+  {
+    "id": "exp_179",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 年轻人聚会新方式...",
+    "platform": "抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "年轻人聚会新方式",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "商务",
+      "便携",
+      "设计"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「年轻人聚会新方式」，为华为笔记本策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_180",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 燕麦拿铁成咖啡店标配...",
+    "platform": "微博/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "燕麦拿铁成咖啡店标配",
+    "hot_topic_type": "美食热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "游戏",
+      "商务",
+      "续航"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「燕麦拿铁成咖啡店标配」，为华为笔记本策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_181",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 火锅季来临...",
+    "platform": "小红书/B站",
+    "angle": "周边种草",
+    "hot_topic": "火锅季来临",
+    "hot_topic_type": "美食热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "热饮",
+      "果茶",
+      "联名"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「火锅季来临」，为喜茶茶饮策划周边种草内容。"
+  },
+  {
+    "id": "exp_182",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 夏日饮品DIY热潮...",
+    "platform": "小红书/B站",
+    "angle": "季节种草",
+    "hot_topic": "夏日饮品DIY热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "新品",
+      "隐藏菜单",
+      "打卡"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品DIY热潮」，为喜茶茶饮策划季节种草内容。"
+  },
+  {
+    "id": "exp_183",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 平板手写笔对比热...",
+    "platform": "B站/知乎",
+    "angle": "功能种草",
+    "hot_topic": "平板手写笔对比热",
+    "hot_topic_type": "科技热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "果茶",
+      "拍照",
+      "联名"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「平板手写笔对比热」，为喜茶茶饮策划功能种草内容。"
+  },
+  {
+    "id": "exp_184",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 手机摄影电影感热...",
+    "platform": "抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "手机摄影电影感热",
+    "hot_topic_type": "摄影热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "拍照",
+      "新品",
+      "门店"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机摄影电影感热」，为喜茶茶饮策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_185",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | AI摄影普及热...",
+    "platform": "微博/抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "AI摄影普及热",
+    "hot_topic_type": "科技热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "周边",
+      "热饮",
+      "果茶"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「AI摄影普及热」，为喜茶茶饮策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_186",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 减脂控糖成生活方式...",
+    "platform": "小红书/B站",
+    "angle": "攻略分享",
+    "hot_topic": "减脂控糖成生活方式",
+    "hot_topic_type": "健康热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "联名",
+      "果茶",
+      "拍照"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「减脂控糖成生活方式」，为喜茶茶饮策划攻略分享内容。"
+  },
+  {
+    "id": "exp_187",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 奶茶周边收藏热...",
+    "platform": "微博/抖音",
+    "angle": "痛点解决",
+    "hot_topic": "奶茶周边收藏热",
+    "hot_topic_type": "收藏热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "联名",
+      "打卡",
+      "门店"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合收藏热点「奶茶周边收藏热」，为喜茶茶饮策划痛点解决内容。"
+  },
+  {
+    "id": "exp_188",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 即饮咖啡市场升温...",
+    "platform": "B站/小红书",
+    "angle": "商务场景",
+    "hot_topic": "即饮咖啡市场升温",
+    "hot_topic_type": "美食热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "周边",
+      "果茶",
+      "隐藏菜单"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「即饮咖啡市场升温」，为喜茶茶饮策划商务场景内容。"
+  },
+  {
+    "id": "exp_189",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 卫星通信技术热...",
+    "platform": "B站/小红书",
+    "angle": "专业场景",
+    "hot_topic": "卫星通信技术热",
+    "hot_topic_type": "科技热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "联名",
+      "周边",
+      "门店"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「卫星通信技术热」，为喜茶茶饮策划专业场景内容。"
+  },
+  {
+    "id": "exp_190",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 露营户外热潮持续...",
+    "platform": "抖音/B站",
+    "angle": "商务场景",
+    "hot_topic": "露营户外热潮持续",
+    "hot_topic_type": "生活方式热点",
+    "heat": "650万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "隐藏菜单",
+      "果茶",
+      "联名"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「露营户外热潮持续」，为喜茶茶饮策划商务场景内容。"
+  },
+  {
+    "id": "exp_191",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 手机续航焦虑成热话题...",
+    "platform": "抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机续航焦虑成热话题",
+    "hot_topic_type": "科技热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "果茶",
+      "拍照",
+      "隐藏菜单"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机续航焦虑成热话题」，为喜茶茶饮策划场景营销内容。"
+  },
+  {
+    "id": "exp_192",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 夏日饮品DIY热潮...",
+    "platform": "小红书/B站",
+    "angle": "健康理念",
+    "hot_topic": "夏日饮品DIY热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "联名",
+      "果茶",
+      "低卡"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品DIY热潮」，为喜茶茶饮策划健康理念内容。"
+  },
+  {
+    "id": "exp_193",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 设备生态互联热...",
+    "platform": "B站/小红书",
+    "angle": "攻略分享",
+    "hot_topic": "设备生态互联热",
+    "hot_topic_type": "科技热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "生椰",
+      "减脂",
+      "DIY"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「设备生态互联热」，为瑞幸咖啡咖啡策划攻略分享内容。"
+  },
+  {
+    "id": "exp_194",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 酱香拿铁热潮...",
+    "platform": "B站/小红书",
+    "angle": "商务场景",
+    "hot_topic": "酱香拿铁热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "续命",
+      "DIY",
+      "早C晚A"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「酱香拿铁热潮」，为瑞幸咖啡咖啡策划商务场景内容。"
+  },
+  {
+    "id": "exp_195",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 燕麦拿铁成咖啡店标配...",
+    "platform": "小红书/抖音",
+    "angle": "技术创新",
+    "hot_topic": "燕麦拿铁成咖啡店标配",
+    "hot_topic_type": "美食热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "生椰",
+      "咖啡因",
+      "减脂"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「燕麦拿铁成咖啡店标配」，为瑞幸咖啡咖啡策划技术创新内容。"
+  },
+  {
+    "id": "exp_196",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 快手早餐成刚需...",
+    "platform": "B站/小红书",
+    "angle": "产品测评",
+    "hot_topic": "快手早餐成刚需",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "酱香",
+      "续命",
+      "咖啡因"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「快手早餐成刚需」，为瑞幸咖啡咖啡策划产品测评内容。"
+  },
+  {
+    "id": "exp_197",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 咖啡续命打工人...",
+    "platform": "抖音/小红书",
+    "angle": "技术创新",
+    "hot_topic": "咖啡续命打工人",
+    "hot_topic_type": "职场热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "续命",
+      "咖啡因",
+      "减脂"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「咖啡续命打工人」，为瑞幸咖啡咖啡策划技术创新内容。"
+  },
+  {
+    "id": "exp_198",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 素食主义生活方式流行...",
+    "platform": "小红书/抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "素食主义生活方式流行",
+    "hot_topic_type": "生活方式热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "提神",
+      "续命",
+      "拿铁"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「素食主义生活方式流行」，为瑞幸咖啡咖啡策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_199",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 素食主义生活方式流行...",
+    "platform": "微博/抖音",
+    "angle": "社交种草",
+    "hot_topic": "素食主义生活方式流行",
+    "hot_topic_type": "生活方式热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "续命",
+      "生椰",
+      "早C晚A"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「素食主义生活方式流行」，为瑞幸咖啡咖啡策划社交种草内容。"
+  },
+  {
+    "id": "exp_200",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 卫星通信技术热...",
+    "platform": "B站/知乎",
+    "angle": "痛点解决",
+    "hot_topic": "卫星通信技术热",
+    "hot_topic_type": "科技热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "拿铁",
+      "提神",
+      "早C晚A"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「卫星通信技术热」，为瑞幸咖啡咖啡策划痛点解决内容。"
+  },
+  {
+    "id": "exp_201",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 奶茶隐藏菜单热...",
+    "platform": "知乎/B站",
+    "angle": "健康理念",
+    "hot_topic": "奶茶隐藏菜单热",
+    "hot_topic_type": "美食热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "早C晚A",
+      "提神",
+      "酱香"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「奶茶隐藏菜单热」，为瑞幸咖啡咖啡策划健康理念内容。"
+  },
+  {
+    "id": "exp_202",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 奶茶联名热...",
+    "platform": "微博/小红书",
+    "angle": "场景种草",
+    "hot_topic": "奶茶联名热",
+    "hot_topic_type": "美食热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "咖啡因",
+      "减脂",
+      "续命"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「奶茶联名热」，为瑞幸咖啡咖啡策划场景种草内容。"
+  },
+  {
+    "id": "exp_203",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | AI修图工具爆火...",
+    "platform": "小红书/微博",
+    "angle": "功能种草",
+    "hot_topic": "AI修图工具爆火",
+    "hot_topic_type": "科技热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "咖啡因",
+      "早C晚A",
+      "提神"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「AI修图工具爆火」，为瑞幸咖啡咖啡策划功能种草内容。"
+  },
+  {
+    "id": "exp_204",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 新式茶饮持续火爆...",
+    "platform": "微博/小红书",
+    "angle": "场景营销",
+    "hot_topic": "新式茶饮持续火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "办公",
+      "提神",
+      "DIY"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「新式茶饮持续火爆」，为瑞幸咖啡咖啡策划场景营销内容。"
+  },
+  {
+    "id": "exp_205",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 儿童健康饮食关注...",
+    "platform": "B站/小红书",
+    "angle": "健康理念",
+    "hot_topic": "儿童健康饮食关注",
+    "hot_topic_type": "母婴热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "轻薄",
+      "性能",
+      "游戏"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合母婴热点「儿童健康饮食关注」，为荣耀笔记本策划健康理念内容。"
+  },
+  {
+    "id": "exp_206",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 熬夜追剧党必看...",
+    "platform": "小红书/抖音",
+    "angle": "技术创新",
+    "hot_topic": "熬夜追剧党必看",
+    "hot_topic_type": "生活方式热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "快充",
+      "续航",
+      "游戏"
+    ],
+    "quality_score": 0.84,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「熬夜追剧党必看」，为小米手机策划技术创新内容。"
+  },
+  {
+    "id": "exp_207",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 酱香拿铁热潮...",
+    "platform": "微博/小红书",
+    "angle": "功能种草",
+    "hot_topic": "酱香拿铁热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "750万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "搭配",
+      "0糖",
+      "解腻"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「酱香拿铁热潮」，为元气森林气泡水策划功能种草内容。"
+  },
+  {
+    "id": "exp_208",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 乳糖不耐受人群关注...",
+    "platform": "微博/小红书",
+    "angle": "社交种草",
+    "hot_topic": "乳糖不耐受人群关注",
+    "hot_topic_type": "健康热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "品质",
+      "补水",
+      "母婴"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「乳糖不耐受人群关注」，为农夫山泉矿泉水策划社交种草内容。"
+  },
+  {
+    "id": "exp_209",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 早C晚A生活方式...",
+    "platform": "B站/小红书",
+    "angle": "生态种草",
+    "hot_topic": "早C晚A生活方式",
+    "hot_topic_type": "生活方式热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "轻薄",
+      "学生",
+      "便携"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "89万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「早C晚A生活方式」，为华为笔记本策划生态种草内容。"
+  },
+  {
+    "id": "exp_210",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 夏日饮品DIY热潮...",
+    "platform": "B站/小红书",
+    "angle": "攻略分享",
+    "hot_topic": "夏日饮品DIY热潮",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "小确幸",
+      "奶茶",
+      "替代"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品DIY热潮」，为元气森林乳茶策划攻略分享内容。"
+  },
+  {
+    "id": "exp_211",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 笔记本游戏性能热...",
+    "platform": "抖音/B站",
+    "angle": "功能种草",
+    "hot_topic": "笔记本游戏性能热",
+    "hot_topic_type": "游戏热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "门店",
+      "新品",
+      "拍照"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合游戏热点「笔记本游戏性能热」，为喜茶茶饮策划功能种草内容。"
+  },
+  {
+    "id": "exp_212",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 多设备协同办公成热话题...",
+    "platform": "小红书/B站",
+    "angle": "情感共鸣",
+    "hot_topic": "多设备协同办公成热话题",
+    "hot_topic_type": "科技热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "周边",
+      "果茶",
+      "低卡"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「多设备协同办公成热话题」，为喜茶茶饮策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_213",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 精品咖啡文化兴起...",
+    "platform": "小红书/微博",
+    "angle": "季节种草",
+    "hot_topic": "精品咖啡文化兴起",
+    "hot_topic_type": "美食热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "咖啡伴侣",
+      "烘焙",
+      "健康"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「精品咖啡文化兴起」，为OATLY燕麦奶策划季节种草内容。"
+  },
+  {
+    "id": "exp_214",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 触控笔记本热...",
+    "platform": "微博/抖音",
+    "angle": "创意玩法",
+    "hot_topic": "触控笔记本热",
+    "hot_topic_type": "科技热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "DIY",
+      "清爽",
+      "搭配"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「触控笔记本热」，为元气森林气泡水策划创意玩法内容。"
+  },
+  {
+    "id": "exp_215",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 手机游戏性能测试热...",
+    "platform": "B站/知乎",
+    "angle": "商务场景",
+    "hot_topic": "手机游戏性能测试热",
+    "hot_topic_type": "游戏热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "果茶",
+      "新品",
+      "联名"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合游戏热点「手机游戏性能测试热」，为喜茶茶饮策划商务场景内容。"
+  },
+  {
+    "id": "exp_216",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 新式茶饮持续火爆...",
+    "platform": "B站/小红书",
+    "angle": "品牌故事",
+    "hot_topic": "新式茶饮持续火爆",
+    "hot_topic_type": "美食热点",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "日常",
+      "口味",
+      "聚会"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「新式茶饮持续火爆」，为农夫山泉饮料策划品牌故事内容。"
+  },
+  {
+    "id": "exp_217",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | AI摄影普及热...",
+    "platform": "小红书/微博",
+    "angle": "DIY教程",
+    "hot_topic": "AI摄影普及热",
+    "hot_topic_type": "科技热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "热饮",
+      "打卡",
+      "拍照"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「AI摄影普及热」，为喜茶茶饮策划DIY教程内容。"
+  },
+  {
+    "id": "exp_218",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 露营户外热潮持续...",
+    "platform": "小红书/抖音",
+    "angle": "场景种草",
+    "hot_topic": "露营户外热潮持续",
+    "hot_topic_type": "生活方式热点",
+    "heat": "650万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "运动",
+      "泡茶",
+      "天然"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「露营户外热潮持续」，为农夫山泉矿泉水策划场景种草内容。"
+  },
+  {
+    "id": "exp_219",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 家庭教育受关注...",
+    "platform": "微博/小红书",
+    "angle": "场景种草",
+    "hot_topic": "家庭教育受关注",
+    "hot_topic_type": "教育热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "学习",
+      "便携",
+      "追剧"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「家庭教育受关注」，为小米平板策划场景种草内容。"
+  },
+  {
+    "id": "exp_220",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "华为手机 | 奶茶拍照打卡热...",
+    "platform": "微博/抖音",
+    "angle": "周边种草",
+    "hot_topic": "奶茶拍照打卡热",
+    "hot_topic_type": "社交热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "华为",
+      "手机",
+      "续航",
+      "AI",
+      "拍照"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合社交热点「奶茶拍照打卡热」，为华为手机策划周边种草内容。"
+  },
+  {
+    "id": "exp_221",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 沉浸式观影体验热...",
+    "platform": "微博/小红书",
+    "angle": "揭秘种草",
+    "hot_topic": "沉浸式观影体验热",
+    "hot_topic_type": "娱乐热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "学生",
+      "性能",
+      "轻薄"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合娱乐热点「沉浸式观影体验热」，为荣耀笔记本策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_222",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 冬季热饮推荐热...",
+    "platform": "微博/抖音",
+    "angle": "生活方式",
+    "hot_topic": "冬季热饮推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "拉花",
+      "可持续",
+      "咖啡"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "104万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「冬季热饮推荐热」，为OATLY咖啡伴侣策划生活方式内容。"
+  },
+  {
+    "id": "exp_223",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 环保与自然受关注...",
+    "platform": "小红书/微博",
+    "angle": "产品测评",
+    "hot_topic": "环保与自然受关注",
+    "hot_topic_type": "环保热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "果茶",
+      "拍照",
+      "新品"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合环保热点「环保与自然受关注」，为喜茶茶饮策划产品测评内容。"
+  },
+  {
+    "id": "exp_224",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 奶茶拍照打卡热...",
+    "platform": "B站/知乎",
+    "angle": "周边种草",
+    "hot_topic": "奶茶拍照打卡热",
+    "hot_topic_type": "社交热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "续航",
+      "商务",
+      "设计"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合社交热点「奶茶拍照打卡热」，为华为笔记本策划周边种草内容。"
+  },
+  {
+    "id": "exp_225",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 平板绘画工具热...",
+    "platform": "知乎/B站",
+    "angle": "揭秘种草",
+    "hot_topic": "平板绘画工具热",
+    "hot_topic_type": "艺术热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "健康",
+      "咖啡伴侣",
+      "环保"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合艺术热点「平板绘画工具热」，为OATLY燕麦奶策划揭秘种草内容。"
+  },
+  {
+    "id": "exp_226",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 儿童健康饮食关注...",
+    "platform": "微博/小红书",
+    "angle": "生活方式",
+    "hot_topic": "儿童健康饮食关注",
+    "hot_topic_type": "母婴热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "性能",
+      "快充",
+      "续航"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合母婴热点「儿童健康饮食关注」，为荣耀手机策划生活方式内容。"
+  },
+  {
+    "id": "exp_227",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 年轻人聚会新方式...",
+    "platform": "小红书/微博",
+    "angle": "场景营销",
+    "hot_topic": "年轻人聚会新方式",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "生椰",
+      "拿铁",
+      "咖啡因"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「年轻人聚会新方式」，为瑞幸咖啡咖啡策划场景营销内容。"
+  },
+  {
+    "id": "exp_228",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 无卡出行成趋势...",
+    "platform": "抖音/小红书",
+    "angle": "攻略分享",
+    "hot_topic": "无卡出行成趋势",
+    "hot_topic_type": "生活方式热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "追剧",
+      "低卡",
+      "小确幸"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「无卡出行成趋势」，为元气森林乳茶策划攻略分享内容。"
+  },
+  {
+    "id": "exp_229",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 触控笔记本热...",
+    "platform": "小红书/B站",
+    "angle": "创意玩法",
+    "hot_topic": "触控笔记本热",
+    "hot_topic_type": "科技热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "办公",
+      "学生",
+      "性能"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「触控笔记本热」，为荣耀笔记本策划创意玩法内容。"
+  },
+  {
+    "id": "exp_230",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 乳糖不耐受人群关注...",
+    "platform": "微博/抖音",
+    "angle": "创意玩法",
+    "hot_topic": "乳糖不耐受人群关注",
+    "hot_topic_type": "健康热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "影像",
+      "游戏",
+      "性能"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「乳糖不耐受人群关注」，为荣耀手机策划创意玩法内容。"
+  },
+  {
+    "id": "exp_231",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 宅家追剧成主流...",
+    "platform": "B站/知乎",
+    "angle": "DIY教程",
+    "hot_topic": "宅家追剧成主流",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "办公",
+      "商务",
+      "学生"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「宅家追剧成主流」，为华为笔记本策划DIY教程内容。"
+  },
+  {
+    "id": "exp_232",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 手机操作系统对比热...",
+    "platform": "B站/知乎",
+    "angle": "痛点解决",
+    "hot_topic": "手机操作系统对比热",
+    "hot_topic_type": "科技热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "补水",
+      "厨房",
+      "泡茶"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机操作系统对比热」，为农夫山泉矿泉水策划痛点解决内容。"
+  },
+  {
+    "id": "exp_233",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 全民健身热潮持续...",
+    "platform": "微博/抖音",
+    "angle": "情感共鸣",
+    "hot_topic": "全民健身热潮持续",
+    "hot_topic_type": "体育热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "游戏",
+      "拍照",
+      "影像"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合体育热点「全民健身热潮持续」，为小米手机策划情感共鸣内容。"
+  },
+  {
+    "id": "exp_234",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 奶茶隐藏菜单热...",
+    "platform": "微博/小红书",
+    "angle": "攻略分享",
+    "hot_topic": "奶茶隐藏菜单热",
+    "hot_topic_type": "美食热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "提神",
+      "拿铁",
+      "酱香"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「奶茶隐藏菜单热」，为瑞幸咖啡咖啡策划攻略分享内容。"
+  },
+  {
+    "id": "exp_235",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 平板手写笔对比热...",
+    "platform": "小红书/微博",
+    "angle": "技术创新",
+    "hot_topic": "平板手写笔对比热",
+    "hot_topic_type": "科技热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "轻办公",
+      "便携",
+      "办公"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「平板手写笔对比热」，为荣耀平板策划技术创新内容。"
+  },
+  {
+    "id": "exp_236",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 手机操作系统对比热...",
+    "platform": "知乎/B站",
+    "angle": "周边种草",
+    "hot_topic": "手机操作系统对比热",
+    "hot_topic_type": "科技热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "打卡",
+      "热饮",
+      "隐藏菜单"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「手机操作系统对比热」，为喜茶茶饮策划周边种草内容。"
+  },
+  {
+    "id": "exp_237",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 手机人像摄影技巧热...",
+    "platform": "B站/知乎",
+    "angle": "创意玩法",
+    "hot_topic": "手机人像摄影技巧热",
+    "hot_topic_type": "摄影热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "运动",
+      "日常",
+      "补水"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机人像摄影技巧热」，为农夫山泉矿泉水策划创意玩法内容。"
+  },
+  {
+    "id": "exp_238",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 火锅季来临...",
+    "platform": "微博/小红书",
+    "angle": "周边种草",
+    "hot_topic": "火锅季来临",
+    "hot_topic_type": "美食热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "酱香",
+      "生椰",
+      "DIY"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「火锅季来临」，为瑞幸咖啡咖啡策划周边种草内容。"
+  },
+  {
+    "id": "exp_239",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 春日饮品上新热...",
+    "platform": "B站/小红书",
+    "angle": "商务场景",
+    "hot_topic": "春日饮品上新热",
+    "hot_topic_type": "美食热点",
+    "heat": "720万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "儿童",
+      "健康",
+      "烘焙"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "105万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「春日饮品上新热」，为OATLY燕麦奶策划商务场景内容。"
+  },
+  {
+    "id": "exp_240",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 清明踏青赏花成热门...",
+    "platform": "知乎/B站",
+    "angle": "产品测评",
+    "hot_topic": "清明踏青赏花成热门",
+    "hot_topic_type": "生活方式热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "DIY",
+      "拿铁",
+      "办公"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "105万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「清明踏青赏花成热门」，为瑞幸咖啡咖啡策划产品测评内容。"
+  },
+  {
+    "id": "exp_241",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 年轻人聚会新方式...",
+    "platform": "知乎/B站",
+    "angle": "攻略分享",
+    "hot_topic": "年轻人聚会新方式",
+    "hot_topic_type": "生活方式热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "拉花",
+      "燕麦",
+      "环保"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「年轻人聚会新方式」，为OATLY咖啡伴侣策划攻略分享内容。"
+  },
+  {
+    "id": "exp_242",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 冬季热饮推荐热...",
+    "platform": "知乎/B站",
+    "angle": "生态种草",
+    "hot_topic": "冬季热饮推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "450万",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "DIY",
+      "续命",
+      "咖啡因"
+    ],
+    "quality_score": 0.92,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「冬季热饮推荐热」，为瑞幸咖啡咖啡策划生态种草内容。"
+  },
+  {
+    "id": "exp_243",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "华为平板 | 夏日饮品推荐热...",
+    "platform": "小红书/微博",
+    "angle": "生活方式",
+    "hot_topic": "夏日饮品推荐热",
+    "hot_topic_type": "美食热点",
+    "heat": "520万",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "华为",
+      "平板",
+      "轻办公",
+      "绘画",
+      "教育"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合美食热点「夏日饮品推荐热」，为华为平板策划生活方式内容。"
+  },
+  {
+    "id": "exp_244",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 素食主义生活方式流行...",
+    "platform": "微博/小红书",
+    "angle": "周边种草",
+    "hot_topic": "素食主义生活方式流行",
+    "hot_topic_type": "生活方式热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "烘焙",
+      "环保",
+      "咖啡伴侣"
+    ],
+    "quality_score": 0.9,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「素食主义生活方式流行」，为OATLY燕麦奶策划周边种草内容。"
+  },
+  {
+    "id": "exp_245",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 手机人像摄影技巧热...",
+    "platform": "B站/小红书",
+    "angle": "商务场景",
+    "hot_topic": "手机人像摄影技巧热",
+    "hot_topic_type": "摄影热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "性能",
+      "设计",
+      "游戏"
+    ],
+    "quality_score": 0.83,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合摄影热点「手机人像摄影技巧热」，为小米笔记本策划商务场景内容。"
+  },
+  {
+    "id": "exp_246",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 远程办公成新常态...",
+    "platform": "知乎/B站",
+    "angle": "场景种草",
+    "hot_topic": "远程办公成新常态",
+    "hot_topic_type": "职场热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "健康",
+      "天然",
+      "日常"
+    ],
+    "quality_score": 0.85,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「远程办公成新常态」，为农夫山泉矿泉水策划场景种草内容。"
+  },
+  {
+    "id": "exp_247",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 商务出差装备热...",
+    "platform": "B站/小红书",
+    "angle": "健康理念",
+    "hot_topic": "商务出差装备热",
+    "hot_topic_type": "职场热点",
+    "heat": "380万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "拍照",
+      "性能",
+      "屏幕"
+    ],
+    "quality_score": 0.89,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「商务出差装备热」，为荣耀手机策划健康理念内容。"
+  },
+  {
+    "id": "exp_248",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 平板手写笔对比热...",
+    "platform": "B站/小红书",
+    "angle": "攻略分享",
+    "hot_topic": "平板手写笔对比热",
+    "hot_topic_type": "科技热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "屏幕",
+      "快充",
+      "拍照"
+    ],
+    "quality_score": 0.91,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「平板手写笔对比热」，为荣耀手机策划攻略分享内容。"
+  },
+  {
+    "id": "exp_249",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | AI修图工具爆火...",
+    "platform": "B站/小红书",
+    "angle": "生活方式",
+    "hot_topic": "AI修图工具爆火",
+    "hot_topic_type": "科技热点",
+    "heat": "620万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "搭配",
+      "夏日",
+      "0糖"
+    ],
+    "quality_score": 0.87,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合科技热点「AI修图工具爆火」，为元气森林气泡水策划生活方式内容。"
+  },
+  {
+    "id": "exp_250",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 笔记本游戏性能热...",
+    "platform": "小红书/微博",
+    "angle": "商务场景",
+    "hot_topic": "笔记本游戏性能热",
+    "hot_topic_type": "游戏热点",
+    "heat": "480万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "日常",
+      "推荐",
+      "新品"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合游戏热点「笔记本游戏性能热」，为农夫山泉饮料策划商务场景内容。"
+  },
+  {
+    "id": "exp_251",
+    "client": {
+      "brand": "喜茶",
+      "industry": "餐饮",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "喜茶茶饮 | 移动办公设备热...",
+    "platform": "抖音/B站",
+    "angle": "场景营销",
+    "hot_topic": "移动办公设备热",
+    "hot_topic_type": "职场热点",
+    "heat": "550万",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶饮",
+    "keywords": [
+      "喜茶",
+      "茶饮",
+      "隐藏菜单",
+      "拍照",
+      "门店"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合职场热点「移动办公设备热」，为喜茶茶饮策划场景营销内容。"
+  },
+  {
+    "id": "exp_252",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "饮料"
+      ]
+    },
+    "title": "农夫山泉饮料 | 减脂期饮食困扰...",
+    "platform": "小红书/抖音",
+    "angle": "周边种草",
+    "hot_topic": "减脂期饮食困扰",
+    "hot_topic_type": "健康热点",
+    "heat": "580万",
+    "trend": "🔥🔥 持续上升",
+    "product": "饮料",
+    "keywords": [
+      "农夫山泉",
+      "饮料",
+      "解渴",
+      "推荐",
+      "清爽"
+    ],
+    "quality_score": 0.82,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合健康热点「减脂期饮食困扰」，为农夫山泉饮料策划周边种草内容。"
+  },
+  {
+    "id": "exp_253",
+    "client": {
+      "brand": "瑞幸咖啡",
+      "industry": "餐饮",
+      "products": [
+        "咖啡"
+      ]
+    },
+    "title": "瑞幸咖啡咖啡 | 考研备考季来临...",
+    "platform": "微博/抖音",
+    "angle": "场景种草",
+    "hot_topic": "考研备考季来临",
+    "hot_topic_type": "教育热点",
+    "heat": "680万",
+    "trend": "🔥🔥🔥 爆发式增长",
+    "product": "咖啡",
+    "keywords": [
+      "瑞幸咖啡",
+      "咖啡",
+      "咖啡因",
+      "生椰",
+      "提神"
+    ],
+    "quality_score": 0.86,
+    "quality_level": "B级-良好",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合教育热点「考研备考季来临」，为瑞幸咖啡咖啡策划场景种草内容。"
+  },
+  {
+    "id": "exp_254",
+    "client": {
+      "brand": "华为",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "华为笔记本 | 周末宅家追剧成主流...",
+    "platform": "微博/小红书",
+    "angle": "痛点解决",
+    "hot_topic": "周末宅家追剧成主流",
+    "hot_topic_type": "生活方式热点",
+    "heat": "420万",
+    "trend": "🔥🔥 持续上升",
+    "product": "笔记本",
+    "keywords": [
+      "华为",
+      "笔记本",
+      "轻薄",
+      "性能",
+      "办公"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-06T08:30:00",
+    "content": "结合生活方式热点「周末宅家追剧成主流」，为华为笔记本策划痛点解决内容。"
+  }
+]
