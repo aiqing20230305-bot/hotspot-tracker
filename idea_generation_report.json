@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T01:09:48.965016",
+  "generated_at": "2026-04-06T11:11:18.187240",
   "stats": {
     "total": 160,
     "by_client": {
@@ -25,13 +25,13 @@
       "农夫山泉": 8
     },
     "by_quality": {
-      "B级-良好": 158,
-      "A级-优质": 2
+      "B级-良好": 132,
+      "A级-优质": 28
     }
   },
   "sample_ideas": [
     {
-      "id": "荣耀_20260403010948_1a2e6acf",
+      "id": "荣耀_20260406111118_352502fa",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -45,26 +45,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《从创意角度解读荣耀手机如何借势OpenAI完成1220亿美元融资 估值》",
+      "title": "《荣耀手机借势小米SU7交付破10万 雷军发文感谢车主的创意玩法》",
       "platform": "B站",
       "angle": "创意借势",
-      "hot_topic": "OpenAI完成1220亿美元融资 估值达8520亿美元",
-      "hot_topic_id": "ht_1",
+      "hot_topic": "小米SU7交付破10万 雷军发文感谢车主",
+      "hot_topic_id": "ht_202604060938_002",
       "heat": "热搜第一",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀手机",
       "keywords": [
-        "OpenAI",
-        "融资",
-        "AI",
-        "硅谷",
-        "人工智能"
+        "小米",
+        "SU7",
+        "交付",
+        "雷军",
+        "汽车"
       ],
-      "quality_score": 0.698,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "56376+",
+      "engagement_estimate": "70611+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.892913",
+      "created_at": "2026-04-06T11:11:18.177686",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -76,7 +76,7 @@
       }
     },
     {
-      "id": "荣耀_20260403010948_0c9ef24e",
+      "id": "荣耀_20260406111118_798db8b9",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -90,26 +90,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《从创意角度解读荣耀平板如何借势SpaceX秘密提交IPO申请 马斯克太》",
+      "title": "《小米SU7交付破10万 雷军发文感谢车主趋势下荣耀平板的机会》",
       "platform": "B站",
-      "angle": "创意借势",
-      "hot_topic": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
-      "hot_topic_id": "ht_7",
-      "heat": "热搜前三",
+      "angle": "趋势分析",
+      "hot_topic": "小米SU7交付破10万 雷军发文感谢车主",
+      "hot_topic_id": "ht_202604060938_002",
+      "heat": "热搜第一",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀平板",
       "keywords": [
-        "SpaceX",
-        "IPO",
-        "马斯克",
-        "太空探索",
-        "航天"
+        "小米",
+        "SU7",
+        "交付",
+        "雷军",
+        "汽车"
       ],
-      "quality_score": 0.694,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "49584+",
+      "engagement_estimate": "70611+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.893989",
+      "created_at": "2026-04-06T11:11:18.177729",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -121,7 +121,7 @@
       }
     },
     {
-      "id": "荣耀_20260403010948_3a640b8f",
+      "id": "荣耀_20260406111118_1622da05",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -135,26 +135,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《深度分析SpaceX秘密提交IPO申请 马斯克太对3C数码的影响及荣耀手表的机遇》",
+      "title": "《从创意角度解读荣耀手表如何借势AI Agent爆发元年 智能体成科技圈》",
       "platform": "B站",
-      "angle": "趋势分析",
-      "hot_topic": "SpaceX秘密提交IPO申请 马斯克太空事业迎新里程碑",
-      "hot_topic_id": "ht_7",
-      "heat": "热搜前三",
+      "angle": "创意借势",
+      "hot_topic": "AI Agent爆发元年 智能体成科技圈新宠",
+      "hot_topic_id": "ht_202604060938_004",
+      "heat": "热搜第一",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀手表",
       "keywords": [
-        "SpaceX",
-        "IPO",
-        "马斯克",
-        "太空探索",
-        "航天"
+        "AI",
+        "Agent",
+        "智能体",
+        "科技",
+        "人工智能"
       ],
-      "quality_score": 0.694,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "49584+",
+      "engagement_estimate": "67492+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.894259",
+      "created_at": "2026-04-06T11:11:18.177762",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": "荣耀_20260403010948_bee89c8b",
+      "id": "荣耀_20260406111118_be492cf3",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -180,26 +180,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《从创意角度解读荣耀折叠屏如何借势AI生成内容监管新规出台 平台责任明确》",
+      "title": "《深度分析AI Agent爆发元年 智能体成科技圈对3C数码的影响及荣耀折叠屏的机遇》",
       "platform": "B站",
-      "angle": "创意借势",
-      "hot_topic": "AI生成内容监管新规出台 平台责任明确",
-      "hot_topic_id": "ht_8",
-      "heat": "热搜前三",
-      "trend": "🔥🔥 快速上升",
+      "angle": "趋势分析",
+      "hot_topic": "AI Agent爆发元年 智能体成科技圈新宠",
+      "hot_topic_id": "ht_202604060938_004",
+      "heat": "热搜第一",
+      "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀折叠屏",
       "keywords": [
         "AI",
-        "AIGC",
-        "监管",
-        "内容",
-        "法规"
+        "Agent",
+        "智能体",
+        "科技",
+        "人工智能"
       ],
-      "quality_score": 0.721,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "47008+",
+      "engagement_estimate": "67492+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.894529",
+      "created_at": "2026-04-06T11:11:18.177787",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -211,7 +211,7 @@
       }
     },
     {
-      "id": "荣耀_20260403010948_18661ba2",
+      "id": "荣耀_20260406111118_613be63d",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -225,26 +225,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《从创意角度解读荣耀笔记本如何借势OpenAI宣布放弃视频生成工具Sora》",
+      "title": "《赵心童夺斯诺克巡回锦标赛冠军 中国选手再激情时刻，荣耀笔记本与你同在》",
       "platform": "B站",
-      "angle": "创意借势",
-      "hot_topic": "OpenAI宣布放弃视频生成工具Sora 成本过高成主因",
-      "hot_topic_id": "ht_11",
-      "heat": "热搜前三",
-      "trend": "🔥🔥 快速上升",
+      "angle": "激情时刻",
+      "hot_topic": "赵心童夺斯诺克巡回锦标赛冠军 中国选手再创历史",
+      "hot_topic_id": "ht_202604060938_005",
+      "heat": "热搜第一",
+      "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀笔记本",
       "keywords": [
-        "OpenAI",
-        "Sora",
-        "视频生成",
-        "AI工具",
-        "成本"
+        "赵心童",
+        "斯诺克",
+        "冠军",
+        "体育",
+        "中国"
       ],
-      "quality_score": 0.699,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "44437+",
+      "engagement_estimate": "66357+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.895054",
+      "created_at": "2026-04-06T11:11:18.177811",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -256,7 +256,7 @@
       }
     },
     {
-      "id": "荣耀_20260403010948_25e98004",
+      "id": "荣耀_20260406111118_daa27e0c",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -270,26 +270,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《深度分析OpenAI宣布放弃视频生成工具Sora对3C数码的影响及荣耀耳机的机遇》",
+      "title": "《赵心童夺斯诺克巡回锦标赛冠军 中国选手再启示：荣耀耳机助力运动生活》",
       "platform": "B站",
-      "angle": "趋势分析",
-      "hot_topic": "OpenAI宣布放弃视频生成工具Sora 成本过高成主因",
-      "hot_topic_id": "ht_11",
-      "heat": "热搜前三",
-      "trend": "🔥🔥 快速上升",
+      "angle": "运动生活",
+      "hot_topic": "赵心童夺斯诺克巡回锦标赛冠军 中国选手再创历史",
+      "hot_topic_id": "ht_202604060938_005",
+      "heat": "热搜第一",
+      "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀耳机",
       "keywords": [
-        "OpenAI",
-        "Sora",
-        "视频生成",
-        "AI工具",
-        "成本"
+        "赵心童",
+        "斯诺克",
+        "冠军",
+        "体育",
+        "中国"
       ],
-      "quality_score": 0.699,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "44437+",
+      "engagement_estimate": "66357+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.895325",
+      "created_at": "2026-04-06T11:11:18.177832",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -301,7 +301,7 @@
       }
     },
     {
-      "id": "荣耀_20260403010948_e925ad7e",
+      "id": "荣耀_20260406111118_13d04bd9",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -315,25 +315,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《从创意角度解读荣耀智慧屏如何借势中国空间站完成新一轮太空实验 航天员创造》",
+      "title": "《荣耀智慧屏借势黑神话悟空DLC开发进度曝光 新Boss的创意玩法》",
       "platform": "B站",
       "angle": "创意借势",
-      "hot_topic": "中国空间站完成新一轮太空实验 航天员创造新纪录",
-      "hot_topic_id": "ht_19",
-      "heat": "热搜前十",
+      "hot_topic": "黑神话悟空DLC开发进度曝光 新Boss设计引热议",
+      "hot_topic_id": "ht_202604060938_007",
+      "heat": "热搜第一",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀智慧屏",
       "keywords": [
-        "空间站",
-        "航天员",
-        "太空实验",
-        "中国航天"
+        "黑神话",
+        "悟空",
+        "DLC",
+        "游戏",
+        "国产"
       ],
-      "quality_score": 0.692,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "36657+",
+      "engagement_estimate": "64939+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.895598",
+      "created_at": "2026-04-06T11:11:18.177859",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -345,7 +346,7 @@
       }
     },
     {
-      "id": "荣耀_20260403010948_55d6d5dc",
+      "id": "荣耀_20260406111118_28ce50ac",
       "client": {
         "brand": "荣耀",
         "industry": "3C数码",
@@ -359,25 +360,26 @@
           "荣耀智慧屏"
         ]
       },
-      "title": "《深度分析中国空间站完成新一轮太空实验 航天员创造对3C数码的影响及荣耀手机的机遇》",
+      "title": "《黑神话悟空DLC开发进度曝光 新Boss趋势下荣耀手机的机会》",
       "platform": "B站",
       "angle": "趋势分析",
-      "hot_topic": "中国空间站完成新一轮太空实验 航天员创造新纪录",
-      "hot_topic_id": "ht_19",
-      "heat": "热搜前十",
+      "hot_topic": "黑神话悟空DLC开发进度曝光 新Boss设计引热议",
+      "hot_topic_id": "ht_202604060938_007",
+      "heat": "热搜第一",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "荣耀手机",
       "keywords": [
-        "空间站",
-        "航天员",
-        "太空实验",
-        "中国航天"
+        "黑神话",
+        "悟空",
+        "DLC",
+        "游戏",
+        "国产"
       ],
-      "quality_score": 0.692,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "36657+",
+      "engagement_estimate": "64939+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.895869",
+      "created_at": "2026-04-06T11:11:18.177880",
       "profile_tags": {
         "tone": "科技感",
         "target": "年轻科技爱好者",
@@ -389,7 +391,7 @@
       }
     },
     {
-      "id": "罗技_20260403010948_6dec6820",
+      "id": "罗技_20260406111118_15189c91",
       "client": {
         "brand": "罗技",
         "industry": "3C数码",
@@ -403,26 +405,26 @@
           "罗技会议设备"
         ]
       },
-      "title": "《从创意角度解读罗技鼠标如何借势Anthropic意外泄露51万行核心代》",
+      "title": "《罗技鼠标借势小米SU7交付破10万 雷军发文感谢车主的创意玩法》",
       "platform": "B站",
       "angle": "创意借势",
-      "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
-      "hot_topic_id": "ht_3",
+      "hot_topic": "小米SU7交付破10万 雷军发文感谢车主",
+      "hot_topic_id": "ht_202604060938_002",
       "heat": "热搜第一",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "罗技鼠标",
       "keywords": [
-        "Anthropic",
-        "代码泄露",
-        "AI安全",
-        "Claude",
-        "网络安全"
+        "小米",
+        "SU7",
+        "交付",
+        "雷军",
+        "汽车"
       ],
-      "quality_score": 0.696,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "48881+",
+      "engagement_estimate": "64192+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.896207",
+      "created_at": "2026-04-06T11:11:18.177920",
       "profile_tags": {
         "tone": "专业",
         "target": "办公/游戏人群",
@@ -434,7 +436,7 @@
       }
     },
     {
-      "id": "罗技_20260403010948_e506a762",
+      "id": "罗技_20260406111118_bb91c384",
       "client": {
         "brand": "罗技",
         "industry": "3C数码",
@@ -448,26 +450,26 @@
           "罗技会议设备"
         ]
       },
-      "title": "《深度分析Anthropic意外泄露51万行核心代对3C数码的影响及罗技键盘的机遇》",
+      "title": "《小米SU7交付破10万 雷军发文感谢车主趋势下罗技键盘的机会》",
       "platform": "B站",
       "angle": "趋势分析",
-      "hot_topic": "Anthropic意外泄露51万行核心代码 引发AI安全担忧",
-      "hot_topic_id": "ht_3",
+      "hot_topic": "小米SU7交付破10万 雷军发文感谢车主",
+      "hot_topic_id": "ht_202604060938_002",
       "heat": "热搜第一",
       "trend": "🔥🔥🔥 爆发式增长",
       "product": "罗技键盘",
       "keywords": [
-        "Anthropic",
-        "代码泄露",
-        "AI安全",
-        "Claude",
-        "网络安全"
+        "小米",
+        "SU7",
+        "交付",
+        "雷军",
+        "汽车"
       ],
-      "quality_score": 0.696,
+      "quality_score": 0.789,
       "quality_level": "B级-良好",
-      "engagement_estimate": "48881+",
+      "engagement_estimate": "64192+",
       "status": "pending",
-      "created_at": "2026-04-03T01:09:48.896476",
+      "created_at": "2026-04-06T11:11:18.177941",
       "profile_tags": {
         "tone": "专业",
         "target": "办公/游戏人群",
@@ -479,5 +481,5 @@
       }
     }
   ],
-  "hot_topics_used": 35
+  "hot_topics_used": 22
 }
