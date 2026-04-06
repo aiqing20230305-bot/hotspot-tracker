@@ -1,5 +1,1865 @@
 [
   {
+    "id": "exp_T07404_1701",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "荣耀手机 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "荣耀",
+      "手机",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为荣耀手机策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1702",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "荣耀平板 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "荣耀",
+      "平板",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为荣耀平板策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1703",
+    "client": {
+      "brand": "荣耀",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "荣耀笔记本 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "笔记本",
+    "keywords": [
+      "荣耀",
+      "笔记本",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为荣耀笔记本策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1704",
+    "client": {
+      "brand": "罗技",
+      "industry": "消费电子",
+      "products": [
+        "键盘"
+      ]
+    },
+    "title": "罗技键盘 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "键盘",
+    "keywords": [
+      "罗技",
+      "键盘",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为罗技键盘策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1705",
+    "client": {
+      "brand": "罗技",
+      "industry": "消费电子",
+      "products": [
+        "鼠标"
+      ]
+    },
+    "title": "罗技鼠标 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "鼠标",
+    "keywords": [
+      "罗技",
+      "鼠标",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为罗技鼠标策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1706",
+    "client": {
+      "brand": "罗技",
+      "industry": "消费电子",
+      "products": [
+        "耳机"
+      ]
+    },
+    "title": "罗技耳机 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "耳机",
+    "keywords": [
+      "罗技",
+      "耳机",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为罗技耳机策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1707",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "手机"
+      ]
+    },
+    "title": "小米手机 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "手机",
+    "keywords": [
+      "小米",
+      "手机",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为小米手机策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1708",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "平板"
+      ]
+    },
+    "title": "小米平板 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "平板",
+    "keywords": [
+      "小米",
+      "平板",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为小米平板策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1709",
+    "client": {
+      "brand": "小米",
+      "industry": "消费电子",
+      "products": [
+        "笔记本"
+      ]
+    },
+    "title": "小米笔记本 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "笔记本",
+    "keywords": [
+      "小米",
+      "笔记本",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为小米笔记本策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1710",
+    "client": {
+      "brand": "索尼",
+      "industry": "消费电子",
+      "products": [
+        "耳机"
+      ]
+    },
+    "title": "索尼耳机 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "耳机",
+    "keywords": [
+      "索尼",
+      "耳机",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为索尼耳机策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1711",
+    "client": {
+      "brand": "索尼",
+      "industry": "消费电子",
+      "products": [
+        "相机"
+      ]
+    },
+    "title": "索尼相机 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "相机",
+    "keywords": [
+      "索尼",
+      "相机",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为索尼相机策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1712",
+    "client": {
+      "brand": "索尼",
+      "industry": "消费电子",
+      "products": [
+        "电视"
+      ]
+    },
+    "title": "索尼电视 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "电视",
+    "keywords": [
+      "索尼",
+      "电视",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为索尼电视策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1713",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "面膜"
+      ]
+    },
+    "title": "AHC面膜 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "面膜",
+    "keywords": [
+      "AHC",
+      "面膜",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为AHC面膜策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1714",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "精华"
+      ]
+    },
+    "title": "AHC精华 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "精华",
+    "keywords": [
+      "AHC",
+      "精华",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "104万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为AHC精华策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1715",
+    "client": {
+      "brand": "AHC",
+      "industry": "美妆",
+      "products": [
+        "水乳"
+      ]
+    },
+    "title": "AHC水乳 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "水乳",
+    "keywords": [
+      "AHC",
+      "水乳",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "105万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为AHC水乳策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1716",
+    "client": {
+      "brand": "多芬",
+      "industry": "美妆",
+      "products": [
+        "沐浴露"
+      ]
+    },
+    "title": "多芬沐浴露 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "沐浴露",
+    "keywords": [
+      "多芬",
+      "沐浴露",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为多芬沐浴露策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1717",
+    "client": {
+      "brand": "多芬",
+      "industry": "美妆",
+      "products": [
+        "香皂"
+      ]
+    },
+    "title": "多芬香皂 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "香皂",
+    "keywords": [
+      "多芬",
+      "香皂",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "107万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为多芬香皂策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1718",
+    "client": {
+      "brand": "多芬",
+      "industry": "美妆",
+      "products": [
+        "身体乳"
+      ]
+    },
+    "title": "多芬身体乳 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "身体乳",
+    "keywords": [
+      "多芬",
+      "身体乳",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "108万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为多芬身体乳策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1719",
+    "client": {
+      "brand": "力士",
+      "industry": "美妆",
+      "products": [
+        "洗发水"
+      ]
+    },
+    "title": "力士洗发水 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "洗发水",
+    "keywords": [
+      "力士",
+      "洗发水",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "109万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为力士洗发水策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1720",
+    "client": {
+      "brand": "力士",
+      "industry": "美妆",
+      "products": [
+        "护发素"
+      ]
+    },
+    "title": "力士护发素 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "护发素",
+    "keywords": [
+      "力士",
+      "护发素",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "90万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为力士护发素策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1721",
+    "client": {
+      "brand": "力士",
+      "industry": "美妆",
+      "products": [
+        "发膜"
+      ]
+    },
+    "title": "力士发膜 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "发膜",
+    "keywords": [
+      "力士",
+      "发膜",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为力士发膜策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1722",
+    "client": {
+      "brand": "清扬",
+      "industry": "美妆",
+      "products": [
+        "洗发水"
+      ]
+    },
+    "title": "清扬洗发水 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "洗发水",
+    "keywords": [
+      "清扬",
+      "洗发水",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为清扬洗发水策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1723",
+    "client": {
+      "brand": "清扬",
+      "industry": "美妆",
+      "products": [
+        "护发"
+      ]
+    },
+    "title": "清扬护发 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "护发",
+    "keywords": [
+      "清扬",
+      "护发",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为清扬护发策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1724",
+    "client": {
+      "brand": "清扬",
+      "industry": "美妆",
+      "products": [
+        "洗发水"
+      ]
+    },
+    "title": "清扬洗发水 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "洗发水",
+    "keywords": [
+      "清扬",
+      "洗发水",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为清扬洗发水策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1725",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "精华"
+      ]
+    },
+    "title": "玉兰油精华 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "精华",
+    "keywords": [
+      "玉兰油",
+      "精华",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为玉兰油精华策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1726",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "面霜"
+      ]
+    },
+    "title": "玉兰油面霜 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "面霜",
+    "keywords": [
+      "玉兰油",
+      "面霜",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为玉兰油面霜策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1727",
+    "client": {
+      "brand": "玉兰油",
+      "industry": "美妆",
+      "products": [
+        "防晒"
+      ]
+    },
+    "title": "玉兰油防晒 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "防晒",
+    "keywords": [
+      "玉兰油",
+      "防晒",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为玉兰油防晒策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1728",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "蛋白粉"
+      ]
+    },
+    "title": "汤臣倍健蛋白粉 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "蛋白粉",
+    "keywords": [
+      "汤臣倍健",
+      "蛋白粉",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为汤臣倍健蛋白粉策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1729",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "维生素"
+      ]
+    },
+    "title": "汤臣倍健维生素 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "维生素",
+    "keywords": [
+      "汤臣倍健",
+      "维生素",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为汤臣倍健维生素策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1730",
+    "client": {
+      "brand": "汤臣倍健",
+      "industry": "保健品",
+      "products": [
+        "护肝片"
+      ]
+    },
+    "title": "汤臣倍健护肝片 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "护肝片",
+    "keywords": [
+      "汤臣倍健",
+      "护肝片",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为汤臣倍健护肝片策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1731",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "维生素"
+      ]
+    },
+    "title": "善存维生素 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "维生素",
+    "keywords": [
+      "善存",
+      "维生素",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为善存维生素策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1732",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "复合维生素"
+      ]
+    },
+    "title": "善存复合维生素 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "复合维生素",
+    "keywords": [
+      "善存",
+      "复合维生素",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为善存复合维生素策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1733",
+    "client": {
+      "brand": "善存",
+      "industry": "保健品",
+      "products": [
+        "钙片"
+      ]
+    },
+    "title": "善存钙片 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "钙片",
+    "keywords": [
+      "善存",
+      "钙片",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为善存钙片策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1734",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆",
+      "products": [
+        "美容仪"
+      ]
+    },
+    "title": "HC美容仪 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "美容仪",
+    "keywords": [
+      "HC",
+      "美容仪",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "104万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为HC美容仪策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1735",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆",
+      "products": [
+        "美容家电"
+      ]
+    },
+    "title": "HC美容家电 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "美容家电",
+    "keywords": [
+      "HC",
+      "美容家电",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "105万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为HC美容家电策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1736",
+    "client": {
+      "brand": "HC",
+      "industry": "美妆",
+      "products": [
+        "美容仪"
+      ]
+    },
+    "title": "HC美容仪 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "美容仪",
+    "keywords": [
+      "HC",
+      "美容仪",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为HC美容仪策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1737",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居",
+      "products": [
+        "清洁剂"
+      ]
+    },
+    "title": "威猛先生清洁剂 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "清洁剂",
+    "keywords": [
+      "威猛先生",
+      "清洁剂",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "107万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为威猛先生清洁剂策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1738",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居",
+      "products": [
+        "厨房清洁"
+      ]
+    },
+    "title": "威猛先生厨房清洁 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "厨房清洁",
+    "keywords": [
+      "威猛先生",
+      "厨房清洁",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "108万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为威猛先生厨房清洁策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1739",
+    "client": {
+      "brand": "威猛先生",
+      "industry": "家居",
+      "products": [
+        "管道清洁"
+      ]
+    },
+    "title": "威猛先生管道清洁 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "管道清洁",
+    "keywords": [
+      "威猛先生",
+      "管道清洁",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "109万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为威猛先生管道清洁策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1740",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护",
+      "products": [
+        "牙刷"
+      ]
+    },
+    "title": "舒适牙刷 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "牙刷",
+    "keywords": [
+      "舒适",
+      "牙刷",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "90万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为舒适牙刷策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1741",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护",
+      "products": [
+        "牙膏"
+      ]
+    },
+    "title": "舒适牙膏 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "牙膏",
+    "keywords": [
+      "舒适",
+      "牙膏",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "91万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为舒适牙膏策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1742",
+    "client": {
+      "brand": "舒适",
+      "industry": "个护",
+      "products": [
+        "漱口水"
+      ]
+    },
+    "title": "舒适漱口水 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "漱口水",
+    "keywords": [
+      "舒适",
+      "漱口水",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "92万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为舒适漱口水策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1743",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物",
+      "products": [
+        "宠物食品"
+      ]
+    },
+    "title": "希宝宠物食品 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "宠物食品",
+    "keywords": [
+      "希宝",
+      "宠物食品",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "93万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为希宝宠物食品策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1744",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物",
+      "products": [
+        "猫粮"
+      ]
+    },
+    "title": "希宝猫粮 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "猫粮",
+    "keywords": [
+      "希宝",
+      "猫粮",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "94万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为希宝猫粮策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1745",
+    "client": {
+      "brand": "希宝",
+      "industry": "宠物",
+      "products": [
+        "狗粮"
+      ]
+    },
+    "title": "希宝狗粮 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "狗粮",
+    "keywords": [
+      "希宝",
+      "狗粮",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "95万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为希宝狗粮策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1746",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "宠物食品"
+      ]
+    },
+    "title": "皇家宠物食品 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "宠物食品",
+    "keywords": [
+      "皇家",
+      "宠物食品",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "96万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为皇家宠物食品策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1747",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "猫粮"
+      ]
+    },
+    "title": "皇家猫粮 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "猫粮",
+    "keywords": [
+      "皇家",
+      "猫粮",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "97万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为皇家猫粮策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1748",
+    "client": {
+      "brand": "皇家",
+      "industry": "宠物",
+      "products": [
+        "狗粮"
+      ]
+    },
+    "title": "皇家狗粮 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "狗粮",
+    "keywords": [
+      "皇家",
+      "狗粮",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "98万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为皇家狗粮策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1749",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦奶"
+      ]
+    },
+    "title": "OATLY燕麦奶 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "燕麦奶",
+    "keywords": [
+      "OATLY",
+      "燕麦奶",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "99万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为OATLY燕麦奶策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1750",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "咖啡伴侣"
+      ]
+    },
+    "title": "OATLY咖啡伴侣 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "咖啡伴侣",
+    "keywords": [
+      "OATLY",
+      "咖啡伴侣",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "100万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为OATLY咖啡伴侣策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1751",
+    "client": {
+      "brand": "OATLY",
+      "industry": "饮料",
+      "products": [
+        "燕麦基"
+      ]
+    },
+    "title": "OATLY燕麦基 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "燕麦基",
+    "keywords": [
+      "OATLY",
+      "燕麦基",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "101万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为OATLY燕麦基策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1752",
+    "client": {
+      "brand": "百威",
+      "industry": "饮料",
+      "products": [
+        "啤酒"
+      ]
+    },
+    "title": "百威啤酒 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "啤酒",
+    "keywords": [
+      "百威",
+      "啤酒",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "102万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为百威啤酒策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1753",
+    "client": {
+      "brand": "百威",
+      "industry": "饮料",
+      "products": [
+        "果酒"
+      ]
+    },
+    "title": "百威果酒 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "果酒",
+    "keywords": [
+      "百威",
+      "果酒",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "103万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为百威果酒策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1754",
+    "client": {
+      "brand": "百威",
+      "industry": "饮料",
+      "products": [
+        "啤酒"
+      ]
+    },
+    "title": "百威啤酒 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "啤酒",
+    "keywords": [
+      "百威",
+      "啤酒",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "104万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为百威啤酒策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1755",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "元气森林气泡水 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "气泡水",
+    "keywords": [
+      "元气森林",
+      "气泡水",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "105万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为元气森林气泡水策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1756",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "乳茶"
+      ]
+    },
+    "title": "元气森林乳茶 | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "乳茶",
+    "keywords": [
+      "元气森林",
+      "乳茶",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "106万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为元气森林乳茶策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1757",
+    "client": {
+      "brand": "元气森林",
+      "industry": "饮料",
+      "products": [
+        "茶饮"
+      ]
+    },
+    "title": "元气森林茶饮 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "茶饮",
+    "keywords": [
+      "元气森林",
+      "茶饮",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "107万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为元气森林茶饮策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1758",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "矿泉水"
+      ]
+    },
+    "title": "农夫山泉矿泉水 | 春季过敏高发期热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "情感共鸣",
+    "hot_topic": "春季过敏高发期 过敏性鼻炎患者激增",
+    "hot_topic_type": "大健康热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "矿泉水",
+    "keywords": [
+      "农夫山泉",
+      "矿泉水",
+      "春季过敏",
+      "鼻炎",
+      "健康"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "108万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合大健康热点「春季过敏高发期 过敏性鼻炎患者激增」，为农夫山泉矿泉水策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1759",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "茶π"
+      ]
+    },
+    "title": "农夫山泉茶π | 早餐界新黑马热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "功能种草",
+    "hot_topic": "早餐界新黑马 隔夜燕麦杯成上班族首选",
+    "hot_topic_type": "美食热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 持续上升",
+    "product": "茶π",
+    "keywords": [
+      "农夫山泉",
+      "茶π",
+      "燕麦",
+      "早餐",
+      "快手"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "109万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合美食热点「早餐界新黑马 隔夜燕麦杯成上班族首选」，为农夫山泉茶π策划借势内容。"
+  },
+  {
+    "id": "exp_T07404_1760",
+    "client": {
+      "brand": "农夫山泉",
+      "industry": "饮料",
+      "products": [
+        "气泡水"
+      ]
+    },
+    "title": "农夫山泉气泡水 | 手机折叠屏新形态热点借势",
+    "platform": "微博/抖音/小红书",
+    "angle": "场景营销",
+    "hot_topic": "手机折叠屏新形态 轻薄化成为主流趋势",
+    "hot_topic_type": "科技热点",
+    "heat": "4.8亿",
+    "trend": "🔥🔥 爆发式增长",
+    "product": "气泡水",
+    "keywords": [
+      "农夫山泉",
+      "气泡水",
+      "折叠屏",
+      "手机",
+      "轻薄"
+    ],
+    "quality_score": 0.88,
+    "quality_level": "A级-优质",
+    "engagement_estimate": "90万+",
+    "status": "pending",
+    "created_at": "2026-04-07T07:40:42",
+    "content": "结合科技热点「手机折叠屏新形态 轻薄化成为主流趋势」，为农夫山泉气泡水策划借势内容。"
+  },
+  {
     "id": "exp_202604070635_1575",
     "client": {
       "brand": "荣耀",
